@@ -2,14 +2,16 @@ project:
   type: website
 
 website:
-  title: "personal"
+  title: "Lucas Leme"
   navbar:
     right:
       - about.qmd
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/lucas-leme-santos/
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        text: Github
+        href: https://github.com/lucas-leme
 format:
   html:
     theme: materia
