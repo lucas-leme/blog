@@ -12,8 +12,9 @@ website:
         href: https://twitter.com
 format:
   html:
-    theme: journal
+    theme: materia
     css: styles.css
+    mainfont: Montserrat
 
 execute:
   freeze: auto
