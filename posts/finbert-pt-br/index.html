@@ -32,6 +32,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<link href="../../data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURQAAAP///wAAAMbGxv///yH5BAEAAAAALAAAAAABAAIAAAICBAEAOw==" rel="icon">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -147,7 +148,11 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Training LLM to analyze the Brazilian financial news.</p>
 <p>This post was automatically generated using <a href="https://app.hypotenuse.ai">Hypotenuse AI</a>, based on my publication <a href="https://sol.sbc.org.br/index.php/bwaif/article/view/24960">FinBERT-PT-BR: Análise de Sentimentos de Textos em Português do Mercado Financeiro</a>.</p>
-<p>Hey there, have you ever wondered if you could predict the ups and downs of the stock market? Using FinBERT, an AI model trained on financial news in Portuguese, you absolutely can. FinBERT analyzes thousands of news articles and social media posts to determine the overall sentiment of investors in Brazil’s stock market. If FinBERT detects an increase in positive sentiment, it’s likely stock prices will rise. A swing towards more negative sentiment suggests a downturn may be on the horizon. By tracking these sentiment shifts, FinBERT can identify trends in the market and even predict changes before they happen. In this article, we’ll explore how FinBERT works, see examples of its accuracy, and discuss how similar AI could be applied to stock markets around the world. If you’re an investor looking for an edge, sentiment analysis with neural networks may be the insight you’ve been searching for. Ready to take a peek inside the minds of investors? Let’s dive in.</p>
+<p>Hey there, have you ever wondered if you could predict the ups and downs of the stock market?</p>
+<p>Using FinBERT, an AI model trained on financial news in Portuguese, you absolutely can.</p>
+<p>FinBERT analyzes thousands of news articles and social media posts to determine the overall sentiment of investors in Brazil’s stock market. If FinBERT detects an increase in positive sentiment, it’s likely stock prices will rise. A swing towards more negative sentiment suggests a downturn may be on the horizon. By tracking these sentiment shifts, FinBERT can identify trends in the market and even predict changes before they happen.</p>
+<p>In this article, we’ll explore how FinBERT works, see examples of its accuracy, and discuss how similar AI could be applied to stock markets around the world. If you’re an investor looking for an edge, sentiment analysis with neural networks may be the insight you’ve been searching for.</p>
+<p>Ready to take a peek inside the minds of investors? Let’s dive in.</p>
 <section id="understanding-sentiment-analysis-in-finance" class="level2">
 <h2 class="anchored" data-anchor-id="understanding-sentiment-analysis-in-finance">Understanding Sentiment Analysis in Finance</h2>
 <section id="understanding-sentiment-analysis-in-finance-1" class="level3">
@@ -176,8 +181,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="training-finbert-pt-br-on-a-massive-dataset-of-financial-news" class="level2">
 <h2 class="anchored" data-anchor-id="training-finbert-pt-br-on-a-massive-dataset-of-financial-news">Training FinBERT-PT-BR on a Massive Dataset of Financial News</h2>
-<p>To train FinBERT-PT-BR, we gathered a massive dataset of 1.4 million financial news articles published between 2006 to 2021 from Valor Econômico, Exame and InfoMoney, totaling 130 million words.</p>
-<p>After collecting the texts, we cleaned the data by removing HTML tags, uncommon symbols and punctuation, and performed spell checking. We then segmented the texts into sentences to obtain a total of 2.7 million sentences.</p>
+<p>To train FinBERT-PT-BR, we gathered a massive dataset of 2.7 million financial news articles published between 2006 to 2021 from Valor Econômico, Exame and InfoMoney, totaling 130 million words.</p>
+<p>After collecting the texts, we cleaned the data by removing HTML tags, uncommon symbols and punctuation, and performed spell checking. We then segmented the texts into sentences to obtain a total of 1.4 million sentences.</p>
 <section id="pre-training-finbert-pt-br" class="level3">
 <h3 class="anchored" data-anchor-id="pre-training-finbert-pt-br">Pre-training FinBERT-PT-BR</h3>
 <p>We used BERTimbau, a BERT model pretrained on Brazilian Portuguese data, to initialize FinBERT-PT-BR. We then fine-tuned BERTimbau on our dataset of financial news articles through self-supervised tasks like masked language modeling and next sentence prediction.</p>
@@ -194,9 +199,30 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="evaluating-model-performance-against-other-state-of-the-art-methods">Evaluating Model Performance Against Other State-of-the-Art Methods</h2>
 <p>Evaluating how well your model performs is key to understanding its effectiveness and limitations. There are a few ways to measure this for sentiment analysis models.</p>
 <p>Accuracy and F1 score are two of the most common metrics used. Accuracy measures how often the model correctly predicts the sentiment label, while the F1 score considers both precision (how often the model is correct when it predicts a certain label) and recall (how often the model predicts the correct label). For sentiment analysis, F1 scores for each label (positive, negative and neutral) are often reported.</p>
-<p>The FinBERT-PT-BR model showed strong performance on these metrics compared to other state-of-the-art models. It achieved an accuracy of 0.76 and F1 scores of 0.73, 0.74 and 0.77 for positive, negative and neutral sentiment respectively. These scores demonstrate the model is quite adept at predicting sentiment for financial news articles.</p>
+<p>The FinBERT-PT-BR model showed strong performance on these metrics compared to other state-of-the-art models. It achieved an accuracy of 0.76 and F1 scores of 0.73. These scores demonstrate the model is quite adept at predicting sentiment for financial news articles.</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Model</th>
+<th>Accuracy</th>
+<th>F1-Score</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>FinBERT-PT-BR</td>
+<td>0.76</td>
+<td>0.73</td>
+</tr>
+<tr class="even">
+<td>BERTimbau</td>
+<td>0.67</td>
+<td>0.63</td>
+</tr>
+</tbody>
+</table>
 <p>Another way to evaluate the model is to look at specific examples it analyzed to get a qualitative sense of its performance. For example, the model correctly predicted positive sentiment for news articles announcing interest rate cuts, new investments in the economy and rising stock prices. It identified negative sentiment for news covering increasing unemployment, declining GDP and trade disputes.</p>
-<p>The model did struggle at times with longer, complex articles and those containing mixed sentiment or subtle sarcasm. Additional training data and adjustments to the model architecture could help address these limitations and further improve performance.</p>
+<p>The model did struggle at times with complex articles and with specific words like “abertura” (opening) and “fechamento” (closing) of interest rates.</p>
 <p>Overall though, the FinBERT-PT-BR model shows a lot of promise for analyzing sentiment in Portuguese financial news articles. With strong scores on key metrics and examples demonstrating logical predictions, this model could be useful for building sentiment indices, investment strategies and gaining insights from macroeconomic news. Continued development of the model and application to new data sets will help unlock even more potential.</p>
 </section>
 <section id="applications-of-finbert-pt-br-sentiment-indices-and-trading-strategies" class="level2">
@@ -205,7 +231,9 @@ ul.task-list li input[type="checkbox"] {
 <section id="sentiment-indices" class="level3">
 <h3 class="anchored" data-anchor-id="sentiment-indices">Sentiment Indices</h3>
 <p>FinBERT-PT-BR can be used to build broad market sentiment indices based on sentiment scores aggregated from many financial news articles. For example, a “bullish sentiment index” could track the percentage of positively-scored sentences in articles over time. If sentiment is largely optimistic, the index would increase, signaling a good time to invest. If pessimism reigns, the index may predict a market downturn.</p>
-<p>Stock-Specific Sentiment</p>
+</section>
+<section id="stock-specific-sentiment" class="level3">
+<h3 class="anchored" data-anchor-id="stock-specific-sentiment">Stock-Specific Sentiment</h3>
 <p>FinBERT-PT-BR also enables analysis of sentiment targeting specific stocks or companies. By extracting sentences mentioning a stock ticker or company name, FinBERT-PT-BR can gage sentiment surrounding that asset. Bullish sentiment could indicate a good buying opportunity or price increase, while bearish sentiment may foreshadow a price drop.</p>
 </section>
 <section id="trading-strategies" class="level3">
