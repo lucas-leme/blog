@@ -2,23 +2,51 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre",
     "section": "",
     "text": "Esse blog tem como objetivo compartilhar conhecimento sobre tecnologia, ciência de dados, finanças quantitativas e macroeconomia."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personal",
+    "title": "Lucas Leme",
     "section": "",
-    "text": "Home page for personal posts\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nteste\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Home page for personal posts\n\n\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nteste\n\n\n\n\n\n\n\n\n\n\n\nOct 17, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\n  \n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\n\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.\nNo mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado. Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).\nA correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.\nA quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#como-identificar-a-quebra-de-correlação",
+    "href": "posts/post-with-code/index.html#como-identificar-a-quebra-de-correlação",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
+    "section": "Como identificar a quebra de correlação?",
+    "text": "Como identificar a quebra de correlação?\nUma técnica útil para identificar essa quebra de correlação é o PCA. Que é uma técnica matemática que ajuda a simplificar e analisar grandes conjuntos de dados (redução de dimensionalidade). Ele encontra combinações de variáveis que não se correlacionam entre si, e é possível medir o quanto cada combinação de variáveis explica da variância dos dados originais.\nO primeiro componente principal é a combinação de variáveis que explica a maior parte da variância dos dados originais. Portanto, se a variância explicada do primeiro componente principal aumentar, isso significa que a correlação entre as variáveis originais aumentou. Ou seja, grande parte da variação dos dados pode ser explicada por uma única variável, portanto as variáveis estão apresentando um comportamento semelhante. Isso pode ser muito útil para detectar mudanças na relação entre ativos financeiros, especialmente em momentos de crise ou mudanças bruscas no mercado.\nTal técnica pode ser utilizada para estimar o aumento do risco sistêmico dos ativos. O risco sistêmico é o risco associado a eventos que afetam todo o sistema financeiro, ou seja, é um evento que explica o movimento de todos os ativos. Portanto, quando há um aumento significativo na variância explicada do primeiro componente do PCA, isso pode indicar um aumento no risco sistêmico."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#análise-de-quebra-de-correlação-na-bolsa-de-valores",
+    "href": "posts/post-with-code/index.html#análise-de-quebra-de-correlação-na-bolsa-de-valores",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
+    "section": "Análise de quebra de correlação na Bolsa de Valores",
+    "text": "Análise de quebra de correlação na Bolsa de Valores\nA seguir, analisaremos as quebras de correlação na Bolsa de Valores Brasileira. Para isso, utilizaremos os dados de fechamento dos ativos da B3, que estão disponíveis no Yahoo Finance. Os dados foram coletados de 01/01/2010 a 11/05/2023.\nA ideia desse estudo é analisar o comportamento da variância explicada pelo primeiro componente principal ao longo do tempo. Para isso, calcularemos a variância explicada da matriz de correlação dos retornos dos últimos 252 dias (um ano) e vamos visualizar a variância explicada ao longo do tempo.\n\n\n\nQuebra de Correlações - Ibovespa\n\n\nAnalisando o gráfico, destaca-se os 3 períodos em que a variância explicada do primeiro componente principal apresentou os maiores aumentos. Esses períodos são:\n\nAgosto de 2011: Redução da nota de crédito do EUA pela Standard & Poor’s;\nMaio de 2017: Joesley Day;\nMarço de 2020: Pandemia do COVID-19.\n\nAgosto de 2011: Redução da nota de crédito do EUA pela Standard & Poor’s\nA redução da nota de crédito do EUA pela Standard & Poor’s ocorreu em 5 de agosto de 2011. A agência de classificação de risco reduziu a nota de crédito do país de AAA para AA+, significando um maior risco. Visto que o EUA é a maior economia do mundo, essa redução de nota de crédito teve um impacto em cascata em todo o mundo, o que levou a uma queda nos mercados de acionários. Impactando também o mercado brasileiro, que teve uma queda de mais de 8% no Ibovespa.\nVisto que a redução da nota de crédito do EUA pela Standard & Poor’s foi um evento de risco sistêmico, todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou — todos foram precificados negativamente ao mesmo tempo.\nMaio de 2017: Joesley Day\nO Joesley Day ocorreu em 17 de maio de 2017. O evento foi marcado pela divulgação de áudios de compra de silêncio de políticos envolvendo o Presidente Michel Temer e o executivo Joesley Batista da JBS. Dado que o presidente da república estava relacionado com um possível caso de corrupção, sugiram diversas incertezas no mercado, o que levou a uma queda relevante no Ibovespa, aumentando novamente o risco sistêmico.\nMarço de 2020: Pandemia do COVID-19\nA pandemia do COVID-19 começou em dezembro de 2019, mas foi em março de 2020 que o vírus se espalhou pelo mundo, o que levou a uma crise sanitária e econômica. O mercado de ações foi fortemente afetado, com quedas de mais de 30% no Ibovespa. E dentre os fatos relevantes aqui apresentados, o risco sistêmico da pandemia do COVID-19 foi o mais relevante, visto que todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou e a maioria dos ativos apresentou o mesmo comportamento."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#conclusão",
+    "href": "posts/post-with-code/index.html#conclusão",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
+    "section": "Conclusão",
+    "text": "Conclusão\nA análise de quebra de correlação é uma ferramenta importante para identificar eventos de risco sistêmico, e é possível identificar a quebra de correlação por meio da variação da variância explicada do primeiro componente principal. Se a variância explicada do primeiro componente principal aumentar, isso significa que boa parte dos retornos dos ativos está sendo explicada por um único fator de risco, o que significa que a correlação entre os ativos aumentou.\nA seguir, no apêndice há uma explicação sobre o cálculo da variância explicada do PCA. E logo após, há uma seção de referências com as notícias sobre os eventos apontados no gráfico, e uma explicação gráfica sobre autovalores e autovetores."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#apêndice",
+    "href": "posts/post-with-code/index.html#apêndice",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
+    "section": "Apêndice",
+    "text": "Apêndice\nExplicação do cálculo da variância explicada.\nPara calcular a variância explicada pelo primeiro componente principal do PCA, é necessário obter os autovalores associados a matriz de correlações das variáveis, no caso apresentado no texto: os retornos dos ativos.\nimport numpy as np\n\n# Matriz de correlação\nmatriz = np.array([[1, 0.9],\n                   [0.9, 1]])\n\n# Calcula autovalores e autovetores\nautovalores, autovetores = np.linalg.eigh(matriz)\n# Ordena os autovalores e autovetores\nautovalores, autovetores  = autovalores[::-1], autovetores[:, ::-1]\n\n# Calcula a variância explicada\nvarianca_explicada = autovalores[0] / autovalores.sum()\nPara calcular a variância explicada pelo primeiro componente principal, basta obter o primeiro autovalor e dividir pela soma de todos os autovalores. Isso indica a proporção da variação dos dados explicada pelo primeiro componente principal.\nNo código fornecido, os autovalores são ordenados do maior para o menor. Para calcular a variância explicada pelo primeiro componente principal, basta dividir o primeiro autovalor pela soma de todos os autovalores.\nIsso retornará um valor entre 0 e 1, indicando a proporção da variação dos dados explicada pelo primeiro componente principal.\nNo caso de dois ativos com uma correlação de 0,9 a variância explicada é de 95%, quando reduzimos a correlação para 0,2 o valor é de 60%. Portanto, quanto maior a correlação maior a variância explicada, visto que com apenas um principal componente é possível explicar boa parte do comportamento dos dados"
   },
   {
     "objectID": "posts/welcome/index.html",

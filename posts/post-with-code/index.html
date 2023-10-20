@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Harlow Malloc">
-<meta name="dcterms.date" content="2023-10-20">
+<meta name="author" content="Lucas Leme Santos">
+<meta name="dcterms.date" content="2023-05-15">
 
-<title>personal - Post With Code</title>
+<title>personal - Como identificar quebra de correlações na Bolsa de Valores?</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,6 +22,69 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
 
@@ -83,7 +146,7 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../about.html">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/"><i class="bi bi-github" role="img">
@@ -105,11 +168,10 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Post With Code</h1>
+      <h1 class="title">Como identificar quebra de correlações na Bolsa de Valores?</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">news</div>
+                <div class="quarto-category">quant</div>
                 <div class="quarto-category">code</div>
-                <div class="quarto-category">analysis</div>
               </div>
                   </div>
   </div>
@@ -120,14 +182,14 @@ ul.task-list li input[type="checkbox"] {
       <div>
       <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
-               <p>Harlow Malloc </p>
+               <p>Lucas Leme Santos </p>
             </div>
     </div>
       
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">October 20, 2023</p>
+        <p class="date">May 15, 2023</p>
       </div>
     </div>
     
@@ -145,9 +207,69 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>This is a post with executable code.</p>
+<p>Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.</p>
+<p>No mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado. Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).</p>
+<p>A correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.</p>
+<p>A quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias.</p>
+<section id="como-identificar-a-quebra-de-correlação" class="level2">
+<h2 class="anchored" data-anchor-id="como-identificar-a-quebra-de-correlação">Como identificar a quebra de correlação?</h2>
+<p>Uma técnica útil para identificar essa quebra de correlação é o PCA. Que é uma técnica matemática que ajuda a simplificar e analisar grandes conjuntos de dados (redução de dimensionalidade). Ele encontra combinações de variáveis que não se correlacionam entre si, e é possível medir o quanto cada combinação de variáveis explica da variância dos dados originais.</p>
+<p>O primeiro componente principal é a combinação de variáveis que explica a maior parte da variância dos dados originais. Portanto, se a variância explicada do primeiro componente principal aumentar, isso significa que a correlação entre as variáveis originais aumentou. Ou seja, grande parte da variação dos dados pode ser explicada por uma única variável, portanto as variáveis estão apresentando um comportamento semelhante. Isso pode ser muito útil para detectar mudanças na relação entre ativos financeiros, especialmente em momentos de crise ou mudanças bruscas no mercado.</p>
+<p>Tal técnica pode ser utilizada para estimar o aumento do risco sistêmico dos ativos. O risco sistêmico é o risco associado a eventos que afetam todo o sistema financeiro, ou seja, é um evento que explica o movimento de todos os ativos. Portanto, quando há um aumento significativo na variância explicada do primeiro componente do PCA, isso pode indicar um aumento no risco sistêmico.</p>
+</section>
+<section id="análise-de-quebra-de-correlação-na-bolsa-de-valores" class="level2">
+<h2 class="anchored" data-anchor-id="análise-de-quebra-de-correlação-na-bolsa-de-valores">Análise de quebra de correlação na Bolsa de Valores</h2>
+<p>A seguir, analisaremos as quebras de correlação na Bolsa de Valores Brasileira. Para isso, utilizaremos os dados de fechamento dos ativos da B3, que estão disponíveis no Yahoo Finance. Os dados foram coletados de 01/01/2010 a 11/05/2023.</p>
+<p>A ideia desse estudo é analisar o comportamento da variância explicada pelo primeiro componente principal ao longo do tempo. Para isso, calcularemos a variância explicada da matriz de correlação dos retornos dos últimos 252 dias (um ano) e vamos visualizar a variância explicada ao longo do tempo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*eECyMXqFcew8q_F_riBhZw.png" class="img-fluid figure-img"></p>
+<p></p><figcaption class="figure-caption">Quebra de Correlações - Ibovespa</figcaption><p></p>
+</figure>
+</div>
+<p>Analisando o gráfico, destaca-se os 3 períodos em que a variância explicada do primeiro componente principal apresentou os maiores aumentos. Esses períodos são:</p>
+<ul>
+<li>Agosto de 2011: Redução da nota de crédito do EUA pela Standard &amp; Poor’s;</li>
+<li>Maio de 2017: Joesley Day;</li>
+<li>Março de 2020: Pandemia do COVID-19.</li>
+</ul>
+<p><strong>Agosto de 2011: Redução da nota de crédito do EUA pela Standard &amp; Poor’s</strong></p>
+<p>A redução da nota de crédito do EUA pela Standard &amp; Poor’s ocorreu em 5 de agosto de 2011. A agência de classificação de risco reduziu a nota de crédito do país de AAA para AA+, significando um maior risco. Visto que o EUA é a maior economia do mundo, essa redução de nota de crédito teve um impacto em cascata em todo o mundo, o que levou a uma queda nos mercados de acionários. Impactando também o mercado brasileiro, que teve uma queda de mais de 8% no Ibovespa.</p>
+<p>Visto que a redução da nota de crédito do EUA pela Standard &amp; Poor’s foi um evento de risco sistêmico, todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou — todos foram precificados negativamente ao mesmo tempo.</p>
+<p><strong>Maio de 2017: Joesley Day</strong></p>
+<p>O Joesley Day ocorreu em 17 de maio de 2017. O evento foi marcado pela divulgação de áudios de compra de silêncio de políticos envolvendo o Presidente Michel Temer e o executivo Joesley Batista da JBS. Dado que o presidente da república estava relacionado com um possível caso de corrupção, sugiram diversas incertezas no mercado, o que levou a uma queda relevante no Ibovespa, aumentando novamente o risco sistêmico.</p>
+<p><strong>Março de 2020: Pandemia do COVID-19</strong></p>
+<p>A pandemia do COVID-19 começou em dezembro de 2019, mas foi em março de 2020 que o vírus se espalhou pelo mundo, o que levou a uma crise sanitária e econômica. O mercado de ações foi fortemente afetado, com quedas de mais de 30% no Ibovespa. E dentre os fatos relevantes aqui apresentados, o risco sistêmico da pandemia do COVID-19 foi o mais relevante, visto que todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou e a maioria dos ativos apresentou o mesmo comportamento.</p>
+</section>
+<section id="conclusão" class="level2">
+<h2 class="anchored" data-anchor-id="conclusão">Conclusão</h2>
+<p>A análise de quebra de correlação é uma ferramenta importante para identificar eventos de risco sistêmico, e é possível identificar a quebra de correlação por meio da variação da variância explicada do primeiro componente principal. Se a variância explicada do primeiro componente principal aumentar, isso significa que boa parte dos retornos dos ativos está sendo explicada por um único fator de risco, o que significa que a correlação entre os ativos aumentou.</p>
+<p>A seguir, no apêndice há uma explicação sobre o cálculo da variância explicada do PCA. E logo após, há uma seção de referências com as notícias sobre os eventos apontados no gráfico, e uma explicação gráfica sobre autovalores e autovetores.</p>
+</section>
+<section id="apêndice" class="level2">
+<h2 class="anchored" data-anchor-id="apêndice">Apêndice</h2>
+<p><strong>Explicação do cálculo da variância explicada.</strong></p>
+<p>Para calcular a variância explicada pelo primeiro componente principal do PCA, é necessário obter os autovalores associados a matriz de correlações das variáveis, no caso apresentado no texto: os retornos dos ativos.</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Matriz de correlação</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>matriz <span class="op">=</span> np.array([[<span class="dv">1</span>, <span class="fl">0.9</span>],</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>                   [<span class="fl">0.9</span>, <span class="dv">1</span>]])</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Calcula autovalores e autovetores</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>autovalores, autovetores <span class="op">=</span> np.linalg.eigh(matriz)</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Ordena os autovalores e autovetores</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>autovalores, autovetores  <span class="op">=</span> autovalores[::<span class="op">-</span><span class="dv">1</span>], autovetores[:, ::<span class="op">-</span><span class="dv">1</span>]</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Calcula a variância explicada</span></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>varianca_explicada <span class="op">=</span> autovalores[<span class="dv">0</span>] <span class="op">/</span> autovalores.<span class="bu">sum</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<p>Para calcular a variância explicada pelo primeiro componente principal, basta obter o primeiro autovalor e dividir pela soma de todos os autovalores. Isso indica a proporção da variação dos dados explicada pelo primeiro componente principal.</p>
+<p>No código fornecido, os autovalores são ordenados do maior para o menor. Para calcular a variância explicada pelo primeiro componente principal, basta dividir o primeiro autovalor pela soma de todos os autovalores.</p>
+<p>Isso retornará um valor entre 0 e 1, indicando a proporção da variação dos dados explicada pelo primeiro componente principal.</p>
+<p>No caso de dois ativos com uma correlação de 0,9 a variância explicada é de 95%, quando reduzimos a correlação para 0,2 o valor é de 60%. Portanto, quanto maior a correlação maior a variância explicada, visto que com apenas um principal componente é possível explicar boa parte do comportamento dos dados</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
