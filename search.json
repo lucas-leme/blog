@@ -11,14 +11,21 @@
     "href": "index.html",
     "title": "Posts",
     "section": "",
-    "text": "FinBERT-PT-BR: Analyzing the Brazilian Stock Market with Neural Networks\n\n\n\n\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\n\n\n\n\nOct 20, 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\n  \n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\n\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\nNo matching items"
+    "text": "FinBERT-PT-BR: Analyzing the Brazilian Stock Market with Neural Networks\n\n\n\n\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\n\n\n\n\n20 de out. de 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntrodução a Macroeconomia\n\n\n\n\n\n\n\nmacro\n\n\npib\n\n\n\n\n\n\n\n\n\n\n\n20 de out. de 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\n  \n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\n\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\n\n\n\n\n15 de mai. de 2023\n\n\nLucas Leme Santos\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "posts/quebra-de-correlacoes/index.html",
     "href": "posts/quebra-de-correlacoes/index.html",
     "title": "Como identificar quebra de correlações na Bolsa de Valores?",
     "section": "",
-    "text": "Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.\nNo mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado. Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).\nA correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.\nA quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias."
+    "text": "Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos."
+  },
+  {
+    "objectID": "posts/quebra-de-correlacoes/index.html#introdução",
+    "href": "posts/quebra-de-correlacoes/index.html#introdução",
+    "title": "Como identificar quebra de correlações na Bolsa de Valores?",
+    "section": "Introdução",
+    "text": "Introdução\nNo mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado. Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).\nA correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.\nA quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias."
   },
   {
     "objectID": "posts/quebra-de-correlacoes/index.html#como-identificar-a-quebra-de-correlação",
@@ -53,7 +60,7 @@
     "href": "posts/finbert-pt-br/index.html",
     "title": "FinBERT-PT-BR: Analyzing the Brazilian Stock Market with Neural Networks",
     "section": "",
-    "text": "Training LLM to analyze the Brazilian financial news.\nThis post was automatically generated using Hypotenuse AI, based on my publication FinBERT-PT-BR: Análise de Sentimentos de Textos em Português do Mercado Financeiro. The model is available for free on Hugging Face.\nHey there, have you ever wondered if you could predict the ups and downs of the stock market?\nUsing FinBERT, an AI model trained on financial news in Portuguese, you absolutely can.\nFinBERT analyzes thousands of news articles and social media posts to determine the overall sentiment of investors in Brazil’s stock market. If FinBERT detects an increase in positive sentiment, it’s likely stock prices will rise. A swing towards more negative sentiment suggests a downturn may be on the horizon. By tracking these sentiment shifts, FinBERT can identify trends in the market and even predict changes before they happen.\nIn this article, we’ll explore how FinBERT works, see examples of its accuracy, and discuss how similar AI could be applied to stock markets around the world. If you’re an investor looking for an edge, sentiment analysis with neural networks may be the insight you’ve been searching for.\nReady to take a peek inside the minds of investors? Let’s dive in."
+    "text": "Training LLM to analyze the Brazilian financial news."
   },
   {
     "objectID": "posts/finbert-pt-br/index.html#understanding-sentiment-analysis-in-finance",
@@ -96,5 +103,19 @@
     "title": "FinBERT-PT-BR: Analyzing the Brazilian Stock Market with Neural Networks",
     "section": "Conclusion",
     "text": "Conclusion\nSo there you have it, a promising new tool for analyzing the ups and downs of the Brazilian stock market. FinBERT-PT-BR isn’t magic - it requires training data and tuning to perform at its best. But with some time and effort, it can provide insights into how investors are feeling about companies and sectors that traditional metrics alone may miss. The future of AI in finance looks bright."
+  },
+  {
+    "objectID": "posts/intro-macro/index.html",
+    "href": "posts/intro-macro/index.html",
+    "title": "Introdução a Macroeconomia",
+    "section": "",
+    "text": "A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto quanto no longo prazo. Uma variável agregada é aquela que representa o comportamento de um conjunto de variáveis. Por exemplo, o PIB é uma variável agregada que representa o valor total de todos os bens e serviços produzidos em uma economia.\nNesta introdução, vamos nos concentrar na composição do PIB, com ênfase no Brasil. Ao entender os componentes do PIB, podemos obter insights sobre a saúde e o desempenho geral da economia."
+  },
+  {
+    "objectID": "posts/intro-macro/index.html#como-estimar-o-pib",
+    "href": "posts/intro-macro/index.html#como-estimar-o-pib",
+    "title": "Introdução a Macroeconomia",
+    "section": "Como estimar o PIB?",
+    "text": "Como estimar o PIB?\nExistem duas principais formas de estimar o PIB: Produção Agregada e Renda.\n\nProdução Agregada\nAtravés da produção agregada, é possível estimar o PIB com base em quatro componentes: Consumo, Investimento, Gastos do Governo e Exportações Líquidas. A ideia por trás dessa abordagem é que o PIB é a soma de todos os bens e serviços produzidos em uma economia. E para produzir esses bens e serviços, é necessário consumir, investir, gastar e exportar. Na equação Equação 1, temos a representação matemática dessa abordagem.\n\\[\n    PIB = C + I + G + (X - M)\n\\tag{1}\\]"
   }
 ]
