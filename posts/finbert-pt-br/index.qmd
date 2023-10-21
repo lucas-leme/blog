@@ -4,11 +4,17 @@ author: "Lucas Leme Santos"
 date: "2023-10-20"
 categories: [quant, nlp, english]
 image: "https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png"
+toc: true
+toc_sticky: true
+toc_label: "Sumário"
+lang: en
 ---
 
 Training LLM to analyze the Brazilian financial news.
 
-This post was automatically generated using [Hypotenuse AI](https://app.hypotenuse.ai), based on my publication [FinBERT-PT-BR: Análise de Sentimentos de Textos em Português do Mercado Financeiro](https://sol.sbc.org.br/index.php/bwaif/article/view/24960). The model is available for free on [Hugging Face](https://huggingface.co/lucas-leme/FinBERT-PT-BR).
+> This post was automatically generated using [Hypotenuse AI](https://app.hypotenuse.ai), based on my publication [FinBERT-PT-BR: Análise de Sentimentos de Textos em Português do Mercado Financeiro](https://sol.sbc.org.br/index.php/bwaif/article/view/24960). The model is available for free on [Hugging Face](https://huggingface.co/lucas-leme/FinBERT-PT-BR).
+
+# Introduction
 
 Hey there, have you ever wondered if you could predict the ups and downs of the stock market? 
 

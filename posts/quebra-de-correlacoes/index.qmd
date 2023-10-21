@@ -4,17 +4,20 @@ author: "Lucas Leme Santos"
 date: "2023-05-15"
 categories: [quant, code]
 image: "https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE"
+toc: true
+toc_sticky: true
+toc_label: "Sumário"
 ---
 
 
 Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.
 
-{{< pagebreak >}}
+## Introdução
 
 No mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado.
 Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).
 
-A correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.
+A correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção --- se uma ação sobe, a outra também tende a subir.
 
 A quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias.
 
@@ -44,7 +47,7 @@ Analisando o gráfico, destaca-se os 3 períodos em que a variância explicada d
 
 A redução da nota de crédito do EUA pela Standard & Poor’s ocorreu em 5 de agosto de 2011. A agência de classificação de risco reduziu a nota de crédito do país de AAA para AA+, significando um maior risco. Visto que o EUA é a maior economia do mundo, essa redução de nota de crédito teve um impacto em cascata em todo o mundo, o que levou a uma queda nos mercados de acionários. Impactando também o mercado brasileiro, que teve uma queda de mais de 8% no Ibovespa.
 
-Visto que a redução da nota de crédito do EUA pela Standard & Poor’s foi um evento de risco sistêmico, todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou — todos foram precificados negativamente ao mesmo tempo.
+Visto que a redução da nota de crédito do EUA pela Standard & Poor’s foi um evento de risco sistêmico, todos os ativos foram afetados, o que significa que a correlação entre os ativos aumentou --- todos foram precificados negativamente ao mesmo tempo.
 
 **Maio de 2017: Joesley Day**
 
