@@ -73,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(3)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="english">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="macro">macro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nlp">nlp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pib">pib <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quant">quant <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(2)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="english">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nlp">nlp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quant">quant <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -175,21 +175,18 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="quant,nlp,english" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1697895701398" data-listing-reading-time-sort="8.04">
-<div class="thumbnail">
-<p><a href="./posts/finbert-pt-br/index.html"> <img src="https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/finbert-pt-br/index.html">
-<h3 class="no-anchor listing-title">
-FinBERT-PT-BR: Analyzing the Brazilian Stock Market with Neural Networks
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-categories="quant,nlp,english" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1697897738498" data-listing-reading-time-sort="8.04">
+<a href="./posts/finbert-pt-br/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
 quant
@@ -201,78 +198,31 @@ nlp
 english
 </div>
 </div>
-<a href="./posts/finbert-pt-br/index.html">
-<div class="listing-description">
+<div class="card-text listing-description">
 Training LLM to analyze the Brazilian financial news.
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/finbert-pt-br/index.html">
-<div class="listing-date">
-20 de out. de 2023
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Lucas Leme Santos
 </div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="macro,pib" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1697893371778" data-listing-reading-time-sort="3.705">
-<div class="thumbnail">
-<a href="./posts/intro-macro/index.html">
-<div class="thumbnail-image">
-
-</div>
-</a><p><a href="./posts/intro-macro/index.html"></a></p>
-</div>
-<div class="body">
-<a href="./posts/intro-macro/index.html">
-<h3 class="no-anchor listing-title">
-Introdução a Macroeconomia
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('macro'); return false;">
-macro
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pib'); return false;">
-pib
-</div>
-</div>
-<a href="./posts/intro-macro/index.html">
-<div class="listing-description">
-A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto…
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/intro-macro/index.html">
 <div class="listing-date">
 20 de out. de 2023
 </div>
-<div class="listing-author">
-Lucas Leme Santos
+</div>
+</div>
 </div>
 </a>
 </div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="quant,code" data-listing-date-sort="1684119600000" data-listing-file-modified-sort="1697893964698" data-listing-reading-time-sort="6.16">
-<div class="thumbnail">
-<p><a href="./posts/quebra-de-correlacoes/index.html"> <img src="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/quebra-de-correlacoes/index.html">
-<h3 class="no-anchor listing-title">
+<div class="g-col-1" data-index="1" data-categories="quant,code" data-listing-date-sort="1684119600000" data-listing-file-modified-sort="1697893964698" data-listing-reading-time-sort="6.16">
+<a href="./posts/quebra-de-correlacoes/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Como identificar quebra de correlações na Bolsa de Valores?
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
+</h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
 quant
@@ -281,22 +231,20 @@ quant
 code
 </div>
 </div>
-<a href="./posts/quebra-de-correlacoes/index.html">
-<div class="listing-description">
+<div class="card-text listing-description">
 Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.
 </div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/quebra-de-correlacoes/index.html">
-<div class="listing-date">
-15 de mai. de 2023
-</div>
+<div class="card-attribution card-text-small justify">
 <div class="listing-author">
 Lucas Leme Santos
 </div>
-</a>
+<div class="listing-date">
+15 de mai. de 2023
 </div>
+</div>
+</div>
+</div>
+</a>
 </div>
 </div>
 <div class="listing-no-matching d-none">
