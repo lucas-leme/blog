@@ -34,6 +34,10 @@
 
 /* other quarto variables */
 :root {
+  --quarto-font-monospace: "Fira Code", "JetBrains Mono", "Oxygen Mono", "Noto Sans Mono";
+}
+
+:root {
   --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
