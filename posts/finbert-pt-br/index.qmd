@@ -107,6 +107,8 @@ FinBERT-PT-BR can be used to build sentiment indices and trading strategies base
 
 FinBERT-PT-BR can be used to build broad market sentiment indices based on sentiment scores aggregated from many financial news articles. For example, a “bullish sentiment index” could track the percentage of positively-scored sentences in articles over time. If sentiment is largely optimistic, the index would increase, signaling a good time to invest. If pessimism reigns, the index may predict a market downturn.
 
+![Sentiment Index](https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png)
+
 ### Stock-Specific Sentiment
 
 FinBERT-PT-BR also enables analysis of sentiment targeting specific stocks or companies. By extracting sentences mentioning a stock ticker or company name, FinBERT-PT-BR can gage sentiment surrounding that asset. Bullish sentiment could indicate a good buying opportunity or price increase, while bearish sentiment may foreshadow a price drop.

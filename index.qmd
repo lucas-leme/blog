@@ -1,6 +1,7 @@
 ---
 title: "Posts"
 listing:
+  # contents every folder minus the ones that startswith _
   contents: posts
   sort: "date desc"
   type: grid
