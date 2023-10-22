@@ -30,12 +30,19 @@ $$ {#eq-producao_agregada}
 
 ```{python, eval=FALSE}
 
+import statsmodels.api as sm
 import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import requests
 # hide all warnings
 import warnings
+import sys
+
+sys.path.append('../')
+
+if True:
+    from _plots.figure import make_fig
 
 warnings.filterwarnings('ignore')
 
@@ -98,10 +105,10 @@ for nome, dataset in datasets.items():
     # to numeric
     dataset["value"] = pd.to_numeric(dataset["value"])
     dataset.index = pd.to_datetime(dataset["date"])
+    # Set PIB Freq
+    dataset = dataset.asfreq('Q')
 
-    if nome == "Importação":
-        dataset["value"] = dataset["value"] * -1
-
+pib = datasets['PIB']['value']
 
 product_components = [
     "Consumo",
@@ -123,38 +130,115 @@ product_dataset = pd.DataFrame({
     if nome in product_components
 })
 
-income_dataset = {
+income_dataset = pd.DataFrame({
     nome: dataset['value']
     for nome, dataset in datasets.items()
     if nome in income_components
-}
-
-```
-
-```{python, eval=FALSE}
+})
 
 ```
 
 
 ```{python, eval=FALSE}
+# desasonilização
 
-# plot area chart
+product_dataset_des = pd.DataFrame({
+    column: sm.tsa.seasonal_decompose(
+        product_dataset[column], model='additive', period=4).trend
+    for column in product_dataset.columns
+})
 
-fig = px.area(product_dataset, title="Componentes do PIB - Produção Agregada")
+income_dataset_des = pd.DataFrame({
+    column: sm.tsa.seasonal_decompose(
+        income_dataset[column], model='additive', period=4).trend
+    for column in income_dataset.columns
+})
 
-# add PIB
-fig.add_trace(
-    go.Scatter(
-        x=datasets["PIB"]["date"],
-        y=datasets["PIB"]["value"],
-        name="PIB",
-        mode="lines",
-        line=dict(color="black", width=2)
-    ),
-    row=1,
-    col=1
-)
+pib_des = sm.tsa.seasonal_decompose(pib, model='additive', period=4).trend
 
+# Variações percentuais para o cumulativo das séries
+product_dataset_cumulative = pd.DataFrame({
+    nome: (1 + product_dataset_des[nome].pct_change()).cumprod()
+    for nome in product_dataset_des.columns
+})
+
+# Exportação Líquida
+product_dataset_cumulative['Exportação Líquida'] = (1 +
+                                                    product_dataset_cumulative['Exportação'].pct_change() - product_dataset_cumulative['Importação'].pct_change()).cumprod()
+
+# Remove Importação e Exportação
+product_dataset_cumulative = product_dataset_cumulative.drop(
+    ['Importação', 'Exportação'], axis=1)
+
+income_dataset_cumulative = pd.DataFrame({
+    nome: (1 + income_dataset_des[nome].pct_change()).cumprod()
+    for nome in income_dataset_des.columns
+})
+
+pib_cumulative = (1 + pib_des.pct_change()).cumprod()
+```
+
+```{python, eval=FALSE}	
+
+# plot pib com e sem desasonalização
+fig = make_fig()
+
+fig.add_trace(go.Scatter(
+    x=pib.index,
+    y=pib,
+    name='PIB',
+    mode='lines',
+    line=dict(width=3),
+    # set color
+    marker_color='black'
+))
+
+fig.add_trace(go.Scatter(
+    x=pib_des.index,
+    y=pib_des,
+    name='PIB Dessazonalizado',
+    mode='lines',
+    line=dict(width=3),
+    # set color
+    marker_color='blue'
+))
+
+fig.update_layout(
+    title='PIB Dessazonalizado: Ideal para visualizar tendências no longo prazo.<br><sup>PIB Histórico do Brasil</sup>')
+
+
+fig.show()
+```
+
+```{python, eval=TRUE}
+# PIB sob a ótica da produção
+
+fig = make_fig()
+
+for nome in product_dataset_cumulative.columns:
+    fig.add_trace(go.Scatter(
+        x=product_dataset_cumulative.index,
+        y=product_dataset_cumulative[nome]-1,
+        name=nome,
+        mode='lines',
+        line=dict(width=3),
+    ))
+
+fig.add_trace(go.Scatter(
+    x=pib_cumulative.index,
+    y=pib_cumulative-1,
+    name='PIB',
+    mode='lines',
+    line=dict(width=10),
+    # set color
+    marker_color='black'
+))
+
+fig.update_layout(
+    title='PIB sob a ótica da produção: Ideal para visualizar tendências no longo prazo.<br><sup>Evolução dos componentes de produção do PIB desde 1996</sup>')
+
+fig.update_yaxes(tickformat=".0%", title='Variação acumulada',
+                 range=[-0.3, 1.5], nticks=4)
 
 fig.show()
 ```
