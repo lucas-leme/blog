@@ -19,10 +19,10 @@ website:
 format:
   html:
     theme: 
-      light: litera
+      light:
+        - litera
+        - styles/leme.scss
       dark: solar
-    css: styles.css
-    mainfont: Montserrat
     page-layout: full
 
 lang: pt-BR

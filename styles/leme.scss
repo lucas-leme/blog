@@ -1,0 +1,61 @@
+@font-face {
+    font-family: 'Gotu';
+    src: url('styles/Gotu-Regular.ttf') format('truetype');
+    font-weight: normal; /* Este é o estilo 'Regular' */
+    font-style: normal; /* Pode ser 'italic' para itálico, se aplicável */
+  }
+
+
+// scss-docs-start gray-color-variables
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-200: #e9ecef !default;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$black:    #000 !default;
+
+// scss-docs-start color-variables
+$indigo:  #6610f2 !default;
+$pink:    #d63384 !default;
+$red:     #dc3545 !default;
+$yellow:  #ffc107 !default;
+$teal:    #20c997 !default;
+$cyan:    #0dcaf0 !default;
+
+$blue: #226f93 !default;
+$gray: #4b5053 !default;
+$green: #aaffd5 !default;
+$purple: #b9c1e8 !default;
+$orange: #ffd2a3 !default;
+
+/*-- scss:defaults --*/
+// scss-docs-start theme-color-variables
+$primary:       $blue !default;
+$secondary:     $gray !default;
+$success:       $green !default;
+$info:          $purple !default;
+$warning:       $orange !default;
+$danger:        $red !default;
+$light:         $white !default;
+$dark:          $gray !default;
+
+$font-family-sans-serif: "Gotu";
+$font-family-base: "Gotu";
+
+p {
+    font-family: $font-family-base !important;
+}
+
+a {
+    font-family: "Montserrat" !important;
+}
+
+$headings-font-family: "Gotu";
+$headings-font-weight: 2000;
+
+$font-family-monospace:  "Fira Code", "JetBrains Mono", "Oxygen Mono", "Noto Sans Mono";
