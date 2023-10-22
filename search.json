@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "post-in-progress/intro-macro/index.html",
-    "href": "post-in-progress/intro-macro/index.html",
-    "title": "Introdução a Macroeconomia",
-    "section": "",
-    "text": "A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto quanto no longo prazo. Uma variável agregada é aquela que representa o comportamento de um conjunto de variáveis. Por exemplo, o PIB é uma variável agregada que representa o valor total de todos os bens e serviços produzidos em uma economia.\nNesta introdução, vamos nos concentrar na composição do PIB, com ênfase no Brasil. Ao entender os componentes do PIB, podemos obter insights sobre a saúde e o desempenho geral da economia."
-  },
-  {
-    "objectID": "post-in-progress/intro-macro/index.html#como-estimar-o-pib",
-    "href": "post-in-progress/intro-macro/index.html#como-estimar-o-pib",
-    "title": "Introdução a Macroeconomia",
-    "section": "Como estimar o PIB?",
-    "text": "Como estimar o PIB?\nExistem duas principais formas de estimar o PIB: Produção Agregada e Renda.\n\nProdução Agregada\nAtravés da produção agregada, é possível estimar o PIB com base em quatro componentes: Consumo, Investimento, Gastos do Governo e Exportações Líquidas. A ideia por trás dessa abordagem é que o PIB é a soma de todos os bens e serviços produzidos em uma economia. E para produzir esses bens e serviços, é necessário consumir, investir, gastar e exportar. Na equação Equação 1, temos a representação matemática dessa abordagem.\n\\[\n    PIB = C + I + G + (X - M)\n\\tag{1}\\]"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Sobre",
@@ -25,7 +11,7 @@
     "href": "index.html",
     "title": "Posts",
     "section": "",
-    "text": "FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n20 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n15 de mai. de 2023\n\n\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n20 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n15 de mai. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstruindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum\n\n\n\nquant\n\n\nintro\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n17 de mai. de 2020\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "posts/quebra-de-correlacoes/index.html",
@@ -109,7 +95,7 @@
     "href": "posts/finbert-pt-br/index.html#applications-of-finbert-pt-br-sentiment-indices-and-trading-strategies",
     "title": "FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market",
     "section": "Applications of FinBERT-PT-BR: Sentiment Indices and Trading Strategies",
-    "text": "Applications of FinBERT-PT-BR: Sentiment Indices and Trading Strategies\nFinBERT-PT-BR can be used to build sentiment indices and trading strategies based on sentiment data. By analyzing sentiment expressed in financial news articles, FinBERT-PT-BR provides insights into overall market sentiment and stock-specific sentiment.\n\nSentiment Indices\nFinBERT-PT-BR can be used to build broad market sentiment indices based on sentiment scores aggregated from many financial news articles. For example, a “bullish sentiment index” could track the percentage of positively-scored sentences in articles over time. If sentiment is largely optimistic, the index would increase, signaling a good time to invest. If pessimism reigns, the index may predict a market downturn.\n\n\nStock-Specific Sentiment\nFinBERT-PT-BR also enables analysis of sentiment targeting specific stocks or companies. By extracting sentences mentioning a stock ticker or company name, FinBERT-PT-BR can gage sentiment surrounding that asset. Bullish sentiment could indicate a good buying opportunity or price increase, while bearish sentiment may foreshadow a price drop.\n\n\nTrading Strategies\nUsing sentiment indices and stock-specific sentiment, you can build basic trading strategies. For example, you might buy stocks with bullish sentiment and sell stocks with bearish sentiment. You could also wait for sentiment reversals, buying when pessimism spikes and selling into optimism. More advanced strategies could combine sentiment with fundamental and technical analysis.\nWhile sentiment alone should not drive investment decisions, FinBERT-PT-BR provides an additional data point to incorporate into a holistic trading strategy. Used properly, natural language processing and sentiment analysis can give investors an “edge” by identifying sentiment shifts early. However, sentiment is often short-lived and volatile, so strategies should account for this variability. Overall, FinBERT-PT-BR opens up many possibilities for quantitative and algorithmic trading based on insights from financial news."
+    "text": "Applications of FinBERT-PT-BR: Sentiment Indices and Trading Strategies\nFinBERT-PT-BR can be used to build sentiment indices and trading strategies based on sentiment data. By analyzing sentiment expressed in financial news articles, FinBERT-PT-BR provides insights into overall market sentiment and stock-specific sentiment.\n\nSentiment Indices\nFinBERT-PT-BR can be used to build broad market sentiment indices based on sentiment scores aggregated from many financial news articles. For example, a “bullish sentiment index” could track the percentage of positively-scored sentences in articles over time. If sentiment is largely optimistic, the index would increase, signaling a good time to invest. If pessimism reigns, the index may predict a market downturn.\n\n\n\nSentiment Index\n\n\n\n\nStock-Specific Sentiment\nFinBERT-PT-BR also enables analysis of sentiment targeting specific stocks or companies. By extracting sentences mentioning a stock ticker or company name, FinBERT-PT-BR can gage sentiment surrounding that asset. Bullish sentiment could indicate a good buying opportunity or price increase, while bearish sentiment may foreshadow a price drop.\n\n\nTrading Strategies\nUsing sentiment indices and stock-specific sentiment, you can build basic trading strategies. For example, you might buy stocks with bullish sentiment and sell stocks with bearish sentiment. You could also wait for sentiment reversals, buying when pessimism spikes and selling into optimism. More advanced strategies could combine sentiment with fundamental and technical analysis.\nWhile sentiment alone should not drive investment decisions, FinBERT-PT-BR provides an additional data point to incorporate into a holistic trading strategy. Used properly, natural language processing and sentiment analysis can give investors an “edge” by identifying sentiment shifts early. However, sentiment is often short-lived and volatile, so strategies should account for this variability. Overall, FinBERT-PT-BR opens up many possibilities for quantitative and algorithmic trading based on insights from financial news."
   },
   {
     "objectID": "posts/finbert-pt-br/index.html#conclusion",
@@ -117,5 +103,75 @@
     "title": "FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market",
     "section": "Conclusion",
     "text": "Conclusion\nSo there you have it, a promising new tool for analyzing the ups and downs of the Brazilian stock market. FinBERT-PT-BR isn’t magic - it requires training data and tuning to perform at its best. But with some time and effort, it can provide insights into how investors are feeling about companies and sectors that traditional metrics alone may miss. The future of AI in finance looks bright."
+  },
+  {
+    "objectID": "posts/tsmom/index.html",
+    "href": "posts/tsmom/index.html",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "",
+    "text": "O algoritmo de investimento que teve 951,62% de rentabilidade"
+  },
+  {
+    "objectID": "posts/tsmom/index.html#o-que-são-finanças-quantitativas",
+    "href": "posts/tsmom/index.html#o-que-são-finanças-quantitativas",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "O que são finanças quantitativas?",
+    "text": "O que são finanças quantitativas?\nNo mundo dos investimentos, a maneira “clássica” de se investir em empresas de capital aberto segue o seguinte processo:\n\nAnalisar cuidadosamente os fundamentos e resultados da empresa\nEstudar a equipe que faz a sua gestão\nEstimar as perspectivas políticas e econômicas para o futuro\nEstimar preço de ações, por meio de técnicas como valuation (avaliação de empresas).\n\nOutra maneira de se investir, que vem se tornando muito popular nos últimos anos, é criar algoritmos que definem a forma de operar no mercado financeiro, executando tudo automaticamente. É isso que fundos quantitativos fazem, seguindo o seguinte processo:\nObter dados para os modelos computacionais. Desenhar a estratégia a ser executada pelo algoritmo. Testar o algoritmo em dados passados para ver se o algoritmo é robusto o suficiente (processo conhecido como backtesting). Implementar o algoritmo em tempo real. Existem muitas estratégias diferentes utilizadas por gestores quantitativos. Neste texto iremos abordar uma estratégia baseada numa anomalia de mercado, que é o Momentum."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#o-que-é-momentum",
+    "href": "posts/tsmom/index.html#o-que-é-momentum",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "O que é Momentum?",
+    "text": "O que é Momentum?\n\n\n\nPendulo\n\n\n\n“We search through historical data looking for anomalous patterns that we would not expect to occur at random.” — Jim Simons\n\nMomentum é uma palavra de origem latina, que na física clássica significa quantidade de movimento ou embalo, ele pode nos indicar duas coisas: a direção e a magnitude de um corpo em movimento. Além disso, outro elemento importante é a lei da inércia, que é a tendência natural de um objeto manter seu estado de repouso ou movimento.\nCom esses dois conceitos, podemos dizer que o momentum nos indica para onde e o quão rápido um objeto está se movendo, e que se não houver interferência externa, será constante.\nTrazendo para o contexto de finanças, o momentum é uma estratégia de investimento fundamentada no embalo dos preços, que considera a tendência dos preços para uma tomada de decisão de um investimento. Esse fator pode ser descrito por meio da Equação 1\n\\[\nMomentum = r_{t-k, t} = \\frac{P_t - P_{t-k}}{P_{t-k}}\n\\tag{1}\\]\nA formula acima compõe o que chamamos de retorno de um ativo, sendo o parâmetro \\(k\\) o período ao qual desejamos avaliar o retorno, podendo ser diário, semanal, mensal, etc.\nPodemos extrair o momentum a partir da equação do retorno apresentada, já que o retorno armazena tanto informação de intensidade de aumento ou decréscimo, quanto de tendência positiva ou negativa. Assim, podemos avaliar o momentum de 12 meses, tomando um período mensal e fazendo \\(k = 12\\)."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#hipótese-do-mercado-eficiente",
+    "href": "posts/tsmom/index.html#hipótese-do-mercado-eficiente",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Hipótese do Mercado Eficiente",
+    "text": "Hipótese do Mercado Eficiente\nDe uma maneira simplificada, é uma teoria de investimento que diz que os preços do mercado sempre refletem corretamente e imediatamente as informações relacionadas ao ativo 1\nUma característica importante do momentum é o fato de ser uma anomalia da hipótese do mercado eficiente. Isso acontece porque, de acordo com a hipótese, o aumento ou decréscimo no preços de ativos deveria estar acompanhado de novas informações. Porém, o momentum indica que há tendência de movimento dos preços independentemente de novas informações."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#volatilidade",
+    "href": "posts/tsmom/index.html#volatilidade",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Volatilidade",
+    "text": "Volatilidade\nUm conceito frequentemente associado ao risco de um ativo é a volatilidade. Pois como o risco precisa ser mensurado, a volatilidade acaba sendo uma das formas mais simples de mensurar o risco. A partir dos dados histórico de uma série temporal, podemos utilizar uma medida descritiva estatística chamada desvio padrão para determinar a variação dos dados entorno de sua média histórica.\n\n\n\nAnimação demonstrado alta e baixa volatilidade (Capital.com)\n\n\nUm valor baixo de volatilidade indica uma estabilidade no investimento. Já uma alta volatilidade indica incerteza, porém com um potencial de lucro maior, se o investidor estiver disposto a suportar o risco. Além do desvio padrão, existem diversas outras maneiras de estimar risco:\n\nEWMA 2\nUm estimador um pouco mais complexo é advindo do modelo de médias móveis, o exponentially weighted moving average. Esse estimador basicamente calcula o desvio padrão com um peso ponderado maior para os dados mais recentes. Essa característica é muito importante, pois em longos períodos a série temporal pode perder a estacionalidade, o que prejudica nosso modelo se considerarmos valores muito distantes.\n\n\nNúmero de Parkinson 3\nO Número de Parkinson foi desenvolvido pelo físico Michael Parkinson em 1980 e tem como objetivo estimar a volatilidade de uma série temporal a partir dos preços de High e Low. A principal vantagem em relação ao EWMA é a adição de variação intra diária, pois no cálculo leva-se em conta os valores de alta e baixa dos preços.\n\\[\n\\sigma_{PK} = \\sqrt{\\frac{1}{4ln2} \\frac{1}{n} \\sum_{i=1}^{n} log^2 \\frac{H_i}{L_i}}\n\\tag{2}\\]\nPara calcular essa estimativa são necessários dois parâmetros \\(N\\) e \\(n\\). Sendo \\(N\\) um fator de escala dos períodos, se for necessário um desvio padrão diário atribui-se \\(N = 1\\), já para o desvio padrão anual N = 365. O segundo parâmetro n é o tamanho da amostra de dados passados que serão utilizados no modelo. Escolhido n realiza-se o somatório dos n períodos passados, da seguinte operação: logaritmo da divisão do preço de alta e baixa dos n períodos, e por fim eleva-se ao quadrado para realizar a soma, a formula completa pode ser vista na Equação 2.\n\n\nGarman-Klass\nGarman é uma extensão do número de parkinson, porém agora com a inserção de mais dados no modelo, que são preços de abertura e fechamento do dia. Esses dados ajudam a aumentar a precisão do estimador, principalmente em ativos com maior estresse em momentos de abertura e fechamento. O cálculo é similar ao estimador anterior, pode ser visto na Equação 3.\n\\[\n\\sigma=\\sqrt{\\frac{N}{n} \\sum_{i=1}^n\\left[\\frac{1}{2}\\left(\\log \\frac{H_i}{L_i}\\right)^2-(2 \\log 2-1)\\left(\\log \\frac{C_i}{O_i}\\right)^2\\right]}\n\\tag{3}\\]\n\n\nComparação entre volatilidades\n\n\n\nGráfico comparativo das volatilidades\n\n\nPara efeito de comparação construímos o gráfico das 3 volatilidades em um preço de contrato futuro. Podemos perceber que, principalmente em momentos de maior estresse, os modelos Parkinson e Garman Klass têm uma resposta mais rápida e mais precisa. Um período que pode-se destacar é o ano de 2008, que os dois modelos acabaram captando mais informações intra diárias da crise da bolha hipotecária."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#estratégia-de-investimento",
+    "href": "posts/tsmom/index.html#estratégia-de-investimento",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Estratégia de investimento",
+    "text": "Estratégia de investimento\nA estratégia de investimento do Time Series Momentum é dada pela Equação 4.\n\\[\nr_{t, t+1}^{\\mathrm{TSMOM}}=\\frac{1}{S_t} \\sum_{s=1}^{S_t} \\operatorname{sign}\\left(r_{t-12, t}^s\\right) \\frac{40 \\%}{\\sigma_t^s} r_{t, t+1}^s\n\\tag{4}\\]\nE pode ser dividida em 3 principais etapas:\nPosição\n\\[\n\\operatorname{sign}\\left(r_{t-12, t}\\right)= \\begin{cases}+1, & \\text { comprado } \\\\ -1, & \\text { vendido }\\end{cases}\n\\tag{5}\\]\nPara determinar a posição de compra ou venda de um ativo, é necessário algum sinal de previsão, neste caso é utilizado o momentum (retorno) de 12 meses. Com o sinal em mãos classifica-se a posição a partir da direção do momentum.\nAlocação \\[\n\\frac{40 \\%}{\\sigma_t^s}\n\\tag{6}\\]\nPara o modelo de alocação será utilizada uma paridade de risco simmplifica, a partir da volatilidade dos ativos escolhidos para a carteira. Defini-se o desvio padrão anual médio da carteira como meta, pois estamos dispostos a ter um risco médio de um contrato futuro, que no caso dos nossos dados é de 40%.\nPara o risco estimado, podemos utilizar as volatilidades discutidas nos tópicos anteriores. Com os dois parâmetros necessários (risco estimado e risco médio), temos uma razão que é inversamente proporcional ao risco de um ativo, ou seja, ativos muito voláteis acabam tendo uma alocação menor, e o contrário ocorre para ativos com baixo risco, que têm uma maior parcela na carteira.\nVale ressaltar que ambos os casos tendem a se normalizar para o risco do portfólio (40%). Por exemplo: um ativo com 20% de volatilidade, o cálculo da alocação seria o seguinte: 40%/20% = 2, ou seja, esse ativo teria um alavancagem de 2 vezes, o que dobraria seu risco.\nRetorno do portfólio\n\\[\n\\frac{1}{S_t} \\sum_{s=1}^{S_t}  r_{t, t+1}^s\n\\tag{7}\\]\nPor fim, temos o número que realmente importa, o rendimento total do investimento. Podemos calculá-lo no fim do período, com os retornos de cada ativo. Graças a simplificação de alocação, podemos calcular a média do retorno de todos ativos (\\(St\\)), esse será o retorno do portfólio, conforme a Equação 7."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#resultados",
+    "href": "posts/tsmom/index.html#resultados",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Resultados",
+    "text": "Resultados\nPara realizar o backtesting da estratégia, utilizamos um dataset de preços dos mais diversos tipos de contratos futuros. No total são mais de 20 anos de preços históricos, com mais de 50 ativos.\nAfim de comparação, foi elaborada uma segunda estratégia de momentum. Porém, essa é Long only, ou seja, não depende do sinal do momentum, na qual todas as posições são compradas (Long). Em ambos os casos utilizamos o estimador de risco EWMA.\n\n\n\nRetorno acumulado da estratégia\n\n\nE aqui finalmente temos os resultados do TSMOM. Ao total, obtemos 382.36% na estratégia original e 563.65% na long only. Que anualizando os retornos temos respectivamente 8.63% e 10.47%. Apesar de, no longo prazo, o TSMOM não superar o seu índice (Long only), é importante ressaltar a performance entre os anos 2000 e 2009. Período no qual ocorreram duas importante crises: bolha da internet (“dot-com”) e bolha hipotecária."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#performace-em-crises",
+    "href": "posts/tsmom/index.html#performace-em-crises",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Performace em crises",
+    "text": "Performace em crises\n\n\n\nPerformace em crises\n\n\nUma das principais características desse algoritmo é a sua resiliência em períodos de crise. Aqui temos novamente o caso da crise de 2008, quando o mercado foi acumulando quedas constantes nos preços, refletindo numa tendência de momentum negativo. E no auge da crise, em outubro, os preços de commodities e ações caíram drasticamente. Propiciando assim um momentum muito negativo. Nessa situação, o TSMOM se posicionou majoritariamente vendido, gerando grandes lucros no último trimestre de 2008."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#momentum-composto-e-com-garman-klass",
+    "href": "posts/tsmom/index.html#momentum-composto-e-com-garman-klass",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Momentum composto e com Garman-Klass",
+    "text": "Momentum composto e com Garman-Klass\n\n\n\nAprimoramentos TSMOM\n\n\nCom o intuito de adicionar mais informações no modelo, utilizamos o estimador de risco Garman-Klass e construímos um momentum modificado. Que é basicamente a média de momentums com períodos diferentes, os escolhidos foram 3, 6 e 12 meses. Essas modificações fizeram nosso algoritmo performar melhor que o Long Only, tal feito pode ser justificado pela a adição de informações mais recentes ao modelo, fazendo-o reagir mais rapidamente a grandes variações de preço. Com essas modificações alcançamos o resultado de 951,62%! Que anualizado implica em 13,18%."
+  },
+  {
+    "objectID": "posts/tsmom/index.html#aprimoramentos",
+    "href": "posts/tsmom/index.html#aprimoramentos",
+    "title": "Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum",
+    "section": "Aprimoramentos",
+    "text": "Aprimoramentos\nResultados bem expressivos né? Porém essa estratégia parte de um pressuposto muito simples, que é de que o momentum de 12 meses é suficiente para decidir a compra ou venda um ativo pelo próximo mês, assumindo que o seu momentum será mantido! Podemos aprimorar esse algoritmo com o auxílio de feature engineering, técnicas de cross validação em séries temporais e machine learning, que podemos abordar em um futuro artigo."
   }
 ]
