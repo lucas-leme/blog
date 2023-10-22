@@ -11,25 +11,7 @@ execute:
 draft: true
 ---
 
-A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto quanto no longo prazo. Uma variável agregada é aquela que representa o comportamento de um conjunto de variáveis. Por exemplo, o PIB é uma variável agregada que representa o valor total de todos os bens e serviços produzidos em uma economia.
-
-Nesta introdução, vamos nos concentrar na composição do PIB, com ênfase no Brasil. Ao entender os componentes do PIB, podemos obter insights sobre a saúde e o desempenho geral da economia.
-
-## Como estimar o PIB?
-
-Existem duas principais formas de estimar o PIB: Produção Agregada e Renda.
-
-### Produção Agregada
-
-Através da produção agregada, é possível estimar o PIB com base em quatro componentes: Consumo, Investimento, Gastos do Governo e Exportações Líquidas. A ideia por trás dessa abordagem é que o PIB é a soma de todos os bens e serviços produzidos em uma economia. E para produzir esses bens e serviços, é necessário consumir, investir, gastar e exportar. Na equação @eq-producao_agregada, temos a representação matemática dessa abordagem.
-
-$$
-    PIB = C + I + G + (X - M)
-$$ {#eq-producao_agregada}
-
-
-```{python, eval=FALSE}
-
+```{python}
 import statsmodels.api as sm
 import plotly.express as px
 import plotly.graph_objects as go
@@ -47,6 +29,16 @@ if True:
 warnings.filterwarnings('ignore')
 
 ```
+
+A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto quanto no longo prazo. Uma variável agregada é aquela que representa o comportamento de um conjunto de variáveis. Por exemplo, o PIB é uma variável agregada que representa o valor total de todos os bens e serviços produzidos em uma economia.
+
+Nesta introdução, vamos nos concentrar na composição do PIB, com ênfase no Brasil. Ao entender os componentes do PIB, podemos obter insights sobre a saúde e o desempenho geral da economia.
+
+## Como estimar o PIB?
+
+Existem duas principais formas de estimar o PIB: Oferta e Demanda.
+
+Nesse estudo, vamos utilizar analisar o PIB sob as duas óticas. Para isso, vamos utilizar os dados do IBGE que são disponibilizados via SIDRA [^1]
 
 ```{python, eval=FALSE}
 
@@ -138,7 +130,6 @@ income_dataset = pd.DataFrame({
 
 ```
 
-
 ```{python, eval=FALSE}
 # desasonilização
 
@@ -178,6 +169,186 @@ income_dataset_cumulative = pd.DataFrame({
 pib_cumulative = (1 + pib_des.pct_change()).cumprod()
 ```
 
+```{python, eval=FALSE}
+
+
+def add_recessions_to_fig(fig, low, top):
+
+    high_shift = .15
+    low_shift = .4
+
+    annot_shift = .02
+
+    fig.add_shape(
+        # Vertical Line
+        type="line",
+        x0="2008-01-01",
+        y0=low,
+        x1="2008-01-01",
+        y1=top-high_shift-annot_shift,
+        line=dict(
+            color="gray",
+            width=1,
+            dash="dot",
+        )
+    )
+
+    fig.add_shape(
+        # Vertical Line
+        type="line",
+        x0="2015-01-01",
+        y0=low,
+        x1="2015-01-01",
+        y1=top-low_shift-annot_shift,
+        line=dict(
+            color="gray",
+            width=1,
+            dash="dot",
+        )
+    )
+
+    fig.add_shape(
+        # Vertical Line
+        type="line",
+        x0="2020-01-01",
+        y0=low,
+        x1="2020-01-01",
+        y1=top-high_shift-annot_shift,
+        line=dict(
+            color="gray",
+            width=1,
+            dash="dot",
+        )
+    )
+
+    fig.add_annotation(
+        x="2008-01-01",
+        y=top-high_shift,
+        text="Crise Financeira",
+        showarrow=False,
+        yshift=10
+    )
+
+    fig.add_annotation(
+        x="2015-01-01",
+        y=top-low_shift,
+        text="Crise Governo<br>Dilma",
+        showarrow=False,
+        yshift=10
+    )
+
+    fig.add_annotation(
+        x="2020-01-01",
+        y=top-high_shift,
+        text="Crise Covid-19",
+        showarrow=False,
+        yshift=10
+    )
+
+    return fig
+
+
+```
+
+### Oferta
+
+Pela ótica da oferta podemos expressar o PIB com base em quatro componentes: Consumo, Investimento, Gastos do Governo e Exportações Líquidas. A ideia por trás dessa abordagem é que o PIB é a soma de todos os bens e serviços produzidos em uma economia. E para produzir esses bens e serviços, é necessário consumir, investir, gastar e exportar --- todos termos ligados à oferta. 
+
+Na equação @eq-producao_agregada, temos a representação matemática dessa abordagem.
+
+$$
+    PIB = C + I + G + (X - M)
+$$ {#eq-producao_agregada}
+
+Onde: $C$ é o consumo, $I$ é o investimento, $G$ são os gastos do governo e $X - M$ é a diferença entre exportações e importações, que vamos chamar de exportações líquidas.
+
+Analisando o historico dessazonalizado dos componentes do PIB na @fig-oferta, podemos observar que Investimentos e Exportações Líquidas são os itens mais voláteis, principalmente em momentos de crise. Por outro lado, o consumo e os gastos do governo são mais estáveis.
+
+```{python, eval=TRUE}
+# | label: fig-oferta
+# | fig-cap: Evolução dos componentes de produção do PIB desde 1996
+low = -0.3
+top = 1.5
+
+fig = make_fig()
+
+for nome in product_dataset_cumulative.columns:
+    fig.add_trace(go.Scatter(
+        x=product_dataset_cumulative.index,
+        y=product_dataset_cumulative[nome]-1,
+        name=nome,
+        mode='lines',
+        line=dict(width=2.5),
+    ))
+
+fig.add_trace(go.Scatter(
+    x=pib_cumulative.index,
+    y=pib_cumulative-1,
+    name='PIB',
+    mode='lines',
+    line=dict(width=6),
+    # set color
+    marker_color='black'
+))
+
+fig.update_layout(
+    title='A influência das commodities na produção brasileira<br>Exportações e Investimentos são os principais motores do crescimento.<br><sup>Evolução dos componentes de produção do PIB desde 1996</sup>')
+
+fig.update_yaxes(tickformat=".0%", title='Variação acumulada',
+                 range=[low, top], nticks=4)
+
+# Add 2008, 2015 and 2020 recessions
+
+fig = add_recessions_to_fig(fig, low, top)
+
+fig.show()
+```
+
+Durante os 2 primeiros mandatos do Lula, o Brasil passou por um período de forte crescimento econômico. Esse crescimento foi impulsionado por um aumento significativo dos preços das commodities [^2], que por sua vez, impulsionou o indicador de Exportações Líquidas.
+
+Em 2008, o Brasil foi atingido pela crise financeira global. Proxímo desse período, podemos observar uma queda significativa nas Exportações Líquidas e um aumento nos Investimentos. 
+
+```{python, eval=TRUE}
+
+# PIB sob a ótica da renda
+
+low = -0.3
+top = 1.5
+
+fig = make_fig()
+
+for nome in income_dataset_cumulative.columns:
+    fig.add_trace(go.Scatter(
+        x=income_dataset_cumulative.index,
+        y=income_dataset_cumulative[nome]-1,
+        name=nome,
+        mode='lines',
+        line=dict(width=2.5),
+    ))
+
+fig.add_trace(go.Scatter(
+    x=pib_cumulative.index,
+    y=pib_cumulative-1,
+    name='PIB',
+    mode='lines',
+    line=dict(width=6),
+    # set color
+    marker_color='black'
+))
+
+fig.update_layout(
+    title='Brasil: O País do Agro; Incapacidade de Evolução Industría;<br> e Serviços em leve Expansão.<br><sup>Evolução dos componentes de renda do PIB desde 1996</sup>')
+
+fig.update_yaxes(tickformat=".0%", title='Variação acumulada',
+                 range=[low, top], nticks=4)
+
+# Add 2008, 2015 and 2020 recessions
+
+fig = add_recessions_to_fig(fig, low, top)
+
+fig.show()
+```
+
 ```{python, eval=FALSE}	
 
 # plot pib com e sem desasonalização
@@ -207,38 +378,8 @@ fig.update_layout(
     title='PIB Dessazonalizado: Ideal para visualizar tendências no longo prazo.<br><sup>PIB Histórico do Brasil</sup>')
 
 
-fig.show()
 ```
 
-```{python, eval=TRUE}
-# PIB sob a ótica da produção
+[^1]: O SIDRA é um sistema que permite a consulta de dados e indicadores do IBGE. Para acessar os dados do PIB, basta acessar o link [https://sidra.ibge.gov.br/tabela/1620](https://sidra.ibge.gov.br/tabela/1620).
 
-fig = make_fig()
-
-for nome in product_dataset_cumulative.columns:
-    fig.add_trace(go.Scatter(
-        x=product_dataset_cumulative.index,
-        y=product_dataset_cumulative[nome]-1,
-        name=nome,
-        mode='lines',
-        line=dict(width=3),
-    ))
-
-fig.add_trace(go.Scatter(
-    x=pib_cumulative.index,
-    y=pib_cumulative-1,
-    name='PIB',
-    mode='lines',
-    line=dict(width=10),
-    # set color
-    marker_color='black'
-))
-
-fig.update_layout(
-    title='PIB sob a ótica da produção: Ideal para visualizar tendências no longo prazo.<br><sup>Evolução dos componentes de produção do PIB desde 1996</sup>')
-
-fig.update_yaxes(tickformat=".0%", title='Variação acumulada',
-                 range=[-0.3, 1.5], nticks=4)
-
-fig.show()
-```
+[^2]: O crescimento ocorreu em grande parte devido à crescente demanda das economias emergentes, principalmente da China: [https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000](https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000)
