@@ -22,7 +22,9 @@ format:
       light:
         - litera
         - styles/leme.scss
-      dark: solar
+      dark:
+        - cyborg
+        - styles/leme.scss
     page-layout: full
 
 lang: pt-BR

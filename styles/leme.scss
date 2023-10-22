@@ -3,7 +3,14 @@
     src: url('styles/Gotu-Regular.ttf') format('truetype');
     font-weight: normal; /* Este é o estilo 'Regular' */
     font-style: normal; /* Pode ser 'italic' para itálico, se aplicável */
-  }
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url('styles/Lexend-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal; /* Este é o estilo 'Regular' */
+    font-style: normal; /* Pode ser 'italic' para itálico, se aplicável */
+}
 
 
 // scss-docs-start gray-color-variables
@@ -44,15 +51,15 @@ $danger:        $red !default;
 $light:         $white !default;
 $dark:          $gray !default;
 
-$font-family-sans-serif: "Gotu";
-$font-family-base: "Gotu";
+$font-family-sans-serif: "Lexend";
+$font-family-base: "Lexend";
 
 p {
     font-family: $font-family-base !important;
 }
 
 a {
-    font-family: "Montserrat" !important;
+    font-family: "Lexend" !important;
 }
 
 $headings-font-family: "Gotu";
