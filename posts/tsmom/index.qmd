@@ -78,7 +78,7 @@ $$ {#eq-parkinson}
 Para calcular essa estimativa são necessários dois parâmetros $N$ e $n$. Sendo $N$ um fator de escala dos períodos, se for necessário um desvio padrão diário atribui-se $N = 1$, já para o desvio padrão anual N = 365. O segundo parâmetro n é o tamanho da amostra de dados passados que serão utilizados no modelo. Escolhido n realiza-se o somatório dos n períodos passados, da seguinte operação: logaritmo da divisão do preço de alta e baixa dos n períodos, e por fim eleva-se ao quadrado para realizar a soma, a formula completa pode ser vista na @eq-parkinson.
 
 
-#### Garman-Klass
+#### Garman-Klass [^4]
 
 Garman é uma extensão do número de parkinson, porém agora com a inserção de mais dados no modelo, que são preços de abertura e fechamento do dia. Esses dados ajudam a aumentar a precisão do estimador, principalmente em ativos com maior estresse em momentos de abertura e fechamento. O cálculo é similar ao estimador anterior, pode ser visto na @eq-garman.
 
@@ -163,3 +163,5 @@ Resultados bem expressivos né? Porém essa estratégia parte de um pressuposto 
 [^2]: [Exponentially Weighted Moving Average (EWMA)](https://www.ivolatility.com/help/6.html#s)
 
 [^3]: [Parkinson's Historical Volatility](https://www.ivolatility.com/help/3.html)
+
+[^4]: [Logarithmic Garman Klass (LGK)](https://www.ivolatility.com/help/7.html)
