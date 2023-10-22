@@ -237,8 +237,8 @@ Momentum = r_{t-k, t} = \frac{P_t - P_{t-k}}{P_{t-k}}
 \tag{2}\]</span></span></p>
 <p>Para calcular essa estimativa são necessários dois parâmetros <span class="math inline">\(N\)</span> e <span class="math inline">\(n\)</span>. Sendo <span class="math inline">\(N\)</span> um fator de escala dos períodos, se for necessário um desvio padrão diário atribui-se <span class="math inline">\(N = 1\)</span>, já para o desvio padrão anual N = 365. O segundo parâmetro n é o tamanho da amostra de dados passados que serão utilizados no modelo. Escolhido n realiza-se o somatório dos n períodos passados, da seguinte operação: logaritmo da divisão do preço de alta e baixa dos n períodos, e por fim eleva-se ao quadrado para realizar a soma, a formula completa pode ser vista na <a href="#eq-parkinson">Equação&nbsp;2</a>.</p>
 </section>
-<section id="garman-klass" class="level4">
-<h4 class="anchored" data-anchor-id="garman-klass">Garman-Klass</h4>
+<section id="garman-klass-4" class="level4">
+<h4 class="anchored" data-anchor-id="garman-klass-4">Garman-Klass <a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></h4>
 <p>Garman é uma extensão do número de parkinson, porém agora com a inserção de mais dados no modelo, que são preços de abertura e fechamento do dia. Esses dados ajudam a aumentar a precisão do estimador, principalmente em ativos com maior estresse em momentos de abertura e fechamento. O cálculo é similar ao estimador anterior, pode ser visto na <a href="#eq-garman">Equação&nbsp;3</a>.</p>
 <p><span id="eq-garman"><span class="math display">\[
 \sigma=\sqrt{\frac{N}{n} \sum_{i=1}^n\left[\frac{1}{2}\left(\log \frac{H_i}{L_i}\right)^2-(2 \log 2-1)\left(\log \frac{C_i}{O_i}\right)^2\right]}
@@ -325,6 +325,7 @@ r_{t, t+1}^{\mathrm{TSMOM}}=\frac{1}{S_t} \sum_{s=1}^{S_t} \operatorname{sign}\l
 <li id="fn1"><p><a href="https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp">Efficient Market Hypothesis (EMH): Definition and Critique</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p><a href="https://www.ivolatility.com/help/6.html#s">Exponentially Weighted Moving Average (EWMA)</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn3"><p><a href="https://www.ivolatility.com/help/3.html">Parkinson’s Historical Volatility</a><a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p><a href="https://www.ivolatility.com/help/7.html">Logarithmic Garman Klass (LGK)</a><a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
