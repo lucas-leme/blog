@@ -292,7 +292,7 @@ fig.add_trace(go.Scatter(
 ))
 
 fig.update_layout(
-    title='A influência das commodities na produção brasileira<br>Exportações e Investimentos são os principais motores do crescimento.<br><sup>Evolução dos componentes de produção do PIB desde 1996</sup>')
+    title='A influência das commodities na produção brasileira<br><b>Exportações e Investimentos são os principais motores do crescimento.<br><sup>Evolução dos componentes de produção do PIB desde 1996</sup>')
 
 fig.update_yaxes(tickformat=".0%", title='Variação acumulada',
                  range=[low, top], nticks=4)
@@ -306,7 +306,7 @@ fig.show()
 
 Durante os 2 primeiros mandatos do Lula, o Brasil passou por um período de forte crescimento econômico. Esse crescimento foi impulsionado por um aumento significativo dos preços das commodities [^2], que por sua vez, impulsionou o indicador de Exportações Líquidas.
 
-Em 2008, o Brasil foi atingido pela crise financeira global. Proxímo desse período, podemos observar uma queda significativa nas Exportações Líquidas e um aumento nos Investimentos. 
+Em 2008, o Brasil foi atingido pela crise financeira global. Proxímo desse período, podemos observar uma queda significativa nas Exportações Líquidas após o *boom das commodities* um aumento nos Investimentos. O Diante da crise o governo utilizou uma variadade de instrumentos para diminuir os impactos, dentre eles: linhas de crédito para exportações, redução de impostos e intervenções no mercado cambial [^3]. A nota distoante do perído foi a manutenção da taxa de juros por parte do Banco Central (Henrique Meirelles), com um alto diferencial de juros uma deterioração mais drástica das expectativas do agentes foi evitada. Em 2009, o crescimento da formação bruta de capital fixo (FBKI - Investimentos) contribui positivamente para o PIB.
 
 ```{python, eval=TRUE}
 
@@ -383,3 +383,5 @@ fig.update_layout(
 [^1]: O SIDRA é um sistema que permite a consulta de dados e indicadores do IBGE. Para acessar os dados do PIB, basta acessar o link [https://sidra.ibge.gov.br/tabela/1620](https://sidra.ibge.gov.br/tabela/1620).
 
 [^2]: O crescimento ocorreu em grande parte devido à crescente demanda das economias emergentes, principalmente da China: [https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000](https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000)
+
+[^3]: Crise e perspectivas para a economia brasileira - 10.1590/s0103-40142017.31890013
