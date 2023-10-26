@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Lucas Leme Santos">
 
-<title>Lucas Leme - Posts</title>
+<title>Lucas Leme - Arquitetura de Fundos de Previdência Complementar</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -63,35 +62,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
 
 <script type="text/javascript">
@@ -101,11 +71,17 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 </script>
+<script src="../../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Lucas Leme - Posts">
+<meta property="og:title" content="Lucas Leme - Arquitetura de Fundos de Previdência Complementar">
+<meta property="og:description" content="Compreendendo a Estrutura dos Fundos PGBL e VGBL">
+<meta property="og:image" content="https://lucas-leme.github.io/blog/posts/arquitetura-fundos-prev/capa.png">
 <meta property="og:site-name" content="Lucas Leme">
+<meta property="og:image:height" content="459">
+<meta property="og:image:width" content="805">
 </head>
 
 <body class="nav-fixed">
@@ -115,7 +91,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
@@ -125,7 +101,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="../../about.html">
  <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
@@ -156,14 +132,29 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Posts</h1>
-                      </div>
+      <h1 class="title">Arquitetura de Fundos de Previdência Complementar</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">previdência</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lucas Leme Santos </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">20 de outubro de 2023</p>
+      </div>
+    </div>
     
       
     </div>
@@ -173,157 +164,123 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(4)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="english">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nlp">nlp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="previdência">previdência <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quant">quant <span class="quarto-category-count">(3)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#fundos-de-previdência" id="toc-fundos-de-previdência" class="nav-link active" data-scroll-target="#fundos-de-previdência">Fundos de Previdência</a>
+  <ul class="collapse">
+  <li><a href="#fie" id="toc-fie" class="nav-link" data-scroll-target="#fie">FIE</a></li>
+  <li><a href="#fife" id="toc-fife" class="nav-link" data-scroll-target="#fife">FIFE</a></li>
+  </ul></li>
+  <li><a href="#qual-é-o-motivo-dessa-estrutura" id="toc-qual-é-o-motivo-dessa-estrutura" class="nav-link" data-scroll-target="#qual-é-o-motivo-dessa-estrutura">Qual é o motivo dessa estrutura?</a></li>
+  <li><a href="#conclusão" id="toc-conclusão" class="nav-link" data-scroll-target="#conclusão">Conclusão</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
+<p>Compreendendo a Estrutura dos Fundos PGBL e VGBL</p>
+<p>No Brasil, encontramos uma variedade de opções de investimento, como ações, títulos públicos, fundos de investimento, fundos imobiliários e outros. Um tipo de investimento particularmente interessante são os fundos de previdência, que não apenas envolvem fundos de investimento em sua composição, mas também oferecem benefícios fiscais atrativos para os investidores.</p>
+<p>Embora os fundos de previdência apresentem diversas características, este artigo tem como objetivo fornecer uma abordagem técnica para compreender a estrutura dos fundos de previdência.</p>
+<section id="fundos-de-previdência" class="level2">
+<h2 class="anchored" data-anchor-id="fundos-de-previdência">Fundos de Previdência</h2>
+<p>Um dos principais órgãos regulatórios de investimentos no Brasil é a CVM (Comissão de Valores Mobiliários), responsável por regular e fiscalizar o mercado de capitais no país. Todos os fundos de investimento estão sob a regulamentação da CVM. No entanto, no caso da previdência complementar, existe outro órgão regulatório, a SUSEP (Superintendência de Seguros Privados), que é responsável por regular e fiscalizar o mercado de seguros privados no Brasil.</p>
+<p>Para a regulamentação desses investimentos, é aplicada a Resolução CMN nº 4.993<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>, que estabelece as regras e critérios para a constituição, organização e funcionamento dos fundos de investimento regulados pela SUSEP.</p>
+<p>Além da definição de modalidades e limites de investimento, a resolução também define a estrutura dos fundos de previdência, que compreende o FIFE, FIE Tipo I e FIE Tipo II.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<p>
+</p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-1">flowchart LR
+
+    A[FIE Tipo II] --&gt;|Só pode investir\nem FIFEs| B[FIFE] 
+    C[FIE Tipo I] --&gt; B[FIFE]
+    C[FIE Tipo I] --&gt; |Somente Tipo I\nComo Cotistas| A[FIE Tipo II]
+
+</pre>
+<div id="mermaid-tooltip-1" class="mermaidTooltip">
+
+</div>
+<p></p>
+</div>
+</div>
+</div>
+<section id="fie" class="level3">
+<h3 class="anchored" data-anchor-id="fie">FIE</h3>
+<p>FIE é um <em>fundo de investimento especialmente constituído</em> para receber recursos de previdência complementar. Os recursos são recebidos apenas de forma indireta, por meio de sociedades seguradoras. Os FIEs podem ser classificados em dois tipos: FIE Tipo I e FIE Tipo II.</p>
+<p>FIE Tipo I é um fundo FIC (Fundo de Investimento em Cotas) que possui apenas um cotista, que a seguradora. E o FIE Tipo I só pode investir em FIFEs ou em outros FIEs Tipo II. Já o FIE Tipo II só pode investir em FIFEs, e pode ter mais de um cotista, que são os FIEs Tipo I.</p>
+</section>
+<section id="fife" class="level3">
+<h3 class="anchored" data-anchor-id="fife">FIFE</h3>
+<p>E na ponta da estrutura de fundos de previdência, temos o FIFE, que é um fundo de investimento que pode investir em divesas modalidades de investimento, como ações, títulos públicos, títulos privados, fundos imobiliários, entre outros; desde que estejam de dentro dos limites definidos pela Resolução CMN nº 4993 <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a>.</p>
+</section>
+</section>
+<section id="qual-é-o-motivo-dessa-estrutura" class="level2">
+<h2 class="anchored" data-anchor-id="qual-é-o-motivo-dessa-estrutura">Qual é o motivo dessa estrutura?</h2>
+<p>Essa estrutura é projetada para proporcionar maior flexibilidade na criação de produtos, especialmente no que diz respeito às taxas de administração. O FIFE, que é o fundo que realiza os investimentos em ativos finais, pode ter uma taxa de administração mais baixa, o que permite à seguradora personalizar as taxas nos FIEs de acordo com o cliente ou o produto desejado.</p>
+<p>Aqui está um exemplo hipotético de uma estrutura de fundos de previdência composta por três fundos: Renda Fixa, Renda Variável e Multimercado. Cada fundo tem uma taxa de administração diferente. Na arquitetura do Multimercado, há um FIE Tipo I que investe em FIEs Tipo II e FIFE, que possuem taxas de administração mais baixas. Isso possibilita a criação de uma estrutura com custos internos menores e a possibilidade de ajustar a taxa no FIE Tipo I para o cliente final.</p>
+<div class="cell">
+<div class="cell-output-display">
+<div>
+<p>
+</p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-2">flowchart LR
+
+    cotista[Cotista] --&gt; |Taxa: 0,75%| Multimercado[FIE Tipo I\nMultimercado]
+    cotista[Cotista] --&gt; |Taxa: 0,15%| FIE_RF[FIE Tipo I]
+    cotista[Cotista] --&gt; |Taxa: 2%| FIE_RV[FIE Tipo I]
+
+    subgraph F_RF[Fundos de Renda Fixa]
+        direction LR
+        FIE_RF[FIE Tipo I] --&gt;|Taxa: 0,10%| FIFE_RF[FIFE]
+    end
+
+    Multimercado[FIE Tipo I\nMultimercado] --&gt;|Taxa: 0,5%| FIE2_RV[FIE Tipo II]
+    Multimercado[FIE Tipo I\nMultimercado] --&gt;|Taxa: 0,10%| FIFE_RF[FIFE]
+
+    subgraph F_RV[Fundos de Renda Variável]
+        
+        direction LR
+        FIE2_RV[FIE Tipo II] --&gt;|Taxa: 0%| FIFE_RV[FIFE] 
+        FIE_RV[FIE Tipo I] --&gt;|Taxa: 0%| FIE2_RV[FIE Tipo II]
+    end
+
+    style F_RF fill:#c6e9fe
+    style F_RV fill:#c6e9fe
+
+    style FIE_RF fill:#b0e157
+    style FIE_RV fill:#f9a785
+    style Multimercado fill:#068b7f
 
 
+</pre>
+<div id="mermaid-tooltip-2" class="mermaidTooltip">
+
+</div>
+<p></p>
+</div>
+</div>
+</div>
+</section>
+<section id="conclusão" class="level2">
+<h2 class="anchored" data-anchor-id="conclusão">Conclusão</h2>
+<p>O universo da previdência complementar é extenso e envolve muitos detalhes relacionados à regulamentação, tributação e criação de produtos. O propósito deste artigo é oferecer uma visão técnica da estrutura dos fundos de previdência, que se compõe de FIFE, FIE Tipo I e FIE Tipo II.</p>
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="previdência" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1698358061171" data-listing-reading-time-sort="3.875">
-<a href="./posts/arquitetura-fundos-prev/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/arquitetura-fundos-prev/capa.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Arquitetura de Fundos de Previdência Complementar
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('previdência'); return false;">
-previdência
-</div>
-</div>
-<div class="card-text listing-description">
-Compreendendo a Estrutura dos Fundos PGBL e VGBL
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-20 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="quant,nlp,english" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1697984677810" data-listing-reading-time-sort="8.045">
-<a href="./posts/finbert-pt-br/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nlp'); return false;">
-nlp
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('english'); return false;">
-english
-</div>
-</div>
-<div class="card-text listing-description">
-Training LLM to analyze the Brazilian financial news.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-20 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="quant,code" data-listing-date-sort="1684119600000" data-listing-file-modified-sort="1697984705950" data-listing-reading-time-sort="6.16">
-<a href="./posts/quebra-de-correlacoes/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Como identificar quebra de correlações na Bolsa de Valores?
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-</div>
-<div class="card-text listing-description">
-Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-15 de mai. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="quant,intro" data-listing-date-sort="1589684400000" data-listing-file-modified-sort="1697984713350" data-listing-reading-time-sort="8.255">
-<a href="./posts/tsmom/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://miro.medium.com/v2/resize:fit:640/1*0L6EOX9C1SZSyCPQ0AMauA.gif" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="card-text listing-description">
-O algoritmo de investimento que teve 951,62% de rentabilidade
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-17 de mai. de 2020
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
-</div></main> <!-- /main -->
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas de rodapé</h2>
+
+<ol>
+<li id="fn1"><p>4993: <a href="https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&amp;numero=4993">Resolução no Site do Banco Central</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Cartilha de investimento com tabela resumindo os limites: <a href="http://www.susep.gov.br/setores-susep/cgsoa/comat/Cartilha%20de%20Investimentos_v11_Fevereiro-2020.pdf">Cartilha de Investimentos</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
