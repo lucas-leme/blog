@@ -1,0 +1,36 @@
+---
+title: "Estimando parâmetros da curva de Juros via PCA"
+author: "Lucas Leme Santos"
+date: "2023-10-20"
+categories: [macro, pib]
+toc: true
+toc_sticky: true
+execute:
+  echo: false
+
+draft: true
+---
+
+No modelo proposto por Svensson (1994), é possível representar toda a curva de juros com apenas 3 fatores,
+que podem ser estimados com 6 variáveis. Os fatores são: Nível, inclinação e curvatura.
+
+A taxa de juros na data $t$ para o prazo $\tau$ é dada por:
+
+$$
+r_t(\tau) = \beta_{1t} + \beta_{2t}(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau}) + \beta_3t(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau} - e^{-\lambda_{1t} \tau}) + \beta_{4t}(\frac{1-e^{-\lambda_{2t} \tau}}{\lambda_{2t} \tau} - e^{-\lambda_{2t} \tau})
+$$
+
+Onde $\beta_{1t}$ representa o nível da curva de juros, $\beta_{2t}$ a inclinação e $\beta_{3t}$ e $\beta_{4t}$ a curvatura. $\lambda_{1t}$ e $\lambda_{2t}$ caracterizam o decaimento, determinando onde $\beta_{3t}$ e $\beta_{4t}$ atinge seu máximo.
+
+## Conceitos Relevantes
+
+#### VNA - Valor Nominal Atualizado
+
+O VNA é um indicador que demonstra o valor do principal de um título caso o vencimento fosse hoje.
+O seu cálculo é efetuado a partir variação do IPCA no perído, então dado um VNA inicial $VNA_{t=0}$ e a variação
+do IPCA no período $\Delta IPCA_{t, t+1}$, o VNA no período seguinte é dado por: 
+
+$$
+VNA_{t=1} = VNA_{t=0} \times (1 + \Delta IPCA_{t, t+1})
+$$
+

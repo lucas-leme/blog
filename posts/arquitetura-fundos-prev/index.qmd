@@ -1,0 +1,92 @@
+---
+title: "Arquitetura de Fundos de Previdência Complementar"
+author: "Lucas Leme Santos"
+date: "2023-10-20"
+categories: [previdência]
+toc: true
+toc_sticky: true
+image: capa.png
+execute:
+  echo: false
+---
+
+Compreendendo a Estrutura dos Fundos PGBL e VGBL
+
+No Brasil, encontramos uma variedade de opções de investimento, como ações, títulos públicos, fundos de investimento, fundos imobiliários e outros. Um tipo de investimento particularmente interessante são os fundos de previdência, que não apenas envolvem fundos de investimento em sua composição, mas também oferecem benefícios fiscais atrativos para os investidores.
+
+Embora os fundos de previdência apresentem diversas características, este artigo tem como objetivo fornecer uma abordagem técnica para compreender a estrutura dos fundos de previdência.
+
+## Fundos de Previdência
+
+
+Um dos principais órgãos regulatórios de investimentos no Brasil é a CVM (Comissão de Valores Mobiliários), responsável por regular e fiscalizar o mercado de capitais no país. Todos os fundos de investimento estão sob a regulamentação da CVM. No entanto, no caso da previdência complementar, existe outro órgão regulatório, a SUSEP (Superintendência de Seguros Privados), que é responsável por regular e fiscalizar o mercado de seguros privados no Brasil.
+
+Para a regulamentação desses investimentos, é aplicada a Resolução CMN nº 4.993[^1], que estabelece as regras e critérios para a constituição, organização e funcionamento dos fundos de investimento regulados pela SUSEP.
+
+Além da definição de modalidades e limites de investimento, a resolução também define a estrutura dos fundos de previdência, que compreende o FIFE, FIE Tipo I e FIE Tipo II.
+
+```{mermaid}
+flowchart LR
+
+    A[FIE Tipo II] -->|Só pode investir\nem FIFEs| B[FIFE] 
+    C[FIE Tipo I] --> B[FIFE]
+    C[FIE Tipo I] --> |Somente Tipo I\nComo Cotistas| A[FIE Tipo II]
+
+```
+
+### FIE
+
+FIE é um *fundo de investimento especialmente constituído* para receber recursos de previdência complementar. Os recursos são recebidos apenas de forma indireta, por meio de sociedades seguradoras. Os FIEs podem ser classificados em dois tipos: FIE Tipo I e FIE Tipo II.
+
+FIE Tipo I é um fundo FIC (Fundo de Investimento em Cotas) que possui apenas um cotista, que a seguradora. E o FIE Tipo I só pode investir em FIFEs ou em outros FIEs Tipo II.
+Já o FIE Tipo II só pode investir em FIFEs, e pode ter mais de um cotista, que são os FIEs Tipo I.
+
+### FIFE
+
+E na ponta da estrutura de fundos de previdência, temos o FIFE, que é um fundo de investimento que pode investir em divesas modalidades de investimento, como ações, títulos públicos, títulos privados, fundos imobiliários, entre outros; desde que estejam de dentro dos limites definidos pela Resolução CMN nº 4993 [^2].
+
+## Qual é o motivo dessa estrutura?
+
+Essa estrutura é projetada para proporcionar maior flexibilidade na criação de produtos, especialmente no que diz respeito às taxas de administração. O FIFE, que é o fundo que realiza os investimentos em ativos finais, pode ter uma taxa de administração mais baixa, o que permite à seguradora personalizar as taxas nos FIEs de acordo com o cliente ou o produto desejado.
+
+Aqui está um exemplo hipotético de uma estrutura de fundos de previdência composta por três fundos: Renda Fixa, Renda Variável e Multimercado. Cada fundo tem uma taxa de administração diferente. Na arquitetura do Multimercado, há um FIE Tipo I que investe em FIEs Tipo II e FIFE, que possuem taxas de administração mais baixas. Isso possibilita a criação de uma estrutura com custos internos menores e a possibilidade de ajustar a taxa no FIE Tipo I para o cliente final.
+
+```{mermaid}
+flowchart LR
+
+    cotista[Cotista] --> |Taxa: 0,75%| Multimercado[FIE Tipo I\nMultimercado]
+    cotista[Cotista] --> |Taxa: 0,15%| FIE_RF[FIE Tipo I]
+    cotista[Cotista] --> |Taxa: 2%| FIE_RV[FIE Tipo I]
+
+    subgraph F_RF[Fundos de Renda Fixa]
+        direction LR
+        FIE_RF[FIE Tipo I] -->|Taxa: 0,10%| FIFE_RF[FIFE]
+    end
+
+    Multimercado[FIE Tipo I\nMultimercado] -->|Taxa: 0,5%| FIE2_RV[FIE Tipo II]
+    Multimercado[FIE Tipo I\nMultimercado] -->|Taxa: 0,10%| FIFE_RF[FIFE]
+
+    subgraph F_RV[Fundos de Renda Variável]
+        
+        direction LR
+        FIE2_RV[FIE Tipo II] -->|Taxa: 0%| FIFE_RV[FIFE] 
+        FIE_RV[FIE Tipo I] -->|Taxa: 0%| FIE2_RV[FIE Tipo II]
+    end
+
+    style F_RF fill:#c6e9fe
+    style F_RV fill:#c6e9fe
+
+    style FIE_RF fill:#b0e157
+    style FIE_RV fill:#f9a785
+    style Multimercado fill:#068b7f
+
+
+```
+
+## Conclusão
+
+O universo da previdência complementar é extenso e envolve muitos detalhes relacionados à regulamentação, tributação e criação de produtos. O propósito deste artigo é oferecer uma visão técnica da estrutura dos fundos de previdência, que se compõe de FIFE, FIE Tipo I e FIE Tipo II.
+
+[^1]: 4993: [Resolução no  Site do Banco Central](https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4993)
+
+[^2]: Cartilha de investimento com tabela resumindo os limites: [Cartilha de Investimentos](http://www.susep.gov.br/setores-susep/cgsoa/comat/Cartilha%20de%20Investimentos_v11_Fevereiro-2020.pdf)
