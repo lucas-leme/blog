@@ -5,7 +5,11 @@ on:
     - cron: '0 0 * * 1' # At 00:00 on Monday
   # enable manual trigger
   workflow_dispatch:
-    - branches: [main]
+    inputs:
+      my_input:
+        description: 'My input description'
+        required: true
+
 
 jobs:
   build:
