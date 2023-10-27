@@ -1,4 +1,5 @@
 import feedparser
+import yaml
 
 feeds = {
     'Liberty Street Economics': 'https://feeds.feedburner.com/LibertyStreetEconomics'
@@ -70,8 +71,6 @@ def save_feed_data():
       path: "https://google.com"
       categories: [archived, technology]
     """
-    import yaml
-
     most_recent_posts = get_most_recent_post()
 
     with open('feed/feed.yaml', 'w') as outfile:
