@@ -43,3 +43,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
+      - name: Render and Publish Feed
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+          path: feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
