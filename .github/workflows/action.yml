@@ -3,6 +3,9 @@ name: Update feed
 on:
   schedule:
     - cron: '0 0 * * 1' # At 00:00 on Monday
+  # enable manual trigger
+  workflow_dispatch:
+    - branches: [main]
 
 jobs:
   build:
