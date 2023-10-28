@@ -2,8 +2,8 @@ name: Update feed
 
 on:
   schedule:
-    - cron: "0 0 * * 1" # At 00:00 on Monday
-  # enable manual trigger
+    # every 2 hours
+    - cron: "0 0 */2 * *"
   workflow_dispatch:
     inputs:
       my_input:
