@@ -2,13 +2,12 @@ name: Update feed
 
 on:
   schedule:
-    # every 2 hours
     - cron: "0 0 */2 * *"
-  workflow_dispatch:
-    inputs:
-      my_input:
-        description: "My input description"
-        required: true
+  # workflow_dispatch:
+  #   inputs:
+  #     my_input:
+  #       description: "My input description"
+  #       required: true
 
 jobs:
   build:
