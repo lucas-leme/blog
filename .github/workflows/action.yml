@@ -2,14 +2,13 @@ name: Update feed
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # At 00:00 on Monday
+    - cron: "0 0 * * 1" # At 00:00 on Monday
   # enable manual trigger
   workflow_dispatch:
     inputs:
       my_input:
-        description: 'My input description'
+        description: "My input description"
         required: true
-
 
 jobs:
   build:
@@ -21,7 +20,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10' # install the python version needed
+          python-version: "3.10" # install the python version needed
 
       - name: install python packages
         run: |
@@ -44,7 +43,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
 
-      - name: Render and Publish Feed
+      - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
