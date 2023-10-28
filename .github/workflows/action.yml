@@ -22,7 +22,7 @@ jobs:
         with:
           python-version: "3.10" # install the python version needed
 
-      - name: install python packages
+      - name: install feed reqs
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements_feed.txt
@@ -45,6 +45,11 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: install posts reqs
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements_feed.txt
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
