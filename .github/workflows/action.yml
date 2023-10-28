@@ -43,6 +43,9 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
 
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
