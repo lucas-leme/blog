@@ -6,6 +6,11 @@ website:
   favicon: favicon.ico
   google-analytics: "G-6ET4F49FZC"
   navbar:
+    left: 
+      - text: Posts
+        href: /
+      - text: Feed
+        href: /feed/
     right:
       - about.qmd
       - icon: linkedin

@@ -1,8 +1,101 @@
+from datetime import datetime
+
+import dateutil.parser
 import feedparser
 import yaml
 
+# feeds = {
+#     # Bancos Centrais
+#     # FED
+#     'Liberty Street Economics': 'https://feeds.feedburner.com/LibertyStreetEconomics',
+#     'FED: Chair Speeches': 'https://www.federalreserve.gov/feeds/s_t_powell.xml',
+#     'FED: Working Papers': 'https://www.federalreserve.gov/feeds/working_papers.xml',
+#     # Bacen
+#     'Bacen: Atas do Copom': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
+#     'Bacen: Comunicados Copom': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom',
+#     'Bacen: Relatório de Inflação': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/ri',
+#     'Bacen: Relatório Focus': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
+#     # Podcasts
+#     'Market Makers': 'https://spotifeed.timdorr.com/2MCrAB0JUTfHxP333dGJm7',
+#     'The Journal': 'https://spotifeed.timdorr.com/0KxdEdeY2Wb3zr28dMlQva',
+#     'Outliers': "https://spotifeed.timdorr.com/7vSK0uhbMcfLwOQMIlKLJE",
+#     'The View From Apollo': "https://spotifeed.timdorr.com/7a2pM9MgehqQHEHQ6FCZLu",
+#     'Money Talks': "https://spotifeed.timdorr.com/2Yvo8QxZf7WlSEsIwKjtX4",
+#     'Flirting with Models': "https://spotifeed.timdorr.com/1IXldCXztfTaZeHbtcDRQI",
+#     'The Morgan Housel': 'https://spotifeed.timdorr.com/2l01lGyIh9xodneIV37dD3'
+# }
+
 feeds = {
-    'Liberty Street Economics': 'https://feeds.feedburner.com/LibertyStreetEconomics'
+    'Liberty Street Economics': {
+        "url": 'https://feeds.feedburner.com/LibertyStreetEconomics',
+        "categories": ["Notícias", "FED", "BC"],
+        "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg"
+    },
+    'FED: Chair Speeches': {
+        "url": "https://www.federalreserve.gov/feeds/s_t_powell.xml",
+        "categories": ['Notícias', "FED", "BC"],
+        "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg"
+    },
+    'FED: Working Papers': {
+        "url": 'https://www.federalreserve.gov/feeds/working_papers.xml',
+        "categories": ["Notícias", "FED", "BC"],
+        "image": "https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp"
+    },
+    'Bacen: Atas do Copom': {
+        "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
+        "categories": ["Notícias", "Bacen", "BC"],
+        "image": ""
+    },
+    'Bacen: Comunicados Copom': {
+        "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom',
+        "categories": ["Notícias", "Bacen", "BC"],
+        "image": "https://cdn.oantagonista.com/cdn-cgi/image/fit=contain,width=960,format=auto/uploads/2023/08/53089476259_00fff6225f_o-scaled.jpg"
+    },
+    'Bacen: Relatório de Inflação': {
+        "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/ri',
+        "categories": ["Notícias", "Bacen", "BC"],
+        "image": ""
+    },
+    'Bacen: Relatório Focus': {
+        "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
+        "categories": ["Notícias", "Bacen", "BC"],
+        "image": "https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg"
+    },
+    'Market Makers': {
+        "url": 'https://spotifeed.timdorr.com/2MCrAB0JUTfHxP333dGJm7',
+        "categories": ["Podcasts"],
+        "image": ""
+    },
+    'The Journal': {
+        "url": 'https://spotifeed.timdorr.com/0KxdEdeY2Wb3zr28dMlQva',
+        "categories": ["Podcasts"],
+        "image": ""
+    },
+    'Outliers': {
+        "url": 'https://spotifeed.timdorr.com/7vSK0uhbMcfLwOQMIlKLJE',
+        "categories": ["Podcasts"],
+        "image": ""
+    },
+    'The View From Apollo': {
+        "url": 'https://spotifeed.timdorr.com/7a2pM9MgehqQHEHQ6FCZLu',
+        "categories": ["Podcasts"],
+        "image": ""
+    },
+    'Money Talks': {
+        "url": 'https://spotifeed.timdorr.com/2Yvo8QxZf7WlSEsIwKjtX4',
+        "categories": ["Podcasts"],
+        "image": ""
+    },
+    'Flirting with Models': {
+        "url": 'https://spotifeed.timdorr.com/1IXldCXztfTaZeHbtcDRQI',
+        "categories": ["Podcasts", "Quant"],
+        "image": ""
+    },
+    'The Morgan Housel': {
+        "url": 'https://spotifeed.timdorr.com/2l01lGyIh9xodneIV37dD3',
+        "categories": ["Podcasts"],
+        "image": ""
+    }
 }
 
 
@@ -22,12 +115,10 @@ def get_feed_info(feed_url):
             'title': entry.title,
             'link': entry.link,
             'description': entry.description,
-            'published': entry.published
+            'summary': entry.summary,
+            'published': entry.published if hasattr(entry, 'published') else entry.updated,
+            'image': entry.image['href'] if hasattr(entry, 'image') else None,
         })
-
-    # sort by published date
-    feed_info['entries'] = sorted(
-        feed_info['entries'], key=lambda k: k['published'], reverse=True)
 
     return feed_info
 
@@ -36,10 +127,24 @@ def get_feed_data():
 
     feed_data = {}
 
-    for feed_name, feed_url in feeds.items():
-        feed_data[feed_name] = get_feed_info(feed_url)
+    for feed_info in feeds.values():
+        feed_url = feed_info['url']
+
+        feed_data_i = get_feed_info(feed_url)
+
+        feed_data_i['categories'] = feed_info.get('categories', [])
+        feed_data_i['default_image'] = feed_info.get("image")
+
+        feed_data[feed_data_i['title']] = feed_data_i
 
     return feed_data
+
+
+def _convert_date_to_isoformat(date: str):
+
+    date: datetime = dateutil.parser.parse(date)
+
+    return date.isoformat()
 
 
 def get_most_recent_post(max_post_per_feed: int = 2):
@@ -55,8 +160,17 @@ def get_most_recent_post(max_post_per_feed: int = 2):
                 'author': feed_name,
                 'title': entry['title'],
                 'path': entry['link'],
-                'date': entry['published']
+                'date': _convert_date_to_isoformat(entry['published']),
+                'image': entry.get('image') if entry.get('image') is not None else feed_info.get('default_image'),
+                'description': entry.get('summary', None),
+                'categories': feed_info.get("categories")
             })
+
+    most_recent_posts = list(
+        {v['path']: v for v in most_recent_posts}.values())
+
+    most_recent_posts = sorted(
+        most_recent_posts, key=lambda k: k['date'], reverse=True)
 
     return most_recent_posts
 

@@ -1,9 +1,16 @@
 ---
 title: "Feed"
-page-layout: full
 title-block-banner: true
 listing:
-  id: sample-listings
+  filter-ui: true
+  feed: true
+  type: grid
+  grid-columns: 4
+  categories: true
+  page-size: 28
+  fields: [image, date, title, author, categories]
   contents: 
     - feed.yaml
 ---
+
+Conteúdo que acompanho.
