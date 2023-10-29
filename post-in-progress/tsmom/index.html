@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Lucas Leme Santos">
 
-<title>Lucas Leme - Estimando parâmetros da curva de Juros via PCA</title>
+<title>Lucas Leme – index</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,21 +61,10 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
-</script>
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Lucas Leme - Estimando parâmetros da curva de Juros via PCA">
-<meta property="og:description" content="No modelo proposto por Svensson (1994), é possível representar toda a curva de juros com apenas 3 fatores, que podem ser estimados com 6 variáveis. Os fatores são: Nível, inclinação e curvatura.">
-<meta property="og:site-name" content="Lucas Leme">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -94,16 +82,6 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../">
- <span class="menu-text">Posts</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../feed/">
- <span class="menu-text">Feed</span></a>
-  </li>  
-</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../about.html">
@@ -134,76 +112,97 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<header id="title-block-header" class="quarto-title-block default page-columns page-full">
-  <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
-      <h1 class="title">Estimando parâmetros da curva de Juros via PCA</h1>
-                                <div class="quarto-categories">
-                <div class="quarto-category">macro</div>
-                <div class="quarto-category">pib</div>
-              </div>
-                  </div>
-  </div>
-    
-  
-  <div class="quarto-title-meta">
-
-      <div>
-      <div class="quarto-title-meta-heading">Autor</div>
-      <div class="quarto-title-meta-contents">
-               <p>Lucas Leme Santos </p>
-            </div>
-    </div>
-      
-      <div>
-      <div class="quarto-title-meta-heading">Data de Publicação</div>
-      <div class="quarto-title-meta-contents">
-        <p class="date">20 de outubro de 2023</p>
-      </div>
-    </div>
-    
-      
-    </div>
-    
-  
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Nesta página</h2>
-   
-  <ul>
-  <li><a href="#conceitos-relevantes" id="toc-conceitos-relevantes" class="nav-link active" data-scroll-target="#conceitos-relevantes">Conceitos Relevantes</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 
 
-
-<p>No modelo proposto por Svensson (1994), é possível representar toda a curva de juros com apenas 3 fatores, que podem ser estimados com 6 variáveis. Os fatores são: Nível, inclinação e curvatura.</p>
-<p>A taxa de juros na data <span class="math inline">\(t\)</span> para o prazo <span class="math inline">\(\tau\)</span> é dada por:</p>
-<p><span class="math display">\[
-r_t(\tau) = \beta_{1t} + \beta_{2t}(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau}) + \beta_3t(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau} - e^{-\lambda_{1t} \tau}) + \beta_{4t}(\frac{1-e^{-\lambda_{2t} \tau}}{\lambda_{2t} \tau} - e^{-\lambda_{2t} \tau})
-\]</span></p>
-<p>Onde <span class="math inline">\(\beta_{1t}\)</span> representa o nível da curva de juros, <span class="math inline">\(\beta_{2t}\)</span> a inclinação e <span class="math inline">\(\beta_{3t}\)</span> e <span class="math inline">\(\beta_{4t}\)</span> a curvatura. <span class="math inline">\(\lambda_{1t}\)</span> e <span class="math inline">\(\lambda_{2t}\)</span> caracterizam o decaimento, determinando onde <span class="math inline">\(\beta_{3t}\)</span> e <span class="math inline">\(\beta_{4t}\)</span> atinge seu máximo.</p>
-<section id="conceitos-relevantes" class="level2">
-<h2 class="anchored" data-anchor-id="conceitos-relevantes">Conceitos Relevantes</h2>
-<section id="vna---valor-nominal-atualizado" class="level4">
-<h4 class="anchored" data-anchor-id="vna---valor-nominal-atualizado">VNA - Valor Nominal Atualizado</h4>
-<p>O VNA é um indicador que demonstra o valor do principal de um título caso o vencimento fosse hoje. O seu cálculo é efetuado a partir variação do IPCA no perído, então dado um VNA inicial <span class="math inline">\(VNA_{t=0}\)</span> e a variação do IPCA no período <span class="math inline">\(\Delta IPCA_{t, t+1}\)</span>, o VNA no período seguinte é dado por:</p>
-<p><span class="math display">\[
-VNA_{t=1} = VNA_{t=0} \times (1 + \Delta IPCA_{t, t+1})
-\]</span></p>
+<section id="o-que-são-finanças-quantitativas" class="level2">
+<h2 class="anchored" data-anchor-id="o-que-são-finanças-quantitativas">O que são finanças quantitativas?</h2>
+<p>No mundo dos investimentos, a maneira “clássica” de se investir em empresas de capital aberto segue o seguinte processo:</p>
+<ul>
+<li>Analisar cuidadosamente os fundamentos e resultados da empresa</li>
+<li>Estudar a equipe que faz a sua gestão</li>
+<li>Estimar as perspectivas políticas e econômicas para o futuro</li>
+<li>Estimar preço de ações, por meio de técnicas como valuation (avaliação de empresas).</li>
+</ul>
+<p>Outra maneira de se investir, que vem se tornando muito popular nos últimos anos, é criar algoritmos que definem a forma de operar no mercado financeiro, executando tudo automaticamente. É isso que fundos quantitativos fazem, seguindo o seguinte processo:</p>
+<p>Obter dados para os modelos computacionais. Desenhar a estratégia a ser executada pelo algoritmo. Testar o algoritmo em dados passados para ver se o algoritmo é robusto o suficiente (processo conhecido como backtesting). Implementar o algoritmo em tempo real. Existem muitas estratégias diferentes utilizadas por gestores quantitativos. Neste texto iremos abordar uma estratégia baseada numa anomalia de mercado, que é o Momentum.</p>
+</section>
+<section id="o-que-é-momentum" class="level2">
+<h2 class="anchored" data-anchor-id="o-que-é-momentum">O que é Momentum?</h2>
+<p><a href="https://miro.medium.com/v2/resize:fit:640/1*0L6EOX9C1SZSyCPQ0AMauA.gif">Pendulo</a></p>
+<blockquote class="blockquote">
+<p>“We search through historical data looking for anomalous patterns that we would not expect to occur at random.” — Jim Simons</p>
+</blockquote>
+<p>Momentum é uma palavra de origem latina, que na física clássica significa quantidade de movimento ou embalo, ele pode nos indicar duas coisas: a direção e a magnitude de um corpo em movimento. Além disso, outro elemento importante é a lei da inércia, que é a tendência natural de um objeto manter seu estado de repouso ou movimento.</p>
+<p>Com esses dois conceitos, podemos dizer que o momentum nos indica para onde e o quão rápido um objeto está se movendo, e que se não houver interferência externa, será constante.</p>
+<p>Trazendo para o contexto de finanças, o momentum é uma estratégia de investimento fundamentada no embalo dos preços, que considera a tendência dos preços para uma tomada de decisão de um investimento. Esse fator pode ser descrito por meio da <a href="#eq-momentum">Equação&nbsp;1</a></p>
+<p><span id="eq-momentum"><span class="math display">\[
+Momentum = r_{t-k, t} = \frac{P_t - P_{t-k}}{P_{t-k}}
+\tag{1}\]</span></span></p>
+<p>A formula acima compõe o que chamamos de retorno de um ativo, sendo o parâmetro <span class="math inline">\(k\)</span> o período ao qual desejamos avaliar o retorno, podendo ser diário, semanal, mensal, etc.</p>
+<p>Podemos extrair o momentum a partir da equação do retorno apresentada, já que o retorno armazena tanto informação de intensidade de aumento ou decréscimo, quanto de tendência positiva ou negativa. Assim, podemos avaliar o momentum de 12 meses, tomando um período mensal e fazendo <span class="math inline">\(k = 12\)</span>.</p>
+</section>
+<section id="hipótese-do-mercado-eficiente" class="level2">
+<h2 class="anchored" data-anchor-id="hipótese-do-mercado-eficiente">Hipótese do Mercado Eficiente</h2>
+<p>De uma maneira simplificada, é uma teoria de investimento que diz que os preços do mercado sempre refletem corretamente e imediatamente as informações relacionadas ao ativo <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>Uma característica importante do momentum é o fato de ser uma anomalia da hipótese do mercado eficiente. Isso acontece porque, de acordo com a hipótese, o aumento ou decréscimo no preços de ativos deveria estar acompanhado de novas informações. Porém, o momentum indica que há tendência de movimento dos preços independentemente de novas informações.</p>
+</section>
+<section id="volatilidade" class="level2">
+<h2 class="anchored" data-anchor-id="volatilidade">Volatilidade</h2>
+<p>Um conceito frequentemente associado ao risco de um ativo é a volatilidade. Pois como o risco precisa ser mensurado, a volatilidade acaba sendo uma das formas mais simples de mensurar o risco. A partir dos dados histórico de uma série temporal, podemos utilizar uma medida descritiva estatística chamada desvio padrão para determinar a variação dos dados entorno de sua média histórica.</p>
+<p><a href="https://miro.medium.com/max/700/1*7Q4q1J0m1G3QX6X5Z3Z3jg.gif">Animação demonstrado alta e baixa volatilidade (Capital.com)</a></p>
+<p>Um valor baixo de volatilidade indica uma estabilidade no investimento. Já uma alta volatilidade indica incerteza, porém com um potencial de lucro maior, se o investidor estiver disposto a suportar o risco. Além do desvio padrão, existem diversas outras maneiras de estimar risco:</p>
+<section id="ewma-2" class="level4">
+<h4 class="anchored" data-anchor-id="ewma-2">EWMA <a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></h4>
+<p>Um estimador um pouco mais complexo é advindo do modelo de médias móveis, o exponentially weighted moving average. Esse estimador basicamente calcula o desvio padrão com um peso ponderado maior para os dados mais recentes. Essa característica é muito importante, pois em longos períodos a série temporal pode perder a estacionalidade, o que prejudica nosso modelo se considerarmos valores muito distantes.</p>
+</section>
+<section id="número-de-parkinson-3" class="level4">
+<h4 class="anchored" data-anchor-id="número-de-parkinson-3">Número de Parkinson <a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></h4>
+<p>O Número de Parkinson foi desenvolvido pelo físico Michael Parkinson em 1980 e tem como objetivo estimar a volatilidade de uma série temporal a partir dos preços de High e Low. A principal vantagem em relação ao EWMA é a adição de variação intra diária, pois no cálculo leva-se em conta os valores de alta e baixa dos preços.</p>
+<p><span id="eq-parkinson"><span class="math display">\[
+\sigma = \sqrt{\frac{1}{4ln2} \frac{1}{n} \sum_{i=1}^{n} log^2 \frac{H_i}{L_i}}
+\tag{2}\]</span></span></p>
+<p>Para calcular essa estimativa são necessários dois parâmetros <span class="math inline">\(N\)</span> e <span class="math inline">\(n\)</span>. Sendo <span class="math inline">\(N\)</span> um fator de escala dos períodos, se for necessário um desvio padrão diário atribui-se <span class="math inline">\(N = 1\)</span>, já para o desvio padrão anual N = 365. O segundo parâmetro n é o tamanho da amostra de dados passados que serão utilizados no modelo. Escolhido n realiza-se o somatório dos n períodos passados, da seguinte operação: logaritmo da divisão do preço de alta e baixa dos n períodos, e por fim eleva-se ao quadrado para realizar a soma, a formula completa pode ser vista na <a href="#eq-parkinson">Equação&nbsp;2</a>.</p>
+</section>
+<section id="garman-klass" class="level4">
+<h4 class="anchored" data-anchor-id="garman-klass">Garman-Klass</h4>
+<p>Garman é uma extensão do número de parkinson, porém agora com a inserção de mais dados no modelo, que são preços de abertura e fechamento do dia. Esses dados ajudam a aumentar a precisão do estimador, principalmente em ativos com maior estresse em momentos de abertura e fechamento. O cálculo é similar ao estimador anterior, pode ser visto na <a href="#eq-garman">Equação&nbsp;3</a>.</p>
+<p><span id="eq-garman"><span class="math display">\[
+\sigma = \sqrt{\frac{1}{4ln2} \frac{1}{n} \sum_{i=1}^{n} \left[ log^2 \frac{H_i}{L_i} - 2log \frac{C_i}{O_i} \right]}
+\tag{3}\]</span></span></p>
+</section>
+<section id="comparação-entre-volatilidades" class="level3">
+<h3 class="anchored" data-anchor-id="comparação-entre-volatilidades">Comparação entre volatilidades</h3>
+<p><a href="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dfJ9auu5-9jxIEB6upPjIA.png">Gráfico comparativo das volatilidades</a></p>
+<p>Para efeito de comparação construímos o gráfico das 3 volatilidades em um preço de contrato futuro. Podemos perceber que, principalmente em momentos de maior estresse, os modelos Parkinson e Garman Klass têm uma resposta mais rápida e mais precisa. Um período que pode-se destacar é o ano de 2008, que os dois modelos acabaram captando mais informações intra diárias da crise da bolha hipotecária.</p>
+</section>
+</section>
+<section id="estratégia-de-investimento" class="level2">
+<h2 class="anchored" data-anchor-id="estratégia-de-investimento">Estratégia de investimento</h2>
+<p>A estratégia de investimento do Time Series Momentum é dada pela <strong>?@eq-estrategia</strong>.</p>
+<p>$$</p>
+</section>
+<section id="referências" class="level2">
+<h2 class="anchored" data-anchor-id="referências">Referências</h2>
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Notas de rodapé</h2>
+
+<ol>
+<li id="fn1"><p><a href="https://www.investopedia.com/terms/e/efficientmarkethypothesis.asp">Efficient Market Hypothesis (EMH): Definition and Critique</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p><a href="https://www.ivolatility.com/help/6.html#s">Exponentially Weighted Moving Average (EWMA)</a><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p><a href="https://www.ivolatility.com/help/3.html">Parkinson’s Historical Volatility</a><a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

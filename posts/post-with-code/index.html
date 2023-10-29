@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.2.335">
@@ -7,6 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Lucas Leme Santos">
+<meta name="dcterms.date" content="2023-05-15">
 
 <title>Lucas Leme - Como identificar quebra de correlações na Bolsa de Valores?</title>
 <style>
@@ -94,18 +95,15 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../favicon.ico" rel="icon">
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -114,35 +112,23 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   "type": "overlay",
   "limit": 20,
   "language": {
-    "search-no-results-text": "Nenhum resultado",
-    "search-matching-documents-text": "documentos correspondentes",
-    "search-copy-link-title": "Copiar link para a busca",
-    "search-hide-matches-text": "Esconder correspondências adicionais",
-    "search-more-match-text": "mais correspondência neste documento",
-    "search-more-matches-text": "mais correspondências neste documento",
-    "search-clear-button-title": "Limpar",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar"
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
-</script>
 
 
-<meta property="og:title" content="Lucas Leme - Como identificar quebra de correlações na Bolsa de Valores?">
-<meta property="og:description" content="Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.">
-<meta property="og:image" content="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE">
-<meta property="og:site-name" content="Lucas Leme">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -157,40 +143,22 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="../../">
- <span class="menu-text">Posts</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../feed/">
- <span class="menu-text">Feed</span></a>
-  </li>  
-</ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../../about.html">
  <span class="menu-text">Sobre</span></a>
   </li>  
-  <li class="nav-item compact">
+  <li class="nav-item">
     <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/"><i class="bi bi-linkedin" role="img">
 </i> 
- <span class="menu-text"></span></a>
+ <span class="menu-text">LinkedIn</span></a>
   </li>  
-  <li class="nav-item compact">
+  <li class="nav-item">
     <a class="nav-link" href="https://github.com/lucas-leme"><i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://medium.com/@lucas_leme"><i class="bi bi-medium" role="img">
-</i> 
- <span class="menu-text"></span></a>
+ <span class="menu-text">Github</span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -199,7 +167,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-body">
       <h1 class="title">Como identificar quebra de correlações na Bolsa de Valores?</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">quant</div>
@@ -212,16 +180,16 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
   <div class="quarto-title-meta">
 
       <div>
-      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-heading">Author</div>
       <div class="quarto-title-meta-contents">
                <p>Lucas Leme Santos </p>
             </div>
     </div>
       
       <div>
-      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">15 de maio de 2023</p>
+        <p class="date">May 15, 2023</p>
       </div>
     </div>
     
@@ -229,35 +197,21 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Nesta página</h2>
-   
-  <ul>
-  <li><a href="#introdução" id="toc-introdução" class="nav-link active" data-scroll-target="#introdução">Introdução</a></li>
-  <li><a href="#como-identificar-a-quebra-de-correlação" id="toc-como-identificar-a-quebra-de-correlação" class="nav-link" data-scroll-target="#como-identificar-a-quebra-de-correlação">Como identificar a quebra de correlação?</a></li>
-  <li><a href="#análise-de-quebra-de-correlação-na-bolsa-de-valores" id="toc-análise-de-quebra-de-correlação-na-bolsa-de-valores" class="nav-link" data-scroll-target="#análise-de-quebra-de-correlação-na-bolsa-de-valores">Análise de quebra de correlação na Bolsa de Valores</a></li>
-  <li><a href="#conclusão" id="toc-conclusão" class="nav-link" data-scroll-target="#conclusão">Conclusão</a></li>
-  <li><a href="#apêndice" id="toc-apêndice" class="nav-link" data-scroll-target="#apêndice">Apêndice</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 <p>Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.</p>
-<section id="introdução" class="level2">
-<h2 class="anchored" data-anchor-id="introdução">Introdução</h2>
+<div style="page-break-after: always;"></div>
 <p>No mundo das finanças, é importante avaliar como diferentes ativos se relacionam entre si, a fim de entender melhor os riscos e oportunidades de investimento. Existem várias ferramentas estatísticas disponíveis para isso, incluindo a análise de componentes principais, que pode ser usada para estimar os principais fatores de risco do mercado. Neste texto, vamos explorar como identificar quebra de correlações na Bolsa de Valores utilizando a análise de componentes principais (PCA).</p>
 <p>A correlação é uma medida estatística que indica a relação entre dois conjuntos de dados. Em finanças, a correlação é frequentemente usada para avaliar a relação entre diferentes ativos, como ações, títulos, moedas e commodities. Por exemplo, se duas ações têm uma correlação positiva elevada, isso significa que elas tendem a se mover na mesma direção — se uma ação sobe, a outra também tende a subir.</p>
 <p>A quebra de correlação ocorre quando a relação entre dois ativos muda significativamente. Isso pode ser um sinal de que algo está mudando no mercado, e pode ser uma oportunidade ou um fator de atenção para os investidores. Por exemplo, se duas ações que normalmente têm uma correlação positiva elevada de repente começam a se mover em direções opostas, isso pode ser um sinal de que o mercado está mudando e que os investidores precisam reavaliar suas estratégias.</p>
-</section>
 <section id="como-identificar-a-quebra-de-correlação" class="level2">
 <h2 class="anchored" data-anchor-id="como-identificar-a-quebra-de-correlação">Como identificar a quebra de correlação?</h2>
 <p>Uma técnica útil para identificar essa quebra de correlação é o PCA. Que é uma técnica matemática que ajuda a simplificar e analisar grandes conjuntos de dados (redução de dimensionalidade). Ele encontra combinações de variáveis que não se correlacionam entre si, e é possível medir o quanto cada combinação de variáveis explica da variância dos dados originais.</p>
@@ -309,7 +263,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>autovalores, autovetores  <span class="op">=</span> autovalores[::<span class="op">-</span><span class="dv">1</span>], autovetores[:, ::<span class="op">-</span><span class="dv">1</span>]</span>
 <span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Calcula a variância explicada</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>varianca_explicada <span class="op">=</span> autovalores[<span class="dv">0</span>] <span class="op">/</span> autovalores.<span class="bu">sum</span>()</span></code><button title="Copiar para a área de transferência" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>varianca_explicada <span class="op">=</span> autovalores[<span class="dv">0</span>] <span class="op">/</span> autovalores.<span class="bu">sum</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <p>Para calcular a variância explicada pelo primeiro componente principal, basta obter o primeiro autovalor e dividir pela soma de todos os autovalores. Isso indica a proporção da variação dos dados explicada pelo primeiro componente principal.</p>
 <p>No código fornecido, os autovalores são ordenados do maior para o menor. Para calcular a variância explicada pelo primeiro componente principal, basta dividir o primeiro autovalor pela soma de todos os autovalores.</p>
 <p>Isso retornará um valor entre 0 e 1, indicando a proporção da variação dos dados explicada pelo primeiro componente principal.</p>
@@ -339,121 +293,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
-      }
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  let localAlternateSentinel = 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {
@@ -474,12 +313,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copiada");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copiada");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -568,11 +407,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<footer class="footer">
-  <div class="nav-footer">
-      <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
-  </div>
-</footer>
 
 
 
