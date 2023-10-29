@@ -2,8 +2,8 @@ name: Update feed
 
 on:
   schedule:
-    - cron: "0 */2 6-22 * *"
-    - cron: "20 8 * * 1-5"
+    - cron: "0 */2 3-19 * *"
+    - cron: "20 5 * * 1-5"
   workflow_dispatch:
     inputs:
       force:
