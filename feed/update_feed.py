@@ -4,27 +4,6 @@ import dateutil.parser
 import feedparser
 import yaml
 
-# feeds = {
-#     # Bancos Centrais
-#     # FED
-#     'Liberty Street Economics': 'https://feeds.feedburner.com/LibertyStreetEconomics',
-#     'FED: Chair Speeches': 'https://www.federalreserve.gov/feeds/s_t_powell.xml',
-#     'FED: Working Papers': 'https://www.federalreserve.gov/feeds/working_papers.xml',
-#     # Bacen
-#     'Bacen: Atas do Copom': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
-#     'Bacen: Comunicados Copom': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom',
-#     'Bacen: Relatório de Inflação': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/ri',
-#     'Bacen: Relatório Focus': 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
-#     # Podcasts
-#     'Market Makers': 'https://spotifeed.timdorr.com/2MCrAB0JUTfHxP333dGJm7',
-#     'The Journal': 'https://spotifeed.timdorr.com/0KxdEdeY2Wb3zr28dMlQva',
-#     'Outliers': "https://spotifeed.timdorr.com/7vSK0uhbMcfLwOQMIlKLJE",
-#     'The View From Apollo': "https://spotifeed.timdorr.com/7a2pM9MgehqQHEHQ6FCZLu",
-#     'Money Talks': "https://spotifeed.timdorr.com/2Yvo8QxZf7WlSEsIwKjtX4",
-#     'Flirting with Models': "https://spotifeed.timdorr.com/1IXldCXztfTaZeHbtcDRQI",
-#     'The Morgan Housel': 'https://spotifeed.timdorr.com/2l01lGyIh9xodneIV37dD3'
-# }
-
 feeds = {
     'Liberty Street Economics': {
         "url": 'https://feeds.feedburner.com/LibertyStreetEconomics',
@@ -33,32 +12,32 @@ feeds = {
     },
     'FED: Chair Speeches': {
         "url": "https://www.federalreserve.gov/feeds/s_t_powell.xml",
-        "categories": ['Notícias', "FED", "BC"],
+        "categories": ["FED", "BC"],
         "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg"
     },
     'FED: Working Papers': {
         "url": 'https://www.federalreserve.gov/feeds/working_papers.xml',
-        "categories": ["Notícias", "FED", "BC"],
+        "categories": ["Papers", "FED", "BC"],
         "image": "https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp"
     },
     'Bacen: Atas do Copom': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
-        "categories": ["Notícias", "Bacen", "BC"],
+        "categories": ["Bacen", "BC"],
         "image": ""
     },
     'Bacen: Comunicados Copom': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom',
-        "categories": ["Notícias", "Bacen", "BC"],
+        "categories": ["Bacen", "BC"],
         "image": "https://cdn.oantagonista.com/cdn-cgi/image/fit=contain,width=960,format=auto/uploads/2023/08/53089476259_00fff6225f_o-scaled.jpg"
     },
     'Bacen: Relatório de Inflação': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/ri',
-        "categories": ["Notícias", "Bacen", "BC"],
+        "categories": ["Bacen", "BC"],
         "image": ""
     },
     'Bacen: Relatório Focus': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
-        "categories": ["Notícias", "Bacen", "BC"],
+        "categories": ["Bacen", "BC"],
         "image": "https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg"
     },
     'Market Makers': {
@@ -94,6 +73,11 @@ feeds = {
     'The Morgan Housel': {
         "url": 'https://spotifeed.timdorr.com/2l01lGyIh9xodneIV37dD3',
         "categories": ["Podcasts"],
+        "image": ""
+    },
+    "Bloomberg Línea": {
+        "url": "https://rss.app/feeds/yTflNSP56chq8Hi7.xml",
+        "categorias": ["Notícias"],
         "image": ""
     }
 }
@@ -156,12 +140,20 @@ def get_most_recent_post(max_post_per_feed: int = 2):
     for feed_name, feed_info in feed_data.items():
 
         for entry in feed_info['entries'][:max_post_per_feed]:
+
+            try:
+                image = entry['summary'].split('<img src="')[1].split('"')[0]
+            except:
+                image = entry.get('image') \
+                    if entry.get('image') is not None \
+                    else feed_info.get('default_image')
+
             most_recent_posts.append({
                 'author': feed_name,
                 'title': entry['title'],
                 'path': entry['link'],
                 'date': _convert_date_to_isoformat(entry['published']),
-                'image': entry.get('image') if entry.get('image') is not None else feed_info.get('default_image'),
+                'image': image,
                 'description': entry.get('summary', None),
                 'categories': feed_info.get("categories")
             })

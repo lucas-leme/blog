@@ -1,11 +1,12 @@
 ---
 title: "Feed"
-title-block-banner: true
+title-block-banner: false
+page-layout: full
 listing:
   filter-ui: true
   feed: true
   type: grid
-  grid-columns: 4
+  grid-columns: 3
   categories: true
   page-size: 28
   fields: [image, date, title, author, categories]
@@ -13,4 +14,4 @@ listing:
     - feed.yaml
 ---
 
-Conteúdo que acompanho.
+Conteúdo que acompanho, coletado automaticamente.
