@@ -87,6 +87,12 @@ feeds = {
         "n_posts_to_show": 3,
         "force_author": True
     },
+    "Brazil Journal": {
+        "url": "https://braziljournal.com/categoria/economia/feed/",
+        "categories": ["Notícias"],
+        "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
+        "n_posts_to_show": 3,
+    },
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
         "categories": ["Quant", "Papers"],
