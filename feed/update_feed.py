@@ -38,7 +38,8 @@ feeds = {
     'Bacen: Relatório Focus': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
         "categories": ["Bacen", "BC"],
-        "image": "https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg"
+        "image": "https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg",
+        "n_posts_to_show": 1
     },
     'Market Makers': {
         "url": 'https://spotifeed.timdorr.com/2MCrAB0JUTfHxP333dGJm7',
@@ -58,27 +59,39 @@ feeds = {
     'The View From Apollo': {
         "url": 'https://spotifeed.timdorr.com/7a2pM9MgehqQHEHQ6FCZLu',
         "categories": ["Podcasts"],
-        "image": ""
+        "image": "",
+        "n_posts_to_show": 1
     },
     'Money Talks': {
         "url": 'https://spotifeed.timdorr.com/2Yvo8QxZf7WlSEsIwKjtX4',
         "categories": ["Podcasts"],
-        "image": ""
+        "image": "",
+        "n_posts_to_show": 1
     },
     'Flirting with Models': {
         "url": 'https://spotifeed.timdorr.com/1IXldCXztfTaZeHbtcDRQI',
         "categories": ["Podcasts", "Quant"],
-        "image": ""
+        "image": "",
+        "n_posts_to_show": 1
     },
     'The Morgan Housel': {
         "url": 'https://spotifeed.timdorr.com/2l01lGyIh9xodneIV37dD3',
         "categories": ["Podcasts"],
-        "image": ""
+        "image": "",
+        "n_posts_to_show": 1
     },
     "Bloomberg Línea": {
         "url": "https://rss.app/feeds/yTflNSP56chq8Hi7.xml",
-        "categorias": ["Notícias"],
-        "image": ""
+        "categories": ["Notícias"],
+        "image": "",
+        "n_posts_to_show": 3,
+        "force_author": True
+    },
+    "AQR": {
+        "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
+        "categories": ["Quant", "Papers"],
+        "image": "https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png",
+        "force_author": True
     }
 }
 
@@ -111,15 +124,21 @@ def get_feed_data():
 
     feed_data = {}
 
-    for feed_info in feeds.values():
+    for feed_name, feed_info in feeds.items():
         feed_url = feed_info['url']
 
         feed_data_i = get_feed_info(feed_url)
 
+        if feed_info.get('force_author', False):
+            author = feed_name
+        else:
+            author = feed_data_i['title']
+
         feed_data_i['categories'] = feed_info.get('categories', [])
         feed_data_i['default_image'] = feed_info.get("image")
+        feed_data_i['n_posts_to_show'] = feed_info.get('n_posts_to_show', 2)
 
-        feed_data[feed_data_i['title']] = feed_data_i
+        feed_data[author] = feed_data_i
 
     return feed_data
 
@@ -131,7 +150,7 @@ def _convert_date_to_isoformat(date: str):
     return date.isoformat()
 
 
-def get_most_recent_post(max_post_per_feed: int = 2):
+def get_most_recent_post():
 
     feed_data = get_feed_data()
 
@@ -139,8 +158,11 @@ def get_most_recent_post(max_post_per_feed: int = 2):
 
     for feed_name, feed_info in feed_data.items():
 
-        for entry in feed_info['entries'][:max_post_per_feed]:
+        n_posts_to_show = feed_info['n_posts_to_show']
 
+        for entry in feed_info['entries'][:n_posts_to_show]:
+
+            # get image from summary
             try:
                 image = entry['summary'].split('<img src="')[1].split('"')[0]
             except:
@@ -148,11 +170,18 @@ def get_most_recent_post(max_post_per_feed: int = 2):
                     if entry.get('image') is not None \
                     else feed_info.get('default_image')
 
+            # get date from summary
+            try:
+                date = _convert_date_to_isoformat(entry['summary'].split(
+                    '<p class="article__date text--small">')[1].split('<')[0].strip())
+            except:
+                date = _convert_date_to_isoformat(entry.get('published'))
+
             most_recent_posts.append({
                 'author': feed_name,
                 'title': entry['title'],
                 'path': entry['link'],
-                'date': _convert_date_to_isoformat(entry['published']),
+                'date': date,
                 'image': image,
                 'description': entry.get('summary', None),
                 'categories': feed_info.get("categories")

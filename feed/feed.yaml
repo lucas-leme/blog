@@ -11,8 +11,9 @@
   image: https://i.scdn.co/image/ab6765630000ba8a741d0126a0be28cc82a874e3
   path: https://open.spotify.com/episode/168BaBkYj84c70B9QREWPm
   title: "The Trial of Crypto\u2019s Golden Boy: Things Sam Is Testifying About"
-- author: "Mercados - Bloomberg L\xEDnea Brasil"
-  categories: &id001 []
+- author: "Bloomberg L\xEDnea"
+  categories: &id001
+  - "Not\xEDcias"
   date: '2023-10-27T21:00:16+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg\"\
     \ style=\"width: 100%;\" /><div>Na semana, o principal \xEDndice da bolsa brasileira\
@@ -21,7 +22,7 @@
   image: https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg
   path: https://www.bloomberglinea.com.br/mercados/ibovespa-tem-queda-de-129-e-vale-fica-entre-as-poucas-altas-desta-sexta/
   title: Ibovespa tem queda de 1,29%, e Vale fica entre as poucas altas desta sexta
-- author: "Mercados - Bloomberg L\xEDnea Brasil"
+- author: "Bloomberg L\xEDnea"
   categories: *id001
   date: '2023-10-27T18:30:02+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/U90aSWsOcNRc5F6HMa96pffsCwQ=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/ICEURJHSNBCCPFYBSO7NFGYWEM.jpg\"\
@@ -32,6 +33,17 @@
   path: https://www.bloomberglinea.com.br/mercados/boomers-millennials-bofa-tem-uma-geracao-preferida-na-hora-de-investir-em-acoes/
   title: "Boomers? Millennials? BofA tem uma gera\xE7\xE3o preferida na hora de investir\
     \ em a\xE7\xF5es"
+- author: "Bloomberg L\xEDnea"
+  categories: *id001
+  date: '2023-10-27T17:39:30+00:00'
+  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/_FX19Zj8znz3s1FUFTbZULyZ5Q4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/V53BN7XB4VCLRC5YKO6XLVGLBM.jpg\"\
+    \ style=\"width: 100%;\" /><div>\xCDndice preferido de infla\xE7\xE3o do Federal\
+    \ Reserve \xE9 acompanhado de perto antes da decis\xE3o de pol\xEDtica monet\xE1\
+    ria nos EUA na semana que vem</div></div>"
+  image: https://www.bloomberglinea.com/resizer/_FX19Zj8znz3s1FUFTbZULyZ5Q4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/V53BN7XB4VCLRC5YKO6XLVGLBM.jpg
+  path: https://www.bloomberglinea.com.br/mercados/ibovespa-oscila-apos-inflacao-nos-eua-e-com-balancos-no-radar-dolar-cai-a-r-494/
+  title: "Ibovespa cai ap\xF3s infla\xE7\xE3o nos EUA e com balan\xE7os no radar;\
+    \ d\xF3lar cai a R$ 4,98"
 - author: The Journal.
   categories: *id002
   date: '2023-10-27T00:00:00+00:00'
@@ -46,7 +58,7 @@
   path: https://open.spotify.com/episode/6uWHxJ9kIti1XHz9cCJ00w
   title: TikTok Wants to Be More Like Amazon. Amazon Wants to Be More Like TikTok.
 - author: Market Makers
-  categories: &id004
+  categories: &id003
   - Podcasts
   date: '2023-10-26T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
@@ -70,7 +82,7 @@
   title: '#68 | O futuro do Ibov, novos riscos da Petrobras e o efeito devastador
     da Shein'
 - author: Money Talks from The Economist
-  categories: &id003
+  categories:
   - Podcasts
   date: '2023-10-26T00:00:00+00:00'
   description: "Last week, we spoke to the author Michael Lewis, who was embedded\
@@ -88,20 +100,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2402e39b8101289c0b13f217
   path: https://open.spotify.com/episode/6N7PZG6FZzupdvY7dc9LVk
   title: 'Money Talks: The future of crypto, part two'
-- author: Money Talks from The Economist
-  categories: *id003
-  date: '2023-10-26T00:00:00+00:00'
-  description: "A special mini episode to welcome you to our subscription service.\_\
-    Sign up for Economist Podcasts+ before October 31st for 50% off.\_If you\u2019\
-    re already a subscriber to The Economist, you have full access to all our shows\
-    \ as part of your subscription.For more information about how to access Economist\
-    \ Podcasts+, please visit our FAQs page or watch our video explaining how to link\
-    \ your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a28fd9c6302e126c71fa85ffd
-  path: https://open.spotify.com/episode/6fjEdBfug0iRAeVlc5vHnC
-  title: 'Money Talks: Welcome to Economist Podcasts+'
 - author: 'FRB: Chair Powell: Speeches and Testimony'
-  categories: &id005
+  categories: &id004
   - FED
   - BC
   date: '2023-10-25T20:35:00+00:00'
@@ -112,7 +112,7 @@
   path: https://www.federalreserve.gov/newsevents/speech/powell20231025a.htm
   title: Powell, Introductory Remarks
 - author: Market Makers
-  categories: *id004
+  categories: *id003
   date: '2023-10-25T00:00:00+00:00'
   description: "O Magazine Luiza (MGLU3) est\xE1 hoje num momento completamente diferente\
     \ do que viveu anos atr\xE1s. Entre 2015 e 2020, a a\xE7\xE3o da empresa saltou\
@@ -141,7 +141,7 @@
   path: https://open.spotify.com/episode/3U6OkIa9etYJYP6luGj11e
   title: "MAGAZINE LUIZA (MGLU3): MENOS DE R$ 2,00 EM 2023 | EST\xC1 BARATA?"
 - author: The Morgan Housel Podcast
-  categories: &id008
+  categories:
   - Podcasts
   date: '2023-10-21T00:00:00+00:00'
   description: "Daniel Kahneman says, \"The long-term success of a relationship depends\
@@ -154,7 +154,7 @@
   path: https://open.spotify.com/episode/5up2vasUJ75BpKSuOYFMTn
   title: Little Flaws
 - author: RSS - Feeds do BC
-  categories: &id007
+  categories:
   - Bacen
   - BC
   date: '2023-10-20T00:00:00-03:00'
@@ -168,7 +168,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/20102023
   title: "BC - Focus - Relat\xF3rio de Mercado - 20/10/2023"
 - author: Outliers
-  categories: &id010
+  categories: &id007
   - Podcasts
   date: '2023-10-20T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/jaIH5QIDS1QA\
@@ -192,14 +192,14 @@
   path: https://open.spotify.com/episode/4KiwoIeOD6KvRaa2Ohe0v9
   title: "#113 - Gest\xE3o do cr\xE9dito em situa\xE7\xF5es especiais com Jive Investments"
 - author: 'FRB: Chair Powell: Speeches and Testimony'
-  categories: *id005
+  categories: *id004
   date: '2023-10-19T16:00:00+00:00'
   description: Speech At the Economic Club of New York Luncheon, New York, New York
   image: https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg
   path: https://www.federalreserve.gov/newsevents/speech/powell20231019a.htm
   title: Powell, Opening Remarks
 - author: Liberty Street Economics
-  categories: &id006
+  categories: &id005
   - "Not\xEDcias"
   - FED
   - BC
@@ -219,7 +219,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2023/10/can-china-catch-up-with-greece/
   title: Can China Catch Up with Greece?
 - author: Liberty Street Economics
-  categories: *id006
+  categories: *id005
   date: '2023-10-18T14:01:00+00:00'
   description: "After forty-three months of forbearance, the pause on federal student\
     \ loan payments has ended. Originally enacted at the onset of the COVID-19 pandemic\
@@ -243,20 +243,8 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2023/10/borrower-expectations-for-the-return-of-student-loan-repayment/
   title: Borrower Expectations for the Return of Student Loan Repayment
-- author: RSS - Feeds do BC
-  categories: *id007
-  date: '2023-10-13T00:00:00-03:00'
-  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
-    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
-    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
-    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
-    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
-    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
-  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/13102023
-  title: "BC - Focus - Relat\xF3rio de Mercado - 13/10/2023"
 - author: 'FRB: Working Papers'
-  categories: &id009
+  categories: &id006
   - Papers
   - FED
   - BC
@@ -276,26 +264,8 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/measuring-interest-rate-risk-management-by-financial-institutions.htm
   title: 'FEDS Paper: Measuring Interest Rate Risk Management by Financial Institutions'
-- author: The Morgan Housel Podcast
-  categories: *id008
-  date: '2023-10-12T00:00:00+00:00'
-  description: "Measuring wealth is easy. You just count it up. Measuring some of\
-    \ the downsides of wealth is so much harder and more nuanced. They can be so nuanced\
-    \ and hard to measure that many people won\u2019t even believe they exist. A downside\
-    \ to wealth? How could that possibly be?\_Let me propose that the absurdity of\
-    \ talking about the downside of wealth is part of why wealth doesn\u2019t tend\
-    \ to make people as happy as they thought it would.\_When the benefits of money\
-    \ are so obvious but the downsides are so subtle, the downsides you didn\u2019\
-    t anticipate can be more jarring than the benefits you expected.\_I want more\
-    \ money, of course. Almost everyone does, albeit for different reasons.\_This\
-    \ is not an anti-wealth list -- just a collection of subtle downsides that are\
-    \ easy to ignore, and so common you may as well call them the only true laws of\
-    \ getting rich."
-  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
-  path: https://open.spotify.com/episode/4DpUoOjm4ylJGftmPtIfVW
-  title: A Few Laws of Getting Rich
 - author: 'FRB: Working Papers'
-  categories: *id009
+  categories: *id006
   date: '2023-10-11T14:47:00+00:00'
   description: Joakim A. Weill<br /><br />This paper examines the provision of official
     flood risk information in the United States and its distributional impacts on
@@ -311,8 +281,24 @@
   path: https://www.federalreserve.gov/econres/feds/flood-risk-mapping-and-the-distributional-impacts-of-climate-information.htm
   title: 'FEDS Paper: Flood Risk Mapping and the Distributional Impacts of Climate
     Information'
+- author: AQR
+  categories: &id008
+  - Quant
+  - Papers
+  date: '2023-10-05T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        October\
+    \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <span class=\"article__author--nolink\">Jens Dick-Nielsen</span>\n\
+    \                <span class=\"article__author--nolink\">Peter Feldh\xFCtter</span>\n\
+    \                <a class=\"cta cta--dark \">Lasse H. Pedersen</a>\n         \
+    \       <span class=\"article__author--nolink\">Christian Stolborg</span>\n</span>\n\
+    \                    </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
+    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Working-Paper/Corporate-Bond-Factors-Replication-Failures-and-a-New-Framework
+  title: 'Corporate Bond Factors: Replication Failures and a New Framework'
 - author: Outliers
-  categories: *id010
+  categories: *id007
   date: '2023-10-04T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/watch?v=AUaxi0PSJmAInvestir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -323,8 +309,21 @@
   image: https://i.scdn.co/image/ab6765630000ba8a3f0df2111c7eb8fb220a2a8a
   path: https://open.spotify.com/episode/5sjgB0d0tqp05S9ytBBlrl
   title: "#112 - Cr\xE9dito privado e a infraestrutura brasileira com a JGP"
+- author: AQR
+  categories: *id008
+  date: '2023-09-26T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        September\
+    \ 26, 2023<span class=\"article__author\">\n        <span class=\"separator\"\
+    >-</span>\n                <a class=\"cta cta--dark \">Stanley Krasner</a>\n \
+    \               <a class=\"cta cta--dark \">Nathan Sosner</a>\n</span>\n     \
+    \               </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
+    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Working-Paper/Loss-Harvesting-or-Gain-Deferral-A-Surprising-Source-of-Tax-Benefits-of-TaxAware-Long-Short-Strategies
+  title: Loss Harvesting or Gain Deferral? A Surprising Source of Tax Benefits of
+    Tax-Aware Long-Short Strategies
 - author: Flirting with Models
-  categories: &id011
+  categories:
   - Podcasts
   - Quant
   date: '2023-09-25T00:00:00+00:00'
@@ -344,25 +343,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a69f8ee028cbc2adaa2559164
   path: https://open.spotify.com/episode/4H7EIaiKDtzpvK9QLjqHlP
   title: Andrew Beer & Adam Butler - Attack of the Managed Futures Clones
-- author: Flirting with Models
-  categories: *id011
-  date: '2023-09-11T00:00:00+00:00'
-  description: "In this episode I speak with Dean Curnutt, founder of Macro Risk Advisors\
-    \ and host of the Alpha Exchange podcast.This episode is all about the nature\
-    \ of risk.  More specifically, the endogenous risk that can manifest in markets.\
-    \  We discuss the crash of 1987, Long-Term Capital Management, the Financial Crisis\
-    \ of 2008, the XIV implosion of February 2018, and the 2020 COVID crisis.With\
-    \ these crises in mind, we touches upon topics such as reflexivity, crowding,\
-    \ risk recycling, and the evolving role of the Fed.  Dean also shares his thoughts\
-    \ about the nature of risk, how it is woven into the fabric of markets, and why\
-    \ it seems like there\u2019s a crisis every 11 years.For those who love to think\
-    \ about risk and the nature of markets, this episode is for you.So sit back, relax,\
-    \ and enjoy this episode of Flirting with Models with Dean Curnutt."
-  image: https://i.scdn.co/image/ab6765630000ba8a9ad669462055dca64e8bef58
-  path: https://open.spotify.com/episode/7JFyHyZE3JcLcBZdBrOOMw
-  title: Dean Curnutt - The Reflexivity of Equity Volatility (S6E16)
 - author: The View From Apollo
-  categories: &id012
+  categories:
   - Podcasts
   date: '2023-09-05T00:00:00+00:00'
   description: "Listen to Apollo Chief Economist Torsten Sl\xF8k talk to Jim Vanek,\
@@ -374,16 +356,3 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/22yawI7teuFBQiH0GOYokF
   title: How Important Is Vintage in Private Credit Investing Today?
-- author: The View From Apollo
-  categories: *id012
-  date: '2023-08-01T00:00:00+00:00'
-  description: "Listen to Chief Economist Torsten Sl\xF8k talk with Matt O\u2019Mara,\
-    \ a Partner in Apollo\u2019s Insurance Solutions Group, and Keith Black, Adjunct\
-    \ Faculty at the University of Massachusetts, about the concept of public equity\
-    \ replacement. Drawing from the work presented in their latest white paper, Matt\
-    \ and Keith argue how a portfolio of alternatives can keep the positive traits\
-    \ of public equity while mitigating its vulnerabilities. Learn how, why, and much\
-    \ more in this thought-provoking episode."
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/51Dy2TvyZokWCXhXIMlFAn
-  title: Can Alternatives Replace Public Equity?
