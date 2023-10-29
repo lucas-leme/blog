@@ -2,7 +2,7 @@ name: Update feed
 
 on:
   schedule:
-    - cron: "0 */2 3-19 * *"
+    - cron: "11 */2 3-19 * *"
 
 jobs:
   build:
