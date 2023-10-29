@@ -1,3 +1,15 @@
+- author: "Bloomberg L\xEDnea"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2023-10-29T20:15:06+00:00'
+  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/B3hRsZ-pqMHw7cp8QlmByLLw_YI=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/5Z7ANPKEOJEMDL6MYR4HBEO7RE.jpg\"\
+    \ style=\"width: 100%;\" /><div>Balan\xE7o da big tech, a ser divulgado na quinta-feira,\
+    \ entra no radar devido ao peso do papel no S&amp;P 500 e ao receio de dados fracos\
+    \ nas vendas, a exemplos de outros pares do setor</div></div>"
+  image: https://www.bloomberglinea.com/resizer/B3hRsZ-pqMHw7cp8QlmByLLw_YI=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/5Z7ANPKEOJEMDL6MYR4HBEO7RE.jpg
+  path: https://www.bloomberglinea.com.br/mercados/apple-rouba-atencao-da-reuniao-do-fed-entre-investidores-nesta-semana/
+  title: "Apple \u2018rouba\u2019 aten\xE7\xE3o da reuni\xE3o do Fed entre investidores\
+    \ nesta semana"
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -12,8 +24,7 @@
   path: https://open.spotify.com/episode/168BaBkYj84c70B9QREWPm
   title: "The Trial of Crypto\u2019s Golden Boy: Things Sam Is Testifying About"
 - author: "Bloomberg L\xEDnea"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2023-10-27T21:00:16+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg\"\
     \ style=\"width: 100%;\" /><div>Na semana, o principal \xEDndice da bolsa brasileira\
@@ -22,6 +33,16 @@
   image: https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg
   path: https://www.bloomberglinea.com.br/mercados/ibovespa-tem-queda-de-129-e-vale-fica-entre-as-poucas-altas-desta-sexta/
   title: Ibovespa tem queda de 1,29%, e Vale fica entre as poucas altas desta sexta
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2023-10-27T19:02:42+00:00'
+  description: Real GDP shot up 4.9% in the third quarter, and core inflation fell
+    to 2.4%, more signs that we are well on our way to the soft landing.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F674d15eb-04e7-4e02-aeef-807edd6f92d0_2448x1224.png
+  path: https://stayathomemacro.substack.com/p/sometimes-the-impossible-is-possible
+  title: Sometimes, the impossible is possible. Ask the US economy.
 - author: "Bloomberg L\xEDnea"
   categories: *id001
   date: '2023-10-27T18:30:02+00:00'
@@ -33,17 +54,6 @@
   path: https://www.bloomberglinea.com.br/mercados/boomers-millennials-bofa-tem-uma-geracao-preferida-na-hora-de-investir-em-acoes/
   title: "Boomers? Millennials? BofA tem uma gera\xE7\xE3o preferida na hora de investir\
     \ em a\xE7\xF5es"
-- author: "Bloomberg L\xEDnea"
-  categories: *id001
-  date: '2023-10-27T17:39:30+00:00'
-  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/_FX19Zj8znz3s1FUFTbZULyZ5Q4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/V53BN7XB4VCLRC5YKO6XLVGLBM.jpg\"\
-    \ style=\"width: 100%;\" /><div>\xCDndice preferido de infla\xE7\xE3o do Federal\
-    \ Reserve \xE9 acompanhado de perto antes da decis\xE3o de pol\xEDtica monet\xE1\
-    ria nos EUA na semana que vem</div></div>"
-  image: https://www.bloomberglinea.com/resizer/_FX19Zj8znz3s1FUFTbZULyZ5Q4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/V53BN7XB4VCLRC5YKO6XLVGLBM.jpg
-  path: https://www.bloomberglinea.com.br/mercados/ibovespa-oscila-apos-inflacao-nos-eua-e-com-balancos-no-radar-dolar-cai-a-r-494/
-  title: "Ibovespa cai ap\xF3s infla\xE7\xE3o nos EUA e com balan\xE7os no radar;\
-    \ d\xF3lar cai a R$ 4,98"
 - author: The Journal.
   categories: *id002
   date: '2023-10-27T00:00:00+00:00'
@@ -57,8 +67,33 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/6uWHxJ9kIti1XHz9cCJ00w
   title: TikTok Wants to Be More Like Amazon. Amazon Wants to Be More Like TikTok.
-- author: Market Makers
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2023-10-26T23:03:50+00:00'
+  description: US Median Wealth Has Hit a Record High Propelled by Rising Home Prices,
+    Growing Stock Ownership, and Pandemic-era Excess Savings
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb7076fd-ae39-4518-8f98-c938d556bd57_2886x1843.png
+  path: https://www.apricitas.io/p/americas-record-wealth-boom
+  title: America's Record Wealth Boom
+- author: "Economia \u2013 Brazil Journal"
   categories: &id003
+  - "Not\xEDcias"
+  date: '2023-10-26T04:07:52+00:00'
+  description: "<p>As recentes propostas de altera\xE7\xE3o da tributa\xE7\xE3o da\
+    \ renda do capital enviadas pelo governo e aprovadas pela C\xE2mara ontem \xE0\
+    \ noite foram anunciadas como medidas que buscam melhorar a equidade e a efici\xEA\
+    ncia do sistema tribut\xE1rio. Se o PL passar pelo Senado da forma como est\xE1\
+    , os fundos de investimento fechados passar\xE3o a ser tributados [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/opiniao-o-erro-do-come-cotas/\"\
+    \ rel=\"nofollow\">OPINI\xC3O: O erro do \u2018come-cotas\u2019\_</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-erro-do-come-cotas/
+  title: "OPINI\xC3O: O erro do \u2018come-cotas\u2019"
+- author: Market Makers
+  categories: &id004
   - Podcasts
   date: '2023-10-26T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
@@ -100,19 +135,35 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2402e39b8101289c0b13f217
   path: https://open.spotify.com/episode/6N7PZG6FZzupdvY7dc9LVk
   title: 'Money Talks: The future of crypto, part two'
-- author: 'FRB: Chair Powell: Speeches and Testimony'
-  categories: &id004
-  - FED
-  - BC
-  date: '2023-10-25T20:35:00+00:00'
-  description: Speech At the 2023 Daniel Patrick Moynihan Lecture on Social Science
-    and Public Policy, hosted by the American Academy of Political and Social Science,
-    Washington, D.C.
-  image: https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg
-  path: https://www.federalreserve.gov/newsevents/speech/powell20231025a.htm
-  title: Powell, Introductory Remarks
-- author: Market Makers
+- author: "Economia \u2013 Brazil Journal"
   categories: *id003
+  date: '2023-10-25T09:50:28+00:00'
+  description: "<p>Quis o destino que o embaixador Sergio Danese assumisse a presid\xEA\
+    ncia do Conselho de Seguran\xE7a da Organiza\xE7\xE3o das Na\xE7\xF5es Unidas\
+    \ pouco antes dos atentados do Hamas contra Israel, em 7 de outubro. Arredio a\
+    \ holofotes e defensor ferrenho da diplomacia como o melhor caminho para solucionar\
+    \ conflitos, Danese ainda estava elaborando seu programa de trabalho [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/brasil-quer-aval-da-onu-para-chamar-hamas-de-terrorista-diz-embaixador/\"\
+    \ rel=\"nofollow\">Brasil precisa de aval da ONU para chamar Hamas de &#8216;terrorista&#8217;,\
+    \ diz embaixador</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/brasil-quer-aval-da-onu-para-chamar-hamas-de-terrorista-diz-embaixador/
+  title: "Brasil precisa de aval da ONU para chamar Hamas de \u2018terrorista\u2019\
+    , diz embaixador"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2023-10-25T04:51:46+00:00'
+  description: Every measure of activity indicates remarkable resilience in the face
+    of "restrictive" monetary policy. That is good for many people, but may be trouble
+    for some bond investors.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07cbb0cb-2ff2-41cd-b06d-11f507436cd8_5007x2535.png
+  path: https://theovershoot.co/p/the-us-economy-is-booming-for-now
+  title: The U.S. Economy Is Booming (For Now). What Does It Mean?
+- author: Market Makers
+  categories: *id004
   date: '2023-10-25T00:00:00+00:00'
   description: "O Magazine Luiza (MGLU3) est\xE1 hoje num momento completamente diferente\
     \ do que viveu anos atr\xE1s. Entre 2015 e 2020, a a\xE7\xE3o da empresa saltou\
@@ -140,6 +191,15 @@
   image: https://i.scdn.co/image/ab6765630000ba8adbe7feec5aac17581d324c2c
   path: https://open.spotify.com/episode/3U6OkIa9etYJYP6luGj11e
   title: "MAGAZINE LUIZA (MGLU3): MENOS DE R$ 2,00 EM 2023 | EST\xC1 BARATA?"
+- author: Stay-At-Home Macro (SAHM)
+  categories: *id005
+  date: '2023-10-22T15:35:31+00:00'
+  description: The Fed is increasingly concerned about "above-trend" growth. In the
+    mid-1990s, Greenspan grappled with it, too, and wisely held off on raising rates.
+    That's the right move again today.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6947d671-20ec-4285-98e9-5ab9e69424ce_2121x1414.png
+  path: https://stayathomemacro.substack.com/p/jay-powells-greenspan-moment
+  title: Jay Powell's Greenspan moment
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -168,7 +228,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/20102023
   title: "BC - Focus - Relat\xF3rio de Mercado - 20/10/2023"
 - author: Outliers
-  categories: &id007
+  categories: &id010
   - Podcasts
   date: '2023-10-20T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/jaIH5QIDS1QA\
@@ -191,15 +251,24 @@
   image: https://i.scdn.co/image/ab6765630000ba8a283507746679a9ca9cb49c9e
   path: https://open.spotify.com/episode/4KiwoIeOD6KvRaa2Ohe0v9
   title: "#113 - Gest\xE3o do cr\xE9dito em situa\xE7\xF5es especiais com Jive Investments"
-- author: 'FRB: Chair Powell: Speeches and Testimony'
-  categories: *id004
-  date: '2023-10-19T16:00:00+00:00'
-  description: Speech At the Economic Club of New York Luncheon, New York, New York
-  image: https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg
-  path: https://www.federalreserve.gov/newsevents/speech/powell20231019a.htm
-  title: Powell, Opening Remarks
+- author: The Overshoot
+  categories: *id006
+  date: '2023-10-19T22:34:42+00:00'
+  description: 'Michael Pettis and I talk about China''s emergence as a major car
+    exporter, what it says about China, and what it means for Europe. Plus: how and
+    when protectionism works (and doesn''t).'
+  image: https://substack-post-media.s3.amazonaws.com/public/images/a4a74576-259e-4b10-b476-ad76834d97fa_3024x4032.jpeg
+  path: https://theovershoot.co/p/new-episode-of-unbalanced-f5f
+  title: New Episode of UN/BALANCED!
+- author: Apricitas Economics
+  categories: *id007
+  date: '2023-10-19T12:30:51+00:00'
+  description: What the Fading of Pandemic-Era Supply Constraints Means for the Economy
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcf418a-2b08-4db5-aea6-dfc405e1e819_2886x1843.png
+  path: https://www.apricitas.io/p/monetary-policy-in-a-surplus-economy
+  title: Monetary Policy in a Surplus Economy
 - author: Liberty Street Economics
-  categories: &id005
+  categories: &id008
   - "Not\xEDcias"
   - FED
   - BC
@@ -219,7 +288,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2023/10/can-china-catch-up-with-greece/
   title: Can China Catch Up with Greece?
 - author: Liberty Street Economics
-  categories: *id005
+  categories: *id008
   date: '2023-10-18T14:01:00+00:00'
   description: "After forty-three months of forbearance, the pause on federal student\
     \ loan payments has ended. Originally enacted at the onset of the COVID-19 pandemic\
@@ -244,7 +313,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2023/10/borrower-expectations-for-the-return-of-student-loan-repayment/
   title: Borrower Expectations for the Return of Student Loan Repayment
 - author: 'FRB: Working Papers'
-  categories: &id006
+  categories: &id009
   - Papers
   - FED
   - BC
@@ -265,7 +334,7 @@
   path: https://www.federalreserve.gov/econres/feds/measuring-interest-rate-risk-management-by-financial-institutions.htm
   title: 'FEDS Paper: Measuring Interest Rate Risk Management by Financial Institutions'
 - author: 'FRB: Working Papers'
-  categories: *id006
+  categories: *id009
   date: '2023-10-11T14:47:00+00:00'
   description: Joakim A. Weill<br /><br />This paper examines the provision of official
     flood risk information in the United States and its distributional impacts on
@@ -281,8 +350,23 @@
   path: https://www.federalreserve.gov/econres/feds/flood-risk-mapping-and-the-distributional-impacts-of-climate-information.htm
   title: 'FEDS Paper: Flood Risk Mapping and the Distributional Impacts of Climate
     Information'
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id003
+  date: '2023-10-10T16:32:51+00:00'
+  description: "<p>O economista Marcos Lisboa ser\xE1 o host do Lado B, um videocast\
+    \ no Brazil Journal no qual entrevistar\xE1 pessoas de refer\xEAncia em suas \xE1\
+    reas sobre temas diversos.A estreia ser\xE1 uma conversa com Affonso Celso Pastore,\
+    \ mas o programa n\xE3o se restringir\xE1 \xE0 economia, a atividade pela qual\
+    \ Marcos \xE9 mais conhecido.Com um hist\xF3rico de contribuic\u0327o\u0303es\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/marcos-lisboa-estreia-lado-b-no-brazil-journal/\"\
+    \ rel=\"nofollow\">Marcos Lisboa estreia \u2018Lado B\u2019 no Brazil Journal</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/marcos-lisboa-estreia-lado-b-no-brazil-journal/
+  title: "Marcos Lisboa estreia \u2018Lado B\u2019 no Brazil Journal"
 - author: AQR
-  categories: &id008
+  categories: &id011
   - Quant
   - Papers
   date: '2023-10-05T00:00:00'
@@ -298,7 +382,7 @@
   path: https://www.aqr.com/Insights/Research/Working-Paper/Corporate-Bond-Factors-Replication-Failures-and-a-New-Framework
   title: 'Corporate Bond Factors: Replication Failures and a New Framework'
 - author: Outliers
-  categories: *id007
+  categories: *id010
   date: '2023-10-04T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/watch?v=AUaxi0PSJmAInvestir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -310,7 +394,7 @@
   path: https://open.spotify.com/episode/5sjgB0d0tqp05S9ytBBlrl
   title: "#112 - Cr\xE9dito privado e a infraestrutura brasileira com a JGP"
 - author: AQR
-  categories: *id008
+  categories: *id011
   date: '2023-09-26T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        September\
     \ 26, 2023<span class=\"article__author\">\n        <span class=\"separator\"\

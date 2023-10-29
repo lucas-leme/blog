@@ -10,11 +10,6 @@ feeds = {
         "categories": ["Notícias", "FED", "BC"],
         "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg"
     },
-    'FED: Chair Speeches': {
-        "url": "https://www.federalreserve.gov/feeds/s_t_powell.xml",
-        "categories": ["FED", "BC"],
-        "image": "https://www.remessaonline.com.br/blog/wp-content/uploads/2020/09/o-que-e-fed-1170x781.jpg.optimal.jpg"
-    },
     'FED: Working Papers': {
         "url": 'https://www.federalreserve.gov/feeds/working_papers.xml',
         "categories": ["Papers", "FED", "BC"],
@@ -98,6 +93,21 @@ feeds = {
         "categories": ["Quant", "Papers"],
         "image": "https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png",
         "force_author": True
+    },
+    "Stay at Home Macro": {
+        "url": "https://stayathomemacro.substack.com/feed",
+        "categories": ["Macro", "Newsletters"],
+        "image": ""
+    },
+    "The Overshoot": {
+        "url": "https://theovershoot.co/feed",
+        "categories": ["Macro", "Newsletters"],
+        "image": ""
+    },
+    "Apricitas Economics": {
+        "url": "https://www.apricitas.io/feed",
+        "categories": ["Macro", "Newsletters"],
+        "image": ""
     }
 }
 
@@ -114,13 +124,25 @@ def get_feed_info(feed_url):
     }
 
     for entry in feed.entries:
+
+        has_image = False
+        if hasattr(entry, 'links'):
+            for link in entry.links:
+                if link['type'].startswith('image'):
+                    image = link['href']
+                    has_image = True
+                    break
+
+        if not has_image:
+            image = entry.image.href if hasattr(entry, 'image') else None
+
         feed_info['entries'].append({
             'title': entry.title,
             'link': entry.link,
             'description': entry.description,
             'summary': entry.summary,
             'published': entry.published if hasattr(entry, 'published') else entry.updated,
-            'image': entry.image['href'] if hasattr(entry, 'image') else None,
+            'image': image,
         })
 
     return feed_info
