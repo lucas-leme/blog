@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Posts",
     "section": "",
-    "text": "Conteúdo que produzi ao longo do tempo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArquitetura de Fundos de Previdência Complementar\n\n\n\nprevidência\n\n\nfundos\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n26 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n20 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n15 de mai. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstruindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum\n\n\n\nquant\n\n\nintro\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n17 de mai. de 2020\n\n\n\n\n\n\n\n\nNenhum item correspondente"
+    "text": "Conteúdo que produzi ao longo do tempo.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntrodução a Macroeconomia\n\n\n\nmacro\n\n\npib\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n29 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nArquitetura de Fundos de Previdência Complementar\n\n\n\nprevidência\n\n\nfundos\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n26 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market\n\n\n\nquant\n\n\nnlp\n\n\nenglish\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n20 de out. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComo identificar quebra de correlações na Bolsa de Valores?\n\n\n\nquant\n\n\ncode\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n15 de mai. de 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nConstruindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum\n\n\n\nquant\n\n\nintro\n\n\n\n\n\n\n\nLucas Leme Santos\n\n\n17 de mai. de 2020\n\n\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "posts/quebra-de-correlacoes/index.html",
@@ -138,6 +138,20 @@
     "title": "FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market",
     "section": "Conclusion",
     "text": "Conclusion\nSo there you have it, a promising new tool for analyzing the ups and downs of the Brazilian stock market. FinBERT-PT-BR isn’t magic - it requires training data and tuning to perform at its best. But with some time and effort, it can provide insights into how investors are feeling about companies and sectors that traditional metrics alone may miss. The future of AI in finance looks bright."
+  },
+  {
+    "objectID": "posts/intro-macro/index.html",
+    "href": "posts/intro-macro/index.html",
+    "title": "Introdução a Macroeconomia",
+    "section": "",
+    "text": "A Macroeconomia é uma ciência que visa estudar o comportamento da economia como um todo. Para isso, ela busca explicar o comportamento de variáveis agregadas, tanto no curto quanto no longo prazo. Uma variável agregada é aquela que representa o comportamento de um conjunto de variáveis. Por exemplo, o PIB é uma variável agregada que representa o valor total de todos os bens e serviços produzidos em uma economia.\nNesta introdução, vamos nos concentrar na composição do PIB, com ênfase no Brasil. Ao entender os componentes do PIB, podemos obter insights sobre a saúde e o desempenho geral da economia."
+  },
+  {
+    "objectID": "posts/intro-macro/index.html#como-estimar-o-pib",
+    "href": "posts/intro-macro/index.html#como-estimar-o-pib",
+    "title": "Introdução a Macroeconomia",
+    "section": "Como estimar o PIB?",
+    "text": "Como estimar o PIB?\nExistem duas principais formas de estimar o PIB: Oferta e Demanda.\nNesse estudo, vamos utilizar analisar o PIB sob as duas óticas. Para isso, vamos utilizar os dados do IBGE que são disponibilizados via SIDRA 1\n\nOferta\nPela ótica da oferta podemos expressar o PIB com base em quatro componentes: Consumo, Investimento, Gastos do Governo e Exportações Líquidas. A ideia por trás dessa abordagem é que o PIB é a soma de todos os bens e serviços produzidos em uma economia. E para produzir esses bens e serviços, é necessário consumir, investir, gastar e exportar — todos termos ligados à oferta.\nNa equação Equação 1, temos a representação matemática dessa abordagem.\n\\[\n    PIB = C + I + G + (X - M)\n\\tag{1}\\]\nOnde: \\(C\\) é o consumo, \\(I\\) é o investimento, \\(G\\) são os gastos do governo e \\(X - M\\) é a diferença entre exportações e importações, que vamos chamar de exportações líquidas.\nAnalisando o historico dessazonalizado dos componentes do PIB na Figura 1, podemos observar que Investimentos e Exportações Líquidas são os itens mais voláteis, principalmente em momentos de crise. Por outro lado, o consumo e os gastos do governo são mais estáveis.\n\n\n\n\n                                                \nFigura 1: Evolução dos componentes de produção do PIB desde 1996"
   },
   {
     "objectID": "posts/tsmom/index.html",
