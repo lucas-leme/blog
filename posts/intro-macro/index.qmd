@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 execute:
   echo: false
-  freeze: true
+  freeze: auto
 
 lang: pt-BR
 ---
@@ -306,9 +306,11 @@ fig = add_recessions_to_fig(fig, low, top)
 fig.show()
 ```
 
-Durante os 2 primeiros mandatos do Lula, o Brasil passou por um período de forte crescimento econômico. Esse crescimento foi impulsionado por um aumento significativo dos preços das commodities [^2], que por sua vez, impulsionou o indicador de Exportações Líquidas.
+Durante o 1º mandato do Lula, o Brasil passou por um período de forte crescimento econômico. Esse crescimento foi impulsionado por um aumento significativo dos preços das commodities [^2], que por sua vez, impulsionou o indicador de Exportações Líquidas.
 
-Em 2008, o Brasil foi atingido pela crise financeira global. No período pré-crise, podemos observar dois aspectos: uma queda significativa nas Exportações Líquidas após o *boom das commodities* e um aumento nos Investimentos. No auge da crise o Banco Central realizou a manutenção da taxa de juros, indo na direção contrária dos incentivos de crédito, fiscais e de intervenções [^3]. Com essa postura mais hawkish, o Banco Central conseguiu evitar uma deterioração mais drástica das expectativas dos agentes, e nos anos seguintes as taxas de juros foram reduzidas, o que contribuiu para o aumento dos Investimentos.
+<!-- Talvez comentar do tripé do plano real -->
+
+Em 2008, o Brasil foi atingido pela crise financeira global. No período pré-crise, podemos observar dois aspectos: uma queda significativa nas Exportações Líquidas após o *boom das commodities* e um aumento nos Investimentos. No auge da crise, o Banco Central realizou a manutenção da taxa de juros, indo na direção contrária dos incentivos de crédito, fiscais e de intervenções realizados pelo governo [^3]. Com essa postura mais *hawkish*, o Banco Central conseguiu evitar uma deterioração mais drástica das expectativas dos agentes do mercado, e nos anos seguintes as taxas de juros foram reduzidas, o que contribuiu para o aumento dos Investimentos.
 
 Já na crise de 2015, o Brasil passou por um período de forte recessão. Nesse período, podemos observar uma queda significativa nos Investimentos e um aumento repentino nas Exportações Líquidas. Essa queda nos Investimentos foi causada pela incerteza política e econômica, que afetou negativamente as expectativas dos agentes. Já o aumento nas Exportações Líquidas foi causado pela forte valorização do Real, que aumentou os incentivos para exportar e reduziu os incentivos para importar.
 
@@ -328,10 +330,9 @@ Analisando o histórico desde os anos 2000, podemos observar grandes tendências
 
 Diferente da ótica da oferta, a ótica da renda não é tão volátil. Então mesmo durante as crises, podemos observar uma estabilidade de longo prazo nos componentes da renda.
 
-```{python, eval=TRUE}
+```{python}
 # | label: fig-renda
 # | fig-cap: Evolução dos componentes de renda do PIB desde 1996
-
 
 # PIB sob a ótica da renda
 
@@ -389,4 +390,4 @@ Nesta introdução, vimos como o PIB pode ser estimado sob duas óticas: Oferta 
 
 [^2]: O crescimento ocorreu em grande parte devido à crescente demanda das economias emergentes, principalmente da China: [https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000](https://pt.wikipedia.org/wiki/Boom_das_commodities_na_d%C3%A9cada_de_2000)
 
-[^3]: Crise e perspectivas para a economia brasileira - 10.1590/s0103-40142017.31890013
+[^3]: Crise e perspectivas para a economia brasileira - [DOI: 10.1590/s0103-40142017.31890013](https://www.scielo.br/j/ea/a/jNpn6wfChvNj659nr4LLtGD/)
