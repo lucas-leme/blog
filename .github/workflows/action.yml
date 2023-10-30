@@ -2,13 +2,13 @@ name: Update feed
 
 on:
   schedule:
-    - cron: "7 */1 * * *"
+    - cron: "7 5-19/2 * * *"
   workflow_dispatch: # run manually
     inputs:
       logLevel:
         description: "Manual test"
         required: false
-        default: "warning"
+        default: "Test"
 
 jobs:
   build:
@@ -58,6 +58,6 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
-          path: feed
+          render: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
