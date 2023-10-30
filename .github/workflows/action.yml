@@ -3,12 +3,12 @@ name: Update feed
 on:
   schedule:
     - cron: "7 5-19/2 * * *"
-  workflow_dispatch: # run manually
-    inputs:
-      logLevel:
-        description: "Manual test"
-        required: false
-        default: "Test"
+  # workflow_dispatch: # run manually
+  #   inputs:
+  #     logLevel:
+  #       description: "Manual test"
+  #       required: false
+  #       default: "Test"
 
 jobs:
   build:
