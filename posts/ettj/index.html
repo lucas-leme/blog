@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Lucas Leme Santos">
 
-<title>Lucas Leme - Posts</title>
+<title>Lucas Leme - Estimando parâmetros da curva de Juros via PCA</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -63,35 +62,6 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Enviar"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
 
 <script type="text/javascript">
@@ -104,9 +74,8 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<meta property="og:title" content="Lucas Leme - Posts">
-<meta property="og:description" content="Conteúdo que produzi ao longo do tempo.">
-<meta property="og:image" content="https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg">
+<meta property="og:title" content="Lucas Leme - Estimando parâmetros da curva de Juros via PCA">
+<meta property="og:description" content="No modelo proposto por Svensson (1994), é possível representar toda a curva de juros com apenas 3 fatores, que podem ser estimados com 6 variáveis. Os fatores são: Nível, inclinação e curvatura.">
 <meta property="og:site-name" content="Lucas Leme">
 </head>
 
@@ -117,7 +86,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
@@ -127,17 +96,17 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./">
+    <a class="nav-link" href="../../">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./feed/">
+    <a class="nav-link" href="../../feed/">
  <span class="menu-text">Feed</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
+    <a class="nav-link" href="../../about.html">
  <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
@@ -168,15 +137,30 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Posts</h1>
-            <p class="subtitle lead">Conteúdo que produzi ao longo do tempo.</p>
-                      </div>
+      <h1 class="title">Estimando parâmetros da curva de Juros via PCA</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">macro</div>
+                <div class="quarto-category">pib</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lucas Leme Santos </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">20 de outubro de 2023</p>
+      </div>
+    </div>
     
       
     </div>
@@ -186,193 +170,40 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Tudo <span class="quarto-category-count">(5)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="english">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fundos">fundos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="macro">macro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nlp">nlp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pib">pib <span class="quarto-category-count">(1)</span></div><div class="category" data-category="previdência">previdência <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quant">quant <span class="quarto-category-count">(3)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#conceitos-relevantes" id="toc-conceitos-relevantes" class="nav-link active" data-scroll-target="#conceitos-relevantes">Conceitos Relevantes</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
+<p>No modelo proposto por Svensson (1994), é possível representar toda a curva de juros com apenas 3 fatores, que podem ser estimados com 6 variáveis. Os fatores são: Nível, inclinação e curvatura.</p>
+<p>A taxa de juros na data <span class="math inline">\(t\)</span> para o prazo <span class="math inline">\(\tau\)</span> é dada por:</p>
+<p><span class="math display">\[
+r_t(\tau) = \beta_{1t} + \beta_{2t}(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau}) + \beta_3t(\frac{1-e^{-\lambda_{1t} \tau}}{\lambda_{1t} \tau} - e^{-\lambda_{1t} \tau}) + \beta_{4t}(\frac{1-e^{-\lambda_{2t} \tau}}{\lambda_{2t} \tau} - e^{-\lambda_{2t} \tau})
+\]</span></p>
+<p>Onde <span class="math inline">\(\beta_{1t}\)</span> representa o nível da curva de juros, <span class="math inline">\(\beta_{2t}\)</span> a inclinação e <span class="math inline">\(\beta_{3t}\)</span> e <span class="math inline">\(\beta_{4t}\)</span> a curvatura. <span class="math inline">\(\lambda_{1t}\)</span> e <span class="math inline">\(\lambda_{2t}\)</span> caracterizam o decaimento, determinando onde <span class="math inline">\(\beta_{3t}\)</span> e <span class="math inline">\(\beta_{4t}\)</span> atinge seu máximo.</p>
+<section id="conceitos-relevantes" class="level2">
+<h2 class="anchored" data-anchor-id="conceitos-relevantes">Conceitos Relevantes</h2>
+<section id="vna---valor-nominal-atualizado" class="level4">
+<h4 class="anchored" data-anchor-id="vna---valor-nominal-atualizado">VNA - Valor Nominal Atualizado</h4>
+<p>O VNA é um indicador que demonstra o valor do principal de um título caso o vencimento fosse hoje. O seu cálculo é efetuado a partir variação do IPCA no perído, então dado um VNA inicial <span class="math inline">\(VNA_{t=0}\)</span> e a variação do IPCA no período <span class="math inline">\(\Delta IPCA_{t, t+1}\)</span>, o VNA no período seguinte é dado por:</p>
+<p><span class="math display">\[
+VNA_{t=1} = VNA_{t=0} \times (1 + \Delta IPCA_{t, t+1})
+\]</span></p>
 
 
+</section>
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="macro,pib" data-listing-date-sort="1698548400000" data-listing-file-modified-sort="1698673395380" data-listing-reading-time-sort="11.845">
-<a href="./posts/intro-macro/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Introdução a Macroeconomia
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('macro'); return false;">
-macro
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pib'); return false;">
-pib
-</div>
-</div>
-<div class="card-text listing-description">
-Visualização dos componentes do PIB sob as óticas de Oferta e Demanda.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-29 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="previdência,fundos" data-listing-date-sort="1698289200000" data-listing-file-modified-sort="1698588101794" data-listing-reading-time-sort="3.875">
-<a href="./posts/arquitetura-fundos-prev/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="./posts/arquitetura-fundos-prev/capa.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Arquitetura de Fundos de Previdência Complementar
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('previdência'); return false;">
-previdência
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('fundos'); return false;">
-fundos
-</div>
-</div>
-<div class="card-text listing-description">
-Compreendendo a Estrutura dos Fundos FIE e FIFE
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-26 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="quant,nlp,english" data-listing-date-sort="1697770800000" data-listing-file-modified-sort="1697984677810" data-listing-reading-time-sort="8.045">
-<a href="./posts/finbert-pt-br/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nlp'); return false;">
-nlp
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('english'); return false;">
-english
-</div>
-</div>
-<div class="card-text listing-description">
-Training LLM to analyze the Brazilian financial news.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-20 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="quant,code" data-listing-date-sort="1684119600000" data-listing-file-modified-sort="1697984705950" data-listing-reading-time-sort="6.16">
-<a href="./posts/quebra-de-correlacoes/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Como identificar quebra de correlações na Bolsa de Valores?
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-</div>
-<div class="card-text listing-description">
-Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-15 de mai. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="quant,intro" data-listing-date-sort="1589684400000" data-listing-file-modified-sort="1697984713350" data-listing-reading-time-sort="8.255">
-<a href="./posts/tsmom/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://miro.medium.com/v2/resize:fit:640/1*0L6EOX9C1SZSyCPQ0AMauA.gif" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="card-text listing-description">
-O algoritmo de investimento que teve 951,62% de rentabilidade
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-17 de mai. de 2020
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Nenhum item correspondente
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
