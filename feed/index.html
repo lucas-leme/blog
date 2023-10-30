@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -60,7 +60,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
     "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar"
+    "search-submit-button-title": "Enviar",
+    "search-label": "Procurar"
   }
 }</script>
 <script>
@@ -103,10 +104,12 @@ gtag('js', new Date());
 gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="alternate" type="application/rss+xml" title="Lucas Leme" href="index.xml"><meta property="og:title" content="Lucas Leme - Feed">
+<meta property="og:title" content="Lucas Leme - Feed">
 <meta property="og:description" content="Conteúdo que acompanho, coletado automaticamente.">
+<meta property="og:image" content="https://www.bloomberglinea.com/resizer/9l_e263Psp4RNGF26kbeHXGCMeg=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/EKGSSQHC4FFALPUQG5XLD6UES4.jpg">
 <meta property="og:site-name" content="Lucas Leme">
 </head>
 
@@ -121,45 +124,45 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Procurar"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../">
+    <a class="nav-link" href="../" rel="" target="">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../feed/">
+    <a class="nav-link" href="../feed/" rel="" target="">
  <span class="menu-text">Feed</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html">
+    <a class="nav-link" href="../about.html" rel="" target="">
  <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lucas-leme"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/lucas-leme" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://medium.com/@lucas_leme"><i class="bi bi-medium" role="img">
+    <a class="nav-link" href="https://medium.com/@lucas_leme" rel="" target=""><i class="bi bi-medium" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -204,15 +207,15 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Notícias" data-listing-date-sort="1698661005000">
-<a href="https://www.bloomberglinea.com.br/mercados/decisoes-sobre-juros-pib-na-ue-e-apple-os-eventos-que-movem-os-mercados-na-semana/" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Notícias" data-listing-date-sort="1698671127000">
+<a href="https://www.bloomberglinea.com.br/mercados/petroleo-cai-abaixo-de-us-90-com-acao-militar-contida-de-israel-em-gaza/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/oCnUJ44l_ngwZg1n3FlZwi3TnNs=/1024x0/filters:format(webp):quality(75):focal(308x156:318x166)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/XUZPOHPGAZH75EFDQFVIOPI4UY.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="https://www.bloomberglinea.com/resizer/9l_e263Psp4RNGF26kbeHXGCMeg=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/EKGSSQHC4FFALPUQG5XLD6UES4.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Decisões sobre juros, PIB na UE e Apple: os eventos que movem os mercados na semana
+Petróleo cai abaixo de US$ 90 com ação militar contida de Israel em Gaza
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
@@ -231,15 +234,15 @@ Bloomberg Línea
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Notícias" data-listing-date-sort="1698657607000">
-<a href="https://www.bloomberglinea.com.br/mercados/hsbc-planeja-nova-recompra-de-acoes-no-valor-de-us-3-bilhoes/" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Notícias" data-listing-date-sort="1698669560000">
+<a href="https://www.bloomberglinea.com.br/mercados/dolar-hoje-moeda-americana-cai-a-r-500-com-exterior-positivo/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/-qNWPzWPjzOhbPcJ3NhNy98q9f0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/FOA5TPHBP5AGJOZJONWP6RRTRM.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="https://www.bloomberglinea.com/resizer/rejpf_0RYfeVIfkBag9JCTd5Jos=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/BABDVB65UBDWJMSUTR36K7KZDU.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-HSBC planeja nova recompra de ações no valor de US$ 3 bilhões
+Dólar hoje: moeda americana cai a R$ 5,00 com exterior positivo
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
@@ -258,15 +261,15 @@ Bloomberg Línea
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Notícias" data-listing-date-sort="1698622070000">
-<a href="https://www.bloomberglinea.com.br/mercados/mercados-asiaticos-sinalizam-abertura-em-queda-e-investidores-atentos-a-israel/" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="Notícias" data-listing-date-sort="1698667349000">
+<a href="https://www.bloomberglinea.com.br/mercados/minerio-de-ferro-sobe-com-sinalizacao-da-vale-de-preco-alto-para-a-commodity/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/DqUnnKtH5S5JVsBYneZ5HDYKw6M=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/RZQCJPFKW4OTYW73C5TGP3O7OU.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="https://www.bloomberglinea.com/resizer/_4xNOxRco4iaNg_-GoAxRedlgSU=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/QPIY5SVDFZD63LS2MRQKPDAQRE.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Mercados asiáticos sinalizam abertura em queda e investidores atentos a Israel
+Minério de ferro sobe com sinalização da Vale de preço alto para a commodity
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
@@ -278,7 +281,7 @@ Notícias
 Bloomberg Línea
 </div>
 <div class="listing-date">
-29 de out. de 2023
+30 de out. de 2023
 </div>
 </div>
 </div>
@@ -305,7 +308,7 @@ Podcasts
 The Journal.
 </div>
 <div class="listing-date">
-27 de out. de 2023
+28 de out. de 2023
 </div>
 </div>
 </div>
@@ -392,7 +395,7 @@ Podcasts
 The Journal.
 </div>
 <div class="listing-date">
-26 de out. de 2023
+27 de out. de 2023
 </div>
 </div>
 </div>
@@ -476,7 +479,7 @@ Podcasts
 Market Makers
 </div>
 <div class="listing-date">
-25 de out. de 2023
+26 de out. de 2023
 </div>
 </div>
 </div>
@@ -503,7 +506,7 @@ Podcasts
 Money Talks from The Economist
 </div>
 <div class="listing-date">
-25 de out. de 2023
+26 de out. de 2023
 </div>
 </div>
 </div>
@@ -587,7 +590,7 @@ Podcasts
 Market Makers
 </div>
 <div class="listing-date">
-24 de out. de 2023
+25 de out. de 2023
 </div>
 </div>
 </div>
@@ -644,7 +647,7 @@ Podcasts
 The Morgan Housel Podcast
 </div>
 <div class="listing-date">
-20 de out. de 2023
+21 de out. de 2023
 </div>
 </div>
 </div>
@@ -671,7 +674,7 @@ Podcasts
 Outliers
 </div>
 <div class="listing-date">
-19 de out. de 2023
+20 de out. de 2023
 </div>
 </div>
 </div>
@@ -897,7 +900,7 @@ Economia – Brazil Journal
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="24" data-categories="Quant,Papers" data-listing-date-sort="1696474800000">
+<div class="g-col-1" data-index="24" data-categories="Quant,Papers" data-listing-date-sort="1696464000000">
 <a href="https://www.aqr.com/Insights/Research/Working-Paper/Corporate-Bond-Factors-Replication-Failures-and-a-New-Framework" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -947,14 +950,14 @@ Podcasts
 Outliers
 </div>
 <div class="listing-date">
-3 de out. de 2023
+4 de out. de 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="26" data-categories="Quant,Papers" data-listing-date-sort="1695697200000">
+<div class="g-col-1" data-index="26" data-categories="Quant,Papers" data-listing-date-sort="1695686400000">
 <a href="https://www.aqr.com/Insights/Research/Working-Paper/Loss-Harvesting-or-Gain-Deferral-A-Surprising-Source-of-Tax-Benefits-of-TaxAware-Long-Short-Strategies" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1007,7 +1010,7 @@ Quant
 Flirting with Models
 </div>
 <div class="listing-date">
-24 de set. de 2023
+25 de set. de 2023
 </div>
 </div>
 </div>
@@ -1034,7 +1037,7 @@ Podcasts
 The View From Apollo
 </div>
 <div class="listing-date">
-4 de set. de 2023
+5 de set. de 2023
 </div>
 </div>
 </div>
@@ -1191,9 +1194,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -1258,6 +1275,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -1300,7 +1403,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-      <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
   </div>
 </footer>
 
