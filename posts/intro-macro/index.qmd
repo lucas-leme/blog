@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 execute:
   echo: false
-  freeze: auto
+  freeze: true
 
 lang: pt-BR
 ---
@@ -42,7 +42,7 @@ Nesta introdução, vamos nos concentrar na composição do PIB, com ênfase no 
 
 Nesse estudo, vamos analisar o PIB sob as duas óticas: Oferta e Demanda. Para isso, utilizaremos os dados do Instituto Brasileiro de Geografia e Estatística (IBGE), que são disponibilizados por meio do banco de dados SIDRA [^1].
 
-```{python, eval=FALSE}
+```{python}
 
 
 endpoint = "https://servicodados.ibge.gov.br/api/v3/agregados/1620/periodos/199601%7C199602%7C199603%7C199604%7C199701%7C199702%7C199703%7C199704%7C199801%7C199802%7C199803%7C199804%7C199901%7C199902%7C199903%7C199904%7C200001%7C200002%7C200003%7C200004%7C200101%7C200102%7C200103%7C200104%7C200201%7C200202%7C200203%7C200204%7C200301%7C200302%7C200303%7C200304%7C200401%7C200402%7C200403%7C200404%7C200501%7C200502%7C200503%7C200504%7C200601%7C200602%7C200603%7C200604%7C200701%7C200702%7C200703%7C200704%7C200801%7C200802%7C200803%7C200804%7C200901%7C200902%7C200903%7C200904%7C201001%7C201002%7C201003%7C201004%7C201101%7C201102%7C201103%7C201104%7C201201%7C201202%7C201203%7C201204%7C201301%7C201302%7C201303%7C201304%7C201401%7C201402%7C201403%7C201404%7C201501%7C201502%7C201503%7C201504%7C201601%7C201602%7C201603%7C201604%7C201701%7C201702%7C201703%7C201704%7C201801%7C201802%7C201803%7C201804%7C201901%7C201902%7C201903%7C201904%7C202001%7C202002%7C202003%7C202004%7C202101%7C202102%7C202103%7C202104%7C202201%7C202202%7C202203%7C202204%7C202301%7C202302/variaveis/583?localidades=N1[all]&classificacao=11255[90687,90691,90696,90707,93404,93405,93406,93407,93408]"
@@ -132,7 +132,7 @@ income_dataset = pd.DataFrame({
 
 ```
 
-```{python, eval=FALSE}
+```{python}
 # desasonilização
 
 product_dataset_des = pd.DataFrame({
@@ -171,7 +171,7 @@ income_dataset_cumulative = pd.DataFrame({
 pib_cumulative = (1 + pib_des.pct_change()).cumprod()
 ```
 
-```{python, eval=FALSE}
+```{python}
 
 
 def add_recessions_to_fig(fig, low, top):
