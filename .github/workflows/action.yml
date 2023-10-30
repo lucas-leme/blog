@@ -2,7 +2,7 @@ name: Update feed
 
 on:
   schedule:
-    - cron: "30 */1 * * *"
+    - cron: "7 */1 * * *"
   workflow_dispatch: # run manually
     inputs:
       logLevel:
@@ -56,7 +56,7 @@ jobs:
 
       - name: Render Feed
         run: |
-          quarto render feed/index.qmd
+          quarto render
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
