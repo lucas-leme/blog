@@ -1,3 +1,4 @@
+import logging
 from datetime import datetime
 
 import dateutil.parser
@@ -180,9 +181,15 @@ def _convert_date_to_isoformat(date: str):
 
 def get_most_recent_post():
 
+    logging.info('Starting to get most recent post')
+
     feed_data = get_feed_data()
 
+    logging.info('Finished getting feed data')
+
     most_recent_posts = []
+
+    logging.info('Starting to get most recent posts')
 
     for feed_name, feed_info in feed_data.items():
 
@@ -234,10 +241,18 @@ def save_feed_data():
       path: "https://google.com"
       categories: [archived, technology]
     """
+    logging.info('Starting to save feed data')
+
     most_recent_posts = get_most_recent_post()
+
+    logging.info('Finished getting most recent posts')
+
+    logging.info('Starting to save feed data')
 
     with open('feed/feed.yaml', 'w') as outfile:
         yaml.dump(most_recent_posts, outfile, default_flow_style=False)
+
+    logging.info('Finished saving feed data')
 
 
 if __name__ == '__main__':

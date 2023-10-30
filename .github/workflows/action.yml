@@ -34,8 +34,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "updated files" --allow-empty)
+          git add feed/feed.yaml
+          git diff-index --quiet HEAD || (git commit -a -m "Update feed database" --allow-empty)
 
       - name: Push changes
         uses: ad-m/github-push-action@master
