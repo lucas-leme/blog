@@ -1,6 +1,7 @@
 ---
 title: "Introdução a Macroeconomia"
 author: "Lucas Leme Santos"
+image: "https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg"
 date: "2023-10-29"
 categories: [macro, pib]
 toc: true
@@ -10,6 +11,8 @@ execute:
 
 lang: pt-BR
 ---
+
+Visualização dos componentes do PIB sob as óticas de Oferta e Demanda.
 
 ```{python}
 import statsmodels.api as sm
@@ -376,9 +379,9 @@ Nesta introdução, vimos como o PIB pode ser estimado sob duas óticas: Oferta 
 
 # Referências	
 
--  Introduction to Macroeconomics, Intermediate Macroeconomicas [Lecture 1](https://fgeerolf.com/econ102/intro-macro.html)
+-  Introduction to Macroeconomics, Intermediate Macroeconomics: [Lecture 1](https://fgeerolf.com/econ102/intro-macro.html)
 
-- Análise Qualitativa dos Dados do PIB [Rpubs](https://rpubs.com/julio_costa/PIB_SIDRA)
+- Análise Qualitativa dos Dados do PIB: [Rpubs](https://rpubs.com/julio_costa/PIB_SIDRA)
 
 
 [^1]: O SIDRA é um sistema que permite a consulta de dados e indicadores do IBGE. Para acessar os dados do PIB, basta acessar o link [https://sidra.ibge.gov.br/tabela/1620](https://sidra.ibge.gov.br/tabela/1620).
