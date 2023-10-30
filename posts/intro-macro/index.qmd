@@ -1,7 +1,7 @@
 ---
 title: "Introdução a Macroeconomia"
 author: "Lucas Leme Santos"
-date: "2023-10-20"
+date: "2023-10-29"
 categories: [macro, pib]
 toc: true
 toc_sticky: true
@@ -9,7 +9,7 @@ execute:
   echo: false
   freeze: true
 
-draft: true
+lang: pt-BR
 ---
 
 ```{python}
@@ -37,9 +37,7 @@ Nesta introdução, vamos nos concentrar na composição do PIB, com ênfase no 
 
 ## Como estimar o PIB?
 
-Existem duas principais formas de estimar o PIB: Oferta e Demanda.
-
-Nesse estudo, vamos utilizar analisar o PIB sob as duas óticas. Para isso, vamos utilizar os dados do IBGE que são disponibilizados via SIDRA [^1]
+Nesse estudo, vamos analisar o PIB sob as duas óticas: Oferta e Demanda. Para isso, utilizaremos os dados do Instituto Brasileiro de Geografia e Estatística (IBGE), que são disponibilizados por meio do banco de dados SIDRA [^1].
 
 ```{python, eval=FALSE}
 
@@ -263,7 +261,7 @@ $$ {#eq-producao_agregada}
 
 Onde: $C$ é o consumo, $I$ é o investimento, $G$ são os gastos do governo e $X - M$ é a diferença entre exportações e importações, que vamos chamar de exportações líquidas.
 
-Analisando o historico dessazonalizado dos componentes do PIB na @fig-oferta, podemos observar que Investimentos e Exportações Líquidas são os itens mais voláteis, principalmente em momentos de crise. Por outro lado, o consumo e os gastos do governo são mais estáveis.
+Analisando o historico dessazonalizado dos componentes do PIB na @fig-oferta, podemos observar que Investimentos e Exportações Líquidas foram os itens mais voláteis desde os anos 2000, principalmente em momentos de crise. Por outro lado, o consumo e os gastos do governo são mais estáveis.
 
 ```{python, eval=TRUE}
 # | label: fig-oferta
@@ -307,9 +305,30 @@ fig.show()
 
 Durante os 2 primeiros mandatos do Lula, o Brasil passou por um período de forte crescimento econômico. Esse crescimento foi impulsionado por um aumento significativo dos preços das commodities [^2], que por sua vez, impulsionou o indicador de Exportações Líquidas.
 
-Em 2008, o Brasil foi atingido pela crise financeira global. Proxímo desse período, podemos observar uma queda significativa nas Exportações Líquidas após o *boom das commodities* um aumento nos Investimentos. O Diante da crise o governo utilizou uma variadade de instrumentos para diminuir os impactos, dentre eles: linhas de crédito para exportações, redução de impostos e intervenções no mercado cambial [^3]. A nota distoante do perído foi a manutenção da taxa de juros por parte do Banco Central (Henrique Meirelles), com um alto diferencial de juros uma deterioração mais drástica das expectativas do agentes foi evitada. Em 2009, o crescimento da formação bruta de capital fixo (FBKI - Investimentos) contribui positivamente para o PIB.
+Em 2008, o Brasil foi atingido pela crise financeira global. No período pré-crise, podemos observar dois aspectos: uma queda significativa nas Exportações Líquidas após o *boom das commodities* e um aumento nos Investimentos. No auge da crise o Banco Central realizou a manutenção da taxa de juros, indo na direção contrária dos incentivos de crédito, fiscais e de intervenções [^3]. Com essa postura mais hawkish, o Banco Central conseguiu evitar uma deterioração mais drástica das expectativas dos agentes, e nos anos seguintes as taxas de juros foram reduzidas, o que contribuiu para o aumento dos Investimentos.
+
+Já na crise de 2015, o Brasil passou por um período de forte recessão. Nesse período, podemos observar uma queda significativa nos Investimentos e um aumento repentino nas Exportações Líquidas. Essa queda nos Investimentos foi causada pela incerteza política e econômica, que afetou negativamente as expectativas dos agentes. Já o aumento nas Exportações Líquidas foi causado pela forte valorização do Real, que aumentou os incentivos para exportar e reduziu os incentivos para importar.
+
+### Renda
+
+Pela ótica da renda, podemos expressar o PIB com base em três componentes: Agropecuária, Indústria e Serviços. A ideia por trás dessa abordagem é que o PIB é a soma de todos os rendimentos gerados na economia. E para gerar esses rendimentos, é necessário produzir bens e serviços --- todos termos ligados à renda.
+
+Na equação @eq-renda_agregada, temos a representação matemática dessa abordagem.
+
+$$
+    PIB = A + I + S
+$$ {#eq-renda_agregada}
+
+Onde: $A$ é a agropecuária, $I$ é a indústria e $S$ são os serviços.
+
+Analisando o histórico desde os anos 2000, podemos observar grandes tendências na @fig-renda. A principal é o crescimento da Agropecuária, em detrimento da Indústria. A tendência inversa de tais fatores é um reflexo da economia brasileira, que no geral exporta matéria prima e importa produtos industrializados. Olhando para os Serviços, podemos observar um ameno crescimento ao longo dos anos.
+
+Diferente da ótica da oferta, a ótica da renda não é tão volátil. Então mesmo durante as crises, podemos observar uma estabilidade de longo prazo nos componentes da renda.
 
 ```{python, eval=TRUE}
+# | label: fig-renda
+# | fig-cap: Evolução dos componentes de renda do PIB desde 1996
+
 
 # PIB sob a ótica da renda
 
@@ -350,36 +369,18 @@ fig = add_recessions_to_fig(fig, low, top)
 fig.show()
 ```
 
-```{python, eval=FALSE}	
+Na crise de 2015, podemos observar uma queda nos 3 componentes da renda. Essa queda foi causada pela forte recessão, que mesmo com a alta das exportações líquidas (@fig-oferta), não foi suficiente para compensar a queda do consumo, investimento e gastos do governo, resultando uma maior queda na renda nos 3 componentes.
 
-# plot pib com e sem desasonalização
-fig = make_fig()
+## Conclusão
 
-fig.add_trace(go.Scatter(
-    x=pib.index,
-    y=pib,
-    name='PIB',
-    mode='lines',
-    line=dict(width=3),
-    # set color
-    marker_color='black'
-))
+Nesta introdução, vimos como o PIB pode ser estimado sob duas óticas: Oferta e Demanda. A ótica da oferta é mais volátil, e nos permite observar grandes variacões em períodos de crise. Já a ótica da renda é mais estável, e nos permite observar grandes tendências de longo prazo.
 
-fig.add_trace(go.Scatter(
-    x=pib_des.index,
-    y=pib_des,
-    name='PIB Dessazonalizado',
-    mode='lines',
-    line=dict(width=3),
-    # set color
-    marker_color='blue'
-))
+# Referências	
 
-fig.update_layout(
-    title='PIB Dessazonalizado: Ideal para visualizar tendências no longo prazo.<br><sup>PIB Histórico do Brasil</sup>')
+-  Introduction to Macroeconomics, Intermediate Macroeconomicas [Lecture 1](https://fgeerolf.com/econ102/intro-macro.html)
 
+- Análise Qualitativa dos Dados do PIB [Rpubs](https://rpubs.com/julio_costa/PIB_SIDRA)
 
-```
 
 [^1]: O SIDRA é um sistema que permite a consulta de dados e indicadores do IBGE. Para acessar os dados do PIB, basta acessar o link [https://sidra.ibge.gov.br/tabela/1620](https://sidra.ibge.gov.br/tabela/1620).
 
