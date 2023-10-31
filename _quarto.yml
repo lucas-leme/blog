@@ -33,6 +33,8 @@ format:
         - cyborg
         - styles/leme.scss
     page-layout: full
+    highlight-style: vs
+    code-block-border-left: $blue
 
 lang: pt-BR
 
