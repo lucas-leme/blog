@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -18,7 +18,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
 </style>
@@ -37,8 +37,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -59,8 +57,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
     "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Procurar"
+    "search-submit-button-title": "Enviar"
   }
 }</script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
@@ -73,12 +70,11 @@ gtag('js', new Date());
 gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <meta property="og:title" content="Lucas Leme - Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://miro.medium.com/v2/resize:fit:640/1*0L6EOX9C1SZSyCPQ0AMauA.gif">
+<meta property="og:description" content="O algoritmo de investimento que teve 951,62% de rentabilidade">
+<meta property="og:image" content="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*TrLri5kVyRpUo6uA4IUi-A.jpeg">
 <meta property="og:site-name" content="Lucas Leme">
 </head>
 
@@ -93,45 +89,45 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../" rel="" target="">
+    <a class="nav-link" href="../../">
  <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../feed/" rel="" target="">
+    <a class="nav-link" href="../../feed/">
  <span class="menu-text">Feed</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../about.html" rel="" target="">
+    <a class="nav-link" href="../../about.html">
  <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/" rel="" target=""><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/"><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lucas-leme" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/lucas-leme"><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://medium.com/@lucas_leme" rel="" target=""><i class="bi bi-medium" role="img">
+    <a class="nav-link" href="https://medium.com/@lucas_leme"><i class="bi bi-medium" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
-</div>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-color-scheme-toggle nav-link" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -216,7 +212,7 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:640/1*0L6EOX9C1SZSyCPQ0AMauA.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Pendulo</figcaption>
+<p></p><figcaption class="figure-caption">Pendulo</figcaption><p></p>
 </figure>
 </div>
 <blockquote class="blockquote">
@@ -242,7 +238,7 @@ Momentum = r_{t-k, t} = \frac{P_t - P_{t-k}}{P_{t-k}}
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:720/1*Jgpzt3Z59XwFJgI9jfxXuw.gif" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Animação demonstrado alta e baixa volatilidade (Capital.com)</figcaption>
+<p></p><figcaption class="figure-caption">Animação demonstrado alta e baixa volatilidade (Capital.com)</figcaption><p></p>
 </figure>
 </div>
 <p>Um valor baixo de volatilidade indica uma estabilidade no investimento. Já uma alta volatilidade indica incerteza, porém com um potencial de lucro maior, se o investidor estiver disposto a suportar o risco. Além do desvio padrão, existem diversas outras maneiras de estimar risco:</p>
@@ -270,7 +266,7 @@ Momentum = r_{t-k, t} = \frac{P_t - P_{t-k}}{P_{t-k}}
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*dfJ9auu5-9jxIEB6upPjIA.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Gráfico comparativo das volatilidades</figcaption>
+<p></p><figcaption class="figure-caption">Gráfico comparativo das volatilidades</figcaption><p></p>
 </figure>
 </div>
 <p>Para efeito de comparação construímos o gráfico das 3 volatilidades em um preço de contrato futuro. Podemos perceber que, principalmente em momentos de maior estresse, os modelos Parkinson e Garman Klass têm uma resposta mais rápida e mais precisa. Um período que pode-se destacar é o ano de 2008, que os dois modelos acabaram captando mais informações intra diárias da crise da bolha hipotecária.</p>
@@ -307,7 +303,7 @@ r_{t, t+1}^{\mathrm{TSMOM}}=\frac{1}{S_t} \sum_{s=1}^{S_t} \operatorname{sign}\l
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*sLELF3dxu2jiuXGqPLEjdQ.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Retorno acumulado da estratégia</figcaption>
+<p></p><figcaption class="figure-caption">Retorno acumulado da estratégia</figcaption><p></p>
 </figure>
 </div>
 <p>E aqui finalmente temos os resultados do TSMOM. Ao total, obtemos 382.36% na estratégia original e 563.65% na long only. Que anualizando os retornos temos respectivamente 8.63% e 10.47%. Apesar de, no longo prazo, o TSMOM não superar o seu índice (Long only), é importante ressaltar a performance entre os anos 2000 e 2009. Período no qual ocorreram duas importante crises: bolha da internet (“dot-com”) e bolha hipotecária.</p>
@@ -317,7 +313,7 @@ r_{t, t+1}^{\mathrm{TSMOM}}=\frac{1}{S_t} \sum_{s=1}^{S_t} \operatorname{sign}\l
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*D-_S1Hku4WJyFhqZPRtwzQ.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Performace em crises</figcaption>
+<p></p><figcaption class="figure-caption">Performace em crises</figcaption><p></p>
 </figure>
 </div>
 <p>Uma das principais características desse algoritmo é a sua resiliência em períodos de crise. Aqui temos novamente o caso da crise de 2008, quando o mercado foi acumulando quedas constantes nos preços, refletindo numa tendência de momentum negativo. E no auge da crise, em outubro, os preços de commodities e ações caíram drasticamente. Propiciando assim um momentum muito negativo. Nessa situação, o TSMOM se posicionou majoritariamente vendido, gerando grandes lucros no último trimestre de 2008.</p>
@@ -327,7 +323,7 @@ r_{t, t+1}^{\mathrm{TSMOM}}=\frac{1}{S_t} \sum_{s=1}^{S_t} \operatorname{sign}\l
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*sGeO4xryLXJ9Hk1ML9lrOw.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Aprimoramentos TSMOM</figcaption>
+<p></p><figcaption class="figure-caption">Aprimoramentos TSMOM</figcaption><p></p>
 </figure>
 </div>
 <p>Com o intuito de adicionar mais informações no modelo, utilizamos o estimador de risco Garman-Klass e construímos um momentum modificado. Que é basicamente a média de momentums com períodos diferentes, os escolhidos foram 3, 6 e 12 meses. Essas modificações fizeram nosso algoritmo performar melhor que o Long Only, tal feito pode ser justificado pela a adição de informações mais recentes ao modelo, fazendo-o reagir mais rapidamente a grandes variações de preço. Com essas modificações alcançamos o resultado de 951,62%! Que anualizado implica em 13,18%.</p>
@@ -491,23 +487,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
+    target: function(trigger) {
+      return trigger.previousElementSibling;
     }
   });
   clipboard.on('success', function(e) {
@@ -572,92 +554,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -700,13 +596,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">
-      &nbsp;
-    </div>   
-    <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
-    <div class="nav-footer-right">
-      &nbsp;
-    </div>
+      <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
   </div>
 </footer>
 
