@@ -9,27 +9,34 @@ feeds = {
     'Liberty Street Economics': {
         "url": 'https://feeds.feedburner.com/LibertyStreetEconomics',
         "categories": ["Notícias", "FED", "BC"],
-        "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg"
+        "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg",
+        "n_posts_to_show": 1
     },
     'FED: Working Papers': {
         "url": 'https://www.federalreserve.gov/feeds/working_papers.xml',
         "categories": ["Papers", "FED", "BC"],
         "image": "https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp"
     },
-    'Bacen: Atas do Copom': {
+    'Atas do Copom': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
         "categories": ["Bacen", "BC"],
-        "image": ""
+        "image": "https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700",
+        "force_author": True,
+        "n_posts_to_show": 1
     },
-    'Bacen: Comunicados Copom': {
+    'Comunicados Copom': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/comunicadoscopom',
         "categories": ["Bacen", "BC"],
-        "image": "https://cdn.oantagonista.com/cdn-cgi/image/fit=contain,width=960,format=auto/uploads/2023/08/53089476259_00fff6225f_o-scaled.jpg"
+        "image": "https://cdn.oantagonista.com/cdn-cgi/image/fit=contain,width=960,format=auto/uploads/2023/08/53089476259_00fff6225f_o-scaled.jpg",
+        "force_author": True,
+        "n_posts_to_show": 1
     },
-    'Bacen: Relatório de Inflação': {
+    'Relatório de Inflação': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/ri',
         "categories": ["Bacen", "BC"],
-        "image": ""
+        "image": "https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp",
+        "force_author": True,
+        "n_posts_to_show": 1
     },
     'Bacen: Relatório Focus': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/focus',
@@ -87,7 +94,7 @@ feeds = {
         "url": "https://braziljournal.com/categoria/economia/feed/",
         "categories": ["Notícias"],
         "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
-        "n_posts_to_show": 3,
+        "n_posts_to_show": 1,
     },
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
