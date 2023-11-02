@@ -110,6 +110,16 @@ feeds = {
         "categories": ["Macro", "Newsletters"],
         "image": ""
     },
+    "Arjan Codes": {
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVhQ2NnY5Rskt6UjCUkJ_DA",
+        "categories": ["Tech", "Code", "Youtube"],
+        "image": ""
+    },
+    "MKBHD": {
+        "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
+        "categories": ["Tech", "Youtube"],
+        "image": ""
+    },
 }
 
 
@@ -120,7 +130,7 @@ def get_feed_info(feed_url):
     feed_info = {
         'title': feed.feed.title,
         'link': feed.feed.link,
-        'description': feed.feed.description,
+        'description': feed.feed.description if hasattr(feed.feed, 'description') else None,
         'entries': []
     }
 
@@ -133,6 +143,10 @@ def get_feed_info(feed_url):
                     image = link['href']
                     has_image = True
                     break
+
+        if hasattr(entry, 'media_thumbnail'):
+            image = entry.media_thumbnail[0]['url']
+            has_image = True
 
         if not has_image:
             image = entry.image.href if hasattr(entry, 'image') else None
