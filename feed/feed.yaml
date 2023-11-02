@@ -1,5 +1,34 @@
-- author: Apricitas Economics
+- author: ArjanCodes
   categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-11-02T16:00:29+00:00'
+  description: "In this short, I'll show you how JavaScript's dynamic typing works\
+    \ and why it's useful.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
+    \ help you review code more effectively using my 3-Factor Diagnosis Framework:\
+    \ https://www.arjancodes.com/diagnosis\n\nTry Learntail for FREE \u27A1\uFE0F\
+    \ https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software Designer Mindset:\
+    \ https://www.arjancodes.com/mindset\nThe Software Architect Mindset: Pre-register\
+    \ now! https://www.arjancodes.com/architect\nNext Level Python: Become a Python\
+    \ Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day Design Challenge:\
+    \ https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\
+    \n\U0001F44D If you enjoyed this content, give this video a like. If you want\
+    \ to watch more of my upcoming videos, consider subscribing to my channel!\n\n\
+    Social channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426\
+    Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
+    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
+    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
+    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
+    \ might be affiliate links. If you purchase a product or service through one of\
+    \ those links, I may receive a small commission. There is no additional charge\
+    \ to you. Thanks for supporting my channel so I can continue to provide you with\
+    \ free content each week!"
+  image: https://i4.ytimg.com/vi/gwaoBfWgQ0E/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=gwaoBfWgQ0E
+  title: 'JavaScript: The Magic of Dynamic Typing!'
+- author: Apricitas Economics
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-11-02T11:30:16+00:00'
@@ -21,6 +50,16 @@
   image: https://i.scdn.co/image/ab6765630000ba8af2c13b49530b257155a2b42d
   path: https://open.spotify.com/episode/3apG7EVaWTOw3joYKmnGha
   title: "The Trial of Crypto\u2019s Golden Boy: Closing Arguments"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2023-11-02T00:00:00+00:00'
+  description: An article from The Economist read aloud. Our Bartleby column, on work
+    and management, finds that the distinction between a leader and a manager is both
+    valid and unhelpful
+  image: https://i.scdn.co/image/ab6765630000ba8acb513b6022a887dd39dac600
+  path: https://open.spotify.com/episode/3xDyajhZBKmSB9jtL6yxH0
+  title: 'Money Talks picks: Would you rather be a manager or a leader?'
 - author: The Journal.
   categories: *id001
   date: '2023-11-01T00:00:00+00:00'
@@ -116,10 +155,7 @@
   path: https://stayathomemacro.substack.com/p/sometimes-the-impossible-is-possible
   title: Sometimes, the impossible is possible. Ask the US economy.
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2023-10-27T15:00:08+00:00'
   description: "In this tutorial, I'll guide you through API testing using FastAPI,\
     \ complete with a full code example. Use this as a template for testing your own\
@@ -178,7 +214,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
   title: Looking Under the Hood of Long/Short Tax-Aware Strategies
 - author: Apricitas Economics
-  categories: *id003
+  categories: *id004
   date: '2023-10-26T23:03:50+00:00'
   description: US Median Wealth Has Hit a Record High Propelled by Rising Home Prices,
     Growing Stock Ownership, and Pandemic-era Excess Savings
@@ -209,50 +245,6 @@
   path: https://open.spotify.com/episode/0ncoS4WVGYIs4cxLnxmb1B
   title: '#68 | O futuro do Ibov, novos riscos da Petrobras e o efeito devastador
     da Shein'
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2023-10-26T00:00:00+00:00'
-  description: "Last week, we spoke to the author Michael Lewis, who was embedded\
-    \ with Sam Bankman-Fried, as FTX, the crypto-trading empire he built, came crashing\
-    \ down amid allegations of fraud, which Mr Bankman-Fried denies. Mr Lewis credits\
-    \ Changpeng Zhao - the boss of Binance, a rival exchange - with bringing Mr Bankman-Fried\
-    \ to prominence. But CZ, as he\u2019s known, may also have played a role in his\
-    \ downfall. This week, we speak to him about what the future holds for crypto.\_\
-    Hosts: Alice Fulwood, Mike Bird and Tom Lee-Devlin. Guests: CZ.Sign up for Economist\
-    \ Podcasts+ now and get 50% off your subscription with our limited time offer.\_\
-    If you\u2019re already a subscriber to The Economist, you\u2019ll have full access\
-    \ to all our shows as part of your subscription.For more information about how\
-    \ to access Economist Podcasts+, please visit our FAQs page or watch our video\
-    \ explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a2402e39b8101289c0b13f217
-  path: https://open.spotify.com/episode/6N7PZG6FZzupdvY7dc9LVk
-  title: 'Money Talks: The future of crypto, part two'
-- author: ArjanCodes
-  categories: *id004
-  date: '2023-10-25T15:00:42+00:00'
-  description: "Here are my top 3 tips to reduce coupling!\n\n\U0001F477 Join the\
-    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
-    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F393\
-    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: [https://discord.arjan.codes](https://discord.arjan.codes/)\n\U0001F426\
-    Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
-    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
-    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
-    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
-    \ might be affiliate links. If you purchase a product or service through one of\
-    \ those links, I may receive a small commission. There is no additional charge\
-    \ to you. Thanks for supporting my channel so I can continue to provide you with\
-    \ free content each week!"
-  image: https://i4.ytimg.com/vi/oeq8H1MTvAg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=oeq8H1MTvAg
-  title: 3 Tips to Reduce Coupling
 - author: The Overshoot
   categories: &id008
   - Macro
