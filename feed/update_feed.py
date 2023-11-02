@@ -80,7 +80,7 @@ feeds = {
         "url": "https://rss.app/feeds/yTflNSP56chq8Hi7.xml",
         "categories": ["Notícias"],
         "image": "",
-        "n_posts_to_show": 3,
+        "n_posts_to_show": 4,
         "force_author": True
     },
     "Brazil Journal": {
