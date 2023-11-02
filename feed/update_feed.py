@@ -109,7 +109,7 @@ feeds = {
         "url": "https://www.apricitas.io/feed",
         "categories": ["Macro", "Newsletters"],
         "image": ""
-    }
+    },
 }
 
 
@@ -232,25 +232,24 @@ def get_most_recent_post():
 
 
 def save_feed_data():
-    """
-    Save YAML like this:
-
-    - title: "Archived Item 1"
-      author: Norah Jones
-      date: 2020-01-01
-      path: "https://google.com"
-      categories: [archived, technology]
-    """
     logging.info('Starting to save feed data')
 
     most_recent_posts = get_most_recent_post()
+
+    news_posts = [
+        post for post in most_recent_posts if 'Notícias' in post['categories']]
+    other_posts = [
+        post for post in most_recent_posts if 'Notícias' not in post['categories']]
 
     logging.info('Finished getting most recent posts')
 
     logging.info('Starting to save feed data')
 
+    with open('feed/news.yaml', 'w') as outfile:
+        yaml.dump(news_posts, outfile, default_flow_style=False)
+
     with open('feed/feed.yaml', 'w') as outfile:
-        yaml.dump(most_recent_posts, outfile, default_flow_style=False)
+        yaml.dump(other_posts, outfile, default_flow_style=False)
 
     logging.info('Finished saving feed data')
 

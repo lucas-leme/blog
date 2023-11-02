@@ -1,40 +1,5 @@
-- author: "Bloomberg L\xEDnea"
-  categories: &id001
-  - "Not\xEDcias"
-  date: '2023-11-01T21:04:26+00:00'
-  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg\"\
-    \ style=\"width: 100%;\" /><div>Apenas sete pap\xE9is do \xEDndice ca\xEDram no\
-    \ preg\xE3o desta quarta, e a principal alta foi a da Locaweb, cujas a\xE7\xF5\
-    es subiram 10,84%; nos Estados Unidos, mercado reagiu a mais uma pausa na alta\
-    \ dos juros</div></div>"
-  image: https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg
-  path: https://www.bloomberglinea.com.br/mercados/ibovespa-e-ny-sobem-depois-de-decisao-do-federal-reserve-dolar-cai-a-r-497/
-  title: "Ibovespa e NY sobem depois de decis\xE3o do Federal Reserve; d\xF3lar cai\
-    \ a R$ 4,97"
-- author: "Bloomberg L\xEDnea"
-  categories: *id001
-  date: '2023-11-01T20:55:21+00:00'
-  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/4y7IAAs-mlSnXfQLVgKpWCpXFg8=/1024x0/filters:format(webp):quality(75):focal(1415x915:1425x925)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/JK4U7ZUJDZAJFBLFBBMXYJUDFY.jpg\"\
-    \ style=\"width: 100%;\" /><div>Para presidente do Federal Reserve, Jerome Powell,\
-    \ institui\xE7\xE3o quer ter certeza de que os juros est\xE3o em um patamar restritivo\
-    \ o suficiente para levar a infla\xE7\xE3o \xE0 meta</div></div>"
-  image: https://www.bloomberglinea.com/resizer/4y7IAAs-mlSnXfQLVgKpWCpXFg8=/1024x0/filters:format(webp):quality(75):focal(1415x915:1425x925)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/JK4U7ZUJDZAJFBLFBBMXYJUDFY.jpg
-  path: https://www.bloomberglinea.com.br/mercados/powell-diz-que-aperto-do-fed-esta-perto-do-fim-mas-mantem-possibilidade-de-nova-alta/
-  title: "Powell diz que aperto do Fed est\xE1 perto do fim, mas mant\xE9m possibilidade\
-    \ de nova alta"
-- author: "Bloomberg L\xEDnea"
-  categories: *id001
-  date: '2023-11-01T16:32:02+00:00'
-  description: "<div><img src=\"https://www.bloomberglinea.com/resizer/um9mmDzA0HZnQ7bdpxtI8C8nAQ4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/GNMLWGBFGFHZTNPOVBLQIH62AQ.jpg\"\
-    \ style=\"width: 100%;\" /><div>BP foi rebaixada pelo JPMorgan, o que a separa\
-    \ das concorrentes Chevron, Exxon, Shell e Total, nenhuma delas com recomenda\xE7\
-    \xE3o negativa</div></div>"
-  image: https://www.bloomberglinea.com/resizer/um9mmDzA0HZnQ7bdpxtI8C8nAQ4=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/GNMLWGBFGFHZTNPOVBLQIH62AQ.jpg
-  path: https://www.bloomberglinea.com.br/mercados/esta-e-a-unica-petroleira-com-recomendacao-de-venda-pelos-analistas/
-  title: "Esta \xE9 a \xFAnica grande petroleira com recomenda\xE7\xE3o de venda pelos\
-    \ analistas"
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
   date: '2023-11-01T00:00:00+00:00'
   description: "Randy Hatton and Leslie Hendeles spent nearly two decades trying to\
@@ -49,7 +14,7 @@
   path: https://open.spotify.com/episode/1viutOPrBcceZTFSffaiIO
   title: The Two Scientists Taking Down Cold Medicines That Don't Work
 - author: Outliers
-  categories: &id005
+  categories: &id004
   - Podcasts
   date: '2023-11-01T00:00:00+00:00'
   description: ''
@@ -69,7 +34,7 @@
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
 - author: The Journal.
-  categories: *id002
+  categories: *id001
   date: '2023-10-31T00:00:00+00:00'
   description: "A Danish antiques dealer named Ittai Gradel noticed a particular seller\
     \ repeatedly listing valuable items for sale online at rock-bottom prices. WSJ's\
@@ -95,7 +60,7 @@
   path: https://open.spotify.com/episode/6xwgQ3HD4nGhxiN5ocFmYt
   title: Justifying Optimism
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id004
+  categories: &id003
   - Macro
   - Newsletters
   date: '2023-10-27T19:02:42+00:00'
@@ -119,7 +84,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27102023
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/10/2023"
 - author: AQR
-  categories: &id011
+  categories: &id008
   - Quant
   - Papers
   date: '2023-10-27T00:00:00'
@@ -131,7 +96,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
   title: Looking Under the Hood of Long/Short Tax-Aware Strategies
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-10-26T23:03:50+00:00'
@@ -140,23 +105,8 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb7076fd-ae39-4518-8f98-c938d556bd57_2886x1843.png
   path: https://www.apricitas.io/p/americas-record-wealth-boom
   title: America's Record Wealth Boom
-- author: "Economia \u2013 Brazil Journal"
-  categories: &id010
-  - "Not\xEDcias"
-  date: '2023-10-26T04:07:52+00:00'
-  description: "<p>As recentes propostas de altera\xE7\xE3o da tributa\xE7\xE3o da\
-    \ renda do capital enviadas pelo governo e aprovadas pela C\xE2mara ontem \xE0\
-    \ noite foram anunciadas como medidas que buscam melhorar a equidade e a efici\xEA\
-    ncia do sistema tribut\xE1rio. Se o PL passar pelo Senado da forma como est\xE1\
-    , os fundos de investimento fechados passar\xE3o a ser tributados [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-o-erro-do-come-cotas/\"\
-    \ rel=\"nofollow\">OPINI\xC3O: O erro do \u2018come-cotas\u2019\_</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-erro-do-come-cotas/
-  title: "OPINI\xC3O: O erro do \u2018come-cotas\u2019"
 - author: Market Makers
-  categories: &id003
+  categories: &id002
   - Podcasts
   date: '2023-10-26T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
@@ -199,7 +149,7 @@
   path: https://open.spotify.com/episode/6N7PZG6FZzupdvY7dc9LVk
   title: 'Money Talks: The future of crypto, part two'
 - author: The Overshoot
-  categories: &id006
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-10-25T04:51:46+00:00'
@@ -210,7 +160,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-for-now
   title: The U.S. Economy Is Booming (For Now). What Does It Mean?
 - author: Market Makers
-  categories: *id003
+  categories: *id002
   date: '2023-10-25T00:00:00+00:00'
   description: "O Magazine Luiza (MGLU3) est\xE1 hoje num momento completamente diferente\
     \ do que viveu anos atr\xE1s. Entre 2015 e 2020, a a\xE7\xE3o da empresa saltou\
@@ -239,7 +189,7 @@
   path: https://open.spotify.com/episode/3U6OkIa9etYJYP6luGj11e
   title: "MAGAZINE LUIZA (MGLU3): MENOS DE R$ 2,00 EM 2023 | EST\xC1 BARATA?"
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id004
+  categories: *id003
   date: '2023-10-22T15:35:31+00:00'
   description: The Fed is increasingly concerned about "above-trend" growth. In the
     mid-1990s, Greenspan grappled with it, too, and wisely held off on raising rates.
@@ -248,7 +198,7 @@
   path: https://stayathomemacro.substack.com/p/jay-powells-greenspan-moment
   title: Jay Powell's Greenspan moment
 - author: Outliers
-  categories: *id005
+  categories: *id004
   date: '2023-10-20T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/jaIH5QIDS1QA\
     \ oferta de investimentos alternativos, em especial de cr\xE9ditos mais estruturados,\
@@ -271,7 +221,7 @@
   path: https://open.spotify.com/episode/4KiwoIeOD6KvRaa2Ohe0v9
   title: "#113 - Gest\xE3o do cr\xE9dito em situa\xE7\xF5es especiais com Jive Investments"
 - author: The Overshoot
-  categories: *id006
+  categories: *id005
   date: '2023-10-19T22:34:42+00:00'
   description: 'Michael Pettis and I talk about China''s emergence as a major car
     exporter, what it says about China, and what it means for Europe. Plus: how and
@@ -280,59 +230,14 @@
   path: https://theovershoot.co/p/new-episode-of-unbalanced-f5f
   title: New Episode of UN/BALANCED!
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id006
   date: '2023-10-19T12:30:51+00:00'
   description: What the Fading of Pandemic-Era Supply Constraints Means for the Economy
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fafcf418a-2b08-4db5-aea6-dfc405e1e819_2886x1843.png
   path: https://www.apricitas.io/p/monetary-policy-in-a-surplus-economy
   title: Monetary Policy in a Surplus Economy
-- author: Liberty Street Economics
-  categories: &id008
-  - "Not\xEDcias"
-  - FED
-  - BC
-  date: '2023-10-19T11:00:00+00:00'
-  description: "China's leader Xi Jinping recently <a href=\"https://www.fmprc.gov.cn/eng/zxxx_662805/202210/t20221025_10791908.html\"\
-    >laid out</a> the goal of reaching the per capita income of \"a mid-level developed\
-    \ country by 2035.\" Is this goal likely to be achieved? Not in our view. Continued\
-    \ rapid growth faces mounting headwinds from population aging and from diminishing\
-    \ returns to China's investment-centered growth model. Additional impediments\
-    \ to growth appear to be building, including a turn \_\_  toward increased state\
-    \ management of the economy, the \_ crystallization of legacy credit issues in\
-    \ real estate and other sectors, and limits on access to key foreign technologies.\
-    \ Even given generous assumptions concerning future growth fundamentals, China\
-    \ appears likely to close only a fraction of the gap with high-income countries\
-    \ in the years ahead."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2023/10/can-china-catch-up-with-greece/
-  title: Can China Catch Up with Greece?
-- author: Liberty Street Economics
-  categories: *id008
-  date: '2023-10-18T14:01:00+00:00'
-  description: "After forty-three months of forbearance, the pause on federal student\
-    \ loan payments has ended. Originally enacted at the onset of the COVID-19 pandemic\
-    \ in March 2020, the administrative forbearance and interest waiver lasted until\
-    \ September 1, 2023, and borrowers\u2019 monthly payments resumed this month.\
-    \ As discussed in an <a href=\"https://libertystreeteconomics.newyorkfed.org/2023/10/an-update-on-the-health-of-the-u-s-consumer\"\
-    >accompanying post</a>, the pause on student loan payments afforded borrowers\
-    \ over $260 billion in waived payments throughout the pandemic, supporting borrowers\u2019\
-    \ consumption and savings over the last three years. In this post, we analyze\
-    \ responses of student loan borrowers to special questions in the August 2023\
-    \ SCE Household Spending Survey designed to gauge the expected impact of the payment\
-    \ resumption on future spending growth, the risk of credit delinquency for borrowers,\
-    \ and the economy at large. The findings suggest that the payment resumption will\
-    \ have a relatively small overall effect on consumption, on the order of a 0.1\
-    \ percentage point reduction in aggregate spending from August levels, and a (delayed)\
-    \ return of student loan delinquency rates back to pre-pandemic levels. Across\
-    \ groups, we see little variation in spending responses but find that low-income\
-    \ borrowers, female borrowers, those with less than a bachelor\u2019s degree,\
-    \ and those who were not in repayment before the pandemic expect the highest likelihood\
-    \ of missed student loan payments."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2023/10/borrower-expectations-for-the-return-of-student-loan-repayment/
-  title: Borrower Expectations for the Return of Student Loan Repayment
 - author: 'FRB: Working Papers'
-  categories: &id009
+  categories: &id007
   - Papers
   - FED
   - BC
@@ -353,7 +258,7 @@
   path: https://www.federalreserve.gov/econres/feds/measuring-interest-rate-risk-management-by-financial-institutions.htm
   title: 'FEDS Paper: Measuring Interest Rate Risk Management by Financial Institutions'
 - author: 'FRB: Working Papers'
-  categories: *id009
+  categories: *id007
   date: '2023-10-11T14:47:00+00:00'
   description: Joakim A. Weill<br /><br />This paper examines the provision of official
     flood risk information in the United States and its distributional impacts on
@@ -369,38 +274,8 @@
   path: https://www.federalreserve.gov/econres/feds/flood-risk-mapping-and-the-distributional-impacts-of-climate-information.htm
   title: 'FEDS Paper: Flood Risk Mapping and the Distributional Impacts of Climate
     Information'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id010
-  date: '2023-10-10T16:32:51+00:00'
-  description: "<p>O economista Marcos Lisboa ser\xE1 o host do Lado B, um videocast\
-    \ no Brazil Journal no qual entrevistar\xE1 pessoas de refer\xEAncia em suas \xE1\
-    reas sobre temas diversos.A estreia ser\xE1 uma conversa com Affonso Celso Pastore,\
-    \ mas o programa n\xE3o se restringir\xE1 \xE0 economia, a atividade pela qual\
-    \ Marcos \xE9 mais conhecido.Com um hist\xF3rico de contribuic\u0327o\u0303es\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/marcos-lisboa-estreia-lado-b-no-brazil-journal/\"\
-    \ rel=\"nofollow\">Marcos Lisboa estreia \u2018Lado B\u2019 no Brazil Journal</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/marcos-lisboa-estreia-lado-b-no-brazil-journal/
-  title: "Marcos Lisboa estreia \u2018Lado B\u2019 no Brazil Journal"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id010
-  date: '2023-10-05T22:53:57+00:00'
-  description: "<p>Se cambiaran las reglas del juego. \_O governo de Andr\xE9s Manuel\
-    \ L\xF3pez Obrador alterou unilateralmente e sem aviso pr\xE9vio os termos da\
-    \ remunera\xE7\xE3o das concession\xE1rias de aeroportos mexicanos, no mais recente\
-    \ golpe intervencionista desferido pelo presidente esquerdista.\_ As a\xE7\xF5\
-    es dos operadores aeroportu\xE1rios derreteram, com as quedas chegando a superar\
-    \ 40% no in\xEDcio do preg\xE3o.\_ O [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/amlo-intervem-em-aeroportos-privatizados-acoes-derretem/\"\
-    \ rel=\"nofollow\">AMLO interv\xE9m em aeroportos privatizados; a\xE7\xF5es derretem</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/amlo-intervem-em-aeroportos-privatizados-acoes-derretem/
-  title: "AMLO interv\xE9m em aeroportos privatizados; a\xE7\xF5es derretem"
 - author: AQR
-  categories: *id011
+  categories: *id008
   date: '2023-10-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\

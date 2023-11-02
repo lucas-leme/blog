@@ -1,16 +1,38 @@
 ---
-title: "Feed"
+title: "Meu Feed"
 subtitle: "Conteúdo que acompanho, coletado automaticamente."
 title-block-banner: false
 page-layout: full
 listing:
-  filter-ui: true
-  feed: true
-  type: grid
-  grid-columns: 3
-  categories: true
-  page-size: 28
-  fields: [image, date, title, author, categories]
-  contents: 
-    - feed.yaml
+  - id: news
+    type: grid
+    grid-columns: 1
+    image-height: "300px"
+    page-size: 10
+    fields: [image, date, title, author, categories]
+    contents: 
+      - news.yaml
+  - id: feed
+    type: grid
+    grid-columns: 2
+    page-size: 24
+    fields: [image, date, title, author, categories]
+    contents: 
+      - feed.yaml
+
 ---
+::: {.grid}
+
+::: {.g-col-6 .g-col-md-6 .g-col-sm-12 .g-col-xs-12}
+## Destaques Rápidos
+:::{#news}
+:::
+:::
+
+::: {.g-col-6 .g-col-md-6 .g-col-sm-12 .g-col-xs-12}
+## Exploração Detalhada
+:::{#feed}
+:::
+:::
+
+:::
