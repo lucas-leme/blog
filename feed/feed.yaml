@@ -1,5 +1,16 @@
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2023-11-03T20:00:24+00:00'
+  description: The unemployment rate increased to 3.9% in October; job gains slowed
+    to 150,000--a sign that the recent burst in economic activity and jobs was likely
+    unsustainable. But that's not a recession.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cbf654-983d-44ec-b6a9-6f7e0b2b2797_700x450.png
+  path: https://stayathomemacro.substack.com/p/quick-update-on-the-sahm-rule
+  title: Quick update on the Sahm rule
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -88,7 +99,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-effects-of-cbdc-on-the-federal-reserves-balance-sheet.htm
   title: 'FEDS Paper: The Effects of CBDC on the Federal Reserve''s Balance Sheet'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-11-03T04:31:38+00:00'
@@ -98,8 +109,20 @@
   path: https://theovershoot.co/p/is-the-fed-peaking-too-soon
   title: Is the Fed Peaking Too Soon?
 - author: The Journal.
-  categories: &id003
+  categories: &id002
   - Podcasts
+  date: '2023-11-03T00:00:00+00:00'
+  description: "Brothers Ben and Max Morrissey were killed over a year ago by an explosion\
+    \ at their workplace, an oil refinery co-owned and operated by the oil giant BP\
+    \ in Ohio. WSJ's Jenny Strasburg talks to family members the brothers left behind\
+    \ and investigates what went wrong at the refinery. Further Reading: -He Feared\
+    \ His Refinery Job. His Brother Stayed to Help. The Explosion Hit at 6:46 P.M.\_\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0DjE4LukqwRjyrxm9Ts1ZK
+  title: '''Our Refinery Is On Fire'': Two Brothers and a Deadly Explosion'
+- author: The Journal.
+  categories: *id002
   date: '2023-11-03T00:00:00+00:00'
   description: "A jury convicted FTX founder Sam Bankman-Fried of stealing billions\
     \ of dollars from customers and lenders, in what prosecutors called one of the\
@@ -111,7 +134,7 @@
   path: https://open.spotify.com/episode/1jerBR69JDlXD1uU5MgDjh
   title: "The Trial of Crypto\u2019s Golden Boy: Guilty On All Counts"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2023-11-02T16:00:29+00:00'
   description: "In this short, I'll show you how JavaScript's dynamic typing works\
     \ and why it's useful.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
@@ -137,7 +160,7 @@
   path: https://www.youtube.com/watch?v=gwaoBfWgQ0E
   title: 'JavaScript: The Magic of Dynamic Typing!'
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-11-02T11:30:16+00:00'
@@ -147,7 +170,7 @@
   path: https://www.apricitas.io/p/americas-return-to-strong-growth
   title: America's Return to Strong Growth
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2023-11-02T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
@@ -169,20 +192,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a732e002ff1c13a6fb24e330f
   path: https://open.spotify.com/episode/0qsceOjasC9a0jDtGN8clY
   title: "#69 | O RISCO FISCAL VOLTOU\u2026 DE NOVO"
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-02T00:00:00+00:00'
-  description: "Meta, the parent of Facebook and Instagram, will soon find out how\
-    \ much users in Europe are willing to pay to access its social media platforms\
-    \ without ads. Meta\u2019s subscription plan is the company\u2019s latest move\
-    \ to address data privacy concerns from European Union regulators. WSJ\u2019s\
-    \ Sam Schechner explains.\_  Further Reading: - Meta Pauses Ads for Users Under\
-    \ 18 in Europe as It Rolls Out Subscriptions\_ - Meta Plans to Charge $14 a Month\
-    \ for Ad-Free Instagram\_  Further Listening: - How Apple Lost to the EU\_ - Meta\u2019\
-    s Metaverse Mess\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5QJT6cJqoj9cDcljsyRuk8
-  title: Would You Pay to Use Instagram Without Ads?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -355,9 +364,7 @@
   path: https://www.youtube.com/watch?v=Ks_7TmGNZI4
   title: "Pixel Watch 2 is Actually\u2026 Good?"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2023-10-27T19:02:42+00:00'
   description: Real GDP shot up 4.9% in the third quarter, and core inflation fell
     to 2.4%, more signs that we are well on our way to the soft landing.
@@ -391,7 +398,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
   title: Looking Under the Hood of Long/Short Tax-Aware Strategies
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id006
   date: '2023-10-26T23:03:50+00:00'
   description: US Median Wealth Has Hit a Record High Propelled by Rising Home Prices,
     Growing Stock Ownership, and Pandemic-era Excess Savings
@@ -399,7 +406,7 @@
   path: https://www.apricitas.io/p/americas-record-wealth-boom
   title: America's Record Wealth Boom
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2023-10-26T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
     \ \U0001F447 https://drjones.vc/mmakers\U0001F534 Vale a pena investir no fundo\
@@ -422,7 +429,7 @@
   title: '#68 | O futuro do Ibov, novos riscos da Petrobras e o efeito devastador
     da Shein'
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2023-10-25T04:51:46+00:00'
   description: Every measure of activity indicates remarkable resilience in the face
     of "restrictive" monetary policy. That is good for many people, but may be trouble
@@ -430,15 +437,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07cbb0cb-2ff2-41cd-b06d-11f507436cd8_5007x2535.png
   path: https://theovershoot.co/p/the-us-economy-is-booming-for-now
   title: The U.S. Economy Is Booming (For Now). What Does It Mean?
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id008
-  date: '2023-10-22T15:35:31+00:00'
-  description: The Fed is increasingly concerned about "above-trend" growth. In the
-    mid-1990s, Greenspan grappled with it, too, and wisely held off on raising rates.
-    That's the right move again today.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6947d671-20ec-4285-98e9-5ab9e69424ce_2121x1414.png
-  path: https://stayathomemacro.substack.com/p/jay-powells-greenspan-moment
-  title: Jay Powell's Greenspan moment
 - author: Outliers
   categories: *id009
   date: '2023-10-20T00:00:00+00:00'
