@@ -1,3 +1,26 @@
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2023-11-03T04:31:38+00:00'
+  description: The risk is that nominal spending will continue to rise faster than
+    officials prefer.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffaa11a6-5593-4752-b8a4-91695f439043_4998x2798.png
+  path: https://theovershoot.co/p/is-the-fed-peaking-too-soon
+  title: Is the Fed Peaking Too Soon?
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-11-03T00:00:00+00:00'
+  description: "A jury convicted FTX founder Sam Bankman-Fried of stealing billions\
+    \ of dollars from customers and lenders, in what prosecutors called one of the\
+    \ biggest financial frauds in U.S. history. Rachel Humphreys and Caitlin Ostroff\
+    \ were inside the courtroom for the verdict.\_Further Reading:- What\u2019s Happening\
+    \ Today at the Sam Bankman-Fried Trial\_Further Listening:\_- The Trial of Crypto\u2019\
+    s Golden Boy\_ Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a5ad777133ef8b9d42307d72b
+  path: https://open.spotify.com/episode/1jerBR69JDlXD1uU5MgDjh
+  title: "The Trial of Crypto\u2019s Golden Boy: Guilty On All Counts"
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -61,8 +84,7 @@
   path: https://open.spotify.com/episode/0qsceOjasC9a0jDtGN8clY
   title: "#69 | O RISCO FISCAL VOLTOU\u2026 DE NOVO"
 - author: The Journal.
-  categories: &id001
-  - Podcasts
+  categories: *id001
   date: '2023-11-02T00:00:00+00:00'
   description: "Meta, the parent of Facebook and Instagram, will soon find out how\
     \ much users in Europe are willing to pay to access its social media platforms\
@@ -75,18 +97,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/5QJT6cJqoj9cDcljsyRuk8
   title: Would You Pay to Use Instagram Without Ads?
-- author: The Journal.
-  categories: *id001
-  date: '2023-11-02T00:00:00+00:00'
-  description: "Both the prosecution and the defense make their final pitches to the\
-    \ jury as FTX founder Sam Bankman-Fried\u2019s trial comes to a close. Rachel\
-    \ Humphreys and Caitlin Ostroff unpack closing arguments and look ahead to the\
-    \ trial\u2019s conclusion.Further Reading:- What\u2019s Happening Today at the\
-    \ Sam Bankman-Fried Trial\_Further Listening:\_- The Trial of Crypto\u2019s Golden\
-    \ Boy\_ Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8af2c13b49530b257155a2b42d
-  path: https://open.spotify.com/episode/3apG7EVaWTOw3joYKmnGha
-  title: "The Trial of Crypto\u2019s Golden Boy: Closing Arguments"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -189,7 +199,7 @@
   title: "BC - Copom Comunicado - 258\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 12,25% a.a."
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2023-11-01T00:00:00+00:00'
   description: ''
@@ -259,7 +269,7 @@
   path: https://www.youtube.com/watch?v=Ks_7TmGNZI4
   title: "Pixel Watch 2 is Actually\u2026 Good?"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-10-27T19:02:42+00:00'
@@ -359,9 +369,7 @@
   title: '#68 | O futuro do Ibov, novos riscos da Petrobras e o efeito devastador
     da Shein'
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2023-10-25T04:51:46+00:00'
   description: Every measure of activity indicates remarkable resilience in the face
     of "restrictive" monetary policy. That is good for many people, but may be trouble
@@ -370,7 +378,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-for-now
   title: The U.S. Economy Is Booming (For Now). What Does It Mean?
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id006
+  categories: *id007
   date: '2023-10-22T15:35:31+00:00'
   description: The Fed is increasingly concerned about "above-trend" growth. In the
     mid-1990s, Greenspan grappled with it, too, and wisely held off on raising rates.
@@ -379,7 +387,7 @@
   path: https://stayathomemacro.substack.com/p/jay-powells-greenspan-moment
   title: Jay Powell's Greenspan moment
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2023-10-20T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/jaIH5QIDS1QA\
     \ oferta de investimentos alternativos, em especial de cr\xE9ditos mais estruturados,\
@@ -401,15 +409,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a283507746679a9ca9cb49c9e
   path: https://open.spotify.com/episode/4KiwoIeOD6KvRaa2Ohe0v9
   title: "#113 - Gest\xE3o do cr\xE9dito em situa\xE7\xF5es especiais com Jive Investments"
-- author: The Overshoot
-  categories: *id008
-  date: '2023-10-19T22:34:42+00:00'
-  description: 'Michael Pettis and I talk about China''s emergence as a major car
-    exporter, what it says about China, and what it means for Europe. Plus: how and
-    when protectionism works (and doesn''t).'
-  image: https://substack-post-media.s3.amazonaws.com/public/images/a4a74576-259e-4b10-b476-ad76834d97fa_3024x4032.jpeg
-  path: https://theovershoot.co/p/new-episode-of-unbalanced-f5f
-  title: New Episode of UN/BALANCED!
 - author: 'FRB: Working Papers'
   categories: &id009
   - Papers
