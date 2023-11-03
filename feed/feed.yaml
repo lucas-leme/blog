@@ -1,3 +1,43 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-11-03T16:00:49+00:00'
+  description: "In this video, I\u2019ll cover 7 tips to streamline the structure\
+    \ of your Python data science projects. With the right setup and thoughtful software\
+    \ design, you'll be able to modify and enhance your projects more efficiently.\n\
+    \nCheck out Taipy here: https://github.com/avaiga/taipy.\n\nThe Cookiecutter:\
+    \ https://github.com/drivendata/cookiecutter-data-science\n\n\U0001F477 Join the\
+    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
+    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\u270D\
+    \U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/okaeaa\n\n\
+    Try Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\n\
+    The Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:50 Tip #1: Use a common structure\n1:55 Tip #2: Use existing libraries\n4:59\
+    \ Tip #3: Log your results\n5:55 Tip #4: Use intermediate data representations\n\
+    8:09 Tip #5: Move reusable code to a shared editable package\n9:24 Tip #6: Move\
+    \ configuration to a separate file\n11:45 Tip #7: Write unit tests\n14:09 Final\
+    \ thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in\
+    \ this description might be affiliate links. If you purchase a product or service\
+    \ through one of those links, I may receive a small commission. There is no additional\
+    \ charge to you. Thanks for supporting my channel so I can continue to provide\
+    \ you with free content each week!"
+  image: https://i1.ytimg.com/vi/xVuqDBCQAYc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xVuqDBCQAYc
+  title: 7 Tips To Structure Your Python Data Science Projects
 - author: 'FRB: Working Papers'
   categories: &id001
   - Papers
@@ -58,7 +98,7 @@
   path: https://theovershoot.co/p/is-the-fed-peaking-too-soon
   title: Is the Fed Peaking Too Soon?
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-03T00:00:00+00:00'
   description: "A jury convicted FTX founder Sam Bankman-Fried of stealing billions\
@@ -71,10 +111,7 @@
   path: https://open.spotify.com/episode/1jerBR69JDlXD1uU5MgDjh
   title: "The Trial of Crypto\u2019s Golden Boy: Guilty On All Counts"
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2023-11-02T16:00:29+00:00'
   description: "In this short, I'll show you how JavaScript's dynamic typing works\
     \ and why it's useful.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
@@ -133,7 +170,7 @@
   path: https://open.spotify.com/episode/0qsceOjasC9a0jDtGN8clY
   title: "#69 | O RISCO FISCAL VOLTOU\u2026 DE NOVO"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-11-02T00:00:00+00:00'
   description: "Meta, the parent of Facebook and Instagram, will soon find out how\
     \ much users in Europe are willing to pay to access its social media platforms\
@@ -268,7 +305,7 @@
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2023-10-31T02:53:06+00:00'
@@ -311,7 +348,7 @@
   path: https://open.spotify.com/episode/6xwgQ3HD4nGhxiN5ocFmYt
   title: Justifying Optimism
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2023-10-28T13:09:50+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ks_7TmGNZI4/hqdefault.jpg
@@ -327,39 +364,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F674d15eb-04e7-4e02-aeef-807edd6f92d0_2448x1224.png
   path: https://stayathomemacro.substack.com/p/sometimes-the-impossible-is-possible
   title: Sometimes, the impossible is possible. Ask the US economy.
-- author: ArjanCodes
-  categories: *id004
-  date: '2023-10-27T15:00:08+00:00'
-  description: "In this tutorial, I'll guide you through API testing using FastAPI,\
-    \ complete with a full code example. Use this as a template for testing your own\
-    \ APIs!\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
-    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/ogyylh\n\
-    \nGit Repo: https://git.arjan.codes/2023/apitesting\n\nTry Learntail for FREE\
-    \ \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
-    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
-    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
-    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:48 API testing basics\n7:24 DB dependency injection\n10:47 Setting up the test\
-    \ database\n15:03 Write test cases\n19:40 Operations layer\n24:17 Outro\n\n#arjancodes\
-    \ #softwaredesign #python\n\nDISCLAIMER - The links in this description might\
-    \ be affiliate links. If you purchase a product or service through one of those\
-    \ links, I may receive a small commission. There is no additional charge to you.\
-    \ Thanks for supporting my channel so I can continue to provide you with free\
-    \ content each week!"
-  image: https://i2.ytimg.com/vi/9gC3Ot0LoUQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=9gC3Ot0LoUQ
-  title: 'Mastering API Testing with FastAPI: Databases, Dependencies, and More!'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
