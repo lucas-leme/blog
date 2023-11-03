@@ -1,5 +1,54 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-03T15:42:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/isabel-cairo.htm">Isabel
+    Cairo</a>, <a href="https://www.federalreserve.gov/econres/hess-t-chung.htm">Hess
+    Chung</a>, <a href="https://www.federalreserve.gov/econres/francesco-ferrante.htm">Francesco
+    Ferrante</a>, <a href="https://www.federalreserve.gov/econres/cristina-fuentes-albero.htm">Cristina
+    Fuentes-Albero</a>, <a href="https://www.federalreserve.gov/econres/camilo-morales-jimenez.htm">Camilo
+    Morales-Jimenez</a>, <a href="https://www.federalreserve.gov/econres/damjan-pfajfar.htm">Damjan
+    Pfajfar</a><br /><br />The deep deterioration in the labor market during the Great
+    Recession, the subsequent slow recovery, and the missing disinflation are hard
+    to reconcile for standard macroeconomic models. We develop and estimate a New-Keynesian
+    model with financial frictions, search and matching frictions in the labor market,
+    and endogenous intensive and extensive labor supply decisions. We conclude that
+    the estimated combination of the low degree of nominal wage rigidities and high
+    degree of real wage rigidities, together with the small role of pre-match costs
+    relative to post-match costs, are key in successfully forecasting the slow recovery
+    in unemployment and the missing disinflation in the aftermath of the Great Recession.
+    We find that endogenous labor supply data are very informative about the relative
+    degree of nominal and real wage rigidities and the slope of the Phillips curve.
+    We also find that none of the model-based labor market gaps are a sufficient statistic
+    of labor market slack, but all contain relevant information about the state of
+    the economy summarized in a new indicator for labor market slack we put forward.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/endogenous-labor-supply-in-an-estimated-new-keynesian-model.htm
+  title: 'FEDS Paper: Endogenous Labor Supply in an Estimated New-Keynesian Model:
+    Nominal versus Real Rigidities'
+- author: 'FRB: Working Papers'
+  categories: *id001
+  date: '2023-11-03T15:40:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/christopher-j-gust.htm">Christopher
+    Gust</a>, <a href="https://www.federalreserve.gov/econres/kyungmin-kim.htm">Kyungmin
+    Kim</a> and <a href="https://www.federalreserve.gov/econres/romina-d-ruprecht.htm">Romina
+    Ruprecht</a><br /><br />We propose a parsimonious framework to understand how
+    the issuance of central bank digital currency (CBDC) might affect the financial
+    system, the Federal Reserve&#8217;s balance sheet, and the implementation of monetary
+    policy. We show that there is a wide range of outcomes on the financial system
+    and the Federal Reserve&#8217;s balance sheet that could reasonably occur following
+    CBDC issuance. Our analysis highlights that the potential effects on the financial
+    sector depend critically on how the Fed manages its balance sheet. In particular,
+    CBDC could in principle put substantial upward pressure on the spread of the federal
+    funds rate and other wholesale funding rates over the interest rate on reserves
+    unless the Fed expanded its balance sheet to accommodate CBDC issuance.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/the-effects-of-cbdc-on-the-federal-reserves-balance-sheet.htm
+  title: 'FEDS Paper: The Effects of CBDC on the Federal Reserve''s Balance Sheet'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-11-03T04:31:38+00:00'
@@ -9,7 +58,7 @@
   path: https://theovershoot.co/p/is-the-fed-peaking-too-soon
   title: Is the Fed Peaking Too Soon?
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-11-03T00:00:00+00:00'
   description: "A jury convicted FTX founder Sam Bankman-Fried of stealing billions\
@@ -22,7 +71,7 @@
   path: https://open.spotify.com/episode/1jerBR69JDlXD1uU5MgDjh
   title: "The Trial of Crypto\u2019s Golden Boy: Guilty On All Counts"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -51,7 +100,7 @@
   path: https://www.youtube.com/watch?v=gwaoBfWgQ0E
   title: 'JavaScript: The Magic of Dynamic Typing!'
 - author: Apricitas Economics
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-11-02T11:30:16+00:00'
@@ -61,7 +110,7 @@
   path: https://www.apricitas.io/p/americas-return-to-strong-growth
   title: America's Return to Strong Growth
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2023-11-02T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
@@ -84,7 +133,7 @@
   path: https://open.spotify.com/episode/0qsceOjasC9a0jDtGN8clY
   title: "#69 | O RISCO FISCAL VOLTOU\u2026 DE NOVO"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2023-11-02T00:00:00+00:00'
   description: "Meta, the parent of Facebook and Instagram, will soon find out how\
     \ much users in Europe are willing to pay to access its social media platforms\
@@ -199,7 +248,7 @@
   title: "BC - Copom Comunicado - 258\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 12,25% a.a."
 - author: Outliers
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2023-11-01T00:00:00+00:00'
   description: ''
@@ -219,7 +268,7 @@
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2023-10-31T02:53:06+00:00'
@@ -262,14 +311,14 @@
   path: https://open.spotify.com/episode/6xwgQ3HD4nGhxiN5ocFmYt
   title: Justifying Optimism
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2023-10-28T13:09:50+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ks_7TmGNZI4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ks_7TmGNZI4
   title: "Pixel Watch 2 is Actually\u2026 Good?"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-10-27T19:02:42+00:00'
@@ -279,7 +328,7 @@
   path: https://stayathomemacro.substack.com/p/sometimes-the-impossible-is-possible
   title: Sometimes, the impossible is possible. Ask the US economy.
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2023-10-27T15:00:08+00:00'
   description: "In this tutorial, I'll guide you through API testing using FastAPI,\
     \ complete with a full code example. Use this as a template for testing your own\
@@ -338,7 +387,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
   title: Looking Under the Hood of Long/Short Tax-Aware Strategies
 - author: Apricitas Economics
-  categories: *id004
+  categories: *id005
   date: '2023-10-26T23:03:50+00:00'
   description: US Median Wealth Has Hit a Record High Propelled by Rising Home Prices,
     Growing Stock Ownership, and Pandemic-era Excess Savings
@@ -346,7 +395,7 @@
   path: https://www.apricitas.io/p/americas-record-wealth-boom
   title: America's Record Wealth Boom
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2023-10-26T00:00:00+00:00'
   description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
     \ \U0001F447 https://drjones.vc/mmakers\U0001F534 Vale a pena investir no fundo\
@@ -369,7 +418,7 @@
   title: '#68 | O futuro do Ibov, novos riscos da Petrobras e o efeito devastador
     da Shein'
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2023-10-25T04:51:46+00:00'
   description: Every measure of activity indicates remarkable resilience in the face
     of "restrictive" monetary policy. That is good for many people, but may be trouble
@@ -378,7 +427,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-for-now
   title: The U.S. Economy Is Booming (For Now). What Does It Mean?
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id007
+  categories: *id008
   date: '2023-10-22T15:35:31+00:00'
   description: The Fed is increasingly concerned about "above-trend" growth. In the
     mid-1990s, Greenspan grappled with it, too, and wisely held off on raising rates.
@@ -387,7 +436,7 @@
   path: https://stayathomemacro.substack.com/p/jay-powells-greenspan-moment
   title: Jay Powell's Greenspan moment
 - author: Outliers
-  categories: *id008
+  categories: *id009
   date: '2023-10-20T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/jaIH5QIDS1QA\
     \ oferta de investimentos alternativos, em especial de cr\xE9ditos mais estruturados,\
@@ -409,44 +458,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a283507746679a9ca9cb49c9e
   path: https://open.spotify.com/episode/4KiwoIeOD6KvRaa2Ohe0v9
   title: "#113 - Gest\xE3o do cr\xE9dito em situa\xE7\xF5es especiais com Jive Investments"
-- author: 'FRB: Working Papers'
-  categories: &id009
-  - Papers
-  - FED
-  - BC
-  date: '2023-10-12T13:35:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/celso-brunetti.htm">Celso
-    Brunetti</a>, <a href="https://www.federalreserve.gov/econres/nathan-foley-fisher.htm">Nathan
-    Foley-Fisher</a>, <a href="https://www.federalreserve.gov/econres/stephane-verani.htm">St&eacute;phane
-    Verani</a><br /><br />Financial intermediaries manage myriad interest rate risk
-    exposures. We propose a new method to measure financial intermediaries' residual
-    interest rate risk using high-frequency financial market data. Our method exploits
-    all available high-frequency information and is valid under extremely weak assumptions.
-    Applying the method to U.S. life insurers, we find their interest rate risk management
-    strategies are generally effective. However, life insurers are more sensitive
-    to changes in long-term interest rates than property and casualty insurers. We
-    show that the term premium helps to explain the difference in sensitivities between
-    the two types of insurer.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/measuring-interest-rate-risk-management-by-financial-institutions.htm
-  title: 'FEDS Paper: Measuring Interest Rate Risk Management by Financial Institutions'
-- author: 'FRB: Working Papers'
-  categories: *id009
-  date: '2023-10-11T14:47:00+00:00'
-  description: Joakim A. Weill<br /><br />This paper examines the provision of official
-    flood risk information in the United States and its distributional impacts on
-    residential flood insurance take-up. Assembling all flood maps produced after
-    Hurricane Katrina, I document that updated maps decreased the number of properties
-    zoned in high-risk floodplains and incorrectly omitted five million properties,
-    primarily in neighborhoods with more Black and Hispanic residents. Leveraging
-    the staggered timing of map updates, I estimate they decreased flood insurance
-    take-up and exacerbated racial disparities in insurance coverage. Correcting flood
-    maps could increase welfare by $20 billion annually, but past map updates distorted
-    risk and price signals.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/flood-risk-mapping-and-the-distributional-impacts-of-climate-information.htm
-  title: 'FEDS Paper: Flood Risk Mapping and the Distributional Impacts of Climate
-    Information'
 - author: AQR
   categories: *id010
   date: '2023-10-05T00:00:00'
