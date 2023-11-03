@@ -79,8 +79,10 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 
 <meta property="og:title" content="Lucas Leme - Blog">
 <meta property="og:description" content="">
-<meta property="og:image" content="capa.png">
+<meta property="og:image" content="https://lucas-leme.github.io/blog/posts/arquitetura-fundos-prev/capa.png">
 <meta property="og:site-name" content="Lucas Leme">
+<meta property="og:image:height" content="459">
+<meta property="og:image:width" content="805">
 </head>
 
 <body class="nav-fixed">
@@ -627,7 +629,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/lucas-leme\.github\.io\/blog\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
