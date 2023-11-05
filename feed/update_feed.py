@@ -84,7 +84,7 @@ feeds = {
         "n_posts_to_show": 1
     },
     "Bloomberg Línea": {
-        "url": "https://rss.app/feeds/yTflNSP56chq8Hi7.xml",
+        "url": "https://rss.app/feeds/YwQIbaBhwWENjMYC.xml",
         "categories": ["Notícias"],
         "image": "",
         "n_posts_to_show": 4,
