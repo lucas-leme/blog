@@ -1,3 +1,44 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2023-11-06T16:32:11+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/NiNYOZZLOyg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=NiNYOZZLOyg
+  title: "Apple Math \U0001F34E"
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-06T16:20:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/manuel-p-gonzalez-astudillo.htm">Manuel
+    Gonz&aacute;lez-Astudillo</a> and Rakeen Tanvir<br /><br />This paper estimates
+    a time-varying reaction function of the median participant of the Federal Open
+    Market Committee, using a Taylor rule with time-varying coefficients estimated
+    on one- to three-year ahead median forecasts of the federal funds rate, inflation,
+    and the unemployment rate from the Summary of Economic Projections (SEP). We estimate
+    the model with Bayesian methods, incorporating the effective lower bound on the
+    median federal funds rate projections. The results indicate that the monetary
+    policy rule has become significantly more persistent after the pandemic than in
+    the years prior, and it currently reacts strongly to inflation, at more than twice
+    the responsiveness estimated prior to 2020. Our proposed policy rule produces
+    accurate predictions of the median federal funds rate projections in real time
+    for given SEP forecasts of inflation and the unemployment rate, suggesting that
+    the median participant's reaction function is well-represented by our assumed
+    Taylor rule with time-varying coefficients. Our results show that the median participant's
+    reaction function becomes less persistent and less responsive to inflation yet
+    more responsive to the output gap in anticipation of tighter monetary policy conditions,
+    measured by a steeper yield curve. We also find that labor market activity, inflation,
+    and macroeconomic uncertainty correlate significantly with the evolution of the
+    time-varying coefficients of the rule. Finally, we show that in times of a less
+    persistent policy rule or more responsiveness to inflation, markets perceive nominal
+    bonds as better macroeconomic hedges.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/hawkish-or-dovish-fed-estimating-a-time-varying-reaction-function-of-the-federal-open-market-committees-median-participant.htm
+  title: 'FEDS Paper: Hawkish or Dovish Fed? Estimating a Time-Varying Reaction Function
+    of the Federal Open Market Committee''s Median Participant'
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -79,10 +120,7 @@
   path: https://www.youtube.com/watch?v=xVuqDBCQAYc
   title: 7 Tips To Structure Your Python Data Science Projects
 - author: 'FRB: Working Papers'
-  categories: &id001
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-11-03T15:42:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/isabel-cairo.htm">Isabel
     Cairo</a>, <a href="https://www.federalreserve.gov/econres/hess-t-chung.htm">Hess
@@ -108,25 +146,6 @@
   path: https://www.federalreserve.gov/econres/feds/endogenous-labor-supply-in-an-estimated-new-keynesian-model.htm
   title: 'FEDS Paper: Endogenous Labor Supply in an Estimated New-Keynesian Model:
     Nominal versus Real Rigidities'
-- author: 'FRB: Working Papers'
-  categories: *id001
-  date: '2023-11-03T15:40:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/christopher-j-gust.htm">Christopher
-    Gust</a>, <a href="https://www.federalreserve.gov/econres/kyungmin-kim.htm">Kyungmin
-    Kim</a> and <a href="https://www.federalreserve.gov/econres/romina-d-ruprecht.htm">Romina
-    Ruprecht</a><br /><br />We propose a parsimonious framework to understand how
-    the issuance of central bank digital currency (CBDC) might affect the financial
-    system, the Federal Reserve&#8217;s balance sheet, and the implementation of monetary
-    policy. We show that there is a wide range of outcomes on the financial system
-    and the Federal Reserve&#8217;s balance sheet that could reasonably occur following
-    CBDC issuance. Our analysis highlights that the potential effects on the financial
-    sector depend critically on how the Fed manages its balance sheet. In particular,
-    CBDC could in principle put substantial upward pressure on the spread of the federal
-    funds rate and other wholesale funding rates over the interest rate on reserves
-    unless the Fed expanded its balance sheet to accommodate CBDC issuance.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/the-effects-of-cbdc-on-the-federal-reserves-balance-sheet.htm
-  title: 'FEDS Paper: The Effects of CBDC on the Federal Reserve''s Balance Sheet'
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -356,9 +375,7 @@
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2023-10-31T02:53:06+00:00'
   description: 'Matte space black laptops are cool, but we got M3, M3 Pro and M3 Max
     chips as well.
@@ -398,13 +415,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/6xwgQ3HD4nGhxiN5ocFmYt
   title: Justifying Optimism
-- author: Marques Brownlee
-  categories: *id005
-  date: '2023-10-28T13:09:50+00:00'
-  description: ''
-  image: https://i4.ytimg.com/vi/Ks_7TmGNZI4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Ks_7TmGNZI4
-  title: "Pixel Watch 2 is Actually\u2026 Good?"
 - author: Stay-At-Home Macro (SAHM)
   categories: *id006
   date: '2023-10-27T19:02:42+00:00'
