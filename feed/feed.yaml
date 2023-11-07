@@ -1,3 +1,27 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-07T14:40:00+00:00'
+  description: 'Ufuk Akcigit, <a href="https://www.federalreserve.gov/econres/harun-alp.htm">Harun
+    Alp</a>, Andr&eacute; Diegmann, and Nicolas Serrano-Velarde<br /><br />This paper
+    investigates a unique policy designed to maintain employment during the privatization
+    of East German firms after the fall of the Iron Curtain. The policy required new
+    owners of the firms to commit to employment targets, with penalties for non-compliance.
+    Using a dynamic model, we highlight three channels through which employment targets
+    impact firms: distorted employment decisions, increased productivity, and higher
+    exit rates. Our empirical analysis, using a novel dataset and instrumental variable
+    approach, confirms these findings. We estimate a 22% points higher annual employment
+    growth rate, a 14% points higher annual productivity growth, and a 3.6% points
+    higher probability of exit for firms with binding employment targets. Our calibrated
+    model further demonstrates that without these targets, aggregate employment would
+    have been 15% lower after 10 years. Additionally, an alternative policy of productivity
+    investment subsidies proved costly and less effective in the short term.'
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/ifdp/committing-to-grow-privatizations-and-firm-dynamics-in-east-germany.htm
+  title: 'IFDP Paper: Committing to Grow: Privatizations and Firm Dynamics in East
+    Germany'
 - author: Atas do Copom
   categories:
   - Bacen
@@ -394,10 +418,7 @@
   path: https://www.youtube.com/watch?v=NiNYOZZLOyg
   title: "Apple Math \U0001F34E"
 - author: 'FRB: Working Papers'
-  categories: &id001
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-11-06T16:20:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/manuel-p-gonzalez-astudillo.htm">Manuel
     Gonz&aacute;lez-Astudillo</a> and Rakeen Tanvir<br /><br />This paper estimates
@@ -520,33 +541,6 @@
   image: https://i1.ytimg.com/vi/xVuqDBCQAYc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xVuqDBCQAYc
   title: 7 Tips To Structure Your Python Data Science Projects
-- author: 'FRB: Working Papers'
-  categories: *id001
-  date: '2023-11-03T15:42:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/isabel-cairo.htm">Isabel
-    Cairo</a>, <a href="https://www.federalreserve.gov/econres/hess-t-chung.htm">Hess
-    Chung</a>, <a href="https://www.federalreserve.gov/econres/francesco-ferrante.htm">Francesco
-    Ferrante</a>, <a href="https://www.federalreserve.gov/econres/cristina-fuentes-albero.htm">Cristina
-    Fuentes-Albero</a>, <a href="https://www.federalreserve.gov/econres/camilo-morales-jimenez.htm">Camilo
-    Morales-Jimenez</a>, <a href="https://www.federalreserve.gov/econres/damjan-pfajfar.htm">Damjan
-    Pfajfar</a><br /><br />The deep deterioration in the labor market during the Great
-    Recession, the subsequent slow recovery, and the missing disinflation are hard
-    to reconcile for standard macroeconomic models. We develop and estimate a New-Keynesian
-    model with financial frictions, search and matching frictions in the labor market,
-    and endogenous intensive and extensive labor supply decisions. We conclude that
-    the estimated combination of the low degree of nominal wage rigidities and high
-    degree of real wage rigidities, together with the small role of pre-match costs
-    relative to post-match costs, are key in successfully forecasting the slow recovery
-    in unemployment and the missing disinflation in the aftermath of the Great Recession.
-    We find that endogenous labor supply data are very informative about the relative
-    degree of nominal and real wage rigidities and the slope of the Phillips curve.
-    We also find that none of the model-based labor market gaps are a sufficient statistic
-    of labor market slack, but all contain relevant information about the state of
-    the economy summarized in a new indicator for labor market slack we put forward.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/endogenous-labor-supply-in-an-estimated-new-keynesian-model.htm
-  title: 'FEDS Paper: Endogenous Labor Supply in an Estimated New-Keynesian Model:
-    Nominal versus Real Rigidities'
 - author: The Overshoot
   categories: *id002
   date: '2023-11-03T04:31:38+00:00'
