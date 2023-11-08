@@ -379,7 +379,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: The Overshoot
-  categories: &id002
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-11-07T07:53:26+00:00'
@@ -388,6 +388,44 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14f1259a-0f87-4819-a5ae-861b5f72f22a_4995x2670.png
   path: https://theovershoot.co/p/us-wage-growth-is-slowing-somewhat
   title: U.S. Wage Growth Is Slowing, Somewhat
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2023-11-07T00:00:00+00:00'
+  description: "Entre agora para a lista de espera da Comunidade Market Makers: https://mmakers.com.br/comunidade/Quem\
+    \ assistir o Mercado Aberto de hoje at\xE9 o final se tornar\xE1 um verdadeiro\
+    \ expert em Suzano (SUZB3), a maior fabricante de celulose de eucalipto do mundo.No\
+    \ ano o papel t\xE1 subindo apenas 5,70%, n\xE3o est\xE1 entre as maiores altas\
+    \ da bolsa, mas \xE9 dif\xEDcil encontrar uma empresa que fez mais investimentos\
+    \ de expans\xE3o do que ela. S\xF3 em 2023 foram 18 bilh\xF5es!Para voc\xEA que\
+    \ quer saber o que a Suzano (SUZB3) faz, como ela ganha dinheiro, as vantagens\
+    \ competitivas da empresa e as expectativas de crescimento dessa gigante do setor\
+    \ de celulose, o Mercado Aberto de hoje est\xE1 imperd\xEDvel.O que voc\xEA ir\xE1\
+    \ aprender:- Suzano (SUZB3): breve hist\xF3ria da empresa- O tamanho da Suzano\
+    \ (SUZB3) - Pre\xE7o da celulose e vantagens da Suzano (SUZB3) - Investimentos:\
+    \ os novos projetos - ESG: positivo ou negativo pra empresa? - Suzano (SUZB3)\
+    \ em n\xFAmeros: crescimento e perspectivas futurasDeixe seu coment\xE1rio abaixo\
+    \ para respondermos no pr\xF3ximo Mercado Aberto! Apresenta\xE7\xE3o: Thiago Salom\xE3\
+    o (@_salomoney) e Matheus Soares (@maatsoares)Edi\xE7\xE3o: Bianca BarsottiAnuncie\
+    \ no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
+  image: https://i.scdn.co/image/ab6765630000ba8a3a3fef06229c4030cd80c214
+  path: https://open.spotify.com/episode/2IUrfLd2rxTD8LuUoLH44I
+  title: "GUIA B\xC1SICO DE SUZANO (SUZB3): TUDO que voc\xEA precisa saber antes de\
+    \ investir | Mercado Aberto"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2023-11-07T00:00:00+00:00'
+  description: "WeWork, the office space coworking company, filed for bankruptcy yesterday.\
+    \ The company\u2019s decision comes after it struggled with debt and a slump in\
+    \ the commercial real estate market. WSJ\u2019s Eliot Brown recounts how the embattled\
+    \ startup ended up in bankruptcy.  Further Listening: -WeWork\u2019s CEO on the\
+    \ Future of Work\_ -WeWork: The Enablers\_  Further Reading: -Adam Neumann Wounded\
+    \ WeWork. An Office Market Bust Finished It Off.\_ -WeWork, Once Valued at $47\
+    \ Billion, Files for Bankruptcy\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5PWNIGUfeZNUTAjQJQgO8u
+  title: 'WeWork: From $47 Billion Unicorn to Bankruptcy'
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -447,8 +485,7 @@
   title: 'FEDS Paper: Hawkish or Dovish Fed? Estimating a Time-Varying Reaction Function
     of the Federal Open Market Committee''s Median Participant'
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2023-11-06T00:00:00+00:00'
   description: "Em 2022, a Vale (VALE3) distribuiu cerca de R$ 34 bilh\xF5es em dividendos.\
     \ Na \xFAltima quinta-feira, 26 de outubro, ela anunciou dividendos extraordin\xE1\
@@ -473,11 +510,10 @@
     \ Soares (@maatsoares)Edi\xE7\xE3o: Bianca BarsottiAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
   image: https://i.scdn.co/image/ab6765630000ba8a00b7ebb96a1f433a9c00e3b2
   path: https://open.spotify.com/episode/3BQnLOR77bfyOdnLFqpK5K
-  title: "VALE (VALE3): VALE A PENA INVESTIR?| OS DIVIDENDOS BILION\xC1RIOS V\xC3\
+  title: "VALE (VALE3): VALE A PENA INVESTIR? | OS DIVIDENDOS BILION\xC1RIOS V\xC3\
     O CONTINUAR? | Mercado Aberto"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2023-11-06T00:00:00+00:00'
   description: "Home buyers and sellers face the prospect of major changes to the\
     \ ways they pay their real-estate agents, following a historic verdict against\
@@ -502,7 +538,7 @@
   path: https://stayathomemacro.substack.com/p/quick-update-on-the-sahm-rule
   title: Quick update on the Sahm rule
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -542,7 +578,7 @@
   path: https://www.youtube.com/watch?v=xVuqDBCQAYc
   title: 7 Tips To Structure Your Python Data Science Projects
 - author: The Overshoot
-  categories: *id002
+  categories: *id004
   date: '2023-11-03T04:31:38+00:00'
   description: The risk is that nominal spending will continue to rise faster than
     officials prefer.
@@ -563,20 +599,8 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/03112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/11/2023"
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-03T00:00:00+00:00'
-  description: "Brothers Ben and Max Morrissey were killed over a year ago by an explosion\
-    \ at their workplace, an oil refinery co-owned and operated by the oil giant BP\
-    \ in Ohio. WSJ's Jenny Strasburg talks to family members the brothers left behind\
-    \ and investigates what went wrong at the refinery. Further Reading: -He Feared\
-    \ His Refinery Job. His Brother Stayed to Help. The Explosion Hit at 6:46 P.M.\_\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0DjE4LukqwRjyrxm9Ts1ZK
-  title: '''Our Refinery Is On Fire'': Two Brothers and a Deadly Explosion'
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2023-11-02T16:00:29+00:00'
   description: "In this short, I'll show you how JavaScript's dynamic typing works\
     \ and why it's useful.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
@@ -611,28 +635,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1467fd0-e179-4671-b693-00cd6c84430f_2886x1843.png
   path: https://www.apricitas.io/p/americas-return-to-strong-growth
   title: America's Return to Strong Growth
-- author: Market Makers
-  categories: *id005
-  date: '2023-11-02T00:00:00+00:00'
-  description: "CUIDE DA SUA BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15)!\
-    \ \U0001F447 https://drjones.vc/mmakers As declara\xE7\xF5es recentes do presidente\
-    \ do Lula sobre n\xE3o respeitar a meta de d\xE9ficit fiscal zero podem ter gerado\
-    \ bem mais que um ru\xEDdo: elas podem mudar a narrativa de que o Brasil estava\
-    \ no caminho certo e nos levar, mais uma vez, a uma trajet\xF3ria preocupante\
-    \ na economia. Essa \xE9 a conclus\xE3o dos dois gestores multimercados que est\xE3\
-    o no seleto grupo dos \u201Cvencedores do CDI\u201D em 2023. S\xE3o eles: Bruno\
-    \ Magalh\xE3es, gestor do Sterna Total Return, que est\xE1 rendendo 16,3% no ano\
-    \ (149% do CDI); e Carlos Carvalho, gestor do Kinitro 30, que est\xE1 com rentabilidade\
-    \ de 14,0% (ou 128% do CDI). Os dois t\xEAm somados 60 anos de experi\xEAncia\
-    \ no mercado financeiro e, apesar da experi\xEAncia, afirmam nunca terem visto\
-    \ nada parecido com o que estamos vendo no mercado internacional. O que os gestores\
-    \ multimercados at\xE9 o momento campe\xF5es de 2023 est\xE3o fazendo no mercado?\
-    \ Ou\xE7a neste epis\xF3dio!Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)Convidados:\
-    \ Bruno Magalh\xE3es, gestor do Sterna Total Return, e Carlos Carvalho, gestor\
-    \ do Kinitro 30Edi\xE7\xE3o: Bianca BarsottiAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
-  image: https://i.scdn.co/image/ab6765630000ba8a732e002ff1c13a6fb24e330f
-  path: https://open.spotify.com/episode/0qsceOjasC9a0jDtGN8clY
-  title: "#69 | O RISCO FISCAL VOLTOU\u2026 DE NOVO"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
