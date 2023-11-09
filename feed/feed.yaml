@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2023-11-09T17:24:25+00:00'
+  description: https://atoms.com
+  image: https://i1.ytimg.com/vi/xSqol6GQRJw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xSqol6GQRJw
+  title: Introducing 251.1!
 - author: 'FRB: Working Papers'
   categories: &id001
   - Papers
@@ -20,8 +29,26 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
   title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2023-11-09T00:00:00+00:00'
+  description: "President Joe Biden\u2019s Inflation Reduction Act promised $370bn\
+    \ for green infrastructure and industry. It has spurred a surge in massive construction\
+    \ efforts such as battery plants and electric-vehicle factories. Our correspondent\
+    \ goes on a road trip, visiting small towns with big new projects under way and\
+    \ gauging the success of Mr Biden\u2019s economic policy so far.Hosts: Alice Fulwood,\
+    \ Tom Lee-Devlin and Henry TricksRuntime: 44 minThis is a free episode of Money\
+    \ Talks. To listen every week, sign up for a free trial of Economist Podcasts+.\
+    \ If you\u2019re already a subscriber to The Economist, you have full access to\
+    \ all our shows as part of your subscription.For more information about how to\
+    \ access Economist Podcasts+, please visit our FAQs page or watch our video explaining\
+    \ how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8a4258563af344855cb4c4e9cd
+  path: https://open.spotify.com/episode/68SMdCLxTge5R8qSGQZrHb
+  title: "Money Talks: Touring America\u2019s industrial revival"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -459,7 +486,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-11-07T07:53:26+00:00'
@@ -525,9 +552,7 @@
   path: https://open.spotify.com/episode/1RgPq1Baeq1CmpeiG7BBub
   title: 'My New Book, Same As Ever: A Guide to What Never Changes'
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2023-11-06T16:32:11+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/NiNYOZZLOyg/hqdefault.jpg
@@ -545,7 +570,7 @@
   path: https://stayathomemacro.substack.com/p/quick-update-on-the-sahm-rule
   title: Quick update on the Sahm rule
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2023-11-03T16:00:49+00:00'
   description: "In this video, I\u2019ll cover 7 tips to streamline the structure\
     \ of your Python data science projects. With the right setup and thoughtful software\
@@ -582,7 +607,7 @@
   path: https://www.youtube.com/watch?v=xVuqDBCQAYc
   title: 7 Tips To Structure Your Python Data Science Projects
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2023-11-03T04:31:38+00:00'
   description: The risk is that nominal spending will continue to rise faster than
     officials prefer.
@@ -629,24 +654,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1467fd0-e179-4671-b693-00cd6c84430f_2886x1843.png
   path: https://www.apricitas.io/p/americas-return-to-strong-growth
   title: America's Return to Strong Growth
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2023-11-02T00:00:00+00:00'
-  description: "American CEO pay has risen into the stratosphere, while many of their\
-    \ employees have seen their real pay eroded by a sharp rise in the cost of living.\
-    \ The typical boss of an S&amp;P 500 firm now makes about 250 times the US median\
-    \ full-time wage. Is it time to rein in executive pay?Hosts: Tom Lee-Devlin, Alice\
-    \ Fulwood and Mike Bird. Guests: Ryan Harvey, a managing partner at the executive\
-    \ compensation consultancy Meridian; and Alex Edmans, Professor of Finance at\
-    \ the London Business School.This is a subscriber-only episode. To listen sign\
-    \ up for a free trial of Economist Podcasts+. If you\u2019re already a subscriber\
-    \ to The Economist, you have full access to all our shows as part of your subscription.\
-    \ For more information about how to access Economist Podcasts+, please visit our\
-    \ FAQs page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a93117028109c0d1a3463d0d7
-  path: https://open.spotify.com/episode/7ecCt07gjqEyhYHKdg3nrI
-  title: 'Money Talks: The golden rocket'
 - author: Comunicados Copom
   categories:
   - Bacen
@@ -750,35 +757,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
-- author: Marques Brownlee
-  categories: *id006
-  date: '2023-10-31T02:53:06+00:00'
-  description: 'Matte space black laptops are cool, but we got M3, M3 Pro and M3 Max
-    chips as well.
-
-
-    Check out the Apple MacBook Pro M3 at https://geni.us/4bBV
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/t4ejFV6n4b8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=t4ejFV6n4b8
-  title: 'M3 Macbook Pro Impressions: Is It Enough?'
 - author: Stay-At-Home Macro (SAHM)
   categories: *id007
   date: '2023-10-27T19:02:42+00:00'
