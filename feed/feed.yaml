@@ -1,3 +1,25 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-09T14:50:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/alyssa-g-anderson.htm">Alyssa
+    Anderson</a> and <a href="https://www.federalreserve.gov/econres/manjola-tase.htm">Manjola
+    Tase</a><br /><br />We document the existence of a regulatory premium in the federal
+    funds market related to the implementation of the Liquidity Coverage Ratio (LCR).
+    We use difference-in-differences analysis and confidential bank level data on
+    borrowing in the fed funds and Eurodollar markets to compare the interest rates
+    paid by banks subject to daily reporting of their liquidity profile (daily reporters)
+    relative to other banks. We find that, after the implementation of LCR, daily
+    reporters paid a higher rate compared to other banks when borrowing in the fed
+    funds market given the LCR-favorability of many of the lenders in this market.
+    In addition, on the days that banks borrowed in both the fed funds and Eurodollar
+    markets, daily reporters paid a higher rate than other banks for their borrowing
+    in the fed funds market but not for their borrowing in the Eurodollar market.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
+  title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
 - author: ArjanCodes
   categories: &id004
   - Tech
@@ -28,7 +50,7 @@
   path: https://www.youtube.com/watch?v=BBCbIxuBJws
   title: This Is Why Typescript Is Awesome
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-11-08T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #68: Andr\xE9 Lion, gestor de a\xE7\xF5es da Ibiuna,\
@@ -46,7 +68,7 @@
   path: https://open.spotify.com/episode/43r51nYBUeuf4ZYdb7Gr4O
   title: "O que est\xE1 acontecendo com a PETROBRAS (PETR4)? | Corte Ep. #68"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-08T00:00:00+00:00'
   description: "Oregon became the first state to decriminalize all drugs in 2020.\
@@ -60,10 +82,7 @@
   path: https://open.spotify.com/episode/6GYrJ0nyTwYHz6sRkE6hwN
   title: Oregonians Decriminalized Hard Drugs. Now Many Regret It.
 - author: 'FRB: Working Papers'
-  categories: &id003
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-11-07T14:40:00+00:00'
   description: 'Ufuk Akcigit, <a href="https://www.federalreserve.gov/econres/harun-alp.htm">Harun
     Alp</a>, Andr&eacute; Diegmann, and Nicolas Serrano-Velarde<br /><br />This paper
@@ -450,7 +469,7 @@
   path: https://theovershoot.co/p/us-wage-growth-is-slowing-somewhat
   title: U.S. Wage Growth Is Slowing, Somewhat
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2023-11-07T00:00:00+00:00'
   description: "Entre agora para a lista de espera da Comunidade Market Makers: https://mmakers.com.br/comunidade/Quem\
     \ assistir o Mercado Aberto de hoje at\xE9 o final se tornar\xE1 um verdadeiro\
@@ -473,7 +492,7 @@
   title: "GUIA B\xC1SICO DE SUZANO (SUZB3): TUDO que voc\xEA precisa saber antes de\
     \ investir | Mercado Aberto"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-11-07T00:00:00+00:00'
   description: "WeWork, the office space coworking company, filed for bankruptcy yesterday.\
     \ The company\u2019s decision comes after it struggled with debt and a slump in\
@@ -514,35 +533,6 @@
   image: https://i3.ytimg.com/vi/NiNYOZZLOyg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=NiNYOZZLOyg
   title: "Apple Math \U0001F34E"
-- author: 'FRB: Working Papers'
-  categories: *id003
-  date: '2023-11-06T16:20:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/manuel-p-gonzalez-astudillo.htm">Manuel
-    Gonz&aacute;lez-Astudillo</a> and Rakeen Tanvir<br /><br />This paper estimates
-    a time-varying reaction function of the median participant of the Federal Open
-    Market Committee, using a Taylor rule with time-varying coefficients estimated
-    on one- to three-year ahead median forecasts of the federal funds rate, inflation,
-    and the unemployment rate from the Summary of Economic Projections (SEP). We estimate
-    the model with Bayesian methods, incorporating the effective lower bound on the
-    median federal funds rate projections. The results indicate that the monetary
-    policy rule has become significantly more persistent after the pandemic than in
-    the years prior, and it currently reacts strongly to inflation, at more than twice
-    the responsiveness estimated prior to 2020. Our proposed policy rule produces
-    accurate predictions of the median federal funds rate projections in real time
-    for given SEP forecasts of inflation and the unemployment rate, suggesting that
-    the median participant's reaction function is well-represented by our assumed
-    Taylor rule with time-varying coefficients. Our results show that the median participant's
-    reaction function becomes less persistent and less responsive to inflation yet
-    more responsive to the output gap in anticipation of tighter monetary policy conditions,
-    measured by a steeper yield curve. We also find that labor market activity, inflation,
-    and macroeconomic uncertainty correlate significantly with the evolution of the
-    time-varying coefficients of the rule. Finally, we show that in times of a less
-    persistent policy rule or more responsiveness to inflation, markets perceive nominal
-    bonds as better macroeconomic hedges.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/hawkish-or-dovish-fed-estimating-a-time-varying-reaction-function-of-the-federal-open-market-committees-median-participant.htm
-  title: 'FEDS Paper: Hawkish or Dovish Fed? Estimating a Time-Varying Reaction Function
-    of the Federal Open Market Committee''s Median Participant'
 - author: Stay-At-Home Macro (SAHM)
   categories: &id007
   - Macro
