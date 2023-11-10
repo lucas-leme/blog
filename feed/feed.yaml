@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2023-11-10T11:45:20+00:00'
+  description: Perhaps as much as $500 billion a year is likely leaving the country
+    in ways that are not showing up in the official financial accounts. That is putting
+    downward pressure on the currency.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34955788-fb09-4858-8652-330c3a82dc1b_5006x2794.png
+  path: https://theovershoot.co/p/the-threat-from-chinas-capital-flight
+  title: The Threat from China's Capital Flight
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -110,7 +121,7 @@
   path: https://open.spotify.com/episode/68SMdCLxTge5R8qSGQZrHb
   title: "Money Talks: Touring America\u2019s industrial revival"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -546,9 +557,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2023-11-07T07:53:26+00:00'
   description: By some measures, nominal pay raises are now in line with 2006-2007
     or the late 1990s. What that means for inflation and interest rates is less clear.
@@ -587,7 +596,7 @@
   path: https://stayathomemacro.substack.com/p/quick-update-on-the-sahm-rule
   title: Quick update on the Sahm rule
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-11-03T16:00:49+00:00'
   description: "In this video, I\u2019ll cover 7 tips to streamline the structure\
     \ of your Python data science projects. With the right setup and thoughtful software\
@@ -623,14 +632,6 @@
   image: https://i1.ytimg.com/vi/xVuqDBCQAYc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xVuqDBCQAYc
   title: 7 Tips To Structure Your Python Data Science Projects
-- author: The Overshoot
-  categories: *id006
-  date: '2023-11-03T04:31:38+00:00'
-  description: The risk is that nominal spending will continue to rise faster than
-    officials prefer.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffaa11a6-5593-4752-b8a4-91695f439043_4998x2798.png
-  path: https://theovershoot.co/p/is-the-fed-peaking-too-soon
-  title: Is the Fed Peaking Too Soon?
 - author: RSS - Feeds do BC
   categories:
   - Bacen
