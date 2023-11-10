@@ -1,5 +1,43 @@
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-11-10T16:00:29+00:00'
+  description: "Today, I'm going to take a deep dive into monads. They\u2019re a well-known\
+    \ concept in functional programming languages like Haskell, but are they useful\
+    \ elsewhere? Stay tuned, and by the end of this video, you'll understand what\
+    \ monads are all about.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
+    \ help you review code more effectively using my 3-Factor Diagnosis Framework:\
+    \ https://www.arjancodes.com/diagnosis\n\nGit repository: https://git.arjan.codes/2023/monad\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/ynkzgi\n\
+    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:19 What is a monad?\n1:41 Step 1: Understanding Functors\n2:53 Step 2: Understanding\
+    \ Endofunctors\n4:00 Why is Functor an Endofunctor?\n6:22 Step 3: Understanding\
+    \ Monoids\n7:15 Step 4: Monads as Monoids in the Category of Endofunctors\n11:50\
+    \ Maybe monad\n19:12 Should we switch to monads?\n20:36 Outro\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i2.ytimg.com/vi/Q0aVbqim5pE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Q0aVbqim5pE
+  title: What the Heck Are Monads?!
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-11-10T11:45:20+00:00'
@@ -9,6 +47,20 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34955788-fb09-4858-8652-330c3a82dc1b_5006x2794.png
   path: https://theovershoot.co/p/the-threat-from-chinas-capital-flight
   title: The Threat from China's Capital Flight
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2023-11-10T00:00:00+00:00'
+  description: "The trial of Sam Bankman-Fried is over. Rachel Humphreys and Caitlin\
+    \ Ostroff reflect on their month at court and answer outstanding questions about\
+    \ what happened at FTX, the trial and what comes next. Plus they reveal the final\
+    \ court cafeteria coffee tally.Further Reading:- Smoked Fish, Shaggy Hair and\
+    \ Tears: 8 Unforgettable Moments From Sam Bankman-Fried\u2019s Trial\_Further\
+    \ Listening: - The Trial of Crypto\u2019s Golden Boy\_ Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a124319917fe14bdce6a7f5c4
+  path: https://open.spotify.com/episode/3HQf0YGpLcVYfExM2JxeN2
+  title: "The Trial of Crypto\u2019s Golden Boy: What Happens Next?"
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -33,7 +85,7 @@
   path: https://www.youtube.com/watch?v=xSqol6GQRJw
   title: Introducing 251.1!
 - author: 'FRB: Working Papers'
-  categories: &id004
+  categories: &id005
   - Papers
   - FED
   - BC
@@ -55,7 +107,7 @@
   path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
   title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
 - author: Market Makers
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2023-11-09T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerAp\xF3\
@@ -89,8 +141,7 @@
   title: '#70 | De trader a gestor: a inspiradora jornada de Christian Keleti (CEO
     da Alpha Key)'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2023-11-09T00:00:00+00:00'
   description: "Former Meta engineer Arturo Bejar thought he could help make Instagram\
     \ safer after his daughter experienced harassment on the platform. But Bejar said\
@@ -121,10 +172,7 @@
   path: https://open.spotify.com/episode/68SMdCLxTge5R8qSGQZrHb
   title: "Money Talks: Touring America\u2019s industrial revival"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2023-11-08T16:00:34+00:00'
   description: "In this short, I'll compare type annotations for JavaScript and Python\
     \ and share why TypeScript is awesome.\n\n\U0001F477 Join the FREE Code Diagnosis\
@@ -150,7 +198,7 @@
   path: https://www.youtube.com/watch?v=BBCbIxuBJws
   title: This Is Why Typescript Is Awesome
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2023-11-08T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #68: Andr\xE9 Lion, gestor de a\xE7\xF5es da Ibiuna,\
     \ e Aline Cardoso, head de research do Santander destrincham os fundamentos por\
@@ -166,21 +214,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a226c2fa357173a67e6834dd5
   path: https://open.spotify.com/episode/43r51nYBUeuf4ZYdb7Gr4O
   title: "O que est\xE1 acontecendo com a PETROBRAS (PETR4)? | Corte Ep. #68"
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-08T00:00:00+00:00'
-  description: "Oregon became the first state to decriminalize all drugs in 2020.\
-    \ The goal was to steer people to treatment who otherwise might have faced jail\
-    \ time. WSJ\u2019s Zusha Elinson explains why many in Oregon have since turned\
-    \ against the decriminalization initiative.  Further Reading: - Oregon Votes to\
-    \ Decriminalize All Drugs, Allow Psilocybin for Mental-Health Treatment\_  Further\
-    \ Listening: - The Highs and Lows of Diversifying the Cannabis Industry\_   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6GYrJ0nyTwYHz6sRkE6hwN
-  title: Oregonians Decriminalized Hard Drugs. Now Many Regret It.
 - author: 'FRB: Working Papers'
-  categories: *id004
+  categories: *id005
   date: '2023-11-07T14:40:00+00:00'
   description: 'Ufuk Akcigit, <a href="https://www.federalreserve.gov/econres/harun-alp.htm">Harun
     Alp</a>, Andr&eacute; Diegmann, and Nicolas Serrano-Velarde<br /><br />This paper
@@ -557,7 +592,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2023-11-07T07:53:26+00:00'
   description: By some measures, nominal pay raises are now in line with 2006-2007
     or the late 1990s. What that means for inflation and interest rates is less clear.
@@ -595,43 +630,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F96cbf654-983d-44ec-b6a9-6f7e0b2b2797_700x450.png
   path: https://stayathomemacro.substack.com/p/quick-update-on-the-sahm-rule
   title: Quick update on the Sahm rule
-- author: ArjanCodes
-  categories: *id006
-  date: '2023-11-03T16:00:49+00:00'
-  description: "In this video, I\u2019ll cover 7 tips to streamline the structure\
-    \ of your Python data science projects. With the right setup and thoughtful software\
-    \ design, you'll be able to modify and enhance your projects more efficiently.\n\
-    \nCheck out Taipy here: https://github.com/avaiga/taipy.\n\nThe Cookiecutter:\
-    \ https://github.com/drivendata/cookiecutter-data-science\n\n\U0001F477 Join the\
-    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
-    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\u270D\
-    \U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/okaeaa\n\n\
-    Try Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\n\
-    The Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:50 Tip #1: Use a common structure\n1:55 Tip #2: Use existing libraries\n4:59\
-    \ Tip #3: Log your results\n5:55 Tip #4: Use intermediate data representations\n\
-    8:09 Tip #5: Move reusable code to a shared editable package\n9:24 Tip #6: Move\
-    \ configuration to a separate file\n11:45 Tip #7: Write unit tests\n14:09 Final\
-    \ thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in\
-    \ this description might be affiliate links. If you purchase a product or service\
-    \ through one of those links, I may receive a small commission. There is no additional\
-    \ charge to you. Thanks for supporting my channel so I can continue to provide\
-    \ you with free content each week!"
-  image: https://i1.ytimg.com/vi/xVuqDBCQAYc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=xVuqDBCQAYc
-  title: 7 Tips To Structure Your Python Data Science Projects
 - author: RSS - Feeds do BC
   categories:
   - Bacen
