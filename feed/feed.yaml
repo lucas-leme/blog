@@ -1,3 +1,13 @@
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2023-11-11T12:44:14+00:00'
+  description: Yes, But Here's Why That Question is Harder to Answer Than You Might
+    Think
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04252216-1bbf-4e98-b84e-44d29bebad7f_2886x1843.png
+  path: https://www.apricitas.io/p/are-real-wages-rising
+  title: Are Real Wages Rising?
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -620,7 +630,7 @@
   path: https://open.spotify.com/episode/1RgPq1Baeq1CmpeiG7BBub
   title: 'My New Book, Same As Ever: A Guide to What Never Changes'
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-11-03T20:00:24+00:00'
@@ -645,7 +655,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/03112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/11/2023"
 - author: AQR
-  categories: &id008
+  categories: &id009
   - Quant
   - Papers
   date: '2023-11-03T00:00:00'
@@ -661,9 +671,7 @@
   path: https://www.aqr.com/Insights/Research/Working-Paper/How-Global-is-Predictability
   title: How Global is Predictability?
 - author: Apricitas Economics
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2023-11-02T11:30:16+00:00'
   description: The Fed Sees the US Economy Growing at an Increasingly Robust Pace,
     Beating Past Projections
@@ -774,7 +782,7 @@
   path: https://open.spotify.com/episode/03WzZkAGVofhoQ980zY6wd
   title: How to Think About the Role of Private Capital in the Clean Transition
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id007
+  categories: *id008
   date: '2023-10-27T19:02:42+00:00'
   description: Real GDP shot up 4.9% in the third quarter, and core inflation fell
     to 2.4%, more signs that we are well on our way to the soft landing.
@@ -782,7 +790,7 @@
   path: https://stayathomemacro.substack.com/p/sometimes-the-impossible-is-possible
   title: Sometimes, the impossible is possible. Ask the US economy.
 - author: AQR
-  categories: *id008
+  categories: *id009
   date: '2023-10-27T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 27, 2023<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -791,14 +799,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
   title: Looking Under the Hood of Long/Short Tax-Aware Strategies
-- author: Apricitas Economics
-  categories: *id009
-  date: '2023-10-26T23:03:50+00:00'
-  description: US Median Wealth Has Hit a Record High Propelled by Rising Home Prices,
-    Growing Stock Ownership, and Pandemic-era Excess Savings
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb7076fd-ae39-4518-8f98-c938d556bd57_2886x1843.png
-  path: https://www.apricitas.io/p/americas-record-wealth-boom
-  title: America's Record Wealth Boom
 - author: Outliers
   categories: *id010
   date: '2023-10-20T00:00:00+00:00'
