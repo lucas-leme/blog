@@ -1,5 +1,5 @@
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-13T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
@@ -15,6 +15,22 @@
   path: https://open.spotify.com/episode/4td7H8IIBSAVlMs1UVgtd4
   title: "PEDRO CERIZE: \u201CGANHAVA MUITO DINHEIRO E OPERAVA IGUAL MALUCO\u201D\
     \ | Corte Ep. #70"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-11-13T00:00:00+00:00'
+  description: "An economic downturn in China has resulted in historically high youth\
+    \ unemployment. At the same time, China\u2019s leader Xi Jinping thinks the countryside\
+    \ is in need of rejuvenation. WSJ\u2019s Brian Spegele explains how the Chinese\
+    \ leader is trying to tackle both issues in one fell swoop.  Further Reading:\
+    \ -China Has an Idea for Its Legions of Unemployed Youth: Send Them Away\_ -How\
+    \ Bad is China\u2019s Economy? Millions of Young People Are Unemployed and Disillusioned\_\
+    \  Further Listening:  -Why Millions of Chinese Young People Are Unemployed\_\
+    \ -China\u2019s Property Market Crisis\_  Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7s85fsvxULfVNGxUVQAMtT
+  title: "China\u2019s Plans for Its Unemployed Youth: Send Them Away"
 - author: Stay-At-Home Macro (SAHM)
   categories: &id007
   - Macro
@@ -100,8 +116,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/10112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 10/11/2023"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2023-11-10T00:00:00+00:00'
   description: "The trial of Sam Bankman-Fried is over. Rachel Humphreys and Caitlin\
     \ Ostroff reflect on their month at court and answer outstanding questions about\
@@ -114,7 +129,7 @@
   path: https://open.spotify.com/episode/3HQf0YGpLcVYfExM2JxeN2
   title: "The Trial of Crypto\u2019s Golden Boy: What Happens Next?"
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2023-11-09T23:48:45+00:00'
@@ -130,7 +145,7 @@
   path: https://www.youtube.com/watch?v=ZWgr7qP6yhY
   title: 'Space Black M3 Max MacBook Pro Review: We Can Game Now?!'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2023-11-09T17:24:25+00:00'
   description: https://atoms.com
   image: https://i1.ytimg.com/vi/xSqol6GQRJw/hqdefault.jpg
@@ -159,7 +174,7 @@
   path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
   title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2023-11-09T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerAp\xF3\
     s um evento desastroso para os neg\xF3cios do pai na d\xE9cada de 1990, Christian\
@@ -191,19 +206,6 @@
   path: https://open.spotify.com/episode/7a5yVbhN7TdrCk97sgq8jw
   title: '#70 | De trader a gestor: a inspiradora jornada de Christian Keleti (CEO
     da Alpha Key)'
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-09T00:00:00+00:00'
-  description: "Former Meta engineer Arturo Bejar thought he could help make Instagram\
-    \ safer after his daughter experienced harassment on the platform. But Bejar said\
-    \ that his concerns were not sufficiently addressed by senior leadership at the\
-    \ company and that teens are still at risk for harassment and bullying on Meta's\
-    \ platforms.  Further Listening: -The Facebook Files\_  Further Reading: -His\
-    \ Job Was to Make Instagram Safe for Teens. His 14-Year-Old Showed Him What the\
-    \ App Was Really Like.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6DUrzbGLw0IiPQFurTssbk
-  title: He Thought Instagram Was Safe. Then His Daughter Got an Account.
 - author: Money Talks from The Economist
   categories:
   - Podcasts
