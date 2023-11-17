@@ -1,5 +1,42 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-11-17T16:00:39+00:00'
+  description: "Check out Hostinger \u27A1\uFE0F https://www.hostinger.com/arjancodes\
+    \ \n\u2705 Hostinger code for 10% off: ARJANCODES \n\nIn this video, I\u2019m\
+    \ going to explore how generic types in Python 3.12 work, and what the advantage\
+    \ is over just using the Any types.\n\n\U0001F477 Join the FREE Code Diagnosis\
+    \ Workshop to help you review code more effectively using my 3-Factor Diagnosis\
+    \ Framework: https://www.arjancodes.com/diagnosis\n\n\u270D\U0001F3FB Take a quiz\
+    \ on this topic: https://www.learntail.com/quiz/jqonfv\n\nTry Learntail for FREE\
+    \ \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
+    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
+    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
+    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:22 Generic Types\n5:41 The Any Type\n7:57 Old vs new generic type syntax\n12:16\
+    \ Upper bounds\n16:02 Advantages of Using Generic Types over Any\n17:58 Outro\n\
+    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
+    \ might be affiliate links. If you purchase a product or service through one of\
+    \ those links, I may receive a small commission. There is no additional charge\
+    \ to you. Thanks for supporting my channel so I can continue to provide you with\
+    \ free content each week!"
+  image: https://i2.ytimg.com/vi/q6ujWWaRdbA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=q6ujWWaRdbA
+  title: Python 3.12 Generic Types Explained
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2023-11-16T23:21:05+00:00'
@@ -8,7 +45,7 @@
   path: https://www.youtube.com/watch?v=roheTIg6pmk
   title: iPhone Gets RCS! With a Catch...
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-11-16T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerO\
@@ -28,7 +65,7 @@
   path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
   title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-16T00:00:00+00:00'
   description: "Inflation has been a big problem in the U.S. economy over the past\
@@ -61,10 +98,7 @@
   path: https://open.spotify.com/episode/5jnXKatgVjuAq1lDxB8luZ
   title: 'Money Talks: Higher for longer'
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2023-11-15T16:00:34+00:00'
   description: "In this short, I'll compare the multithreading process for two of\
     \ the most popular programming languages, Python and JavaScript.\n\n\U0001F477\
@@ -90,7 +124,7 @@
   path: https://www.youtube.com/watch?v=jYQGQuuaeLM
   title: "\U0001F4C8 How Python & JavaScript Handle Multithreading"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2023-11-15T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
     \ d\xE1 a sua vis\xE3o sobre a bolsa brasileira e diz se ela est\xE1 barata ou\
@@ -105,7 +139,7 @@
   path: https://open.spotify.com/episode/5LeWmva2WVX9biOHGBc3Ya
   title: "A bolsa est\xE1 barata? | Corte Ep. #70"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-11-15T00:00:00+00:00'
   description: "The longest actors strike in Hollywood history finally came to an\
     \ end last week. WSJ\u2019s Joe Flint explains why it took so long, and how the\
@@ -119,7 +153,7 @@
   path: https://open.spotify.com/episode/4MqOFUPKA0hQN9fKGJYEy2
   title: The Actors Strike Is Over. Who Won?
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2023-11-14T14:39:57+00:00'
   description: "Nothing embraced iMessage for Android. Here's what that means \U0001F440\
     \n\nBlue Bubbles vs Green Bubbles: https://youtu.be/BuaKzm7Kq9Q?si=WhoChleHjbObPLjz\n\
@@ -150,41 +184,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04252216-1bbf-4e98-b84e-44d29bebad7f_2886x1843.png
   path: https://www.apricitas.io/p/are-real-wages-rising
   title: Are Real Wages Rising?
-- author: ArjanCodes
-  categories: *id004
-  date: '2023-11-10T16:00:29+00:00'
-  description: "Today, I'm going to take a deep dive into monads. They\u2019re a well-known\
-    \ concept in functional programming languages like Haskell, but are they useful\
-    \ elsewhere? Stay tuned, and by the end of this video, you'll understand what\
-    \ monads are all about.\n\n\U0001F477 Join the FREE Code Diagnosis Workshop to\
-    \ help you review code more effectively using my 3-Factor Diagnosis Framework:\
-    \ https://www.arjancodes.com/diagnosis\n\nGit repository: https://git.arjan.codes/2023/monad\n\
-    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/ynkzgi\n\
-    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
-    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:19 What is a monad?\n1:41 Step 1: Understanding Functors\n2:53 Step 2: Understanding\
-    \ Endofunctors\n4:00 Why is Functor an Endofunctor?\n6:22 Step 3: Understanding\
-    \ Monoids\n7:15 Step 4: Monads as Monoids in the Category of Endofunctors\n11:50\
-    \ Maybe monad\n19:12 Should we switch to monads?\n20:36 Outro\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i2.ytimg.com/vi/Q0aVbqim5pE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Q0aVbqim5pE
-  title: What the Heck Are Monads?!
 - author: The Overshoot
   categories: &id006
   - Macro
