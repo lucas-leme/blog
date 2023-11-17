@@ -1,3 +1,47 @@
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2023-11-16T23:21:05+00:00'
+  description: Green vs blue bubbles gets yet another chapter...
+  image: https://i3.ytimg.com/vi/roheTIg6pmk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=roheTIg6pmk
+  title: iPhone Gets RCS! With a Catch...
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2023-11-16T00:00:00+00:00'
+  description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerO\
+    \ epis\xF3dio #71 \xE9 uma conversa sem rodeios com o CEO de uma das maiores e\
+    \ mais importantes empresas do Brasil. Gilson Finkelsztain, CEO da B3, rebateu\
+    \ nosso questionamento da B3 ser um monop\xF3lio e disse que o mercado pode sim\
+    \ ter outras administradoras de bolsa - embora ele n\xE3o ache isso faz sentido\
+    \ para um mercado do tamanho do nosso. Ele tamb\xE9m explicou por que acredita\
+    \ que o mercado brasileiro vai passar pelo que ele chamou de \u201Cnova onda\u201D\
+    , que ser\xE1 muito maior do que a de 2020, quando o crescimento de investidores\
+    \ bateu seu \xE1pice. E revelou novidades que teremos na bolsa em breve, como\
+    \ as op\xE7\xF5es semanais, e ideias que podemos ver ano que vem, como os preg\xF5\
+    es de dura\xE7\xE3o at\xE9 22h.Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)\
+    \ e Renato Santiago (@renatosantiago)Convidados: Gilson Finkelsztain, CEO da B3Edi\xE7\
+    \xE3o: Bianca BarsottiAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
+  image: https://i.scdn.co/image/ab6765630000ba8a5cf6a1c0e30b84280c019741
+  path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
+  title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2023-11-16T00:00:00+00:00'
+  description: "Inflation has been a big problem in the U.S. economy over the past\
+    \ couple of years. The Federal Reserve has been trying to tamp it down without\
+    \ crashing the economy. WSJ\u2019s Amara Omeokwe explains why a so-called soft\
+    \ landing is coming into view.  Further Reading: - Cooling Inflation Likely Ends\
+    \ Fed Rate Hikes\_ - The Elusive Soft Landing Is Coming Into View\_ - The Global\
+    \ Fight Against Inflation Has Turned a Corner\_  Further Listening: - Why a Soft\
+    \ Landing for the Economy Could Be Hard\_ - Will the Fed Stop Raising Interest\
+    \ Rates?\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3w4YyLOJKp6XVhFnPugU3v
+  title: Inflation Is Down. Unemployment Is Low. Is This a Soft Landing?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -17,7 +61,7 @@
   path: https://open.spotify.com/episode/5jnXKatgVjuAq1lDxB8luZ
   title: 'Money Talks: Higher for longer'
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -46,8 +90,7 @@
   path: https://www.youtube.com/watch?v=jYQGQuuaeLM
   title: How Python & JavaScript Handle Multithreading
 - author: Market Makers
-  categories: &id001
-  - Podcasts
+  categories: *id001
   date: '2023-11-15T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
     \ d\xE1 a sua vis\xE3o sobre a bolsa brasileira e diz se ela est\xE1 barata ou\
@@ -62,8 +105,7 @@
   path: https://open.spotify.com/episode/5LeWmva2WVX9biOHGBc3Ya
   title: "A bolsa est\xE1 barata? | Corte Ep. #70"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2023-11-15T00:00:00+00:00'
   description: "The longest actors strike in Hollywood history finally came to an\
     \ end last week. WSJ\u2019s Joe Flint explains why it took so long, and how the\
@@ -77,9 +119,7 @@
   path: https://open.spotify.com/episode/4MqOFUPKA0hQN9fKGJYEy2
   title: The Actors Strike Is Over. Who Won?
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2023-11-14T14:39:57+00:00'
   description: "Nothing embraced iMessage for Android. Here's what that means \U0001F440\
     \n\nBlue Bubbles vs Green Bubbles: https://youtu.be/BuaKzm7Kq9Q?si=WhoChleHjbObPLjz\n\
@@ -89,52 +129,6 @@
   image: https://i3.ytimg.com/vi/ji5HwS3bhlU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ji5HwS3bhlU
   title: To Beat the iPhone, You Must... Be the iPhone?
-- author: Market Makers
-  categories: *id001
-  date: '2023-11-14T00:00:00+00:00'
-  description: "\"Toda empresa de varejo vai quebrar.\" Ser\xE1?Pelo menos \xE9 isso\
-    \ que um dos maiores e respeitados investidores brasileiros, Luiz Barsi, afirmou\
-    \ recentemente num podcast: \"As empresas de varejo pelo menos umas 40 quebraram\
-    \ e as pr\xF3ximas quebrar\xE3o. Magazine Luiza um dia vai quebrar. Eu n\xE3o\
-    \ sei quando, mas ela vai quebrar. Eu n\xE3o sou profeta. Estou falando em termos\
-    \ hist\xF3ricos.\"Com hist\xF3rias de sucesso e fracasso, o varejo \xE9 um dos\
-    \ setores mais dif\xEDceis e complexos da bolsa. Os \xFAltimos 12 meses, por exemplo,\
-    \ foram devastadores para as a\xE7\xF5es do setor.Os pap\xE9is de Magalu, Casas\
-    \ Bahia e Americanas ca\xEDram 33, 75 e 91% respectivamente.Historicamente, muitas\
-    \ varejistas com opera\xE7\xF5es gigantescas pelo Brasil ficaram pelo caminho\
-    \ e isso trouxe para muitos a impress\xE3o de que todas as empresas do setor est\xE3\
-    o fadadas ao fracasso e portanto n\xE3o s\xE3o bons investimentos.Mas ser\xE1\
-    \ que todas inevitavelmente ir\xE3o quebrar e por isso os investidores n\xE3o\
-    \ devem nem pensar em investir?Para responder isso e descobrir se existem oportunidades\
-    \ nesse complexo setor, Matheus Soares, analista do Market Makers, e Jo\xE3o Mamede,\
-    \ Co-gestor de Renda Vari\xE1vel da AZ QUEST, se juntaram no Mercado Aberto de\
-    \ hoje. Acompanhe!O que voc\xEA vai aprender neste Mercado Aberto:- Como funciona\
-    \ o setor de varejo e quais s\xE3o os segmentos?- Por que o varejo \xE9 t\xE3\
-    o impactado pelo macro? - Barsi tem raz\xE3o: toda varejista vai quebrar- Qual\
-    \ \xE9 o futuro do varejo?- Existem oportunidades no setor de varejo?- Qual a\
-    \ empresa de varejo que o Jo\xE3o Mamede mais gostaDeixe seu coment\xE1rio abaixo\
-    \ para respondermos no pr\xF3ximo Mercado Aberto!Apresenta\xE7\xE3o: Matheus Soares\
-    \ (@maatssoares)Convidado: Jo\xE3o Mamede, Co-gestor de Renda Vari\xE1vel da AZ\
-    \ QUESTEdi\xE7\xE3o: Bianca BarsottiAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
-  image: https://i.scdn.co/image/ab6765630000ba8a005845441e53ac5a1ed0c399
-  path: https://open.spotify.com/episode/7kVqx7ygvfGexX2mjJ4UFt
-  title: "\"TODA EMPRESA DE VAREJO VAI QUEBRAR\": O BARSI TEM RAZ\xC3O? (Existem oportunidades\
-    \ no setor?) | Mercado Aberto"
-- author: The Journal.
-  categories: *id002
-  date: '2023-11-14T00:00:00+00:00'
-  description: "On Monday, Israeli troops reached Gaza\u2019s largest hospital, Al-Shifa\
-    \ where Israel says Hamas conceals a major command center. WSJ\u2019s Chao Deng\
-    \ and Margherita Stancati discuss what's happening at the hospital, where thousands\
-    \ of people, including patients and doctors, are trapped because of the fighting.\_\
-    \  Further Listening:  - For Palestinians Trapped in Gaza, There\u2019s No Way\
-    \ Out\_ - The War Between Israel and Hamas\_  Further Reading: - Israeli Forces\
-    \ Reach Gate of Gaza\u2019s Largest Hospital\_ - Israel Pushing for Hamas to Surrender\
-    \ Stricken Al-Shifa Hospital\_ - Gaza\u2019s Al-Shifa Hospital Goes Dark at Center\
-    \ of Israel-Hamas Battle Zone\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5RhrZL6rf1wFG6qa6FxpAa
-  title: "The Hospital at the Center of Israel\u2019s War on Hamas"
 - author: Stay-At-Home Macro (SAHM)
   categories: &id007
   - Macro
@@ -157,7 +151,7 @@
   path: https://www.apricitas.io/p/are-real-wages-rising
   title: Are Real Wages Rising?
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2023-11-10T16:00:29+00:00'
   description: "Today, I'm going to take a deep dive into monads. They\u2019re a well-known\
     \ concept in functional programming languages like Haskell, but are they useful\
@@ -216,20 +210,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/10112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 10/11/2023"
-- author: Marques Brownlee
-  categories: *id004
-  date: '2023-11-09T23:48:45+00:00'
-  description: "The new matte black MacBook Pro is more capable than ever, and it's\
-    \ surprisingly good at playing super high quality games that I don't actually\
-    \ care about \U0001F605\n\nThat free phone you're signing up for? It might not\
-    \ be as \u201Cfree\u201D as you think. Learn more at\_https://visible.com\n\n\
-    MKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \nLaptop provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
-    http://facebook.com/MKBHD"
-  image: https://i3.ytimg.com/vi/ZWgr7qP6yhY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZWgr7qP6yhY
-  title: 'Space Black M3 Max MacBook Pro Review: We Can Game Now?!'
 - author: 'FRB: Working Papers'
   categories: &id005
   - Papers
