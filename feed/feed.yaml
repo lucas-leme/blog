@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -35,6 +35,20 @@
   image: https://i2.ytimg.com/vi/q6ujWWaRdbA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=q6ujWWaRdbA
   title: Python 3.12 Generic Types Explained
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-11-17T00:00:00+00:00'
+  description: "A Wall Street Journal investigation found that only 14% of emergency\
+    \ departments nationwide have been certified to treat kids. WSJ\u2019s Melanie\
+    \ Evans explains why this is a problem across the country, and one family recounts\
+    \ their son\u2019s experience in an ER.  Further Reading: -Find Hospitals Deemed\
+    \ Ready to Treat Children in Your Area\_ -Children Are Dying in Ill-Prepared Emergency\
+    \ Rooms Across America\_ -Emergency Rooms Are Failing Kids. This Hospital Stepped\
+    \ Up.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6UAFwXkphZw20WPHThyFZK
+  title: Why So Many Emergency Rooms Are Failing Kids in America
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -64,7 +78,7 @@
   path: https://www.youtube.com/watch?v=roheTIg6pmk
   title: iPhone Gets RCS! With a Catch...
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-16T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerO\
@@ -84,8 +98,7 @@
   path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
   title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2023-11-16T00:00:00+00:00'
   description: "Inflation has been a big problem in the U.S. economy over the past\
     \ couple of years. The Federal Reserve has been trying to tamp it down without\
@@ -117,7 +130,7 @@
   path: https://open.spotify.com/episode/5jnXKatgVjuAq1lDxB8luZ
   title: 'Money Talks: Higher for longer'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2023-11-15T16:00:34+00:00'
   description: "In this short, I'll compare the multithreading process for two of\
     \ the most popular programming languages, Python and JavaScript.\n\n\U0001F477\
@@ -143,7 +156,7 @@
   path: https://www.youtube.com/watch?v=jYQGQuuaeLM
   title: "\U0001F4C8 How Python & JavaScript Handle Multithreading"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2023-11-15T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
     \ d\xE1 a sua vis\xE3o sobre a bolsa brasileira e diz se ela est\xE1 barata ou\
@@ -157,20 +170,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a3e6ef24ee2efc1ec22f6507a
   path: https://open.spotify.com/episode/5LeWmva2WVX9biOHGBc3Ya
   title: "A bolsa est\xE1 barata? | Corte Ep. #70"
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-15T00:00:00+00:00'
-  description: "The longest actors strike in Hollywood history finally came to an\
-    \ end last week. WSJ\u2019s Joe Flint explains why it took so long, and how the\
-    \ industry might change as a result.  Further Listening:  -The Case of the Hollywood\
-    \ Shutdown\_ -2023: The Year of the Strike\_ -One Hollywood Writer on the Industry\u2019\
-    s \u2018Dire\u2019 Situation\_  Further Reading: -The Actors Strike Is Over. Now\
-    \ Comes the Wait for New Films and Shows.\_ -The Sticking Point That\u2019s Keeping\
-    \ Actors on Strike\_ -Hollywood Actors Reach Agreement With Studios, Streamers\
-    \ to End Strike\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4MqOFUPKA0hQN9fKGJYEy2
-  title: The Actors Strike Is Over. Who Won?
 - author: Marques Brownlee
   categories: *id004
   date: '2023-11-14T14:39:57+00:00'
