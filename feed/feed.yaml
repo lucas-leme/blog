@@ -1,3 +1,13 @@
+- author: Apricitas Economics
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2023-11-19T14:30:31+00:00'
+  description: How the Pandemic Accelerated Home Price Increases in America's Once-Affordable
+    Areas
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa171dd89-b213-4ed9-9521-b53e10fb949b_2886x1843.png
+  path: https://www.apricitas.io/p/the-new-economic-geography-of-the
+  title: The New Economic Geography of the Housing Shortage
 - author: ArjanCodes
   categories: &id002
   - Tech
@@ -182,7 +192,7 @@
   path: https://www.youtube.com/watch?v=ji5HwS3bhlU
   title: To Beat the iPhone, You Must... Be the iPhone?
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-11-12T22:21:14+00:00'
@@ -193,9 +203,7 @@
   path: https://stayathomemacro.substack.com/p/why-might-this-time-be-different
   title: Why might this time be different?
 - author: Apricitas Economics
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2023-11-11T12:44:14+00:00'
   description: Yes, But Here's Why That Question is Harder to Answer Than You Might
     Think
@@ -203,7 +211,7 @@
   path: https://www.apricitas.io/p/are-real-wages-rising
   title: Are Real Wages Rising?
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-11-10T11:45:20+00:00'
@@ -228,7 +236,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/10112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 10/11/2023"
 - author: 'FRB: Working Papers'
-  categories: &id005
+  categories: &id006
   - Papers
   - FED
   - BC
@@ -250,7 +258,7 @@
   path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
   title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
 - author: 'FRB: Working Papers'
-  categories: *id005
+  categories: *id006
   date: '2023-11-07T14:40:00+00:00'
   description: 'Ufuk Akcigit, <a href="https://www.federalreserve.gov/econres/harun-alp.htm">Harun
     Alp</a>, Andr&eacute; Diegmann, and Nicolas Serrano-Velarde<br /><br />This paper
@@ -627,7 +635,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2023-11-07T07:53:26+00:00'
   description: By some measures, nominal pay raises are now in line with 2006-2007
     or the late 1990s. What that means for inflation and interest rates is less clear.
@@ -635,7 +643,7 @@
   path: https://theovershoot.co/p/us-wage-growth-is-slowing-somewhat
   title: U.S. Wage Growth Is Slowing, Somewhat
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id007
+  categories: *id008
   date: '2023-11-03T20:00:24+00:00'
   description: The unemployment rate increased to 3.9% in October; job gains slowed
     to 150,000--a sign that the recent burst in economic activity and jobs was likely
@@ -659,14 +667,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Working-Paper/How-Global-is-Predictability
   title: How Global is Predictability?
-- author: Apricitas Economics
-  categories: *id008
-  date: '2023-11-02T11:30:16+00:00'
-  description: The Fed Sees the US Economy Growing at an Increasingly Robust Pace,
-    Beating Past Projections
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1467fd0-e179-4671-b693-00cd6c84430f_2886x1843.png
-  path: https://www.apricitas.io/p/americas-return-to-strong-growth
-  title: America's Return to Strong Growth
 - author: Comunicados Copom
   categories:
   - Bacen
