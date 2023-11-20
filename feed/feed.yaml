@@ -1,8 +1,32 @@
 - author: 'FRB: Working Papers'
-  categories: &id006
+  categories: &id001
   - Papers
   - FED
   - BC
+  date: '2023-11-20T21:10:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/sebastian-infante.htm">Sebastian
+    Infante</a>, <a href="https://www.federalreserve.gov/econres/kyungmin-kim.htm">Kyungmin
+    Kim</a>, <a href="https://www.federalreserve.gov/econres/anna-orlik.htm">Anna
+    Orlik</a>, <a href="https://www.federalreserve.gov/econres/andre-f-silva.htm">Andr&eacute;
+    F. Silva</a>, <a href="https://www.federalreserve.gov/econres/robert-j-tetlow.htm">Robert
+    J. Tetlow</a><br /><br />This paper reviews the literature examining how the introduction
+    of a retail CBDC would affect the banking sector and financial stability. A CBDC
+    has the potential to improve welfare by reducing financial frictions, countering
+    market power in deposit markets and enhancing the payment system. However, a CBDC
+    also entails noteworthy risks, including the possibility of bank disintermediation
+    and associated contraction in bank credit, as well as potential adverse effects
+    on financial stability. The recycling of the new CBDC liability through asset
+    purchases or lending by the central bank plays an important role in determining
+    the economic consequences of the introduction of a CBDC. A CBDC also raises important
+    questions regarding the footprint of central banks in the financial system. Ultimately,
+    the effects of a CBDC depend critically on its design features, of which remuneration
+    is the one discussed most often in the literature.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/retail-central-bank-digital-currencies-implications-for-banking-and-financial-stability.htm
+  title: 'FEDS Paper: Retail Central Bank Digital Currencies: Implications for Banking
+    and Financial Stability'
+- author: 'FRB: Working Papers'
+  categories: *id001
   date: '2023-11-20T14:30:00+00:00'
   description: '<a href="https://www.federalreserve.gov/econres/ricardo-correa.htm">Ricardo
     Correa</a>, Julian di Giovanni, Linda S. Goldberg, and Camelia Minoiu<br /><br
@@ -24,7 +48,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/trade-uncertainty-and-us-bank-lending.htm
   title: 'IFDP Paper: Trade Uncertainty and U.S. Bank Lending'
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2023-11-20T14:27:19+00:00'
@@ -33,7 +57,7 @@
   path: https://www.youtube.com/watch?v=YWTgoUqm3tY
   title: Electric Scooter INSIDE a Briefcase!
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-11-19T14:30:31+00:00'
@@ -43,7 +67,7 @@
   path: https://www.apricitas.io/p/the-new-economic-geography-of-the
   title: The New Economic Geography of the Housing Shortage
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -94,7 +118,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/11/2023"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-17T00:00:00+00:00'
   description: "A Wall Street Journal investigation found that only 14% of emergency\
@@ -127,14 +151,14 @@
   path: https://open.spotify.com/episode/37xD4c2xIE0MTIDgGSC2pU
   title: Expiring vs. Permanent Skills
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2023-11-16T23:21:05+00:00'
   description: Green vs blue bubbles gets yet another chapter...
   image: https://i3.ytimg.com/vi/roheTIg6pmk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=roheTIg6pmk
   title: iPhone Gets RCS! With a Catch...
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2023-11-16T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerO\
@@ -154,7 +178,7 @@
   path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
   title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-11-16T00:00:00+00:00'
   description: "Inflation has been a big problem in the U.S. economy over the past\
     \ couple of years. The Federal Reserve has been trying to tamp it down without\
@@ -186,7 +210,7 @@
   path: https://open.spotify.com/episode/5jnXKatgVjuAq1lDxB8luZ
   title: 'Money Talks: Higher for longer'
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2023-11-15T16:00:34+00:00'
   description: "In this short, I'll compare the multithreading process for two of\
     \ the most popular programming languages, Python and JavaScript.\n\n\U0001F477\
@@ -212,7 +236,7 @@
   path: https://www.youtube.com/watch?v=jYQGQuuaeLM
   title: How Python & JavaScript Handle Multithreading
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2023-11-15T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
     \ d\xE1 a sua vis\xE3o sobre a bolsa brasileira e diz se ela est\xE1 barata ou\
@@ -238,7 +262,7 @@
   path: https://stayathomemacro.substack.com/p/why-might-this-time-be-different
   title: Why might this time be different?
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id006
   date: '2023-11-11T12:44:14+00:00'
   description: Yes, But Here's Why That Question is Harder to Answer Than You Might
     Think
@@ -256,25 +280,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34955788-fb09-4858-8652-330c3a82dc1b_5006x2794.png
   path: https://theovershoot.co/p/the-threat-from-chinas-capital-flight
   title: The Threat from China's Capital Flight
-- author: 'FRB: Working Papers'
-  categories: *id006
-  date: '2023-11-09T14:50:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/alyssa-g-anderson.htm">Alyssa
-    Anderson</a> and <a href="https://www.federalreserve.gov/econres/manjola-tase.htm">Manjola
-    Tase</a><br /><br />We document the existence of a regulatory premium in the federal
-    funds market related to the implementation of the Liquidity Coverage Ratio (LCR).
-    We use difference-in-differences analysis and confidential bank level data on
-    borrowing in the fed funds and Eurodollar markets to compare the interest rates
-    paid by banks subject to daily reporting of their liquidity profile (daily reporters)
-    relative to other banks. We find that, after the implementation of LCR, daily
-    reporters paid a higher rate compared to other banks when borrowing in the fed
-    funds market given the LCR-favorability of many of the lenders in this market.
-    In addition, on the days that banks borrowed in both the fed funds and Eurodollar
-    markets, daily reporters paid a higher rate than other banks for their borrowing
-    in the fed funds market but not for their borrowing in the Eurodollar market.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
-  title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
 - author: Atas do Copom
   categories:
   - Bacen
