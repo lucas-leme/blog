@@ -1,3 +1,37 @@
+- author: 'FRB: Working Papers'
+  categories: &id006
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-20T14:30:00+00:00'
+  description: '<a href="https://www.federalreserve.gov/econres/ricardo-correa.htm">Ricardo
+    Correa</a>, Julian di Giovanni, Linda S. Goldberg, and Cameila Minoiu<br /><br
+    />This paper uses U.S. loan-level credit register data and the 2018&#8211;2019
+    Trade War to test for the effects of international trade uncertainty on domestic
+    credit supply. We exploit cross-sectional heterogeneity in banks&#8217; ex-ante
+    exposure to trade uncertainty and find that an increase in trade uncertainty is
+    associated with a contraction in bank lending to all firms irrespective of the
+    uncertainty that the firms face. This baseline result holds for lending at the
+    intensive and extensive margins. We document two channels underlying the estimated
+    credit supply effect: a <em>wait-and-see channel</em> by which exposed banks assess
+    their borrowers as riskier and reduce the maturity of their loans and a <em>financial
+    frictions</em> channel by which exposed banks facing relatively higher balance
+    sheet constraints contract lending more. The decline in credit supply has real
+    effects: firms that borrow from more exposed banks experience lower debt growth
+    and investment rates. These effects are stronger for firms that are more reliant
+    on bank finance.'
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/ifdp/trade-uncertainty-and-us-bank-lending.htm
+  title: 'IFDP Paper: Trade Uncertainty and U.S. Bank Lending'
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2023-11-20T14:27:19+00:00'
+  description: Honda Motocompacto
+  image: https://i2.ytimg.com/vi/YWTgoUqm3tY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=YWTgoUqm3tY
+  title: Electric Scooter INSIDE a Briefcase!
 - author: Apricitas Economics
   categories: &id005
   - Macro
@@ -9,7 +43,7 @@
   path: https://www.apricitas.io/p/the-new-economic-geography-of-the
   title: The New Economic Geography of the Housing Shortage
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -60,7 +94,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/11/2023"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-11-17T00:00:00+00:00'
   description: "A Wall Street Journal investigation found that only 14% of emergency\
@@ -93,16 +127,14 @@
   path: https://open.spotify.com/episode/37xD4c2xIE0MTIDgGSC2pU
   title: Expiring vs. Permanent Skills
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2023-11-16T23:21:05+00:00'
   description: Green vs blue bubbles gets yet another chapter...
   image: https://i3.ytimg.com/vi/roheTIg6pmk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=roheTIg6pmk
   title: iPhone Gets RCS! With a Catch...
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2023-11-16T00:00:00+00:00'
   description: "BLUE FRIDAY DR JONES (AT\xC9 45% DE DESCONTO EM TODO SITE): https://drjones.com.br/collections/black-friday?utm_source=youtube&amp;utm_medium=influencerO\
@@ -122,7 +154,7 @@
   path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
   title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2023-11-16T00:00:00+00:00'
   description: "Inflation has been a big problem in the U.S. economy over the past\
     \ couple of years. The Federal Reserve has been trying to tamp it down without\
@@ -154,7 +186,7 @@
   path: https://open.spotify.com/episode/5jnXKatgVjuAq1lDxB8luZ
   title: 'Money Talks: Higher for longer'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2023-11-15T16:00:34+00:00'
   description: "In this short, I'll compare the multithreading process for two of\
     \ the most popular programming languages, Python and JavaScript.\n\n\U0001F477\
@@ -180,7 +212,7 @@
   path: https://www.youtube.com/watch?v=jYQGQuuaeLM
   title: How Python & JavaScript Handle Multithreading
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2023-11-15T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #70: Christian Keleti, CEO da Alpha Key Capital,\
     \ d\xE1 a sua vis\xE3o sobre a bolsa brasileira e diz se ela est\xE1 barata ou\
@@ -194,17 +226,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a3e6ef24ee2efc1ec22f6507a
   path: https://open.spotify.com/episode/5LeWmva2WVX9biOHGBc3Ya
   title: "A bolsa est\xE1 barata? | Corte Ep. #70"
-- author: Marques Brownlee
-  categories: *id004
-  date: '2023-11-14T14:39:57+00:00'
-  description: "Nothing embraced iMessage for Android. Here's what that means \U0001F440\
-    \n\nBlue Bubbles vs Green Bubbles: https://youtu.be/BuaKzm7Kq9Q?si=WhoChleHjbObPLjz\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i3.ytimg.com/vi/ji5HwS3bhlU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ji5HwS3bhlU
-  title: To Beat the iPhone, You Must... Be the iPhone?
 - author: Stay-At-Home Macro (SAHM)
   categories: &id008
   - Macro
@@ -236,10 +257,7 @@
   path: https://theovershoot.co/p/the-threat-from-chinas-capital-flight
   title: The Threat from China's Capital Flight
 - author: 'FRB: Working Papers'
-  categories: &id006
-  - Papers
-  - FED
-  - BC
+  categories: *id006
   date: '2023-11-09T14:50:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/alyssa-g-anderson.htm">Alyssa
     Anderson</a> and <a href="https://www.federalreserve.gov/econres/manjola-tase.htm">Manjola
@@ -257,27 +275,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/lcr-premium-in-the-federal-funds-market.htm
   title: 'FEDS Paper: LCR Premium in the Federal Funds Market'
-- author: 'FRB: Working Papers'
-  categories: *id006
-  date: '2023-11-07T14:40:00+00:00'
-  description: 'Ufuk Akcigit, <a href="https://www.federalreserve.gov/econres/harun-alp.htm">Harun
-    Alp</a>, Andr&eacute; Diegmann, and Nicolas Serrano-Velarde<br /><br />This paper
-    investigates a unique policy designed to maintain employment during the privatization
-    of East German firms after the fall of the Iron Curtain. The policy required new
-    owners of the firms to commit to employment targets, with penalties for non-compliance.
-    Using a dynamic model, we highlight three channels through which employment targets
-    impact firms: distorted employment decisions, increased productivity, and higher
-    exit rates. Our empirical analysis, using a novel dataset and instrumental variable
-    approach, confirms these findings. We estimate a 22% points higher annual employment
-    growth rate, a 14% points higher annual productivity growth, and a 3.6% points
-    higher probability of exit for firms with binding employment targets. Our calibrated
-    model further demonstrates that without these targets, aggregate employment would
-    have been 15% lower after 10 years. Additionally, an alternative policy of productivity
-    investment subsidies proved costly and less effective in the short term.'
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/ifdp/committing-to-grow-privatizations-and-firm-dynamics-in-east-germany.htm
-  title: 'IFDP Paper: Committing to Grow: Privatizations and Firm Dynamics in East
-    Germany'
 - author: Atas do Copom
   categories:
   - Bacen
