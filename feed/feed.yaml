@@ -1,3 +1,25 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-21T18:40:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/elliot-anenberg.htm">Elliot
+    Anenberg</a>, <a href="https://www.federalreserve.gov/econres/tess-c-scharlemann.htm">Tess
+    Scharlemann</a>, <a href="https://www.federalreserve.gov/econres/eileen-van-straelen.htm">Eileen
+    van Straelen</a><br /><br />We show that the strong negative effect of higher
+    mortgage rates on cash-out refinancing reflects substitution into other borrowing
+    products, not large changes in total new household borrowing. We exploit an exogenous
+    increase in long-term rates to show that, in the cross-section of outstanding
+    mortgage rates, changes in cash-out and alternative borrowing are offsetting.
+    Additionally, we instrument using monetary policy surprises to show that, over
+    the period from 2006-2021, changes in cash-out refinancing are offset by alternative
+    borrowing. Our results suggest that debt substitution substantially weakens the
+    cash-out refinance channel of monetary policy and reduces its path-dependence.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/borrowing-and-spending-in-the-money.htm
+  title: 'FEDS Paper: Borrowing and Spending in the Money: Debt Substitution and the
+    Cash-out Refinance Channel of Monetary Policy'
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -10,10 +32,7 @@
   path: https://theovershoot.co/p/managing-economic-and-financial-entanglements
   title: Managing Economic and Financial Entanglements With China
 - author: 'FRB: Working Papers'
-  categories: &id001
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-11-20T21:10:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/sebastian-infante.htm">Sebastian
     Infante</a>, <a href="https://www.federalreserve.gov/econres/kyungmin-kim.htm">Kyungmin
@@ -36,28 +55,6 @@
   path: https://www.federalreserve.gov/econres/feds/retail-central-bank-digital-currencies-implications-for-banking-and-financial-stability.htm
   title: 'FEDS Paper: Retail Central Bank Digital Currencies: Implications for Banking
     and Financial Stability'
-- author: 'FRB: Working Papers'
-  categories: *id001
-  date: '2023-11-20T14:30:00+00:00'
-  description: '<a href="https://www.federalreserve.gov/econres/ricardo-correa.htm">Ricardo
-    Correa</a>, Julian di Giovanni, Linda S. Goldberg, and Camelia Minoiu<br /><br
-    />This paper uses U.S. loan-level credit register data and the 2018&#8211;2019
-    Trade War to test for the effects of international trade uncertainty on domestic
-    credit supply. We exploit cross-sectional heterogeneity in banks&#8217; ex-ante
-    exposure to trade uncertainty and find that an increase in trade uncertainty is
-    associated with a contraction in bank lending to all firms irrespective of the
-    uncertainty that the firms face. This baseline result holds for lending at the
-    intensive and extensive margins. We document two channels underlying the estimated
-    credit supply effect: a <em>wait-and-see channel</em> by which exposed banks assess
-    their borrowers as riskier and reduce the maturity of their loans and a <em>financial
-    frictions</em> channel by which exposed banks facing relatively higher balance
-    sheet constraints contract lending more. The decline in credit supply has real
-    effects: firms that borrow from more exposed banks experience lower debt growth
-    and investment rates. These effects are stronger for firms that are more reliant
-    on bank finance.'
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/ifdp/trade-uncertainty-and-us-bank-lending.htm
-  title: 'IFDP Paper: Trade Uncertainty and U.S. Bank Lending'
 - author: Marques Brownlee
   categories: &id003
   - Tech
