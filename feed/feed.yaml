@@ -48,7 +48,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/trade-uncertainty-and-us-bank-lending.htm
   title: 'IFDP Paper: Trade Uncertainty and U.S. Bank Lending'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2023-11-20T14:27:19+00:00'
@@ -56,6 +56,21 @@
   image: https://i2.ytimg.com/vi/YWTgoUqm3tY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=YWTgoUqm3tY
   title: Electric Scooter INSIDE a Briefcase!
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2023-11-20T00:00:00+00:00'
+  description: "OpenAI unexpectedly fired its CEO and co-founder Sam Altman on Friday.\
+    \ The move kicked off a series of twists and turns that left the company and its\
+    \ staff in upheaval. WSJ\u2019s Deepa Seetharaman wades through the chaos and\
+    \ explains what might be next for the company.  Further Listening: - A Conversation\
+    \ with OpenAI\u2019s Sam Altman and Mira Murati\_ - The Company Behind ChatGPT\_\
+    \  Further Reading:  - OpenAI Employees Threaten to Quit Unless Board Resigns\_\
+    \ - Sam Altman Is Out at OpenAI After Board Skirmish\_    Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5YqYt4UCXY4TkXO6YP3ZzZ
+  title: "OpenAI\u2019s Weekend of Absolute Chaos"
 - author: Apricitas Economics
   categories: &id006
   - Macro
@@ -118,8 +133,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/11/2023"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2023-11-17T00:00:00+00:00'
   description: "A Wall Street Journal investigation found that only 14% of emergency\
     \ departments nationwide have been certified to treat kids. WSJ\u2019s Melanie\
@@ -151,7 +165,7 @@
   path: https://open.spotify.com/episode/37xD4c2xIE0MTIDgGSC2pU
   title: Expiring vs. Permanent Skills
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2023-11-16T23:21:05+00:00'
   description: Green vs blue bubbles gets yet another chapter...
   image: https://i3.ytimg.com/vi/roheTIg6pmk/hqdefault.jpg
@@ -177,20 +191,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5cf6a1c0e30b84280c019741
   path: https://open.spotify.com/episode/0DKK5PzpiXcwqWtvZIWzb7
   title: "#71 | Prepare-se: o NOVO CICLO DO MERCADO BRASILEIRO vem a\xED"
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-16T00:00:00+00:00'
-  description: "Inflation has been a big problem in the U.S. economy over the past\
-    \ couple of years. The Federal Reserve has been trying to tamp it down without\
-    \ crashing the economy. WSJ\u2019s Amara Omeokwe explains why a so-called soft\
-    \ landing is coming into view.  Further Reading: - Cooling Inflation Likely Ends\
-    \ Fed Rate Hikes\_ - The Elusive Soft Landing Is Coming Into View\_ - The Global\
-    \ Fight Against Inflation Has Turned a Corner\_  Further Listening: - Why a Soft\
-    \ Landing for the Economy Could Be Hard\_ - Will the Fed Stop Raising Interest\
-    \ Rates?\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3w4YyLOJKp6XVhFnPugU3v
-  title: Inflation Is Down. Unemployment Is Low. Is This a Soft Landing?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
