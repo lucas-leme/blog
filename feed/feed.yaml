@@ -3,23 +3,77 @@
   - Papers
   - FED
   - BC
-  date: '2023-11-21T18:40:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/elliot-anenberg.htm">Elliot
-    Anenberg</a>, <a href="https://www.federalreserve.gov/econres/tess-c-scharlemann.htm">Tess
-    Scharlemann</a>, <a href="https://www.federalreserve.gov/econres/eileen-van-straelen.htm">Eileen
-    van Straelen</a><br /><br />We show that the strong negative effect of higher
-    mortgage rates on cash-out refinancing reflects substitution into other borrowing
-    products, not large changes in total new household borrowing. We exploit an exogenous
-    increase in long-term rates to show that, in the cross-section of outstanding
-    mortgage rates, changes in cash-out and alternative borrowing are offsetting.
-    Additionally, we instrument using monetary policy surprises to show that, over
-    the period from 2006-2021, changes in cash-out refinancing are offset by alternative
-    borrowing. Our results suggest that debt substitution substantially weakens the
-    cash-out refinance channel of monetary policy and reduces its path-dependence.
+  date: '2023-11-22T19:40:00+00:00'
+  description: Diego Comin, Robert Johnson, <a href="https://www.federalreserve.gov/econres/callum-j-jones.htm">Callum
+    Jones</a><br /><br />We develop a multisector, open economy, New Keynesian framework
+    to evaluate how potentially binding capacity constraints, and shocks to them,
+    shape inflation. We show that binding constraints for domestic and foreign producers
+    shift domestic and import price Phillips Curves up, similar to reduced-form markup
+    shocks. Further, data on prices and quantities together identify whether constraints
+    bind due to increased demand or reductions in capacity. Applying the model to
+    interpret recent US data, we find that binding constraints explain half of the
+    increase in inflation during 2021-2022. In particular, tight capacity served to
+    amplify the impact of loose monetary policy in 2021, fueling the inflation takeoff.
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/borrowing-and-spending-in-the-money.htm
-  title: 'FEDS Paper: Borrowing and Spending in the Money: Debt Substitution and the
-    Cash-out Refinance Channel of Monetary Policy'
+  path: https://www.federalreserve.gov/econres/feds/supply-chain-constraints-and-inflation.htm
+  title: 'FEDS Paper: Supply Chain Constraints and Inflation'
+- author: 'FRB: Working Papers'
+  categories: *id001
+  date: '2023-11-22T19:40:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/rehim-kilic.htm">Rehim
+    Kilic</a><br /><br />By using realized and survey-based expected exchange rate
+    data, the paper presents five key findings regarding the Uncovered Interest rate
+    Parity (UIP) and related puzzles in an Emerging Market (EM). First, Fama regressions,
+    when not accounting for shifts in the UIP relationship, yield slopes that are
+    statistically identical to one, irrespective of whether survey-based expected
+    exchange rates or realized exchange rates are used. Second, caution is necessary
+    however, as our analysis identifies three distinct sub-periods within each exchange
+    rate measure, each exhibiting varying levels of puzzling behavior. Third, under
+    realized exchange rates, expectation errors can introduce both downward and upward
+    biases or no bias at all, depending on the sub-period. On the other hand, currency
+    risk premiums consistently lead to a downward bias. Under expected exchange rates,
+    currency risk premiums continue to exert a downward bias at varying degrees across
+    sub-periods. Fourth, responses to interest rate differential shocks by expectation
+    errors are pivotal in inducing both downward and upward biases or removing biases
+    altogether when utilizing realized exchange rate data. Fifth, evidence concerning
+    overshooting and reversal puzzles, as well as their link to the UIP puzzle, varies
+    depending on the specific sub-period and the choice of exchange rate measurement,
+    making it more intricate than the previous literature has documented.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/uncovered-interest-rate-overshooting-and-predictability-reversal-puzzles-in-an-emerging-economy.htm
+  title: 'FEDS Paper: Uncovered interest rate, overshooting, and predictability reversal
+    puzzles in an emerging economy'
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2023-11-22T19:24:15+00:00'
+  description: 'This smartwatch is $69. But is it actually... nice?
+
+
+    Get Eight Sleep''s biggest discount of $400 off the Pod Cover with code MKBHD
+    at https://www.eightsleep.com/mkbhd/
+
+
+    That sweatshirt: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/cn5DsF9FXls/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=cn5DsF9FXls
+  title: This Smartwatch is $69!
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -65,7 +119,7 @@
   title: "Vale a pena investir em Vulcabras (VULC3)? (Fazendo valuation na pra\u0301\
     tica) | Mercado Aberto"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-21T00:00:00+00:00'
   description: "Cheap drones, once the domain of hobbyists, are now in high demand\
@@ -80,41 +134,15 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/5EyHEcTjxc9SZHhIQVFQFg
   title: Cheap Drones Are Transforming the Battlefield
-- author: 'FRB: Working Papers'
-  categories: *id001
-  date: '2023-11-20T21:10:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/sebastian-infante.htm">Sebastian
-    Infante</a>, <a href="https://www.federalreserve.gov/econres/kyungmin-kim.htm">Kyungmin
-    Kim</a>, <a href="https://www.federalreserve.gov/econres/anna-orlik.htm">Anna
-    Orlik</a>, <a href="https://www.federalreserve.gov/econres/andre-f-silva.htm">Andr&eacute;
-    F. Silva</a>, <a href="https://www.federalreserve.gov/econres/robert-j-tetlow.htm">Robert
-    J. Tetlow</a><br /><br />This paper reviews the literature examining how the introduction
-    of a retail CBDC would affect the banking sector and financial stability. A CBDC
-    has the potential to improve welfare by reducing financial frictions, countering
-    market power in deposit markets and enhancing the payment system. However, a CBDC
-    also entails noteworthy risks, including the possibility of bank disintermediation
-    and associated contraction in bank credit, as well as potential adverse effects
-    on financial stability. The recycling of the new CBDC liability through asset
-    purchases or lending by the central bank plays an important role in determining
-    the economic consequences of the introduction of a CBDC. A CBDC also raises important
-    questions regarding the footprint of central banks in the financial system. Ultimately,
-    the effects of a CBDC depend critically on its design features, of which remuneration
-    is the one discussed most often in the literature.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/retail-central-bank-digital-currencies-implications-for-banking-and-financial-stability.htm
-  title: 'FEDS Paper: Retail Central Bank Digital Currencies: Implications for Banking
-    and Financial Stability'
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2023-11-20T14:27:19+00:00'
   description: Honda Motocompacto
   image: https://i2.ytimg.com/vi/YWTgoUqm3tY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=YWTgoUqm3tY
   title: Electric Scooter INSIDE a Briefcase!
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-11-20T00:00:00+00:00'
   description: "OpenAI unexpectedly fired its CEO and co-founder Sam Altman on Friday.\
     \ The move kicked off a series of twists and turns that left the company and its\
@@ -207,13 +235,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/37xD4c2xIE0MTIDgGSC2pU
   title: Expiring vs. Permanent Skills
-- author: Marques Brownlee
-  categories: *id003
-  date: '2023-11-16T23:21:05+00:00'
-  description: Green vs blue bubbles gets yet another chapter...
-  image: https://i3.ytimg.com/vi/roheTIg6pmk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=roheTIg6pmk
-  title: iPhone Gets RCS! With a Catch...
 - author: Market Makers
   categories: *id004
   date: '2023-11-16T00:00:00+00:00'
