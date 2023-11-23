@@ -44,7 +44,7 @@
   title: 'FEDS Paper: Uncovered interest rate, overshooting, and predictability reversal
     puzzles in an emerging economy'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2023-11-22T19:24:15+00:00'
@@ -74,6 +74,23 @@
   image: https://i4.ytimg.com/vi/cn5DsF9FXls/hqdefault.jpg
   path: https://www.youtube.com/watch?v=cn5DsF9FXls
   title: This Smartwatch is $69!
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2023-11-22T00:00:00+00:00'
+  description: "Ocean Spray\u2019s farmers are responsible for 65% of the world\u2019\
+    s cranberries. It\u2019s not a publicly traded company. It\u2019s not a traditional\
+    \ private company, either. It\u2019s a cooperative founded nearly a century ago\
+    \ and owned by roughly 700 families. WSJ\u2019s Ben Cohen tells the story of how\
+    \ the cranberry got into the can, and how the company is planning for a future\
+    \ beyond your Thanksgiving table.\_  Further Reading: - These People Are Responsible\
+    \ for the Cranberry Sauce You Love to Hate\_  Further Listening: - Are Rotisserie\
+    \ Chickens 'Inflation-Proof'?\_ - The Twinkie: From Bankruptcy to Billions\_ \
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5Jf8fLIe3MuVHEJVRbpZy8
+  title: "Canned or Homemade? America\u2019s Biggest Cranberry Company Wins Either\
+    \ Way"
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -119,8 +136,7 @@
   title: "Vale a pena investir em Vulcabras (VULC3)? (Fazendo valuation na pra\u0301\
     tica) | Mercado Aberto"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2023-11-21T00:00:00+00:00'
   description: "Cheap drones, once the domain of hobbyists, are now in high demand\
     \ on battlefields. Following Hamas's attack on October 7, Israel has been flooding\
@@ -135,26 +151,12 @@
   path: https://open.spotify.com/episode/5EyHEcTjxc9SZHhIQVFQFg
   title: Cheap Drones Are Transforming the Battlefield
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2023-11-20T14:27:19+00:00'
   description: Honda Motocompacto
   image: https://i2.ytimg.com/vi/YWTgoUqm3tY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=YWTgoUqm3tY
   title: Electric Scooter INSIDE a Briefcase!
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-20T00:00:00+00:00'
-  description: "OpenAI unexpectedly fired its CEO and co-founder Sam Altman on Friday.\
-    \ The move kicked off a series of twists and turns that left the company and its\
-    \ staff in upheaval. WSJ\u2019s Deepa Seetharaman wades through the chaos and\
-    \ explains what might be next for the company.  Further Listening: - A Conversation\
-    \ with OpenAI\u2019s Sam Altman and Mira Murati\_ - The Company Behind ChatGPT\_\
-    \  Further Reading:  - OpenAI Employees Threaten to Quit Unless Board Resigns\_\
-    \ - Sam Altman Is Out at OpenAI After Board Skirmish\_    Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5YqYt4UCXY4TkXO6YP3ZzZ
-  title: "OpenAI\u2019s Weekend of Absolute Chaos"
 - author: Apricitas Economics
   categories: &id006
   - Macro
