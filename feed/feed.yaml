@@ -1,5 +1,38 @@
-- author: Market Makers
+- author: 'FRB: Working Papers'
   categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-11-29T16:00:00+00:00'
+  description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
+    M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
+    Siemer</a><br /><br />
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
+  title: 'FEDS Paper: Debt  Flexibility'
+- author: 'FRB: Working Papers'
+  categories: *id001
+  date: '2023-11-29T16:00:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/dario-caldara.htm">Dario
+    Caldara</a>, <a href="https://www.federalreserve.gov/econres/francesco-ferrante.htm">Francesco
+    Ferrante</a>, <a href="https://www.federalreserve.gov/econres/matteo-iacoviello.htm">Matteo
+    Iacoviello</a>, <a href="https://www.federalreserve.gov/econres/andrea-prestipino.htm">Andrea
+    Prestipino</a>, and <a href="https://www.federalreserve.gov/econres/albert-queralto.htm">Albert
+    Queralto</a><br /><br />We use historical data and a calibrated model of the world
+    economy to study how a synchronous monetary tightening can amplify cross-border
+    transmission of monetary policy. The empirical analysis shows that historical
+    episodes of synchronous tightening are associated with tighter financial conditions
+    and larger effects on economic activity than asynchronous ones. In the model,
+    a sufficiently large synchronous tightening can disrupt intermediation of credit
+    by global financial intermediaries causing large output losses and an increase
+    in sacrifice ratios, that is, output lost for a given reduction in inflation.
+    We use this framework to show that there are gains from coordination of international
+    monetary policy.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/ifdp/the-international-spillovers-of-synchronous-monetary-tightening.htm
+  title: 'IFDP Paper: The International Spillovers of Synchronous Monetary Tightening'
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2023-11-29T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #72: Tiago Cunha, gestor de a\xE7\xF5es da Ace Capital,\
@@ -17,8 +50,24 @@
   path: https://open.spotify.com/episode/6p75BZQBeZXCS6ZbKXWp9x
   title: 'EMBRAER (EMBR3): OS CARROS VOADORES PODEM GERAR MUITA RECEITA | Corte Ep.
     #72'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2023-11-29T00:00:00+00:00'
+  description: "OpenAI was founded in 2015 as an idealistic nonprofit. Its goal was\
+    \ to build artificial general intelligence or AGI \u2014 an AI that could do most\
+    \ jobs better than a human could.In the years that followed, OpenAI\u2019s pursuit\
+    \ of AGI led them to develop the viral chatbot ChatGPT. The company became one\
+    \ of the top AI labs in the world.But to get there, OpenAI\u2019s leaders would\
+    \ compromise nearly every one of their founding ideals. Over four episodes, we\
+    \ explore how a little-known startup built one of the world\u2019s most viral\
+    \ tech products \u2026 and nearly tore itself apart in the process. Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a57686ceb81efa794ba864868
+  path: https://open.spotify.com/episode/6f8EGvr2ihsRLaHlV8xFlC
+  title: 'Introducing - Artificial: The OpenAI Story'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2023-11-28T00:00:00+00:00'
   description: "\xC9 POSS\xCDVEL VIVER DE DIVIDENDOS?No Mercado Aberto de hoje, vamos\
     \ explorar um tema extremamente procurado por investidores que buscam independ\xEA\
@@ -41,8 +90,7 @@
   path: https://open.spotify.com/episode/3gjur3wz5D3trmaw0VZY4t
   title: "TUDO QUE VOC\xCA PRECISA SABER SOBRE DIVIDENDOS | Mercado Aberto"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id003
   date: '2023-11-28T00:00:00+00:00'
   description: "Shares of Est\xE9e Lauder, the beauty giant, have plunged about 50%\
     \ this year. And the members of the Lauder family are at odds about what to do.\
@@ -56,7 +104,7 @@
   path: https://open.spotify.com/episode/0IqGgnRlzvh1HiPAC9QUFc
   title: "The Family Drama Inside Est\xE9e Lauder"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-11-27T00:23:05+00:00'
@@ -66,24 +114,8 @@
   path: https://stayathomemacro.substack.com/p/most-americans-are-better-off-financially-1ee
   title: Most Americans are better off financially now than before the pandemic -
     Resend
-- author: The Journal.
-  categories: *id002
-  date: '2023-11-27T00:00:00+00:00'
-  description: "Changpeng Zhao built Binance into the world\u2019s largest cryptocurrency\
-    \ exchange, and became one of the faces of crypto in the process. Last week, he\
-    \ appeared in federal court and pleaded guilty to violating U.S. anti-money-laundering\
-    \ laws and agreed to step down as CEO. WSJ\u2019s Patricia Kowsmann explains what\
-    \ the deal means for Zhao, Binance, and the future of crypto itself.\_  Further\
-    \ Listening: - The Trial of Crypto\u2019s Golden Boy\_ - A Crypto Exchange Crackdown\_\
-    \ - The Rise of Binance - And The Effort to Reel It In\_  Further Reading: - Inside\
-    \ Binance\u2019s Guilty Plea and the Biggest Fine in Crypto History\_ - The World\u2019\
-    s Biggest Crypto Firm Is Melting Down\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7GWEMn1ONv8OVmQjaNl7VM
-  title: The Fall of (Another) Crypto King
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id003
+  categories: *id004
   date: '2023-11-26T22:05:56+00:00'
   description: Jobs, paychecks, spending, wealth, and financial security have made
     big gains, which offset the burden of higher inflation. That's true for most families.
@@ -170,51 +202,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a63ed539a163b51a04dafd9b9
   path: https://open.spotify.com/episode/28fRiByZVDjjE34jIsdv4S
   title: 'Money Talks: Play it again, Sam Altman'
-- author: 'FRB: Working Papers'
-  categories: &id004
-  - Papers
-  - FED
-  - BC
-  date: '2023-11-22T19:40:00+00:00'
-  description: Diego Comin, Robert Johnson, <a href="https://www.federalreserve.gov/econres/callum-j-jones.htm">Callum
-    Jones</a><br /><br />We develop a multisector, open economy, New Keynesian framework
-    to evaluate how potentially binding capacity constraints, and shocks to them,
-    shape inflation. We show that binding constraints for domestic and foreign producers
-    shift domestic and import price Phillips Curves up, similar to reduced-form markup
-    shocks. Further, data on prices and quantities together identify whether constraints
-    bind due to increased demand or reductions in capacity. Applying the model to
-    interpret recent US data, we find that binding constraints explain half of the
-    increase in inflation during 2021-2022. In particular, tight capacity served to
-    amplify the impact of loose monetary policy in 2021, fueling the inflation takeoff.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/supply-chain-constraints-and-inflation.htm
-  title: 'FEDS Paper: Supply Chain Constraints and Inflation'
-- author: 'FRB: Working Papers'
-  categories: *id004
-  date: '2023-11-22T19:40:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/rehim-kilic.htm">Rehim
-    Kilic</a><br /><br />By using realized and survey-based expected exchange rate
-    data, the paper presents five key findings regarding the Uncovered Interest rate
-    Parity (UIP) and related puzzles in an Emerging Market (EM). First, Fama regressions,
-    when not accounting for shifts in the UIP relationship, yield slopes that are
-    statistically identical to one, irrespective of whether survey-based expected
-    exchange rates or realized exchange rates are used. Second, caution is necessary
-    however, as our analysis identifies three distinct sub-periods within each exchange
-    rate measure, each exhibiting varying levels of puzzling behavior. Third, under
-    realized exchange rates, expectation errors can introduce both downward and upward
-    biases or no bias at all, depending on the sub-period. On the other hand, currency
-    risk premiums consistently lead to a downward bias. Under expected exchange rates,
-    currency risk premiums continue to exert a downward bias at varying degrees across
-    sub-periods. Fourth, responses to interest rate differential shocks by expectation
-    errors are pivotal in inducing both downward and upward biases or removing biases
-    altogether when utilizing realized exchange rate data. Fifth, evidence concerning
-    overshooting and reversal puzzles, as well as their link to the UIP puzzle, varies
-    depending on the specific sub-period and the choice of exchange rate measurement,
-    making it more intricate than the previous literature has documented.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/uncovered-interest-rate-overshooting-and-predictability-reversal-puzzles-in-an-emerging-economy.htm
-  title: 'FEDS Paper: Uncovered interest rate, overshooting, and predictability reversal
-    puzzles in an emerging economy'
 - author: Marques Brownlee
   categories: &id005
   - Tech
