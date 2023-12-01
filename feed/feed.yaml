@@ -1,5 +1,64 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-12-01T17:15:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/seung-kwak.htm">Seung
+    Kwak</a> and Charles Press<br /><br />In the context of leveraged buyouts (LBOs),
+    this paper empirically studies the relation between pre-buyout credit market conditions
+    and the post-buyout behavior of target companies, employing a supervisory dataset
+    to overcome limited data availability for post-buyout target financial information.
+    We propose an LBO-specific measure of (changes of) credit market conditions--the
+    short-term (6-month) change of credit spreads leading up to buyout close. Using
+    this proposed measure, we show that loosening pre-LBO credit market conditions,
+    which are related to higher buyout leverage consistent with the literature, are
+    associated with poor post-LBO (operating) performance of the target company. These
+    results support the narrative of agency costs of debt such as risk shifting and
+    debt overhang but are inconsistent with theories of disciplinary effects of debt.
+    We provide further evidence supportive of the theories of agency costs of debt
+    and some results favorable to the risk shifting story.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
+  title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-12-01T16:00:06+00:00'
+  description: "In this video, I'll dive into the State Design Pattern in Python,\
+    \ a game-changer for managing state changes in object-oriented programming.\n\n\
+    \U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
+    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \nGitHub repository: https://git.arjan.codes/2023/state\n\n\u270D\U0001F3FB Take\
+    \ a quiz on this topic: https://www.learntail.com/quiz/ixlvnt\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:09 What is the State Design Pattern?\n1:25 Basic Example\n3:54 Example 2: Document\
+    \ editing\n8:55 Example 3: Game states\n17:24 When to use the State pattern?\n\
+    18:34 Final thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The\
+    \ links in this description might be affiliate links. If you purchase a product\
+    \ or service through one of those links, I may receive a small commission. There\
+    \ is no additional charge to you. Thanks for supporting my channel so I can continue\
+    \ to provide you with free content each week!"
+  image: https://i2.ytimg.com/vi/5OzLrbk82zY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=5OzLrbk82zY
+  title: Deep Dive Into the State Design Pattern in Python
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2023-12-01T11:00:32+00:00'
@@ -20,7 +79,7 @@
   path: https://www.youtube.com/watch?v=XxOh12Uhg08
   title: 'Driving Tesla Cybertruck: Everything You Need to Know!'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-11-30T23:43:29+00:00'
@@ -31,7 +90,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-or-stagnating
   title: The U.S. Economy Is Booming. Or Stagnating? The Mystery of the Missing Interest.
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-11-30T23:24:16+00:00'
@@ -106,10 +165,7 @@
   path: https://open.spotify.com/episode/3haaHxHCgnGFkJx23X9uuW
   title: 'Money Talks: Out of (export) control'
 - author: 'FRB: Working Papers'
-  categories: &id001
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -117,27 +173,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
   title: 'FEDS Paper: Debt  Flexibility'
-- author: 'FRB: Working Papers'
-  categories: *id001
-  date: '2023-11-29T16:00:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/dario-caldara.htm">Dario
-    Caldara</a>, <a href="https://www.federalreserve.gov/econres/francesco-ferrante.htm">Francesco
-    Ferrante</a>, <a href="https://www.federalreserve.gov/econres/matteo-iacoviello.htm">Matteo
-    Iacoviello</a>, <a href="https://www.federalreserve.gov/econres/andrea-prestipino.htm">Andrea
-    Prestipino</a>, and <a href="https://www.federalreserve.gov/econres/albert-queralto.htm">Albert
-    Queralto</a><br /><br />We use historical data and a calibrated model of the world
-    economy to study how a synchronous monetary tightening can amplify cross-border
-    transmission of monetary policy. The empirical analysis shows that historical
-    episodes of synchronous tightening are associated with tighter financial conditions
-    and larger effects on economic activity than asynchronous ones. In the model,
-    a sufficiently large synchronous tightening can disrupt intermediation of credit
-    by global financial intermediaries causing large output losses and an increase
-    in sacrifice ratios, that is, output lost for a given reduction in inflation.
-    We use this framework to show that there are gains from coordination of international
-    monetary policy.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/ifdp/the-international-spillovers-of-synchronous-monetary-tightening.htm
-  title: 'IFDP Paper: The International Spillovers of Synchronous Monetary Tightening'
 - author: Market Makers
   categories: *id002
   date: '2023-11-29T00:00:00+00:00'
@@ -191,10 +226,7 @@
   path: https://stayathomemacro.substack.com/p/most-americans-are-better-off-financially
   title: Most Americans are better off financially now than before the pandemic
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2023-11-24T16:00:30+00:00'
   description: "In this video, I'll cover 5 ways first principles thinking has helped\
     \ me become a better software developer. These fundamental principles are game-changers,\
@@ -228,7 +260,7 @@
   path: https://www.youtube.com/watch?v=THE1ktA3G6s
   title: 5 Ways First Principles Thinking Helps You Code Better
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id006
   date: '2023-11-24T13:30:32+00:00'
   description: The Years-Long Semiconductor Shortage That Hampered Global Car Production
     is Over. What Now?
@@ -250,7 +282,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/24112023
   title: "BC - Focus - Relat\xF3rio de Mercado - 24/11/2023"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2023-11-22T19:24:15+00:00'
   description: 'This smartwatch is $69. But is it actually... nice?
 
@@ -279,7 +311,7 @@
   path: https://www.youtube.com/watch?v=cn5DsF9FXls
   title: This Smartwatch is $69!
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2023-11-21T02:21:22+00:00'
   description: 'How to offset the impact of China''s internal imbalances on employment,
     industrial capacity, and financial stability. Plus: how to maintain mutual interdependence
@@ -287,40 +319,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Febef3ecf-cec9-468f-8598-f619ba9dee9c_5000x2629.png
   path: https://theovershoot.co/p/managing-economic-and-financial-entanglements
   title: Managing Economic and Financial Entanglements With China
-- author: ArjanCodes
-  categories: *id008
-  date: '2023-11-17T16:00:39+00:00'
-  description: "Check out Hostinger \u27A1\uFE0F https://www.hostinger.com/arjancodes\
-    \ \n\u2705 Hostinger code for 10% off: ARJANCODES \n\nIn this video, I\u2019m\
-    \ going to explore how generic types in Python 3.12 work, and what the advantage\
-    \ is over just using the Any types.\n\nGitHub repo: https://git.arjan.codes/2023/generic\n\
-    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
-    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/jqonfv\n\
-    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
-    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:22 Generic Types\n5:41 The Any Type\n7:57 Old vs new generic type syntax\n12:16\
-    \ Upper bounds\n16:02 Advantages of Using Generic Types over Any\n17:58 Outro\n\
-    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
-    \ might be affiliate links. If you purchase a product or service through one of\
-    \ those links, I may receive a small commission. There is no additional charge\
-    \ to you. Thanks for supporting my channel so I can continue to provide you with\
-    \ free content each week!"
-  image: https://i2.ytimg.com/vi/q6ujWWaRdbA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=q6ujWWaRdbA
-  title: Python 3.12 Generic Types Explained
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
