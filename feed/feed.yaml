@@ -1,5 +1,5 @@
 - author: 'FRB: Working Papers'
-  categories: &id001
+  categories: &id002
   - Papers
   - FED
   - BC
@@ -78,6 +78,22 @@
   image: https://i1.ytimg.com/vi/XxOh12Uhg08/hqdefault.jpg
   path: https://www.youtube.com/watch?v=XxOh12Uhg08
   title: 'Driving Tesla Cybertruck: Everything You Need to Know!'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-12-01T00:00:00+00:00'
+  description: "Billionaire investor Charlie Munger died Tuesday, just weeks short\
+    \ of his 100th birthday. Munger was vice-chairman of Berkshire Hathaway, and he\
+    \ was best known for his close partnership with CEO Warren Buffett. As WSJ\u2019\
+    s Jason Zweig explains, Munger often played Buffett\u2019s sidekick, but his investing\
+    \ expertise made him a celebrity in his own right.  Further Reading: - Charlie\
+    \ Munger\u2019s Life Was About Way More Than Money\_ - The Secrets to Charlie\
+    \ Munger\u2019s Success\_ - Charlie Munger, Warren Buffett\u2019s Partner and\
+    \ \u2018Abominable No-Man,\u2019 Dies at 99\_  Journal Swag: - \u2018The Journal\u2019\
+    \ Merch shop\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3wt3gYOzHTO6VDV640wM3a
+  title: 'Charlie Munger: Curmudgeon, Sage and Investing Legend'
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -100,7 +116,7 @@
   path: https://www.apricitas.io/p/the-most-important-inflation-indicator
   title: The Most Important Inflation Indicator Shows More Cooling Ahead
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-11-30T00:00:00+00:00'
   description: "CUIDE DA SUA PELE E BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15):\
@@ -131,8 +147,7 @@
   path: https://open.spotify.com/episode/5FSI7g6VgcEeEDoqpytrnl
   title: '#73 | MICHEL TEMER: O MOMENTO E O FUTURO DO BRASIL'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2023-11-30T00:00:00+00:00'
   description: "Dubai, a city known for private jets, giant yachts and other symbols\
     \ of carbon-heavy living, is an awkward location for a conference on climate change.\
@@ -165,7 +180,7 @@
   path: https://open.spotify.com/episode/3haaHxHCgnGFkJx23X9uuW
   title: 'Money Talks: Out of (export) control'
 - author: 'FRB: Working Papers'
-  categories: *id001
+  categories: *id002
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -174,7 +189,7 @@
   path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
   title: 'FEDS Paper: Debt  Flexibility'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2023-11-29T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #72: Tiago Cunha, gestor de a\xE7\xF5es da Ace Capital,\
     \ explica como os carros voadores podem gerar muita receita para a Embraer (EMBR3)\
@@ -191,20 +206,6 @@
   path: https://open.spotify.com/episode/6p75BZQBeZXCS6ZbKXWp9x
   title: 'EMBRAER (EMBR3): OS CARROS VOADORES PODEM GERAR MUITA RECEITA | Corte Ep.
     #72'
-- author: The Journal.
-  categories: *id003
-  date: '2023-11-29T00:00:00+00:00'
-  description: "A Journal investigation reveals a years-long culture of sexual harassment\
-    \ and intimidation at the Federal Deposit Insurance Corporation, a government\
-    \ agency that regulates banks. WSJ's Rebecca Ballhaus on the allegations and how\
-    \ some of the problems went all the way to the top.  Further Reading: - Strip\
-    \ Clubs, Lewd Photos and a Boozy Hotel: The Toxic Atmosphere at Bank Regulator\
-    \ FDIC\_ - FDIC Chair, Known for Temper, Ignored Bad Behavior in Workplace\_ \
-    \ Further Listening: - Can the Government Contain a Banking Crisis?\_   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4ox09HaiIGrc1t3hAfb6nZ
-  title: "Lewd Photos, Booze and Bullying: Inside the FDIC\u2019s Toxic Culture"
 - author: Stay-At-Home Macro (SAHM)
   categories: &id004
   - Macro
