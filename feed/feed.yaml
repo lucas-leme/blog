@@ -1,5 +1,14 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2023-12-04T20:40:21+00:00'
+  description: The Cybertruck will have to deal with this eventually
+  image: https://i4.ytimg.com/vi/cpUH4FIamYg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=cpUH4FIamYg
+  title: Cybertruck vs EUROPE
 - author: Apricitas Economics
-  categories: &id002
+  categories: &id003
   - Macro
   - Newsletters
   date: '2023-12-04T12:48:01+00:00'
@@ -10,7 +19,7 @@
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-12-03T21:21:06+00:00'
@@ -26,7 +35,7 @@
   path: https://stayathomemacro.substack.com/p/i-was-right
   title: I was right.
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-12-03T00:00:00+00:00'
   description: "In 2015, a group of Silicon Valley heavy-hitters met for a dinner\
@@ -43,7 +52,7 @@
   path: https://open.spotify.com/episode/4utZkfLVKLHRNLqjpqLtUo
   title: 'Artificial: Episode 1, The Dream'
 - author: 'FRB: Working Papers'
-  categories: &id003
+  categories: &id004
   - Papers
   - FED
   - BC
@@ -66,7 +75,7 @@
   path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
   title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -102,9 +111,7 @@
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
   title: Deep Dive Into the State Design Pattern in Python
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2023-12-01T11:00:32+00:00'
   description: "Behind the wheel and every detail and spec of the new \"Beast Mode\"\
     \ Cybertruck from Tesla!\n\nGet Ridge's Carry-On and more at https://ridge.com/MKBHD\
@@ -137,7 +144,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/01122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/12/2023"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2023-12-01T00:00:00+00:00'
   description: "Billionaire investor Charlie Munger died Tuesday, just weeks short\
     \ of his 100th birthday. Munger was vice-chairman of Berkshire Hathaway, and he\
@@ -163,7 +170,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-or-stagnating
   title: The U.S. Economy Is Booming. Or Stagnating? The Mystery of the Missing Interest.
 - author: Apricitas Economics
-  categories: *id002
+  categories: *id003
   date: '2023-11-30T23:24:16+00:00'
   description: Rent Growth in New Leases Continues to Normalize, Signaling Further
     Upcoming Decelerations in Official Housing Inflation Data
@@ -171,7 +178,7 @@
   path: https://www.apricitas.io/p/the-most-important-inflation-indicator
   title: The Most Important Inflation Indicator Shows More Cooling Ahead
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2023-11-30T00:00:00+00:00'
   description: "CUIDE DA SUA PELE E BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15):\
@@ -221,7 +228,7 @@
   path: https://open.spotify.com/episode/3haaHxHCgnGFkJx23X9uuW
   title: 'Money Talks: Out of (export) control'
 - author: 'FRB: Working Papers'
-  categories: *id003
+  categories: *id004
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -230,7 +237,7 @@
   path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
   title: 'FEDS Paper: Debt  Flexibility'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2023-11-29T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #72: Tiago Cunha, gestor de a\xE7\xF5es da Ace Capital,\
     \ explica como os carros voadores podem gerar muita receita para a Embraer (EMBR3)\
@@ -248,7 +255,7 @@
   title: 'EMBRAER (EMBR3): OS CARROS VOADORES PODEM GERAR MUITA RECEITA | Corte Ep.
     #72'
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id005
+  categories: *id006
   date: '2023-11-27T00:23:05+00:00'
   description: Apologies for the resend. I caught a few problems with links and a
     chart in the jobs section. Click below for the updated version.
@@ -257,7 +264,7 @@
   title: Most Americans are better off financially now than before the pandemic -
     Resend
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2023-11-24T16:00:30+00:00'
   description: "In this video, I'll cover 5 ways first principles thinking has helped\
     \ me become a better software developer. These fundamental principles are game-changers,\
@@ -290,35 +297,6 @@
   image: https://i1.ytimg.com/vi/THE1ktA3G6s/hqdefault.jpg
   path: https://www.youtube.com/watch?v=THE1ktA3G6s
   title: 5 Ways First Principles Thinking Helps You Code Better
-- author: Marques Brownlee
-  categories: *id007
-  date: '2023-11-22T19:24:15+00:00'
-  description: 'This smartwatch is $69. But is it actually... nice?
-
-
-    Get Eight Sleep''s biggest discount of $400 off the Pod Cover with code MKBHD
-    at https://www.eightsleep.com/mkbhd/
-
-
-    That sweatshirt: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/cn5DsF9FXls/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=cn5DsF9FXls
-  title: This Smartwatch is $69!
 - author: The Overshoot
   categories: *id008
   date: '2023-11-21T02:21:22+00:00'
