@@ -1,5 +1,16 @@
+- author: Apricitas Economics
+  categories: &id002
+  - Macro
+  - Newsletters
+  date: '2023-12-04T12:48:01+00:00'
+  description: Restarting Student Loan Payments Has Led to Higher Delinquencies and
+    Lower Consumer Spending&#8212;Though Impacts Have Been Heavily Mitigated by Debt
+    Relief
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a4139-5ca9-4e70-96d0-f3cca6de0531_2886x1843.png
+  path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
+  title: The Economic Fallout of Student Loan Forbearance Ending
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-03T21:21:06+00:00'
@@ -32,7 +43,7 @@
   path: https://open.spotify.com/episode/4utZkfLVKLHRNLqjpqLtUo
   title: 'Artificial: Episode 1, The Dream'
 - author: 'FRB: Working Papers'
-  categories: &id002
+  categories: &id003
   - Papers
   - FED
   - BC
@@ -55,7 +66,7 @@
   path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
   title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -152,9 +163,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-or-stagnating
   title: The U.S. Economy Is Booming. Or Stagnating? The Mystery of the Missing Interest.
 - author: Apricitas Economics
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id002
   date: '2023-11-30T23:24:16+00:00'
   description: Rent Growth in New Leases Continues to Normalize, Signaling Further
     Upcoming Decelerations in Official Housing Inflation Data
@@ -162,7 +171,7 @@
   path: https://www.apricitas.io/p/the-most-important-inflation-indicator
   title: The Most Important Inflation Indicator Shows More Cooling Ahead
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2023-11-30T00:00:00+00:00'
   description: "CUIDE DA SUA PELE E BARBA COM A Dr. JONES (15% OFF COM O CUPOM MMAKERS15):\
@@ -212,7 +221,7 @@
   path: https://open.spotify.com/episode/3haaHxHCgnGFkJx23X9uuW
   title: 'Money Talks: Out of (export) control'
 - author: 'FRB: Working Papers'
-  categories: *id002
+  categories: *id003
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -221,7 +230,7 @@
   path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
   title: 'FEDS Paper: Debt  Flexibility'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2023-11-29T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #72: Tiago Cunha, gestor de a\xE7\xF5es da Ace Capital,\
     \ explica como os carros voadores podem gerar muita receita para a Embraer (EMBR3)\
@@ -239,7 +248,7 @@
   title: 'EMBRAER (EMBR3): OS CARROS VOADORES PODEM GERAR MUITA RECEITA | Corte Ep.
     #72'
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id004
+  categories: *id005
   date: '2023-11-27T00:23:05+00:00'
   description: Apologies for the resend. I caught a few problems with links and a
     chart in the jobs section. Click below for the updated version.
@@ -248,7 +257,7 @@
   title: Most Americans are better off financially now than before the pandemic -
     Resend
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-11-24T16:00:30+00:00'
   description: "In this video, I'll cover 5 ways first principles thinking has helped\
     \ me become a better software developer. These fundamental principles are game-changers,\
@@ -281,14 +290,6 @@
   image: https://i1.ytimg.com/vi/THE1ktA3G6s/hqdefault.jpg
   path: https://www.youtube.com/watch?v=THE1ktA3G6s
   title: 5 Ways First Principles Thinking Helps You Code Better
-- author: Apricitas Economics
-  categories: *id006
-  date: '2023-11-24T13:30:32+00:00'
-  description: The Years-Long Semiconductor Shortage That Hampered Global Car Production
-    is Over. What Now?
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe78d4872-b985-47b4-a5ed-462a88843dcb_2886x1843.png
-  path: https://www.apricitas.io/p/car-markets-at-the-end-of-the-chip
-  title: Car Markets at the End of the Chip Shortage
 - author: Marques Brownlee
   categories: *id007
   date: '2023-11-22T19:24:15+00:00'
