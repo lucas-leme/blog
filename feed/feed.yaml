@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2023-12-04T20:40:21+00:00'
@@ -18,6 +18,43 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a4139-5ca9-4e70-96d0-f3cca6de0531_2886x1843.png
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-12-04T00:00:00+00:00'
+  description: "For months, state and federal law-enforcement officials have been\
+    \ investigating a Medicaid scam in which hundreds of fraudulent sober-living homes\
+    \ in the Phoenix area have recruited Native Americans from across the West. Raquel\
+    \ Moody shares her experience in what she believes were fraudulent sober homes,\
+    \ and WSJ's Dan Frosch unpacks how the scam worked.  Further Reading: - Fraudulent\
+    \ Sober Homes Exploited Native Americans, Say Authorities\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4Tfmcw9PnWopBRPDWBD1SK
+  title: She Tried to Get Sober. She Got Scammed Instead.
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2023-12-04T00:00:00+00:00'
+  description: "In this episode I speak with Charles McGarraugh, Chief Investment\
+    \ Officer of Altis Partners.Charlie finds himself at the helm of Altis from a\
+    \ non-traditional route.  His career began at Goldman, where his experience spanned\
+    \ everything from asset backed securities to liquid commodities.  He then started\
+    \ a firm specializing in machine-learning driven sports betting before moving\
+    \ into cryptocurrency markets.  Today, Charlie is betting that alternative strategies\
+    \ will play an increasingly important role for investors over the coming decade.\
+    \  We spend the majority of our conversation talking about Altis\u2019s investment\
+    \ stack, which is comprised of two components: an upstream signal layer and a\
+    \ downstream strategy layer.  The signal layer is responsible for ingesting data\
+    \ and constructing a prediction curve for different futures markets.  The strategy\
+    \ layer ingests these prediction curves and constructs a portfolio.  Charlie discusses\
+    \ the types of signals Altis relies on, how they turn prediction curves into trade\
+    \ signals, and where risk management fits into the equation.I hope you enjoy my\
+    \ conversation with Charles McGarraugh."
+  image: https://i.scdn.co/image/ab6765630000ba8ae0b6d22d3019f56a0fbe019c
+  path: https://open.spotify.com/episode/4YfnLW8Bp2256GeyEohE1a
+  title: Charles McGarraugh - "Change in the Market is Accelerating" (S7E1)
 - author: Stay-At-Home Macro (SAHM)
   categories: &id006
   - Macro
@@ -35,8 +72,7 @@
   path: https://stayathomemacro.substack.com/p/i-was-right
   title: I was right.
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2023-12-03T00:00:00+00:00'
   description: "In 2015, a group of Silicon Valley heavy-hitters met for a dinner\
     \ that would change tech history. They believed that the time had come to build\
@@ -111,7 +147,7 @@
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
   title: Deep Dive Into the State Design Pattern in Python
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2023-12-01T11:00:32+00:00'
   description: "Behind the wheel and every detail and spec of the new \"Beast Mode\"\
     \ Cybertruck from Tesla!\n\nGet Ridge's Carry-On and more at https://ridge.com/MKBHD\
@@ -143,21 +179,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/01122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/12/2023"
-- author: The Journal.
-  categories: *id002
-  date: '2023-12-01T00:00:00+00:00'
-  description: "Billionaire investor Charlie Munger died Tuesday, just weeks short\
-    \ of his 100th birthday. Munger was vice-chairman of Berkshire Hathaway, and he\
-    \ was best known for his close partnership with CEO Warren Buffett. As WSJ\u2019\
-    s Jason Zweig explains, Munger often played Buffett\u2019s sidekick, but his investing\
-    \ expertise made him a celebrity in his own right.  Further Reading: - Charlie\
-    \ Munger\u2019s Life Was About Way More Than Money\_ - The Secrets to Charlie\
-    \ Munger\u2019s Success\_ - Charlie Munger, Warren Buffett\u2019s Partner and\
-    \ \u2018Abominable No-Man,\u2019 Dies at 99\_  Journal Swag: - \u2018The Journal\u2019\
-    \ Merch shop\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3wt3gYOzHTO6VDV640wM3a
-  title: 'Charlie Munger: Curmudgeon, Sage and Investing Legend'
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -819,27 +840,6 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202309
   title: 'BC - RI: setembro/2023'
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2023-09-25T00:00:00+00:00'
-  description: "In this special episode of Flirting with Models, I\u2019m joined by\
-    \ two guests: Andrew Beer of DBi and Adam Butler of ReSolve Asset Management.Rather\
-    \ than my usual interview format, I wanted to foster a conversation about the\
-    \ replication of managed futures strategies.  Specifically, I wanted to bring\
-    \ on two practitioners who both share the same high level beliefs \u2013\_namely\
-    \ that more investors should allocate to managed futures, that managed futures\
-    \ are well suited for replication, and that replication can help dramatically\
-    \ reduce fees \u2013\_but differ on the implementation details.And it is in that\
-    \ disagreement that I hoped to highlight the different pros and cons as well as\
-    \ any embedded assumption in any of these replication approaches.We discuss return-based\
-    \ replication, process-based replication, determining the number of markets to\
-    \ trade, expectations for tracking error, and more.I hope you enjoy this episode\
-    \ with Andrew Beer and Adam Butler."
-  image: https://i.scdn.co/image/ab6765630000ba8a69f8ee028cbc2adaa2559164
-  path: https://open.spotify.com/episode/4H7EIaiKDtzpvK9QLjqHlP
-  title: Andrew Beer & Adam Butler - Attack of the Managed Futures Clones
 - author: Outliers
   categories: &id010
   - Podcasts
