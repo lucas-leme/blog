@@ -7,15 +7,16 @@
     \xE3o atual da reforma tribut\xE1ria.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-Spotify:\
     \ https://open.spotify.com/episode/5FSI7g6VgcEeEDoqpytrnl?si=ww2H1IPERtqh3bX7-h-EfQ-Apple\
     \ Podcast: https://podcasts.apple.com/br/podcast/73-michel-temer-o-momento-e-o-futuro-do-brasil/id1632972179?i=1000637112835\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/Bv1Lj7BiNP4 - - - -\
+    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/Bv1Lj7BiNP4- - - -\
     \ - - - -Corte: O fiscal brasileiro tem solu\xE7\xE3o? | Market Makers #73 Epis\xF3\
-    dio: MICHEL TEMER: O MOMENTO E O FUTURO DO BRASIL  | Market Makers #73Convidado:\
+    dio: MICHEL TEMER: O MOMENTO E O FUTURO DO BRASIL | Market Makers #73Convidado:\
     \ Michel Temer Apresentador: Thiago Salom\xE3o (CEO e Fundador do Market Makers)Convidados\
     \ especiais: Felipe Miranda (CIO e Fundador da Empiricus) e Rafael Favetti (Fundador\
     \ e analista pol\xEDtico da Fatto)Edi\xE7\xE3o: Bianca Barsotti"
   image: https://i.scdn.co/image/ab6765630000ba8aff0f5e93b368a458f42a66d0
   path: https://open.spotify.com/episode/6MtNDagKKR5TnL3pq4Nuzn
-  title: "O fiscal brasileiro tem solu\xE7\xE3o? | Corte Ep. #73"
+  title: "Michel Temer responde: o fiscal brasileiro tem solu\xE7\xE3o? | Corte Ep.\
+    \ #73"
 - author: Market Makers
   categories: *id001
   date: '2023-12-05T00:00:00+00:00'
@@ -65,6 +66,19 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/6pg6QK6VQjUtJRz2TVR0qI
   title: Where to Find Opportunities in a Shifting Economic Landscape?
+- author: AQR
+  categories: &id009
+  - Quant
+  - Papers
+  date: '2023-12-05T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        December\
+    \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <a class=\"cta cta--dark \">Jordan Brooks</a>\n</span>\n    \
+    \                </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
+    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
+  title: Driving with the Rear-View Mirror
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -704,9 +718,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
 - author: AQR
-  categories: &id009
-  - Quant
-  - Papers
+  categories: *id009
   date: '2023-11-03T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        November\
     \ 3, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -802,16 +814,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18012
   title: "BC - Copom Comunicado - 258\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 12,25% a.a."
-- author: AQR
-  categories: *id009
-  date: '2023-10-27T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        October\
-    \ 27, 2023<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Looking-Under-the-Hood-of-Long-Short-Tax-Aware-Strategies
-  title: Looking Under the Hood of Long/Short Tax-Aware Strategies
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
