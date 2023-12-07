@@ -1,3 +1,14 @@
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id003
+  - Macro
+  - Newsletters
+  date: '2023-12-07T19:55:56+00:00'
+  description: Tomorrow is Job's Day, and we will learn what the unemployment rate
+    was in November. So, it'll also be time to update the Sahm rule, my recession
+    indicator.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed74889-cd27-4509-8fa1-d1a30e9a742e_744x500.png
+  path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step
+  title: 'The Sahm rule: step by step'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -113,7 +124,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2023-12-04T20:40:21+00:00'
@@ -122,7 +133,7 @@
   path: https://www.youtube.com/watch?v=cpUH4FIamYg
   title: Cybertruck vs EUROPE
 - author: Apricitas Economics
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-04T12:48:01+00:00'
@@ -156,9 +167,7 @@
   path: https://open.spotify.com/episode/4YfnLW8Bp2256GeyEohE1a
   title: Charles McGarraugh - "Change in the Market is Accelerating" (S7E1)
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id003
   date: '2023-12-03T21:21:06+00:00'
   description: 'This weekend, Joe Weisenthal asked the following question: A year
     ago, there was a lot of debate about whether Biden&#8217;s checks at the start
@@ -172,7 +181,7 @@
   path: https://stayathomemacro.substack.com/p/i-was-right
   title: I was right.
 - author: 'FRB: Working Papers'
-  categories: &id005
+  categories: &id006
   - Papers
   - FED
   - BC
@@ -231,7 +240,7 @@
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
   title: The State Design Pattern in Python Explained
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2023-12-01T11:00:32+00:00'
   description: "Behind the wheel and every detail and spec of the new \"Beast Mode\"\
     \ Cybertruck from Tesla!\n\nGet Ridge's Carry-On and more at https://ridge.com/MKBHD\
@@ -275,7 +284,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-or-stagnating
   title: The U.S. Economy Is Booming. Or Stagnating? The Mystery of the Missing Interest.
 - author: Apricitas Economics
-  categories: *id004
+  categories: *id005
   date: '2023-11-30T23:24:16+00:00'
   description: Rent Growth in New Leases Continues to Normalize, Signaling Further
     Upcoming Decelerations in Official Housing Inflation Data
@@ -283,7 +292,7 @@
   path: https://www.apricitas.io/p/the-most-important-inflation-indicator
   title: The Most Important Inflation Indicator Shows More Cooling Ahead
 - author: 'FRB: Working Papers'
-  categories: *id005
+  categories: *id006
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -291,15 +300,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
   title: 'FEDS Paper: Debt  Flexibility'
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id006
-  date: '2023-11-27T00:23:05+00:00'
-  description: Apologies for the resend. I caught a few problems with links and a
-    chart in the jobs section. Click below for the updated version.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa48e1c9-c519-4d8d-8231-79735b36903c_2160x1387.png
-  path: https://stayathomemacro.substack.com/p/most-americans-are-better-off-financially-1ee
-  title: Most Americans are better off financially now than before the pandemic -
-    Resend
 - author: ArjanCodes
   categories: *id007
   date: '2023-11-24T16:00:30+00:00'
