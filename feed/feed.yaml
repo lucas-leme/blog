@@ -1,3 +1,36 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2023-12-07T22:31:39+00:00'
+  description: 'The ultimate anti-reflective matte display... has a catch
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    TCL 40 NXTPAPER: https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by TCL for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/Ng5sHevRX3w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Ng5sHevRX3w
+  title: Why Don't More Smartphones Have This?
 - author: Stay-At-Home Macro (SAHM)
   categories: &id001
   - Macro
@@ -17,6 +50,44 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed74889-cd27-4509-8fa1-d1a30e9a742e_744x500.png
   path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step
   title: 'The Sahm rule: step by step'
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2023-12-07T00:00:00+00:00'
+  description: "TRIAL 4 vs 6 (TESTE E COMPARE):https://drjones.com.br/products/the-razor-trial-4vs6Um\
+    \ Brasil, duas vis\xF5es: juntamos uma economista com atua\xE7\xE3o dentro do\
+    \ mercado com um economista de abordagem mais acad\xEAmica para entender o momento\
+    \ atual da economia brasileira e as oportunidades (ou riscos) no futuro pr\xF3\
+    ximo.O saldo foi um embate intelectual acalorado (por\xE9m muito educado) que\
+    \ nos rendeu \xF3timos aprendizados para este final de ano. A pergunta no final\
+    \ do epis\xF3dio explicita bem esse debate: o Brasil melhorou ou piorou em 2023?\
+    \ Um convidado respondeu \u201Csim\u201D, outro respondeu \u201Cn\xE3o\u201D.O\
+    \ epis\xF3dio evidenciou uma li\xE7\xE3o important\xEDssima que buscamos normalizar\
+    \ no Market Makers: ouvir e debater com quem tem uma opini\xE3o diferente da sua.Apresenta\xE7\
+    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
+    \ Marcos Mendes, doutor em economia e pesquisador do Insper, e Marcela Rocha,\
+    \ economista-chefe da Principal ClaritasEdi\xE7\xE3o: Bianca BarsottiAnuncie no\
+    \ Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/ #ECONOMIABRASILEIRA"
+  image: https://i.scdn.co/image/ab6765630000ba8a48d31e54b0876b1d6925c733
+  path: https://open.spotify.com/episode/1H6qDljhlbv8FiRzkw9kX3
+  title: '#74 | O FUTURO DA ECONOMIA BRASILEIRA'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2023-12-07T00:00:00+00:00'
+  description: "Meta has spent months trying to fix child-safety problems on Instagram\
+    \ and Facebook. But as WSJ's Jeff Horwitz explains, the social media giant is\
+    \ still struggling to prevent its own systems from enabling and promoting a vast\
+    \ network of pedophile accounts.  Further Reading: - Meta Is Struggling to Boot\
+    \ Pedophiles Off Facebook and Instagram\_ - Instagram\u2019s Algorithm Delivers\
+    \ Toxic Video Mix to Adults Who Follow Children\_ - Instagram Connects Vast Pedophile\
+    \ Network\_  Further Listening: - He Thought Instagram Was Safe. Then His Daughter\
+    \ Got an Account.\_ - The Facebook Files, Part 1: The Whitelist\_ - The Facebook\
+    \ Files, Part 2: 'We Make Body Image Issues Worse'\_   Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2fp8VNfaJeNDbNzhwcLFGF
+  title: Meta Is Struggling to Boot Pedophiles Off Facebook and Instagram
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -37,8 +108,7 @@
   path: https://open.spotify.com/episode/49cU3mujw754ZghaOajeT1
   title: 'Money Talks: Where does Hamas get its money?'
 - author: Market Makers
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2023-12-06T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #73: Michel Temer, ex-presidente do Brasil, responde\
     \ se existe uma solu\xE7\xE3o para a quest\xE3o fiscal no Brasil e qual a situa\xE7\
@@ -56,8 +126,7 @@
   title: "Michel Temer responde: o fiscal brasileiro tem solu\xE7\xE3o? | Corte Ep.\
     \ #73"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2023-12-06T00:00:00+00:00'
   description: "Apple has filed for divorce from its partnership with Goldman Sachs..\
     \ It also marks a swift about-face for a partnership that, just last year, was\
@@ -70,41 +139,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/2MFgM6VZpXKAC5g8CamkGb
   title: Why Goldman Sachs and Apple Weren't Happily Ever After
-- author: Market Makers
-  categories: *id002
-  date: '2023-12-05T00:00:00+00:00'
-  description: "Voc\xEA provavelmente NUNCA ouviu falar desse Banco e isso \xE9 um\
-    \ problema! Mas ap\xF3s esse v\xEDdeo voc\xEA saber\xE1 tudo sobre um dos bancos\
-    \ m\xE9dios mais rent\xE1veis da Bolsa e por que ele pode ser uma grande oportunidade\
-    \ para 2024.Fundado em 1989, o Banco ABC re\xFAne caracter\xEDsticas perfeitas\
-    \ para quem busca, como n\xF3s, oportunidades de investimento em valor na Bolsa:\
-    \ crescimento elevado e alto dividendo. Ent\xE3o, fique at\xE9 o final para entender\
-    \ o que o Banco ABC faz, como ganha dinheiro e saber se \xE9 hora de investir\
-    \ neste banco.O que voc\xEA ir\xE1 aprender no Mercado Aberto de hoje sobre o\
-    \ Banco ABC (ABCB4):- A hist\xF3ria do Banco ABC- Como o Banco ABC ganha dinheiro\
-    \ - An\xE1lise da Carteira de Cr\xE9dito e alavancagem- An\xE1lise dos principais\
-    \ indicadores- Por que o Banco ABC \xE9 um bom pagador de dividendos- Por que\
-    \ o Banco ABC \xE9 uma grande oportunidade para 2024Deixe seu coment\xE1rio abaixo\
-    \ para respondermos no pr\xF3ximo Mercado Aberto!Apresenta\xE7\xE3o: Matheus Soares\
-    \ (@maatssoares) e Thiago Salom\xE3o (@_salomoney)Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8a954322d2cbe824a48d398f4b
-  path: https://open.spotify.com/episode/6MBQaIHWFuEmlqHaDCJqqE
-  title: HORA DE INVESTIR NO BANCO ABC (ABCB4)? | A grande oportunidade de 2024? |
-    Mercado Aberto
-- author: The Journal.
-  categories: *id003
-  date: '2023-12-05T00:00:00+00:00'
-  description: "The Supreme Court is weighing an $8-billion settlement between opioid\
-    \ victims, Purdue Pharma and the Sackler family. Two claimants explain their views\
-    \ on the deal and WSJ\u2019s Alexander Gladstone reports.\_  Further Reading:\
-    \ -The Opioid Victims Who Won\u2019t Sign Off on Purdue\u2019s $6 Billion Settlement\
-    \ -Supreme Court Weighs Purdue Pharma\u2019s $6 Billion Opioid Settlement  Further\
-    \ Listening: -How a Drug Maker Plans to Cut Off Money for Opioid Victims -Purdue\u2019\
-    s $4.5 Billion Opioid Settlement Got Thrown Out. Now What?\_  Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6NUQLrGx0YIxprOXJGzt5v
-  title: "Why Some Opioid Victims Are Challenging Purdue\u2019s Settlement"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -132,9 +166,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2023-12-04T20:40:21+00:00'
   description: The Cybertruck will have to deal with this eventually
   image: https://i4.ytimg.com/vi/cpUH4FIamYg/hqdefault.jpg
@@ -233,25 +265,6 @@
   image: https://i2.ytimg.com/vi/5OzLrbk82zY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
   title: The State Design Pattern in Python Explained
-- author: Marques Brownlee
-  categories: *id004
-  date: '2023-12-01T11:00:32+00:00'
-  description: "Behind the wheel and every detail and spec of the new \"Beast Mode\"\
-    \ Cybertruck from Tesla!\n\nGet Ridge's Carry-On and more at https://ridge.com/MKBHD\
-    \ and use code MKBHD for 10% off\n\nGet our merch: http://shop.MKBHD.com\n\nGet\
-    \ discounts off most Tesla products with my affiliate link: http://ts.la/marques8135\n\
-    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\nPlaylist of MKBHD\
-    \ Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
-    http://facebook.com/MKBHD\n\n0:00 The Numbers/Specs\n3:42 Differences vs the Original\
-    \ Cybertruck\n4:30 Removable Aerocap Wheel\n6:12 Pointy Stainless Steel/Build\
-    \ Quality\n8:12 Powered truck Bed and Tonneau Cover\n13:00 Doors with no handles\n\
-    14:53 The Nose/Frunk\n16:55 Ridge (Sponsor)\n17:34 Interior Layout\n22:16 The\
-    \ Back Seat Trick\n23:54 Vehicle Controls + Steering Wheel\n28:56 The Insane Steering\n\
-    30:57 Driving the Cybertruck\n35:43 World\u2019s Largest Windshield Wiper\n36:17\
-    \ 800V System \n37:18 Range Extender\n37:57 Final Thoughts"
-  image: https://i1.ytimg.com/vi/XxOh12Uhg08/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=XxOh12Uhg08
-  title: 'Driving Tesla Cybertruck: Everything You Need to Know!'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
