@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-12-10T00:00:00+00:00'
+  description: "OpenAI\u2019s breakout product, ChatGPT, had humble origins. What\
+    \ started as a small research project ballooned into something much bigger: a\
+    \ groundbreaking large language model. But developing that technology was expensive,\
+    \ and to fund it, OpenAI would make a big compromise.\_Further Reading: - Elon\
+    \ Musk Tries to Direct AI\u2014Again\_- The Contradictions of Sam Altman, AI Crusader\_\
+    Further Listening:- Artificial: Episode 1, The Dream\_\_- The Hidden Workforce\
+    \ That Helped Filter Violence and Abuse Out of ChatGPT\_\_ Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a412e7ea0e4a8799e7e5e4700
+  path: https://open.spotify.com/episode/2mK65j97XFMRrbOYHb4o7q
+  title: 'Artificial: Episode 2, Selling Out'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -44,8 +59,7 @@
   path: https://www.youtube.com/watch?v=dfFgaTdS3rE
   title: ArjanCodes Q&A 2023 | Everything You Wanted to Know!
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2023-12-08T00:00:00+00:00'
   description: "Nikki Haley, former U.N. ambassador and governor of South Carolina,\
     \ has been gaining traction in the 2024 Republican presidential primary. But can\
@@ -91,7 +105,7 @@
   path: https://www.youtube.com/watch?v=Ng5sHevRX3w
   title: Why Don't More Smartphones Have This?
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id001
+  categories: &id002
   - Macro
   - Newsletters
   date: '2023-12-07T20:35:17+00:00'
@@ -101,7 +115,7 @@
   path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step-resend
   title: 'The Sahm rule: step by step - Resend'
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id001
+  categories: *id002
   date: '2023-12-07T19:55:56+00:00'
   description: Tomorrow is Job's Day, and we will learn what the unemployment rate
     was in November. So, it'll also be time to update the Sahm rule, my recession
@@ -130,22 +144,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a48d31e54b0876b1d6925c733
   path: https://open.spotify.com/episode/1H6qDljhlbv8FiRzkw9kX3
   title: '#74 | O FUTURO DA ECONOMIA BRASILEIRA'
-- author: The Journal.
-  categories: *id002
-  date: '2023-12-07T00:00:00+00:00'
-  description: "Meta has spent months trying to fix child-safety problems on Instagram\
-    \ and Facebook. But as WSJ's Jeff Horwitz explains, the social media giant is\
-    \ still struggling to prevent its own systems from enabling and promoting a vast\
-    \ network of pedophile accounts.  Further Reading: - Meta Is Struggling to Boot\
-    \ Pedophiles Off Facebook and Instagram\_ - Instagram\u2019s Algorithm Delivers\
-    \ Toxic Video Mix to Adults Who Follow Children\_ - Instagram Connects Vast Pedophile\
-    \ Network\_  Further Listening: - He Thought Instagram Was Safe. Then His Daughter\
-    \ Got an Account.\_ - The Facebook Files, Part 1: The Whitelist\_ - The Facebook\
-    \ Files, Part 2: 'We Make Body Image Issues Worse'\_   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2fp8VNfaJeNDbNzhwcLFGF
-  title: Meta Is Struggling to Boot Pedophiles Off Facebook and Instagram
 - author: Money Talks from The Economist
   categories:
   - Podcasts
