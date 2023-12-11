@@ -1,3 +1,20 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2023-12-11T17:54:15+00:00'
+  description: "Formula One is my new favorite high tech sport. Here's everything\
+    \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
+    \ Check out how they can protect your digital life https://geni.us/h9oq\n\nGraphics:\
+    \ @formulaaddict \n\nThe rule book: https://www.fia.com/sites/default/files/fia_2023_formula_1_technical_regulations_-_issue_4_-_2022-12-07.pdf\n\
+    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n1:00 What\
+    \ is Formula One?\n3:18 The Rules\n5:46 The World's Best Tech Competition\n9:50\
+    \ Seeing it In-Person\n11:28 F1 Race Week\n14:42 Strategy\n17:23 F1 vs the World!"
+  image: https://i4.ytimg.com/vi/s8WHY3Gusx0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=s8WHY3Gusx0
+  title: 'F1: Explained!'
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -119,9 +136,7 @@
   path: https://open.spotify.com/episode/2jXaG0V84KKu3pdnSGMcs0
   title: Does Nikki Haley Have a Chance At Beating Trump?
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2023-12-07T22:31:39+00:00'
   description: 'The ultimate anti-reflective matte display... has a catch
 
@@ -152,7 +167,7 @@
   path: https://www.youtube.com/watch?v=Ng5sHevRX3w
   title: Why Don't More Smartphones Have This?
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id002
+  categories: &id003
   - Macro
   - Newsletters
   date: '2023-12-07T20:35:17+00:00'
@@ -162,7 +177,7 @@
   path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step-resend
   title: 'The Sahm rule: step by step - Resend'
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id002
+  categories: *id003
   date: '2023-12-07T19:55:56+00:00'
   description: Tomorrow is Job's Day, and we will learn what the unemployment rate
     was in November. So, it'll also be time to update the Sahm rule, my recession
@@ -171,7 +186,7 @@
   path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step
   title: 'The Sahm rule: step by step'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2023-12-07T00:00:00+00:00'
   description: "TRIAL 4 vs 6 (TESTE E COMPARE):https://drjones.com.br/products/the-razor-trial-4vs6Um\
@@ -211,7 +226,7 @@
   path: https://open.spotify.com/episode/49cU3mujw754ZghaOajeT1
   title: 'Money Talks: Where does Hamas get its money?'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2023-12-06T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #73: Michel Temer, ex-presidente do Brasil, responde\
     \ se existe uma solu\xE7\xE3o para a quest\xE3o fiscal no Brasil e qual a situa\xE7\
@@ -254,13 +269,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
-- author: Marques Brownlee
-  categories: *id004
-  date: '2023-12-04T20:40:21+00:00'
-  description: The Cybertruck will have to deal with this eventually
-  image: https://i4.ytimg.com/vi/cpUH4FIamYg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=cpUH4FIamYg
-  title: Cybertruck vs EUROPE
 - author: Apricitas Economics
   categories: &id007
   - Macro
