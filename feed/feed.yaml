@@ -9,6 +9,28 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c85929e-bc9f-4651-adf9-4bab593a68a9_4997x2625.png
   path: https://theovershoot.co/p/argentina-and-the-limits-of-fiscal
   title: Argentina and the Limits of Fiscal Space
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2023-12-11T00:00:00+00:00'
+  description: "In this episode I speak with Bin Ren, founder of SigTech, a financial\
+    \ technology platform providing quantitative researchers with access to a state-of-the-art\
+    \ analysis engine.This conversation is really broken into two parts.  In the first\
+    \ half, we discuss Bin\u2019s views on designing and developing a state-of-the-art\
+    \ backtesting engine.  This includes concepts around monolithic versus modular\
+    \ design, how tightly coupled the engine and data should be, and the blurred line\
+    \ between where a strategy definition ends and the backtest engine begins.In the\
+    \ second half of the conversation we discuss the significant pivot SigTech has\
+    \ undergone this year to incorporate large language models into its process. \
+    \ Or, perhaps more accurately, allow large language models to be a client to its\
+    \ data and services.  Here Bin shares his thoughts on both the technical ramifications\
+    \ of integrating with LLMs as well as his philosophical views as to how the role\
+    \ of a quant researcher will change over time as AI becomes more prevalent.I hope\
+    \ you enjoy my conversation with Bin Ren."
+  image: https://i.scdn.co/image/ab6765630000ba8a8c8d3c4c2de9a21b42d4f790
+  path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
+  title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -250,29 +272,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a4139-5ca9-4e70-96d0-f3cca6de0531_2886x1843.png
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2023-12-04T00:00:00+00:00'
-  description: "In this episode I speak with Charles McGarraugh, Chief Investment\
-    \ Officer of Altis Partners.Charlie finds himself at the helm of Altis from a\
-    \ non-traditional route.  His career began at Goldman, where his experience spanned\
-    \ everything from asset backed securities to liquid commodities.  He then started\
-    \ a firm specializing in machine-learning driven sports betting before moving\
-    \ into cryptocurrency markets.  Today, Charlie is betting that alternative strategies\
-    \ will play an increasingly important role for investors over the coming decade.\
-    \  We spend the majority of our conversation talking about Altis\u2019s investment\
-    \ stack, which is comprised of two components: an upstream signal layer and a\
-    \ downstream strategy layer.  The signal layer is responsible for ingesting data\
-    \ and constructing a prediction curve for different futures markets.  The strategy\
-    \ layer ingests these prediction curves and constructs a portfolio.  Charlie discusses\
-    \ the types of signals Altis relies on, how they turn prediction curves into trade\
-    \ signals, and where risk management fits into the equation.I hope you enjoy my\
-    \ conversation with Charles McGarraugh."
-  image: https://i.scdn.co/image/ab6765630000ba8ae0b6d22d3019f56a0fbe019c
-  path: https://open.spotify.com/episode/4YfnLW8Bp2256GeyEohE1a
-  title: Charles McGarraugh - "Change in the Market is Accelerating" (S7E1)
 - author: 'FRB: Working Papers'
   categories: &id008
   - Papers
