@@ -1,13 +1,60 @@
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id003
+  categories: &id001
   - Macro
   - Newsletters
-  date: '2023-12-12T21:19:19+00:00'
-  description: 'Tomorrow is the last #FedDay for 2022. We are on the glide path to
+  date: '2023-12-12T21:44:12+00:00'
+  description: Yes, I know it&#8217;s the last Fed meeting of 2023, not 2022. I deleted
+    that post and resent it. I fixed the YouTube video titles, too. I have had an
+    absolutely miserable three years and am ready for 2024. Apologies for all the
+    mistakes and frequent resends lately. I am hoping to get a &#8216;soft landing&#8217;
+    next year too. (My odds on the economy&#8217;s are much higher than mine.)
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F730a7a7b-4be9-4f8d-8afb-4bed6791c661_2119x1415.png
+  path: https://stayathomemacro.substack.com/p/thanks-for-your-patience
+  title: Thanks for your patience.
+- author: Stay-At-Home Macro (SAHM)
+  categories: *id001
+  date: '2023-12-12T21:34:26+00:00'
+  description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
   image: https://substackcdn.com/image/youtube/w_728,c_limit/GLPy-5PLCkg
-  path: https://stayathomemacro.substack.com/p/the-wild-ride-is-not-over-when-will
+  path: https://stayathomemacro.substack.com/p/the-wild-ride-is-not-over-when-will-ca3
   title: 'The Wild Ride Is Not Over: When Will the Fed Cut and Does It Matter?'
+- author: Market Makers
+  categories: &id004
+  - Podcasts
+  date: '2023-12-12T00:00:00+00:00'
+  description: "Entre para a lista de espera da Comunidade Market Makers:https://mmakers.com.br/comunidade/\
+    \ O lucro do Nubank disparou e parece que agora todo mundo quer saber se o maior\
+    \ banco digital da Am\xE9rica Latina est\xE1 caro ou barato. Se antes era quase\
+    \ consenso dizer que o roxinho era um banco extremamente caro, agora j\xE1 tem\
+    \ research e investidores come\xE7ando a olhar com bons olhos esse colosso digital\
+    \ brasileiro.Como aqui no Mercado Aberto n\xE3o fugimos de boas perguntas e estudamos\
+    \ para te dar as melhores respostas, fomos atr\xE1s de grandes investidores para\
+    \ explicar como Nubank est\xE1 ganhando dinheiro, qual a situa\xE7\xE3o atual\
+    \ da empresa, por que o lucro disparou e o que esperar para 2024.Deixe seu coment\xE1\
+    rio abaixo para respondermos no pr\xF3ximo Mercado Aberto!Acompanhe o Market Makers\
+    \ nas redes e inscreva-se na CompoundLetter:Instagram: https://www.instagram.com/mmakers.oficial\
+    \ Twitter (X): https://twitter.com/mmakersoficial TikTok: https://www.tiktok.com/@mmakersoficial\
+    \ Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada Apresenta\xE7\
+    \xE3o: Matheus Soares (@maatssoares) e Thiago Salom\xE3o (@_salomoney)Edi\xE7\xE3\
+    o: Bianca Barsotti"
+  image: https://i.scdn.co/image/ab6765630000ba8a6711ab93bd0ef30a41cfa27c
+  path: https://open.spotify.com/episode/4IhnoBBjDoBfJbAtHlDp4r
+  title: "O que est\xE1 acontecendo com Nubank? Lucro dispara 463,5% | Mercado Aberto"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2023-12-12T00:00:00+00:00'
+  description: "Today, WSJ\u2019s Chief Economics Correspondent Nick Timiraos sat\
+    \ down with Treasury Secretary Janet Yellen who said inflation is \u201Cmeaningfully\
+    \ coming down\u201D and the U.S. is on path to achieving a so-called soft landing.\
+    \  Further Reading:  - Inflation Edges Lower, But Still Too High for the Fed\_\
+    \ - How Inflation Can Keep Falling\_  Further Listening: - Inflation Is Down.\
+    \ Unemployment Is Low. Is This a Soft Landing?\_ - Why a Soft Landing for the\
+    \ Economy Could Be Hard\_    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6ej3XxbWSmApOOrwhHCqqh
+  title: Janet Yellen on Inflation and the U.S. Economy
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -23,7 +70,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2023-12-11T17:54:15+00:00'
@@ -51,8 +98,7 @@
   path: https://theovershoot.co/p/argentina-and-the-limits-of-fiscal
   title: Argentina and the Limits of Fiscal Space
 - author: The Journal.
-  categories: &id001
-  - Podcasts
+  categories: *id002
   date: '2023-12-11T00:00:00+00:00'
   description: "The president of the University of Pennsylvania, Liz Magill, resigned\
     \ on Saturday, capping a tumultuous week at the Ivy League school. After statements\
@@ -89,20 +135,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8c8d3c4c2de9a21b42d4f790
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
-- author: The Journal.
-  categories: *id001
-  date: '2023-12-10T00:00:00+00:00'
-  description: "OpenAI\u2019s breakout product, ChatGPT, had humble origins. What\
-    \ started as a small research project ballooned into something much bigger: a\
-    \ groundbreaking large language model. But developing that technology was expensive,\
-    \ and to fund it, OpenAI would make a big compromise.\_Further Reading: - Elon\
-    \ Musk Tries to Direct AI\u2014Again\_- The Contradictions of Sam Altman, AI Crusader\_\
-    Further Listening:- Artificial: Episode 1, The Dream\_\_- The Hidden Workforce\
-    \ That Helped Filter Violence and Abuse Out of ChatGPT\_\_ Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a412e7ea0e4a8799e7e5e4700
-  path: https://open.spotify.com/episode/2mK65j97XFMRrbOYHb4o7q
-  title: 'Artificial: Episode 2, Selling Out'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -163,7 +195,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/08122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/12/2023"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2023-12-07T22:31:39+00:00'
   description: 'The ultimate anti-reflective matte display... has a catch
 
@@ -193,17 +225,8 @@
   image: https://i3.ytimg.com/vi/Ng5sHevRX3w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ng5sHevRX3w
   title: Why Don't More Smartphones Have This?
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id003
-  date: '2023-12-07T20:35:17+00:00'
-  description: Apologies, but I found and corrected a few typos. Nothing of substance
-    has changed.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed74889-cd27-4509-8fa1-d1a30e9a742e_744x500.png
-  path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step-resend
-  title: 'The Sahm rule: step by step - Resend'
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id004
   date: '2023-12-07T00:00:00+00:00'
   description: "TRIAL 4 vs 6 (TESTE E COMPARE):https://drjones.com.br/products/the-razor-trial-4vs6Um\
     \ Brasil, duas vis\xF5es: juntamos uma economista com atua\xE7\xE3o dentro do\
@@ -241,24 +264,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af62c39eda7e1ce838fc63251
   path: https://open.spotify.com/episode/49cU3mujw754ZghaOajeT1
   title: 'Money Talks: Where does Hamas get its money?'
-- author: Market Makers
-  categories: *id004
-  date: '2023-12-06T00:00:00+00:00'
-  description: "CORTE EPIS\xD3DIO #73: Michel Temer, ex-presidente do Brasil, responde\
-    \ se existe uma solu\xE7\xE3o para a quest\xE3o fiscal no Brasil e qual a situa\xE7\
-    \xE3o atual da reforma tribut\xE1ria.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-Spotify:\
-    \ https://open.spotify.com/episode/5FSI7g6VgcEeEDoqpytrnl?si=ww2H1IPERtqh3bX7-h-EfQ-Apple\
-    \ Podcast: https://podcasts.apple.com/br/podcast/73-michel-temer-o-momento-e-o-futuro-do-brasil/id1632972179?i=1000637112835\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/Bv1Lj7BiNP4- - - -\
-    \ - - - -Corte: O fiscal brasileiro tem solu\xE7\xE3o? | Market Makers #73 Epis\xF3\
-    dio: MICHEL TEMER: O MOMENTO E O FUTURO DO BRASIL | Market Makers #73Convidado:\
-    \ Michel Temer Apresentador: Thiago Salom\xE3o (CEO e Fundador do Market Makers)Convidados\
-    \ especiais: Felipe Miranda (CIO e Fundador da Empiricus) e Rafael Favetti (Fundador\
-    \ e analista pol\xEDtico da Fatto)Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8aff0f5e93b368a458f42a66d0
-  path: https://open.spotify.com/episode/6MtNDagKKR5TnL3pq4Nuzn
-  title: "Michel Temer responde: o fiscal brasileiro tem solu\xE7\xE3o? | Corte Ep.\
-    \ #73"
 - author: The View From Apollo
   categories:
   - Podcasts
