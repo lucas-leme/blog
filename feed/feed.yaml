@@ -129,6 +129,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/54ECBTb1g7v4mJlxAJQiuv
   title: The Mysterious CEO Leading Shein to an IPO
+- author: AQR
+  categories: &id005
+  - Quant
+  - Papers
+  date: '2023-12-13T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        December\
+    \ 13, 2023<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
+  title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
   categories: &id002
   - Macro
@@ -195,7 +207,7 @@
   path: https://www.youtube.com/watch?v=s8WHY3Gusx0
   title: 'Formula One: Explained!'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-12-11T11:19:30+00:00'
@@ -228,7 +240,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -350,9 +362,7 @@
   path: https://open.spotify.com/episode/6pg6QK6VQjUtJRz2TVR0qI
   title: Where to Find Opportunities in a Shifting Economic Landscape?
 - author: AQR
-  categories: &id009
-  - Quant
-  - Papers
+  categories: *id005
   date: '2023-12-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        December\
     \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -363,7 +373,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-12-04T12:48:01+00:00'
@@ -374,7 +384,7 @@
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
 - author: 'FRB: Working Papers'
-  categories: &id008
+  categories: &id009
   - Papers
   - FED
   - BC
@@ -397,7 +407,7 @@
   path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
   title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-12-01T16:00:06+00:00'
   description: "In this video, I'll dive into the State Design Pattern in Python,\
     \ a game-changer for managing state changes in object-oriented programming.\n\n\
@@ -428,9 +438,9 @@
     \ to provide you with free content each week!"
   image: https://i2.ytimg.com/vi/5OzLrbk82zY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
-  title: The State Design Pattern in Python Explained
+  title: Deep Dive Into the State Design Pattern in Python
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2023-11-30T23:43:29+00:00'
   description: The latest estimates of domestic income and domestic product are alarmingly
     inconsistent. The gap is mostly attributable to the bizarre (alleged) decline
@@ -439,7 +449,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-booming-or-stagnating
   title: The U.S. Economy Is Booming. Or Stagnating? The Mystery of the Missing Interest.
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2023-11-30T23:24:16+00:00'
   description: Rent Growth in New Leases Continues to Normalize, Signaling Further
     Upcoming Decelerations in Official Housing Inflation Data
@@ -447,7 +457,7 @@
   path: https://www.apricitas.io/p/the-most-important-inflation-indicator
   title: The Most Important Inflation Indicator Shows More Cooling Ahead
 - author: 'FRB: Working Papers'
-  categories: *id008
+  categories: *id009
   date: '2023-11-29T16:00:00+00:00'
   description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
     M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
@@ -811,20 +821,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/01112023
   title: "BC - Copom Ata - 258\xAA Reuni\xE3o - 31 outubro - 1 novembro, 2023"
-- author: AQR
-  categories: *id009
-  date: '2023-11-03T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        November\
-    \ 3, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <span class=\"article__author--nolink\">Oliver Hellum</span>\n\
-    \                <a class=\"cta cta--dark \">Lasse H. Pedersen</a>\n         \
-    \       <span class=\"article__author--nolink\">Anders R\xF8nn-Nielsen</span>\n\
-    </span>\n                    </p><br /><br /><span style=\"font-size: 12px; color:\
-    \ gray;\">(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\"\
-    >FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Working-Paper/How-Global-is-Predictability
-  title: How Global is Predictability?
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
