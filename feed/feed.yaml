@@ -1,5 +1,40 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-12-15T16:00:16+00:00'
+  description: "Exploring API communication in your app, considering requests vs httpx?\
+    \ Or maybe even aiohttp?! In this video, I\u2019ll share with you my preferred\
+    \ choice and why you should consider it as well.\n\nGit repo: https://git.arjan.codes/2023/httpx\n\
+    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
+    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/dxgeth\n\
+    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    Chapters:\n0:45 Popularity\n2:05 Requests\n6:43 Aiohttp\n8:40 Httpx\n10:26 Concurrent\
+    \ requests\n13:33 Licenses\n14:49 Outro\n\n#arjancodes #softwaredesign #python\n\
+    \nDISCLAIMER - The links in this description might be affiliate links. If you\
+    \ purchase a product or service through one of those links, I may receive a small\
+    \ commission. There is no additional charge to you. Thanks for supporting my channel\
+    \ so I can continue to provide you with free content each week!"
+  image: https://i4.ytimg.com/vi/OPyoXx0yA0I/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OPyoXx0yA0I
+  title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: &id008
+  categories: &id009
   - Papers
   - FED
   - BC
@@ -36,7 +71,7 @@
   path: https://theovershoot.co/p/the-fed-prepares-for-rate-cuts-but
   title: The Fed Prepares for Rate Cuts. But Why?
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-12-15T00:16:28+00:00'
@@ -223,7 +258,7 @@
   path: https://open.spotify.com/episode/54ECBTb1g7v4mJlxAJQiuv
   title: The Mysterious CEO Leading Shein to an IPO
 - author: AQR
-  categories: &id006
+  categories: &id007
   - Quant
   - Papers
   date: '2023-12-13T00:00:00'
@@ -270,7 +305,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2023-12-11T17:54:15+00:00'
@@ -318,10 +353,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: &id009
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2023-12-08T16:00:34+00:00'
   description: "Recently, I asked what programming questions you have, and you responded\
     \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
@@ -377,7 +409,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/08122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/12/2023"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2023-12-07T22:31:39+00:00'
   description: 'The ultimate anti-reflective matte display... has a catch
 
@@ -421,7 +453,7 @@
   path: https://open.spotify.com/episode/6pg6QK6VQjUtJRz2TVR0qI
   title: Where to Find Opportunities in a Shifting Economic Landscape?
 - author: AQR
-  categories: *id006
+  categories: *id007
   date: '2023-12-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        December\
     \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -432,7 +464,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2023-12-04T12:48:01+00:00'
   description: Restarting Student Loan Payments Has Led to Higher Delinquencies and
     Lower Consumer Spending&#8212;Though Impacts Have Been Heavily Mitigated by Debt
@@ -441,7 +473,7 @@
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
 - author: 'FRB: Working Papers'
-  categories: *id008
+  categories: *id009
   date: '2023-12-01T17:15:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/seung-kwak.htm">Seung
     Kwak</a> and Charles Press<br /><br />In the context of leveraged buyouts (LBOs),
@@ -460,39 +492,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
   title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
-- author: ArjanCodes
-  categories: *id009
-  date: '2023-12-01T16:00:06+00:00'
-  description: "In this video, I'll dive into the State Design Pattern in Python,\
-    \ a game-changer for managing state changes in object-oriented programming.\n\n\
-    \U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
-    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \nGitHub repository: https://git.arjan.codes/2023/state\n\n\u270D\U0001F3FB Take\
-    \ a quiz on this topic: https://www.learntail.com/quiz/ixlvnt\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:09 What is the State Design Pattern?\n1:25 Basic Example\n3:54 Example 2: Document\
-    \ editing\n8:55 Example 3: Game states\n17:24 When to use the State pattern?\n\
-    18:34 Final thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The\
-    \ links in this description might be affiliate links. If you purchase a product\
-    \ or service through one of those links, I may receive a small commission. There\
-    \ is no additional charge to you. Thanks for supporting my channel so I can continue\
-    \ to provide you with free content each week!"
-  image: https://i2.ytimg.com/vi/5OzLrbk82zY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=5OzLrbk82zY
-  title: The State Design Pattern in Python Explained
 - author: Atas do Copom
   categories:
   - Bacen
