@@ -1,3 +1,29 @@
+- author: 'FRB: Working Papers'
+  categories: &id008
+  - Papers
+  - FED
+  - BC
+  date: '2023-12-15T15:40:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
+    L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
+    study changes in tax positions for U.S. C corporations following passage of the
+    2017 tax legislation commonly known as the Tax Cuts and Jobs Act (TCJA). While
+    existing research has focused primarily on publicly traded companies, data limitations
+    have prevented more holistic analyses of the corporate sector. Using a representative
+    sample of U.S. corporate tax returns, we highlight how trends in effective tax
+    rates (ETRs) and exposure to the legislation's main provisions varied for public,
+    private, multinational, domestic, and large versus small firms. We document several
+    novel facts, including that ETRs increased on average for privately held, domestic
+    firms and for firms in the bottom 90% of the firm sales distribution after TCJA.
+    In contrast, public, multinational, and large firms saw substantial ETR cuts on
+    average. We find that firms' pre-TCJA exposure to changes in the corporate tax
+    rate and treatment of net operating losses have the strongest correlation with
+    post-TCJA ETR changes. Overall, the analysis underscores the divergent impacts
+    of TCJA on different firm types and illuminates the economic scope and relative
+    significance of TCJA's myriad provisions.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
+  title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -292,7 +318,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: &id008
+  categories: &id009
   - Tech
   - Code
   - Youtube
@@ -415,10 +441,7 @@
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
 - author: 'FRB: Working Papers'
-  categories: &id009
-  - Papers
-  - FED
-  - BC
+  categories: *id008
   date: '2023-12-01T17:15:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/seung-kwak.htm">Seung
     Kwak</a> and Charles Press<br /><br />In the context of leveraged buyouts (LBOs),
@@ -438,7 +461,7 @@
   path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
   title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
 - author: ArjanCodes
-  categories: *id008
+  categories: *id009
   date: '2023-12-01T16:00:06+00:00'
   description: "In this video, I'll dive into the State Design Pattern in Python,\
     \ a game-changer for managing state changes in object-oriented programming.\n\n\
@@ -470,15 +493,6 @@
   image: https://i2.ytimg.com/vi/5OzLrbk82zY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=5OzLrbk82zY
   title: The State Design Pattern in Python Explained
-- author: 'FRB: Working Papers'
-  categories: *id009
-  date: '2023-11-29T16:00:00+00:00'
-  description: Rhys Bidder, Nicolas Crouzet, <a href="https://www.federalreserve.gov/econres/margaret-m-jacobson.htm">Margaret
-    M. Jacobson</a>, <a href="https://www.federalreserve.gov/econres/michael-siemer.htm">Michael
-    Siemer</a><br /><br />
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/debt-flexibility.htm
-  title: 'FEDS Paper: Debt  Flexibility'
 - author: Atas do Copom
   categories:
   - Bacen
