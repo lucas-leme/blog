@@ -1,3 +1,16 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2023-12-16T03:00:55+00:00'
+  description: "You all should be sorry\n\nPrevious hot takes: https://youtu.be/JzpUfRv45yY?si=ybFyUEG0SgMD6-zj\n\
+    \nJimmy: @JxmyHighroller \n\nMKBHD Merch: http://shop.MKBHD.com\nTech I'm using\
+    \ right now:\nhttps://www.amazon.com/shop/MKBHD\nIntro Track:\nPlaylist of MKBHD\
+    \ Intro music: https://goo.gl/B3AWV5\nX Provided by X for review.\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i1.ytimg.com/vi/PA9iymey_lM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=PA9iymey_lM
+  title: The Worst Hot Takes in Tech
 - author: The Overshoot
   categories: &id001
   - Macro
@@ -10,7 +23,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -310,9 +323,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2023-12-11T17:54:15+00:00'
   description: "Formula One is my new favorite high tech sport. Here's everything\
     \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
@@ -349,7 +360,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-12-08T16:00:34+00:00'
   description: "Recently, I asked what programming questions you have, and you responded\
     \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
@@ -404,37 +415,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/08122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/12/2023"
-- author: Marques Brownlee
-  categories: *id006
-  date: '2023-12-07T22:31:39+00:00'
-  description: 'The ultimate anti-reflective matte display... has a catch
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    TCL 40 NXTPAPER: https://www.tcl.com/global/en/mobile/tcl-40-nxtpaper
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by TCL for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/Ng5sHevRX3w/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Ng5sHevRX3w
-  title: Why Don't More Smartphones Have This?
 - author: The View From Apollo
   categories:
   - Podcasts
