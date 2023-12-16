@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id001
+  - Macro
+  - Newsletters
+  date: '2023-12-16T01:06:56+00:00'
+  description: In the latest episode of UN/BALANCED, we talk about Peronism, Latin
+    American development vs. East Asia, and a positive net foreign asset position
+    does not necessarily improve stability.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa636e72f-5a1c-4ac4-84b9-fe1410174c76_4997x2625.png
+  path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
+  title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -60,9 +71,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
-  categories: &id004
-  - Macro
-  - Newsletters
+  categories: *id001
   date: '2023-12-15T06:06:11+00:00'
   description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
     and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
@@ -81,7 +90,7 @@
   path: https://www.apricitas.io/p/americas-energy-export-boom
   title: America's Energy Export Boom
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-12-15T00:00:00+00:00'
   description: "\u201CIt\u2019s a Wonderful Life\u201D is one of the most iconic Christmas\
@@ -94,7 +103,7 @@
   path: https://open.spotify.com/episode/4kSroqv60j2K0Ewk7xI4Hf
   title: The Wonderful Accident Behind a Christmas Classic
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2023-12-14T00:00:00+00:00'
   description: "Russia-aligned propagandists tricked celebrities like Elijah Wood,\
     \ Pricilla Presley and Ice T into recording videos that would later be used to\
@@ -209,7 +218,7 @@
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-12-13T00:00:00+00:00'
   description: "PREPARE-SE:Ruy Alves (Kinea) e Walter Maciel (AZ Quest) se re\xFA\
@@ -237,7 +246,7 @@
   title: '#75 | Como ganhar dinheiro no mercado em 2024? Ruy Alves e Walter Maciel
     debatem'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2023-12-13T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #74: Marcos Mendes, doutor em economia e pesquisador\
     \ do Insper, e Marcela Rocha, economista-chefe da Principal Claritas respondem\
@@ -266,7 +275,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-12-12T21:44:12+00:00'
@@ -279,7 +288,7 @@
   path: https://stayathomemacro.substack.com/p/thanks-for-your-patience
   title: Thanks for your patience.
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id003
+  categories: *id004
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -317,15 +326,6 @@
   image: https://i4.ytimg.com/vi/s8WHY3Gusx0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=s8WHY3Gusx0
   title: 'Formula One: Explained!'
-- author: The Overshoot
-  categories: *id004
-  date: '2023-12-11T11:19:30+00:00'
-  description: '"Anything we can actually do, we can afford" is an important and underrated
-    insight. The corrollary is that acting as if you "can afford" what you cannot
-    "actually do" leads to trouble.'
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c85929e-bc9f-4651-adf9-4bab593a68a9_4997x2625.png
-  path: https://theovershoot.co/p/argentina-and-the-limits-of-fiscal
-  title: Argentina and the Limits of Fiscal Space
 - author: Flirting with Models
   categories:
   - Podcasts
