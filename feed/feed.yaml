@@ -16,7 +16,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id005
   - Tech
   - Youtube
   date: '2023-12-16T03:00:55+00:00'
@@ -40,7 +40,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: &id007
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -317,20 +317,9 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
-  date: '2023-12-12T21:44:12+00:00'
-  description: Yes, I know it&#8217;s the last Fed meeting of 2023, not 2022. I deleted
-    that post and resent it. I fixed the YouTube video titles, too. I have had an
-    absolutely miserable three years and am ready for 2024. Apologies for all the
-    mistakes and frequent resends lately. I am hoping to get a &#8216;soft landing&#8217;
-    next year too. (My odds on the economy&#8217;s are much higher than mine.)
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F730a7a7b-4be9-4f8d-8afb-4bed6791c661_2119x1415.png
-  path: https://stayathomemacro.substack.com/p/thanks-for-your-patience
-  title: Thanks for your patience.
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id005
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -352,7 +341,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id005
   date: '2023-12-11T17:54:15+00:00'
   description: "Formula One is my new favorite high tech sport. Here's everything\
     \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
@@ -389,7 +378,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: *id007
+  categories: *id006
   date: '2023-12-08T16:00:34+00:00'
   description: "Recently, I asked what programming questions you have, and you responded\
     \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
@@ -431,6 +420,15 @@
   image: https://i1.ytimg.com/vi/dfFgaTdS3rE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=dfFgaTdS3rE
   title: ArjanCodes Q&A 2023 | Everything You Wanted to Know!
+- author: Stay-At-Home Macro (SAHM)
+  categories: *id007
+  date: '2023-12-07T19:55:56+00:00'
+  description: Tomorrow is Job's Day, and we will learn what the unemployment rate
+    was in November. So, it'll also be time to update the Sahm rule, my recession
+    indicator.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed74889-cd27-4509-8fa1-d1a30e9a742e_744x500.png
+  path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step
+  title: 'The Sahm rule: step by step'
 - author: The View From Apollo
   categories:
   - Podcasts
