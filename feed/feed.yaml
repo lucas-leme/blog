@@ -1,5 +1,22 @@
+- author: 'FRB: Working Papers'
+  categories: &id001
+  - Papers
+  - FED
+  - BC
+  date: '2023-12-18T17:50:00+00:00'
+  description: <a href="https://www.federalreserve.gov/econres/danilo-cascaldi-garcia.htm">Danilo
+    Cascaldi-Garcia</a>, Matteo Luciani, and <a href="https://www.federalreserve.gov/econres/michele-modugno.htm">Michele
+    Modugno</a><br /><br />In economics, we need to forecast the present because reliable
+    and comprehensive measures of the state of the economy are released with a substantial
+    delay and considerable measurement error. Nowcasting exploits timely data to obtain
+    early estimates of the state of the economy and updates these estimates continuously
+    as new macroeconomic data are released. In this chapter, we describe how the framework
+    used to nowcast GDP has evolved and is applied worldwide.
+  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
+  path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
+  title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2023-12-16T03:00:55+00:00'
@@ -12,7 +29,7 @@
   path: https://www.youtube.com/watch?v=PA9iymey_lM
   title: The Worst Hot Takes in Tech
 - author: The Overshoot
-  categories: &id001
+  categories: &id002
   - Macro
   - Newsletters
   date: '2023-12-16T01:06:56+00:00'
@@ -23,7 +40,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -59,10 +76,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: &id009
-  - Papers
-  - FED
-  - BC
+  categories: *id001
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -85,7 +99,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
-  categories: *id001
+  categories: *id002
   date: '2023-12-15T06:06:11+00:00'
   description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
     and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
@@ -94,7 +108,7 @@
   path: https://theovershoot.co/p/the-fed-prepares-for-rate-cuts-but
   title: The Fed Prepares for Rate Cuts. But Why?
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2023-12-15T00:16:28+00:00'
@@ -118,7 +132,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/15122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 15/12/2023"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-12-15T00:00:00+00:00'
   description: "\u201CIt\u2019s a Wonderful Life\u201D is one of the most iconic Christmas\
@@ -131,7 +145,7 @@
   path: https://open.spotify.com/episode/4kSroqv60j2K0Ewk7xI4Hf
   title: The Wonderful Accident Behind a Christmas Classic
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-12-14T00:00:00+00:00'
   description: "Russia-aligned propagandists tricked celebrities like Elijah Wood,\
     \ Pricilla Presley and Ice T into recording videos that would later be used to\
@@ -246,7 +260,7 @@
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2023-12-13T00:00:00+00:00'
   description: "PREPARE-SE:Ruy Alves (Kinea) e Walter Maciel (AZ Quest) se re\xFA\
@@ -274,7 +288,7 @@
   title: '#75 | Como ganhar dinheiro no mercado em 2024? Ruy Alves e Walter Maciel
     debatem'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2023-12-13T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #74: Marcos Mendes, doutor em economia e pesquisador\
     \ do Insper, e Marcela Rocha, economista-chefe da Principal Claritas respondem\
@@ -291,7 +305,7 @@
   path: https://open.spotify.com/episode/5UIFqPi8gTNu0WxfIaqCVe
   title: "Brasil 2024: O que esperar para o futuro do pa\xEDs? | Corte Ep. #74"
 - author: AQR
-  categories: &id007
+  categories: &id008
   - Quant
   - Papers
   date: '2023-12-13T00:00:00'
@@ -303,7 +317,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-12T21:44:12+00:00'
@@ -316,7 +330,7 @@
   path: https://stayathomemacro.substack.com/p/thanks-for-your-patience
   title: Thanks for your patience.
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id004
+  categories: *id005
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -338,7 +352,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2023-12-11T17:54:15+00:00'
   description: "Formula One is my new favorite high tech sport. Here's everything\
     \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
@@ -375,7 +389,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2023-12-08T16:00:34+00:00'
   description: "Recently, I asked what programming questions you have, and you responded\
     \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
@@ -431,7 +445,7 @@
   path: https://open.spotify.com/episode/6pg6QK6VQjUtJRz2TVR0qI
   title: Where to Find Opportunities in a Shifting Economic Landscape?
 - author: AQR
-  categories: *id007
+  categories: *id008
   date: '2023-12-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        December\
     \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -442,7 +456,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2023-12-04T12:48:01+00:00'
   description: Restarting Student Loan Payments Has Led to Higher Delinquencies and
     Lower Consumer Spending&#8212;Though Impacts Have Been Heavily Mitigated by Debt
@@ -450,26 +464,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb5a4139-5ca9-4e70-96d0-f3cca6de0531_2886x1843.png
   path: https://www.apricitas.io/p/the-economic-fallout-of-student-loan
   title: The Economic Fallout of Student Loan Forbearance Ending
-- author: 'FRB: Working Papers'
-  categories: *id009
-  date: '2023-12-01T17:15:00+00:00'
-  description: <a href="https://www.federalreserve.gov/econres/seung-kwak.htm">Seung
-    Kwak</a> and Charles Press<br /><br />In the context of leveraged buyouts (LBOs),
-    this paper empirically studies the relation between pre-buyout credit market conditions
-    and the post-buyout behavior of target companies, employing a supervisory dataset
-    to overcome limited data availability for post-buyout target financial information.
-    We propose an LBO-specific measure of (changes of) credit market conditions--the
-    short-term (6-month) change of credit spreads leading up to buyout close. Using
-    this proposed measure, we show that loosening pre-LBO credit market conditions,
-    which are related to higher buyout leverage consistent with the literature, are
-    associated with poor post-LBO (operating) performance of the target company. These
-    results support the narrative of agency costs of debt such as risk shifting and
-    debt overhang but are inconsistent with theories of disciplinary effects of debt.
-    We provide further evidence supportive of the theories of agency costs of debt
-    and some results favorable to the risk shifting story.
-  image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
-  path: https://www.federalreserve.gov/econres/feds/pre-LBO-credit-market-conditions-and-post-LBO-target-behavior.htm
-  title: 'FEDS Paper: Pre-LBO Credit Market Conditions and Post-LBO Target Behavior'
 - author: Atas do Copom
   categories:
   - Bacen
