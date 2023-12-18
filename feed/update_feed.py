@@ -84,17 +84,23 @@ feeds = {
         "n_posts_to_show": 1
     },
     "Bloomberg Línea": {
-        "url": "https://rss.app/feeds/YwQIbaBhwWENjMYC.xml",
+        "url": "https://news.google.com/rss/search?q=Bloomberg+L%C3%ADnea+Brasil+Economia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
         "categories": ["Notícias"],
         "image": "",
         "n_posts_to_show": 4,
         "force_author": True
     },
-    "Brazil Journal": {
+    "Brazil Journal - Economia": {
         "url": "https://braziljournal.com/categoria/economia/feed/",
         "categories": ["Notícias"],
         "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
-        "n_posts_to_show": 1,
+        "n_posts_to_show": 2,
+    },
+    "Brazil Journal - Weekend": {
+        "url": "https://braziljournal.com/categoria/weekend/feed/",
+        "categories": ["Notícias"],
+        "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
+        "n_posts_to_show": 2,
     },
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
@@ -127,6 +133,12 @@ feeds = {
         "categories": ["Tech", "Youtube"],
         "image": ""
     },
+    "MIT Technology Review": {
+        "url": "https://www.technologyreview.com/feed",
+        "categories": ["Tech", "Notícias"],
+        "image": "",
+        "n_posts_to_show": 2
+    },
 }
 
 
@@ -156,6 +168,13 @@ def get_feed_info(feed_url):
             has_image = True
 
         if not has_image:
+            # try get imagem from site thumbnail
+            # try:
+            #     request_result = requests.get(entry.link)
+            #     soup = BeautifulSoup(request_result.content, 'html.parser')
+            #     image = soup.find('meta', property='og:image')['content']
+            # except:
+            #     image = entry.image.href if hasattr(entry, 'image') else None
             image = entry.image.href if hasattr(entry, 'image') else None
 
         feed_info['entries'].append({
