@@ -313,8 +313,24 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe471cd3-eede-4173-905b-dce547116ed8_784x574.png
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
-- author: 'FRB: Working Papers'
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2023-12-19T00:00:00+00:00'
+  description: "Yoshua Bengio, known as a godfather of AI, is one of hundreds of researchers\
+    \ and tech leaders calling for a pause in the breakneck development of powerful\
+    \ new AI tools. We talk to the AI pioneer about how the tools evolved and why\
+    \ he's worried about their potential.  Further Listening: - Artificial: Episode\
+    \ 1, The Dream\_ - Artificial: Episode 2, Selling Out\_ - OpenAI\u2019s Weekend\
+    \ of Absolute Chaos\_  Further Reading: - How Worried Should We Be About AI\u2019\
+    s Threat to Humanity? Even Tech Leaders Can\u2019t Agree\_ - \u2018Take Science\
+    \ Fiction Seriously\u2019: World Leaders Sound Alarm on AI\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7kK3IpVorHVcK3PTjBNDdg
+  title: Why an AI Pioneer Is Worried
+- author: 'FRB: Working Papers'
+  categories: &id002
   - Papers
   - FED
   - BC
@@ -331,8 +347,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2023-12-18T00:00:00+00:00'
   description: "There are hundreds of zombie malls throughout the U.S. WSJ's Kate\
     \ King investigates why some of America's empty and dilapidated malls stick around\
@@ -357,7 +372,7 @@
   path: https://www.youtube.com/watch?v=PA9iymey_lM
   title: The Worst Hot Takes in Tech
 - author: The Overshoot
-  categories: &id002
+  categories: &id003
   - Macro
   - Newsletters
   date: '2023-12-16T01:06:56+00:00'
@@ -404,7 +419,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id001
+  categories: *id002
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -427,7 +442,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
-  categories: *id002
+  categories: *id003
   date: '2023-12-15T06:06:11+00:00'
   description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
     and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
@@ -459,18 +474,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/15122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 15/12/2023"
-- author: The Journal.
-  categories: *id003
-  date: '2023-12-15T00:00:00+00:00'
-  description: "\u201CIt\u2019s a Wonderful Life\u201D is one of the most iconic Christmas\
-    \ movies. But when it first came out in 1946, it was considered a flop. WSJ\u2019\
-    s Ben Cohen explains how the movie went from nearly forgotten to a Christmas favorite.\
-    \  Further Reading:  -The Christmas Movie That Became a Classic Because of a Mistake\_\
-    \  Further Listening:  -Canned or Homemade? America\u2019s Biggest Cranberry Company\
-    \ Wins Either Way\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4kSroqv60j2K0Ewk7xI4Hf
-  title: The Wonderful Accident Behind a Christmas Classic
 - author: Money Talks from The Economist
   categories:
   - Podcasts
