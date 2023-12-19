@@ -1,3 +1,14 @@
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2023-12-19T00:47:05+00:00'
+  description: The past three years have been miserable. And we are coming out of
+    the clouds. The soft landing is getting real. Nothing is guaranteed, but wow,
+    we could pull this off.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe471cd3-eede-4173-905b-dce547116ed8_784x574.png
+  path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
+  title: We are landing this plane, softly.
 - author: 'FRB: Working Papers'
   categories: &id001
   - Papers
@@ -15,8 +26,21 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2023-12-18T00:00:00+00:00'
+  description: "There are hundreds of zombie malls throughout the U.S. WSJ's Kate\
+    \ King investigates why some of America's empty and dilapidated malls stick around\
+    \ for so long even as local communities want them to be repurposed.  Further Reading:\
+    \ - Owners Keep Zombie Malls Alive Even When Towns Want to Pull the Plug\_ - Local\
+    \ Malls, Stuck in \u2018Death Spiral,\u2019 Plunge in Value\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1WgatavWlarrMMr10c5yZO
+  title: Who's Keeping Zombie Malls Alive?
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2023-12-16T03:00:55+00:00'
@@ -40,7 +64,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -132,8 +156,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/15122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 15/12/2023"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2023-12-15T00:00:00+00:00'
   description: "\u201CIt\u2019s a Wonderful Life\u201D is one of the most iconic Christmas\
     \ movies. But when it first came out in 1946, it was considered a flop. WSJ\u2019\
@@ -144,22 +167,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4kSroqv60j2K0Ewk7xI4Hf
   title: The Wonderful Accident Behind a Christmas Classic
-- author: The Journal.
-  categories: *id003
-  date: '2023-12-14T00:00:00+00:00'
-  description: "Russia-aligned propagandists tricked celebrities like Elijah Wood,\
-    \ Pricilla Presley and Ice T into recording videos that would later be used to\
-    \ attack Ukrainian President Volodymyr Zelensky. WSJ\u2019s Robert McMillan and\
-    \ the CEO of the app Cameo unpack the scheme.  Further Reading: - Actors Recorded\
-    \ Videos for \u2018Vladimir.\u2019 It Turned Into Russian Propaganda.\_ - U.S.\
-    \ and U.K. Accuse Russia of Global Hacking Spree Targeting British Elections\_\
-    \  Further Listening: - The Online Sleuths Fighting Russian Disinformation\_ -\
-    \ A Voting Machine Company Fights Disinformation With Lawsuits\_   Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6W9VDnCHre1BM7Ajt5MYZ6
-  title: "Actors Recorded Videos for \u2018Vladimir.\u2019 It Turned Into Russian\
-    \ Propaganda."
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -317,9 +324,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -341,7 +346,7 @@
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2023-12-11T17:54:15+00:00'
   description: "Formula One is my new favorite high tech sport. Here's everything\
     \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
@@ -378,7 +383,7 @@
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2023-12-08T16:00:34+00:00'
   description: "Recently, I asked what programming questions you have, and you responded\
     \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
@@ -420,15 +425,6 @@
   image: https://i1.ytimg.com/vi/dfFgaTdS3rE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=dfFgaTdS3rE
   title: ArjanCodes Q&A 2023 | Everything You Wanted to Know!
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id007
-  date: '2023-12-07T19:55:56+00:00'
-  description: Tomorrow is Job's Day, and we will learn what the unemployment rate
-    was in November. So, it'll also be time to update the Sahm rule, my recession
-    indicator.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ed74889-cd27-4509-8fa1-d1a30e9a742e_744x500.png
-  path: https://stayathomemacro.substack.com/p/the-sahm-rule-step-by-step
-  title: 'The Sahm rule: step by step'
 - author: The View From Apollo
   categories:
   - Podcasts
