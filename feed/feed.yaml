@@ -1,5 +1,23 @@
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2023-12-20T00:00:00+00:00'
+  description: "CORTE EPIS\xD3DIO #75: Ruy Alves (Kinea) e Walter Maciel (AZ Quest)\
+    \ comentam sobre o momento atual de Brasil, a surpresa positiva com o primeiro\
+    \ ano de governo petista e tra\xE7am um futuro promissor para o pa\xEDs nos pr\xF3\
+    ximos anos.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO- Spotify: https://open.spotify.com/episode/2dRVHyxEFGJAcD41wqdW11?si=W2apgsfKSKaZTY-xIQO5GQ-\
+    \ Apple Podcast: https://podcasts.apple.com/br/podcast/75-como-ganhar-dinheiro-no-mercado-em-2024-ruy-alves/id1632972179?i=1000638488309\U0001F4FD\
+    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtube.com/live/LhWTETz9CxE\
+    \ - - - - - - - -Corte: O FUTURO PROMISSOR DO BRASIL | Market Makers #75Epis\xF3\
+    dio: Como ganhar dinheiro no mercado em 2024? Ruy Alves e Walter Maciel debatem\
+    \ | Market Makers #75Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus\
+    \ Soares (@maatssoares)Convidados: Ruy Alves (Kinea) e Walter Maciel (AZ Quest)Edi\xE7\
+    \xE3o: Bianca Barsotti"
+  image: https://i.scdn.co/image/ab6765630000ba8a7122353f3655076746cb6ea3
+  path: https://open.spotify.com/episode/2CYd66FsoDlB7r07WyEP87
+  title: 'O FUTURO PROMISSOR DO BRASIL | Corte Ep. #75'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2023-12-19T21:58:50+00:00'
@@ -335,8 +353,7 @@
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2023-12-19T00:00:00+00:00'
   description: "2023 est\xE1 acabando e muita coisa foi destaque positivo ou negativo\
     \ na BOLSA DE VALORES brasileira esse ano. No Mercado Aberto de hoje vamos falar\
@@ -357,7 +374,7 @@
   title: "IBOVESPA: 4 GRANDES SURPRESAS DE 2023 E 1 A\xC7\xC3O PARA FICAR DE OLHO\
     \ EM 2024 | Mercado Aberto"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-12-19T00:00:00+00:00'
   description: "Yoshua Bengio, known as a godfather of AI, is one of hundreds of researchers\
@@ -373,7 +390,7 @@
   path: https://open.spotify.com/episode/7kK3IpVorHVcK3PTjBNDdg
   title: Why an AI Pioneer Is Worried
 - author: 'FRB: Working Papers'
-  categories: &id003
+  categories: &id004
   - Papers
   - FED
   - BC
@@ -390,7 +407,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2023-12-18T00:00:00+00:00'
   description: "There are hundreds of zombie malls throughout the U.S. WSJ's Kate\
     \ King investigates why some of America's empty and dilapidated malls stick around\
@@ -402,7 +419,7 @@
   path: https://open.spotify.com/episode/1WgatavWlarrMMr10c5yZO
   title: Who's Keeping Zombie Malls Alive?
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2023-12-16T03:00:55+00:00'
   description: "You all should be sorry\n\nPrevious hot takes: https://youtu.be/JzpUfRv45yY?si=ybFyUEG0SgMD6-zj\n\
     \nJimmy: @JxmyHighroller \n\nMKBHD Merch: http://shop.MKBHD.com\nTech I'm using\
@@ -413,7 +430,7 @@
   path: https://www.youtube.com/watch?v=PA9iymey_lM
   title: The Worst Hot Takes in Tech
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-16T01:06:56+00:00'
@@ -460,7 +477,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id003
+  categories: *id004
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -483,7 +500,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2023-12-15T06:06:11+00:00'
   description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
     and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
@@ -614,33 +631,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18047
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
-- author: Market Makers
-  categories: *id005
-  date: '2023-12-13T00:00:00+00:00'
-  description: "PREPARE-SE:Ruy Alves (Kinea) e Walter Maciel (AZ Quest) se re\xFA\
-    nem AO VIVO num epis\xF3dio especial para debater os cen\xE1rios para os mercados\
-    \ em 2024 e como ganhar dinheiro em cada um deles. Imperd\xEDvel.Como ganhar dinheiro\
-    \ no mercado em 2024? Ruy Alves e Walter Maciel debatem00:00 - Apresenta\xE7\xE3\
-    o02:28 - Quem \xE9 Walter Maciel na Faria Lima?05:36 - Quem \xE9 Ruy Alves na\
-    \ Faria Lima?10:40 - An\xE1lises e grandes li\xE7\xF5es de 2023 e poss\xEDveis\
-    \ cen\xE1rios para 202425:42 - Por que a recess\xE3o n\xE3o chegou nos EUA em\
-    \ 2023?30:42 - O grande erro da ind\xFAstria de fundos no ano44:51 - Europa e\
-    \ China: o que vai esperar para o ano que vem?51:34 - Uma vis\xE3o positiva do\
-    \ atual governo brasileiro1:01:48 - Radicaliza\xE7\xE3o: o grande algoz da informa\xE7\
-    \xE3o1:29:31 - O que esperar para 2024?1:45:02 - Reagindo a decis\xE3o do FED\
-    \ sobre o juro americano2:15:15 - Os principais valores de quem trabalha com o\
-    \ mercado2:51:41 - A mudan\xE7a na cultura da ind\xFAstria de fundos3:01:48 -\
-    \ As melhores posi\xE7\xF5es e acertos de cada um dos convidados no ano de 20233:18:36\
-    \ - As maiores decep\xE7\xF5es de Walter Maciel, Ruy Alves e Matheus Soares em\
-    \ 20233:30:30 - Pingue Pongue: livros para a Biblioteca Market Makers, m\xFAsica\
-    \ para a playlist MMakers e quem voc\xEA gostaria de ver no MMakersConvidados:\
-    \ Ruy Alves (Kinea) e Walter Maciel (AZ Quest)Apresentador: Thiago Salom\xE3o\
-    \ e Matheus SoaresAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/Conhe\xE7\
-    a mais o trabalho do Market Makers em nosso site:https://mmakers.com.br/"
-  image: https://i.scdn.co/image/ab6765630000ba8a6a31b6926cc680e3b2081a9c
-  path: https://open.spotify.com/episode/2dRVHyxEFGJAcD41wqdW11
-  title: '#75 | Como ganhar dinheiro no mercado em 2024? Ruy Alves e Walter Maciel
-    debatem'
 - author: AQR
   categories: &id008
   - Quant
