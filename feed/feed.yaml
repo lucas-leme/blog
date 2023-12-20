@@ -1,3 +1,55 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2023-12-19T21:58:50+00:00'
+  description: 'The best smartphones of 2023!
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: http://youtube.com/Alltta
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Welcome to the Smartphone Awards!
+
+    1:12 Best Big Smartphone
+
+    3:55 Best Compact Phone
+
+    5:56 Best Camera
+
+    8:50 The Value Award
+
+    11:05 Best Battery
+
+    13:07 The Design Award
+
+    15:14 Best Foldable Phone
+
+    18:25 Most Improved
+
+    20:34 Bust of the Year
+
+    22:02 MVP'
+  image: https://i3.ytimg.com/vi/JkRXhe3KaPE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=JkRXhe3KaPE
+  title: Smartphone Awards 2023!
 - author: Atas do Copom
   categories:
   - Bacen
@@ -303,7 +355,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/13122023
   title: "BC - Copom Ata - 259\xAA Reuni\xE3o - 12-13 dezembro, 2023"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2023-12-19T00:47:05+00:00'
@@ -313,6 +365,28 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe471cd3-eede-4173-905b-dce547116ed8_784x574.png
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
+- author: Market Makers
+  categories: &id005
+  - Podcasts
+  date: '2023-12-19T00:00:00+00:00'
+  description: "2023 est\xE1 acabando e muita coisa foi destaque positivo ou negativo\
+    \ na BOLSA DE VALORES brasileira esse ano. No Mercado Aberto de hoje vamos falar\
+    \ de 4 grandes SURPRESAS da BOLSA DE VALORES em 2023: 2 positivas e 2 negativas.\
+    \ E, al\xE9m disso, vamos revelar 1 A\xC7\xC3O PARA FICAR DE OLHO EM 2024, porque\
+    \ acreditamos que ser\xE1 uma surpresa positiva ano que vem.O que voc\xEA ir\xE1\
+    \ aprender:Quais a\xE7\xF5es surpreenderam positivamente em 2023Quais a\xE7\xF5\
+    es surpreenderam negativamente em 2023Qual a\xE7\xE3o pode subir muito em 2024Deixe\
+    \ seu coment\xE1rio abaixo para respondermos no pr\xF3ximo Mercado Aberto! Acompanhe\
+    \ o Market Makers nas redes e inscreva-se na CompoundLetter: Instagram: https://www.instagram.com/mmakers.oficial\
+    \ Twitter (X): https://twitter.com/mmakersoficial TikTok: https://www.tiktok.com/@mmakersoficial\
+    \ Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manadaIBOVESPA:\
+    \ 4 GRANDES SURPRESAS DE 2023 E 1 A\xC7\xC3O PARA FICAR DE OLHO EM 2024 Apresenta\xE7\
+    \xE3o: Matheus Soares (@maatssoares) e Thiago Salom\xE3o (@_salomoney)Edi\xE7\xE3\
+    o: Bianca Barsotti"
+  image: https://i.scdn.co/image/ab6765630000ba8aeda97c4a5800dfaa25417a64
+  path: https://open.spotify.com/episode/1hFiiryfRKMzw2KOMiksw5
+  title: "IBOVESPA: 4 GRANDES SURPRESAS DE 2023 E 1 A\xC7\xC3O PARA FICAR DE OLHO\
+    \ EM 2024 | Mercado Aberto"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -330,7 +404,7 @@
   path: https://open.spotify.com/episode/7kK3IpVorHVcK3PTjBNDdg
   title: Why an AI Pioneer Is Worried
 - author: 'FRB: Working Papers'
-  categories: &id002
+  categories: &id003
   - Papers
   - FED
   - BC
@@ -359,9 +433,7 @@
   path: https://open.spotify.com/episode/1WgatavWlarrMMr10c5yZO
   title: Who's Keeping Zombie Malls Alive?
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2023-12-16T03:00:55+00:00'
   description: "You all should be sorry\n\nPrevious hot takes: https://youtu.be/JzpUfRv45yY?si=ybFyUEG0SgMD6-zj\n\
     \nJimmy: @JxmyHighroller \n\nMKBHD Merch: http://shop.MKBHD.com\nTech I'm using\
@@ -372,7 +444,7 @@
   path: https://www.youtube.com/watch?v=PA9iymey_lM
   title: The Worst Hot Takes in Tech
 - author: The Overshoot
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-12-16T01:06:56+00:00'
@@ -419,7 +491,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id002
+  categories: *id003
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -442,7 +514,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: The Overshoot
-  categories: *id003
+  categories: *id004
   date: '2023-12-15T06:06:11+00:00'
   description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
     and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
@@ -574,8 +646,7 @@
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id005
   date: '2023-12-13T00:00:00+00:00'
   description: "PREPARE-SE:Ruy Alves (Kinea) e Walter Maciel (AZ Quest) se re\xFA\
     nem AO VIVO num epis\xF3dio especial para debater os cen\xE1rios para os mercados\
@@ -601,23 +672,6 @@
   path: https://open.spotify.com/episode/2dRVHyxEFGJAcD41wqdW11
   title: '#75 | Como ganhar dinheiro no mercado em 2024? Ruy Alves e Walter Maciel
     debatem'
-- author: Market Makers
-  categories: *id004
-  date: '2023-12-13T00:00:00+00:00'
-  description: "CORTE EPIS\xD3DIO #74: Marcos Mendes, doutor em economia e pesquisador\
-    \ do Insper, e Marcela Rocha, economista-chefe da Principal Claritas respondem\
-    \ se o Brasil, com o governo do PT, surpreendeu positivamente em 2023 e diz o\
-    \ que podemos esperar para o ano de 2024?\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-Spotify:https://open.spotify.com/episode/5FSI7g6VgcEeEDoqpytrnl?si=ww2H1IPERtqh3bX7-h-EfQ-Apple\
-    \ Podcast:https://podcasts.apple.com/br/podcast/73-michel-temer-o-momento-e-o-futuro-do-brasil/id1632972179?i=1000637112835\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:https://youtu.be/Bv1Lj7BiNP4- - - - -\
-    \ - - -Corte: Brasil 2024: O que esperar para o futuro do pa\xEDs? | Market Makers\
-    \ #74Epis\xF3dio: O FUTURO DA ECONOMIA BRASILEIRA | Market Makers #74 Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__) Convidados:\
-    \ Marcos Mendes, doutor em economia e pesquisador do Insper, e Marcela Rocha,\
-    \ economista-chefe da Principal Claritas Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8ab18b617f5e51fa967a727704
-  path: https://open.spotify.com/episode/5UIFqPi8gTNu0WxfIaqCVe
-  title: "Brasil 2024: O que esperar para o futuro do pa\xEDs? | Corte Ep. #74"
 - author: AQR
   categories: &id008
   - Quant
@@ -631,7 +685,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id005
+  categories: *id006
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -652,21 +706,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
   title: The 10 Most Important Financial Skills
-- author: Marques Brownlee
-  categories: *id006
-  date: '2023-12-11T17:54:15+00:00'
-  description: "Formula One is my new favorite high tech sport. Here's everything\
-    \ you need to know about why.\n\nThanks, Bitdefender, for sponsoring this video.\
-    \ Check out how they can protect your digital life https://geni.us/h9oq\n\nGraphics:\
-    \ @formulaaddict \n\nThe rule book: https://www.fia.com/sites/default/files/fia_2023_formula_1_technical_regulations_-_issue_4_-_2022-12-07.pdf\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n1:00 What\
-    \ is Formula One?\n3:18 The Rules\n5:46 The World's Best Tech Competition\n9:50\
-    \ Seeing it In-Person\n11:28 F1 Race Week\n14:42 Strategy\n17:23 F1 vs the World!"
-  image: https://i4.ytimg.com/vi/s8WHY3Gusx0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=s8WHY3Gusx0
-  title: 'Formula One: Explained!'
 - author: Flirting with Models
   categories:
   - Podcasts
