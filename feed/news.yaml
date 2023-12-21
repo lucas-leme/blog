@@ -1,3 +1,17 @@
+- author: MIT Technology Review
+  categories: &id001
+  - Tech
+  - "Not\xEDcias"
+  date: '2023-12-21T13:11:00+00:00'
+  description: "This is today&#8217;s edition of&#160;The Download,&#160;our weekday\
+    \ newsletter that provides a daily dose of what&#8217;s going on in the world\
+    \ of technology. Recapturing early internet whimsy with HTML\_ Websites weren\u2019\
+    t always slick digital experiences.&#160; There was a time when surfing the web\
+    \ involved opening tabs that played music against your will and sifting through\
+    \ walls&#8230;"
+  image: ''
+  path: https://www.technologyreview.com/2023/12/21/1085803/the-download-early-internet-climate-data/
+  title: 'The Download: recreating the early internet, and 2023 in climate data'
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
@@ -20,9 +34,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2023/12/where-is-r-star-and-the-end-of-the-refi-boom-the-top-5-posts-of-2023/
   title: 'Where Is R-Star and the End of the Refi Boom: The Top 5 Posts of 2023'
 - author: MIT Technology Review
-  categories: &id001
-  - Tech
-  - "Not\xEDcias"
+  categories: *id001
   date: '2023-12-21T11:00:00+00:00'
   description: "This article is from The Spark, MIT Technology Review\u2019s weekly\
     \ climate newsletter. To receive it in your inbox every Wednesday, sign up here.\
@@ -32,17 +44,6 @@
   image: ''
   path: https://www.technologyreview.com/2023/12/21/1085795/2023-climate-records-data/
   title: 2023 is breaking all sorts of climate records
-- author: MIT Technology Review
-  categories: *id001
-  date: '2023-12-21T10:00:00+00:00'
-  description: "Websites weren\u2019t always slick digital experiences.&#160; There\
-    \ was a time when surfing the web involved opening tabs that played music against\
-    \ your will and sifting through walls of Times New Roman text on a colored background.\
-    \ In the 2000s, before Squarespace and social media, websites were manifestations\
-    \ of individuality\u2014built entirely from scratch using HTML, by&#8230;"
-  image: ''
-  path: https://www.technologyreview.com/2023/12/21/1084525/internet-whimsy-html-energy/
-  title: Recapturing early internet whimsy with HTML
 - author: "Bloomberg L\xEDnea"
   categories: &id004
   - "Not\xEDcias"
