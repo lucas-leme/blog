@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2023-12-21T19:20:39+00:00'
+  description: ''
+  image: https://i1.ytimg.com/vi/XKGJTMJVRBs/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=XKGJTMJVRBs
+  title: These AI Glasses are Crazy!
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
@@ -36,7 +45,7 @@
   path: https://open.spotify.com/episode/6lIdWsTuJ3DOLpEbJylAkw
   title: "Money Talks: There\u2019s no business like it"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-12-20T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #75: Ruy Alves (Kinea) e Walter Maciel (AZ Quest)\
@@ -54,7 +63,7 @@
   path: https://open.spotify.com/episode/2CYd66FsoDlB7r07WyEP87
   title: 'O FUTURO PROMISSOR DO BRASIL | Corte Ep. #75'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-12-20T00:00:00+00:00'
   description: "General Motors CEO Mary Barra is 10 years into her tenure and deep\
@@ -68,9 +77,7 @@
   path: https://open.spotify.com/episode/4CiAoAWuJ88mJZ7fJmKYvS
   title: "What Happened to GM\u2019s All-Electric Bet?"
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2023-12-19T21:58:50+00:00'
   description: "The best smartphones of 2023!\n\nMKBHD Merch: http://shop.MKBHD.com\n\
     \nSamsung S23 Ultra at https://geni.us/JiXWof \nASUS Zenfone 10 at https://geni.us/AUTNv\n\
@@ -404,7 +411,7 @@
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2023-12-19T00:00:00+00:00'
   description: "2023 est\xE1 acabando e muita coisa foi destaque positivo ou negativo\
     \ na BOLSA DE VALORES brasileira esse ano. No Mercado Aberto de hoje vamos falar\
@@ -425,7 +432,7 @@
   title: "IBOVESPA: 4 GRANDES SURPRESAS DE 2023 E 1 A\xC7\xC3O PARA FICAR DE OLHO\
     \ EM 2024 | Mercado Aberto"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-12-19T00:00:00+00:00'
   description: "Yoshua Bengio, known as a godfather of AI, is one of hundreds of researchers\
     \ and tech leaders calling for a pause in the breakneck development of powerful\
@@ -456,17 +463,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
-- author: Marques Brownlee
-  categories: *id003
-  date: '2023-12-16T03:00:55+00:00'
-  description: "You all should be sorry\n\nPrevious hot takes: https://youtu.be/JzpUfRv45yY?si=ybFyUEG0SgMD6-zj\n\
-    \nJimmy: @JxmyHighroller \n\nMKBHD Merch: http://shop.MKBHD.com\nTech I'm using\
-    \ right now:\nhttps://www.amazon.com/shop/MKBHD\nIntro Track:\nPlaylist of MKBHD\
-    \ Intro music: https://goo.gl/B3AWV5\nX Provided by X for review.\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i1.ytimg.com/vi/PA9iymey_lM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=PA9iymey_lM
-  title: The Worst Hot Takes in Tech
 - author: The Overshoot
   categories: &id005
   - Macro
