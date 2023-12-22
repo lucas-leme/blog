@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2023-12-22T06:53:33+00:00'
+  description: The latest estimates imply that the highest-income Americans are holding
+    almost all of the extra cash, but lower borrowing and higher asset purchases mean
+    that balance sheets are still improving.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fdb66c9-782a-43d3-a754-421714c6edd6_5000x2629.png
+  path: https://theovershoot.co/p/the-rich-have-all-the-excess-cash
+  title: The Rich Have all the "Excess" Cash Now
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -465,7 +476,7 @@
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
 - author: 'FRB: Working Papers'
-  categories: &id004
+  categories: &id005
   - Papers
   - FED
   - BC
@@ -482,9 +493,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2023-12-16T01:06:56+00:00'
   description: In the latest episode of UN/BALANCED, we talk about Peronism, Latin
     American development vs. East Asia, and a positive net foreign asset position
@@ -529,7 +538,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id004
+  categories: *id005
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -551,15 +560,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
-- author: The Overshoot
-  categories: *id005
-  date: '2023-12-15T06:06:11+00:00'
-  description: Jerome Powell all but declared "Mission Accomplished" on the soft landing
-    and made the case for why nominal borrowing costs should fall sharply in 2024-2025.
-    That may be premature.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6c8ef81-32b9-4b6b-b069-533f6550935b_5000x2625.png
-  path: https://theovershoot.co/p/the-fed-prepares-for-rate-cuts-but
-  title: The Fed Prepares for Rate Cuts. But Why?
 - author: Apricitas Economics
   categories: &id009
   - Macro
