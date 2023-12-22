@@ -44,6 +44,37 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fdb66c9-782a-43d3-a754-421714c6edd6_5000x2629.png
   path: https://theovershoot.co/p/the-rich-have-all-the-excess-cash
   title: The Rich Have all the "Excess" Cash Now
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2023-12-22T00:00:00+00:00'
+  description: We are off for the holidays, but still have a great episode for this
+    Christmas weekend.Mariah Carey released "All I Want for Christmas Is You" in 1994
+    to moderate success. Today, the song is a megahit and Christmas playlist staple.
+    What happened? WSJ's John Jurgensen called up the "Queen of Christmas" to find
+    out. This episode was originally published on December 11, 2020.   Learn more
+    about your ad choices. Visit megaphone.fm/adchoices
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1Whgm8oBYwwdgQH00qrHRu
+  title: Mariah Carey on the Rise of Her Christmas Anthem
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2023-12-22T00:00:00+00:00'
+  description: "One sentence that knocked me off my feet when I read Will and Ariel\
+    \ Durant\u2019s The Lessons of History was: \"Learn enough from history to bear\
+    \ reality patiently, and respect one another\u2019s delusions.\"I love that so\
+    \ much.The key here is accepting that everyone is deluded in their own unique\
+    \ way. You, me, all of us.When you realize that you \u2013 the good, noble, well-meaning,\
+    \ even-tempered, fact-driven person that you are \u2013 have views of how the\
+    \ world works that are sure to be incomplete if not completely wrong, you should\
+    \ have empathy for others whose deluded beliefs are obvious to you. I am such\
+    \ a fan of Daniel Kahneman\u2019s observation that we are better at spotting other\
+    \ people\u2019s flaws than our own.This episode shares three reasons why all of\
+    \ us become deluded in our own way."
+  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
+  path: https://open.spotify.com/episode/04W84A2QLMRPVwi7ueGmtK
+  title: "Respect Each Others\u2019 Delusions"
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -71,7 +102,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202312
   title: 'BC - RI: dezembro/2023'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2023-12-21T00:00:00+00:00'
   description: "Todo mundo que ouvir o \xFAltimo epis\xF3dio de 2023 entrar\xE1 mais\
@@ -111,8 +142,7 @@
   path: https://open.spotify.com/episode/246p9DYuFgSqzri2a7l7v4
   title: "#76 | Por que o D\xD3LAR PODE CAIR MUITO MAIS em 2024"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2023-12-21T00:00:00+00:00'
   description: "Thieves across the U.S. are stealing people\u2019s iPhones, using\
     \ them to loot victims\u2019 bank accounts and personal information. After investigating\
@@ -147,7 +177,7 @@
   path: https://open.spotify.com/episode/6lIdWsTuJ3DOLpEbJylAkw
   title: "Money Talks: There\u2019s no business like it"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2023-12-20T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #75: Ruy Alves (Kinea) e Walter Maciel (AZ Quest)\
     \ comentam sobre o momento atual de Brasil, a surpresa positiva com o primeiro\
@@ -163,19 +193,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7122353f3655076746cb6ea3
   path: https://open.spotify.com/episode/2CYd66FsoDlB7r07WyEP87
   title: 'O FUTURO PROMISSOR DO BRASIL | Corte Ep. #75'
-- author: The Journal.
-  categories: *id002
-  date: '2023-12-20T00:00:00+00:00'
-  description: "General Motors CEO Mary Barra is 10 years into her tenure and deep\
-    \ into her quest to turn GM into an electric-car powerhouse. WSJ\u2019s Mike Colias\
-    \ profiles the CEO and discusses the challenges she\u2019s faced in getting her\
-    \ big vision for GM\u2019s future on track.\_  Further Listening: - GM's All-Electric\
-    \ Bet\_ - The Future of Self-Driving Cars Is Here\_  Further Reading: - Mary Barra\
-    \ Spent a Decade Transforming GM. It Hasn\u2019t Been Enough.\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4CiAoAWuJ88mJZ7fJmKYvS
-  title: "What Happened to GM\u2019s All-Electric Bet?"
 - author: Marques Brownlee
   categories: *id003
   date: '2023-12-19T21:58:50+00:00'
@@ -718,20 +735,6 @@
   image: https://substackcdn.com/image/youtube/w_728,c_limit/GLPy-5PLCkg
   path: https://stayathomemacro.substack.com/p/the-wild-ride-is-not-over-when-will-ca3
   title: 'The Wild Ride Is Not Over: When Will the Fed Cut and Does It Matter?'
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2023-12-12T00:00:00+00:00'
-  description: "My wife recently bought me an old book. It's called The Mathematical\
-    \ Theory of Investment. It was written in 1913 and it's as dry and boring as it\
-    \ sounds (but the old weathered cover looks awesome on a bookshelf).\_I flipped\
-    \ through it and thought, \"Does any of this matter?\" These formulas, these charts,\
-    \ this data?Well, yes.\_But not nearly as much as the soft, behavioral side of\
-    \ investing.\_This episode shares 10 of what I think are the most critical financial\
-    \ skills -- none of which you'll find in a 100-year-old academic text."
-  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
-  path: https://open.spotify.com/episode/0yUIIqSKzBuS5WLuqphf4G
-  title: The 10 Most Important Financial Skills
 - author: Flirting with Models
   categories:
   - Podcasts
