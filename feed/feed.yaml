@@ -1,3 +1,38 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-12-22T16:00:21+00:00'
+  description: "In this video, I\u2019ll test if you can use Meta Quest 3 for coding.\
+    \ Gamers mostly occupy the VR landscape, but as a programmer, I wondered if the\
+    \ prospect of infinite virtual monitors could change how we make software.\n\n\
+    \U0001F4A1 Get my FREE 7-step guide to help you consistently design great software:\
+    \ https://arjancodes.com/designguide.\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/ddpuoj\n\
+    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:05 Option 1: VSCode in a web browser\n6:01 Option 2: Virtual Desktop\n10:10\
+    \ Option 3: Horizon workspace\n13:22 Final thoughts\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i4.ytimg.com/vi/WIxSLex_yI8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=WIxSLex_yI8
+  title: Can You Use the Meta Quest 3 for Coding?
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -465,7 +500,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/13122023
   title: "BC - Copom Ata - 259\xAA Reuni\xE3o - 12-13 dezembro, 2023"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-12-19T00:47:05+00:00'
@@ -476,7 +511,7 @@
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
 - author: 'FRB: Working Papers'
-  categories: &id005
+  categories: &id006
   - Papers
   - FED
   - BC
@@ -502,10 +537,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2023-12-15T16:00:16+00:00'
   description: "Exploring API communication in your app, considering requests vs httpx?\
     \ Or maybe even aiohttp?! In this video, I\u2019ll share with you my preferred\
@@ -538,7 +570,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id005
+  categories: *id006
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -679,7 +711,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id006
+  categories: *id007
   date: '2023-12-12T21:34:26+00:00'
   description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
     the soft landing, and it''s important that the Fed not create turbulence.'
@@ -722,49 +754,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8c8d3c4c2de9a21b42d4f790
   path: https://open.spotify.com/episode/430BrDnK37RhBQppVNYtf1
   title: "Bin Ren \u2013 text2quant (S7E2)"
-- author: ArjanCodes
-  categories: *id007
-  date: '2023-12-08T16:00:34+00:00'
-  description: "Recently, I asked what programming questions you have, and you responded\
-    \ with great ones! In this Q&amp;A video, I'm answering your programming queries,\
-    \ covering everything you wanted to know!\n\n\U0001F477 Join the FREE Code Diagnosis\
-    \ Workshop to help you review code more effectively using my 3-Factor Diagnosis\
-    \ Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F4BB ArjanCodes Blog:\
-    \ https://www.arjancodes.com/blog\n\nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\
-    \n\U0001F393 Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    2:30 What is the current standard structure for a Python project?\n4:26 How do\
-    \ you apply TDD for machine learning and deep learning projects?\n6:19 Will you\
-    \ ever do video game related content?\n8:15 When building a Python REST API, do\
-    \ you use snake_case, or camelCase?\n10:05 How do you separate front end from\
-    \ back end?\n11:23 What about the Pros and Cons of using Python vs Java in education?\n\
-    14:50 Is it recommended to build standalone software with Python and tkinter for\
-    \ commercial use?\n16:15 I have a dream of contributing to a programming language.\
-    \ How difficult to achieve is that?\n17:27 What are some tips and resources you\
-    \ can recommend for older folks looking to get into coding?\n19:49 What is the\
-    \ order of your playlists to learn Python step-by-step?\n20:23 Have you ever battled\
-    \ golden handcuffs or have any recommendations on how you might approach such\
-    \ a problem?\n24:17 Can you explain the difference between using pickle, hfd5,\
-    \ or databases like SQLlite to save and manipulate data?\n25:27 Do you plan to\
-    \ create any videos regarding pytest?\n26:06 Outro\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/dfFgaTdS3rE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=dfFgaTdS3rE
-  title: ArjanCodes Q&A 2023 | Everything You Wanted to Know!
 - author: The View From Apollo
   categories:
   - Podcasts
