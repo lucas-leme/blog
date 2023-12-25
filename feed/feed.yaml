@@ -1,5 +1,16 @@
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2023-12-25T12:59:51+00:00'
+  description: 'It&#8217;s a wonderful Christmas present to have you here. I hope
+    Stay-At-Home Macro (SAHM) brings you joy all year. It does me. #PuffiSays I love
+    you all, too!'
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a170ae6-0ef1-43b5-9d43-e54b5d309e47_965x725.png
+  path: https://stayathomemacro.substack.com/p/wishing-you-and-your-family-a-joyous
+  title: Wishing you and your family a joyous and merry Christmas!
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2023-12-23T17:27:06+00:00'
@@ -8,7 +19,7 @@
   path: https://www.apricitas.io/p/2023-economic-year-in-review
   title: 2023 Economic Year-in-Review
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -43,7 +54,7 @@
   path: https://www.youtube.com/watch?v=WIxSLex_yI8
   title: Can You Use the Meta Quest 3 for Coding?
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-22T06:53:33+00:00'
@@ -526,9 +537,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/13122023
   title: "BC - Copom Ata - 259\xAA Reuni\xE3o - 12-13 dezembro, 2023"
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2023-12-19T00:47:05+00:00'
   description: The past three years have been miserable. And we are coming out of
     the clouds. The soft landing is getting real. Nothing is guaranteed, but wow,
@@ -537,7 +546,7 @@
   path: https://stayathomemacro.substack.com/p/we-are-landing-this-plane-softly
   title: We are landing this plane, softly.
 - author: 'FRB: Working Papers'
-  categories: &id006
+  categories: &id007
   - Papers
   - FED
   - BC
@@ -554,7 +563,7 @@
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2023-12-16T01:06:56+00:00'
   description: In the latest episode of UN/BALANCED, we talk about Peronism, Latin
     American development vs. East Asia, and a positive net foreign asset position
@@ -563,7 +572,7 @@
   path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
   title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-12-15T16:00:16+00:00'
   description: "Exploring API communication in your app, considering requests vs httpx?\
     \ Or maybe even aiohttp?! In this video, I\u2019ll share with you my preferred\
@@ -596,7 +605,7 @@
   path: https://www.youtube.com/watch?v=OPyoXx0yA0I
   title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
-  categories: *id006
+  categories: *id007
   date: '2023-12-15T15:40:00+00:00'
   description: <a href="https://www.federalreserve.gov/econres/christine-l-dobridge.htm">Christine
     L. Dobridge</a>, Patrick Kennedy, Paul Landefeld, Jacob Mortenson<br /><br />We
@@ -619,7 +628,7 @@
   path: https://www.federalreserve.gov/econres/feds/the-tcja-and-domestic-corporate-tax-rates.htm
   title: 'FEDS Paper: The TCJA and Domestic Corporate Tax Rates'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2023-12-15T00:16:28+00:00'
   description: Record US Oil and Gas Production Has Allowed the County to Become a
     Major Net Energy Exporter&#8212;and Trade Volumes are Expected to Continue Growing
@@ -734,14 +743,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
-- author: Stay-At-Home Macro (SAHM)
-  categories: *id008
-  date: '2023-12-12T21:34:26+00:00'
-  description: 'Tomorrow is the last #FedDay for 2023. We are on the glide path to
-    the soft landing, and it''s important that the Fed not create turbulence.'
-  image: https://substackcdn.com/image/youtube/w_728,c_limit/GLPy-5PLCkg
-  path: https://stayathomemacro.substack.com/p/the-wild-ride-is-not-over-when-will-ca3
-  title: 'The Wild Ride Is Not Over: When Will the Fed Cut and Does It Matter?'
 - author: Flirting with Models
   categories:
   - Podcasts
