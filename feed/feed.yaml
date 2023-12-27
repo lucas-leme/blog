@@ -1,3 +1,12 @@
+- author: The Overshoot
+  categories: &id002
+  - Macro
+  - Newsletters
+  date: '2023-12-27T15:00:44+00:00'
+  description: Looking back at some of the big themes of the past 12 months.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4375a152-36a5-4770-b35d-eccfb67d30b9_4997x2723.png
+  path: https://theovershoot.co/p/the-overshoots-2023-year-in-review
+  title: The Overshoot's 2023 Year In Review
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -32,7 +41,7 @@
   title: "Abrindo nossa carteira e revelando erros e acertos de 2023 (Thiago Salom\xE3\
     o e Matheus Soares) | Mercado Aberto"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2023-12-26T00:00:00+00:00'
   description: "Earlier this year, we brought you the story of a New Jersey restaurant\
@@ -65,7 +74,7 @@
   path: https://open.spotify.com/episode/03xNoYXhyGOOfds6PFmlSI
   title: Nick Baltas - Multi-Asset, Multi-Strategy Portfolios (S7E3)
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-25T12:59:51+00:00'
@@ -120,9 +129,7 @@
   path: https://www.youtube.com/watch?v=WIxSLex_yI8
   title: Can You Use the Meta Quest 3 for Coding?
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id002
   date: '2023-12-22T06:53:33+00:00'
   description: The latest estimates imply that the highest-income Americans are holding
     almost all of the extra cash, but lower borrowing and higher asset purchases mean
@@ -145,7 +152,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/22122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 22/12/2023"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2023-12-22T00:00:00+00:00'
   description: We are off for the holidays, but still have a great episode for this
     Christmas weekend.Mariah Carey released "All I Want for Christmas Is You" in 1994
@@ -175,7 +182,7 @@
   path: https://open.spotify.com/episode/04W84A2QLMRPVwi7ueGmtK
   title: "Respect Each Others\u2019 Delusions"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2023-12-21T19:20:39+00:00'
@@ -221,7 +228,7 @@
   path: https://open.spotify.com/episode/6lIdWsTuJ3DOLpEbJylAkw
   title: "Money Talks: There\u2019s no business like it"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2023-12-19T21:58:50+00:00'
   description: "The best smartphones of 2023!\n\nMKBHD Merch: http://shop.MKBHD.com\n\
     \nSamsung S23 Ultra at https://geni.us/JiXWof \nASUS Zenfone 10 at https://geni.us/AUTNv\n\
@@ -544,7 +551,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/13122023
   title: "BC - Copom Ata - 259\xAA Reuni\xE3o - 12-13 dezembro, 2023"
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id004
+  categories: *id005
   date: '2023-12-19T00:47:05+00:00'
   description: The past three years have been miserable. And we are coming out of
     the clouds. The soft landing is getting real. Nothing is guaranteed, but wow,
@@ -569,15 +576,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
-- author: The Overshoot
-  categories: *id005
-  date: '2023-12-16T01:06:56+00:00'
-  description: In the latest episode of UN/BALANCED, we talk about Peronism, Latin
-    American development vs. East Asia, and a positive net foreign asset position
-    does not necessarily improve stability.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa636e72f-5a1c-4ac4-84b9-fe1410174c76_4997x2625.png
-  path: https://theovershoot.co/p/a-longer-term-look-at-argentina-with
-  title: A Longer-term Look at Argentina With Michael Pettis
 - author: ArjanCodes
   categories: *id006
   date: '2023-12-15T16:00:16+00:00'
