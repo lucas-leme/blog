@@ -1,3 +1,16 @@
+- author: MIT Technology Review
+  categories: &id001
+  - Tech
+  - "Not\xEDcias"
+  date: '2023-12-29T10:00:00+00:00'
+  description: In September 2017, about two minutes before a magnitude 8.2 earthquake
+    struck Mexico City, blaring sirens alerted residents that a quake was coming.
+    Such alerts, which are now available in the United States, Japan, Turkey, Italy,
+    and Romania, among other countries, have changed the way we think about the threat
+    of earthquakes. They no longer&#8230;
+  image: ''
+  path: https://www.technologyreview.com/2023/12/29/1084699/machine-learning-earthquake-prediction-ai-artificial-intelligence/
+  title: How machine learning might unlock earthquake prediction
 - author: "Bloomberg L\xEDnea"
   categories: &id002
   - "Not\xEDcias"
@@ -11,9 +24,7 @@
   title: "Retomada de shoppings contrasta com crise de varejistas na economia e na\
     \ bolsa - Bloomberg L\xEDnea Brasil"
 - author: MIT Technology Review
-  categories: &id001
-  - Tech
-  - "Not\xEDcias"
+  categories: *id001
   date: '2023-12-28T10:00:00+00:00'
   description: In its final weeks, the Obama administration released a report that
     rippled through the federal science and technology community. Titled Ensuring
@@ -23,17 +34,6 @@
   image: ''
   path: https://www.technologyreview.com/2023/12/28/1084686/computing-microelectronics-chips-act/
   title: We need a moonshot for computing
-- author: MIT Technology Review
-  categories: *id001
-  date: '2023-12-27T10:00:00+00:00'
-  description: "The surge of climate-tech startups seeking to reinvent clean energy\
-    \ and transform huge industrial markets is fueling optimism about our prospects\
-    \ for addressing climate change. Tens of billions are pouring into these venture-backed\
-    \ companies in just about every field you can imagine, from green steel to nuclear\
-    \ fusion. As I explain in \u201CClimate tech is&#8230;"
-  image: ''
-  path: https://www.technologyreview.com/2023/12/27/1085892/six-takeaways-climate-tech-boom/
-  title: Six takeaways from a climate-tech boom
 - author: "Bloomberg L\xEDnea"
   categories: *id002
   date: '2023-12-26T12:15:00+00:00'
