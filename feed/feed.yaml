@@ -1,5 +1,42 @@
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2023-12-29T16:00:21+00:00'
+  description: "In this video, I'll explore coding with Rust for the first time, diving\
+    \ into its cool features and drawing comparisons with Python.\n\n\U0001F477 Join\
+    \ the FREE Code Diagnosis Workshop to help you review code more effectively using\
+    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F63A\
+    \ Git repository: https://git.arjan.codes/2023/rust\n\n\U0001F4BB ArjanCodes Blog:\
+    \ https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a quiz on this topic:\
+    \ https://www.learntail.com/quiz/kmxktf\n\nTry Learntail for FREE \u27A1\uFE0F\
+    \ https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software Designer Mindset:\
+    \ https://www.arjancodes.com/mindset\nThe Software Architect Mindset: Pre-register\
+    \ now! https://www.arjancodes.com/architect\nNext Level Python: Become a Python\
+    \ Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day Design Challenge:\
+    \ https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\
+    \n\U0001F44D If you enjoyed this content, give this video a like. If you want\
+    \ to watch more of my upcoming videos, consider subscribing to my channel!\n\n\
+    Social channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426\
+    Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
+    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
+    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
+    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5\
+    \ Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\u270D\U0001F3FB\
+    \ Code Examples & Scripting: Alyce Osbourne\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:12 Hello world\n3:32 Macros\n4:27 Overview of key differences\n8:25 Python classes\
+    \ vs Rust struct\n15:59 Differences between an ABC and a trait\n18:29 Macros in\
+    \ Rust\n19:26 Final thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
+    \ - The links in this description might be affiliate links. If you purchase a\
+    \ product or service through one of those links, I may receive a small commission.\
+    \ There is no additional charge to you. Thanks for supporting my channel so I\
+    \ can continue to provide you with free content each week!"
+  image: https://i2.ytimg.com/vi/MoqtsYLGCC4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=MoqtsYLGCC4
+  title: An Introduction to Coding In Rust for Pythonistas
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2023-12-28T19:52:58+00:00'
@@ -67,7 +104,7 @@
     \xE3o: Matheus Soares (@maatssoares) e Thiago Salom\xE3o (@_salomoney) Convidados:\
     \ Marcelo Silva e Rodrigo Nasser, gestores e fundadores da Aster Capital Edi\xE7\
     \xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8aa1b887c1e3d1a8d315de6ba4
+  image: https://i.scdn.co/image/ab6765630000ba8a232a27a3200124848cccd2dd
   path: https://open.spotify.com/episode/1GSPXoymP24JS9TP9OLYZW
   title: '#77 | COMO O NUBANK SE TORNOU O MAIOR BANCO DIGITAL DO MUNDO?'
 - author: The View From Apollo
@@ -100,7 +137,7 @@
   path: https://open.spotify.com/episode/0tZSoBrrIsfH8nisbeigVZ
   title: 'Money Talks: So this is Quizmas'
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-27T15:00:44+00:00'
@@ -125,7 +162,7 @@
   path: https://open.spotify.com/episode/65NGZNayzeRQWxIJFNJrU6
   title: "UMA VIS\xC3O OTIMISTA PARA O FUTURO DA ECONOMIA GLOBAL | Corte Ep. #76"
 - author: The Journal.
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2023-12-26T00:00:00+00:00'
   description: "Earlier this year, we brought you the story of a New Jersey restaurant\
@@ -174,10 +211,7 @@
   path: https://www.apricitas.io/p/2023-economic-year-in-review
   title: 2023 Economic Year-in-Review
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2023-12-22T16:00:21+00:00'
   description: "In this video, I\u2019ll test if you can use Meta Quest 3 for coding.\
     \ Gamers mostly occupy the VR landscape, but as a programmer, I wondered if the\
@@ -209,7 +243,7 @@
   path: https://www.youtube.com/watch?v=WIxSLex_yI8
   title: Can You Use the Meta Quest 3 for Coding?
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2023-12-22T06:53:33+00:00'
   description: The latest estimates imply that the highest-income Americans are holding
     almost all of the extra cash, but lower borrowing and higher asset purchases mean
@@ -232,7 +266,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/22122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 22/12/2023"
 - author: The Journal.
-  categories: *id005
+  categories: *id006
   date: '2023-12-22T00:00:00+00:00'
   description: We are off for the holidays, but still have a great episode for this
     Christmas weekend.Mariah Carey released "All I Want for Christmas Is You" in 1994
@@ -262,7 +296,7 @@
   path: https://open.spotify.com/episode/04W84A2QLMRPVwi7ueGmtK
   title: "Respect Each Others\u2019 Delusions"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2023-12-21T19:20:39+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/XKGJTMJVRBs/hqdefault.jpg
@@ -606,39 +640,6 @@
   image: https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp
   path: https://www.federalreserve.gov/econres/ifdp/lessons-from-nowcasting-gdp-across-the-world.htm
   title: 'IFDP Paper: Lessons from Nowcasting GDP across the World'
-- author: ArjanCodes
-  categories: *id007
-  date: '2023-12-15T16:00:16+00:00'
-  description: "Exploring API communication in your app, considering requests vs httpx?\
-    \ Or maybe even aiohttp?! In this video, I\u2019ll share with you my preferred\
-    \ choice and why you should consider it as well.\n\nGit repo: https://git.arjan.codes/2023/httpx\n\
-    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
-    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
-    \ Take a quiz on this topic: https://www.learntail.com/quiz/dxgeth\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:45 Popularity\n2:05 Requests\n6:43 Aiohttp\n8:40 Httpx\n10:26 Concurrent requests\n\
-    13:33 Licenses\n14:49 Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
-    \ - The links in this description might be affiliate links. If you purchase a\
-    \ product or service through one of those links, I may receive a small commission.\
-    \ There is no additional charge to you. Thanks for supporting my channel so I\
-    \ can continue to provide you with free content each week!"
-  image: https://i4.ytimg.com/vi/OPyoXx0yA0I/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OPyoXx0yA0I
-  title: Requests vs Httpx vs Aiohttp | Which One to Pick?
 - author: 'FRB: Working Papers'
   categories: *id008
   date: '2023-12-15T15:40:00+00:00'
