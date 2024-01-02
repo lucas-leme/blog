@@ -1,3 +1,15 @@
+- author: "Bloomberg L\xEDnea"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-01-02T12:35:00+00:00'
+  description: "<a href=\"https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9taW5lcmlvLWRlLWZlcnJvLXNvYmUtY29tLXByb21lc3NhLWRlLXhpLWRlLWZvcnRhbGVjZXItZWNvbm9taWEtZGEtY2hpbmEv0gGDAWh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9taW5lcmlvLWRlLWZlcnJvLXNvYmUtY29tLXByb21lc3NhLWRlLXhpLWRlLWZvcnRhbGVjZXItZWNvbm9taWEtZGEtY2hpbmEvP291dHB1dFR5cGU9YW1w?oc=5\"\
+    \ target=\"_blank\">Min\xE9rio de ferro sobe com promessa de Xi de fortalecer\
+    \ economia da China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg L\xEDnea\
+    \ Brasil</font>"
+  image: ''
+  path: https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9taW5lcmlvLWRlLWZlcnJvLXNvYmUtY29tLXByb21lc3NhLWRlLXhpLWRlLWZvcnRhbGVjZXItZWNvbm9taWEtZGEtY2hpbmEv0gGDAWh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9taW5lcmlvLWRlLWZlcnJvLXNvYmUtY29tLXByb21lc3NhLWRlLXhpLWRlLWZvcnRhbGVjZXItZWNvbm9taWEtZGEtY2hpbmEvP291dHB1dFR5cGU9YW1w?oc=5
+  title: "Min\xE9rio de ferro sobe com promessa de Xi de fortalecer economia da China\
+    \ - Bloomberg L\xEDnea Brasil"
 - author: MIT Technology Review
   categories: &id002
   - Tech
@@ -12,8 +24,7 @@
   path: https://www.technologyreview.com/2024/01/02/1084713/how-does-hunger-work-appetite/
   title: "We\u2019ve never understood how hunger works. That might be about to change."
 - author: "Bloomberg L\xEDnea"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-01-01T14:21:33+00:00'
   description: "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici8yMDI0LzAxLzAxL3F1ZXItY29uc2VndWlyLWN1bXByaXItYXMtcmVzb2x1Y29lcy1kZS1hbm8tbm92by1hLWVjb25vbWlhLXBvZGUtdGUtYWp1ZGFyL9IBhwFodHRwczovL3d3dy5ibG9vbWJlcmdsaW5lYS5jb20uYnIvMjAyNC8wMS8wMS9xdWVyLWNvbnNlZ3Vpci1jdW1wcmlyLWFzLXJlc29sdWNvZXMtZGUtYW5vLW5vdm8tYS1lY29ub21pYS1wb2RlLXRlLWFqdWRhci8_b3V0cHV0VHlwZT1hbXA?oc=5\"\
     \ target=\"_blank\">Quer conseguir cumprir as resolu\xE7\xF5es de Ano Novo? A\
@@ -71,17 +82,6 @@
   path: https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9uZWdvY2lvcy9yZXRvbWFkYS1kZS1zaG9wcGluZ3MtY29udHJhc3RhLWNvbS1jcmlzZS1kZS12YXJlamlzdGFzLW5hLWVjb25vbWlhLWUtbmEtYm9sc2Ev0gGJAWh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9uZWdvY2lvcy9yZXRvbWFkYS1kZS1zaG9wcGluZ3MtY29udHJhc3RhLWNvbS1jcmlzZS1kZS12YXJlamlzdGFzLW5hLWVjb25vbWlhLWUtbmEtYm9sc2EvP291dHB1dFR5cGU9YW1w?oc=5
   title: "Retomada de shoppings contrasta com crise de varejistas na economia e na\
     \ bolsa - Bloomberg L\xEDnea Brasil"
-- author: "Bloomberg L\xEDnea"
-  categories: *id001
-  date: '2023-12-27T19:25:00+00:00'
-  description: "<a href=\"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9mb3JjYS1kYS1lY29ub21pYS1hbWVyaWNhbmEtcG9kZS1zZXItdW0tcHJvYmxlbWEtcGFyYS1vLXByZWNvLWRlc3Nhcy03LWFjb2VzL9IBhwFodHRwczovL3d3dy5ibG9vbWJlcmdsaW5lYS5jb20uYnIvbWVyY2Fkb3MvZm9yY2EtZGEtZWNvbm9taWEtYW1lcmljYW5hLXBvZGUtc2VyLXVtLXByb2JsZW1hLXBhcmEtby1wcmVjby1kZXNzYXMtNy1hY29lcy8_b3V0cHV0VHlwZT1hbXA?oc=5\"\
-    \ target=\"_blank\">For\xE7a da economia americana pode ser um problema para o\
-    \ pre\xE7o destas 7 a\xE7\xF5es</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg\
-    \ L\xEDnea Brasil</font>"
-  image: ''
-  path: https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9tZXJjYWRvcy9mb3JjYS1kYS1lY29ub21pYS1hbWVyaWNhbmEtcG9kZS1zZXItdW0tcHJvYmxlbWEtcGFyYS1vLXByZWNvLWRlc3Nhcy03LWFjb2VzL9IBhwFodHRwczovL3d3dy5ibG9vbWJlcmdsaW5lYS5jb20uYnIvbWVyY2Fkb3MvZm9yY2EtZGEtZWNvbm9taWEtYW1lcmljYW5hLXBvZGUtc2VyLXVtLXByb2JsZW1hLXBhcmEtby1wcmVjby1kZXNzYXMtNy1hY29lcy8_b3V0cHV0VHlwZT1hbXA?oc=5
-  title: "For\xE7a da economia americana pode ser um problema para o pre\xE7o destas\
-    \ 7 a\xE7\xF5es - Bloomberg L\xEDnea Brasil"
 - author: "Weekend \u2013 Brazil Journal"
   categories: *id003
   date: '2023-12-22T11:53:16+00:00'
