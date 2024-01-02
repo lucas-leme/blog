@@ -1,3 +1,16 @@
+- author: MIT Technology Review
+  categories: &id002
+  - Tech
+  - "Not\xEDcias"
+  date: '2024-01-02T10:00:00+00:00'
+  description: "You haven\u2019t seen hungry until you\u2019ve seen Brad Lowell\u2019\
+    s mice.&#160; A few years ago, Lowell\u2014a Harvard University neuro\xADscientist\u2014\
+    and a postdoc, Mike Krashes, figured out how to turn up the volume on the drive\
+    \ for food as high as it can go. They did it by stimulating a bundle of neurons\
+    \ in the hypothalamus, an area&#8230;"
+  image: ''
+  path: https://www.technologyreview.com/2024/01/02/1084713/how-does-hunger-work-appetite/
+  title: "We\u2019ve never understood how hunger works. That might be about to change."
 - author: "Bloomberg L\xEDnea"
   categories: &id001
   - "Not\xEDcias"
@@ -37,9 +50,7 @@
   path: https://braziljournal.com/estouro-da-bolha-do-champanhe-cria-pechinchas/
   title: "Estouro da bolha do champanhe cria \u2018pechinchas\u2019"
 - author: MIT Technology Review
-  categories: &id002
-  - Tech
-  - "Not\xEDcias"
+  categories: *id002
   date: '2023-12-29T10:00:00+00:00'
   description: In September 2017, about two minutes before a magnitude 8.2 earthquake
     struck Mexico City, blaring sirens alerted residents that a quake was coming.
@@ -60,17 +71,6 @@
   path: https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9uZWdvY2lvcy9yZXRvbWFkYS1kZS1zaG9wcGluZ3MtY29udHJhc3RhLWNvbS1jcmlzZS1kZS12YXJlamlzdGFzLW5hLWVjb25vbWlhLWUtbmEtYm9sc2Ev0gGJAWh0dHBzOi8vd3d3LmJsb29tYmVyZ2xpbmVhLmNvbS5ici9uZWdvY2lvcy9yZXRvbWFkYS1kZS1zaG9wcGluZ3MtY29udHJhc3RhLWNvbS1jcmlzZS1kZS12YXJlamlzdGFzLW5hLWVjb25vbWlhLWUtbmEtYm9sc2EvP291dHB1dFR5cGU9YW1w?oc=5
   title: "Retomada de shoppings contrasta com crise de varejistas na economia e na\
     \ bolsa - Bloomberg L\xEDnea Brasil"
-- author: MIT Technology Review
-  categories: *id002
-  date: '2023-12-28T10:00:00+00:00'
-  description: In its final weeks, the Obama administration released a report that
-    rippled through the federal science and technology community. Titled Ensuring
-    Long-Term US Leadership in Semiconductors, it warned that as conventional ways
-    of building chips brushed up against the laws of physics, the United States was
-    at risk of losing its edge in the chip&#8230;
-  image: ''
-  path: https://www.technologyreview.com/2023/12/28/1084686/computing-microelectronics-chips-act/
-  title: We need a moonshot for computing
 - author: "Bloomberg L\xEDnea"
   categories: *id001
   date: '2023-12-27T19:25:00+00:00'
