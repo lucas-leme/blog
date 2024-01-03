@@ -1,3 +1,16 @@
+- author: MIT Technology Review
+  categories: &id001
+  - Tech
+  - "Not\xEDcias"
+  date: '2024-01-03T13:10:00+00:00'
+  description: "This is today&#8217;s edition of\_The Download,\_our weekday newsletter\
+    \ that provides a daily dose of what&#8217;s going on in the world of technology.\
+    \ How electricity could help tackle a surprising climate villain Cement hides\
+    \ in plain sight\u2014it\u2019s used to build everything from roads and buildings\
+    \ to dams and basement floors. But it\u2019s also a climate threat.&#8230;"
+  image: ''
+  path: https://www.technologyreview.com/2024/01/03/1086048/the-download-greener-cement-and-the-biggest-tech-stories-of-2023/
+  title: 'The Download: greener cement, and the biggest tech stories of 2023'
 - author: "Bloomberg L\xEDnea"
   categories: &id002
   - "Not\xEDcias"
@@ -11,9 +24,7 @@
   title: "Ata do Fed e dados da economia americana: os eventos no radar do mercado\
     \ na quarta - Bloomberg L\xEDnea Brasil"
 - author: MIT Technology Review
-  categories: &id001
-  - Tech
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-01-03T10:15:00+00:00'
   description: "As sweltering ocean temperatures make graveyards of coral reefs across\
     \ the Caribbean and beyond, a team of scientists is scrambling to cool corals\
@@ -23,17 +34,6 @@
   image: ''
   path: https://www.technologyreview.com/2024/01/03/1084722/cryopreservation-coral-reefs-coral-biobank-alliance/
   title: "The race is on to save coral reefs\u2014by freezing them"
-- author: MIT Technology Review
-  categories: *id001
-  date: '2024-01-03T10:00:00+00:00'
-  description: "Cement hides in plain sight\u2014it\u2019s used to build everything\
-    \ from roads and buildings to dams and basement floors. But there\u2019s a climate\
-    \ threat lurking in those ubiquitous gray slabs. Cement production accounts for\
-    \ more than 7% of global carbon dioxide emissions\u2014more than sectors like\
-    \ aviation, shipping, or landfills. Humans have been making cement, in one&#8230;"
-  image: ''
-  path: https://www.technologyreview.com/2024/01/03/1084734/sublime-systems-cement-climate-change-carbon-footprint/
-  title: How electricity could help tackle a surprising climate villain
 - author: "Bloomberg L\xEDnea"
   categories: *id002
   date: '2024-01-02T12:35:00+00:00'
