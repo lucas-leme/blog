@@ -1,5 +1,22 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-01-03T22:03:42+00:00'
+  description: "2024 Tech I'm looking forward to this year!\n\nThe Waveform podcast:\
+    \ http://youtube.com/Waveform\nAuto Focus videos: http://youtube.com/AutoFocus\n\
+    \nApple Vision Pro Impressions: https://youtu.be/OFvXuyITwBI?si=9121qTtzekqnj6fb\n\
+    \nGoogle\u2019s actual AI output: https://developers.googleblog.com/2023/12/how-its-made-gemini-multimodal-prompting.html?m=1\n\
+    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n0:00 January!\n1:05\
+    \ Apple Vision Pro\n3:26 Multimodal AI\n6:06 New Apple Hardware\n8:13 Smartphones\n\
+    8:54 Electric Cars\n10:09 Videos and Projects!\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i1.ytimg.com/vi/tHS3qxU_3RE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=tHS3qxU_3RE
+  title: 2024 Tech I'm Ready For!
 - author: Market Makers
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-01-03T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #77: Marcelo Silva e Rodrigo Nasser, gestores e\
@@ -18,8 +35,22 @@
   title: "A GRANDE DIFEREN\xC7A do NUBANK em rela\xE7\xE3o aos outros bancos digitais\
     \ | Corte Ep. #77"
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-01-03T00:00:00+00:00'
+  description: "If you text on a smartphone, chances are you\u2019ve seen the problem:\
+    \ blue text bubbles versus green texts. It's a visual symbol of the problems that\
+    \ Android and iPhone users have when trying to text each other. WSJ\u2019s Nicole\
+    \ Nguyen on the blue-green texting divide and one company\u2019s fight to pop\
+    \ Apple\u2019s iMessage exclusivity.  Further Reading: - The Fight Over Apple\u2019\
+    s iMessage and Those Green Bubbles\_ - Why Apple\u2019s iMessage Is Winning: Teens\
+    \ Dread the Green Text Bubble\_  Further Listening: - How Apple Lost to the EU\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0KwUqzGJQrnn8bLVMjW2bQ
+  title: "One Company\u2019s Quest to Burst Apple\u2019s Blue Bubble Texts"
+- author: The Journal.
+  categories: *id001
   date: '2024-01-02T00:00:00+00:00'
   description: "For more than three years, Jan Marsalek has been on the run. He was\
     \ the jet-setting COO of Wirecard, the German company that imploded after a financial\
@@ -35,7 +66,7 @@
   path: https://open.spotify.com/episode/4v4A8HQLUJqQpbb2bturPH
   title: '''The Ultimate Confidence Trickster'': The Double Life of a Tech Exec'
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -86,9 +117,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/29122023
   title: "BC - Focus - Relat\xF3rio de Mercado - 29/12/2023"
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2023-12-28T19:52:58+00:00'
   description: "Long(er) term review with a plot twist\n\nMKBHD Merch: http://shop.MKBHD.com\n\
     \nApple iPhone 15 Pro at https://geni.us/FJ6qT6X\n\nTech I'm using right now:\
@@ -99,7 +128,7 @@
   path: https://www.youtube.com/watch?v=YmwskGLycHo
   title: 'iPhone 15 Pro: 3 Months Later!'
 - author: Apricitas Economics
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2023-12-28T17:05:52+00:00'
@@ -109,7 +138,7 @@
   path: https://www.apricitas.io/p/the-2024-economic-outlook-growing
   title: 'The 2024 Economic Outlook: Growing Confidence'
 - author: Stay-At-Home Macro (SAHM)
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2023-12-28T15:02:50+00:00'
@@ -124,7 +153,7 @@
   path: https://stayathomemacro.substack.com/p/the-fed-inflation-and-soft-landing
   title: The Fed, inflation, and soft landing road show
 - author: Market Makers
-  categories: *id001
+  categories: *id003
   date: '2023-12-28T00:00:00+00:00'
   description: "ENTRE PARA A LISTA DE ESPERA DA COMUNIDADE MARKET MAKERS: https://mmakers.com.br/comunidade/\
     \ Fizemos na metade de dezembro uma profunda imers\xE3o sobre NUBANK em um evento\
@@ -186,7 +215,7 @@
   path: https://open.spotify.com/episode/0tZSoBrrIsfH8nisbeigVZ
   title: 'Money Talks: So this is Quizmas'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2023-12-27T15:00:44+00:00'
@@ -194,19 +223,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4375a152-36a5-4770-b35d-eccfb67d30b9_4997x2723.png
   path: https://theovershoot.co/p/the-overshoots-2023-year-in-review
   title: The Overshoot's 2023 Year In Review
-- author: The Journal.
-  categories: *id002
-  date: '2023-12-26T00:00:00+00:00'
-  description: "Earlier this year, we brought you the story of a New Jersey restaurant\
-    \ owner named Gregory Gregory, who took on Taco Bell over the trademark for \"\
-    Taco Tuesday.\u201D  After months of negotiations, their fight is now over. Producer\
-    \ Rachel Humphreys spoke to Gregory Gregory to find out why.  Further Listening:\
-    \ - Who Owns Taco Tuesday?\_  Further Reading: - The Long Fight Over \u2018Taco\
-    \ Tuesday\u2019\_ - The Battle for Taco Tuesday Gets Heated\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3JLi5DlsonXwtYxZh4pYc4
-  title: The Taco Tuesday Fight Is Over
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -227,7 +243,7 @@
   path: https://open.spotify.com/episode/03xNoYXhyGOOfds6PFmlSI
   title: Nick Baltas - Multi-Asset, Multi-Strategy Portfolios (S7E3)
 - author: Stay-At-Home Macro (SAHM)
-  categories: *id003
+  categories: *id004
   date: '2023-12-25T12:59:51+00:00'
   description: 'It&#8217;s a wonderful Christmas present to have you here. I hope
     Stay-At-Home Macro (SAHM) brings you joy all year. It does me. #PuffiSays I love
@@ -236,14 +252,14 @@
   path: https://stayathomemacro.substack.com/p/wishing-you-and-your-family-a-joyous
   title: Wishing you and your family a joyous and merry Christmas!
 - author: Apricitas Economics
-  categories: *id004
+  categories: *id005
   date: '2023-12-23T17:27:06+00:00'
   description: 10 Charts on a Historic Year for the US Economy
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b575b94-1e8e-4f15-9e7b-d74a43ed86aa_2886x1843.png
   path: https://www.apricitas.io/p/2023-economic-year-in-review
   title: 2023 Economic Year-in-Review
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2023-12-22T16:00:21+00:00'
   description: "In this video, I\u2019ll test if you can use Meta Quest 3 for coding.\
     \ Gamers mostly occupy the VR landscape, but as a programmer, I wondered if the\
@@ -275,7 +291,7 @@
   path: https://www.youtube.com/watch?v=WIxSLex_yI8
   title: Can You Use the Meta Quest 3 for Coding?
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2023-12-22T06:53:33+00:00'
   description: The latest estimates imply that the highest-income Americans are holding
     almost all of the extra cash, but lower borrowing and higher asset purchases mean
@@ -301,13 +317,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/04W84A2QLMRPVwi7ueGmtK
   title: "Respect Each Others\u2019 Delusions"
-- author: Marques Brownlee
-  categories: *id007
-  date: '2023-12-21T19:20:39+00:00'
-  description: ''
-  image: https://i1.ytimg.com/vi/XKGJTMJVRBs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=XKGJTMJVRBs
-  title: These AI Glasses are Crazy!
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
