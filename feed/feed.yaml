@@ -1,3 +1,30 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-01-09T02:38:32+00:00'
+  description: 'The updated SCIENTIFIC best smartphone camera on earth! https://vote.MKBHD.com
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/VRoTOE3FqT0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=VRoTOE3FqT0
+  title: The New Best Smartphone Camera!
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -47,7 +74,7 @@
   path: https://open.spotify.com/episode/3ajUOYRSq37SjSDIn4zG77
   title: 'Artificial: Episode 3, ChatGPT'
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -121,7 +148,7 @@
   path: https://www.apricitas.io/p/the-new-geography-of-american-growth
   title: The New Geography of American Growth
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-01-04T00:00:00+00:00'
   description: "No primeiro epis\xF3dio de 2024, recebemos o maior gestor-trader do\
@@ -171,9 +198,7 @@
   path: https://open.spotify.com/episode/04G5bUVn0UqOg51LASfcyh
   title: 'Money Talks: Why more women are upping tools'
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2024-01-03T22:03:42+00:00'
   description: "2024 Tech I'm looking forward to this year!\n\nThe Waveform podcast:\
     \ http://youtube.com/Waveform\nAuto Focus videos: http://youtube.com/AutoFocus\n\
@@ -188,7 +213,7 @@
   path: https://www.youtube.com/watch?v=tHS3qxU_3RE
   title: 2024 Tech I'm Ready For!
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-01-03T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #77: Marcelo Silva e Rodrigo Nasser, gestores e\
     \ fundadores da Aster Capital, explicam qual a grande diferen\xE7a entre o Nubank\
@@ -206,7 +231,7 @@
   title: "A GRANDE DIFEREN\xC7A do NUBANK em rela\xE7\xE3o aos outros bancos digitais\
     \ | Corte Ep. #77"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2023-12-29T16:00:21+00:00'
   description: "In this video, I'll explore coding with Rust for the first time, diving\
     \ into its cool features and drawing comparisons with Python.\n\n\U0001F477 Join\
@@ -239,17 +264,6 @@
   image: https://i2.ytimg.com/vi/MoqtsYLGCC4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=MoqtsYLGCC4
   title: An Introduction to Coding In Rust for Pythonistas
-- author: Marques Brownlee
-  categories: *id004
-  date: '2023-12-28T19:52:58+00:00'
-  description: "Long(er) term review with a plot twist\n\nMKBHD Merch: http://shop.MKBHD.com\n\
-    \nApple iPhone 15 Pro at https://geni.us/FJ6qT6X\n\nTech I'm using right now:\
-    \ https://www.amazon.com/shop/MKBHD\n\nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds\
-    \ \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/YmwskGLycHo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=YmwskGLycHo
-  title: 'iPhone 15 Pro: 3 Months Later!'
 - author: Apricitas Economics
   categories: *id005
   date: '2023-12-28T17:05:52+00:00'
