@@ -1,3 +1,11 @@
+- author: Outliers
+  categories: &id009
+  - Podcasts
+  date: '2024-01-10T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
+  path: https://open.spotify.com/episode/7CEveBWyCJRPKtARPZB6wN
+  title: "#118 - Alaska: o melhor fundo de a\xE7\xF5es de 2023"
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -772,8 +780,7 @@
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
 - author: Outliers
-  categories: &id010
-  - Podcasts
+  categories: *id009
   date: '2023-12-13T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -787,7 +794,7 @@
   path: https://open.spotify.com/episode/3R3axYGPYzvvf6DHQ0irwB
   title: '#117 - Renda fixa global com Morgan Stanley'
 - author: AQR
-  categories: &id009
+  categories: &id010
   - Quant
   - Papers
   date: '2023-12-13T00:00:00'
@@ -799,7 +806,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
 - author: AQR
-  categories: *id009
+  categories: *id010
   date: '2023-12-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        December\
     \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -809,27 +816,3 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
   title: Driving with the Rear-View Mirror
-- author: Outliers
-  categories: *id010
-  date: '2023-11-29T00:00:00+00:00'
-  description: "A aloca\xE7\xE3o em renda vari\xE1vel est\xE1 longe de ser somente\
-    \ comprar algumas a\xE7\xF5es, \xEDndices de a\xE7\xF5es ou fundos de a\xE7\xF5\
-    es e ficar 100% dependente da alta das cota\xE7\xF5es das empresas na bolsa.At\xE9\
-    \ porque, em um pa\xEDs como o Brasil, s\xF3 h\xE1 uma certeza \u2013 a de que\
-    \ crises vir\xE3o e trar\xE3o volatilidade para a bolsa brasileira, com per\xED\
-    odos de quedas expressivas, mesmo quando os resultados das empresas est\xE3o positivos\
-    \ e saud\xE1veis.No epis\xF3dio 116 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
-    \ conversar\xE3o com Jo\xE3o Lopes, s\xF3cio fundador da Vista Capital e gestor\
-    \ dos fundos Long Biased, para falar sobre a gestora, estrutura, processos e como\
-    \ est\xE3o enxergando as oportunidades para a bolsa Brasileira.-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/41SHHkAAcompanhe todos\
-    \ os conte\xFAdos da XP em https://t2m.io/ZAqGh0uParticipe do canal do Telegram\
-    \ para estar sempre atualizado: https://t.me/xp_investimentosConfira mais conte\xFA\
-    dos tamb\xE9m atrav\xE9s do nosso Instagram: https://www.instagram.com/expertxp/Deixe\
-    \ seu coment\xE1rio, inscreva-se no canal e ative as notifica\xE7\xF5es para receber\
-    \ todas as novidades: https://bit.ly/3lUQQWW."
-  image: https://i.scdn.co/image/ab6765630000ba8aba597b436b75c49c67ff3414
-  path: https://open.spotify.com/episode/4HPrIod6SICGW4CySmKycd
-  title: "#116 - Enfrentando ciclos: a estrat\xE9gia de gest\xE3o de a\xE7\xF5es da\
-    \ Vista Capital"
