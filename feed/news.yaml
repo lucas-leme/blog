@@ -1,3 +1,16 @@
+- author: MIT Technology Review
+  categories: &id001
+  - Tech
+  - "Not\xEDcias"
+  date: '2024-01-11T11:00:00+00:00'
+  description: "This article is from The Spark, MIT Technology Review\u2019s weekly\
+    \ climate newsletter. To receive it in your inbox every Wednesday, sign up here.\
+    \ Awards season is upon us, and I can\u2019t get enough. Red-carpet fashion, host\
+    \ drama, heartwarming speeches\u2014I love it all. I caught the Golden Globes\
+    \ last weekend, and the Grammys and Oscars aren\u2019t&#8230;"
+  image: ''
+  path: https://www.technologyreview.com/2024/01/11/1086412/three-climate-technologies-breaking-through-in-2024/
+  title: Three climate technologies breaking through in 2024
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - "Not\xEDcias"
@@ -16,9 +29,7 @@
   title: "\u201CQuintas-colunas\u201D e a \u201CBarbie fascista\u201D: FUP intimida\
     \ funcion\xE1rios da Petrobras"
 - author: MIT Technology Review
-  categories: &id001
-  - Tech
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-01-10T15:03:00+00:00'
   description: "Although AI is by no means a new technology there have been massive\
     \ and rapid investments in it and large language models. However, the high-performance\
@@ -28,18 +39,6 @@
   image: ''
   path: https://www.technologyreview.com/2024/01/10/1086259/deploying-high-performance-energy-efficient-ai/
   title: Deploying high-performance, energy-efficient AI
-- author: MIT Technology Review
-  categories: *id001
-  date: '2024-01-10T13:10:00+00:00'
-  description: "This is today&#8217;s edition of\_The Download,\_our weekday newsletter\
-    \ that provides a daily dose of what&#8217;s going on in the world of technology.\
-    \ Weight-loss drugs: 10 Breakthrough Technologies 2024 One-third of US adults\
-    \ have obesity, a condition that makes them more susceptible to heart disease,\
-    \ diabetes, and cancer. However, there\u2019s huge hope that anti-obesity drugs\u2014\
-    including Wegovy&#8230;"
-  image: ''
-  path: https://www.technologyreview.com/2024/01/10/1086385/the-download-weight-loss-drugs-and-the-future-of-offshore-wind/
-  title: 'The Download: weight-loss drugs, and the future of offshore wind'
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
