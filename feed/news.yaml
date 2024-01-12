@@ -1,3 +1,17 @@
+- author: MIT Technology Review
+  categories: &id001
+  - Tech
+  - "Not\xEDcias"
+  date: '2024-01-12T09:00:00+00:00'
+  description: "This article first appeared in The Checkup, MIT Technology Review&#8217;s\
+    \ weekly biotech newsletter. To receive it in your inbox every Thursday, and read\
+    \ articles like this first,\_sign up here. Therapies to treat brain diseases share\
+    \ a common problem: they struggle to reach their target. The blood vessels that\
+    \ permeate the brain have a special lining&#8230;"
+  image: ''
+  path: https://www.technologyreview.com/2024/01/12/1086442/the-innovation-that-gets-an-alzheimers-drug-through-the-blood-brain-barrier/
+  title: "The innovation that gets an Alzheimer\u2019s drug through the blood-brain\
+    \ barrier"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - "Not\xEDcias"
@@ -16,9 +30,7 @@
   title: "\u2018\xDAltima milha\u2019 do combate \xE0 infla\xE7\xE3o vai gerar recess\xE3\
     o nos EUA, diz Citi"
 - author: MIT Technology Review
-  categories: &id001
-  - Tech
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-01-11T13:10:00+00:00'
   description: "This is today&#8217;s edition of\_The Download,\_our weekday newsletter\
     \ that provides a daily dose of what&#8217;s going on in the world of technology.\
@@ -46,17 +58,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/01/towards-increasing-complexity-the-evolution-of-the-fx-market/
   title: 'Towards Increasing Complexity: The Evolution of the FX Market'
-- author: MIT Technology Review
-  categories: *id001
-  date: '2024-01-11T11:00:00+00:00'
-  description: "This article is from The Spark, MIT Technology Review\u2019s weekly\
-    \ climate newsletter. To receive it in your inbox every Wednesday, sign up here.\
-    \ Awards season is upon us, and I can\u2019t get enough. Red-carpet fashion, host\
-    \ drama, heartwarming speeches\u2014I love it all. I caught the Golden Globes\
-    \ last weekend, and the Grammys and Oscars aren\u2019t&#8230;"
-  image: ''
-  path: https://www.technologyreview.com/2024/01/11/1086412/three-climate-technologies-breaking-through-in-2024/
-  title: Three climate technologies breaking through in 2024
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2024-01-11T09:50:35+00:00'
