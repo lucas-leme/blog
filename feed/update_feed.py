@@ -12,11 +12,6 @@ feeds = {
         "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg",
         "n_posts_to_show": 1
     },
-    'FED: Working Papers': {
-        "url": 'https://www.federalreserve.gov/feeds/working_papers.xml',
-        "categories": ["Papers", "FED", "BC"],
-        "image": "https://einvestidor.estadao.com.br/wp-content/uploads/2023/03/fed-the-federal-reserve-system-the-central-bankin-2023-01-17-05-21-55-utc-2_130320230113.jpg.webp"
-    },
     'Atas do Copom': {
         "url": 'https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/atascopom',
         "categories": ["Bacen", "BC"],
@@ -84,7 +79,7 @@ feeds = {
         "n_posts_to_show": 1
     },
     "Bloomberg Línea": {
-        "url": "https://news.google.com/rss/search?q=Bloomberg+L%C3%ADnea+Brasil+Economia&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+        "url": "https://rss.app/feeds/tJITcQETajHhaxD6.xml",
         "categories": ["Notícias"],
         "image": "",
         "n_posts_to_show": 4,
@@ -92,12 +87,6 @@ feeds = {
     },
     "Brazil Journal - Economia": {
         "url": "https://braziljournal.com/categoria/economia/feed/",
-        "categories": ["Notícias"],
-        "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
-        "n_posts_to_show": 2,
-    },
-    "Brazil Journal - Weekend": {
-        "url": "https://braziljournal.com/categoria/weekend/feed/",
         "categories": ["Notícias"],
         "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
         "n_posts_to_show": 2,
@@ -132,26 +121,22 @@ feeds = {
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
         "categories": ["Tech", "Youtube"],
         "image": ""
-    },
-    "MIT Technology Review": {
-        "url": "https://www.technologyreview.com/feed",
-        "categories": ["Tech", "Notícias"],
-        "image": "",
-        "n_posts_to_show": 2
-    },
+    }
 }
 
 
 def get_feed_info(feed_url):
 
     feed = feedparser.parse(feed_url)
-
-    feed_info = {
-        'title': feed.feed.title,
-        'link': feed.feed.link,
-        'description': feed.feed.description if hasattr(feed.feed, 'description') else None,
-        'entries': []
-    }
+    try:
+        feed_info = {
+            'title': feed.feed.title,
+            'link': feed.feed.link,
+            'description': feed.feed.description if hasattr(feed.feed, 'description') else None,
+            'entries': []
+        }
+    except:
+        return None
 
     for entry in feed.entries:
 
