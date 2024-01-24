@@ -183,6 +183,9 @@ def get_feed_data():
 
         feed_data_i = get_feed_info(feed_url)
 
+        if feed_data_i is None:
+            continue
+
         if feed_info.get('force_author', False):
             author = feed_name
         else:
