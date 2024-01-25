@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.3.450">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -51,13 +51,7 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "Nenhum resultado",
     "search-matching-documents-text": "documentos correspondentes",
@@ -66,7 +60,6 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "mais correspondência neste documento",
     "search-more-matches-text": "mais correspondências neste documento",
     "search-clear-button-title": "Limpar",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancelar",
     "search-submit-button-title": "Enviar",
     "search-label": "Procurar"
@@ -84,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-author","listing-categories","listing-date","listing-description","listing-image","listing-title"],
+      searchColumns: ["listing-author","listing-categories","listing-date","listing-description","listing-image","listing-path","listing-title"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -111,8 +104,9 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-author","listing-categories","listing-date","listing-description","listing-image","listing-title"],
+      page: 24,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-author","listing-categories","listing-date","listing-description","listing-image","listing-path","listing-title"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -142,46 +136,19 @@ gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
 <meta property="og:title" content="Lucas Leme - Blog">
 <meta property="og:description" content="Conteúdo que acompanho, coletado automaticamente.">
-<meta property="og:image" content="https://avatars.githubusercontent.com/u/49704353?v=4">
-<meta property="og:site_name" content="Lucas Leme">
+<meta property="og:image" content="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png">
+<meta property="og:site-name" content="Lucas Leme">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lucas Leme</span>
     </a>
@@ -193,34 +160,34 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../"> 
-<span class="menu-text">Posts</span></a>
+    <a class="nav-link" href="../" rel="" target="">
+ <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../feed/"> 
-<span class="menu-text">Feed</span></a>
+    <a class="nav-link" href="../feed/" rel="" target="">
+ <span class="menu-text">Feed</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
-<span class="menu-text">Sobre</span></a>
+    <a class="nav-link" href="../about.html" rel="" target="">
+ <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/"> <i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/lucas-leme-santos/" rel="" target=""><i class="bi bi-linkedin" role="img">
 </i> 
-<span class="menu-text"></span></a>
+ <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/lucas-leme"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/lucas-leme" rel="" target=""><i class="bi bi-github" role="img">
 </i> 
-<span class="menu-text"></span></a>
+ <span class="menu-text"></span></a>
   </li>  
 </ul>
-          </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
 </div>
+          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -240,119 +207,30 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
     
   
     
   </div>
   
-
-<div>
-  <div class="keywords">
-    <div class="block-title">Palavras-chave</div>
-    <p>Lucas Leme, Lucas Leme Santos, Lucas Leme Blog, Quant, Macro, Data Science, Mercado Financeiro, Tecnologia</p>
-  </div>
-</div>
 
 </header>
-
 
 <div class="grid">
 <section id="destaques-rápidos" class="level2 g-col-12 g-col-md-6">
 <h2 class="anchored" data-anchor-id="destaques-rápidos">Destaques Rápidos</h2>
 <div id="listing-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-categories="Notícias" data-listing-date-sort="1706191746000">
-<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace1753e8e4a4bc23e813da3df542e09d56483329c9d1468c2ab31b7b8ec26e7fa9a2cb661ed2f42963d5b1d5f03eebeabd66549c6c0b7b6d3da969458408153c5816b76816a632cd89f5fcd9c07fdc87e61" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/gdpJJdzTyGLrwRNkK_UvrwngrcY=/1024x0/filters:format(webp):quality(75):focal(2105x1705:2115x1715)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/DARASIW53ZHKJHTL2E7KBLV6YA.jpg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Santander vê nova onda de ofertas de títulos corporativos no Brasil e em LatAm
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
-Notícias
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Bloomberg Línea
-</div>
-<div class="listing-date">
-25 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Notícias" data-listing-date-sort="1706191533000">
-<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace175248d4b49c6239539fc9d522e56da26903e9c931678c2ab36bdf8ae29ecfe8b3eb125ed251dcf304a455c00f5fce5dc7a14d9dbb4efdec38aca105b8f53c2de60709a693d6491951f829303a6" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/erWQSETO6mhtPSjP2aht5uskL64=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/BB2YP3AHZJDPZDQJ2DBNJCWTIM.jpg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ibovespa opera em alta com investidor de olho em PIB dos EUA
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
-Notícias
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Bloomberg Línea
-</div>
-<div class="listing-date">
-25 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Notícias" data-listing-date-sort="1706177521000">
-<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace175289a5650d331c83cb4944b254196618021de815778c6f539b3b8e725f1f88b23a62da42f4287214e455705ebe6a4de765484c2bfa097c38aca10588b10d39c792899732b64989544859d4be6da3e23ea9a2387ca9322a7" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/oCnUJ44l_ngwZg1n3FlZwi3TnNs=/1024x0/filters:format(webp):quality(75):focal(308x156:318x166)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/XUZPOHPGAZH75EFDQFVIOPI4UY.png" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Europa define juros, Tesla despenca e EUA divulgam PIB: os eventos que movem os mercados
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
-Notícias
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Bloomberg Línea
-</div>
-<div class="listing-date">
-25 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Notícias" data-listing-date-sort="1706153751000">
-<a href="https://braziljournal.com/o-supremo-quer-saber-o-impacto-de-suas-decisoes-este-economista-faz-as-contas/" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Notícias" data-listing-date-sort="1705813917000">
+<a href="https://braziljournal.com/o-segredo-de-davos-fazer-as-perguntas-certas/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png" class="thumbnail-image card-img" style="height: 300px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Precatórios, tradeoffs, modulações: o economista que faz as contas para o Supremo
+O segredo de Davos: fazer as perguntas certas
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
@@ -364,49 +242,22 @@ Notícias
 Economia – Brazil Journal
 </div>
 <div class="listing-date">
-25 de jan. de 2024
+21 de jan. de 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="Notícias" data-listing-date-sort="1706139955000">
-<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace175208a565cc2348a2bfc9c436645c862947ed0900869ceab30bfb8e22cf6e9c329a03ce6231ccf304a455e0df4e0e5cc7a14cddbb7efcac38a8e014798118a966728867f61" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://www.bloomberglinea.com/resizer/-Btirx5KDB7SQ3cbFRK7T5VDsl0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/FRSPMHKIGJB7VP63Z22A4MUYPY.jpeg" class="thumbnail-image card-img" style="height: 300px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Mercados na Ásia abrem em alta depois de mais um dia positivo em NY
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
-Notícias
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Bloomberg Línea
-</div>
-<div class="listing-date">
-24 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="Notícias" data-listing-date-sort="1706134113000">
-<a href="https://braziljournal.com/jp-morgan-estes-8-fatores-farao-preco-na-bolsa-este-ano/" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Notícias" data-listing-date-sort="1705813879000">
+<a href="https://braziljournal.com/dois-para-frente-um-para-tras-os-retrocessos-e-distorcoes-que-sabotam-o-brasil/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img src="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png" class="thumbnail-image card-img" style="height: 300px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-JP Morgan: estes 8 fatores farão preço na Bolsa este ano
+Dois para frente, um para trás: os retrocessos e distorções que sabotam o Brasil
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
@@ -418,7 +269,115 @@ Notícias
 Economia – Brazil Journal
 </div>
 <div class="listing-date">
-24 de jan. de 2024
+21 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Notícias" data-listing-date-sort="1705781127000">
+<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace175289c504dc224803fb881562a57966a9936c3861b618ef634a0f4ae32ebfb8d22e828ec6700963d42014001f2bea9d5635684d1b9af97cd8aca144d811bd4de6e6ac56b2b3b969b568fdd0ce8d97c20ea9b6f" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.bloomberglinea.com/resizer/D_frkIFLtyyVq4yGrfakB1f8oZo=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/NGEBCKHF5ZFCZFN7MRHXMMZH5Q.jpg" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Estrategistas alertam para risco de otimismo alto com as ações do mercado japonês
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
+Notícias
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Bloomberg Línea
+</div>
+<div class="listing-date">
+20 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Notícias" data-listing-date-sort="1705701933000">
+<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace175248d4b49c6239539fc91432209d56ad820d49f1b62c2ab30bce4f621ecfc8160ab35a4380a8c3b59091e1ef8f0a7cb735cda9fb5add781988b014fc31fc49a6764c5622b64c4d5" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.bloomberglinea.com/resizer/1BFx52ga6H4VVpxgy8HLOCOueG0=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/3D7WBJSP25HKPOF4CDADY37YQI.jpg" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ibovespa cai na semana, enquanto S&amp;P 500 renova recorde com alta acima de 1%
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
+Notícias
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Bloomberg Línea
+</div>
+<div class="listing-date">
+19 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Notícias" data-listing-date-sort="1705695764000">
+<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace1752e9a5649c27d813dfc9857394bc8269b3cc2df1f79c2ab31b7e3e66dece79c20a420e0300e907942094041f2bea5d66350dfddfba3d3c29d86584b9d0ac6de6f68c5672c2c878e5dcd8007fbc83e21a2852594cd9d35e7a2" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.bloomberglinea.com/resizer/S2hafyGLBUzNI8LtT2Vj7bkp_hU=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/BI5SJLFYRZECRIRINOFQTLMQXA.jpg" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Curva de juros nos EUA deve normalizar, mas o motivo ainda está em aberto para o mercado
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
+Notícias
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Bloomberg Línea
+</div>
+<div class="listing-date">
+19 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Notícias" data-listing-date-sort="1705694684000">
+<a href="https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace1752b80565b8e268075b5974f2a4adf6ad835c393196d8ee378b1faf134e3a5882ca73ee0290e813540455709b0e3a1da7649ccc1fba4979dccd7584b821bd3816366897561" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://www.bloomberglinea.com/resizer/ZnPNsyv8oYtHWDMazbozu2MOW10=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/PBMI4BWROFCBJHE5Y5TD4QGISQ.jpeg" class="thumbnail-image card-img" style="height: 300px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ford vê demanda fraca e corta fabricação de picapes F-150 elétricas
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Notícias'); return false;">
+Notícias
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Bloomberg Línea
+</div>
+<div class="listing-date">
+19 de jan. de 2024
 </div>
 </div>
 </div>
@@ -460,7 +419,7 @@ Liberty Street Economics
 </div>
 </div>
 <div class="listing-no-matching d-none">
-Sem itens correspondentes
+Nenhum item correspondente
 </div>
 </div>
 </section>
@@ -468,175 +427,7 @@ Sem itens correspondentes
 <h2 class="anchored" data-anchor-id="exploração-detalhada">Exploração Detalhada</h2>
 <div id="listing-feed" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="Tech,Code,Youtube" data-listing-date-sort="1706112038000">
-<a href="https://www.youtube.com/watch?v=oxzFIqTqz0g" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i4.ytimg.com/vi/oxzFIqTqz0g/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Rust: Type Safety and Memory Management
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Tech'); return false;">
-Tech
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Code'); return false;">
-Code
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Youtube'); return false;">
-Youtube
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-ArjanCodes
-</div>
-<div class="listing-date">
-24 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="Podcasts" data-listing-date-sort="1706054400000">
-<a href="https://open.spotify.com/episode/3I3pY3zyvhFBFqwax8IghH" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i.scdn.co/image/ab6765630000ba8ac552c122e1fa5e6396bb6eab" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-O cenário favorável para a bolsa em 2024 | Corte Ep. #80
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
-Podcasts
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Market Makers
-</div>
-<div class="listing-date">
-24 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Podcasts" data-listing-date-sort="1706054400000">
-<a href="https://open.spotify.com/episode/0ylJcV7wtVNqjYdSE8zWDR" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Company Taking on Apple’s Watch Technology
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
-Podcasts
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-The Journal.
-</div>
-<div class="listing-date">
-24 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="Podcasts" data-listing-date-sort="1706054400000">
-<a href="https://open.spotify.com/episode/7ve9ptYMTSXDGXVruQqluV" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i.scdn.co/image/ab6765630000ba8a8c5491019c8c48e91d25ddd8" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-#119 - Investindo em infraestrutura com a XP Asset
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
-Podcasts
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Outliers
-</div>
-<div class="listing-date">
-24 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="Podcasts" data-listing-date-sort="1705968000000">
-<a href="https://open.spotify.com/episode/7owf1SZm2MJSnvPeaSUtqI" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i.scdn.co/image/ab6765630000ba8ad99044353aab4fc78f4daa55" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-RECUPERAÇÃO JUDICIAL: o que acontece com a GOL (GOLL4)? | Mercado Aberto
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
-Podcasts
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Market Makers
-</div>
-<div class="listing-date">
-23 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="Podcasts" data-listing-date-sort="1705968000000">
-<a href="https://open.spotify.com/episode/5pbMTc7W1OrjyBEalh951w" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img src="https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The Computer Glitch That Caused Nearly 1,000 Convictions
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
-Podcasts
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-The Journal.
-</div>
-<div class="listing-date">
-23 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="Tech,Code,Youtube" data-listing-date-sort="1705766400000">
+<div class="g-col-1" data-index="0" data-categories="Tech,Code,Youtube" data-listing-date-sort="1705766400000">
 <a href="https://www.youtube.com/watch?v=0Z8wWKSapFM" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -644,7 +435,7 @@ The Journal.
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-⏰ Rust Macros Explained in Under a Minute
+Rust Macros Explained in Under a Minute
 </h5>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('Tech'); return false;">
@@ -669,7 +460,7 @@ ArjanCodes
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="Macro,Newsletters" data-listing-date-sort="1705718032000">
+<div class="g-col-1" data-index="1" data-categories="Macro,Newsletters" data-listing-date-sort="1705718032000">
 <a href="https://theovershoot.co/p/americas-housing-rebound" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -692,14 +483,14 @@ Newsletters
 The Overshoot
 </div>
 <div class="listing-date">
-20 de jan. de 2024
+19 de jan. de 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="Tech,Youtube" data-listing-date-sort="1705707876000">
+<div class="g-col-1" data-index="2" data-categories="Tech,Youtube" data-listing-date-sort="1705707876000">
 <a href="https://www.youtube.com/watch?v=GQkkHtBD1BM" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -729,7 +520,40 @@ Marques Brownlee
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="9" data-categories="Tech,Youtube" data-listing-date-sort="1705636193000">
+<div class="g-col-1" data-index="3" data-categories="Tech,Code,Youtube" data-listing-date-sort="1705680016000">
+<a href="https://www.youtube.com/watch?v=NOcwXmXr0ho" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i3.ytimg.com/vi/NOcwXmXr0ho/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Refactoring Conway’s Game of Life | ArjanCodes Code Roast
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Tech'); return false;">
+Tech
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Code'); return false;">
+Code
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Youtube'); return false;">
+Youtube
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+ArjanCodes
+</div>
+<div class="listing-date">
+19 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Tech,Youtube" data-listing-date-sort="1705636193000">
 <a href="https://www.youtube.com/watch?v=GQAvce3MA44" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -759,37 +583,34 @@ Marques Brownlee
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="Bacen,BC" data-listing-date-sort="1705633200000">
-<a href="https://www.bcb.gov.br/publicacoes/focus/19012024" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="Podcasts" data-listing-date-sort="1705622400000">
+<a href="https://open.spotify.com/episode/5odNqF8F9d23NvSct0JZ04" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img src="https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-BC - Focus - Relatório de Mercado - 19/01/2024
+How the Stanley Cup Became the Internet’s Favorite Water Bottle
 </h5>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Bacen'); return false;">
-Bacen
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('BC'); return false;">
-BC
+<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
+Podcasts
 </div>
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
-RSS - Feeds do BC
+The Journal.
 </div>
 <div class="listing-date">
-19 de jan. de 2024
+18 de jan. de 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="Macro,Newsletters" data-listing-date-sort="1705563818000">
+<div class="g-col-1" data-index="6" data-categories="Macro,Newsletters" data-listing-date-sort="1705563818000">
 <a href="https://theovershoot.co/p/the-us-economy-refuses-to-slow-down" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -819,7 +640,61 @@ The Overshoot
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="Podcasts" data-listing-date-sort="1705536000000">
+<div class="g-col-1" data-index="7" data-categories="Podcasts" data-listing-date-sort="1705536000000">
+<a href="https://open.spotify.com/episode/74ob0wQpJS7T171p6I1Evk" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i.scdn.co/image/ab6765630000ba8a006932a371b9e7e034b20b21" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+#80 | BOLSA DE VALORES 2024: Riscos e grandes oportunidades de investimento
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
+Podcasts
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Market Makers
+</div>
+<div class="listing-date">
+17 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="8" data-categories="Podcasts" data-listing-date-sort="1705536000000">
+<a href="https://open.spotify.com/episode/4GDhFHtrq2lvUoZY86lVOH" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+What Happens to Privacy in the Age of AI?
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
+Podcasts
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+The Journal.
+</div>
+<div class="listing-date">
+17 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="9" data-categories="Podcasts" data-listing-date-sort="1705536000000">
 <a href="https://open.spotify.com/episode/37GoIoVmkJrPwPraNXU7hz" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -839,14 +714,41 @@ Podcasts
 Money Talks from The Economist
 </div>
 <div class="listing-date">
-18 de jan. de 2024
+17 de jan. de 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="Podcasts" data-listing-date-sort="1705449600000">
+<div class="g-col-1" data-index="10" data-categories="Podcasts" data-listing-date-sort="1705449600000">
+<a href="https://open.spotify.com/episode/6xA0d5vPlLfHi45fCVIDst" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i.scdn.co/image/ab6765630000ba8a8b1a3a9b8317262734ad74e5" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+O sinal de alerta para sair de um fundo de investimento | Corte Ep. #79
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
+Podcasts
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Market Makers
+</div>
+<div class="listing-date">
+16 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="11" data-categories="Podcasts" data-listing-date-sort="1705449600000">
 <a href="https://open.spotify.com/episode/4L6pzgAzhbh31Eg1Im1I8f" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -866,14 +768,14 @@ Podcasts
 The Morgan Housel Podcast
 </div>
 <div class="listing-date">
-17 de jan. de 2024
+16 de jan. de 2024
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="Macro,Newsletters" data-listing-date-sort="1705249815000">
+<div class="g-col-1" data-index="12" data-categories="Macro,Newsletters" data-listing-date-sort="1705249815000">
 <a href="https://www.apricitas.io/p/americas-new-business-boom" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -903,6 +805,66 @@ Apricitas Economics
 </div>
 </a>
 </div>
+<div class="g-col-1" data-index="13" data-categories="Bacen,BC" data-listing-date-sort="1705028400000">
+<a href="https://www.bcb.gov.br/publicacoes/focus/12012024" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+BC - Focus - Relatório de Mercado - 12/01/2024
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Bacen'); return false;">
+Bacen
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('BC'); return false;">
+BC
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+RSS - Feeds do BC
+</div>
+<div class="listing-date">
+12 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="14" data-categories="Macro,Newsletters" data-listing-date-sort="1704994178000">
+<a href="https://stayathomemacro.substack.com/p/lights-on-the-runway-for-the-soft" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F68c386ab-fc80-43e7-a6c4-f7bdce2e2606_2127x1409.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lights on the runway for the soft landing
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Macro'); return false;">
+Macro
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Newsletters'); return false;">
+Newsletters
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Stay-At-Home Macro (SAHM)
+</div>
+<div class="listing-date">
+11 de jan. de 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 <div class="g-col-1" data-index="15" data-categories="Podcasts" data-listing-date-sort="1704844800000">
 <a href="https://open.spotify.com/episode/7CEveBWyCJRPKtARPZB6wN" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
@@ -923,7 +885,7 @@ Podcasts
 Outliers
 </div>
 <div class="listing-date">
-10 de jan. de 2024
+9 de jan. de 2024
 </div>
 </div>
 </div>
@@ -953,7 +915,7 @@ Quant
 Flirting with Models
 </div>
 <div class="listing-date">
-8 de jan. de 2024
+7 de jan. de 2024
 </div>
 </div>
 </div>
@@ -990,7 +952,37 @@ Apricitas Economics
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="18" data-categories="Podcasts" data-listing-date-sort="1703721600000">
+<div class="g-col-1" data-index="18" data-categories="Macro,Newsletters" data-listing-date-sort="1703775770000">
+<a href="https://stayathomemacro.substack.com/p/the-fed-inflation-and-soft-landing" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://substackcdn.com/image/youtube/w_728,c_limit/MIGeC878810" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Fed, inflation, and soft landing road show
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Macro'); return false;">
+Macro
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Newsletters'); return false;">
+Newsletters
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Stay-At-Home Macro (SAHM)
+</div>
+<div class="listing-date">
+28 de dez. de 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="Podcasts" data-listing-date-sort="1703721600000">
 <a href="https://open.spotify.com/episode/1DklOGcvkcPCzc2IrmfYQu" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1010,14 +1002,14 @@ Podcasts
 The View From Apollo
 </div>
 <div class="listing-date">
-28 de dez. de 2023
+27 de dez. de 2023
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="Bacen,BC" data-listing-date-sort="1703127600000">
+<div class="g-col-1" data-index="20" data-categories="Bacen,BC" data-listing-date-sort="1703127600000">
 <a href="https://www.bcb.gov.br/publicacoes/ri/202312" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1047,7 +1039,7 @@ Relatório de Inflação
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="20" data-categories="Bacen,BC" data-listing-date-sort="1702983600000">
+<div class="g-col-1" data-index="21" data-categories="Bacen,BC" data-listing-date-sort="1702983600000">
 <a href="https://www.bcb.gov.br/publicacoes/atascopom/13122023" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1077,7 +1069,7 @@ Atas do Copom
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="21" data-categories="Bacen,BC" data-listing-date-sort="1702503211000">
+<div class="g-col-1" data-index="22" data-categories="Bacen,BC" data-listing-date-sort="1702503211000">
 <a href="https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18047" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1107,11 +1099,38 @@ Comunicados Copom
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="22" data-categories="Quant,Papers" data-listing-date-sort="1702425600000">
+<div class="g-col-1" data-index="23" data-categories="Podcasts" data-listing-date-sort="1702425600000">
+<a href="https://open.spotify.com/episode/3R3axYGPYzvvf6DHQ0irwB" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="https://i.scdn.co/image/ab6765630000ba8a7bb9e4d39ff98bf834920caf" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+#117 - Renda fixa global com Morgan Stanley
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Podcasts'); return false;">
+Podcasts
+</div>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Outliers
+</div>
+<div class="listing-date">
+12 de dez. de 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="24" data-categories="Quant,Papers" data-listing-date-sort="1702436400000">
 <a href="https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1137,11 +1156,11 @@ AQR
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="23" data-categories="Quant,Papers" data-listing-date-sort="1701734400000">
+<div class="g-col-1" data-index="25" data-categories="Quant,Papers" data-listing-date-sort="1701745200000">
 <a href="https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1169,8 +1188,11 @@ AQR
 </div>
 </div>
 <div class="listing-no-matching d-none">
-Sem itens correspondentes
+Nenhum item correspondente
 </div>
+<nav id="feed-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 </section>
 </div>
@@ -1220,33 +1242,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
-    }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-      }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
-        }
-      });
-    }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -1315,15 +1310,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+  let localAlternateSentinel = 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -1402,27 +1395,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/lucas-leme\.github\.io\/blog\/");
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -1432,17 +1408,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -1455,125 +1422,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -1617,7 +1465,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
-            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -1643,32 +1490,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -1726,6 +1547,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/lucas-leme\.github\.io\/blog\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
@@ -1734,15 +1569,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     <div class="nav-footer-left">
       &nbsp;
     </div>   
-    <div class="nav-footer-center">
-<p>As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</p>
-</div>
+    <div class="nav-footer-center">As informações aqui apresentadas não constituem recomendações de investimento ou aconselhamento financeiro.<br>Todo conteúdo é de caráter informativo e educacional.</div>
     <div class="nav-footer-right">
       &nbsp;
     </div>
   </div>
 </footer>
-
 
 
 
