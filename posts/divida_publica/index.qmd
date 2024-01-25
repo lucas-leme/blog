@@ -94,6 +94,10 @@ Avaliando os juros e a taxa de crescimento do PIB, temos 3 cenários possíveis:
 - **Sustentabilidade**: $i = g$, onde a dívida pública permanece constante ao longo do tempo, já que os juros igualam a taxa de crescimento do PIB. Assim, a dívida cresce na mesma proporção do PIB, mantendo sua relação constante.
 - **EFiciência Dinâmica**: $i > g$, em que a dívida pública cresce indefinidamente, uma vez que os juros superam a taxa de crescimento do PIB, tornando a  trajetória da dívida insustentável.
 
+::: {.callout-note}
+O conceito de ineficiência dinâmica parece um pouco contraditório, pois no limite a dívida sobre o PIB tende a zero, o que significa que o governo não terá mais dívida. Mas sem dívida, significa que o governo não está mais realizando investimentos em projetos de longo prazo, que são benéficos para as gerações futuras. Portanto, o governo não deve focar em acumlar capital no presente, mas sim em realizar investimentos que gerem um aumento de produtividade no futuro.
+:::
+
 ## Qual é o nível ideal de dívida pública?
 
 Para entender qual é o nível ideal da dívida é necessário entender as depesas do governo, que podem ser divididas em 2 categorias:
@@ -299,8 +303,6 @@ fig.show()
 Com o objetivo de manter a trajetória da dívida pública sob controle, ao longo do tempo o Brasil adotou medidas para limitar o crescimento dos gastos públicos, destacando-se o teto de gastos e o arcabouço fiscal.
 O Teto de Gastos foi aprovado em 2016 durante o governo Temer, e limita o crescimento dos gastos públicos à inflação do ano anterior, então o governo não podia gastar mais do que o ano anterior, corrigido pela inflação. Já o arcabouço fiscal aprovado em 2023 pelo governo Lula, estabelece uma regra baseada em metas e bandas ao redor do crescimento da receita, onde as despesas do governo só podem crescer até 70% das receitas do governo, e caso o resultado primário esteja abaixo da meta, o governo se compromete a limitar ainda mais os gastos em 50% das receitas, e no cenário de resultado primário melhor que a meta, o governo pode utilizar o excedente para investir. Na @fig-metas-aracabouco-fiscal, podemos observar as metas propostas pelo governo.
 
-
-
 ```{python}
 # | label: fig-metas-aracabouco-fiscal
 # | fig-cap: Metas do Arcabouço Fiscal
@@ -346,11 +348,11 @@ fig.show()
 
 ```
 
+Portanto, o arcabouço fiscal é mais flexível que o teto de gastos, e tem um vinculo com metas de resultado primário, o que incentiva uma melhor gestão dos gastos públicos para aumentar os investimentos em área de interesse do governo.
+
 ## Conclusão
 
-A dívida pública é uma variável complexa, que depende de diversos fatores, como a taxa de juros, o crescimento do PIB, a taxa de inflação, a taxa de câmbio, etc. Portanto, para cada país, é necessário analisar suas particularidades para entender a dinâmica da dívida pública.
-
-[^1]: O conceito de ineficiência dinâmica parece um pouco contraditório, pois no limite a dívida sobre o PIB tende a zero, o que significa que o governo não terá mais dívida. Mas sem dívida, significa que o governo não está mais realizando investimentos em projetos de longo prazo, que são benéficos para as gerações futuras. Portanto, o governo não deve focar em acumlar capital no presente, mas sim em realizar investimentos que gerem um aumento de produtividade no futuro.
+Nesse artigo, analisamos a dívida pública sob uma perspectiva matemática, cobrindo conceitos como a relação entre dívida e PIB, a regra de ouro do governo. E na sequência, analisamos um país com uma dívida pública elevada, o Japão, e por fim, analisamos a dívida pública do Brasil, destacando a questão da dívida com o FMI, e mais recentemente o arcabouço fiscal.
 
 [^2]: Tesouro Nacional: [Conhecendo a Regra de Ouro](https://www.tesourotransparente.gov.br/videos/regra-de-ouro/conhecendo-a-regra-de-ouro-serie-regra-de-ouro-1-5)
 
