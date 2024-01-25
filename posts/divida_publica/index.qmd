@@ -54,7 +54,11 @@ $$ {#eq-divida-pib}
 
 ## Representação Matemática da Dívida Pública
 
-A dívida pública é inicialmente representada pela diferença entre os gastos do governo $G_t$ e a receita do governo $R_t$. Esta diferença é conhecida como resultado primário, denotado por $D_t = G_t - R_t$.
+A dívida pública é inicialmente representada pela diferença entre os gastos do governo $G_t$ e a receita do governo $R_t$. Esta diferença é conhecida como resultado primário, denotado pela @eq-resultado-primario.
+
+$$
+D_t = G_t - R_t
+$$ {#eq-resultado-primario}
 
 - Quando $G_t - R_t > 0$, temos um déficit primário, indicando que o governo está gastando mais do que arrecada.
 - Por outro lado, se $G_t - R_t < 0$, temos um superávit primário, o que significa que o governo está arrecadando mais do que gastando.
@@ -90,7 +94,7 @@ $$ {#eq-divida-pib-simplificada-sem-deficit}
 
 Avaliando os juros e a taxa de crescimento do PIB, temos 3 cenários possíveis:
 
-- **Ineficiência Dinâmica** [^1]: $i < g$, em que a dívida pública diminui ao longo do tempo, uma vez que os juros são menores que a taxa de crescimento do PIB. Nesse caso, o governo consegue pagar sua dívida com o tempo.
+- **Ineficiência Dinâmica**: $i < g$, em que a dívida pública diminui ao longo do tempo, uma vez que os juros são menores que a taxa de crescimento do PIB. Nesse caso, o governo consegue pagar sua dívida com o tempo.
 - **Sustentabilidade**: $i = g$, onde a dívida pública permanece constante ao longo do tempo, já que os juros igualam a taxa de crescimento do PIB. Assim, a dívida cresce na mesma proporção do PIB, mantendo sua relação constante.
 - **EFiciência Dinâmica**: $i > g$, em que a dívida pública cresce indefinidamente, uma vez que os juros superam a taxa de crescimento do PIB, tornando a  trajetória da dívida insustentável.
 
@@ -111,7 +115,7 @@ Do ponto de vista de juros e crescimento, o cenário ideal é que os investiment
 
 ### Qual é razão de países com dívidas públicas elevadas?
 
-O Japão é um exemplo de país com uma dívida pública elevada. Em 2022, o país atingiu uma dívida de 261% do seu PIB (@fig-divida-pib-japao). A população japonesa, conhecida por seu conservadorismo em relação aos gastos, frequentemente leva o Estado a intervir na economia para estimular o crescimento. Essa intervenção é uma tentativa de combater a fragilidade crônica da demanda doméstica, visto que no país a inflação é muito baixa. Além disso, a demografia do país também contribui para a alta dívida, com uma população que possui uma longevidade elevada, as despesas correntes com aposentadorias e saúde são significativas.
+O Japão é um exemplo de país com uma dívida pública elevada, em 2022 o país atingiu uma dívida de 261% do seu PIB (@fig-divida-pib-japao). A população japonesa, conhecida por seu conservadorismo em relação aos gastos e investimentos, frequentemente leva o Estado a investir na economia para estimular o crescimento (PIB). Além disso, a demografia do país também contribui para a alta dívida, com uma população que possui uma longevidade elevada, as despesas correntes com aposentadorias e saúde são significativas [^1]
 
 ```{python}
 # | label: fig-divida-pib-japao
@@ -152,9 +156,9 @@ fig.show()
 
 ```
 
-A trajetória da dívida no Japão teve início na década de 1990, durante uma crise financeira e imobiliária. Em resposta ao lento crescimento econômico pós-crise, o governo adotou a emissão de títulos públicos de baixo rendimento como medida para estabilizar a dívida e incentivar os investimentos com maior risco. Essa estratégia foi viabilizada pelo elevado nível de confiança do mercado na economia japonesa.
+A trajetória de aumento da dívida no Japão teve início na década de 1990, após a crise financeira e imobiliária o país entrou em ciclo de baixo crescimento econômico, e para amenizar os imapacos da crise e manter o orçamento equilibrado, o país emitiu dívida via títulos públicos com baixas taxa de juros, porém com baixo risco dado a confiança do mercado na economia japonesa [^3]
 
-Nos últimos anos, observamos um aumento contínuo da dívida, mesmo com juros baixos e um crescimento econômico mais modesto. Esse cenário, representado de forma gráfica na @fig-pib-juros-japao, coloca o Japão em uma situação de eficiência dinâmica (@fig-divida-pib-japao). Aqui, a dívida pública cresce ao longo do tempo, ilustrando a complexidade dessa dinâmica econômica peculiar.
+Apesar da dívida emitida ter baixos juros, o crescimento econômico foi menor que a taxa de juros (@fig-pib-juros-japao), resultando numa situação de eficiência dinâmica, em que a dívida pública cresce ao longo do tempo. 
 
 ```{python}
 # | label: fig-pib-juros-japao
@@ -200,7 +204,7 @@ fig.update_yaxes(showticklabels=False)
 fig.update_layout(showlegend=False)
 ```
 
-Com base no exemplo do Japão, podemos concluir que a dívida pública é uma variável complexa, que depende de diversos fatores. Portanto, para cada país, é necessário analisar suas particularidades para entender a dinâmica da dívida pública.
+Portanto, para entrar em uma trajetória de sustentabilidade, ou até mesmo de ineficiência dinâmica, o Japão precisa aumentar seu crescimento econômico, e para isso é necessário aumentar a produtividade e investimentos em projetos de longo prazo.
 
 ## Dívida Pública no Brasil
 
@@ -210,9 +214,11 @@ Nesta seção vamos analisar a evolução da dívida pública no Brasil, analisa
 <!-- Comentar que boa parte da dívida do brasil está em dólar -->
 <!-- plotar correlação móvel da dívida com o dólar para demonstrar de maneira estatística. -->
 
-Desde o período colonial, o Brasil sempre teve questões relacionadas a dívidas externas, e no período mais recente destaca-se a dívida com o FMI (Fundo Monetário Internacional). Durante o período militar (1964-1985), houve bastante investimento em projetos de infraestrutura porém com crises relevante como a crise mundial do petróleo as fontes de capital se exauriram, e o Brasil passou a ter dificuldade para pagar suas divídas externas, e nesse cenário o país recorreu ao FMI para financiar suas dívidas [https://www.politize.com.br/fmi-brasil-relacao-fundo-monetario-internacional/]
+Desde o período colonial, o Brasil sempre teve questões relacionadas a dívidas externas, e no período mais recente destaca-se a dívida com o FMI (Fundo Monetário Internacional). Durante o período militar (1964-1985), houve bastante investimento em projetos de infraestrutura porém com crises relevante como a crise mundial do petróleo as fontes de capital se exauriram, e o Brasil passou a ter dificuldade para pagar suas divídas externas, e nesse cenário o país recorreu ao FMI para financiar suas dívidas [^6], então enquanto o país possuia uma dívida externa com o FMI, havia uma correlação positiva entre a dívida pública do Brasil e o dólar,
+portanto quando o dólar subia, a dívida pública do Brasil também subia, e vice-versa.
 
-Após saldar a dívida com o FMI em 2005, o Brasil passou a ter uma posição credora em dólar, conforme ilustrado em @fig-divida-pib-brasil-fmi. Portanto, a dívida pública do Brasil passou a ter uma correlação negativa com o dólar em momentos de crise, como a na crise política de 2015 e a crise da Covid-19 em 2020. Antes de aumentar sua posição como credor em dólar, a dívida pública do Brasil possuía uma correlação positiva com o dólar, conforme o ocorrido na crise financeira de 2008.
+Após saldar a dívida com o FMI em 2005, o Brasil passou a ter uma posição credora em dólar, conforme ilustrado em @fig-divida-pib-brasil-fmi. Portanto, a dívida pública do Brasil passou a ter uma correlação negativa com o dólar em momentos de crise, como a na crise política de 2015 e a crise da Covid-19 em 2020, onde o dólar subiu e a dívida pública do Brasil caiu.
+Portanto, ao eliminar a dívida externa a dívida pública do Brasil ficou mais resiliente a fatores externos.
 
 ```{python}
 # | output: false
@@ -301,7 +307,10 @@ fig.show()
 ### Teto de Gastos e Arcabouço Fiscal
 
 Com o objetivo de manter a trajetória da dívida pública sob controle, ao longo do tempo o Brasil adotou medidas para limitar o crescimento dos gastos públicos, destacando-se o teto de gastos e o arcabouço fiscal.
-O Teto de Gastos foi aprovado em 2016 durante o governo Temer, e limita o crescimento dos gastos públicos à inflação do ano anterior, então o governo não podia gastar mais do que o ano anterior, corrigido pela inflação. Já o arcabouço fiscal aprovado em 2023 pelo governo Lula, estabelece uma regra baseada em metas e bandas ao redor do crescimento da receita, onde as despesas do governo só podem crescer até 70% das receitas do governo, e caso o resultado primário esteja abaixo da meta, o governo se compromete a limitar ainda mais os gastos em 50% das receitas, e no cenário de resultado primário melhor que a meta, o governo pode utilizar o excedente para investir. Na @fig-metas-aracabouco-fiscal, podemos observar as metas propostas pelo governo.
+
+O Teto de Gastos foi aprovado em 2016 durante o governo Temer, e limitava o crescimento dos gastos públicos à inflação do ano anterior, então o governo não podia gastar mais do que o ano anterior, corrigido pela inflação. 
+
+Já o arcabouço fiscal aprovado em 2023 pelo governo Lula, estabelece uma regra baseada em metas e bandas ao redor do crescimento da receita, onde as despesas do governo só podem crescer até 70% das receitas do governo, e caso o resultado primário (@eq-resultado-primario) esteja abaixo da meta inferior, o governo deve limitar os gastos em 50% das receitas do ano anterior, e no cenário de resultado primário melhor que a meta superior, o governo pode utilizar o excedente para investir. Na @fig-metas-aracabouco-fiscal, podemos observar as metas propostas pelo governo.
 
 ```{python}
 # | label: fig-metas-aracabouco-fiscal
@@ -354,8 +363,12 @@ Portanto, o arcabouço fiscal é mais flexível que o teto de gastos, e tem um v
 
 Nesse artigo, analisamos a dívida pública sob uma perspectiva matemática, cobrindo conceitos como a relação entre dívida e PIB, a regra de ouro do governo. E na sequência, analisamos um país com uma dívida pública elevada, o Japão, e por fim, analisamos a dívida pública do Brasil, destacando a questão da dívida com o FMI, e mais recentemente o arcabouço fiscal.
 
+[^1]: Matéria do The Economist: [Populações idosas significam mais gastos do governo](https://www.franklintempleton.com.br/articles/the-economist/populacoes-idosas-significam-mais-gastos-do-governo#:~:text=Naquele%20ano%2C%20o%20Jap%C3%A3o%20gastou%20cerca%20de%2010%25%C2%A0do%20PIB%C2%A0em%20idosos%2C%20cerca%20de%20um%20quarto%20a%20mais%20do%20que%20a%20Am%C3%A9rica%20gasta%20hoje.%20O%20aumento%20dos%20gastos%20com%20os%20idosos%20ajudou%20a%20impulsionar%20as%20d%C3%ADvidas%20p%C3%BAblicas%20brutas%20do%20Jap%C3%A3o%20para%20vertiginosos%20266%25%20do%C2%A0PIB.)
+
 [^2]: Tesouro Nacional: [Conhecendo a Regra de Ouro](https://www.tesourotransparente.gov.br/videos/regra-de-ouro/conhecendo-a-regra-de-ouro-serie-regra-de-ouro-1-5)
 
 [^3]: [Dívida do Japão](https://www.bbc.com/portuguese/66255891#:~:text=A%20d%C3%ADvida%20p%C3%BAblica%20do%20Jap%C3%A3o,em%20emprestar%20dinheiro%20ao%20pa%C3%ADs)
 
 [^4]: Simplificação sem considerar fatores como inflação, para didática sobre a dívida pública.
+
+[^6]: [Relação do Brasil com o FMI](https://www.politize.com.br/fmi-brasil-relacao-fundo-monetario-internacional/)
