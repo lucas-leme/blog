@@ -1,3 +1,17 @@
+- author: AQR
+  categories: &id008
+  - Quant
+  - Papers
+  date: '2024-01-26T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        January\
+    \ 26, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
+    >-</span>\n                <a class=\"cta cta--dark \">Portfolio Solutions Group</a>\n\
+    </span>\n                    </p><br /><br /><span style=\"font-size: 12px; color:\
+    \ gray;\">(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\"\
+    >FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/White-Papers/A-Fresh-Look-at-Multi-Strategy-Alternatives
+  title: A Fresh Look at Multi-Strategy Alternatives
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -684,9 +698,7 @@
   title: "BC - Copom Comunicado - 259\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,75% a.a."
 - author: AQR
-  categories: &id008
-  - Quant
-  - Papers
+  categories: *id008
   date: '2023-12-13T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        December\
     \ 13, 2023<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -695,14 +707,3 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
   title: Inflation and Tax Efficiency
-- author: AQR
-  categories: *id008
-  date: '2023-12-05T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        December\
-    \ 5, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Jordan Brooks</a>\n</span>\n    \
-    \                </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
-    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/Driving-with-the-Rear-View-Mirror
-  title: Driving with the Rear-View Mirror
