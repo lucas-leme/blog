@@ -1,5 +1,19 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-01-26T21:45:43+00:00'
+  description: "If you have $1300 to spend on a slab phone... why get anything else?\n\
+    \nGet 10% off with code MKBHD at Ridge at https://RIDGE.com/MKBHD \n\nMKBHD Merch:\
+    \ http://shop.MKBHD.com\n\nSamsung S24 Ultra: https://geni.us/aHRL01\n\nTech I'm\
+    \ using right now: https://www.amazon.com/shop/MKBHD \n\nPlaylist of MKBHD Intro\
+    \ music: https://goo.gl/B3AWV5\n\nPhone Provided by Samsung for review.\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i1.ytimg.com/vi/XaqOejIaFgM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=XaqOejIaFgM
+  title: 'Samsung Galaxy S24 Ultra Review: Why Buy Anything Else?'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -34,6 +48,21 @@
   image: https://i2.ytimg.com/vi/9ymRLDfnDKg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=9ymRLDfnDKg
   title: Deep Dive Into the Repository Design Pattern in Python
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-01-26T00:00:00+00:00'
+  description: "Russian billionaire Dmitry Rybolovlev owned art by da Vinci, Picasso\
+    \ and Magritte. But over more than a decade, he says his trusted art dealer defrauded\
+    \ him by as much as $1 billion. WSJ\u2019s Kelly Crow tells us about the case\
+    \ that Rybolovlev alleges is the biggest art fraud in history.  Further Listening:\
+    \  - The Basquiat Sisters on Managing One of Art's Hottest Brands\_ - How an Antiques\
+    \ Dealer Uncovered a Massive Museum Heist\_  Further Reading:  - Fraud, or Just\
+    \ a Bad Deal? Oligarch and Sotheby\u2019s to Battle in Court Over Rarefied Art\
+    \ Trade\_    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4OLyGbfAmuYgVAj4PgzTco
+  title: A Russian Billionaire, an Art Dealer and an Epic Feud
 - author: AQR
   categories: &id008
   - Quant
@@ -49,7 +78,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/A-Fresh-Look-at-Multi-Strategy-Alternatives
   title: A Fresh Look at Multi-Strategy Alternatives
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-01-25T00:00:00+00:00'
   description: "Conhe\xE7a a EXPONENTIAL COINS: https://www.empiricus.com.br/assinaturas/exponential-coins-anual/?xpromo=XE-ME-EMP-MMK-SUBMMK-20242501-YT-X-XA\
@@ -69,8 +98,7 @@
   path: https://open.spotify.com/episode/2uU45D6W4vzsOwZbagYfQ3
   title: "#81 | TUDO que voc\xEA PRECISA saber antes investir em CRIPTOMOEDAS!"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-01-25T00:00:00+00:00'
   description: "A few years ago, the founder of Chinese automaker BYD was worried\
     \ the company might not survive. But last year, BYD surpassed Tesla to become\
@@ -104,7 +132,7 @@
   path: https://open.spotify.com/episode/4GkgMjwrc7PR2lhIfqYtoG
   title: 'Money Talks: Is Japan saying sayonara to stagnation?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-01-24T16:00:38+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -129,7 +157,7 @@
   path: https://www.youtube.com/watch?v=oxzFIqTqz0g
   title: 'Rust: Type Safety and Memory Management'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-01-24T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #80: Gustavo Salom\xE3o, s\xF3cio fundador e CIO\
     \ da Norte Asset, explica por que acredita que o cen\xE1rio para bolsa de valores\
@@ -145,20 +173,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac552c122e1fa5e6396bb6eab
   path: https://open.spotify.com/episode/3I3pY3zyvhFBFqwax8IghH
   title: "O cen\xE1rio favor\xE1vel para a bolsa em 2024 | Corte Ep. #80"
-- author: The Journal.
-  categories: *id003
-  date: '2024-01-24T00:00:00+00:00'
-  description: "If you own an Apple Watch, you may have noticed the device\u2019s\
-    \ pulse oximeter feature. Masimo, a medical technology company, claims that the\
-    \ oximeter technology is theirs and it is suing Apple. Masimo CEO Joe Kiani and\
-    \ WSJ\u2019s Aaron Tilley on the story of how Masimo decided to take on a tech\
-    \ giant.\_  Further Listening:  -One Company\u2019s Quest to Burst Apple\u2019\
-    s Blue Bubble Texts\_  Further Reading: -The Entrepreneur Who Bet His Company\
-    \ on a Fight With Apple\_ -Apple to Remove Blood-Oxygen Sensor From Watch to Avoid\
-    \ U.S. Ban\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0ylJcV7wtVNqjYdSE8zWDR
-  title: "The Company Taking on Apple\u2019s Watch Technology"
 - author: Outliers
   categories: &id006
   - Podcasts
@@ -186,21 +200,12 @@
   path: https://theovershoot.co/p/americas-housing-rebound
   title: America's Housing Rebound
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-01-19T23:44:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/GQkkHtBD1BM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=GQkkHtBD1BM
   title: Taking 1000 Steps  In Every Smartwatch!
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-01-19T03:49:53+00:00'
-  description: Gotta find your hearts
-  image: https://i4.ytimg.com/vi/GQAvce3MA44/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GQAvce3MA44
-  title: On "Quitting" YouTube
 - author: RSS - Feeds do BC
   categories:
   - Bacen
