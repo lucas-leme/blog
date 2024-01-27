@@ -214,10 +214,10 @@ Nesta seção vamos analisar a evolução da dívida pública no Brasil, analisa
 <!-- Comentar que boa parte da dívida do brasil está em dólar -->
 <!-- plotar correlação móvel da dívida com o dólar para demonstrar de maneira estatística. -->
 
-Desde o período colonial, o Brasil sempre teve questões relacionadas a dívidas externas, e no período mais recente destaca-se a dívida com o FMI (Fundo Monetário Internacional). Durante o período militar (1964-1985), houve bastante investimento em projetos de infraestrutura porém com crises relevante como a crise mundial do petróleo as fontes de capital se exauriram, e o Brasil passou a ter dificuldade para pagar suas divídas externas, e nesse cenário o país recorreu ao FMI para financiar suas dívidas [^6], então enquanto o país possuia uma dívida externa com o FMI, havia uma correlação positiva entre a dívida pública do Brasil e o dólar,
+Desde o período colonial, o Brasil sempre teve questões relacionadas a dívidas externas, e no período mais recente destaca-se a dívida com o FMI (Fundo Monetário Internacional). Durante o período militar (1964-1985), houve bastante investimento em projetos de infraestrutura porém com crises relevantes como a crise mundial do petróleo as fontes de capital se exauriram, e o Brasil passou a ter dificuldade para pagar suas divídas externas, e nesse cenário o país recorreu ao FMI para financiar suas dívidas [^6], então enquanto o país possuia uma dívida externa com o FMI, havia uma correlação positiva entre a dívida pública do Brasil e o dólar,
 portanto quando o dólar subia, a dívida pública do Brasil também subia, e vice-versa.
 
-Após saldar a dívida com o FMI em 2005, o Brasil passou a ter uma posição credora em dólar, conforme ilustrado em @fig-divida-pib-brasil-fmi. Portanto, a dívida pública do Brasil passou a ter uma correlação negativa com o dólar em momentos de crise, como a na crise política de 2015 e a crise da Covid-19 em 2020, onde o dólar subiu e a dívida pública do Brasil caiu.
+Após saldar a dívida com o FMI em 2005, o Brasil passou a ter uma posição credora em dólar, conforme ilustrado em @fig-divida-pib-brasil-fmi. Portanto, a dívida pública do Brasil passou a ter uma correlação negativa com o dólar em momentos de crise, como na crise política de 2015 e a crise da Covid-19 em 2020, onde o dólar subiu e a dívida pública do Brasil caiu.
 Portanto, ao eliminar a dívida externa a dívida pública do Brasil ficou mais resiliente a fatores externos.
 
 ```{python}
@@ -310,7 +310,7 @@ Com o objetivo de manter a trajetória da dívida pública sob controle, ao long
 
 O Teto de Gastos foi aprovado em 2016 durante o governo Temer, e limitava o crescimento dos gastos públicos à inflação do ano anterior, então o governo não podia gastar mais do que o ano anterior, corrigido pela inflação. 
 
-Já o arcabouço fiscal aprovado em 2023 pelo governo Lula, estabelece uma regra baseada em metas e bandas ao redor do crescimento da receita, onde as despesas do governo só podem crescer até 70% das receitas do governo, e caso o resultado primário (@eq-resultado-primario) esteja abaixo da meta inferior, o governo deve limitar os gastos em 50% das receitas do ano anterior, e no cenário de resultado primário melhor que a meta superior, o governo pode utilizar o excedente para investir. Na @fig-metas-aracabouco-fiscal, podemos observar as metas propostas pelo governo.
+Já o arcabouço fiscal aprovado em 2023 pelo governo Lula, estabelece uma regra baseada em metas e bandas ao redor do resultado primário (@eq-resultado-primario), onde as despesas do governo só podem crescer até 70% das receitas do ano anterior, e caso o resultado primário esteja abaixo da meta inferior, o governo deve limitar os gastos em 50% das receitas do ano anterior, e no cenário de resultado primário melhor que a meta superior, o governo pode utilizar o excedente para investir. Na @fig-metas-aracabouco-fiscal, podemos observar as metas propostas pelo governo.
 
 ```{python}
 # | label: fig-metas-aracabouco-fiscal
@@ -357,7 +357,7 @@ fig.show()
 
 ```
 
-Portanto, o arcabouço fiscal é mais flexível que o teto de gastos, e tem um vinculo com metas de resultado primário, o que incentiva uma melhor gestão dos gastos públicos para aumentar os investimentos em áreas de interesse do governo.
+Portanto, o arcabouço fiscal é mais flexível que o teto de gastos, e tem um vinculo com metas de resultado primário, o que alinhar as expectativa dos agentes econômicos e incentiva uma melhor gestão dos gastos públicos para aumentar os investimentos em áreas de interesse do governo.
 
 ## Conclusão
 
