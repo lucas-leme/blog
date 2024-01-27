@@ -37,10 +37,10 @@ pib = load_imf_dataset('pib.xls')
 
 Dados e equações por trás da dívida pública.
 
-A dívida pública representa uma das variáveis agregadas mais relevantes na economia, pois reflete o resultado dos empréstimos que o governo contrai para financiar seus gastos.
+A dívida pública representa uma das variáveis agregadas mais relevantes na economia, pois reflete o resultado dos empréstimos que o governo contrai para financiar seus investimentos.
 Para entender os aspectos macroeconomicos de um país é relevante avaliar a evolução da dívida pública, bem como os fatores que a influenciam.
 
-Geralmente a dívida pública é expressa como uma proporção do PIB (@eq-divida-pib), assim é possível avaliar a capacidade de pagamento do governo, uma vez que o PIB representa a capacidade de geração de renda de um país. Porém, matematicamente falando tal métrica não faz muito sentido, pois o PIB é uma variável que representa fluxo financeiro em um determinado período (R$ / Ano), enquanto a dívida pública é uma variável que representa um passivo (R$). Então, uma possível interpretação para a dívida pública como proporção do PIB é que esta representa o número de anos que o governo levaria para pagar sua dívida, caso todo o PIB fosse destinado para tal fim. 
+Geralmente a dívida pública é expressa como uma proporção do PIB (@eq-divida-pib), assim é possível avaliar a capacidade de pagamento do governo, uma vez que o PIB representa a capacidade de geração de renda de um país. Realizando uma análise dimensional é possível interpretar a métrica da seguinte maneira: O PIB é uma variável que representa fluxo financeiro em um determinado período (R$ / Ano), enquanto a dívida pública é uma variável que representa um passivo (R$), então, uma possível interpretação para a dívida pública como proporção do PIB é que esta representa o número de anos que o governo levaria para pagar sua dívida, caso todo o PIB fosse destinado para tal fim. 
 
 ::: {.callout-note}
 Exemplificando, se a dívida pública é 80% do PIB, isso significa que o governo levaria 0,8 anos para pagar sua dívida, caso todo o PIB fosse destinado para tal fim.
@@ -54,7 +54,7 @@ $$ {#eq-divida-pib}
 
 ## Representação Matemática da Dívida Pública
 
-A dívida pública é inicialmente representada pela diferença entre os gastos do governo $G_t$ e a receita do governo $R_t$. Esta diferença é conhecida como resultado primário, denotado pela @eq-resultado-primario.
+Um conceito relevante para a dívida pública é o resultado primário (@eq-resultado-primario), que representada a diferença entre os gastos do governo $G_t$ e a receita do governo $R_t$.
 
 $$
 D_t = G_t - R_t
@@ -156,7 +156,7 @@ fig.show()
 
 ```
 
-A trajetória de aumento da dívida no Japão teve início na década de 1990, após a crise financeira e imobiliária o país entrou em ciclo de baixo crescimento econômico, e para amenizar os imapacos da crise e manter o orçamento equilibrado, o país emitiu dívida via títulos públicos com baixas taxa de juros, porém com baixo risco dado a confiança do mercado na economia japonesa [^3]
+A trajetória de aumento da dívida no Japão teve início na década de 1990, após a crise financeira e imobiliária o país entrou em ciclo de baixo crescimento econômico, e para amenizar os impactos da crise e manter o orçamento equilibrado, o país emitiu dívida via títulos públicos com baixas taxa de juros, porém com baixo risco dado a confiança do mercado na economia japonesa [^3]
 
 Apesar da dívida emitida ter baixos juros, o crescimento econômico foi menor que a taxa de juros (@fig-pib-juros-japao), resultando numa situação de eficiência dinâmica, em que a dívida pública cresce ao longo do tempo. 
 
