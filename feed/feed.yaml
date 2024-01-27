@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2024-01-27T19:13:04+00:00'
+  description: Real growth is running faster than 3%, nominal income growth is still
+    6-7%, and several drags are poised to reverse soon. Even with inflation (temporarily?)
+    tamed, the case for cuts is not obvious.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0169dac1-9720-4909-83d0-7feb0a7def41_4997x2625.png
+  path: https://theovershoot.co/p/the-us-economy-is-roaring-why-should
+  title: The U.S. Economy is Roaring. Why Should Rates Come Down?
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -27,7 +38,7 @@
   path: https://www.youtube.com/watch?v=hpNI5t5URrk
   title: 'Python Classes vs  Rust Structs: What''s Different?'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-01-26T21:45:43+00:00'
@@ -189,9 +200,7 @@
   path: https://open.spotify.com/episode/7ve9ptYMTSXDGXVruQqluV
   title: '#119 - Investindo em infraestrutura com a XP Asset'
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2024-01-20T02:33:52+00:00'
   description: Despite years of the highest real mortgage interest rates in almost
     two decades, construction and renovation spending have been holding steady, if
@@ -200,7 +209,7 @@
   path: https://theovershoot.co/p/americas-housing-rebound
   title: America's Housing Rebound
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-01-19T23:44:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/GQkkHtBD1BM/hqdefault.jpg
@@ -220,15 +229,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/19012024
   title: "BC - Focus - Relat\xF3rio de Mercado - 19/01/2024"
-- author: The Overshoot
-  categories: *id005
-  date: '2024-01-18T07:43:38+00:00'
-  description: The good news for workers and businesses is that hiring and sales are
-    still rising briskly. The potential wrinkle is that underlying inflation still
-    seems a bit faster than 2%.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26a0b845-fb34-4023-b727-b30494b818c3_5001x2625.png
-  path: https://theovershoot.co/p/the-us-economy-refuses-to-slow-down
-  title: The U.S. Economy Refuses to Slow Down
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
