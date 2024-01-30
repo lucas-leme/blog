@@ -1,3 +1,17 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-01-30T14:00:32+00:00'
+  description: "Unboxing and hands-on with Apple Vision Pro!\n\nCharge your devices\
+    \ with Anker\u2019s new MagGo line-up at\nAmazon: https://ankerfast.club/H0CvC1\n\
+    Anker.com: https://shop.anker.com/Oc6Vkw\n\nMKBHD Merch: http://shop.MKBHD.com\n\
+    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nPlaylist of MKBHD\
+    \ Intro music: https://goo.gl/B3AWV5\n\nHeadset provided by Apple for review.\n\
+    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i4.ytimg.com/vi/SaneSRqePVY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=SaneSRqePVY
+  title: Apple Vision Pro Unboxing!
 - author: Apricitas Economics
   categories: &id006
   - Macro
@@ -9,7 +23,7 @@
   path: https://www.apricitas.io/p/us-growth-keeps-beating-expectations
   title: US Growth Keeps Beating Expectations
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-01-29T00:00:00+00:00'
   description: "Three U.S. service members were killed and at least 34 injured in\
@@ -26,7 +40,7 @@
   path: https://open.spotify.com/episode/33TQbse4YLvHv1DlFAesMC
   title: "A Deadly Drone Attack and Iran\u2019s \u2018Axis of Resistance\u2019"
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-01-27T19:13:04+00:00'
@@ -37,7 +51,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-roaring-why-should
   title: The U.S. Economy is Roaring. Why Should Rates Come Down?
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -65,9 +79,7 @@
   path: https://www.youtube.com/watch?v=hpNI5t5URrk
   title: 'Python Classes vs. Rust Structs: What''s Different?'
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-01-26T21:45:43+00:00'
   description: "If you have $1300 to spend on a slab phone... why get anything else?\n\
     \nGet 10% off with code MKBHD at Ridge at https://RIDGE.com/MKBHD \n\nMKBHD Merch:\
@@ -79,7 +91,7 @@
   path: https://www.youtube.com/watch?v=XaqOejIaFgM
   title: 'Samsung Galaxy S24 Ultra Review: Why Buy Anything Else?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-01-26T16:00:07+00:00'
   description: "In this video, I\u2019ll take a closer look at the repository design\
     \ pattern in Python. This is a very useful pattern that allows you to keep your\
@@ -126,7 +138,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26012024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/01/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-01-26T00:00:00+00:00'
   description: "Russian billionaire Dmitry Rybolovlev owned art by da Vinci, Picasso\
     \ and Magritte. But over more than a decade, he says his trusted art dealer defrauded\
@@ -154,7 +166,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/A-Fresh-Look-at-Multi-Strategy-Alternatives
   title: A Fresh Look at Multi-Strategy Alternatives
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-01-25T00:00:00+00:00'
   description: "Conhe\xE7a a EXPONENTIAL COINS: https://www.empiricus.com.br/assinaturas/exponential-coins-anual/?xpromo=XE-ME-EMP-MMK-SUBMMK-20242501-YT-X-XA\
@@ -193,7 +205,7 @@
   path: https://open.spotify.com/episode/4GkgMjwrc7PR2lhIfqYtoG
   title: 'Money Talks: Is Japan saying sayonara to stagnation?'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-01-24T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #80: Gustavo Salom\xE3o, s\xF3cio fundador e CIO\
     \ da Norte Asset, explica por que acredita que o cen\xE1rio para bolsa de valores\
@@ -225,7 +237,7 @@
   path: https://open.spotify.com/episode/7ve9ptYMTSXDGXVruQqluV
   title: '#119 - Investindo em infraestrutura com a XP Asset'
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-01-20T02:33:52+00:00'
   description: Despite years of the highest real mortgage interest rates in almost
     two decades, construction and renovation spending have been holding steady, if
@@ -233,13 +245,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd83ed274-c8ea-4699-af1f-3fbf7f05a08c_5005x2673.png
   path: https://theovershoot.co/p/americas-housing-rebound
   title: America's Housing Rebound
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-01-19T23:44:36+00:00'
-  description: ''
-  image: https://i4.ytimg.com/vi/GQkkHtBD1BM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GQkkHtBD1BM
-  title: Taking 1000 Steps  In Every Smartwatch!
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
