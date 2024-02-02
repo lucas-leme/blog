@@ -72,6 +72,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/2R7MAaus5Mi2Mlpmcm3J53
   title: A Few Thoughts on Spending Money
+- author: AQR
+  categories: &id006
+  - Quant
+  - Papers
+  date: '2024-02-01T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        February\
+    \ 1, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
+  title: The Enduring Appeal of Gain Deferral, Part 1
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -249,7 +261,7 @@
   path: https://www.youtube.com/watch?v=4MbshUkkA38
   title: '$3500 Apple Vision Pro: What Comes in the Box!'
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-01-29T17:00:57+00:00'
@@ -307,9 +319,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26012024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/01/2024"
 - author: AQR
-  categories: &id008
-  - Quant
-  - Papers
+  categories: *id006
   date: '2024-01-26T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        January\
     \ 26, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -321,7 +331,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/A-Fresh-Look-at-Multi-Strategy-Alternatives
   title: A Fresh Look at Multi-Strategy Alternatives
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-01-24T00:00:00+00:00'
   description: "Assita ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/watch?v=PqADTw5oy1IInvestir\
@@ -336,7 +346,7 @@
   path: https://open.spotify.com/episode/7ve9ptYMTSXDGXVruQqluV
   title: '#119 - Investindo em infraestrutura com a XP Asset'
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2024-01-14T16:30:15+00:00'
   description: Americans Have Been Forming New Businesses at Record Rates. But is
     This a Real Startup Boom&#8212;or Just The Rise of Gig Work and Side Hustles?
@@ -344,7 +354,7 @@
   path: https://www.apricitas.io/p/americas-new-business-boom
   title: America's New Business Boom
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-01-10T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a348d55d2dff21307f906aba2
@@ -703,13 +713,3 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/13122023
   title: "BC - Copom Ata - 259\xAA Reuni\xE3o - 12-13 dezembro, 2023"
-- author: AQR
-  categories: *id008
-  date: '2023-12-13T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        December\
-    \ 13, 2023<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Inflation-and-Tax-Efficiency
-  title: Inflation and Tax Efficiency
