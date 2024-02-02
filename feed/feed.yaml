@@ -1,5 +1,41 @@
-- author: Market Makers
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-02-02T16:00:15+00:00'
+  description: "If you're into Python but need better performance, you might consider\
+    \ using Mojo. It's a programming language similar to Python. In this video, I\u2019\
+    ll show you how to use it and how it differs from using plain old Python.\n\n\U0001F4A1\
+    \ Get my FREE 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \nGitHub repository: https://git.arjan.codes/2024/mojo\n\n\U0001F525 Modular/Mojo's\
+    \ website: https://www.modular.com/max/mojo\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/bftakc\n\
+    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:00 About Mojo\n1:45 Installation and Execution\n\
+    5:14 Segue\n11:50 What Mojo is not\n13:07 Final thoughts\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i4.ytimg.com/vi/OJUorka-XLU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OJUorka-XLU
+  title: 'Choosing Your Language: Python or Mojo?'
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2024-02-01T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
@@ -22,7 +58,7 @@
   path: https://open.spotify.com/episode/5keNFFu6c3TfyshTFSPmSb
   title: '#82 | COMO SE TORNAR UM INVESTIDOR FORA DA FARIA LIMA'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-01T00:00:00+00:00'
   description: "Paramount Global is a media titan and lately potential buyers have\
@@ -85,7 +121,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
   title: The Enduring Appeal of Gain Deferral, Part 1
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-01-31T22:50:19+00:00'
@@ -177,10 +213,7 @@
   title: "BC - Copom Comunicado - 260\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,25% a.a."
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-01-31T16:00:21+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -205,7 +238,7 @@
   path: https://www.youtube.com/watch?v=PdLSdBOS0HU
   title: 'Rust vs  Python: Error Handling Showdown'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-01-31T14:52:28+00:00'
@@ -224,7 +257,7 @@
   path: https://www.youtube.com/watch?v=dtp6b76pMak
   title: "Using Apple Vision Pro: What It\u2019s Actually Like!"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-01-31T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #81: Alexandre Vasarhelyi explica por que o bitcoin\
     \ \xE9 bom no ponto de vista econ\xF4mico.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-\
@@ -239,7 +272,7 @@
   path: https://open.spotify.com/episode/2hKasbmge7Hrtwrebg7RjU
   title: "BITCOIN: POR QUE VOC\xCA DEVERIA INVESTIR | Corte Ep. #81"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-01-31T00:00:00+00:00'
   description: "The U.S. and the European Union have promised Ukraine billions of\
     \ dollars in new financial aid to keep the country running as the war with Russia\
@@ -254,7 +287,7 @@
   path: https://open.spotify.com/episode/4Mah6nfGSubO3J21KbvKCU
   title: Ukraine's $30 Billion Problem
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-01-30T15:10:21+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/4MbshUkkA38/hqdefault.jpg
@@ -271,7 +304,7 @@
   path: https://www.apricitas.io/p/us-growth-keeps-beating-expectations
   title: US Growth Keeps Beating Expectations
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-01-27T19:13:04+00:00'
   description: Real growth is running faster than 3%, nominal income growth is still
     6-7%, and several drags are poised to reverse soon. Even with inflation (temporarily?)
@@ -279,31 +312,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0169dac1-9720-4909-83d0-7feb0a7def41_4997x2625.png
   path: https://theovershoot.co/p/the-us-economy-is-roaring-why-should
   title: The U.S. Economy is Roaring. Why Should Rates Come Down?
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-01-27T16:00:30+00:00'
-  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
-    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/hpNI5t5URrk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=hpNI5t5URrk
-  title: 'Python Classes vs. Rust Structs: What''s Different?'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
