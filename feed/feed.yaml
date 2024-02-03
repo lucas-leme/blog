@@ -1,5 +1,16 @@
-- author: ArjanCodes
+- author: The Overshoot
   categories: &id002
+  - Macro
+  - Newsletters
+  date: '2024-02-03T00:58:50+00:00'
+  description: The good news is that the personal savings rate is likely higher than
+    previously estimated. But the underlying nominal growth impulse is stronger, despite
+    the continued decline in churn.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff38dffb8-5deb-4954-9725-9e45d0895a02_5005x2670.png
+  path: https://theovershoot.co/p/wages-are-rising-faster-than-we-thought
+  title: Wages Are Rising Faster than We Thought
+- author: ArjanCodes
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -53,7 +64,7 @@
   path: https://open.spotify.com/episode/3VFYsD4qpDSqBF1okjvlyp
   title: The UN Agency Accused of Links to Hamas
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-02-01T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
@@ -138,9 +149,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
   title: The Enduring Appeal of Gain Deferral, Part 1
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id002
   date: '2024-01-31T22:50:19+00:00'
   description: Hungary has a massive structural current account surplus, but the banking
     system has recently developed a currency mismatch that might be possible to exploit
@@ -230,7 +239,7 @@
   title: "BC - Copom Comunicado - 260\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,25% a.a."
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-01-31T16:00:21+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -255,7 +264,7 @@
   path: https://www.youtube.com/watch?v=PdLSdBOS0HU
   title: 'Rust vs  Python: Error Handling Showdown'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-01-31T14:52:28+00:00'
@@ -274,7 +283,7 @@
   path: https://www.youtube.com/watch?v=dtp6b76pMak
   title: "Using Apple Vision Pro: What It\u2019s Actually Like!"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-01-31T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #81: Alexandre Vasarhelyi explica por que o bitcoin\
     \ \xE9 bom no ponto de vista econ\xF4mico.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-\
@@ -289,7 +298,7 @@
   path: https://open.spotify.com/episode/2hKasbmge7Hrtwrebg7RjU
   title: "BITCOIN: POR QUE VOC\xCA DEVERIA INVESTIR | Corte Ep. #81"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-01-30T15:10:21+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/4MbshUkkA38/hqdefault.jpg
@@ -305,15 +314,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12291464-79db-4fe7-ac49-aff1c72dd67d_1272x812.webp
   path: https://www.apricitas.io/p/us-growth-keeps-beating-expectations
   title: US Growth Keeps Beating Expectations
-- author: The Overshoot
-  categories: *id005
-  date: '2024-01-27T19:13:04+00:00'
-  description: Real growth is running faster than 3%, nominal income growth is still
-    6-7%, and several drags are poised to reverse soon. Even with inflation (temporarily?)
-    tamed, the case for cuts is not obvious.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0169dac1-9720-4909-83d0-7feb0a7def41_4997x2625.png
-  path: https://theovershoot.co/p/the-us-economy-is-roaring-why-should
-  title: The U.S. Economy is Roaring. Why Should Rates Come Down?
 - author: RSS - Feeds do BC
   categories:
   - Bacen
