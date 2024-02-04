@@ -1,7 +1,14 @@
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id001
   - Tech
   - Youtube
+  date: '2024-02-04T20:02:06+00:00'
+  description: You'll never be less valued than this...
+  image: https://i1.ytimg.com/vi/dMObcjEI50w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=dMObcjEI50w
+  title: "In case you\u2019re having a bad day"
+- author: Marques Brownlee
+  categories: *id001
   date: '2024-02-04T01:40:14+00:00'
   description: 'Apple Vision Pro is a glimpse into the future... with today''s technology
 
@@ -48,7 +55,7 @@
   path: https://www.youtube.com/watch?v=86Gy035z_KA
   title: 'Apple Vision Pro Review: Tomorrow''s Ideas... Today''s Tech!'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -76,7 +83,7 @@
   path: https://www.youtube.com/watch?v=v9xZ9z6DXnc
   title: Why Less Popular Can Be Better in Python HTTP Libraries
 - author: The Overshoot
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2024-02-03T00:58:50+00:00'
@@ -87,7 +94,7 @@
   path: https://theovershoot.co/p/wages-are-rising-faster-than-we-thought
   title: Wages Are Rising Faster than We Thought
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-02T16:00:15+00:00'
   description: "If you're into Python but need better performance, you might consider\
     \ using Mojo. It's a programming language similar to Python. In this video, I\u2019\
@@ -120,7 +127,7 @@
   path: https://www.youtube.com/watch?v=OJUorka-XLU
   title: 'Choosing Your Language: Python or Mojo?'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-02T00:00:00+00:00'
   description: "Amid a deepening humanitarian crisis in Gaza, no aid group has the\
@@ -161,7 +168,7 @@
   path: https://open.spotify.com/episode/5keNFFu6c3TfyshTFSPmSb
   title: '#82 | COMO SE TORNAR UM INVESTIDOR FORA DA FARIA LIMA'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-02-01T00:00:00+00:00'
   description: "Paramount Global is a media titan and lately potential buyers have\
     \ been circling, hoping to get some of its parts. But as WSJ\u2019s Jessica Toonkel\
@@ -223,7 +230,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
   title: The Enduring Appeal of Gain Deferral, Part 1
 - author: The Overshoot
-  categories: *id003
+  categories: *id004
   date: '2024-01-31T22:50:19+00:00'
   description: Hungary has a massive structural current account surplus, but the banking
     system has recently developed a currency mismatch that might be possible to exploit
@@ -312,22 +319,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18075
   title: "BC - Copom Comunicado - 260\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,25% a.a."
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-01-31T14:52:28+00:00'
-  description: "Everything you need to know about using Apple Vision Pro\n\nVision\
-    \ Pro Review: https://youtu.be/86Gy035z_KA\nApple's Forbidden words: https://youtu.be/kvN5_GXlg2Y?si=x4J7EDrLZOId2fh6\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nIntro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds \nPlaylist of MKBHD\
-    \ Intro music: https://goo.gl/B3AWV5\n\nHeadset provided by Apple for review.\n\
-    \n0:00 Intro\n1:14 This is a VR headset\n4:23 The Battery\n6:21 The Controls\n\
-    8:24 VisionOS\n10:21 Passthrough\n12:37 Full Immersion\n13:45 The Keyboard\n15:03\
-    \ What Does It Actually Do?\n18:44 The \"Killer App\"\n21:38 Mac Virtual Display\n\
-    23:53 The Eyes\n27:16 Personas\n32:12 Facetimes\n35:35 Review Preview\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i1.ytimg.com/vi/dtp6b76pMak/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=dtp6b76pMak
-  title: "Using Apple Vision Pro: What It\u2019s Actually Like!"
 - author: Market Makers
   categories: *id005
   date: '2024-01-31T00:00:00+00:00'
