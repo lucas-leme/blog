@@ -1,5 +1,5 @@
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-02-07T01:08:19+00:00'
@@ -9,8 +9,25 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F613db53e-76ba-4e52-8df4-000a628e283c_4997x2625.png
   path: https://theovershoot.co/p/chinas-smaller-banks-are-getting
   title: China's Smaller Banks Are Getting Squeezed
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2024-02-07T00:00:00+00:00'
+  description: "CORTE EPIS\xD3DIO #82: Luiz Fernando Araujo (FINACAP) d\xE1 sua opini\xE3\
+    o sobre as a\xE7\xF5es da bolsa de valores e explica por que acredita que ainda\
+    \ est\xE1 tudo muito barato. \U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO- Spotify:\
+    \ https://open.spotify.com/episode/5keNFFu6c3TfyshTFSPmSb?si=COIEJ3MLRWKRHBBr1YA6kQ-\
+    \ Apple Podcast: https://podcasts.apple.com/br/podcast/82-como-se-tornar-um-investidor-fora-da-faria-lima/id1632972179?i=1000643857024\U0001F4FD\
+    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/-WyxvzALj-w - - - -\
+    \ - - - -O MERCADO AINDA EST\xC1 BARATO? | Market Makers #82Apresenta\xE7\xE3\
+    o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
+    \ Rafael Gama (Grifo Asset) e Luiz Fernando Araujo (FINACAP)Edi\xE7\xE3o: Bianca\
+    \ Barsotti"
+  image: https://i.scdn.co/image/ab6765630000ba8ac455ad3204fc272786e93bfb
+  path: https://open.spotify.com/episode/7xatGwcFOZDxwralqI6lfC
+  title: "O MERCADO AINDA EST\xC1 BARATO? | Corte Ep. #82"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -368,8 +385,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2024-02-06T00:00:00+00:00'
   description: "Seja bem-vindo ao Mercado Aberto!O objetivo deste v\xEDdeo \xE9 te\
     \ ensinar tudo o que voc\xEA precisa saber antes de investir em um banco. Mesmo\
@@ -394,12 +410,12 @@
     \ Twitter (X): https://twitter.com/mmakersoficial TikTok: https://www.tiktok.com/@mmakersoficial\
     \ Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada Apresenta\xE7\
     \xE3o: Matheus Soares (@maatssoares) Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8a9a24cdde87cc4be99ad18d82
+  image: https://i.scdn.co/image/ab6765630000ba8a74823a0d0d3d75666e5706a9
   path: https://open.spotify.com/episode/459jZNFzumfGhyUg03z1Pd
   title: "GUIA B\xC1SICO DE COMO ANALISAR UM BANCO: TUDO o que voc\xEA PRECISA SABER\
     \ antes de investir em BANCOS | Mercado Aberto"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-02-06T00:00:00+00:00'
   description: "Mark Cuban is best known as a panelist on the reality TV show \u201C\
@@ -415,7 +431,7 @@
   path: https://open.spotify.com/episode/4gQ90avIec7zFyHiP8niVq
   title: "Mark Cuban on \u2018Shark Tank,\u2019 the Mavs and Elon Musk"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-02-05T00:00:00+00:00'
   description: "Elon Musk and some members of Tesla's board of directors have deep\
     \ personal and financial ties. The connections are an extreme blurring of friendship\
@@ -449,7 +465,7 @@
   path: https://open.spotify.com/episode/4gY64OpnVcCcr02LhtgP5D
   title: Clayton Gillespie - A Fundamental View of Quant Equity (S7E5)
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-02-04T20:02:06+00:00'
@@ -458,7 +474,7 @@
   path: https://www.youtube.com/watch?v=dMObcjEI50w
   title: "In case you\u2019re having a bad day"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-02-04T01:40:14+00:00'
   description: 'Apple Vision Pro is a glimpse into the future... with today''s technology
 
@@ -505,7 +521,7 @@
   path: https://www.youtube.com/watch?v=86Gy035z_KA
   title: 'Apple Vision Pro Review: Tomorrow''s Ideas... Today''s Tech!'
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-02-03T16:00:28+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -530,7 +546,7 @@
   path: https://www.youtube.com/watch?v=v9xZ9z6DXnc
   title: Why Less Popular Can Be Better in Python HTTP Libraries
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-02-03T00:58:50+00:00'
   description: The good news is that the personal savings rate is likely higher than
     previously estimated. But the underlying nominal growth impulse is stronger, despite
@@ -552,28 +568,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/02022024
   title: "BC - Focus - Relat\xF3rio de Mercado - 02/02/2024"
-- author: Market Makers
-  categories: *id005
-  date: '2024-02-01T00:00:00+00:00'
-  description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
-    o GRATUITA!https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-0/ Neste\
-    \ epis\xF3dio, trouxemos duas \xF3timas hist\xF3rias de investidores que nasceram\
-    \ e se formaram bem longe da Faria Lima. Uma delas \xE9 a pernambucana Finacap,\
-    \ cujo gestor tem 20 anos de experi\xEAncia na Bolsa e o fundo de a\xE7\xF5es\
-    \ da casa triplicou de tamanho nos \xFAltimos tr\xEAs anos e superou R$ 400 milh\xF5\
-    es - indo na contram\xE3o dos resgates da ind\xFAstria de fundos.A outra hist\xF3\
-    ria \xE9 da cearense Griffo Asset, que tem um hist\xF3rico mais curto mas vem\
-    \ de uma grande empresa atuante no Cear\xE1. O fundo de cr\xE9dito da casa foi\
-    \ muito bem em 2023 e agora o gestor mudou-se pra S\xE3o Paulo para atrair novos\
-    \ investidores.Voc\xEA vai aprender como \xE9 poss\xEDvel tornar-se um profissional\
-    \ de sucesso no mercado financeiro mesmo longe do eixo RJ-SP e, claro, saber qual\
-    \ o cen\xE1rio deles para investimentos em 2024.Apresenta\xE7\xE3o: Thiago Salom\xE3\
-    o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__) Convidados: Rafael Gama (Griffo\
-    \ Asset) e Luiz Fernando Araujo (FINACAP) Edi\xE7\xE3o: Bianca BarsottiAnuncie\
-    \ no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
-  image: https://i.scdn.co/image/ab6765630000ba8ac8f8336279952d152eedbc74
-  path: https://open.spotify.com/episode/5keNFFu6c3TfyshTFSPmSb
-  title: '#82 | COMO SE TORNAR UM INVESTIDOR FORA DA FARIA LIMA'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
