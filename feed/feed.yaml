@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2024-02-07T01:08:19+00:00'
+  description: PBOC lending to other depository corporations is up by 50% since mid-2022.
+    That coincides with deposit migration away from small and medium sized banks towards
+    the biggest institutions.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F613db53e-76ba-4e52-8df4-000a628e283c_4997x2625.png
+  path: https://theovershoot.co/p/chinas-smaller-banks-are-getting
+  title: China's Smaller Banks Are Getting Squeezed
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -357,7 +368,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-02-06T00:00:00+00:00'
   description: "Seja bem-vindo ao Mercado Aberto!O objetivo deste v\xEDdeo \xE9 te\
@@ -519,9 +530,7 @@
   path: https://www.youtube.com/watch?v=v9xZ9z6DXnc
   title: Why Less Popular Can Be Better in Python HTTP Libraries
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2024-02-03T00:58:50+00:00'
   description: The good news is that the personal savings rate is likely higher than
     previously estimated. But the underlying nominal growth impulse is stronger, despite
@@ -544,7 +553,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/02022024
   title: "BC - Focus - Relat\xF3rio de Mercado - 02/02/2024"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-02-01T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
     o GRATUITA!https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-0/ Neste\
@@ -614,15 +623,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
   title: The Enduring Appeal of Gain Deferral, Part 1
-- author: The Overshoot
-  categories: *id005
-  date: '2024-01-31T22:50:19+00:00'
-  description: Hungary has a massive structural current account surplus, but the banking
-    system has recently developed a currency mismatch that might be possible to exploit
-    (with the ECB's help).
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F74f9dca3-bcd1-4678-b3f9-8da1fc72182f_5000x2673.png
-  path: https://theovershoot.co/p/can-the-eu-squeeze-hungary
-  title: Can the EU Squeeze Hungary?
 - author: Comunicados Copom
   categories:
   - Bacen
