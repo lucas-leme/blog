@@ -1,5 +1,33 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-02-07T16:00:38+00:00'
+  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
+    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i1.ytimg.com/vi/peUteklUsgY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=peUteklUsgY
+  title: The Power of Concurrent HTTP Requests in Python
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2024-02-07T01:08:19+00:00'
@@ -10,7 +38,7 @@
   path: https://theovershoot.co/p/chinas-smaller-banks-are-getting
   title: China's Smaller Banks Are Getting Squeezed
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-02-07T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #82: Luiz Fernando Araujo (FINACAP) d\xE1 sua opini\xE3\
@@ -26,11 +54,29 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac455ad3204fc272786e93bfb
   path: https://open.spotify.com/episode/7xatGwcFOZDxwralqI6lfC
   title: "O MERCADO AINDA EST\xC1 BARATO? | Corte Ep. #82"
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-02-07T00:00:00+00:00'
+  description: "A Absolute Investimentos foi fundada em 2013, e com R$ 33 bilh\xF5\
+    es sob gest\xE3o, tem se destacado perante a ind\xFAstria pela resili\xEAncia\
+    \ observada nas principais estrat\xE9gias.A estrat\xE9gia Macro da gestora, o\
+    \ fundo Absolute Vertex foi eleito como um dos melhores multimercados de 2023,\
+    \ e para conhecer melhor o time, filosofia e as posi\xE7\xF5es que trazem destaques\
+    \ para a estrat\xE9gia.Neste epis\xF3dio, falamos sobre o atual momento da gestora,\
+    \ perspectivas e as oportunidades do mercado em 2024.----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/41SHHkAAcompanhe todos\
+    \ os conte\xFAdos da XP em https://t2m.io/ZAqGh0uParticipe do canal do Telegram\
+    \ para estar sempre atualizado: https://t.me/xp_investimentosConfira mais conte\xFA\
+    dos tamb\xE9m atrav\xE9s do nosso Instagram: https://www.instagram.com/expertxp/Deixe\
+    \ seu coment\xE1rio, inscreva-se no canal e ative as notifica\xE7\xF5es para receber\
+    \ todas as novidades: https://bit.ly/3lUQQWW."
+  image: https://i.scdn.co/image/ab6765630000ba8a4f568814943edeed31a46b0b
+  path: https://open.spotify.com/episode/7EhyIBC8LA6QCdXNT2ulI1
+  title: 120 - Fundos Multimercado com Fabiano Rios da Absolute Investimentos
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-02-06T16:00:39+00:00'
   description: "Welcome to the first Tuesday Tips video! Ever wondered how to check\
     \ if a string follows a specific pattern? That's where Regular Expressions, or\
@@ -385,7 +431,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-02-06T00:00:00+00:00'
   description: "Seja bem-vindo ao Mercado Aberto!O objetivo deste v\xEDdeo \xE9 te\
     \ ensinar tudo o que voc\xEA precisa saber antes de investir em um banco. Mesmo\
@@ -415,7 +461,7 @@
   title: "GUIA B\xC1SICO DE COMO ANALISAR UM BANCO: TUDO o que voc\xEA PRECISA SABER\
     \ antes de investir em BANCOS | Mercado Aberto"
 - author: The Journal.
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-02-06T00:00:00+00:00'
   description: "Mark Cuban is best known as a panelist on the reality TV show \u201C\
@@ -430,8 +476,34 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4gQ90avIec7zFyHiP8niVq
   title: "Mark Cuban on \u2018Shark Tank,\u2019 the Mavs and Elon Musk"
+- author: AQR
+  categories: &id003
+  - Quant
+  - Papers
+  date: '2024-02-06T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        February\
+    \ 6, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <a class=\"cta cta--dark \">Michele L. Aghassi</a>\n        \
+    \        <a class=\"cta cta--dark \">Chris Doheny</a>\n                <a class=\"\
+    cta cta--dark \">Charles Fattouche</a>\n                <a class=\"cta cta--dark\
+    \ \">Erik Wong</a>\n</span>\n                    </p><br /><br /><span style=\"\
+    font-size: 12px; color: gray;\">(Feed generated with <a href=\"https://fetchrss.com\"\
+    \ target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/White-Papers/Is-Your-Equity-Hedge-Fund-Portfolio-Resilient-Enough-for-Uncertain-Times
+  title: Is Your Equity Hedge Fund Portfolio Resilient Enough for Uncertain Times?
+- author: AQR
+  categories: *id003
+  date: '2024-02-06T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        February\
+    \ 6, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-2
+  title: The Enduring Appeal of Gain Deferral, Part 2
 - author: The Journal.
-  categories: *id002
+  categories: *id004
   date: '2024-02-05T00:00:00+00:00'
   description: "Elon Musk and some members of Tesla's board of directors have deep\
     \ personal and financial ties. The connections are an extreme blurring of friendship\
@@ -465,7 +537,7 @@
   path: https://open.spotify.com/episode/4gY64OpnVcCcr02LhtgP5D
   title: Clayton Gillespie - A Fundamental View of Quant Equity (S7E5)
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-02-04T20:02:06+00:00'
@@ -474,7 +546,7 @@
   path: https://www.youtube.com/watch?v=dMObcjEI50w
   title: "In case you\u2019re having a bad day"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id005
   date: '2024-02-04T01:40:14+00:00'
   description: 'Apple Vision Pro is a glimpse into the future... with today''s technology
 
@@ -520,33 +592,8 @@
   image: https://i1.ytimg.com/vi/86Gy035z_KA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=86Gy035z_KA
   title: 'Apple Vision Pro Review: Tomorrow''s Ideas... Today''s Tech!'
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-02-03T16:00:28+00:00'
-  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
-    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i3.ytimg.com/vi/v9xZ9z6DXnc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=v9xZ9z6DXnc
-  title: Why Less Popular Can Be Better in Python HTTP Libraries
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2024-02-03T00:58:50+00:00'
   description: The good news is that the personal savings rate is likely higher than
     previously estimated. But the underlying nominal growth impulse is stronger, despite
@@ -605,18 +652,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/2R7MAaus5Mi2Mlpmcm3J53
   title: A Few Thoughts on Spending Money
-- author: AQR
-  categories: &id006
-  - Quant
-  - Papers
-  date: '2024-02-01T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        February\
-    \ 1, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/The-Enduring-Appeal-of-Gain-Deferral-Part-1
-  title: The Enduring Appeal of Gain Deferral, Part 1
 - author: Comunicados Copom
   categories:
   - Bacen
@@ -699,7 +734,7 @@
   title: "BC - Copom Comunicado - 260\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,25% a.a."
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-01-29T17:00:57+00:00'
@@ -708,21 +743,8 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12291464-79db-4fe7-ac49-aff1c72dd67d_1272x812.webp
   path: https://www.apricitas.io/p/us-growth-keeps-beating-expectations
   title: US Growth Keeps Beating Expectations
-- author: AQR
-  categories: *id006
-  date: '2024-01-26T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        January\
-    \ 26, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
-    >-</span>\n                <a class=\"cta cta--dark \">Portfolio Solutions Group</a>\n\
-    </span>\n                    </p><br /><br /><span style=\"font-size: 12px; color:\
-    \ gray;\">(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\"\
-    >FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/A-Fresh-Look-at-Multi-Strategy-Alternatives
-  title: A Fresh Look at Multi-Strategy Alternatives
 - author: Outliers
-  categories: &id008
-  - Podcasts
+  categories: *id007
   date: '2024-01-24T00:00:00+00:00'
   description: "Assita ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/watch?v=PqADTw5oy1IInvestir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -736,20 +758,13 @@
   path: https://open.spotify.com/episode/7ve9ptYMTSXDGXVruQqluV
   title: '#119 - Investindo em infraestrutura com a XP Asset'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2024-01-14T16:30:15+00:00'
   description: Americans Have Been Forming New Businesses at Record Rates. But is
     This a Real Startup Boom&#8212;or Just The Rise of Gig Work and Side Hustles?
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1780364-f8c8-49c6-a44f-e06b36893b52_2886x1843.png
   path: https://www.apricitas.io/p/americas-new-business-boom
   title: America's New Business Boom
-- author: Outliers
-  categories: *id008
-  date: '2024-01-10T00:00:00+00:00'
-  description: ''
-  image: https://i.scdn.co/image/ab6765630000ba8a348d55d2dff21307f906aba2
-  path: https://open.spotify.com/episode/7CEveBWyCJRPKtARPZB6wN
-  title: "#118 - Alaska: o melhor fundo de a\xE7\xF5es de 2023"
 - author: The View From Apollo
   categories:
   - Podcasts
