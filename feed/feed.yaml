@@ -1,5 +1,14 @@
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-02-09T22:20:23+00:00'
+  description: It works best on airplanes
+  image: https://i4.ytimg.com/vi/CjWfgSrwrz0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CjWfgSrwrz0
+  title: "Apple Vision Pro Hidden Feature \u2708\uFE0F #protip"
+- author: ArjanCodes
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -35,9 +44,7 @@
   path: https://www.youtube.com/watch?v=FQDtw_rV9Oc
   title: Visual Studio Code Extensions for Backend Development in 2024
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-02-09T03:45:25+00:00'
   description: 'Specced to the max and priced to crush.
 
@@ -69,8 +76,22 @@
   image: https://i3.ytimg.com/vi/B-d97ZrAJZ0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=B-d97ZrAJZ0
   title: 'OnePlus 12 Review: Better Than You Think!'
-- author: Market Makers
+- author: The Journal.
   categories: &id002
+  - Podcasts
+  date: '2024-02-09T00:00:00+00:00'
+  description: "As the 49ers contend for Super Bowl rings this Sunday, the team has\
+    \ another battle to fight. The 49ers are in a decadelong war with their home city\
+    \ of Santa Clara over whether the team's $1 billion stadium is providing the economic\
+    \ boost promised. WSJ\u2019s Zusha Elinson unpacks the conflict, which has involved\
+    \ lawsuits and heated local elections.  Further Reading: - Why the 49ers and Their\
+    \ Home City Are in a Decadelong Fight\_  Further Listening: - The Long-Last Super\
+    \ Bowl\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2smNWgwXtBgll6xf5k0XbU
+  title: The Epic Battle Between the 49ers and Their Home City
+- author: Market Makers
+  categories: &id004
   - Podcasts
   date: '2024-02-08T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
@@ -106,8 +127,7 @@
   title: "#83 | As grandes quest\xF5es sobre o FUTURO DA ECONOMIA GLOBAL e o perigo\
     \ das VELHAS IDEIAS DE LULA"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-02-08T00:00:00+00:00'
   description: "In December, the Colorado Supreme Court ruled that Donald Trump couldn\u2019\
     t appear on the presidential ballot because his actions on January 6 disqualified\
@@ -141,7 +161,7 @@
   path: https://open.spotify.com/episode/2I4H8v110PJPNd8vZBNnuM
   title: "Money Talks: How much trouble is China\u2019s economy in?"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id003
   date: '2024-02-07T16:00:38+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -177,7 +197,7 @@
   path: https://theovershoot.co/p/chinas-smaller-banks-are-getting
   title: China's Smaller Banks Are Getting Squeezed
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2024-02-07T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #82: Luiz Fernando Araujo (FINACAP) d\xE1 sua opini\xE3\
     o sobre as a\xE7\xF5es da bolsa de valores e explica por que acredita que ainda\
@@ -192,20 +212,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac455ad3204fc272786e93bfb
   path: https://open.spotify.com/episode/7xatGwcFOZDxwralqI6lfC
   title: "O MERCADO AINDA EST\xC1 BARATO? | Corte Ep. #82"
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-07T00:00:00+00:00'
-  description: "Music from major artists like Taylor Swift and The Weeknd has been\
-    \ muted on TikTok after a licensing deal fell apart. WSJ\u2019s Anne Steele breaks\
-    \ down what happened to billions of videos and why the two companies are at loggerheads\
-    \ over the terms of a new deal.  Further Reading and Watching: - Bad Blood: Why\
-    \ TikTok Videos With Taylor Swift and Other Universal Artists Are Now Silent\_\
-    \ - Universal Music Group Poised to Stop Licensing Music to TikTok\_  Further\
-    \ Listening: - How TikTok Became the World's Favorite App\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1u8f4nS3NPNDyFcvJM5qzb
-  title: The Day the Music Died on TikTok
 - author: Outliers
   categories: &id007
   - Podcasts
@@ -548,7 +554,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: AQR
-  categories: &id004
+  categories: &id005
   - Quant
   - Papers
   date: '2024-02-06T00:00:00'
@@ -564,7 +570,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Is-Your-Equity-Hedge-Fund-Portfolio-Resilient-Enough-for-Uncertain-Times
   title: Is Your Equity Hedge Fund Portfolio Resilient Enough for Uncertain Times?
 - author: AQR
-  categories: *id004
+  categories: *id005
   date: '2024-02-06T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        February\
     \ 6, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -592,13 +598,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8aecac969cefe122d0db014b4a
   path: https://open.spotify.com/episode/4gY64OpnVcCcr02LhtgP5D
   title: Clayton Gillespie - A Fundamental View of Quant Equity (S7E5)
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-02-04T20:02:06+00:00'
-  description: You'll never be less valued than this...
-  image: https://i1.ytimg.com/vi/dMObcjEI50w/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=dMObcjEI50w
-  title: "In case you\u2019re having a bad day"
 - author: The Overshoot
   categories: *id006
   date: '2024-02-03T00:58:50+00:00'
