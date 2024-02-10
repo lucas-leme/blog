@@ -7,12 +7,12 @@ on:
     - cron: "47 14,15 * * *" # every day at 11:47 and 12:47
     - cron: "20 18,20,21 * * *" # every day at 15:20, 17:20 and 18:20
     - cron: "30 0,1 * * *" # every day at 22:30 and 23:30
-  # workflow_dispatch: # run manually
-  #   inputs:
-  #     logLevel:
-  #       description: "Manual test"
-  #       required: false
-  #       default: "Test"
+  workflow_dispatch: # run manually
+    inputs:
+      logLevel:
+        description: "Manual Run"
+        required: false
+        default: "Manual Run"
 
 jobs:
   build:
