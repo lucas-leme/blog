@@ -1,5 +1,44 @@
-- author: Marques Brownlee
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-02-13T16:00:32+00:00'
+  description: "'Fail Fast' is an important principle of software design. In this\
+    \ video, I\u2019ll show you why a fast-failing program isn't necessarily a drawback\
+    \ and how you can effectively apply the 'Fail Fast' principle to your advantage.\n\
+    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
+    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\U0001F525 GitHub repository: https://git.arjan.codes/2024/tuesday_tips/fail_fast\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/vlpojx\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n0:42 Setup\n1:43 Explanation\n2:35 Early detection\
+    \ - Find the error as fast as possible\n3:08 Quick response on failure\n3:45 How\
+    \ to resolve - Automated testing\n4:12 Pros\n4:52 Cons\n5:17 Final thoughts\n\n\
+    #arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
+    \ might be affiliate links. If you purchase a product or service through one of\
+    \ those links, I may receive a small commission. There is no additional charge\
+    \ to you. Thanks for supporting my channel so I can continue to provide you with\
+    \ free content each week!"
+  image: https://i4.ytimg.com/vi/_SlnC4v-PK8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=_SlnC4v-PK8
+  title: A Fast Failing Program Is a Good Failing Program
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-02-13T01:13:02+00:00'
@@ -59,10 +98,7 @@
   path: https://open.spotify.com/episode/5tgc0zMnfdYDG8c0WZaRjJ
   title: 'Economia brasileira e as ideias ruins de Lula | Corte EP. #83'
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-02-10T16:00:38+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -87,45 +123,12 @@
   path: https://www.youtube.com/watch?v=uTadGvNBw7Q
   title: 'HTTPX: Simplicity and Speed in Python'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-02-09T22:20:23+00:00'
   description: It works best on airplanes
   image: https://i4.ytimg.com/vi/CjWfgSrwrz0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CjWfgSrwrz0
   title: "Apple Vision Pro Hidden Feature \u2708\uFE0F #protip"
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-02-09T16:00:09+00:00'
-  description: "In this video, I\u2019ll show you some of the Visual Studio Code extensions\
-    \ I\u2019ve been using lately for backend development. These are must-haves in\
-    \ 2024!\n\n\U0001F4A1 Get my FREE 7-step guide to help you consistently design\
-    \ great software: https://arjancodes.com/designguide.\n\n\U0001F4BB ArjanCodes\
-    \ Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a quiz on this\
-    \ topic: https://www.learntail.com/quiz/dmwtnb\n\nTry Learntail for FREE \u27A1\
-    \uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software Designer\
-    \ Mindset: https://www.arjancodes.com/mindset\nThe Software Architect Mindset:\
-    \ Pre-register now! https://www.arjancodes.com/architect\nNext Level Python: Become\
-    \ a Python Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day Design\
-    \ Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED\
-    \ BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed this content,\
-    \ give this video a like. If you want to watch more of my upcoming videos, consider\
-    \ subscribing to my channel!\n\nSocial channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\
-    \U0001F426Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
-    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
-    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
-    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit\
-    \ Hygh\n- Alexander Milden\n- Bean\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:51 Introduction to Advanced VSCode Features\n1:21 Postman\n4:10 GitLens\n5:21\
-    \ Database extensions\n6:39 Autoformatters and linters\n8:36 Other extensions\n\
-    10:40 Final thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The\
-    \ links in this description might be affiliate links. If you purchase a product\
-    \ or service through one of those links, I may receive a small commission. There\
-    \ is no additional charge to you. Thanks for supporting my channel so I can continue\
-    \ to provide you with free content each week!"
-  image: https://i3.ytimg.com/vi/FQDtw_rV9Oc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=FQDtw_rV9Oc
-  title: Visual Studio Code Extensions for Backend Development in 2024
 - author: The Journal.
   categories: *id003
   date: '2024-02-09T00:00:00+00:00'
