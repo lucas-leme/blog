@@ -1,3 +1,33 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-02-13T01:13:02+00:00'
+  description: 'I already have a wishlist for the next generation Apple Vision Pro
+
+
+    iFixit Teardown: https://youtu.be/JVJPAYwY8Us?si=eeDEB1u-1NfpYujM
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/hOi8s2wkX4A/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=hOi8s2wkX4A
+  title: Apple Vision Pro is Missing Something...
 - author: The Journal.
   categories: &id003
   - Podcasts
@@ -29,7 +59,7 @@
   path: https://open.spotify.com/episode/5tgc0zMnfdYDG8c0WZaRjJ
   title: 'Economia brasileira e as ideias ruins de Lula | Corte EP. #83'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -57,16 +87,14 @@
   path: https://www.youtube.com/watch?v=uTadGvNBw7Q
   title: 'HTTPX: Simplicity and Speed in Python'
 - author: Marques Brownlee
-  categories: &id002
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-02-09T22:20:23+00:00'
   description: It works best on airplanes
   image: https://i4.ytimg.com/vi/CjWfgSrwrz0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CjWfgSrwrz0
   title: "Apple Vision Pro Hidden Feature \u2708\uFE0F #protip"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-09T16:00:09+00:00'
   description: "In this video, I\u2019ll show you some of the Visual Studio Code extensions\
     \ I\u2019ve been using lately for backend development. These are must-haves in\
@@ -98,39 +126,6 @@
   image: https://i3.ytimg.com/vi/FQDtw_rV9Oc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=FQDtw_rV9Oc
   title: Visual Studio Code Extensions for Backend Development in 2024
-- author: Marques Brownlee
-  categories: *id002
-  date: '2024-02-09T03:45:25+00:00'
-  description: 'Specced to the max and priced to crush.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    OnePlus 12: https://geni.us/kjHILxK
-
-    OnePlus 12R: https://geni.us/c0aQY7
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by OnePlus for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/B-d97ZrAJZ0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=B-d97ZrAJZ0
-  title: 'OnePlus 12 Review: Better Than You Think!'
 - author: The Journal.
   categories: *id003
   date: '2024-02-09T00:00:00+00:00'
