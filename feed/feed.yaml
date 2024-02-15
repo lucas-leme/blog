@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2024-02-15T09:28:18+00:00'
+  description: Prices jumped in many categories in the first month of the year. Some
+    of that may be noise, and should be discounted accordingly, but it is difficult
+    to ignore the breadth of the pop.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19dc600-0355-4575-a947-972731bc0b92_5000x2736.png
+  path: https://theovershoot.co/p/us-inflation-surged-in-january-is
+  title: U.S. Inflation Surged in January. Is It a Fluke?
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -196,9 +207,7 @@
   path: https://open.spotify.com/episode/2I4H8v110PJPNd8vZBNnuM
   title: "Money Talks: How much trouble is China\u2019s economy in?"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2024-02-07T01:08:19+00:00'
   description: PBOC lending to other depository corporations is up by 50% since mid-2022.
     That coincides with deposit migration away from small and medium sized banks towards
@@ -548,7 +557,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: AQR
-  categories: &id005
+  categories: &id006
   - Quant
   - Papers
   date: '2024-02-06T00:00:00'
@@ -564,7 +573,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Is-Your-Equity-Hedge-Fund-Portfolio-Resilient-Enough-for-Uncertain-Times
   title: Is Your Equity Hedge Fund Portfolio Resilient Enough for Uncertain Times?
 - author: AQR
-  categories: *id005
+  categories: *id006
   date: '2024-02-06T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        February\
     \ 6, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -592,15 +601,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8aecac969cefe122d0db014b4a
   path: https://open.spotify.com/episode/4gY64OpnVcCcr02LhtgP5D
   title: Clayton Gillespie - A Fundamental View of Quant Equity (S7E5)
-- author: The Overshoot
-  categories: *id006
-  date: '2024-02-03T00:58:50+00:00'
-  description: The good news is that the personal savings rate is likely higher than
-    previously estimated. But the underlying nominal growth impulse is stronger, despite
-    the continued decline in churn.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff38dffb8-5deb-4954-9725-9e45d0895a02_5005x2670.png
-  path: https://theovershoot.co/p/wages-are-rising-faster-than-we-thought
-  title: Wages Are Rising Faster than We Thought
 - author: RSS - Feeds do BC
   categories:
   - Bacen

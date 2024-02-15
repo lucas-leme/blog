@@ -1,3 +1,18 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-02-15T10:00:53+00:00'
+  description: "<p>J\xE1 respondo de pronto: \u201Cdireitos n\xE3o nascem em \xE1\
+    rvores\u201D, como afirma o professor Fl\xE1vio Galdino em sua obra intitulada\
+    \ Introdu\xE7\xE3o \xE0 teoria dos custos dos direitos. Em 1999, Sunstein e Holmes,\
+    \ em obra cl\xE1ssica \u2013 The Cost of Rights: Why Liberty Depends on Taxes\
+    \ \u2013, foram taxativos ao argumentarem que direitos t\xEAm custos, e esses\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-direitos-nascem-em-arvores/\"\
+    \ rel=\"nofollow\">OPINI\xC3O: Direitos nascem em \xE1rvores?</a> appeared first\
+    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-direitos-nascem-em-arvores/
+  title: "OPINI\xC3O: Direitos nascem em \xE1rvores?"
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
@@ -20,8 +35,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/02/how-and-why-do-consumers-use-buy-now-pay-later/
   title: "How and Why Do Consumers Use \u201CBuy Now, Pay Later\u201D?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-02-09T16:32:47+00:00'
   description: "<p>Mesmo com o IPCA acima do esperado em janeiro \u2013 que fez o\
     \ DI abrir ontem \u2013 o Santander reviu para baixo sua proje\xE7\xE3o de infla\xE7\
@@ -35,7 +49,7 @@
   path: https://braziljournal.com/santander-ve-menos-inflacao-e-selic-a-85-no-fim-do-ano/
   title: "Santander v\xEA menos infla\xE7\xE3o e Selic a 8,5% no fim do ano"
 - author: "Bloomberg L\xEDnea"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-02-07T14:54:42+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/YQIog4_PxU5JboIokiziD9JxbI8=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/BQVVJNOV7FDZVIGQFGMXEPDEQY.jpg\"\
@@ -47,7 +61,7 @@
   title: Ibovespa recua de olho em Bradesco e falas de membros do Fed sobre juros
     nos EUA
 - author: "Bloomberg L\xEDnea"
-  categories: *id001
+  categories: *id002
   date: '2024-02-07T13:17:43+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/VBsbl8nZ9VCrYrfI0MIsKJqpXUc=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/JNPTNCRWA6AOMUXLOC5WUKFJEI.jpg\"\
     \ style=\"width: 100%;\" /><div>Patamar representa o n\xEDvel mais baixo para\
@@ -56,7 +70,7 @@
   path: https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace17520864a5ad1398a75b5970f2d41c9799a7ed4810e6dc0ef3abcf4ae2eedfbc338b661b8785acf3740051e1cf8e1bbc9725adddba0a397c89cca114b831fc9976b2881682d2c878e53cf
   title: "Min\xE9rio de ferro estaciona nos US$ 125 com perspectiva de demanda incerta"
 - author: "Bloomberg L\xEDnea"
-  categories: *id001
+  categories: *id002
   date: '2024-02-07T12:44:47+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/L8qV0YQmfx6nZSkQQ-Vn7QbcnCg=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/UJBUTET5HRAGJBWP3LZGKKBGWE.jpeg\"\
     \ style=\"width: 100%;\" /><div>Moeda americana n\xE3o tinha movimentos relevantes\
@@ -67,7 +81,7 @@
   title: "D\xF3lar opera de lado nesta quarta-feira \xE0 espera de falas de dirigentes\
     \ do Fed"
 - author: "Bloomberg L\xEDnea"
-  categories: *id001
+  categories: *id002
   date: '2024-02-07T11:43:05+00:00'
   description: "<div><img src=\"https://www.bloomberglinea.com/resizer/wB9lFaM4w43-PqN7H8KAiG22d3s=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/PJWLKYKFARDSNFTLCHPPLNQ6RA.jpeg\"\
     \ style=\"width: 100%;\" /><div>Investidores ficam de olho em dados econ\xF4micos\
@@ -75,18 +89,3 @@
   image: https://www.bloomberglinea.com/resizer/wB9lFaM4w43-PqN7H8KAiG22d3s=/1024x0/filters:format(webp):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/bloomberglinea/PJWLKYKFARDSNFTLCHPPLNQ6RA.jpeg
   path: https://rss.app/articles/cb4e791f6f6d729c04434f0c7ddaba84061c15331833bbefc7e3c9198a8b29c5f050a8592b8b8f3cace1752e864a5ccc7d8637b881433809ca7e907ec79d19698ef627b7f6ea33e3a59d2ca729fb671f83264e455003f0f6abd86514ccc1a2a397dd8c86075a8f53c1966377892b7d7bda
   title: "Cinco coisas que voc\xEA precisa saber para come\xE7ar esta quarta-feira"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-02-06T19:25:12+00:00'
-  description: "<p>O ex-presidente do Chile Sebasti\xE1n Pi\xF1era morreu agora \xE0\
-    \ tarde num acidente de helic\xF3ptero, a imprensa chilena est\xE1 reportando.\
-    \ Pi\xF1era foi presidente do Chile duas vezes, entre 2010 e 2014 e entre 2018\
-    \ e 2022. \u201CPerdi um amigo liberal. E o Chile perde um grande pol\xEDtico,\u201D\
-    \ disse o empres\xE1rio Salim Mattar, acionista da Localiza. Miguel [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/breaking-sebastian-pinera-morre-em-acidente-aereo/\"\
-    \ rel=\"nofollow\">BREAKING: Sebasti\xE1n Pi\xF1era morre em acidente a\xE9reo</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/breaking-sebastian-pinera-morre-em-acidente-aereo/
-  title: "BREAKING: Sebasti\xE1n Pi\xF1era morre em acidente a\xE9reo"
