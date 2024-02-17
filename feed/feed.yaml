@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -50,6 +50,22 @@
   image: https://i3.ytimg.com/vi/NXpdyAWLDas/hqdefault.jpg
   path: https://www.youtube.com/watch?v=NXpdyAWLDas
   title: AI Generated Videos Just Changed Forever
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-02-16T00:00:00+00:00'
+  description: "For years, anti-corruption activist Alexei Navalny has been an outspoken\
+    \ critic and political foe of Russian President Vladimir Putin. Today, Russian\
+    \ prison authorities reported Navalny died at the age of 47. WSJ\u2019s Ann Simmons\
+    \ delves into Navalny\u2019s life, death and what this moment means for Russia.\
+    \  Further Reading: - Alexei Navalny Spent His Final Years Hounded\u2014but Undeterred\u2014\
+    by the Kremlin\_ - Alexei Navalny, the Kremlin\u2019s Most Ardent Critic, Dies\
+    \ in Prison\_  Further Listening: - Russia's Media Crackdown: 'The Future is Pretty\
+    \ Dark'\_ - The Plane Crash That Killed Yevgeny Prigozhin\_ - Inside Russia\u2019\
+    s Spy Unit Targeting Americans\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6LOO5843W1icerwsQv25N9
+  title: "Alexei Navalny, Putin\u2019s Loudest Critic, Dies in a Russian Prison"
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -62,7 +78,7 @@
   path: https://theovershoot.co/p/us-inflation-surged-in-january-is
   title: U.S. Inflation Surged in January. Is It a Fluke?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-15T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
@@ -78,8 +94,7 @@
   title: '#84 | Economia & Investimentos: Verdades inconvenientes sobre o Brasil e
     a Bolsa de Valores'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-02-15T00:00:00+00:00'
   description: "Unethical funeral homes have exploited grieving customers for decades.\
     \ What consumers may not know is that many of the industry\u2019s bad actors have\
@@ -112,7 +127,7 @@
   path: https://open.spotify.com/episode/4lhPaULlk1Z4uVCo21N2i5
   title: 'Money Talks: Silicon rally'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-14T16:00:21+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -137,7 +152,7 @@
   path: https://www.youtube.com/watch?v=_BClSh2j_IA
   title: "\U0001F4A1 When to Use the State Design Pattern"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-02-14T00:00:00+00:00'
   description: "Rog\xE9rio Xavier (s\xF3cio fundador e CEO da SPX Capital) fala sobre\
     \ o impacto econ\xF4mico da China no Brasil\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-\
@@ -150,20 +165,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a36627cb25db6019a3b9574e4
   path: https://open.spotify.com/episode/3sHVGtQvygY2ubbPnzhtac
   title: "O impacto econ\xF4mico da China no Brasil | Corte Ep. #83"
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-14T00:00:00+00:00'
-  description: "OpenAI and its CEO Sam Altman kicked off an AI revolution with the\
-    \ viral ChatGPT. Now, Altman has set his sights on another ambitious goal: Raise\
-    \ up to $7 trillion to overhaul the world\u2019s semiconductor chip industry.\
-    \ WSJ\u2019s Keach Hagey explains what the plan entails, and why skeptics think\
-    \ it will be an uphill battle.  Further Listening:  - Artificial: The OpenAI Story\_\
-    \  Further Reading:  - Sam Altman Seeks Trillions of Dollars to Reshape Business\
-    \ of Chips and AI\_ - Raising Trillions of Dollars Might Be the Easy Part of Altman\u2019\
-    s Chip Plan\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1BnIv70HXoRkN8pWYjMKsN
-  title: "Sam Altman\u2019s $7 Trillion \u2018Moonshot\u2019"
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
