@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-02-19T18:23:36+00:00'
+  description: ''
+  image: https://i4.ytimg.com/vi/cShtHM7cFR0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=cShtHM7cFR0
+  title: This Airless Basketball is 3D Printed!
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -73,9 +82,7 @@
   path: https://www.youtube.com/watch?v=HM8jWW1tnqY
   title: Domain-Driven Design Made Me Realize Something About AI Tools
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2024-02-16T00:48:23+00:00'
   description: "Reminder: It\u2019s only been 1 YEAR since the Will Smith eating spaghetti\
     \ video\n\nOpenAI Sora: https://openai.com/sora#research\n\nThumbnail character:\
@@ -86,7 +93,7 @@
   path: https://www.youtube.com/watch?v=NXpdyAWLDas
   title: AI Generated Videos Just Changed Forever
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-16T00:00:00+00:00'
   description: "For years, anti-corruption activist Alexei Navalny has been an outspoken\
@@ -113,7 +120,7 @@
   path: https://theovershoot.co/p/us-inflation-surged-in-january-is
   title: U.S. Inflation Surged in January. Is It a Fluke?
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-02-15T00:00:00+00:00'
   description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
@@ -129,7 +136,7 @@
   title: '#84 | Economia & Investimentos: Verdades inconvenientes sobre o Brasil e
     a Bolsa de Valores'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-02-15T00:00:00+00:00'
   description: "Unethical funeral homes have exploited grieving customers for decades.\
     \ What consumers may not know is that many of the industry\u2019s bad actors have\
@@ -162,7 +169,7 @@
   path: https://open.spotify.com/episode/4lhPaULlk1Z4uVCo21N2i5
   title: 'Money Talks: Silicon rally'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-02-14T00:00:00+00:00'
   description: "Rog\xE9rio Xavier (s\xF3cio fundador e CEO da SPX Capital) fala sobre\
     \ o impacto econ\xF4mico da China no Brasil\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO-\
@@ -184,34 +191,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/2nASXixKh0cjdtVdEIjdkF
   title: Compounding Optimism
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-02-13T01:13:02+00:00'
-  description: 'I already have a wishlist for the next generation Apple Vision Pro
-
-
-    iFixit Teardown: https://youtu.be/JVJPAYwY8Us?si=eeDEB1u-1NfpYujM
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/hOi8s2wkX4A/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=hOi8s2wkX4A
-  title: Apple Vision Pro is Missing Something...
 - author: The View From Apollo
   categories:
   - Podcasts
