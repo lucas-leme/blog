@@ -45,6 +45,24 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad659c4801ba96fe187ec329f
   path: https://open.spotify.com/episode/3hn8SjoavIhAdYrUCDGyud
   title: 'PEDRO CERIZE MANDA A REAL SOBRE A ECONOMIA BRASILEIRA | Corte Ep. #84'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-02-21T00:00:00+00:00'
+  description: "The animal tranquilizer xylazine, also known as \u201Ctranq,\u201D\
+    \ is finding its way into opioid supplies and wreaking havoc all over the country.\
+    \ It\u2019s rotting people\u2019s flesh, leading to amputations and complicating\
+    \ drug treatment. WSJ\u2019s Julie Wernau takes us to Robeson County, N.C., the\
+    \ new \u201Cground zero\u201D for xylazine addiction.  Further Reading: - Flesh-Rotting\
+    \ \u2018Tranq\u2019 Undermines Fight Against Fentanyl\_ - Recovering From Drug\
+    \ Addiction Was Hard. Tranq Made It Worse.\_ - Nurses Make House Calls to Treat\
+    \ \u2018Tranq\u2019 Wounds for Users at Society\u2019s Edge\_  Further Listening:\
+    \ - Why Some Opioid Victims Are Challenging Purdue\u2019s Settlement\_ - How a\
+    \ Drug Maker Plans to Cut Off Money for Opioid Victims\_\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4L3YUrmzBNiFokWeDYUOcO
+  title: "Fentanyl Is Bad. \u2018Tranq\u2019 Might Be Worse."
 - author: ArjanCodes
   categories: *id001
   date: '2024-02-20T16:00:13+00:00'
@@ -108,8 +126,7 @@
   title: "Salom\xE3o e Matheus respondem COMENT\xC1RIOS e acabam com POL\xCAMICA sobre\
     \ o MARKET MAKERS | Mercado Aberto"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-02-20T00:00:00+00:00'
   description: "Meilin Keen was diagnosed with stomach cancer at 26. She\u2019s part\
     \ of a growing demographic of people who are getting cancer diagnoses before the\
@@ -137,7 +154,7 @@
   path: https://open.spotify.com/episode/0QqZr0vtPj2X1RQeZ3KO8c
   title: '#121 - Neo Investimentos e o fundo que nunca ficou negativo'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-02-19T18:23:36+00:00'
@@ -156,7 +173,7 @@
   path: https://www.apricitas.io/p/the-us-china-chip-war-is-escalating
   title: The US-China Chip War is Escalating
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-02-16T00:48:23+00:00'
   description: "Reminder: It\u2019s only been 1 YEAR since the Will Smith eating spaghetti\
     \ video\n\nOpenAI Sora: https://openai.com/sora#research\n\nThumbnail character:\
@@ -166,21 +183,6 @@
   image: https://i3.ytimg.com/vi/NXpdyAWLDas/hqdefault.jpg
   path: https://www.youtube.com/watch?v=NXpdyAWLDas
   title: AI Generated Videos Just Changed Forever
-- author: The Journal.
-  categories: *id004
-  date: '2024-02-16T00:00:00+00:00'
-  description: "For years, anti-corruption activist Alexei Navalny has been an outspoken\
-    \ critic and political foe of Russian President Vladimir Putin. Today, Russian\
-    \ prison authorities reported Navalny died at the age of 47. WSJ\u2019s Ann Simmons\
-    \ delves into Navalny\u2019s life, death and what this moment means for Russia.\
-    \  Further Reading: - Alexei Navalny Spent His Final Years Hounded\u2014but Undeterred\u2014\
-    by the Kremlin\_ - Alexei Navalny, the Kremlin\u2019s Most Ardent Critic, Dies\
-    \ in Prison\_  Further Listening: - Russia's Media Crackdown: 'The Future is Pretty\
-    \ Dark'\_ - The Plane Crash That Killed Yevgeny Prigozhin\_ - Inside Russia\u2019\
-    s Spy Unit Targeting Americans\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6LOO5843W1icerwsQv25N9
-  title: "Alexei Navalny, Putin\u2019s Loudest Critic, Dies in a Russian Prison"
 - author: The Overshoot
   categories: &id005
   - Macro
