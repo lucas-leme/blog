@@ -1,3 +1,46 @@
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2024-02-22T00:00:00+00:00'
+  description: "GARANTA SEU LUGAR NA FILA DE ESPERA DA COMUNIDADE MARKET MAKERS https://mmakers.com.br/comunidade/\
+    \ Trader h\xE1 mais de 20 anos, Marcelo Augusto dos Anjos (\u201CFralda\u201D\
+    ), gestor e CEO da Concordia Asset, formou-se em direito e ainda na faculdade\
+    \ prestou concurso para a Caixa Econ\xF4mica.Por obra do destino, acabou indo\
+    \ para a \xE1rea de gest\xE3o do banco e ali come\xE7ou sua carreira operando\
+    \ t\xEDtulo p\xFAblico.Em pouco tempo chegou a coordenador de mesa de fundos de\
+    \ investimentos da Caixa. Saiu da Caixa e foi trabalhar na Flow Corretora, lugar\
+    \ em que ficou por 3 anos e aprofundou seu conhecimento sobre opera\xE7\xE3o de\
+    \ t\xEDtulos, mas como broker. Com desejo de se tornar trader, foi para a Conc\xF3\
+    rdia Corretora e come\xE7ou ent\xE3o a operar no mercado de DI com o dinheiro\
+    \ dos s\xF3cios dentro do fundo Conc\xF3rdia TI \u2014 fundo com mais de 1.200.000%\
+    \ de rentabilidade desde a sua cria\xE7\xE3o em 2007.Em 2018, a Conc\xF3rdia se\
+    \ fundiu com a Spineli, formando a Necton, que foi vendida recentemente para o\
+    \ BTG. Ap\xF3s essa opera\xE7\xE3o, Marcelo deixou a corretora e criou a gestora\
+    \ Conc\xF3rdia, que hoje conta com tr\xEAs fundos (Conc\xF3rdia TI, Conc\xF3rdia\
+    \ Raccoon e Conc\xF3rdia Harvest).No epis\xF3dio #85, Marcelo contou toda sua\
+    \ trajet\xF3ria no mercado, explicou como funciona o mercado de juros (DI), como\
+    \ faz para ganhar dinheiro e revelou alguns dos seus segredos como trader vencedor.\
+    \ Uma conversa totalmente fora da curva para quem gosta de mercado raiz. Apresenta\xE7\
+    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidado:\
+    \ Marcelo Augusto, CEO da Concordia AssetEdi\xE7\xE3o: Bianca BarsottiAnuncie\
+    \ no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
+  image: https://i.scdn.co/image/ab6765630000ba8afcd422d3aa219e5ea2d8aed8
+  path: https://open.spotify.com/episode/7oUkCyPFWmQAjKCsRfz1xT
+  title: "#85 | Segredos e estrat\xE9gias do gestor-trader de 1.200.000% de rentabilidade"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-02-22T00:00:00+00:00'
+  description: "Capital One announced plans to buy Discover Financial Services in\
+    \ a $35 billion deal that marries two of the largest credit-card companies in\
+    \ the U.S. and has the potential to shake up the credit card industry in a major\
+    \ way. WSJ\u2019s AnnaMaria Andriotis explores what makes this deal such a game\
+    \ changer.  Further Reading: - Capital One Is Buying Discover Financial for $35\
+    \ Billion\_  Further Listening: - Inside the Capital One Hack\_ - The Fight Over\
+    \ Your Credit Card Swipe\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/08EF8xML2kmWFAHa6wuwNO
+  title: The Deal That Could Change Credit Cards
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -16,7 +59,7 @@
   path: https://open.spotify.com/episode/5tRnA06mIgz6fUTBaKs1ad
   title: 'Money Talks: Rise of the robo-teacher'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -44,8 +87,7 @@
   path: https://www.youtube.com/watch?v=4-TTXCbh4k8
   title: 'First Principles Approach: Identifying Fundamental Truth'
 - author: Market Makers
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-02-21T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #84: Pedro Cerize e Alexandre Schwartsman mandam\
     \ a real sobre a economia e as pol\xEDticas brasileiras. Quem realmente manda\
@@ -63,8 +105,7 @@
   path: https://open.spotify.com/episode/3hn8SjoavIhAdYrUCDGyud
   title: 'PEDRO CERIZE MANDA A REAL SOBRE A ECONOMIA BRASILEIRA | Corte Ep. #84'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-02-21T00:00:00+00:00'
   description: "The animal tranquilizer xylazine, also known as \u201Ctranq,\u201D\
     \ is finding its way into opioid supplies and wreaking havoc all over the country.\
@@ -81,7 +122,7 @@
   path: https://open.spotify.com/episode/4L3YUrmzBNiFokWeDYUOcO
   title: "Fentanyl Is Bad. \u2018Tranq\u2019 Might Be Worse."
 - author: ArjanCodes
-  categories: *id001
+  categories: *id003
   date: '2024-02-20T16:00:13+00:00'
   description: "In this video, I'll share 5 simple tips to help keep your Python credentials\
     \ safe and fix problems quickly if they occur.\n\n\U0001F477 Join the FREE Code\
@@ -114,48 +155,6 @@
   image: https://i4.ytimg.com/vi/OOvvQRBcrhI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=OOvvQRBcrhI
   title: 5 Tips to Safely Use Credentials in Your Python Project
-- author: Market Makers
-  categories: *id002
-  date: '2024-02-20T00:00:00+00:00'
-  description: "MBA de AN\xC1LISE DE A\xC7\xD5ES: Fa\xE7a sua pr\xE9-inscri\xE7\xE3\
-    o GRATUITA! https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-a/?xpromo=XE-ME-EMP-MMK-SUBMMK-20240802-YT-X-XSeja\
-    \ bem-vindo ao Mercado Aberto! No v\xEDdeo de hoje vamos responder os coment\xE1\
-    rios feitos pelos nossos ouvintes no Youtube, sejam eles pol\xEAmicos ou n\xE3\
-    o.Coment\xE1rios: -Tenho 500 reais para investir, onde devo colocar?O maior erro\
-    \ da carteiro Market Makers foi Renner? O erro foi o timing, depois que voc\xEA\
-    s venderam n\xE3o para de subir;Por que ningu\xE9m cobre a Enauta?Me falam que\
-    \ vai d\xE1 merda na china desde quando eu entrei na faculdade de economia. At\xE9\
-    \ agora, nada.Voc\xEA acha que isso ir\xE1 prejudicar os FIIs de papel?Qual a\
-    \ melhor pagadora de dividendos para 2024?Impressionante como essa galera do MM\
-    \ fica passando pano pras asneiras do Lula e governo do PT -A alta da bolsa acabou?\
-    \ Mudou algo na tese de cortes de juros?Mercado americano nas m\xE1ximas hist\xF3\
-    ricas e Nvidia j\xE1 sobe 55% no ano. A bolha vai estourar?Esse MBA que voc\xEA\
-    s est\xE3o divulgando serve para quem \xE9 de fora do mercado se tornar analista?N\xE3\
-    o se esque\xE7a de curtir este v\xEDdeo para apoiar nosso canal e alcan\xE7ar\
-    \ mais pessoas interessadas em aprender sobre investimentos banc\xE1rios.Acompanhe\
-    \ o Market Makers nas redes e inscreva-se na CompoundLetter:Instagram: https://www.instagram.com/mmakers.oficial\
-    \ Twitter (X): https://twitter.com/mmakersoficial TikTok: https://www.tiktok.com/@mmakersoficial\
-    \ Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@salomoney) e Matheus Soares (@maatssoares)Edi\xE7\xE3\
-    o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8a794b4e99aacfdc3a9b6af7af
-  path: https://open.spotify.com/episode/3aq0DrVYtniZONbyjJ5GPk
-  title: "Salom\xE3o e Matheus respondem COMENT\xC1RIOS e acabam com POL\xCAMICA sobre\
-    \ o MARKET MAKERS | Mercado Aberto"
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-20T00:00:00+00:00'
-  description: "Meilin Keen was diagnosed with stomach cancer at 26. She\u2019s part\
-    \ of a growing demographic of people who are getting cancer diagnoses before the\
-    \ age of 50. And doctors don\u2019t know why. WSJ\u2019s Brianna Abbott explains\
-    \ what we know so far.  Further Reading: -Cancer Is Striking More Young People,\
-    \ and Doctors Are Alarmed and Baffled.\_ -Many Cancers Are on the Rise in the\
-    \ U.S., Even as Overall Deaths Fall.\_ -Uterine Cancer Was Easy to Treat. Now\
-    \ It\u2019s Killing More Women Than Ever.\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5CRvQnV8ZXk4W9oqukukSz
-  title: "\u2018It Felt Surreal\u2019: A Cancer Diagnosis at 26"
 - author: Outliers
   categories: &id006
   - Podcasts
