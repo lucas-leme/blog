@@ -1,5 +1,43 @@
-- author: Market Makers
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-02-23T16:00:18+00:00'
+  description: "In this video, I'll show you how the right tools can turn your MacBook\
+    \ into a super tool for coding. You'll learn about my most used apps and some\
+    \ cool tricks to make programming easier and more fun!\n\n\U0001F477 Join the\
+    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
+    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F525\
+    \ My VSCode Settings: https://www.youtube.com/watch?v=fj2tuTIcUys&amp;t=37s\n\n\
+    \U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail for\
+    \ FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
+    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
+    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
+    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:21 Warp\n2:24 Homebrew\n3:18 Espanso\n4:47\
+    \ NordVPN\n5:35 Maccy\n6:07 Rectangle\n6:40 VSCode editor\n7:12 BitWarden\n7:59\
+    \ DevToys\n8:34 Spotlight\n9:00 Docker\n9:46 Notion\n10:48 Hidden Bar\n12:11 MacOS\
+    \ Settings for Developers\n14:47 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i1.ytimg.com/vi/PIBldtHaUy0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=PIBldtHaUy0
+  title: Using A MacBook for Software Development in 2024
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2024-02-22T00:00:00+00:00'
   description: "GARANTA SEU LUGAR NA FILA DE ESPERA DA COMUNIDADE MARKET MAKERS https://mmakers.com.br/comunidade/\
@@ -28,7 +66,7 @@
   path: https://open.spotify.com/episode/7oUkCyPFWmQAjKCsRfz1xT
   title: "#85 | Segredos e estrat\xE9gias do gestor-trader de 1.200.000% de rentabilidade"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-22T00:00:00+00:00'
   description: "Capital One announced plans to buy Discover Financial Services in\
@@ -59,10 +97,7 @@
   path: https://open.spotify.com/episode/5tRnA06mIgz6fUTBaKs1ad
   title: 'Money Talks: Rise of the robo-teacher'
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-02-21T16:00:05+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -87,7 +122,7 @@
   path: https://www.youtube.com/watch?v=4-TTXCbh4k8
   title: 'First Principles Approach: Identifying Fundamental Truth'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-02-21T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #84: Pedro Cerize e Alexandre Schwartsman mandam\
     \ a real sobre a economia e as pol\xEDticas brasileiras. Quem realmente manda\
@@ -105,7 +140,7 @@
   path: https://open.spotify.com/episode/3hn8SjoavIhAdYrUCDGyud
   title: 'PEDRO CERIZE MANDA A REAL SOBRE A ECONOMIA BRASILEIRA | Corte Ep. #84'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-02-21T00:00:00+00:00'
   description: "The animal tranquilizer xylazine, also known as \u201Ctranq,\u201D\
     \ is finding its way into opioid supplies and wreaking havoc all over the country.\
@@ -121,40 +156,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4L3YUrmzBNiFokWeDYUOcO
   title: "Fentanyl Is Bad. \u2018Tranq\u2019 Might Be Worse."
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-02-20T16:00:13+00:00'
-  description: "In this video, I'll share 5 simple tips to help keep your Python credentials\
-    \ safe and fix problems quickly if they occur.\n\n\U0001F477 Join the FREE Code\
-    \ Diagnosis Workshop to help you review code more effectively using my 3-Factor\
-    \ Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F4BB ArjanCodes\
-    \ Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a quiz on this\
-    \ topic: https://www.learntail.com/quiz/fwotcw\n\nTry Learntail for FREE \u27A1\
-    \uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software Designer\
-    \ Mindset: https://www.arjancodes.com/mindset\nThe Software Architect Mindset:\
-    \ Pre-register now! https://www.arjancodes.com/architect\nNext Level Python: Become\
-    \ a Python Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day Design\
-    \ Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED\
-    \ BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed this content,\
-    \ give this video a like. If you want to watch more of my upcoming videos, consider\
-    \ subscribing to my channel!\n\nSocial channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\
-    \U0001F426Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
-    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
-    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
-    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit\
-    \ Hygh\n- Alexander Milden\n- Bean\n\n\U0001F3A5 Video edited by Mark Bacskai:\
-    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:31 Tip 1: Use Environment variables\n2:24 Tip 2: Keep commits small\n3:08 Tip\
-    \ 3: Follow the least privilege principle\n4:00 Tip 4: Don\u2019t share credentials\
-    \ in plain text\n4:25 Tip 5: Use credential scanning tools\n5:02 Final thoughts\n\
-    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
-    \ might be affiliate links. If you purchase a product or service through one of\
-    \ those links, I may receive a small commission. There is no additional charge\
-    \ to you. Thanks for supporting my channel so I can continue to provide you with\
-    \ free content each week!"
-  image: https://i4.ytimg.com/vi/OOvvQRBcrhI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OOvvQRBcrhI
-  title: 5 Tips to Safely Use Credentials in Your Python Project
 - author: Outliers
   categories: &id006
   - Podcasts
