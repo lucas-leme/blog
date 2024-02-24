@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -36,8 +36,24 @@
   image: https://i1.ytimg.com/vi/PIBldtHaUy0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=PIBldtHaUy0
   title: Using A MacBook for Software Development in 2024
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-02-23T00:00:00+00:00'
+  description: "Arielle Charnas is a fashion blogger turned influencer with over 1\
+    \ million Instagram followers. In 2020, she launched her clothing brand Something\
+    \ Navy with about $10 million from investors. She hoped to turn it into a $100\
+    \ million venture. That\u2019s not what happened. WSJ\u2019s Chavie Lieber and\
+    \ Sara O\u2019Brien report on a cautionary tale for influencer brands.\_  Further\
+    \ Reading: - Investors Poured Millions Into Her Fashion Brand. Then It All Fell\
+    \ Apart.\_ - Her Brand Had $100 Million Ambitions. Now It\u2019s Being Sold in\
+    \ a Fire Sale.\_  Further Listening:  - Shein Took Over Fast Fashion. Then Came\
+    \ the Backlash.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5GKbG30VkDn6n7fiAQ2zRz
+  title: "Influencer Arielle Charnas\u2019s Fashion Fail"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-22T00:00:00+00:00'
   description: "GARANTA SEU LUGAR NA FILA DE ESPERA DA COMUNIDADE MARKET MAKERS https://mmakers.com.br/comunidade/\
@@ -66,8 +82,7 @@
   path: https://open.spotify.com/episode/7oUkCyPFWmQAjKCsRfz1xT
   title: "#85 | Segredos e estrat\xE9gias do gestor-trader de 1.200.000% de rentabilidade"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-02-22T00:00:00+00:00'
   description: "Capital One announced plans to buy Discover Financial Services in\
     \ a $35 billion deal that marries two of the largest credit-card companies in\
@@ -97,7 +112,7 @@
   path: https://open.spotify.com/episode/5tRnA06mIgz6fUTBaKs1ad
   title: 'Money Talks: Rise of the robo-teacher'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-21T16:00:05+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -122,7 +137,7 @@
   path: https://www.youtube.com/watch?v=4-TTXCbh4k8
   title: 'First Principles Approach: Identifying Fundamental Truth'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-02-21T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #84: Pedro Cerize e Alexandre Schwartsman mandam\
     \ a real sobre a economia e as pol\xEDticas brasileiras. Quem realmente manda\
@@ -139,23 +154,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad659c4801ba96fe187ec329f
   path: https://open.spotify.com/episode/3hn8SjoavIhAdYrUCDGyud
   title: 'PEDRO CERIZE MANDA A REAL SOBRE A ECONOMIA BRASILEIRA | Corte Ep. #84'
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-21T00:00:00+00:00'
-  description: "The animal tranquilizer xylazine, also known as \u201Ctranq,\u201D\
-    \ is finding its way into opioid supplies and wreaking havoc all over the country.\
-    \ It\u2019s rotting people\u2019s flesh, leading to amputations and complicating\
-    \ drug treatment. WSJ\u2019s Julie Wernau takes us to Robeson County, N.C., the\
-    \ new \u201Cground zero\u201D for xylazine addiction.  Further Reading: - Flesh-Rotting\
-    \ \u2018Tranq\u2019 Undermines Fight Against Fentanyl\_ - Recovering From Drug\
-    \ Addiction Was Hard. Tranq Made It Worse.\_ - Nurses Make House Calls to Treat\
-    \ \u2018Tranq\u2019 Wounds for Users at Society\u2019s Edge\_  Further Listening:\
-    \ - Why Some Opioid Victims Are Challenging Purdue\u2019s Settlement\_ - How a\
-    \ Drug Maker Plans to Cut Off Money for Opioid Victims\_\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4L3YUrmzBNiFokWeDYUOcO
-  title: "Fentanyl Is Bad. \u2018Tranq\u2019 Might Be Worse."
 - author: Outliers
   categories: &id006
   - Podcasts
