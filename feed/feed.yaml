@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -27,8 +27,35 @@
   path: https://www.youtube.com/watch?v=ojm5YEn0Zvo
   title: Validate Your Assumptions Regularly
 - author: Market Makers
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-02-28T00:00:00+00:00'
+  description: "Neste epis\xF3dio especial gravado durante o BTG Summit 2024, Ruy\
+    \ Alves (Kinea Investimentos) e Jo\xE3o Piccioni (Empiricus Gest\xE3o), compartilharam\
+    \ suas vis\xF5es sobre China e a ascens\xE3o das empresas de intelig\xEAncia artificial\
+    \ (em especial NVIDIA).Abordamos a situa\xE7\xE3o econ\xF4mica da China, fazendo\
+    \ compara\xE7\xF5es com o modelo asi\xE1tico e discutindo poss\xEDveis desafios\
+    \ e oportunidades para o pa\xEDs, incluindo compara\xE7\xF5es com a R\xFAssia\
+    \ e quest\xF5es geopol\xEDticas como Taiwan.A segunda parte do epis\xF3dio se\
+    \ concentra na ind\xFAstria de tecnologia, destacando o papel da NVIDIA e seu\
+    \ crescimento associado \xE0 demanda por intelig\xEAncia artificial e computa\xE7\
+    \xE3o em nuvem. Exploramos a rela\xE7\xE3o entre as grandes empresas de tecnologia\
+    \ (Big Tech) e a expans\xE3o da capacidade de processamento de dados, impulsionada\
+    \ pela necessidade de atualiza\xE7\xE3o dos servidores e integra\xE7\xE3o de servi\xE7\
+    os de IA.Conclui-se que o setor de tecnologia continuar\xE1 a apresentar crescimento\
+    \ significativo, especialmente em segmentos como intelig\xEAncia artificial, sustentando\
+    \ a rentabilidade das empresas do ramo e influenciando positivamente o mercado\
+    \ global. Inscreva-se no canal para n\xE3o perder nada e acesse a comunidade Market\
+    \ Makers para recomenda\xE7\xF5es exclusivas!Apresenta\xE7\xE3o: Thiago Salom\xE3\
+    o (@_salomoney)Convidados: Ruy Alves (Kinea Investimentos) e Jo\xE3o Piccioni\
+    \ (Empiricus Gest\xE3o)Edi\xE7\xE3o: Bianca BarsottiAnuncie no Market Makers:\
+    \ https://sl.mmakers.com.br/mmk03t-conectar/"
+  image: https://i.scdn.co/image/ab6765630000ba8af09368c4675c9e8dbad20a76
+  path: https://open.spotify.com/episode/1RDsEq9c14pMLvvDUU3NvC
+  title: "B\xF4nus #07 | O fim do modelo econ\xF4mico chin\xEAs e o futuro da intelig\xEA\
+    ncia artificial"
+- author: Market Makers
+  categories: *id001
   date: '2024-02-28T00:00:00+00:00'
   description: "CORTE EPIS\xD3DIO #85: Marcelo Augusto, CEO da Concordia Asset, revela\
     \ estrat\xE9gia vencedora que o fez ter uma rentabilidade de 1.200.000% desde\
@@ -46,6 +73,37 @@
   path: https://open.spotify.com/episode/4jaxOjwPlvk87RrouMmZEC
   title: "INVESTIDOR REVELA ESTRAT\xC9GIA PARA GANHAR DINHEIRO NO MERCADO DE JUROS\
     \ | Corte Ep. #85"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-02-28T00:00:00+00:00'
+  description: "Vice Media was a digital-media pioneer, built on provocative journalism\
+    \ and the promise of reaching younger audiences, a boon for advertisers. In its\
+    \ heyday, the company was valued at $5.7 billion. But last week, Vice Media said\
+    \ it would stop publishing content on its website and plans to cut hundreds of\
+    \ jobs. WSJ\u2019s Keach Hagey and Alexandra Bruell on the rise and fall of Vice.\
+    \  Further Reading:\_ - Vice Media to Stop Publishing on Vice.com, Plans to Cut\
+    \ Hundreds of Jobs\_ - Vice Media to Be Acquired Out of Bankruptcy by Fortress,\
+    \ Soros Fund\_ - Essence in Talks to Buy Refinery29 From Embattled Publisher Vice\
+    \ Media\_     Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0aDsuUSt4uvyxUBTUzx5l7
+  title: The Downfall of Vice
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-02-28T00:00:00+00:00'
+  description: "This episode discusses my take on what you should pay attention to\
+    \ when reading history.\_There\u2019s a quote I love from writer Kelly Hayes who\
+    \ says, \u201CEverything feels unprecedented when you haven\u2019t engaged with\
+    \ history.\u201DIt\u2019s so true. History\u2019s cast of characters changes but\
+    \ it\u2019s the same movie over and over again.To me, the point of paying attention\
+    \ to history is not the specific details of certain events, which are always random\
+    \ and never repeat; it\u2019s the big-picture behaviors that reoccur in different\
+    \ eras, generations, and societies."
+  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
+  path: https://open.spotify.com/episode/6ngWj7BvXfnByKhZy1WlrO
+  title: How to Engage With History
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -82,7 +140,7 @@
   path: https://www.youtube.com/watch?v=7DfXKkvjW-E
   title: 'OnePlus Watch 2 Review: Total Redemption!'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-27T16:00:14+00:00'
   description: "In this video, I'll explain why dependency injection is a game-changer\
     \ for your coding projects. Creating loosely coupled code is key to making the\
@@ -115,47 +173,8 @@
   image: https://i1.ytimg.com/vi/DpMGEhwuuyA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DpMGEhwuuyA
   title: Dependency Injection Explained in 7 Minutes
-- author: Market Makers
-  categories: *id002
-  date: '2024-02-27T00:00:00+00:00'
-  description: "Quer saber qual \xE9 o melhor banco brasileiro para investir?Neste\
-    \ v\xEDdeo, vamos analisar de perto tr\xEAs gigantes do setor financeiro nacional:\
-    \ Bradesco, Ita\xFA e Banco do Brasil.Come\xE7amos entendendo quem s\xE3o esses\
-    \ bancos no sistema financeiro e apresentando uma tabela comparativa de seus valores\
-    \ e tamanho. Al\xE9m disso, vamos mergulhar na compara\xE7\xE3o do Retorno sobre\
-    \ o Patrim\xF4nio L\xEDquido (ROE) de cada um, demonstrando suas performances\
-    \ ao longo do tempo. A transforma\xE7\xE3o estrutural dos bancos \xE9 um ponto\
-    \ crucial de discuss\xE3o.Vamos explorar por que ningu\xE9m nunca conseguiu crescer\
-    \ significativamente neste setor e como as coisas est\xE3o mudando, desde uma\
-    \ regula\xE7\xE3o mais amig\xE1vel at\xE9 a entrada de novos concorrentes que\
-    \ est\xE3o desafiando as receitas tradicionais.Falaremos sobre o \"Efeito Nubank\"\
-    \ e como o PIX est\xE1 impactando os custos de transa\xE7\xE3o, al\xE9m de analisar\
-    \ as consequ\xEAncias disso, como a queda do ROE. O caso do Bradesco ser\xE1 detalhado,\
-    \ evidenciando n\xE3o apenas fatores conjunturais, mas tamb\xE9m estruturais que\
-    \ afetaram sua performance, incluindo mudan\xE7as na gest\xE3o e tentativas de\
-    \ transforma\xE7\xE3o cultural.A discuss\xE3o se estende para o mercado de a\xE7\
-    \xF5es, onde abordaremos por que o Banco do Brasil est\xE1 atingindo m\xE1ximas\
-    \ hist\xF3ricas mesmo em um cen\xE1rio pol\xEDtico complexo, enquanto o Ita\xFA\
-    \ parece mais resiliente em compara\xE7\xE3o ao Bradesco. Ser\xE1 que o Bradesco,\
-    \ com seus n\xEDveis de pre\xE7o atuais, representa uma oportunidade de investimento?Se\
-    \ voc\xEA est\xE1 interessado em entender melhor o panorama dos bancos brasileiros\
-    \ para tomar as melhores decis\xF5es sobre seus investimentos, este v\xEDdeo \xE9\
-    \ para voc\xEA. Assista agora e descubra qual pode ser o melhor banco para investir\
-    \ na bolsa de valores.N\xE3o se esque\xE7a de curtir este v\xEDdeo para apoiar\
-    \ nosso canal e alcan\xE7ar mais pessoas interessadas em aprender sobre investimentos.\
-    \ Deixe seu coment\xE1rio para respondermos nos pr\xF3ximos v\xEDdeos tamb\xE9\
-    m!Acompanhe o Market Makers nas redes e inscreva-se na CompoundLetter:Instagram:\
-    \ https://www.instagram.com/mmakers.oficialTwitter (X): https://twitter.com/mmakersoficial\
-    \ TikTok: https://www.tiktok.com/@mmakersoficial Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada\
-    \ Apresenta\xE7\xE3o: Thiago Salom\xE3o (@salomoney) e Matheus Soares (@maatssoares)\
-    \ Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8a06736e15d8255977525cfdd7
-  path: https://open.spotify.com/episode/6WgG1UG70SSalQFg99HGlA
-  title: "Qual o melhor banco da bolsa brasileira? Bradesco (BBDC4) x Ita\xFA (ITUB4)\
-    \ x Banco do Brasil (BBAS3) | Mercado Aberto"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2024-02-27T00:00:00+00:00'
   description: "School districts and state legislatures have been ramping up efforts\
     \ to ban certain books from school libraries and curricula. Last year, Penguin\
@@ -169,21 +188,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/29JMQ3FalqEzAvKe6H74Lo
   title: "Inside One Publisher\u2019s Fight Against Book Bans"
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-26T00:00:00+00:00'
-  description: "Days before the presidential primary in New Hampshire, thousands of\
-    \ people received a call from someone who sounded like President Joe Biden, telling\
-    \ them not to vote. The call was a deepfake, and as WSJ's Bob McMillian reports,\
-    \ the rapid advancement of AI technology will likely have profound implications\
-    \ for elections around the world.  Further Reading: - New Era of AI Deepfakes\
-    \ Complicates 2024 Elections\_  Further Listening: - The Company Behind ChatGPT\_\
-    \ - The Hidden Workforce That Helped Filter Violence and Abuse Out of ChatGPT\_\
-    \ - OpenAI\u2019s Weekend of Absolute Chaos\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2no2BIK7oY8Uwa8xZekmgF
-  title: The Deepfake Election Has Arrived
 - author: RSS - Feeds do BC
   categories:
   - Bacen
@@ -257,15 +261,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa19dc600-0355-4575-a947-972731bc0b92_5000x2736.png
   path: https://theovershoot.co/p/us-inflation-surged-in-january-is
   title: U.S. Inflation Surged in January. Is It a Fluke?
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-02-14T00:00:00+00:00'
-  description: "Let me share a little theory I have about optimism, and why progress\
-    \ is so easy to underestimate.I\u2019ll explain it in four parts."
-  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
-  path: https://open.spotify.com/episode/2nASXixKh0cjdtVdEIjdkF
-  title: Compounding Optimism
 - author: The View From Apollo
   categories:
   - Podcasts
