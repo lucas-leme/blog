@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -46,8 +46,23 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd10aff-2d10-4283-bdfb-04a6817e0bf8_5000x2625.png
   path: https://theovershoot.co/p/inflation-is-still-hot-but-could
   title: Inflation Is Still Hot, But Could Incomes Be Slowing?
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-03-01T00:00:00+00:00'
+  description: "Harry Potter author J.K. Rowling has come under fire in recent years\
+    \ for comments she\u2019s made about gender and sex that some say are transphobic.\
+    \ WSJ\u2019s Erich Schwartzel reports on how Warner Brothers Discovery, the company\
+    \ that owns the rights to Harry Potter, is calling upon the controversial author\
+    \ to make more magic.  Further Listening:  \u2013 The Media Mogul Taking an Ax\
+    \ to Hollywood\_  Further Reading:  \u2013 Can Warner Bros. Uncancel J.K. Rowling?\_\
+    \ \u2013 How the Minions Became Hollywood\u2019s Mightiest Franchise\_   Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5ufWGZGAVbMBE1EhVBKVHl
+  title: Can Warner Bros. Uncancel J.K. Rowling?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-02-29T00:00:00+00:00'
   description: "No final dos anos 1980, uma infinidade de bancos surgiu no Brasil\
@@ -68,8 +83,7 @@
   path: https://open.spotify.com/episode/2TzUTRFalQCJ0GxghgRNDp
   title: '#86 | Entenda de vez COMO FUNCIONAM OS BANCOS (com o CEO do ABC)'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-02-29T00:00:00+00:00'
   description: "The Federal Trade Commission is suing to block a $25 billion merger\
     \ between two supermarket giants: Albertsons and Kroger.WSJ\u2019s Patrick Thomas\
@@ -104,7 +118,7 @@
   path: https://open.spotify.com/episode/4UdDrlZWnpTslHWARJ0gnD
   title: 'Money Talks: Is the West losing its sanctions war?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-02-28T16:00:39+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -129,7 +143,7 @@
   path: https://www.youtube.com/watch?v=ojm5YEn0Zvo
   title: Validate Your Assumptions Regularly
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-02-28T00:00:00+00:00'
   description: "Neste epis\xF3dio especial gravado durante o BTG Summit 2024, Ruy\
     \ Alves (Kinea Investimentos) e Jo\xE3o Piccioni (Empiricus Gest\xE3o), compartilharam\
@@ -155,21 +169,6 @@
   path: https://open.spotify.com/episode/1RDsEq9c14pMLvvDUU3NvC
   title: "B\xF4nus #07 | O fim do modelo econ\xF4mico chin\xEAs e o futuro da intelig\xEA\
     ncia artificial"
-- author: The Journal.
-  categories: *id003
-  date: '2024-02-28T00:00:00+00:00'
-  description: "Vice Media was a digital-media pioneer, built on provocative journalism\
-    \ and the promise of reaching younger audiences, a boon for advertisers. In its\
-    \ heyday, the company was valued at $5.7 billion. But last week, Vice Media said\
-    \ it would stop publishing content on its website and plans to cut hundreds of\
-    \ jobs. WSJ\u2019s Keach Hagey and Alexandra Bruell on the rise and fall of Vice.\
-    \  Further Reading:\_ - Vice Media to Stop Publishing on Vice.com, Plans to Cut\
-    \ Hundreds of Jobs\_ - Vice Media to Be Acquired Out of Bankruptcy by Fortress,\
-    \ Soros Fund\_ - Essence in Talks to Buy Refinery29 From Embattled Publisher Vice\
-    \ Media\_     Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0aDsuUSt4uvyxUBTUzx5l7
-  title: The Downfall of Vice
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
