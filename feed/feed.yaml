@@ -1,5 +1,40 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-03-05T12:28:28+00:00'
+  description: 'Nothing Phone 2a is an impressive and smooth phone for $350!
+
+
+    Get a dbrand something skin at https://dbrand.com/buy/something
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Logic https://logic.lnk.to/Fear
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by Nothing for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/VdOlqcg9uMQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=VdOlqcg9uMQ
+  title: 'Nothing Phone 2A Review: Flashy Good Deal!'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-03-04T00:00:00+00:00'
   description: "When Russian troops invaded his hometown in 2022, Ukrainian teenager\
@@ -15,7 +50,7 @@
   path: https://open.spotify.com/episode/5YkQB9D8ZwwsGB9ycHV5Cz
   title: From Ukrainian Teen to Russian Propaganda Star
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -43,9 +78,7 @@
   path: https://www.youtube.com/watch?v=OsVrOfGgt1E
   title: Generic Types vs. Any Type in Python
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-03-02T01:23:30+00:00'
   description: 'There have been countless Galaxy S phones in 14 years. Let''s take
     a look at every single one of them!
@@ -111,7 +144,7 @@
   path: https://www.youtube.com/watch?v=eKVTFXQPAhs
   title: Reviewing EVERY Samsung Galaxy S Ever!
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-01T16:00:35+00:00'
   description: "In this video, I'll show you how to seamlessly integrate Rust with\
     \ Python using Pyo3. This library allows you to write Python modules with Rust.\
@@ -170,7 +203,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/01032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/03/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-03-01T00:00:00+00:00'
   description: "Harry Potter author J.K. Rowling has come under fire in recent years\
     \ for comments she\u2019s made about gender and sex that some say are transphobic.\
@@ -184,7 +217,7 @@
   path: https://open.spotify.com/episode/5ufWGZGAVbMBE1EhVBKVHl
   title: Can Warner Bros. Uncancel J.K. Rowling?
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-02-29T00:00:00+00:00'
   description: "No final dos anos 1980, uma infinidade de bancos surgiu no Brasil\
@@ -227,7 +260,7 @@
   path: https://open.spotify.com/episode/4UdDrlZWnpTslHWARJ0gnD
   title: 'Money Talks: Is the West losing its sanctions war?'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-02-28T00:00:00+00:00'
   description: "Neste epis\xF3dio especial gravado durante o BTG Summit 2024, Ruy\
     \ Alves (Kinea Investimentos) e Jo\xE3o Piccioni (Empiricus Gest\xE3o), compartilharam\
@@ -268,39 +301,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/6ngWj7BvXfnByKhZy1WlrO
   title: How to Engage With History
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-02-27T22:25:47+00:00'
-  description: 'Hybrid powertrain in a smartwatch. Now that''s an idea.
-
-
-    OnePlus Watch 2: https://geni.us/OvNKUCz
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: Logic https://logic.lnk.to/Fear
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Watch provided by OnePlus for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/7DfXKkvjW-E/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=7DfXKkvjW-E
-  title: 'OnePlus Watch 2 Review: Total Redemption!'
 - author: Outliers
   categories: &id006
   - Podcasts
