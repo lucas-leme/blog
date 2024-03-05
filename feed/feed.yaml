@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -36,7 +36,7 @@
   path: https://www.youtube.com/watch?v=6NShYzAV1Lo
   title: 3 Tips for Working With the OpenAI API
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-03-05T12:28:28+00:00'
@@ -71,8 +71,22 @@
   path: https://www.youtube.com/watch?v=VdOlqcg9uMQ
   title: 'Nothing Phone 2A Review: Flashy Good Deal!'
 - author: The Journal.
-  categories: &id003
+  categories: &id001
   - Podcasts
+  date: '2024-03-05T00:00:00+00:00'
+  description: "In 2017 Bill Shufelt was desperate. He\u2019d quit his job at a hedge\
+    \ fund to start a business that sounded absolutely nuts: a non-alcoholic beer\
+    \ that people would actually want to drink. WSJ\u2019s Ben Cohen uncovers how\
+    \ Shufelt\u2019s idea has led to one of the fastest-growing movements in the beer\
+    \ industry.\_\_  Further Listening:   -Canned or Homemade? America\u2019s Biggest\
+    \ Cranberry Company Wins Either Way\_  Further Reading:\_ -The Hottest Beer in\
+    \ America Doesn\u2019t Have Alcohol\_ -Bud Light Missed Out on the Super Bowl\
+    \ Party\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5zXw5jG1eqghJslRMeuny3
+  title: Who Wants Non-Alcoholic Beer? Everyone, Apparently.
+- author: The Journal.
+  categories: *id001
   date: '2024-03-04T00:00:00+00:00'
   description: "When Russian troops invaded his hometown in 2022, Ukrainian teenager\
     \ Denys Kostev filmed TikTok videos cursing Vladimir Putin and praising Ukrainian\
@@ -87,7 +101,7 @@
   path: https://open.spotify.com/episode/5YkQB9D8ZwwsGB9ycHV5Cz
   title: From Ukrainian Teen to Russian Propaganda Star
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-02T16:00:22+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -112,7 +126,7 @@
   path: https://www.youtube.com/watch?v=OsVrOfGgt1E
   title: Generic Types vs. Any Type in Python
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-03-02T01:23:30+00:00'
   description: 'There have been countless Galaxy S phones in 14 years. Let''s take
     a look at every single one of them!
@@ -201,20 +215,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/01032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/03/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-03-01T00:00:00+00:00'
-  description: "Harry Potter author J.K. Rowling has come under fire in recent years\
-    \ for comments she\u2019s made about gender and sex that some say are transphobic.\
-    \ WSJ\u2019s Erich Schwartzel reports on how Warner Brothers Discovery, the company\
-    \ that owns the rights to Harry Potter, is calling upon the controversial author\
-    \ to make more magic.  Further Listening:  \u2013 The Media Mogul Taking an Ax\
-    \ to Hollywood\_  Further Reading:  \u2013 Can Warner Bros. Uncancel J.K. Rowling?\_\
-    \ \u2013 How the Minions Became Hollywood\u2019s Mightiest Franchise\_   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5ufWGZGAVbMBE1EhVBKVHl
-  title: Can Warner Bros. Uncancel J.K. Rowling?
 - author: Market Makers
   categories: &id004
   - Podcasts
