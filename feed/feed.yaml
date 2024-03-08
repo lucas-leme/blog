@@ -1,3 +1,43 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-03-08T16:00:02+00:00'
+  description: "In this updated Pydantic tutorial, I\u2019ll cover all the new features\
+    \ and how they can benefit your projects. Despite Python's dynamic type system\
+    \ being user-friendly, it's not without its data handling issues. That's where\
+    \ Pydantic comes in, providing the essential structure and validation for seamless\
+    \ data management.\n\n\U0001F4A1 Get my FREE 7-step guide to help you consistently\
+    \ design great software: https://arjancodes.com/designguide.\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2024/pydantic_refresh\n\n\U0001F4BB ArjanCodes\
+    \ Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a quiz on this\
+    \ topic: https://www.learntail.com/quiz/uxiizw\n\nTry Learntail for FREE \u27A1\
+    \uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software Designer\
+    \ Mindset: https://www.arjancodes.com/mindset\nThe Software Architect Mindset:\
+    \ Pre-register now! https://www.arjancodes.com/architect\nNext Level Python: Become\
+    \ a Python Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day Design\
+    \ Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED\
+    \ BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed this content,\
+    \ give this video a like. If you want to watch more of my upcoming videos, consider\
+    \ subscribing to my channel!\n\nSocial channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\
+    \U0001F426Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
+    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
+    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
+    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit\
+    \ Hygh\n- Alexander Milden\n- Bean\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:46 What is Pydantic?\n1:09 Why Use Pydantic?\n2:09 Setting Up Pydantic\n2:29\
+    \ Using Pydantic for Data Validation\n5:39 Field validation\n7:45 Model Validation\n\
+    9:32 Custom Serialization\n11:28 FastAPI Integration\n13:21 Conclusion\n\n#arjancodes\
+    \ #softwaredesign #python\n\nDISCLAIMER - The links in this description might\
+    \ be affiliate links. If you purchase a product or service through one of those\
+    \ links, I may receive a small commission. There is no additional charge to you.\
+    \ Thanks for supporting my channel so I can continue to provide you with free\
+    \ content each week!"
+  image: https://i2.ytimg.com/vi/502XOB0u8OY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=502XOB0u8OY
+  title: Why You Should Use Pydantic in 2024 | Tutorial
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -9,7 +49,7 @@
   path: https://theovershoot.co/p/turkiyes-incredible-balancing-act
   title: "T\xFCrkiye's Incredible Balancing Act"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-03-07T00:00:00+00:00'
   description: "Garanta sua vaga no MBA de AN\xC1LISE DE A\xC7\xD5ES:https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-g/?xpromo=XE-ME-EMP-MMK-SUBMMK-20240703-YT-X-X\
@@ -24,7 +64,7 @@
   path: https://open.spotify.com/episode/0Akdh4Bq3hGtgluQcq9ney
   title: "#87 | Bolsa de Valores e Juros: O que est\xE1 acontecendo com os mercados?"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-03-07T00:00:00+00:00'
   description: "Sam Altman once called Elon Musk, one of his OpenAI co-founders, his\
@@ -58,10 +98,7 @@
   path: https://open.spotify.com/episode/22emLWPJexGwZaM9Tn17DV
   title: 'Money Talks: Can the American bull market keep roaring?'
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-03-06T16:00:28+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -86,7 +123,7 @@
   path: https://www.youtube.com/watch?v=VW6a_xgbAM0
   title: The Any Type in Python Explained
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-03-06T00:00:00+00:00'
   description: "CORTE B\xD4NUS #7: Ruy Alves (Kinea Investimentos) e Jo\xE3o Piccioni\
     \ (Empiricus Gest\xE3o) comentam os motivos por tr\xE1s da queda inevit\xE1vel\
@@ -101,7 +138,7 @@
   path: https://open.spotify.com/episode/6nggFjeNlAeiInshDpCA2s
   title: "A QUEDA inevit\xE1vel do GIGANTE CHIN\xCAS | Corte B\xF4nus #7"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-03-06T00:00:00+00:00'
   description: "Former South Carolina Governor Nikki Haley suspended her bid for the\
     \ Republican presidential nomination.That sets the stage for another matchup between\
@@ -132,40 +169,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8abc47bcab14247bd28c8b07cc
   path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
   title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-03-05T16:00:06+00:00'
-  description: "Working with OpenAI's API comes with its own challenges. Therefore,\
-    \ in this video, I'll share with you three practical tips for effectively working\
-    \ with a tool like OpenAI's API.\n\n\U0001F4A1 Get my FREE 7-step guide to help\
-    \ you consistently design great software: https://arjancodes.com/designguide.\n\
-    \n\U0001F525 GitHub repository: https://git.arjan.codes/2024/tuesday_tips/openai\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
-    \ Take a quiz on this topic: https://www.learntail.com/quiz/irgvdz\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:56 Tip 1: Take token limits into account\n\
-    3:03 Estimating token size\n5:06 Tip 2: Make sure you don\u2019t hit a rate limit\n\
-    6:17 Tip 3: Use an appropriate model\n7:30 Summary\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i3.ytimg.com/vi/6NShYzAV1Lo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=6NShYzAV1Lo
-  title: 3 Tips for Working With the OpenAI API
 - author: Marques Brownlee
   categories: &id004
   - Tech
