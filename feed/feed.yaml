@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -38,6 +38,54 @@
   image: https://i2.ytimg.com/vi/502XOB0u8OY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=502XOB0u8OY
   title: Why You Should Use Pydantic in 2024 | Tutorial
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-03-08T00:00:00+00:00'
+  description: "This week the Dartmouth men\u2019s basketball team voted to unionize,\
+    \ setting up a fight with the school over whether its athletes are students or\
+    \ employees. WSJ\u2019s Laine Higgins talks about how this move upends decades\
+    \ of NCAA precedent and could change college sports forever.  Further Listening:\
+    \  - A League of Champions Implodes\_ - A Tipping Point for Paying College Athletes?\_\
+    \  Further Reading: - Dartmouth Basketball Players Vote to Unionize in New Challenge\
+    \ to NCAA\u2019s Amateurism Model\_ - Dartmouth Men\u2019s Basketball Team Makes\
+    \ Latest Bid for Unionization by College Athletes\_ - College Sports Powers Stall\
+    \ Bid to Share Revenue With Athletes in California\_   Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/653L2LN7lgt0GsiLg76p6z
+  title: Why an Ivy League Basketball Team Voted to Unionize
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2024-03-08T00:00:00+00:00'
+  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k and co-head of Sponsor\
+    \ and Secondary Solutions (S3) Steve Lessar discuss how private equity secondary\
+    \ markets can create opportunities for investors seeking diversification in an\
+    \ environment where rates are seen higher for longer and public equity valuations\
+    \ remain lofty. It\u2019s a wide-ranging conversation, covering different types\
+    \ of secondaries, how to deploy them in portfolios, and much more."
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/4iGPuOQseAAt4qlCXSbVGj
+  title: How PE Secondaries Can Enhance Diversification in Volatile Times
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-03-08T00:00:00+00:00'
+  description: "Mae West said, \u201CToo much of a good thing can be wonderful.\u201D\
+    \ That might be true for some things \u2013 health, happiness, golden retrievers,\
+    \ maybe.But in so many cases the thing that helps you can be taken to a dangerous\
+    \ level. And since it\u2019s a \u201Cgood thing,\u201D not an obvious threat,\
+    \ its danger creeps into your life unnoticed.Take intelligence. How could someone\
+    \ possibly be too intelligent? How do you get to a point where you realize you\
+    \ could have been more successful if you had been a little dumber?Let me share\
+    \ three reasons why. And if you're looking for another podcast to listen to, check\
+    \ out The Rundown by my friends at Public.com. It's a quick five-minute listen\
+    \ that gets you all caught up on the latest in the stock market, the economy,\
+    \ and in crypto. Hope you enjoy it."
+  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
+  path: https://open.spotify.com/episode/5Ui7EfeXqFrCno98Lx7PkD
+  title: The Dumber Side of Smart People
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -49,7 +97,7 @@
   path: https://theovershoot.co/p/turkiyes-incredible-balancing-act
   title: "T\xFCrkiye's Incredible Balancing Act"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-03-07T00:00:00+00:00'
   description: "Garanta sua vaga no MBA de AN\xC1LISE DE A\xC7\xD5ES:https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-g/?xpromo=XE-ME-EMP-MMK-SUBMMK-20240703-YT-X-X\
@@ -64,8 +112,7 @@
   path: https://open.spotify.com/episode/0Akdh4Bq3hGtgluQcq9ney
   title: "#87 | Bolsa de Valores e Juros: O que est\xE1 acontecendo com os mercados?"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-03-07T00:00:00+00:00'
   description: "Sam Altman once called Elon Musk, one of his OpenAI co-founders, his\
     \ hero. Now Musk is suing Altman, accusing him of abandoning OpenAI\u2019s founding\
@@ -98,7 +145,7 @@
   path: https://open.spotify.com/episode/22emLWPJexGwZaM9Tn17DV
   title: 'Money Talks: Can the American bull market keep roaring?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-06T16:00:28+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -123,7 +170,7 @@
   path: https://www.youtube.com/watch?v=VW6a_xgbAM0
   title: The Any Type in Python Explained
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-03-06T00:00:00+00:00'
   description: "CORTE B\xD4NUS #7: Ruy Alves (Kinea Investimentos) e Jo\xE3o Piccioni\
     \ (Empiricus Gest\xE3o) comentam os motivos por tr\xE1s da queda inevit\xE1vel\
@@ -137,21 +184,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac8b7d7e017d019db3fc2b149
   path: https://open.spotify.com/episode/6nggFjeNlAeiInshDpCA2s
   title: "A QUEDA inevit\xE1vel do GIGANTE CHIN\xCAS | Corte B\xF4nus #7"
-- author: The Journal.
-  categories: *id003
-  date: '2024-03-06T00:00:00+00:00'
-  description: "Former South Carolina Governor Nikki Haley suspended her bid for the\
-    \ Republican presidential nomination.That sets the stage for another matchup between\
-    \ President Joe Biden and former President Donald Trump in November. WSJ\u2019\
-    s Eliza Collins looks at the new shape of this old rivalry.  Further Reading:\
-    \ - Biden vs. Trump: A Familiar Matchup in an Unprecedented Election\_\_ - Nikki\
-    \ Haley Exits Republican Presidential Race\_  Further Listening: - Does Nikki\
-    \ Haley Have a Chance At Beating Trump?\_ - A Messy Start to the 2024 Presidential\
-    \ Election\_ - The Deepfake Election Has Arrived\_   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1SC3fCaSAHbEgaCYRm0tnU
-  title: 'Biden vs. Trump: The Rematch Nobody Wants'
 - author: Outliers
   categories: &id006
   - Podcasts
@@ -307,21 +339,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Journal-Article/The-Virtue-of-Complexity-in-Return-Prediction
   title: The Virtue of Complexity in Return Prediction
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-02-28T00:00:00+00:00'
-  description: "This episode discusses my take on what you should pay attention to\
-    \ when reading history.\_There\u2019s a quote I love from writer Kelly Hayes who\
-    \ says, \u201CEverything feels unprecedented when you haven\u2019t engaged with\
-    \ history.\u201DIt\u2019s so true. History\u2019s cast of characters changes but\
-    \ it\u2019s the same movie over and over again.To me, the point of paying attention\
-    \ to history is not the specific details of certain events, which are always random\
-    \ and never repeat; it\u2019s the big-picture behaviors that reoccur in different\
-    \ eras, generations, and societies."
-  image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
-  path: https://open.spotify.com/episode/6ngWj7BvXfnByKhZy1WlrO
-  title: How to Engage With History
 - author: Outliers
   categories: *id006
   date: '2024-02-20T00:00:00+00:00'
@@ -345,18 +362,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4442199d-2241-41c3-a335-547706926761_2886x1843.png
   path: https://www.apricitas.io/p/the-us-china-chip-war-is-escalating
   title: The US-China Chip War is Escalating
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2024-02-13T00:00:00+00:00'
-  description: "Listen to J.P. Vicente, Apollo\u2019s Global Head of Content Strategy\
-    \ for Client and Product Solutions and Alexander Wright, Partner and Global Wealth\
-    \ Strategist at the Firm, discuss the current state of the capital markets, including\
-    \ reading the Fed\u2019s tea leaves, asset allocation in 2024, and the growing\
-    \ deployment of alternatives in wealth portfolios."
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/7jTZn3ROnDXuEvyONfJDxF
-  title: Adjusting Portfolio Allocations Amid an Uncertain Outlook
 - author: Atas do Copom
   categories:
   - Bacen
