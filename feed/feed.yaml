@@ -1,3 +1,13 @@
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2024-03-11T19:23:48+00:00'
+  description: Major Public Works Projects and Supply-Chain Nearshoring are Driving
+    an Investment Boom in Mexico
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ab51016-be50-49ce-bc6e-cc064b3cfff1_2886x1843.png
+  path: https://www.apricitas.io/p/mexicos-investment-boom
+  title: Mexico's Investment Boom
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -325,7 +335,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/01032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/03/2024"
 - author: AQR
-  categories: &id007
+  categories: &id008
   - Quant
   - Papers
   date: '2024-03-01T00:00:00'
@@ -353,9 +363,7 @@
   path: https://open.spotify.com/episode/0QqZr0vtPj2X1RQeZ3KO8c
   title: '#121 - Neo Investimentos e o fundo que nunca ficou negativo'
 - author: Apricitas Economics
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2024-02-17T14:30:41+00:00'
   description: China is Buying Record Amounts of Semiconductor Manufacturing Equipment
     to Fortify its Chip Industry&#8212;While DC Tries to Clamp Down Harder With Sanctions
@@ -683,7 +691,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
 - author: AQR
-  categories: *id007
+  categories: *id008
   date: '2024-02-06T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        February\
     \ 6, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -796,14 +804,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18075
   title: "BC - Copom Comunicado - 260\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 11,25% a.a."
-- author: Apricitas Economics
-  categories: *id008
-  date: '2024-01-29T17:00:57+00:00'
-  description: The American Economy Closes out 2023 By Posting Another Quarter of
-    Strong GDP Growth
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12291464-79db-4fe7-ac49-aff1c72dd67d_1272x812.webp
-  path: https://www.apricitas.io/p/us-growth-keeps-beating-expectations
-  title: US Growth Keeps Beating Expectations
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
