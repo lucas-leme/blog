@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -35,6 +35,56 @@
   image: https://i2.ytimg.com/vi/ebZB8dPrrog/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ebZB8dPrrog
   title: Why You Need Custom Exception Classes
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-03-12T00:00:00+00:00'
+  description: "INVISTA NO MARKET MAKERS FIA PELO BTG: https://portal.btgpactual.com/digital/?productID=5916962&amp;productType=FI\
+    \ Descubra agora os 4 principais motivos para investir no fundo de a\xE7\xF5es\
+    \ do Market Makers! Neste v\xEDdeo, Thiago Salom\xE3o e Mateus Soares apresentam\
+    \ uma an\xE1lise detalhada, revelando por que este \xE9 o investimento ideal para\
+    \ voc\xEA.Diferencia\xE7\xE3o Estrat\xE9gica: O Market Makers adota uma abordagem\
+    \ \xFAnica, focando em empresas fora do radar dos grandes investidores. Ao investir\
+    \ em small caps e empresas com pouca liquidez, o fundo aproveita oportunidades\
+    \ muitas vezes negligenciadas pelo mercado, resultando em pre\xE7os mais atrativos\
+    \ e potencial de retorno superior.\_Conex\xF5es e Networking: A ampla rede de\
+    \ contatos e relacionamentos do Market Makers \xE9 uma vantagem significativa.\
+    \ Ao interagir com gestores e analistas do mercado, o fundo obt\xE9m insights\
+    \ valiosos e confronta teses de investimento, enriquecendo sua an\xE1lise e ampliando\
+    \ seu conhecimento sobre empresas e setores.\_Cr\xEDtica e Autocr\xEDtica: A postura\
+    \ cr\xEDtica e autocr\xEDtica do Market Makers \xE9 fundamental para aprimorar\
+    \ suas estrat\xE9gias de investimento. Ao estar aberto a diferentes pontos de\
+    \ vista e disposto a admitir erros, o fundo mant\xE9m uma abordagem criteriosa\
+    \ e disciplinada, garantindo a prote\xE7\xE3o do capital e a busca por oportunidades\
+    \ lucrativas.\_Sweet Spot do Mercado: O Market Makers est\xE1 em seu \"Sweet Spot\"\
+    \ - os primeiros anos de um fundo s\xE3o cruciais para sua performance. Com uma\
+    \ gest\xE3o mais \xE1gil e flex\xEDvel, o fundo pode explorar teses de investimento\
+    \ que n\xE3o seriam vi\xE1veis em est\xE1gios mais avan\xE7ados, oferecendo aos\
+    \ investidores a oportunidade de participar de um crescimento acelerado.Se gostou\
+    \ do v\xEDdeo, curta, compartilhe e inscreva-se no canal para mais conte\xFAdo\
+    \ exclusivo sobre investimentos. Acompanhe o Market Makers nas redes e inscreva-se\
+    \ na CompoundLetter:\_Instagram: https://www.instagram.com/mmakers.oficial\_Twitter\
+    \ (X): https://twitter.com/mmakersoficial\_TikTok: https://www.tiktok.com/@mmakersoficial\_\
+    Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada\_Apresenta\xE7\
+    \xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Edi\xE7\xE3\
+    o e roteiro: Bianca Barsotti e Gabriel Rosenbaum"
+  image: https://i.scdn.co/image/ab6765630000ba8afafb06c8a0554aa21652d4b5
+  path: https://open.spotify.com/episode/7qsbAmf3etFO2ZaHt3bylQ
+  title: Por que investir no MARKET MAKERS FIA? E as vantagens que temos sobre outros
+    fundos do mercado | Mercado Aberto
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-03-12T00:00:00+00:00'
+  description: "About a year after a major train derailment in East Palestine, Ohio,\
+    \ an activist investor is trying to oust Norfolk Southern\u2019s CEO, Alan Shaw.\
+    \ But as WSJ\u2019s Esther Fung explains, the CEO has some unlikely allies in\
+    \ his corner.  Further Reading: -Railroad Workers Were Ready to Strike. Now They\u2019\
+    re Fighting to Save Their CEO.\_  Further Listening: -What Caused a Train to Derail\
+    \ in East Palestine, Ohio?\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4FvNUurr11OpiJa1z8crnm
+  title: Rail Unions Normally Hate CEOs. Now They Are Trying to Save One.
 - author: Apricitas Economics
   categories: &id007
   - Macro
@@ -46,8 +96,7 @@
   path: https://www.apricitas.io/p/mexicos-investment-boom
   title: Mexico's Investment Boom
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-03-11T00:00:00+00:00'
   description: "Nearly 80% of ship-to-shore cranes at U.S. ports are made by ZPMC,\
     \ a Chinese state-owned company. In recent years, U.S. officials have grown concerned\
@@ -63,7 +112,7 @@
   path: https://open.spotify.com/episode/51c6KDELLl0H3jwEsjIKvx
   title: 'Chinese-Made Cranes at U.S. Ports: A New Trojan Horse?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-09T16:00:02+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -101,22 +150,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/08032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/03/2024"
-- author: The Journal.
-  categories: *id002
-  date: '2024-03-08T00:00:00+00:00'
-  description: "This week the Dartmouth men\u2019s basketball team voted to unionize,\
-    \ setting up a fight with the school over whether its athletes are students or\
-    \ employees. WSJ\u2019s Laine Higgins talks about how this move upends decades\
-    \ of NCAA precedent and could change college sports forever.  Further Listening:\
-    \  - A League of Champions Implodes\_ - A Tipping Point for Paying College Athletes?\_\
-    \  Further Reading: - Dartmouth Basketball Players Vote to Unionize in New Challenge\
-    \ to NCAA\u2019s Amateurism Model\_ - Dartmouth Men\u2019s Basketball Team Makes\
-    \ Latest Bid for Unionization by College Athletes\_ - College Sports Powers Stall\
-    \ Bid to Share Revenue With Athletes in California\_   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/653L2LN7lgt0GsiLg76p6z
-  title: Why an Ivy League Basketball Team Voted to Unionize
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -159,8 +192,7 @@
   path: https://theovershoot.co/p/turkiyes-incredible-balancing-act
   title: "T\xFCrkiye's Incredible Balancing Act"
 - author: Market Makers
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2024-03-07T00:00:00+00:00'
   description: "Garanta sua vaga no MBA de AN\xC1LISE DE A\xC7\xD5ES:https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-g/?xpromo=XE-ME-EMP-MMK-SUBMMK-20240703-YT-X-X\
     \ Felipe Miranda (Empiricus) e Luiz Parreiras (Verde Asset) participam de live\
@@ -192,21 +224,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a9c7deaf0e1cfa8b9395b3e3c
   path: https://open.spotify.com/episode/22emLWPJexGwZaM9Tn17DV
   title: 'Money Talks: Can the American bull market keep roaring?'
-- author: Market Makers
-  categories: *id003
-  date: '2024-03-06T00:00:00+00:00'
-  description: "CORTE B\xD4NUS #7: Ruy Alves (Kinea Investimentos) e Jo\xE3o Piccioni\
-    \ (Empiricus Gest\xE3o) comentam os motivos por tr\xE1s da queda inevit\xE1vel\
-    \ da china e como ser\xE3o os pr\xF3ximos anos do pa\xEDs em busca de uma reestrutura\xE7\
-    \xE3o.\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO- Spotify: https://open.spotify.com/episode/1RDsEq9c14pMLvvDUU3NvC?si=Bg6kSdsTTgGmOpIIM0UJwQ-\
-    \ Apple Podcast: https://podcasts.apple.com/br/podcast/b%C3%B4nus-07-o-fim-do-modelo-econ%C3%B4mico-chin%C3%AAs-e-o-futuro/id1632972179?i=1000647445343\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/S2j09YMtFkw - - - -\
-    \ - - - -A QUEDA inevit\xE1vel do GIGANTE CHIN\xCAS | B\xF4nus #7Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney)Convidados: Ruy Alves (Kinea Investimentos)\
-    \ e Jo\xE3o Piccioni (Empiricus Gest\xE3o)Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8ac8b7d7e017d019db3fc2b149
-  path: https://open.spotify.com/episode/6nggFjeNlAeiInshDpCA2s
-  title: "A QUEDA inevit\xE1vel do GIGANTE CHIN\xCAS | Corte B\xF4nus #7"
 - author: Outliers
   categories: &id006
   - Podcasts
