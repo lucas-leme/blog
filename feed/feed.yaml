@@ -86,7 +86,7 @@
   path: https://open.spotify.com/episode/4FvNUurr11OpiJa1z8crnm
   title: Rail Unions Normally Hate CEOs. Now They Are Trying to Save One.
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-03-11T19:23:48+00:00'
@@ -224,8 +224,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8a9c7deaf0e1cfa8b9395b3e3c
   path: https://open.spotify.com/episode/22emLWPJexGwZaM9Tn17DV
   title: 'Money Talks: Can the American bull market keep roaring?'
-- author: Outliers
+- author: AQR
   categories: &id006
+  - Quant
+  - Papers
+  date: '2024-03-07T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        March\
+    \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <a class=\"cta cta--dark \">Joseph Liberman</a>\n           \
+    \     <a class=\"cta cta--dark \">Nathan Sosner</a>\n</span>\n               \
+    \     </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated\
+    \ with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Working-Paper/Combining-VPFs-and-TaxAware-Strategies-to-Diversify-LowBasis-Stock
+  title: Combining VPFs and Tax-Aware Strategies to Diversify Low-Basis Stock
+- author: Outliers
+  categories: &id007
   - Podcasts
   date: '2024-03-06T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
@@ -351,22 +365,17 @@
   path: https://theovershoot.co/p/inflation-is-still-hot-but-could
   title: Inflation Is Still Hot, But Could Incomes Be Slowing?
 - author: AQR
-  categories: &id008
-  - Quant
-  - Papers
+  categories: *id006
   date: '2024-03-01T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
-    \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Bryan T. Kelly</a>\n            \
-    \    <span class=\"article__author--nolink\">Semyon Malamud</span>\n         \
-    \       <span class=\"article__author--nolink\">Kangying Zhou</span>\n</span>\n\
-    \                    </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
-    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+    \ 1, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Journal-Article/The-Virtue-of-Complexity-in-Return-Prediction
-  title: The Virtue of Complexity in Return Prediction
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Making-VPFs-Work-Harder-for-You
+  title: Making VPFs Work Harder for You
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2024-02-20T00:00:00+00:00'
   description: "Investir com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro\
     \ e em minutos voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/41SHHkAAcompanhe\
@@ -379,7 +388,7 @@
   path: https://open.spotify.com/episode/0QqZr0vtPj2X1RQeZ3KO8c
   title: '#121 - Neo Investimentos e o fundo que nunca ficou negativo'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2024-02-17T14:30:41+00:00'
   description: China is Buying Record Amounts of Semiconductor Manufacturing Equipment
     to Fortify its Chip Industry&#8212;While DC Tries to Clamp Down Harder With Sanctions
@@ -706,20 +715,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/31012024
   title: "BC - Copom Ata - 260\xAA Reuni\xE3o - 30-31 janeiro, 2024"
-- author: AQR
-  categories: *id008
-  date: '2024-02-06T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        February\
-    \ 6, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Michele L. Aghassi</a>\n        \
-    \        <a class=\"cta cta--dark \">Chris Doheny</a>\n                <a class=\"\
-    cta cta--dark \">Charles Fattouche</a>\n                <a class=\"cta cta--dark\
-    \ \">Erik Wong</a>\n</span>\n                    </p><br /><br /><span style=\"\
-    font-size: 12px; color: gray;\">(Feed generated with <a href=\"https://fetchrss.com\"\
-    \ target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/Is-Your-Equity-Hedge-Fund-Portfolio-Resilient-Enough-for-Uncertain-Times
-  title: Is Your Equity Hedge Fund Portfolio Resilient Enough for Uncertain Times?
 - author: Flirting with Models
   categories:
   - Podcasts
