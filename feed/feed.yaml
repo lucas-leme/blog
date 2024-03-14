@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id003
+  - Macro
+  - Newsletters
+  date: '2024-03-14T04:10:14+00:00'
+  description: Look past the volatility in the monthly data on wages and prices in
+    January and February, and prior trends seem to be holding. The good news is that
+    sitdown restaurant prices continue to normalize.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9fc205b-4f04-4024-95f7-a5afdf07e74e_5000x2625.png
+  path: https://theovershoot.co/p/parsing-the-2024-inflation-rebound
+  title: Parsing the 2024 Inflation Rebound
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -76,9 +87,9 @@
     \ my channel so I can continue to provide you with free content each week!"
   image: https://i2.ytimg.com/vi/ebZB8dPrrog/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ebZB8dPrrog
-  title: Why You Need Custom Exception Classes
+  title: How to Create Custom Exception Classes in Python
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-03-12T00:00:00+00:00'
   description: "INVISTA NO MARKET MAKERS FIA PELO BTG: https://portal.btgpactual.com/digital/?productID=5916962&amp;productType=FI\
@@ -182,9 +193,7 @@
   path: https://open.spotify.com/episode/5Ui7EfeXqFrCno98Lx7PkD
   title: The Dumber Side of Smart People
 - author: The Overshoot
-  categories: &id005
-  - Macro
-  - Newsletters
+  categories: *id003
   date: '2024-03-07T09:22:41+00:00'
   description: The country of nearly 90 million has managed to keep growing rapidly
     despite an increasingly fragile financial structure. Can it continue?
@@ -192,7 +201,7 @@
   path: https://theovershoot.co/p/turkiyes-incredible-balancing-act
   title: "T\xFCrkiye's Incredible Balancing Act"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-03-07T00:00:00+00:00'
   description: "Garanta sua vaga no MBA de AN\xC1LISE DE A\xC7\xD5ES:https://lp1.empiricus.com.br/financas-e-analise-acoes-mba05-g/?xpromo=XE-ME-EMP-MMK-SUBMMK-20240703-YT-X-X\
     \ Felipe Miranda (Empiricus) e Luiz Parreiras (Verde Asset) participam de live\
@@ -256,7 +265,7 @@
   path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
   title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-03-05T12:28:28+00:00'
@@ -291,7 +300,7 @@
   path: https://www.youtube.com/watch?v=VdOlqcg9uMQ
   title: 'Nothing Phone 2A Review: Flashy Good Deal!'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-03-02T01:23:30+00:00'
   description: 'There have been countless Galaxy S phones in 14 years. Let''s take
     a look at every single one of them!
@@ -356,14 +365,6 @@
   image: https://i2.ytimg.com/vi/eKVTFXQPAhs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=eKVTFXQPAhs
   title: Reviewing EVERY Samsung Galaxy S Ever!
-- author: The Overshoot
-  categories: *id005
-  date: '2024-03-01T09:57:28+00:00'
-  description: There is not much reason to be comforted by the latest numbers on prices,
-    but income growth may be slowing.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffdd10aff-2d10-4283-bdfb-04a6817e0bf8_5000x2625.png
-  path: https://theovershoot.co/p/inflation-is-still-hot-but-could
-  title: Inflation Is Still Hot, But Could Incomes Be Slowing?
 - author: AQR
   categories: *id006
   date: '2024-03-01T00:00:00'
