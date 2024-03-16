@@ -1,8 +1,33 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-03-16T16:00:39+00:00'
+  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
+    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i3.ytimg.com/vi/nhgpOzqL82Y/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=nhgpOzqL82Y
+  title: Leverage Existing Libraries in Data Science
+- author: ArjanCodes
+  categories: *id001
   date: '2024-03-15T16:00:35+00:00'
   description: "Dependency injection separates resource creation from usage, decoupling\
     \ your code for better management. In this video, we dive into the next level:\
@@ -37,7 +62,7 @@
   path: https://www.youtube.com/watch?v=fhwhQjY2GCY
   title: Should You Use Dependency Injection Frameworks?
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-03-15T00:00:00+00:00'
   description: "In November 2022, Kavita Fischer downloaded a casino app from DraftKings,\
@@ -130,7 +155,7 @@
   path: https://open.spotify.com/episode/0DP2SA8nQJYFRf7eppL1Js
   title: "#88 | A estrat\xE9gia para ganhar (muito) dinheiro correndo pouco risco"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-03-14T00:00:00+00:00'
   description: "Hospitals, pharmacies and medical groups have been reeling in the\
     \ wake of last month\u2019s ransomware attack on a company widely used for insurance\
@@ -166,31 +191,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7d9ebb7059ebb55a640cc0b9
   path: https://open.spotify.com/episode/6FL8iuzRl30AxoHPWXgJEC
   title: 'Money Talks: Why infrastructure is all the rage on Wall Street'
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-03-13T16:00:38+00:00'
-  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
-    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/lhk2n5ZbPN8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=lhk2n5ZbPN8
-  title: Data Science Project Structure
 - author: Market Makers
   categories: *id003
   date: '2024-03-12T00:00:00+00:00'
