@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -36,6 +36,22 @@
   image: https://i3.ytimg.com/vi/fhwhQjY2GCY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=fhwhQjY2GCY
   title: Should You Use Dependency Injection Frameworks?
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-03-15T00:00:00+00:00'
+  description: "In November 2022, Kavita Fischer downloaded a casino app from DraftKings,\
+    \ one of the top online betting companies in the U.S. Kavita was looking for relief\
+    \ from the stress of a recent divorce and the isolation of working from home during\
+    \ the pandemic. In less than a year, Kavita gambled away hundreds of thousands\
+    \ of dollars. We speak to Kavita and to WSJ\u2019s Katherine Sayre about how online\
+    \ betting companies keep customers coming back by giving them bonus credits and\
+    \ VIP treatment.\_  Further Reading:  - A Psychiatrist Tried to Quit Gambling.\
+    \ Betting Apps Kept Her Hooked.\_  Further Listening:  - Disney Gets Into Gambling\_\
+    \_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1q31pyEsDmoKMNK3xFCjWg
+  title: How a Psychiatrist Lost $400,000 on Gambling Apps
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -114,8 +130,7 @@
   path: https://open.spotify.com/episode/0DP2SA8nQJYFRf7eppL1Js
   title: "#88 | A estrat\xE9gia para ganhar (muito) dinheiro correndo pouco risco"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-03-14T00:00:00+00:00'
   description: "Hospitals, pharmacies and medical groups have been reeling in the\
     \ wake of last month\u2019s ransomware attack on a company widely used for insurance\
@@ -152,7 +167,7 @@
   path: https://open.spotify.com/episode/6FL8iuzRl30AxoHPWXgJEC
   title: 'Money Talks: Why infrastructure is all the rage on Wall Street'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-13T16:00:38+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -176,22 +191,6 @@
   image: https://i1.ytimg.com/vi/lhk2n5ZbPN8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=lhk2n5ZbPN8
   title: "\U0001F5C2\uFE0F Data Science Project Structure"
-- author: The Journal.
-  categories: *id002
-  date: '2024-03-13T00:00:00+00:00'
-  description: "Today the House voted overwhelmingly to approve a bill that would\
-    \ ban TikTok from operating in the U.S. or force a sale. For years politicians\
-    \ have threatened a ban, but this latest attempt finally gained traction. WSJ's\
-    \ Georgia Wells on the long  push to ban the Chinese-controlled platform and how\
-    \ the company is fighting back.  Further Listening: -The Billionaire Keeping TikTok\
-    \ on Your Phone\_ -Exclusive: TikTok\u2019s CEO on the App\u2019s Future in the\
-    \ U.S.\_ -What's Up With All the TikTok Bans?\_  Further Reading:  -How TikTok\
-    \ Was Blindsided by U.S. Bill That Could Ban It\_ -TikTok Crackdown Shifts Into\
-    \ Overdrive, With Sale or Shutdown on Table\_ -The Billionaire Keeping TikTok\
-    \ on Phones in the U.S.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4yiCXnhsmvRZnDl0AwZWqS
-  title: House Passes Bill to Ban TikTok
 - author: Market Makers
   categories: *id003
   date: '2024-03-12T00:00:00+00:00'
