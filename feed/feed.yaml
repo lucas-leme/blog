@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -35,9 +35,51 @@
   image: https://i3.ytimg.com/vi/n1nqgMtWRwg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=n1nqgMtWRwg
   title: How to Test Asynchronous Code in Python
-- author: The Journal.
+- author: Market Makers
   categories: &id002
   - Podcasts
+  date: '2024-03-19T00:00:00+00:00'
+  description: "No mercado aberto de hoje iremos falar sobre a Oi (OIBR3), uma gigante\
+    \ das telecomunica\xE7\xF5es no Brasil, que frequentemente \xE9 citada como uma\
+    \ das apostas para os investidores mais corajosos.A empresa enfrentou uma jornada\
+    \ turbulenta, desde sua origem na privatiza\xE7\xE3o da Telebras, passando por\
+    \ diversas fus\xF5es e aquisi\xE7\xF5es que a levaram a acumular uma d\xEDvida\
+    \ l\xEDquida significativa de R$ 30 bilh\xF5es.A hist\xF3ria da Oi inclui recupera\xE7\
+    \xF5es judiciais, vendas de ativos e desafios regulat\xF3rios. Hoje, a Oi est\xE1\
+    \ em sua segunda recupera\xE7\xE3o judicial, buscando reestruturar suas finan\xE7\
+    as e garantir sua sustentabilidade futura.Com planos de venda de ativos e inje\xE7\
+    \xE3o de capital novo, a empresa enfrenta desafios complexos enquanto busca navegar\
+    \ em um setor din\xE2mico e competitivo. Se voc\xEA pensa em investir em Oi (OIBR3),\
+    \ n\xE3o deixe de assistir este v\xEDdeo.N\xE3o se esque\xE7a de curtir este v\xED\
+    deo para apoiar nosso canal e alcan\xE7ar mais pessoas interessadas em aprender\
+    \ sobre investimentos.Acompanhe o Market Makers nas redes e inscreva-se na CompoundLetter:\
+    \ -Instagram: https://www.instagram.com/mmakers.oficial\_Twitter (X): https://twitter.com/mmakersoficial\_\
+    TikTok: https://www.tiktok.com/@mmakersoficial\_Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada\
+    \ Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Edi\xE7\
+    \xE3o e Roteiro: Bianca Barsotti e Gabriel Rosenbaum"
+  image: https://i.scdn.co/image/ab6765630000ba8a57cce577541da502e7174aea
+  path: https://open.spotify.com/episode/1NOfW3uh14KQzdnCG9iMGT
+  title: "OI (OIBR3): A EMPRESA MAIS PROBLEM\xC1TICA DA BOLSA DE VALORES | Mercado\
+    \ Aberto"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-03-19T00:00:00+00:00'
+  description: "When David Solomon became CEO of Goldman Sachs just over five years\
+    \ ago, he made promoting women to senior levels of the firm a priority. But female\
+    \ executives are heading for the door\u2014among them, Stephanie Cohen, one of\
+    \ the most senior executives at the company, who announced her departure Monday.\
+    \ WSJ\u2019s AnnaMaria Andriotis unpacks what\u2019s happening at the Wall Street\
+    \ giant.  Further Reading: -Women Aren\u2019t Getting the Big Jobs at Goldman\
+    \ Sachs, and They\u2019re Heading for the Exits\_ -Stephanie Cohen Is Latest Senior\
+    \ Goldman Executive to Depart\_ -Goldman Sachs to Pay $215 Million to Settle Female\
+    \ Employees\u2019 Discrimination Case\_  Further Listening: -The War Inside Goldman\
+    \ Sachs\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0BAIOIdKc2HmxNRl0Ms8M9
+  title: Why Women Are Leaving Goldman Sachs
+- author: The Journal.
+  categories: *id001
   date: '2024-03-18T00:00:00+00:00'
   description: "Two Binance employees, Tigran Gambaryan and Nadeem Anjarwalla, are\
     \ being held by Nigerian authorities in a guarded house. According to their families,\
@@ -70,8 +112,7 @@
   path: https://open.spotify.com/episode/2guFc495TeJ8kl3opNQNif
   title: Accountable to Darwin vs. Accountable to Newton
 - author: Market Makers
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-03-17T00:00:00+00:00'
   description: "CORTE EP #87: Felipe Miranda e Luiz Parreiras falam sobre o futuro\
     \ da economia brasileira e da bolsa de valores do brasil e como est\xE1 se sainda\
@@ -89,7 +130,7 @@
   title: 'Felipe Miranda MANDA A REAL sobre o FUTURO DA ECONOMIA BRASILEIRA | Corte
     Ep #87'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id003
   date: '2024-03-16T16:00:39+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -127,21 +168,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/15032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 15/03/2024"
-- author: The Journal.
-  categories: *id002
-  date: '2024-03-15T00:00:00+00:00'
-  description: "In November 2022, Kavita Fischer downloaded a casino app from DraftKings,\
-    \ one of the top online betting companies in the U.S. Kavita was looking for relief\
-    \ from the stress of a recent divorce and the isolation of working from home during\
-    \ the pandemic. In less than a year, Kavita gambled away hundreds of thousands\
-    \ of dollars. We speak to Kavita and to WSJ\u2019s Katherine Sayre about how online\
-    \ betting companies keep customers coming back by giving them bonus credits and\
-    \ VIP treatment.\_  Further Reading:  - A Psychiatrist Tried to Quit Gambling.\
-    \ Betting Apps Kept Her Hooked.\_  Further Listening:  - Disney Gets Into Gambling\_\
-    \_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1q31pyEsDmoKMNK3xFCjWg
-  title: How a Psychiatrist Lost $400,000 on Gambling Apps
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -187,37 +213,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9fc205b-4f04-4024-95f7-a5afdf07e74e_5000x2625.png
   path: https://theovershoot.co/p/parsing-the-2024-inflation-rebound
   title: Parsing the 2024 Inflation Rebound
-- author: Market Makers
-  categories: *id003
-  date: '2024-03-14T00:00:00+00:00'
-  description: "\xC9 poss\xEDvel ganhar dinheiro no mercado financeiro correndo pouco\
-    \ risco? Muitos acreditam que n\xE3o, mas o convidado de hoje ir\xE1 te mostrar\
-    \ que existe uma estrat\xE9gia para ganhar (muito) dinheiro correndo pouco risco,\
-    \ apostando no PODER DA DIVERSIFICA\xC7\xC3O. Com Doutorado em Fisiologia Te\xF3\
-    rica, p\xF3s-doutorado em Arqueologia, mestrado em Matem\xE1tica Aplicada pelo\
-    \ IME-USP, p\xF3s-gradua\xE7\xE3o em Finan\xE7as e formado em Administra\xE7\xE3\
-    o, S\xE9rgio Schirato, s\xF3cio fundador da Daemon Nous Global, transpira diversifica\xE7\
-    \xE3o no universo intelectual e nos investimentos tamb\xE9m.No mercado desde o\
-    \ in\xEDcio dos anos 2000, Schirato j\xE1 passou por grandes institui\xE7\xF5\
-    es financeiras e, em 2009, fundou, junto com Victor Schirato e Edson Queiroz,\
-    \ a Daemon, gestora especializada em export finance com mais de R$ 26 bilh\xF5\
-    es sob gest\xE3o.Em 2015, Sergio decidiu liderar dentro da Daemon uma pesquisa\
-    \ que levaria \xE0 melhor maneira de investir o dinheiro dos s\xF3cios. Ap\xF3\
-    s muito estudo e forma\xE7\xE3o de uma equipe tamb\xE9m diversa que tem de engenheiro\
-    \ espacial a jornalista, o fundo Daemon Nous Global come\xE7ou a rodar com uma\
-    \ abordagem totalmente sistem\xE1tica e quantitativa, com modelos matem\xE1ticos\
-    \ desenvolvidos por pesquisadores experientes e a execu\xE7\xE3o \xE9 inteiramente\
-    \ sistematizada.Entregando CDI +7,2% ao ano desde seu nascimento, o Daemon Nous\
-    \ Global expressa atrav\xE9s de seu modelos sistem\xE1ticos o poder da diversifica\xE7\
-    \xE3o ao entregar retorno para os cotistas correndo pouco risco. Descubra a incr\xED\
-    vel hist\xF3ria de S\xE9rgio Schirato, entenda o poder da diversifica\xE7\xE3\
-    o e como um fundo sistem\xE1tico funciona (Schirato abriu uma de suas estrat\xE9\
-    gias).Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidado:\
-    \ S\xE9rgio Schirato (s\xF3cio fundador e idealizador do Daemon Nous Global)Edi\xE7\
-    \xE3o: Bianca BarsottiAnuncie no Market Makers: https://sl.mmakers.com.br/mmk03t-conectar/"
-  image: https://i.scdn.co/image/ab6765630000ba8a916722a6b7aad4a6c26be134
-  path: https://open.spotify.com/episode/0DP2SA8nQJYFRf7eppL1Js
-  title: "#88 | A estrat\xE9gia para ganhar (muito) dinheiro correndo pouco risco"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
