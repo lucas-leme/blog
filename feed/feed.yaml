@@ -170,7 +170,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/15032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 15/03/2024"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-03-14T16:58:18+00:00'
@@ -234,6 +234,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7d9ebb7059ebb55a640cc0b9
   path: https://open.spotify.com/episode/6FL8iuzRl30AxoHPWXgJEC
   title: 'Money Talks: Why infrastructure is all the rage on Wall Street'
+- author: AQR
+  categories: &id005
+  - Quant
+  - Papers
+  date: '2024-03-12T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        March\
+    \ 12, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
+  title: AQR Factor Research Papers Win Prestigious Academic Awards
 - author: Apricitas Economics
   categories: &id008
   - Macro
@@ -266,9 +278,7 @@
   path: https://theovershoot.co/p/turkiyes-incredible-balancing-act
   title: "T\xFCrkiye's Incredible Balancing Act"
 - author: AQR
-  categories: &id006
-  - Quant
-  - Papers
+  categories: *id005
   date: '2024-03-07T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
     \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -297,7 +307,7 @@
   path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
   title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-03-05T12:28:28+00:00'
   description: 'Nothing Phone 2a is an impressive and smooth phone for $350!
 
@@ -329,16 +339,6 @@
   image: https://i3.ytimg.com/vi/VdOlqcg9uMQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=VdOlqcg9uMQ
   title: 'Nothing Phone 2A Review: Flashy Good Deal!'
-- author: AQR
-  categories: *id006
-  date: '2024-03-01T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        March\
-    \ 1, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Making-VPFs-Work-Harder-for-You
-  title: Making VPFs Work Harder for You
 - author: Outliers
   categories: *id007
   date: '2024-02-20T00:00:00+00:00'
