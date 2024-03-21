@@ -1,3 +1,13 @@
+- author: Apricitas Economics
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2024-03-21T17:00:35+00:00'
+  description: New Zealand's Broad Upzonings Have Led to a Housing Construction Boom
+    That is Increasing Affordability. The World Should Copy Their Model.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64613fe5-1eef-4bef-bdae-4858a7d21e82_2886x1843.png
+  path: https://www.apricitas.io/p/new-zealands-building-boomand-what
+  title: "New Zealand's Building Boom\u2014And What the World Must Learn From It"
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -9,6 +19,17 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5192209-dc57-4838-9fbf-925b2b0889a6_5008x2670.png
   path: https://theovershoot.co/p/the-feds-growth-optimism-puts-a-floor
   title: The Fed's Growth Optimism Puts a Floor Under Rates
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2024-03-21T00:00:00+00:00'
+  description: "An article from The Economist read aloud. Our leader argues that both\
+    \ Donald Trump and Joe Biden have ideas that endanger America\u2019s economy.\
+    \ Hosted on Acast. See acast.com/privacy for more information."
+  image: https://i.scdn.co/image/ab6765630000ba8ac7f8eb0287fb8010220f8108
+  path: https://open.spotify.com/episode/3pn8kJLHhzPdcDDq3D9WB1
+  title: "Money Talks picks: America\u2019s extraordinary economy keeps defying the\
+    \ pessimists"
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -339,28 +360,8 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9fc205b-4f04-4024-95f7-a5afdf07e74e_5000x2625.png
   path: https://theovershoot.co/p/parsing-the-2024-inflation-rebound
   title: Parsing the 2024 Inflation Rebound
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2024-03-14T00:00:00+00:00'
-  description: "Investing in infrastructure used to mean partnering with governments\
-    \ to build unglamorous assets like roads or sewage treatment plants. But increasingly,\
-    \ companies are turning to infrastructure investors to help build and pay for\
-    \ everything from chip factories to fibre-optic networks. Why are investors pouring\
-    \ money into these assets?Hosts: Tom Lee-Devlin, Alice Fulwood and Mike Bird.\
-    \ Guests: John Buttarazzi, a professor at Georgetown University; and Leigh Harrison,\
-    \ head of real assets at Macquarie, the world\u2019s largest infrastructure investment\
-    \ manager.Get a world of insights for 50% off\u2014subscribe to Economist Podcasts+If\
-    \ you\u2019re already a subscriber to The Economist, you\u2019ll have full access\
-    \ to all our shows as part of your subscription. For more information about how\
-    \ to access Economist Podcasts+, please visit our FAQs page or watch our video\
-    \ explaining how to link your account. Hosted on Acast. See acast.com/privacy\
-    \ for more information."
-  image: https://i.scdn.co/image/ab6765630000ba8a7d9ebb7059ebb55a640cc0b9
-  path: https://open.spotify.com/episode/6FL8iuzRl30AxoHPWXgJEC
-  title: 'Money Talks: Why infrastructure is all the rage on Wall Street'
 - author: AQR
-  categories: &id006
+  categories: &id007
   - Quant
   - Papers
   date: '2024-03-12T00:00:00'
@@ -372,9 +373,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
   title: AQR Factor Research Papers Win Prestigious Academic Awards
 - author: Apricitas Economics
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2024-03-11T19:23:48+00:00'
   description: Major Public Works Projects and Supply-Chain Nearshoring are Driving
     an Investment Boom in Mexico
@@ -395,7 +394,7 @@
   path: https://open.spotify.com/episode/4iGPuOQseAAt4qlCXSbVGj
   title: How PE Secondaries Can Enhance Diversification in Volatile Times
 - author: AQR
-  categories: *id006
+  categories: *id007
   date: '2024-03-07T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
     \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -407,7 +406,7 @@
   path: https://www.aqr.com/Insights/Research/Working-Paper/Combining-VPFs-and-TaxAware-Strategies-to-Diversify-LowBasis-Stock
   title: Combining VPFs and Tax-Aware Strategies to Diversify Low-Basis Stock
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-03-06T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
@@ -424,7 +423,7 @@
   path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
   title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-02-20T00:00:00+00:00'
   description: "Investir com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro\
     \ e em minutos voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/41SHHkAAcompanhe\
@@ -436,14 +435,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a09585f316439ea6c258069e4
   path: https://open.spotify.com/episode/0QqZr0vtPj2X1RQeZ3KO8c
   title: '#121 - Neo Investimentos e o fundo que nunca ficou negativo'
-- author: Apricitas Economics
-  categories: *id008
-  date: '2024-02-17T14:30:41+00:00'
-  description: China is Buying Record Amounts of Semiconductor Manufacturing Equipment
-    to Fortify its Chip Industry&#8212;While DC Tries to Clamp Down Harder With Sanctions
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4442199d-2241-41c3-a335-547706926761_2886x1843.png
-  path: https://www.apricitas.io/p/the-us-china-chip-war-is-escalating
-  title: The US-China Chip War is Escalating
 - author: Atas do Copom
   categories:
   - Bacen
