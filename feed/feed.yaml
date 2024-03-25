@@ -1,5 +1,21 @@
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-03-25T00:00:00+00:00'
+  description: "The Department of Justice announced a landmark lawsuit against Apple,\
+    \ alleging that it has built a monopoly in smartphones by thwarting innovative\
+    \ apps and accessories that would make users less dependent on Apple\u2019s technology.\
+    \ WSJ\u2019s Tim Higgins breaks down the lawsuit and what it could mean for the\
+    \ company and its CEO Tim Cook.\_  Further Reading: - Ghost of Microsoft Stalks\
+    \ Apple as DOJ Takes Its Shot\_ - Monopoly Case Pits Justice Department Against\
+    \ Apple\u2019s Antitrust Winning Streak\_  Further Listening: - One Company\u2019\
+    s Quest to Burst Apple\u2019s Blue Bubble Texts\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/21AJ5MxHHFLkDPzwj1mRdY
+  title: Why the U.S. Government Is Suing Apple
 - author: Outliers
-  categories: &id008
+  categories: &id007
   - Podcasts
   date: '2024-03-25T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Guilherme\
@@ -97,8 +113,7 @@
   path: https://www.youtube.com/watch?v=tP2sJzeqD34
   title: Top Keyboards for Software Developers on a Mac
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-03-22T00:00:00+00:00'
   description: "Donald Trump\u2019s finances are under stress. He faces a $454 million\
     \ judgment against him in a civil-fraud case. Meanwhile, his campaign fundraising\
@@ -162,20 +177,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af4ca94563a742bc52fb33c59
   path: https://open.spotify.com/episode/5rsAmsDCuMEi4A2ALBPwUq
   title: "#89 | COMO PENSAM OS MAIORES INVESTIDORES DE AC\u0327O\u0303ES DO MUNDO"
-- author: The Journal.
-  categories: *id002
-  date: '2024-03-21T00:00:00+00:00'
-  description: "This week, the Supreme Court is considering whether the Biden administration\
-    \ unlawfully pressured tech companies to suppress social media posts opposed to\
-    \ Covid vaccines. We talk to WSJ\u2019s Jess Bravin about the latest in a series\
-    \ of cases that could set important ground rules for free speech and online content\
-    \ moderation.\_  Further Reading: - Covid-Era Case on Free Speech to Test Supreme\
-    \ Court\_ - Supreme Court Voices Skepticism Over Social-Media Censorship Claims\
-    \ Against Government\_  Further Listening:  - Inside One Publisher\u2019s Fight\
-    \ Against Book Bans\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3gzql8sgXDn9dbzDivPI01
-  title: Is Fighting Misinformation Censorship? The Supreme Court Will Decide.
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -413,7 +414,7 @@
   path: https://theovershoot.co/p/parsing-the-2024-inflation-rebound
   title: Parsing the 2024 Inflation Rebound
 - author: AQR
-  categories: &id007
+  categories: &id008
   - Quant
   - Papers
   date: '2024-03-12T00:00:00'
@@ -445,20 +446,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/4iGPuOQseAAt4qlCXSbVGj
   title: How PE Secondaries Can Enhance Diversification in Volatile Times
-- author: AQR
-  categories: *id007
-  date: '2024-03-07T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        March\
-    \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Joseph Liberman</a>\n           \
-    \     <a class=\"cta cta--dark \">Nathan Sosner</a>\n</span>\n               \
-    \     </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated\
-    \ with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Working-Paper/Combining-VPFs-and-TaxAware-Strategies-to-Diversify-LowBasis-Stock
-  title: Combining VPFs and Tax-Aware Strategies to Diversify Low-Basis Stock
 - author: Outliers
-  categories: *id008
+  categories: *id007
   date: '2024-03-06T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
     \ Sgavioli, head de aloca\xE7\xE3o da XP conversaram com Marcelo Urbano e Paulo\
@@ -473,6 +462,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8abc47bcab14247bd28c8b07cc
   path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
   title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
+- author: AQR
+  categories: *id008
+  date: '2024-03-01T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        March\
+    \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <span class=\"article__author--nolink\">Marc Eskildsen</span>\n\
+    \                <span class=\"article__author--nolink\">Markus Ibert</span>\n\
+    \                <span class=\"article__author--nolink\">Theis Ingerslev Jensen</span>\n\
+    \                <a class=\"cta cta--dark \">Lasse H. Pedersen</a>\n</span>\n\
+    \                    </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
+    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Working-Paper/In-Search-of-the-True-Greenium
+  title: In Search of the True Greenium
 - author: Atas do Copom
   categories:
   - Bacen
