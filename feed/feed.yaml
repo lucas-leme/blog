@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -47,8 +47,22 @@
   title: "ANALISANDO A\xC7\xD5ES COMO OS MAIORES INVESTIDORES DE TODOS OS TEMPOS |\
     \ Corte Ep #89"
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-03-27T00:00:00+00:00'
+  description: "Early Tuesday morning, a 1,000-foot container ship lost power and\
+    \ plowed into the Francis Scott Key Bridge leaving six people still unaccounted\
+    \ for. The bridge collapsed, cutting off the port and a major traffic artery for\
+    \ Baltimore. WSJ\u2019s Cameron McWhirter discusses the potential impact of the\
+    \ collapse on the local community and the wider region.  Further Reading: -Baltimore\
+    \ Bridge Crash Investigators to Examine Whether Dirty Fuel Played Role in Accident\_\
+    \ -Bridge Collapse Resets U.S. Supply Chains\_ -How a Night Shift on Baltimore\
+    \ Bridge Turned Deadly\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0S4v7T62CsEM8yv53SxROU
+  title: The Baltimore Bridge Catastrophe
+- author: The Journal.
+  categories: *id001
   date: '2024-03-27T00:00:00+00:00'
   description: "Caitlin Ostroff and Rachel Humphreys dive into a mountain of court\
     \ filings to understand the arguments that will be made at Sam Bankman-Fried\u2019\
@@ -62,7 +76,7 @@
   title: "What Will Sam\u2019s Sentence Be? from \"The Trial of Crypto\u2019s Golden\
     \ Boy\""
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-26T16:00:14+00:00'
   description: "In this video, I'll guide you through the ins and outs of managing\
     \ Python virtual environments, while also introducing you to Poetry. You'll learn\
@@ -486,20 +500,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/20032024
   title: "BC - Copom Ata - 261\xAA Reuni\xE3o - 19-20 mar\xE7o, 2024"
-- author: The Journal.
-  categories: *id002
-  date: '2024-03-26T00:00:00+00:00'
-  description: "Bayer is throwing out the corporate playbook to try a radical experiment:\
-    \ getting rid of a huge swath of its bosses. After years of tumbling stock prices,\
-    \ the company has decided to give workers more decision-making power. WSJ's Chip\
-    \ Cutter talks about how this boss-less plan is being implemented among Bayer's\
-    \ 100,000 employees. Further Reading: -One CEO\u2019s Radical Fix for Corporate\
-    \ Troubles: Purge the Bosses\_ -The Boss Wants to Make You More Efficient\_  Further\
-    \ Listening: -The New Layoff: On a Wednesday On Zoom\_ -The End of the GE Era\_\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6fnVwgS5691O1xLukzIVIw
-  title: Will Getting Rid of Bosses Fix the Workplace?
 - author: Outliers
   categories: &id007
   - Podcasts
