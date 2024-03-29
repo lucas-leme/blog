@@ -1,3 +1,40 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-03-29T16:00:30+00:00'
+  description: "In this video, I\u2019m revisiting Protocols and ABCs in Python, essential\
+    \ for creating abstraction layers by defining interfaces. I covered this a while\
+    \ back, but it deserves a fresh look to clarify: what are the key differences,\
+    \ and when should you use each?\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/protocol\n\
+    \n\U0001F4A1 Get my FREE 7-step guide to help you consistently design great software:\
+    \ https://arjancodes.com/designguide.\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/qqljls\n\
+    \nTry Learntail for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:03 Short overview\n1:53 Abstract Base Classes\n\
+    5:39 Protocols\n9:21 Making Protocols Behave Like ABCs\n12:45 Conclusion\n14:54\
+    \ Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this\
+    \ description might be affiliate links. If you purchase a product or service through\
+    \ one of those links, I may receive a small commission. There is no additional\
+    \ charge to you. Thanks for supporting my channel so I can continue to provide\
+    \ you with free content each week!"
+  image: https://i1.ytimg.com/vi/dryNwWvSd4M/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=dryNwWvSd4M
+  title: Protocols vs ABCs in Python - When to Use Which One? | Revisited
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -29,7 +66,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202403
   title: "BC - RI: mar\xE7o/2024"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-03-28T00:00:00+00:00'
   description: "INSCREVA-SE NO MACRO SUMMIT 2024:https://macrosummit.com.br/macro-summit-mmk08-a/?xpromo=XM-MEL-MMK-MMK08-YT-X-20240321-EP90-X\
@@ -103,10 +140,7 @@
   path: https://open.spotify.com/episode/4T69SbuvKck13pV76ambBV
   title: Smart Things Smart People Have Said
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-03-27T16:00:15+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -131,7 +165,7 @@
   path: https://www.youtube.com/watch?v=Ftw6pi45rAQ
   title: "\u261D\U0001F3FB Streamline Your Data Science Workflow with Organized Code"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-03-27T00:00:00+00:00'
   description: "CORTE EP #89: Nada melhor do que seguir os conselhos dos que tiveram\
     \ sucesso investindo em a\xE7\xF5es. E \xE9 exatamente isso que Frederico Vontobel\
@@ -149,41 +183,6 @@
   path: https://open.spotify.com/episode/1qk8vuR2qvtREoaUCKafcq
   title: "ANALISANDO A\xC7\xD5ES COMO OS MAIORES INVESTIDORES DE TODOS OS TEMPOS |\
     \ Corte Ep #89"
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-03-26T16:00:14+00:00'
-  description: "In this video, I'll guide you through the ins and outs of managing\
-    \ Python virtual environments, while also introducing you to Poetry. You'll learn\
-    \ a host of tips and strategies to manage your projects with greater effectiveness\
-    \ and efficiency.\n\n\U0001F4A1 Get my FREE 7-step guide to help you consistently\
-    \ design great software: https://arjancodes.com/designguide.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2024/tuesday_tips/poetry_tips\n\n\U0001F4BB\
-    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
-    \ quiz on this topic: https://www.learntail.com/quiz/eqwfss\n\nTry Learntail for\
-    \ FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
-    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
-    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
-    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:59 Dependency management\n3:13 Use dependency\
-    \ specification\n6:16 Virtual environments\n6:44 Building and publishing\n8:10\
-    \ Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this\
-    \ description might be affiliate links. If you purchase a product or service through\
-    \ one of those links, I may receive a small commission. There is no additional\
-    \ charge to you. Thanks for supporting my channel so I can continue to provide\
-    \ you with free content each week!"
-  image: https://i3.ytimg.com/vi/Ji2XDxmXSOM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Ji2XDxmXSOM
-  title: Python Poetry in 8 Minutes
 - author: Atas do Copom
   categories:
   - Bacen
