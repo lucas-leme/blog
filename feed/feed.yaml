@@ -1,5 +1,14 @@
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-04-01T15:43:47+00:00'
+  description: ''
+  image: https://i4.ytimg.com/vi/CToL2qkCd8g/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CToL2qkCd8g
+  title: Studio_Tour_Outtake_DONOTPUBLISH.mp4
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -27,9 +36,7 @@
   path: https://www.youtube.com/watch?v=O1MJSy5hMV0
   title: Why Keeping Configuration Separate is Key in Data Science
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-03-29T22:57:31+00:00'
   description: '1 month and 2000 miles into Cybertruck ownership. This thing is insane.
 
@@ -80,7 +87,7 @@
   path: https://www.youtube.com/watch?v=O0cs8aIXgkc
   title: 'Tesla Cybertruck Review: Already Iconic?'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-29T16:00:30+00:00'
   description: "In this video, I\u2019m revisiting Protocols and ABCs in Python, essential\
     \ for creating abstraction layers by defining interfaces. I covered this a while\
@@ -114,7 +121,7 @@
   path: https://www.youtube.com/watch?v=dryNwWvSd4M
   title: Protocols vs ABCs in Python - When to Use Which One? | Revisited
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-03-29T00:00:00+00:00'
   description: "A gang of young criminals. A more than $30 million ransom. Casinos\
@@ -127,7 +134,7 @@
   path: https://open.spotify.com/episode/5D99YwrhBlgUm2x9QS5zPy
   title: "Six Days of Chaos at MGM\u2019s Casinos"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-03-29T00:00:00+00:00'
   description: "Caitlin Ostroff and Rachel Humphreys attend Sam Bankman-Fried\u2019\
     s sentencing hearing and parse through the reasoning behind Judge Lewis Kaplan\u2019\
@@ -156,7 +163,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202403
   title: "BC - RI: mar\xE7o/2024"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-03-28T00:00:00+00:00'
   description: "INSCREVA-SE NO MACRO SUMMIT 2024:https://macrosummit.com.br/macro-summit-mmk08-a/?xpromo=XM-MEL-MMK-MMK08-YT-X-20240321-EP90-X\
@@ -214,7 +221,7 @@
   path: https://open.spotify.com/episode/4T69SbuvKck13pV76ambBV
   title: Smart Things Smart People Have Said
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-03-27T00:00:00+00:00'
   description: "CORTE EP #89: Nada melhor do que seguir os conselhos dos que tiveram\
     \ sucesso investindo em a\xE7\xF5es. E \xE9 exatamente isso que Frederico Vontobel\
@@ -694,38 +701,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5192209-dc57-4838-9fbf-925b2b0889a6_5008x2670.png
   path: https://theovershoot.co/p/the-feds-growth-optimism-puts-a-floor
   title: The Fed's Growth Optimism Puts a Floor Under Rates
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-03-20T21:20:58+00:00'
-  description: 'Usually it''s the easiest laptop in the world recommend. This time,
-    there''s a wrinkle...
-
-
-    Get a dbrand leather skin at https://dbrand.com/shop/leather
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Laptop provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/HN-WH7C4K0Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=HN-WH7C4K0Q
-  title: Here's the Thing about the M3 Macbook Air...
 - author: Comunicados Copom
   categories:
   - Bacen
