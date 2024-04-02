@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-04-02T16:27:37+00:00'
+  description: "<p>O aumento colossal no investimento em intelig\xEAncia artificial\
+    \ ainda pode levar alguns anos para aparecer de forma significativa nas estat\xED\
+    sticas do PIB americano, mas estudos acad\xEAmicos recentes j\xE1 mostram ganhos\
+    \ de 25% na m\xE9dia (e 16% na mediana) na produtividade dos trabalhadores.\_\
+    \ Essas s\xE3o algumas das conclus\xF5es da Goldman Sachs, onde o time de macroeconomia\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/goldman-ia-ja-aumentou-produtividade-nos-eua-mas-ganhos-sao-concentrados/\"\
+    \ rel=\"nofollow\">Goldman: IA j\xE1 aumentou produtividade nos EUA, mas ganhos\
+    \ s\xE3o concentrados</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/goldman-ia-ja-aumentou-produtividade-nos-eua-mas-ganhos-sao-concentrados/
+  title: "Goldman: IA j\xE1 aumentou produtividade nos EUA, mas ganhos s\xE3o concentrados"
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
@@ -23,8 +39,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/04/learning-by-bouncing-overdraft-experience-and-salience/
   title: 'Learning by Bouncing: Overdraft Experience and Salience'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-03-27T23:24:46+00:00'
   description: "<p>Em 2016, a Empiricus se esfor\xE7ou para trazer ao Brasil Daniel\
     \ Kahneman, o pr\xEAmio Nobel de Economia de 2002 e autor de R\xE1pido e Devagar,\
@@ -38,21 +53,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/daniel-kahneman-um-legado-humano-demasiadamente-humano/
   title: 'Daniel Kahneman: um legado humano, demasiadamente humano'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2024-03-19T23:26:09+00:00'
-  description: "<p>O Federal Reserve j\xE1 disse que dever\xE1 reduzir os juros em\
-    \ breve, mas se encontra em uma posi\xE7\xE3o privilegiada e n\xE3o precisa ter\
-    \ pressa. A economia dos EUA continua crescendo acima do esperado, a infla\xE7\
-    \xE3o continua acima da meta mas se estabilizou ao redor de 3%. Por isso, o Fed\
-    \ provavelmente ser\xE1 o \xFAltimo grande [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/fed-nao-precisa-ter-pressa-para-cortar-diz-blackrock/\"\
-    \ rel=\"nofollow\">Fed n\xE3o precisa ter pressa para cortar, diz BlackRock</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/fed-nao-precisa-ter-pressa-para-cortar-diz-blackrock/
-  title: "Fed n\xE3o precisa ter pressa para cortar, diz BlackRock"
 - author: "Bloomberg L\xEDnea"
   categories: &id002
   - "Not\xEDcias"
