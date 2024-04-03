@@ -26,6 +26,23 @@
   image: https://i2.ytimg.com/vi/MFumqNz24ok/hqdefault.jpg
   path: https://www.youtube.com/watch?v=MFumqNz24ok
   title: The Importance of Unit Testing in Data Science
+- author: Outliers
+  categories: &id005
+  - Podcasts
+  date: '2024-04-03T00:00:00+00:00'
+  description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
+    \ Sgavioli, head de aloca\xE7\xE3o do research da XP, conversam com Marcos Peixoto\
+    \ da XP Asset sobre a gest\xE3o dos fundos de a\xE7\xF5es da gestora.-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
+    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
+    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a31a146841b5ac6200dca37e2
+  path: https://open.spotify.com/episode/4VNsiVvmWW5t0fNXhzdBqj
+  title: "#124 - A bolsa esta\u0301 barata? A gesta\u0303o de a\xE7\xF5es da XP Asset"
 - author: ArjanCodes
   categories: *id001
   date: '2024-04-02T15:00:21+00:00'
@@ -658,8 +675,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/20032024
   title: "BC - Copom Ata - 261\xAA Reuni\xE3o - 19-20 mar\xE7o, 2024"
 - author: Outliers
-  categories: &id007
-  - Podcasts
+  categories: *id005
   date: '2024-03-25T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Guilherme\
     \ Anversa, gestor de fundos da XPA conversaram com Z\xE9 Luiz Torres e Lucas Cachapuz\
@@ -695,7 +711,7 @@
   path: https://open.spotify.com/episode/28PWgNIe7uocTLa36ZiakL
   title: Otto van Hemert - Seasonality Everywhere
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-03-21T17:00:35+00:00'
@@ -705,7 +721,7 @@
   path: https://www.apricitas.io/p/new-zealands-building-boomand-what
   title: "New Zealand's Building Boom\u2014And What the World Must Learn From It"
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2024-03-21T07:12:37+00:00'
@@ -799,7 +815,7 @@
   title: "BC - Copom Comunicado - 261\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,75% a.a."
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2024-03-14T04:10:14+00:00'
   description: Look past the volatility in the monthly data on wages and prices in
     January and February, and prior trends seem to be holding. The good news is that
@@ -820,7 +836,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
   title: AQR Factor Research Papers Win Prestigious Academic Awards
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2024-03-11T19:23:48+00:00'
   description: Major Public Works Projects and Supply-Chain Nearshoring are Driving
     an Investment Boom in Mexico
@@ -840,22 +856,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/4iGPuOQseAAt4qlCXSbVGj
   title: How PE Secondaries Can Enhance Diversification in Volatile Times
-- author: Outliers
-  categories: *id007
-  date: '2024-03-06T00:00:00+00:00'
-  description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
-    \ Sgavioli, head de aloca\xE7\xE3o da XP conversaram com Marcelo Urbano e Paulo\
-    \ Chi da Augme Capital sobre os ciclos de cr\xE9dito privado e os 5 anos da gestora.-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
-    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
-    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8abc47bcab14247bd28c8b07cc
-  path: https://open.spotify.com/episode/0aIS0b6IflDRG0ys2cREg5
-  title: "#122 - Os ciclos do cr\xE9dito privado com a Augme Capital"
 - author: AQR
   categories: *id008
   date: '2024-03-01T00:00:00'
