@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -36,8 +36,50 @@
   image: https://i1.ytimg.com/vi/TkDg3EHwC1g/hqdefault.jpg
   path: https://www.youtube.com/watch?v=TkDg3EHwC1g
   title: Python 3.12 Generics in a Nutshell
+- author: Market Makers
+  categories: &id004
+  - Podcasts
+  date: '2024-04-02T00:00:00+00:00'
+  description: "17% de queda em apenas dois dias: a Vivara (VIVA3) tornou-se uma cilada\
+    \ na bolsa ou estamos diante de uma grande oportunidade de compra?O Mercado Aberto\
+    \ desta semana vai explicar o que est\xE1 acontecendo com a Vivara, que a fez\
+    \ deixar o posto de uma das empresas queridinhas do mercado e o que esperar daqui\
+    \ pra frente.O QUE VAMOS FALAR NESSE V\xCDDEO:A hist\xF3ria da Vivara, uma empresa\
+    \ de 62 anos e que est\xE1 na bolsa desde 2019 - O que aconteceu com a empresa\
+    \ neste m\xEAs de mar\xE7o de 2024 que fez a a\xE7\xE3o derreter quase 20% na\
+    \ \xFAltima semana do m\xEAs - O que esperar da empresa daqui pra frente\_O que\
+    \ n\xF3s do Market Makers fizemos com elaE no final do v\xEDdeo vamos dizer o\
+    \ que estamos fazendo com a a\xE7\xE3o! Aqui a gente n\xE3o fica em cima do muro\
+    \ n\xE3o, vamos te dizer se temos Vivara na carteira.\_N\xE3o se esque\xE7a de\
+    \ curtir este v\xEDdeo para apoiar nosso canal e alcan\xE7ar mais pessoas interessadas\
+    \ em aprender sobre investimentos.Acompanhe o Market Makers nas redes e inscreva-se\
+    \ na CompoundLetter:\_Instagram: https://www.instagram.com/mmakers.oficial\_Twitter\
+    \ (X): https://twitter.com/mmakersoficial\_TikTok: https://www.tiktok.com/@mmakersoficial\_\
+    Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manadaApresenta\xE7\
+    \xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Edi\xE7\xE3\
+    o e Roteiro: Bianca Barsotti e Gabriel Rosenbaum"
+  image: https://i.scdn.co/image/ab6765630000ba8a6f71fabeb97e7e1308efde68
+  path: https://open.spotify.com/episode/1K6kURFupB4Lh6N8adfo6D
+  title: 'VIVARA (VIVA3): OPORTUNIDADE OU CILADA? | Mercado Aberto'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-02T00:00:00+00:00'
+  description: "Disney's business has been struggling in recent years, and there's\
+    \ a fight over how to fix it. On one side is Nelson Peltz, an activist investor,\
+    \ who is campaigning for a seat on Disney's board of directors. On the other side\
+    \ is CEO Bob Iger, who doesn't want Peltz anywhere near his company. WSJ\u2019\
+    s Robbie Whelan explains who might win and what it could mean for the iconic brand.\
+    \  Further Reading:  -Disney Winning Proxy Fight Against Trian With More Than\
+    \ Half of Votes Cast\_ -Nelson Peltz Wins Key Endorsement in Disney Battle\_ -Nelson\
+    \ Peltz Fights Disney\u2014and Turmoil at His Own Fund\_  Further Listening: \
+    \ -The Troubled Second Act of Disney CEO Bob Iger\_ -Disney Wars: Attack of the\
+    \ Activist Investor\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4eGy2oRWmio3wNt6NqMidU
+  title: "The Battle Over Disney\u2019s Board"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-04-01T15:43:47+00:00'
@@ -46,8 +88,7 @@
   path: https://www.youtube.com/watch?v=CToL2qkCd8g
   title: Studio_Tour_Outtake_DONOTPUBLISH.mp4
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-04-01T00:00:00+00:00'
   description: "Michael O\u2019Leary has been running Ryanair for the past 30 years\
     \ \u2014 the longest tenure of any major airline boss. During that time he has\
@@ -63,7 +104,7 @@
   path: https://open.spotify.com/episode/4Zpai97pj7EM3VKxyRs8Ha
   title: 'Ryanair: Cheap, Cramped and Making Its CEO a Fortune'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-03-30T16:00:20+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -88,7 +129,7 @@
   path: https://www.youtube.com/watch?v=O1MJSy5hMV0
   title: Why Keeping Configuration Separate is Key in Data Science
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-03-29T22:57:31+00:00'
   description: '1 month and 2000 miles into Cybertruck ownership. This thing is insane.
 
@@ -138,18 +179,6 @@
   image: https://i4.ytimg.com/vi/O0cs8aIXgkc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=O0cs8aIXgkc
   title: 'Tesla Cybertruck Review: Already Iconic?'
-- author: The Journal.
-  categories: *id003
-  date: '2024-03-29T00:00:00+00:00'
-  description: "A gang of young criminals. A more than $30 million ransom. Casinos\
-    \ in disarray. WSJ\u2019s Robert McMillan brings us inside a cyberattack that\
-    \ brought mayhem to the Las Vegas Strip.\_  Further Reading:  - The Audacious\
-    \ MGM Hack That Brought Chaos to Las Vegas\_  Further Listening:  - How North\
-    \ Korea\u2019s Hacker Army Stole $3 Billion in Crypto\_ - Hacking the Hackers\_\
-    \_ - Hack Me If You Can\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5D99YwrhBlgUm2x9QS5zPy
-  title: "Six Days of Chaos at MGM\u2019s Casinos"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
@@ -182,8 +211,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/28032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 28/03/2024"
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id004
   date: '2024-03-28T00:00:00+00:00'
   description: "INSCREVA-SE NO MACRO SUMMIT 2024:https://macrosummit.com.br/macro-summit-mmk08-a/?xpromo=XM-MEL-MMK-MMK08-YT-X-20240321-EP90-X\
     \ No epis\xF3dio 90 do Market Makers, mergulhamos no mundo dos dividendos e nada\
@@ -239,25 +267,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31625160ddb282e12cf71f98
   path: https://open.spotify.com/episode/4T69SbuvKck13pV76ambBV
   title: Smart Things Smart People Have Said
-- author: Market Makers
-  categories: *id004
-  date: '2024-03-27T00:00:00+00:00'
-  description: "CORTE EP #89: Nada melhor do que seguir os conselhos dos que tiveram\
-    \ sucesso investindo em a\xE7\xF5es. E \xE9 exatamente isso que Frederico Vontobel\
-    \ faz.Assista esse v\xEDdeo e descubra os princ\xEDpios e estrat\xE9gias que os\
-    \ maiores investidores do mundo utilizam na hora de analisar a\xE7\xF5es.\U0001F3A7\
-    \ OU\xC7A O EPIS\xD3DIO COMPLETO- Spotify: https://open.spotify.com/episode/5rsAmsDCuMEi4A2ALBPwUq?si=7yNNMz32T2Kldij8Zq86jQ-\
-    \ Apple Podcast: https://podcasts.apple.com/br/podcast/89-como-pensam-os-maiores-investidores-de-ac-o-es-do-mundo/id1632972179?i=1000650049387\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\_https://youtu.be/m9cQgd3KNlo\_- - -\
-    \ - - - - -ANALISANDO A\xC7\xD5ES COMO OS MAIORES INVESTIDORES DE TODOS OS TEMPOS\
-    \ | Market Makers #89COMO PENSAM OS MAIORES INVESTIDORES DE AC\u0327O\u0303ES\
-    \ DO MUNDO | Market Makers #89Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)\
-    \ e Matheus Soares (@maatssoares)Convidado: Frederico Vontobel, diretor de gest\xE3\
-    o da Vokin InvestimentosEdi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8aa781ea45759421b7b52c6959
-  path: https://open.spotify.com/episode/1qk8vuR2qvtREoaUCKafcq
-  title: "ANALISANDO A\xC7\xD5ES COMO OS MAIORES INVESTIDORES DE TODOS OS TEMPOS |\
-    \ Corte Ep #89"
 - author: Atas do Copom
   categories:
   - Bacen
