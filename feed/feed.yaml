@@ -1,3 +1,41 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-04-05T15:00:00+00:00'
+  description: "Ever heard of SQLAlchemy and thought it sounded like a medieval potion?\
+    \ Well, it's not! \U0001F9D9\u200D\u2642\uFE0F\U0001F52E SQLAlchemy combines the\
+    \ robustness of SQL with Python's flexibility, making database management not\
+    \ just easier, but kinda fun too! In this video, I\u2019ll take a closer look\
+    \ at this awesome tool.\n\nTry out Oso for free here: https://oso.1stcollab.com/arjancodes_3\n\
+    \ \n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/sqlalchemy\n\n\U0001F4BB\
+    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
+    \ quiz on this topic: https://www.learntail.com/quiz/zewcrd\n\nTry Learntail for\
+    \ FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
+    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
+    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
+    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:30 Functional Approach\n5:04 Object-Oriented\
+    \ Approach\n8:35 Relationships\n10:26 Oso\n12:18 Relationships part 2\n16:02 Outro\n\
+    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
+    \ might be affiliate links. If you purchase a product or service through one of\
+    \ those links, I may receive a small commission. There is no additional charge\
+    \ to you. Thanks for supporting my channel so I can continue to provide you with\
+    \ free content each week!"
+  image: https://i2.ytimg.com/vi/aAy-B6KPld8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=aAy-B6KPld8
+  title: 'SQLAlchemy: The BEST SQL Database Library in Python'
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -26,7 +64,7 @@
   path: https://open.spotify.com/episode/5lA3TrHiDujDnV5gHgRaKr
   title: '#91 | ECONOMIA GLOBAL: As maiores OPORTUNIDADES e DESAFIOS para o futuro'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-04-04T00:00:00+00:00'
   description: "In January, a door panel blew off a Boeing 737 MAX plane during an\
@@ -77,10 +115,7 @@
   path: https://www.apricitas.io/p/the-multifamily-supply-surgeand-credit
   title: "The Multifamily Supply Surge\u2014and Credit Crunch"
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-04-03T15:00:30+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -105,7 +140,7 @@
   path: https://www.youtube.com/watch?v=MFumqNz24ok
   title: "\U0001F9EA The Importance of Unit Testing in Data Science"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-04-03T00:00:00+00:00'
   description: "Amid an increasingly dire humanitarian crisis in Gaza, seven aid workers\
     \ from World Central Kitchen were killed by an Israeli airstrike. WSJ\u2019s Stephen\
@@ -136,41 +171,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a31a146841b5ac6200dca37e2
   path: https://open.spotify.com/episode/4VNsiVvmWW5t0fNXhzdBqj
   title: "#124 - A bolsa esta\u0301 barata? A gesta\u0303o de a\xE7\xF5es da XP Asset"
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-04-02T15:00:21+00:00'
-  description: "Generics in Python 3.12 can transform your code by allowing classes\
-    \ to be used with different data types, enhancing flexibility, and catching bugs\
-    \ early. In this video, I'll dive into generic classes and subclasses and show\
-    \ you how they can streamline your development process.\n\n\U0001F477 Join the\
-    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
-    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2024/tuesday_tips/generics\n\n\U0001F4BB\
-    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
-    \ quiz on this topic: https://www.learntail.com/quiz/zmbpcx\n\nTry Learntail for\
-    \ FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe Software\
-    \ Designer Mindset: https://www.arjancodes.com/mindset\nThe Software Architect\
-    \ Mindset: Pre-register now! https://www.arjancodes.com/architect\nNext Level\
-    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\nChapters:\n1:09 Generic classes\n3:25 Subclassing\
-    \ Generic Classes\n5:34 Conclusion\n5:54 Outro\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/TkDg3EHwC1g/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=TkDg3EHwC1g
-  title: Python 3.12 Generics in a Nutshell
 - author: Market Makers
   categories: *id003
   date: '2024-04-02T00:00:00+00:00'
