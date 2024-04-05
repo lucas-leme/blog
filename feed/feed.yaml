@@ -1,3 +1,48 @@
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-04-04T00:00:00+00:00'
+  description: "INSCREVA-SE NO MACRO SUMMIT 2024:https://macrosummit.com.br/macro-summit-mmk08-a/?xpromo=XM-MEL-MMK-MMK08-YT-X-20240321-EP90-X\_\
+    No epis\xF3dio 91 do Market Makers, recebemos Ettore Marchetti (CEO da EQI Asset)\
+    \ para discutir o futuro da economia global e do mercado brasileiro em 2024. Formado\
+    \ em Engenharia de Produ\xE7\xE3o pela Escola Polit\xE9cnica da USP, ele tem mestrado\
+    \ em Economia pelo Insper e assumiu o desafio de comandar a EQI Asset, a gestora\
+    \ da EQI Investimentos, desde o final de 2020.Com vasta experi\xEAncia no mercado\
+    \ financeiro, sendo 11 deles no Credit Suisse Hedging Griffo, onde foi s\xF3cio\
+    \ e respons\xE1vel pela estrat\xE9gia de juros e moedas do Fundo Verde (isso apenas\
+    \ com 25 anos de idade), Ettore forneceu insights sobre as principais economias\
+    \ do mundo (China, Europa e Estados Unidos) e como a EQI Asset est\xE1 posicionada\
+    \ para enfrentar os desafios e aproveitar as oportunidades que surgir\xE3o ao\
+    \ longo de 2024. Ele tamb\xE9m falou sobre os poss\xEDveis impactos das elei\xE7\
+    \xF5es nos EUA e no mundo.\_Ettore tamb\xE9m comentou sobre o mercado brasileiro\
+    \ e como enxerga a mudan\xE7a do comando do Banco Central, al\xE9m de avaliar\
+    \ o trabalho de Roberto Campos Neto. Por fim, Ettore falou sobre os planos para\
+    \ o futuro da EQI e tamb\xE9m sobre a ind\xFAstria de fundos no Brasil. Descubra\
+    \ as maiores oportunidades e desafios na economia global em 2024.N\xE3o se esque\xE7\
+    a de deixar o seu like no v\xEDdeo e inscreva-se no canal do Market Makers!Apresenta\xE7\
+    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
+    \ Ettore Marchetti, CEO da EQI AssetEdi\xE7\xE3o: Bianca Barsotti"
+  image: https://i.scdn.co/image/ab6765630000ba8a13423acd99c0775d3b6b7228
+  path: https://open.spotify.com/episode/5lA3TrHiDujDnV5gHgRaKr
+  title: '#91 | ECONOMIA GLOBAL: As maiores OPORTUNIDADES e DESAFIOS para o futuro'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-04T00:00:00+00:00'
+  description: "In January, a door panel blew off a Boeing 737 MAX plane during an\
+    \ Alaska Airlines flight. Informal communication logs between workers at the Boeing\
+    \ plant where the plane was assembled reveal disarray, repeated production delays\
+    \ and crews who apparently didn\u2019t follow procedures. WSJ's Sharon Terlep\
+    \ reviewed the logs and explains what they reveal.  Further Reading: - The Disarray\
+    \ Inside Boeing\u2019s 737 Factory Before the Door Plug Blowout\_ - Boeing\u2019\
+    s Next CEO Will Have \u2018Massive Job\u2019 at Company in Crisis\_ - Justice\
+    \ Department Opens Probe, Interviews Crew in Alaska Airlines Blowout\_  Further\
+    \ Listening: - A Hole in a Plane and a Headache for Boeing\_ - The Pressure Inside\
+    \ Boeing\_ - How the Grounded Boeing Jet Shook the Airline Industry\_   Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3ZtbAPO47KAHsEogtNZrQ5
+  title: The Failures Inside Boeing's 737 Factory
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -32,7 +77,7 @@
   path: https://www.apricitas.io/p/the-multifamily-supply-surgeand-credit
   title: "The Multifamily Supply Surge\u2014and Credit Crunch"
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -60,8 +105,7 @@
   path: https://www.youtube.com/watch?v=MFumqNz24ok
   title: The Importance of Unit Testing in Data Science
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-04-03T00:00:00+00:00'
   description: "Amid an increasingly dire humanitarian crisis in Gaza, seven aid workers\
     \ from World Central Kitchen were killed by an Israeli airstrike. WSJ\u2019s Stephen\
@@ -93,7 +137,7 @@
   path: https://open.spotify.com/episode/4VNsiVvmWW5t0fNXhzdBqj
   title: "#124 - A bolsa esta\u0301 barata? A gesta\u0303o de a\xE7\xF5es da XP Asset"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-02T15:00:21+00:00'
   description: "Generics in Python 3.12 can transform your code by allowing classes\
     \ to be used with different data types, enhancing flexibility, and catching bugs\
@@ -128,8 +172,7 @@
   path: https://www.youtube.com/watch?v=TkDg3EHwC1g
   title: Python 3.12 Generics in a Nutshell
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-04-02T00:00:00+00:00'
   description: "17% de queda em apenas dois dias: a Vivara (VIVA3) tornou-se uma cilada\
     \ na bolsa ou estamos diante de uma grande oportunidade de compra?O Mercado Aberto\
@@ -152,24 +195,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6f71fabeb97e7e1308efde68
   path: https://open.spotify.com/episode/1K6kURFupB4Lh6N8adfo6D
   title: 'VIVARA (VIVA3): OPORTUNIDADE OU CILADA? | Mercado Aberto'
-- author: The Journal.
-  categories: *id002
-  date: '2024-04-02T00:00:00+00:00'
-  description: "Disney's business has been struggling in recent years, and there's\
-    \ a fight over how to fix it. On one side is Nelson Peltz, an activist investor,\
-    \ who is campaigning for a seat on Disney's board of directors. On the other side\
-    \ is CEO Bob Iger, who doesn't want Peltz anywhere near his company. WSJ\u2019\
-    s Robbie Whelan explains who might win and what it could mean for the iconic brand.\
-    \  Further Reading:  -Disney Winning Proxy Fight Against Trian With More Than\
-    \ Half of Votes Cast\_ -Nelson Peltz Wins Key Endorsement in Disney Battle\_ -Nelson\
-    \ Peltz Fights Disney\u2014and Turmoil at His Own Fund\_  Further Listening: \
-    \ -The Troubled Second Act of Disney CEO Bob Iger\_ -Disney Wars: Attack of the\
-    \ Activist Investor\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4eGy2oRWmio3wNt6NqMidU
-  title: "The Battle Over Disney\u2019s Board"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-04-01T15:43:47+00:00'
@@ -178,7 +205,7 @@
   path: https://www.youtube.com/watch?v=CToL2qkCd8g
   title: Studio_Tour_Outtake_DONOTPUBLISH.mp4
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-03-29T22:57:31+00:00'
   description: '1 month and 2000 miles into Cybertruck ownership. This thing is insane.
 
@@ -259,36 +286,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/28032024
   title: "BC - Focus - Relat\xF3rio de Mercado - 28/03/2024"
-- author: Market Makers
-  categories: *id004
-  date: '2024-03-28T00:00:00+00:00'
-  description: "INSCREVA-SE NO MACRO SUMMIT 2024:https://macrosummit.com.br/macro-summit-mmk08-a/?xpromo=XM-MEL-MMK-MMK08-YT-X-20240321-EP90-X\
-    \ No epis\xF3dio 90 do Market Makers, mergulhamos no mundo dos dividendos e nada\
-    \ mais justo do que trazer 2 convidados que foram influenciados pelo maior ganhador\
-    \ de dividendos da bolsa brasileira, Luiz Barsi Filho. Convidamos Louise Barsi,\
-    \ s\xF3cia fundadora do AGF e filha de Luiz Barsi, e Felipe Ruiz, tamb\xE9m s\xF3\
-    cio fundador do AGF para explorar a estrat\xE9gia por tr\xE1s do sucesso deste\
-    \ \xEDcone dos investimentos em a\xE7\xF5es e o seu impressionante legado como\
-    \ o maior ganhador de dividendos da bolsa brasileira.Desde os primeiros passos\
-    \ at\xE9 as estrat\xE9gias avan\xE7adas, descubra os segredos por tr\xE1s de suas\
-    \ decis\xF5es de investimento e como ele se tornou uma inspira\xE7\xE3o para a\
-    \ cria\xE7\xE3o do AGF (A\xE7\xF5es Garantem o Futuro). Louise compartilhou insights\
-    \ valiosos sobre como seu pai construiu sua fortuna atrav\xE9s de uma abordagem\
-    \ s\xF3lida e consistente no mercado de a\xE7\xF5es. Al\xE9m disso, abordamos\
-    \ a import\xE2ncia dos dividendos como fonte de renda passiva e como essa estrat\xE9\
-    gia pode ser aplicada por investidores de todos os n\xEDveis.Com exemplos concretos\
-    \ e conselhos pr\xE1ticos, este epis\xF3dio \xE9 uma fonte de inspira\xE7\xE3\
-    o para aqueles que buscam construir riqueza de forma inteligente e sustent\xE1\
-    vel ao longo do tempo. Por fim, discutimos algumas a\xE7\xF5es que s\xE3o apostas\
-    \ da AGF para constru\xE7\xE3o de um portf\xF3lio focado em distribui\xE7\xE3\
-    o de dividendos. N\xE3o se esque\xE7a de deixar seu like e se ainda n\xE3o acompanha\
-    \ o Market Makers, inscreva-se no canal!Apresenta\xE7\xE3o: Thiago Salom\xE3o\
-    \ (@_salomoney) e Matheus Soares (@maatssoares)Convidados: Louise Barsi, s\xF3\
-    cia fundadora do A\xE7\xF5es Garantem o Futuro (AGF) e Felipe Ruiz, s\xF3cio fundador\
-    \ do A\xE7\xF5es Garantem o Futuro.Edi\xE7\xE3o: Bianca Barsotti"
-  image: https://i.scdn.co/image/ab6765630000ba8ab97b14a676f86361936bbc44
-  path: https://open.spotify.com/episode/1CF7IFmjam0yXYZGWRDFyf
-  title: '#90 | O JEITO DE INVESTIR DO MAIOR GANHADOR DE DIVIDENDOS DA BOLSA BRASILEIRA'
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
