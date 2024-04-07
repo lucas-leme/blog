@@ -1,3 +1,18 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-04-07T15:45:40+00:00'
+  description: "The US sued Apple for the iPhone being a monopoly... is the walled\
+    \ garden illegal?\n\nGet a hydro dip dbrand skin at https://dbrand.com/shop/hydrodip\n\
+    \nBlue Bubbles vs Green Bubbles: https://youtu.be/BuaKzm7Kq9Q?si=sQkIvirLxFabr-02\n\
+    \nThe 88-page pdf: \nhttps://www.justice.gov/opa/media/1344546/dl?inline\n\nMKBHD\
+    \ Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nIntro Track: Logic\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n\
+    ~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i2.ytimg.com/vi/qcH2wgRLiV8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=qcH2wgRLiV8
+  title: Is the iPhone "Illegal?"
 - author: Market Makers
   categories: &id002
   - Podcasts
@@ -210,65 +225,12 @@
   path: https://open.spotify.com/episode/4VNsiVvmWW5t0fNXhzdBqj
   title: "#124 - A bolsa esta\u0301 barata? A gesta\u0303o de a\xE7\xF5es da XP Asset"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-04-01T15:43:47+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/CToL2qkCd8g/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CToL2qkCd8g
   title: Studio_Tour_Outtake_DONOTPUBLISH.mp4
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-03-29T22:57:31+00:00'
-  description: '1 month and 2000 miles into Cybertruck ownership. This thing is insane.
-
-
-    Shoutout to Ridge: http://ridge.com/MKBHD
-
-
-    For more car videos: http://youtube.com/AutoFocus
-
-
-    Engineering Explained: https://youtu.be/HRYS5VWXZts?feature=shared
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    0:00 Intro
-
-    1:00 Is It Actually Ugly?
-
-    3:46 This Crazy Steering
-
-    6:20 Bulletproof stainless steel
-
-    10:03 Truck stuff
-
-    13:22 Performance... World Record?
-
-    19:40 It''s still a Tesla
-
-    23:35 So is it... Iconic?
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/O0cs8aIXgkc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=O0cs8aIXgkc
-  title: 'Tesla Cybertruck Review: Already Iconic?'
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
@@ -837,29 +799,3 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9fc205b-4f04-4024-95f7-a5afdf07e74e_5000x2625.png
   path: https://theovershoot.co/p/parsing-the-2024-inflation-rebound
   title: Parsing the 2024 Inflation Rebound
-- author: AQR
-  categories: &id008
-  - Quant
-  - Papers
-  date: '2024-03-12T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        March\
-    \ 12, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
-  title: AQR Factor Research Papers Win Prestigious Academic Awards
-- author: AQR
-  categories: *id008
-  date: '2024-03-01T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        March\
-    \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <span class=\"article__author--nolink\">Marc Eskildsen</span>\n\
-    \                <span class=\"article__author--nolink\">Markus Ibert</span>\n\
-    \                <span class=\"article__author--nolink\">Theis Ingerslev Jensen</span>\n\
-    \                <a class=\"cta cta--dark \">Lasse H. Pedersen</a>\n</span>\n\
-    \                    </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
-    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Working-Paper/In-Search-of-the-True-Greenium
-  title: In Search of the True Greenium
