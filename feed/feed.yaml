@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -37,7 +37,7 @@
   path: https://www.youtube.com/watch?v=SmntWT1LPNw
   title: Why the Rust Ownership Model is the GOAT
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-04-12T00:00:00+00:00'
   description: "Acompanhou o Macro Summit? Inscreva-se para assistir todos os pain\xE9\
@@ -52,8 +52,23 @@
   title: '#92 | Luis Stuhlberger e Daniel Goldberg: Mercados, economia e sociedade
     Verde & Lumina'
 - author: The Journal.
-  categories: &id003
+  categories: &id001
   - Podcasts
+  date: '2024-04-12T00:00:00+00:00'
+  description: "Caitlin Clark has lifted women\u2019s college basketball to new heights,\
+    \ setting records on and off the court. Now the Iowa superstar is going pro and\
+    \ joining the WNBA. WSJ\u2019s Rachel Bachman on what Caitlin Clark\u2019s huge\
+    \ popularity might mean for the sometimes-struggling women\u2019s league.\_  Further\
+    \ Reading:  - Caitlin Clark Drew 18.7 Million Viewers to Women\u2019s Basketball.\
+    \ Will It Last?\_ - Before Caitlin Clark Dominated Women\u2019s Basketball, She\
+    \ Dominated These Boys\_  Further Listening:  - The TikTok That Changed College\
+    \ Hoops\_ - The Kiss Rocking Women\u2019s Soccer\_   Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/12JCiSWvWT1OE0zATRfsFA
+  title: Can the WNBA Cash in on the Caitlin Clark Effect?
+- author: The Journal.
+  categories: *id001
   date: '2024-04-11T00:00:00+00:00'
   description: "Providing child care for employees may not seem like a savvy business\
     \ choice, but some companies swear by it. WSJ\u2019s Harriet Torry explores the\
@@ -102,7 +117,7 @@
   path: https://open.spotify.com/episode/1vFq4ORQFZiA45x0OQ1tSK
   title: Lucky vs. Repeatable
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-10T15:00:04+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -127,7 +142,7 @@
   path: https://www.youtube.com/watch?v=5JMgBgdoCrY
   title: 'The Art of Functional Programming: Simplifying Python Code'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-04-10T00:00:00+00:00'
   description: "CORTE EP #91: Ettore Marchetti fala sobre os desafios e oportunidades\
     \ do futuro da economia global em 2024. Ele aborda temas como a China, Europa\
@@ -142,20 +157,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a90c59dab9cb54a4aa2a8223e
   path: https://open.spotify.com/episode/0Rx5CbI1IulX3HkbngEWmz
   title: 'O que esperar para o futuro da economia global em 2024 | Corte Ep #91'
-- author: The Journal.
-  categories: *id003
-  date: '2024-04-10T00:00:00+00:00'
-  description: "This week, the Arizona Supreme Court revived an abortion ban enacted\
-    \ in 1864, decades before the state's formation. WSJ's Laura Kusisto explains\
-    \ how the 160-year-old law could impact the 2024 election.  Further Listening:\
-    \ -The Abortion Pill\u2019s Uncertain Future\_ -Kansas\u2019 Big Abortion Vote\_\
-    \ -The Supreme Court Overturns Roe v. Wade\_  Further Reading: -Arizona Supreme\
-    \ Court Bans Nearly All Abortions, Reviving 160-Year-Old Law\_ -Why Arizona Will\
-    \ Be Ground Zero for the 2024 Abortion Fight\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2Kva17PrWWaBT6jaIHEVqw
-  title: What Arizona's Abortion Ban Means for the 2024 Election
 - author: AQR
   categories: &id008
   - Quant
