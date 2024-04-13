@@ -1,8 +1,33 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-04-12T22:00:08+00:00'
+  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
+    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i2.ytimg.com/vi/E6ogsQV2_90/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=E6ogsQV2_90
+  title: The Power of Immutability in Python Functional Programming
+- author: ArjanCodes
+  categories: *id001
   date: '2024-04-12T15:00:32+00:00'
   description: "In this video, I\u2019ll take a closer look at how Rust manages memory\
     \ with an ownership model, which is quite unique and really powerful. Stay tuned\
@@ -52,7 +77,7 @@
   title: '#92 | Luis Stuhlberger e Daniel Goldberg: Mercados, economia e sociedade
     Verde & Lumina'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-04-12T00:00:00+00:00'
   description: "Caitlin Clark has lifted women\u2019s college basketball to new heights,\
@@ -68,7 +93,7 @@
   path: https://open.spotify.com/episode/12JCiSWvWT1OE0zATRfsFA
   title: Can the WNBA Cash in on the Caitlin Clark Effect?
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-04-11T00:00:00+00:00'
   description: "Providing child care for employees may not seem like a savvy business\
     \ choice, but some companies swear by it. WSJ\u2019s Harriet Torry explores the\
@@ -116,31 +141,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/1vFq4ORQFZiA45x0OQ1tSK
   title: Lucky vs. Repeatable
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-04-10T15:00:04+00:00'
-  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
-    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
-    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
-    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
-    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i2.ytimg.com/vi/5JMgBgdoCrY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=5JMgBgdoCrY
-  title: 'The Art of Functional Programming: Simplifying Python Code'
 - author: Market Makers
   categories: *id003
   date: '2024-04-10T00:00:00+00:00'
