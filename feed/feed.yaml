@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -36,8 +36,23 @@
   path: https://www.youtube.com/watch?v=7MHDDOrDx-w
   title: This Is How You Do PROPER Exception Handling With FastAPI
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-04-16T00:00:00+00:00'
+  description: "Cities such as San Francisco and Chicago are trying to save their\
+    \ downtown office districts from spiraling into a doom loop. St. Louis is already\
+    \ trapped in one, with abandoned buildings, vacant offices and shuttered shops\
+    \ and restaurants. WSJ\u2019s Konrad Putzier unpacks the lessons from downtown\
+    \ St. Louis\u2019s doom loop.  Further Reading:  -The Real Estate Nightmare Unfolding\
+    \ in Downtown St. Louis\_ -Commercial Real-Estate Woes Run Deeper Than in Past\
+    \ Downturns\_ -Can San Francisco Save Itself From the Doom Loop?\_  Further Listening:\
+    \ -The Downfall of a Real Estate Empire\_ -What\u2019s Keeping Zombie Malls Alive?\_\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3mIn25zBLKwSTS0iyZk5hN
+  title: "Many Cities Fear the \u2018Doom Loop.\u2019 St. Louis is in One."
+- author: The Journal.
+  categories: *id001
   date: '2024-04-15T00:00:00+00:00'
   description: "SpaceX\u2019s satellite-internet devices are ending up in the hands\
     \ of American adversaries and accused war criminals. WSJ\u2019s Thomas Grove and\
@@ -105,7 +120,7 @@
   path: https://www.apricitas.io/p/california-is-losing-tech-jobs
   title: California is Losing Tech Jobs
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-12T22:00:08+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -158,21 +173,6 @@
   path: https://open.spotify.com/episode/251EB3bQfyZwupeWiOCad4
   title: '#92 | Luis Stuhlberger e Daniel Goldberg: Mercados, economia e sociedade
     Verde & Lumina'
-- author: The Journal.
-  categories: *id002
-  date: '2024-04-12T00:00:00+00:00'
-  description: "Caitlin Clark has lifted women\u2019s college basketball to new heights,\
-    \ setting records on and off the court. Now the Iowa superstar is going pro and\
-    \ joining the WNBA. WSJ\u2019s Rachel Bachman on what Caitlin Clark\u2019s huge\
-    \ popularity might mean for the sometimes-struggling women\u2019s league.\_  Further\
-    \ Reading:  - Caitlin Clark Drew 18.7 Million Viewers to Women\u2019s Basketball.\
-    \ Will It Last?\_ - Before Caitlin Clark Dominated Women\u2019s Basketball, She\
-    \ Dominated These Boys\_  Further Listening:  - The TikTok That Changed College\
-    \ Hoops\_ - The Kiss Rocking Women\u2019s Soccer\_   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/12JCiSWvWT1OE0zATRfsFA
-  title: Can the WNBA Cash in on the Caitlin Clark Effect?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
