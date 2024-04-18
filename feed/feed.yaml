@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-18T00:00:00+00:00'
+  description: "It\u2019s not just the cost of buying a home that\u2019s going up.\
+    \ It\u2019s also the hidden costs \u2014 like taxes, maintenance and insurance\
+    \ \u2014 that are going through the roof. WSJ\u2019s Nicole Friedman explains\
+    \ why these prices are rising so fast, and what it means for the housing market.\
+    \  Further Listening: -'It's on Fire': Why the Housing Market Is Booming\_  Further\
+    \ Reading: -The Hidden Costs of Homeownership Are Skyrocketing\_ -Home Buyers\
+    \ Are Ready to Buy. But Sellers Aren\u2019t Selling.\_  Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4RynW56XFVQNeNAmbF59IN
+  title: "Think It\u2019s Expensive to Buy a Home? Try Owning One."
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -21,7 +36,7 @@
   path: https://open.spotify.com/episode/0GaBURQjGRk4S4m7b5vnFS
   title: 'Money Talks: Why weight-loss drugs will reshape the world'
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-04-17T15:11:47+00:00'
@@ -30,7 +45,7 @@
   path: https://www.youtube.com/watch?v=EaRWEEXMXEA
   title: "NEW Boston Dynamics Robot \U0001FAE3"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -58,7 +73,7 @@
   path: https://www.youtube.com/watch?v=RC6mV2fhuDI
   title: Harnessing Pure Functions for Reliable Python Code
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-04-17T00:00:00+00:00'
   description: "CORTE EP #92: Luis Stuhlberger e Daniel Goldberg divergem ao falar\
@@ -74,8 +89,7 @@
   path: https://open.spotify.com/episode/4rZ510ZJ5fvqANmvhET6Q7
   title: 'O INVESTIDOR GRINGO DESISTIU DO BRASIL? | Corte Ep #92'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-04-17T00:00:00+00:00'
   description: "Yesterday, Federal Reserve Chair Jerome Powell called into question\
     \ whether the Fed will be able to lower interest rates this year as hoped. WSJ\u2019\
@@ -100,7 +114,7 @@
   title: Inflation Is Not "Reaccelerating", But It Isn't Obviously Heading Back to
     2%, Either
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-04-16T23:34:43+00:00'
   description: 'Let''s talk about reviews
 
@@ -125,7 +139,7 @@
   path: https://www.youtube.com/watch?v=QztFpzKsdeA
   title: Do Bad Reviews Kill Companies?
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-04-16T15:00:05+00:00'
   description: "Getting a cryptic error message while using a website? Well, this\
     \ is probably because custom errors were not implemented. In this video, I\u2019\
@@ -159,7 +173,7 @@
   path: https://www.youtube.com/watch?v=7MHDDOrDx-w
   title: This Is How You Do PROPER Exception Handling With FastAPI
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-04-16T00:00:00+00:00'
   description: "H\xE1 uma guerra na Petrobras (PETR4) e nessa batalha os acionistas\
     \ minorit\xE1rios podem ser os maiores perdedores. No Mercado Aberto de hoje,\
@@ -182,21 +196,6 @@
   path: https://open.spotify.com/episode/6aFtFbXBQaS9jwrYsWVNqj
   title: "GUERRA NA PETROBRAS (PETR4): POR QUE N\xC3O INVESTIMOS NA MAIOR ESTATAL\
     \ BRASILEIRA | Mercado Aberto"
-- author: The Journal.
-  categories: *id004
-  date: '2024-04-16T00:00:00+00:00'
-  description: "Cities such as San Francisco and Chicago are trying to save their\
-    \ downtown office districts from spiraling into a doom loop. St. Louis is already\
-    \ trapped in one, with abandoned buildings, vacant offices and shuttered shops\
-    \ and restaurants. WSJ\u2019s Konrad Putzier unpacks the lessons from downtown\
-    \ St. Louis\u2019s doom loop.  Further Reading:  -The Real Estate Nightmare Unfolding\
-    \ in Downtown St. Louis\_ -Commercial Real-Estate Woes Run Deeper Than in Past\
-    \ Downturns\_ -Can San Francisco Save Itself From the Doom Loop?\_  Further Listening:\
-    \ -The Downfall of a Real Estate Empire\_ -What\u2019s Keeping Zombie Malls Alive?\_\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3mIn25zBLKwSTS0iyZk5hN
-  title: "Many Cities Fear the \u2018Doom Loop.\u2019 St. Louis is in One."
 - author: Apricitas Economics
   categories: &id006
   - Macro
