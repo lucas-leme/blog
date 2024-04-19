@@ -1,5 +1,15 @@
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-04-19T20:21:02+00:00'
+  description: Don't say I didn't warn you about early VIN cybertruck manufacturing
+    issues
+  image: https://i1.ytimg.com/vi/lczKh7EdcAA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=lczKh7EdcAA
+  title: Tesla Cybertruck Recall (PSA)
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -38,7 +48,7 @@
   path: https://www.youtube.com/watch?v=6xncb3aTrXk
   title: 5 Tips for Building Powerful Data Dashboards in Python
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-04-18T00:00:00+00:00'
   description: "No epis\xF3dio 93 do Market Makers recebemos Guilherme Motta, que\
@@ -66,7 +76,7 @@
   path: https://open.spotify.com/episode/3OlIdBmc44YpmaigwmJZqJ
   title: '#93 | A VERDADE SOBRE A BOLSA DE VALORES BRASILEIRA'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-04-18T00:00:00+00:00'
   description: "It\u2019s not just the cost of buying a home that\u2019s going up.\
@@ -104,16 +114,14 @@
   path: https://open.spotify.com/episode/0GaBURQjGRk4S4m7b5vnFS
   title: 'Money Talks: Why weight-loss drugs will reshape the world'
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-04-17T15:11:47+00:00'
   description: Couldn't get up normal...
   image: https://i2.ytimg.com/vi/EaRWEEXMXEA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EaRWEEXMXEA
   title: "NEW Boston Dynamics Robot \U0001FAE3"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-17T15:00:31+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -138,7 +146,7 @@
   path: https://www.youtube.com/watch?v=RC6mV2fhuDI
   title: Harnessing Pure Functions for Reliable Python Code
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-04-17T00:00:00+00:00'
   description: "CORTE EP #92: Luis Stuhlberger e Daniel Goldberg divergem ao falar\
     \ sobre motivos por tr\xE1s da sa\xEDda do investidor estrangeiro do Brasil.\U0001F3A7\
@@ -153,7 +161,7 @@
   path: https://open.spotify.com/episode/4rZ510ZJ5fvqANmvhET6Q7
   title: 'O INVESTIDOR GRINGO DESISTIU DO BRASIL? | Corte Ep #92'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-04-17T00:00:00+00:00'
   description: "Yesterday, Federal Reserve Chair Jerome Powell called into question\
     \ whether the Fed will be able to lower interest rates this year as hoped. WSJ\u2019\
@@ -177,31 +185,6 @@
   path: https://theovershoot.co/p/inflation-is-not-reaccelerating-but
   title: Inflation Is Not "Reaccelerating", But It Isn't Obviously Heading Back to
     2%, Either
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-04-16T23:34:43+00:00'
-  description: 'Let''s talk about reviews
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/QztFpzKsdeA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=QztFpzKsdeA
-  title: Do Bad Reviews Kill Companies?
 - author: Apricitas Economics
   categories: &id006
   - Macro
