@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-04-19T20:21:02+00:00'
@@ -9,7 +9,7 @@
   path: https://www.youtube.com/watch?v=lczKh7EdcAA
   title: Tesla Cybertruck Recall (PSA)
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -47,8 +47,23 @@
   image: https://i3.ytimg.com/vi/6xncb3aTrXk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6xncb3aTrXk
   title: 5 Tips for Building Powerful Data Dashboards in Python
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-19T00:00:00+00:00'
+  description: "Reports of freight fraud are on the rise, vexing trucking companies\
+    \ and regulators. And victims say that they aren\u2019t getting any real help\
+    \ from law enforcement. WSJ\u2019s Inti Pacheco unpacks one form of this fraud,\
+    \ called double brokering, and a trucking executive explains his personal efforts\
+    \ to stop the scammers.  Further Reading: - A Brazen Yogurt Heist Shows How Cyber\
+    \ Gangs Are Hijacking U.S. Goods\_ - Growing Freight Fraud is Peeling Millions\
+    \ From the U.S. Shipping Market\_  Further Listening: - Nike\u2019s Sneaky Sneaker\
+    \ Thieves\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/55HQ7cUucp5FzoglN6Mpv0
+  title: How Cyber Thieves Are Disrupting U.S. Goods
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-04-18T00:00:00+00:00'
   description: "No epis\xF3dio 93 do Market Makers recebemos Guilherme Motta, que\
@@ -76,8 +91,7 @@
   path: https://open.spotify.com/episode/3OlIdBmc44YpmaigwmJZqJ
   title: '#93 | A VERDADE SOBRE A BOLSA DE VALORES BRASILEIRA'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-04-18T00:00:00+00:00'
   description: "It\u2019s not just the cost of buying a home that\u2019s going up.\
     \ It\u2019s also the hidden costs \u2014 like taxes, maintenance and insurance\
@@ -114,14 +128,14 @@
   path: https://open.spotify.com/episode/0GaBURQjGRk4S4m7b5vnFS
   title: 'Money Talks: Why weight-loss drugs will reshape the world'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-04-17T15:11:47+00:00'
   description: Couldn't get up normal...
   image: https://i2.ytimg.com/vi/EaRWEEXMXEA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EaRWEEXMXEA
   title: "NEW Boston Dynamics Robot \U0001FAE3"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-04-17T15:00:31+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -146,7 +160,7 @@
   path: https://www.youtube.com/watch?v=RC6mV2fhuDI
   title: Harnessing Pure Functions for Reliable Python Code
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-04-17T00:00:00+00:00'
   description: "CORTE EP #92: Luis Stuhlberger e Daniel Goldberg divergem ao falar\
     \ sobre motivos por tr\xE1s da sa\xEDda do investidor estrangeiro do Brasil.\U0001F3A7\
@@ -160,19 +174,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5642b24199346c68899d9a73
   path: https://open.spotify.com/episode/4rZ510ZJ5fvqANmvhET6Q7
   title: 'O INVESTIDOR GRINGO DESISTIU DO BRASIL? | Corte Ep #92'
-- author: The Journal.
-  categories: *id004
-  date: '2024-04-17T00:00:00+00:00'
-  description: "Yesterday, Federal Reserve Chair Jerome Powell called into question\
-    \ whether the Fed will be able to lower interest rates this year as hoped. WSJ\u2019\
-    s Nick Timiraos on how the Fed\u2019s outlook on the economy has changed.\_  Further\
-    \ Reading:  - Powell Dials Back Expectations on Rate Cuts\_ - Fed Rate Cuts Are\
-    \ Now a Matter of If, Not Just When\_  Further Listening:  - Janet Yellen on Inflation\
-    \ and the U.S. Economy\_ - Inflation Is Down. Unemployment Is Low. Is This a Soft\
-    \ Landing?\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6yF41HCyaCJiZlUxadwC9M
-  title: Why the Fed Is Steering Away From Rate Cuts
 - author: The Overshoot
   categories: &id005
   - Macro
