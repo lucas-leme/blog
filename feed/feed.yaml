@@ -1,5 +1,35 @@
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-04-22T16:55:14+00:00'
+  description: 'If electric cars are the future, are hybrids the present?
+
+
+    @TheTripleFCollection: https://www.youtube.com/@TheTripleFCollection
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/HLi2xYxZX10/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=HLi2xYxZX10
+  title: $20K vs $2,000,000 Hybrid Car!
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -27,9 +57,7 @@
   path: https://www.youtube.com/watch?v=yK1VD6Nh_Og
   title: Elevating Python Code with Higher-Order Functions
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-04-19T20:21:02+00:00'
   description: Don't say I didn't warn you about early VIN cybertruck manufacturing
     issues
@@ -37,7 +65,7 @@
   path: https://www.youtube.com/watch?v=lczKh7EdcAA
   title: Tesla Cybertruck Recall (PSA)
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-19T15:00:05+00:00'
   description: "In this video, I'll share five essential tips for building effective\
     \ data dashboards. These insights are drawn from my hands-on experience developing\
@@ -73,7 +101,7 @@
   path: https://www.youtube.com/watch?v=6xncb3aTrXk
   title: 5 Tips for Building Powerful Data Dashboards in Python
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-04-19T00:00:00+00:00'
   description: "Reports of freight fraud are on the rise, vexing trucking companies\
@@ -116,7 +144,7 @@
   path: https://open.spotify.com/episode/3OlIdBmc44YpmaigwmJZqJ
   title: '#93 | A VERDADE SOBRE A BOLSA DE VALORES BRASILEIRA'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-04-18T00:00:00+00:00'
   description: "It\u2019s not just the cost of buying a home that\u2019s going up.\
     \ It\u2019s also the hidden costs \u2014 like taxes, maintenance and insurance\
@@ -152,13 +180,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a91ae13cc70ca325ab33990a4
   path: https://open.spotify.com/episode/0GaBURQjGRk4S4m7b5vnFS
   title: 'Money Talks: Why weight-loss drugs will reshape the world'
-- author: Marques Brownlee
-  categories: *id003
-  date: '2024-04-17T15:11:47+00:00'
-  description: Couldn't get up normal...
-  image: https://i2.ytimg.com/vi/EaRWEEXMXEA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=EaRWEEXMXEA
-  title: "NEW Boston Dynamics Robot \U0001FAE3"
 - author: Market Makers
   categories: *id004
   date: '2024-04-17T00:00:00+00:00'
