@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -33,6 +33,22 @@
   image: https://i1.ytimg.com/vi/XmpIBsnc3xU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=XmpIBsnc3xU
   title: Everything You Need to Know about Debugging in VSCode
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-23T00:00:00+00:00'
+  description: "Over the course of 19 days, U.S. officials raced to contain escalating\
+    \ tensions between Israel and Iran amid a series of attacks. WSJ\u2019s Michael\
+    \ R. Gordon on what was going on behind the scenes as the White House worked to\
+    \ prevent a bigger conflict.  Further Reading: -Inside the White House\u2019s\
+    \ Frenetic Scramble to Avert a Full-Blown Middle East War\_ -How the U.S. Forged\
+    \ a Fragile Middle Eastern Alliance to Repel Iran\u2019s Israel Attack\_  Further\
+    \ Listening: -A Deadly Strike on Aid Workers in Gaza\_ -A Deadly Drone Attack\
+    \ and Iran\u2019s \u2018Axis of Resistance'  Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4pxlqm1zFf7vGuORwP2G6S
+  title: Inside the White House's Scramble to Avert a Bigger Middle East War
 - author: Outliers
   categories: &id007
   - Podcasts
@@ -59,7 +75,7 @@
   path: https://theovershoot.co/p/chinese-overcapacity-is-not-the-problem
   title: Chinese "Overcapacity" Is Not the Problem. Underconsumption Is.
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-04-22T16:55:14+00:00'
@@ -123,8 +139,7 @@
   path: https://open.spotify.com/episode/1ywGhnlTvU7pZ6wrM8hlsY
   title: '#94 | COMO OS SHOPPINGS FUNCIONAM? (ENTENDA TUDO COM O CEO DA ALLOS)'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-04-22T00:00:00+00:00'
   description: "Former President Donald Trump is expected to spend the next six weeks\
     \ in a Manhattan courtroom, defending himself against accusations he covered up\
@@ -160,7 +175,7 @@
   path: https://open.spotify.com/episode/0s3TYwgna9lPey7ooU13KB
   title: "Markku Kurtti \u2013 Diversification is a Negatively Priced Lunch"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-20T15:00:48+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -185,7 +200,7 @@
   path: https://www.youtube.com/watch?v=yK1VD6Nh_Og
   title: Elevating Python Code with Higher-Order Functions
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-04-19T20:21:02+00:00'
   description: Don't say I didn't warn you about early VIN cybertruck manufacturing
     issues
@@ -206,20 +221,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/19042024
   title: "BC - Focus - Relat\xF3rio de Mercado - 19/04/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-04-19T00:00:00+00:00'
-  description: "Reports of freight fraud are on the rise, vexing trucking companies\
-    \ and regulators. And victims say that they aren\u2019t getting any real help\
-    \ from law enforcement. WSJ\u2019s Inti Pacheco unpacks one form of this fraud,\
-    \ called double brokering, and a trucking executive explains his personal efforts\
-    \ to stop the scammers.  Further Reading: - A Brazen Yogurt Heist Shows How Cyber\
-    \ Gangs Are Hijacking U.S. Goods\_ - Growing Freight Fraud is Peeling Millions\
-    \ From the U.S. Shipping Market\_  Further Listening: - Nike\u2019s Sneaky Sneaker\
-    \ Thieves\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/55HQ7cUucp5FzoglN6Mpv0
-  title: How Cyber Thieves Are Disrupting U.S. Goods
 - author: Market Makers
   categories: *id004
   date: '2024-04-18T00:00:00+00:00'
