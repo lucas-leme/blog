@@ -1,3 +1,17 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-25T00:00:00+00:00'
+  description: "With a fresh round of pro-Palestinian protests sweeping campuses nationwide,\
+    \ university administrators are cracking down. WSJ\u2019s Melissa Korn explains\
+    \ what students are demanding and what it could mean for campus life going forward.\
+    \  Further Reading:  -At Columbia, Discontent Grows Over Shafik\u2019s Handling\
+    \ of Crisis\_ -Pro-Palestinian Protests Force Colleges to Rethink Graduation Plans\_\
+    \  Further Listening:  -Big Donors Clash with Universities Over Antisemitism,\
+    \ Free Speech\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2Z7vL3DIWJRpEbKxgA0sWB
+  title: Pro-Palestinian Protests and Arrests at U.S. Colleges
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -32,7 +46,7 @@
   path: https://open.spotify.com/episode/4LLapTuW47SzuAmRBEceEo
   title: Realistic Personal Finance Hacks
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -79,8 +93,7 @@
   title: "BYD x LOCALIZA: empresa chinesa AMEA\xC7A maior locadora de carros do Brasil?\
     \ | Corte Ep #93"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-04-24T00:00:00+00:00'
   description: "Less than six years after a Supreme Court ruling paved the way for\
     \ legal sports gambling, U.S. sports leagues are facing an onslaught of betting\
@@ -96,7 +109,7 @@
   path: https://open.spotify.com/episode/1S17c2ksLHS5k4jJVomtDs
   title: How Gambling Scandals Are Rocking Sports Leagues
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-23T15:00:24+00:00'
   description: "This video is a quick guide to debugging Python scripts in VSCode.\
     \ I\u2019ll cover the basics of the VSCode debugger and show you how to use it\
@@ -127,21 +140,6 @@
   image: https://i1.ytimg.com/vi/XmpIBsnc3xU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=XmpIBsnc3xU
   title: Everything You Need to Know about Debugging in VSCode
-- author: The Journal.
-  categories: *id002
-  date: '2024-04-23T00:00:00+00:00'
-  description: "Over the course of 19 days, U.S. officials raced to contain escalating\
-    \ tensions between Israel and Iran amid a series of attacks. WSJ\u2019s Michael\
-    \ R. Gordon on what was going on behind the scenes as the White House worked to\
-    \ prevent a bigger conflict.  Further Reading: -Inside the White House\u2019s\
-    \ Frenetic Scramble to Avert a Full-Blown Middle East War\_ -How the U.S. Forged\
-    \ a Fragile Middle Eastern Alliance to Repel Iran\u2019s Israel Attack\_  Further\
-    \ Listening: -A Deadly Strike on Aid Workers in Gaza\_ -A Deadly Drone Attack\
-    \ and Iran\u2019s \u2018Axis of Resistance'  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4pxlqm1zFf7vGuORwP2G6S
-  title: Inside the White House's Scramble to Avert a Bigger Middle East War
 - author: Outliers
   categories: &id007
   - Podcasts
