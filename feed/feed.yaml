@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -63,8 +63,21 @@
   image: https://i2.ytimg.com/vi/1KEtxTQUzxY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=1KEtxTQUzxY
   title: I Tried a Disney Secret Project!
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-04-26T00:00:00+00:00'
+  description: "Jamie Dimon discusses his concerns about the future of the economy,\
+    \ the effect of overseas wars and the importance of U.S. leadership in a wide-ranging\
+    \ interview with WSJ\u2019s Editor-in-Chief Emma Tucker.  Further Watching: -Jamie\
+    \ Dimon on the Economy, Geopolitical Risks and AI: Full Interview\_  Further Listening:\
+    \  -Why the Fed Is Steering Away From Rate Cuts\_ -Janet Yellen on Inflation and\
+    \ the U.S. Economy\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7dvjXfOHqA122buZJTU5dF
+  title: JP Morgan CEO Jamie Dimon on What's Next for the Economy
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-04-25T00:00:00+00:00'
   description: "Pela primeira vez juntos, Fernando Ulrich e Economista Sincero, participaram\
@@ -94,8 +107,7 @@
   path: https://open.spotify.com/episode/3FFvD2s5v4gLjZcXJ981hF
   title: '#95 | O QUE NUNCA TE CONTARAM SOBRE O DINHEIRO'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-04-25T00:00:00+00:00'
   description: "With a fresh round of pro-Palestinian protests sweeping campuses nationwide,\
     \ university administrators are cracking down. WSJ\u2019s Melissa Korn explains\
@@ -141,7 +153,7 @@
   path: https://open.spotify.com/episode/4LLapTuW47SzuAmRBEceEo
   title: Realistic Personal Finance Hacks
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-04-24T15:00:04+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
@@ -166,7 +178,7 @@
   path: https://www.youtube.com/watch?v=axSK5FO7aOs
   title: "\U0001F40D Mastering Python Decorators for Advanced Coding"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-04-24T00:00:00+00:00'
   description: "A BYD chegou de vez para o Brasil e vem tomando cada vez mais conta\
     \ das ruas e contribuiu fortemente para uma queda no pre\xE7o dos carros. Ser\xE1\
@@ -183,22 +195,6 @@
   path: https://open.spotify.com/episode/1iuLQp8Md9pSYkIADKwiiZ
   title: "BYD x LOCALIZA: empresa chinesa AMEA\xC7A maior locadora de carros do Brasil?\
     \ | Corte Ep #93"
-- author: The Journal.
-  categories: *id003
-  date: '2024-04-24T00:00:00+00:00'
-  description: "Less than six years after a Supreme Court ruling paved the way for\
-    \ legal sports gambling, U.S. sports leagues are facing an onslaught of betting\
-    \ scandals. The latest example is Jontay Porter, a little-known NBA player, who\
-    \ has been given a lifetime ban for betting on games. WSJ\u2019s Jared Diamond\
-    \ unpacks how major leagues are confronting the darker sides of sports betting\
-    \ with alarming frequency.  Further Reading:  -NBA Player Banned for Life for\
-    \ Betting on Games\_ -America Made a Huge Bet on Sports Gambling. The Backlash\
-    \ Is Here.\_  Further Listening:  -How a Psychiatrist Lost $400,000 on Gambling\
-    \ Apps\_ -Disney Gets Into Gambling\_ \u200B\u200B-FanDuel CEO on Sports Gambling's\
-    \ Big Boom\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1S17c2ksLHS5k4jJVomtDs
-  title: How Gambling Scandals Are Rocking Sports Leagues
 - author: Outliers
   categories: &id007
   - Podcasts
