@@ -1,5 +1,77 @@
-- author: The Journal.
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-04-26T22:12:36+00:00'
+  description: ''
+  image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Ct2zo1cuzPQ
+  title: "New AI Feature: Gaslighting \U0001FAE3"
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-04-26T15:00:51+00:00'
+  description: "In this video, I\u2019ll show you how Rust handles errors and when\
+    \ to use which type of error handling, based on my own experience.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2024/rust_error_handling\n\n\U0001F4A1\
+    \ Get my FREE 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/apifir\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n0:48 Error handling in Python\n3:36 Understanding\
+    \ Rust's Error Handling Paradigm\n5:40 The Power of match \n7:37 Error Handling\
+    \ with the ? Operator\n12:11 Unwrapping Errors: panic!, unwrap and expect\n16:05\
+    \ Final Thoughts\n17:37 Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
+    \ - The links in this description might be affiliate links. If you purchase a\
+    \ product or service through one of those links, I may receive a small commission.\
+    \ There is no additional charge to you. Thanks for supporting my channel so I\
+    \ can continue to provide you with free content each week!"
+  image: https://i1.ytimg.com/vi/xIWr5p5T_nM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xIWr5p5T_nM
+  title: Rust Handles Errors Way Better Than Python
+- author: Marques Brownlee
+  categories: *id001
+  date: '2024-04-26T14:26:53+00:00'
+  description: 'The Holotile infinite floor/360 treadmill could be sick for VR.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track Artist: Logic https://logic.lnk.to/44ever
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/1KEtxTQUzxY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=1KEtxTQUzxY
+  title: I Tried a Disney Secret Project!
+- author: The Journal.
+  categories: &id002
   - Podcasts
   date: '2024-04-26T00:00:00+00:00'
   description: "Jamie Dimon discusses his concerns about the future of the economy,\
@@ -12,7 +84,7 @@
   path: https://open.spotify.com/episode/7dvjXfOHqA122buZJTU5dF
   title: JP Morgan CEO Jamie Dimon on What's Next for the Economy
 - author: Market Makers
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-04-25T00:00:00+00:00'
   description: "Pela primeira vez juntos, Fernando Ulrich e Economista Sincero, participaram\
@@ -42,7 +114,7 @@
   path: https://open.spotify.com/episode/3FFvD2s5v4gLjZcXJ981hF
   title: '#95 | O QUE NUNCA TE CONTARAM SOBRE O DINHEIRO'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-04-25T00:00:00+00:00'
   description: "With a fresh round of pro-Palestinian protests sweeping campuses nationwide,\
     \ university administrators are cracking down. WSJ\u2019s Melissa Korn explains\
@@ -87,8 +159,33 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/4LLapTuW47SzuAmRBEceEo
   title: Realistic Personal Finance Hacks
+- author: ArjanCodes
+  categories: *id003
+  date: '2024-04-24T15:00:04+00:00'
+  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
+    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i2.ytimg.com/vi/axSK5FO7aOs/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=axSK5FO7aOs
+  title: "\U0001F40D Mastering Python Decorators for Advanced Coding"
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2024-04-24T00:00:00+00:00'
   description: "A BYD chegou de vez para o Brasil e vem tomando cada vez mais conta\
     \ das ruas e contribuiu fortemente para uma queda no pre\xE7o dos carros. Ser\xE1\
@@ -106,7 +203,7 @@
   title: "BYD x LOCALIZA: empresa chinesa AMEA\xC7A maior locadora de carros do Brasil?\
     \ | Corte Ep #93"
 - author: Outliers
-  categories: &id005
+  categories: &id007
   - Podcasts
   date: '2024-04-23T00:00:00+00:00'
   description: "Investir com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro\
@@ -120,7 +217,7 @@
   path: https://open.spotify.com/episode/0vGFbBBF5GIo8qX0nMDwRx
   title: "#125 - O novo fundo de deb\xEAntures incentivadas da Legacy Capital"
 - author: The Overshoot
-  categories: &id003
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-04-22T23:57:41+00:00'
@@ -166,7 +263,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/19042024
   title: "BC - Focus - Relat\xF3rio de Mercado - 19/04/2024"
 - author: The Overshoot
-  categories: *id003
+  categories: *id005
   date: '2024-04-16T23:34:52+00:00'
   description: 'After a period of temporarily slower price increases, inflation in
     the first few months of 2024 seems more consistent with the rest of the economic
@@ -176,7 +273,7 @@
   title: Inflation Is Not "Reaccelerating", But It Isn't Obviously Heading Back to
     2%, Either
 - author: Apricitas Economics
-  categories: &id004
+  categories: &id006
   - Macro
   - Newsletters
   date: '2024-04-14T16:01:24+00:00'
@@ -199,7 +296,7 @@
   path: https://open.spotify.com/episode/7CIVMe0VyHyzZFnuQabsrK
   title: "Private Credit Investing in a \u201CHigher for Longer\u201D Environment"
 - author: Apricitas Economics
-  categories: *id004
+  categories: *id006
   date: '2024-04-03T21:13:08+00:00'
   description: US Multifamily Housing Completions are at 50-Year Highs, But Tighter
     Credit Has Significantly Reduced Starts & Permits
@@ -207,7 +304,7 @@
   path: https://www.apricitas.io/p/the-multifamily-supply-surgeand-credit
   title: "The Multifamily Supply Surge\u2014and Credit Crunch"
 - author: Outliers
-  categories: *id005
+  categories: *id007
   date: '2024-04-03T00:00:00+00:00'
   description: "Neste epis\xF3dio, Clara Sodr\xE9, analista de fundos da XP e Rodrigo\
     \ Sgavioli, head de aloca\xE7\xE3o do research da XP, conversam com Marcos Peixoto\
@@ -713,7 +810,7 @@
   title: "BC - Copom Comunicado - 261\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,75% a.a."
 - author: AQR
-  categories: &id006
+  categories: &id008
   - Quant
   - Papers
   date: '2023-09-01T00:00:00'
@@ -729,7 +826,7 @@
   path: https://www.aqr.com/Insights/Research/Journal-Article/Fact-Fiction-and-Factor-Investing-Practical-Application
   title: 'Fact, Fiction,  and Factor Investing: Practical Applications'
 - author: AQR
-  categories: *id006
+  categories: *id008
   date: '2023-08-25T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        August\
     \ 25, 2023<span class=\"article__author\">\n        <span class=\"separator\"\
