@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -33,7 +33,7 @@
   path: https://www.youtube.com/watch?v=GD1eajzSApQ
   title: 'SemVer: The Backbone of Software'
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-04-30T00:21:20+00:00'
@@ -49,8 +49,23 @@
   path: https://www.youtube.com/watch?v=ddTV12hErTc
   title: 'Rabbit R1: Barely Reviewable'
 - author: The Journal.
-  categories: &id003
+  categories: &id001
   - Podcasts
+  date: '2024-04-30T00:00:00+00:00'
+  description: "Donald Trump's allies have drafted plans to curb the Federal Reserve\u2019\
+    s independence, should Trump win a second term. WSJ\u2019s Andrew Restuccia unpacks\
+    \ the proposals, which include giving the president a say in interest-rate decisions.\
+    \  Further Reading: -Trump Allies Draw Up Plans to Blunt Fed\u2019s Independence\_\
+    \ -Why Inflation Is Biden\u2019s Most Stubborn Political Problem\_ -Even If the\
+    \ Fed Cuts, the Days of Ultralow Rates Are Over\_  Further Listening: -Why the\
+    \ Fed Is Steering Away From Rate Cuts\_ -The Man Who Waged War on Inflation\_\
+    \ -The President, the Fed, and the Cut\_  Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3icjJUuvxyRnOwr7ZA5Wkw
+  title: Trump Allies Draft Plans to Rein in the Fed
+- author: The Journal.
+  categories: *id001
   date: '2024-04-29T00:00:00+00:00'
   description: "For almost a decade, Amazon staff went undercover on Walmart, eBay\
     \ and other marketplaces selling products under the guise of a company called\
@@ -65,14 +80,14 @@
   path: https://open.spotify.com/episode/7dSez8Srafncv8Zf01xu4N
   title: "Amazon\u2019s Secret Operation to Gather Intel on Rivals"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-04-26T22:12:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ct2zo1cuzPQ
   title: "New AI Feature: Gaslighting \U0001FAE3"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-04-26T15:00:51+00:00'
   description: "In this video, I\u2019ll show you how Rust handles errors and when\
     \ to use which type of error handling, based on my own experience.\n\n\U0001F525\
@@ -118,18 +133,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/26042024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/04/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-04-26T00:00:00+00:00'
-  description: "Jamie Dimon discusses his concerns about the future of the economy,\
-    \ the effect of overseas wars and the importance of U.S. leadership in a wide-ranging\
-    \ interview with WSJ\u2019s Editor-in-Chief Emma Tucker.  Further Watching: -Jamie\
-    \ Dimon on the Economy, Geopolitical Risks and AI: Full Interview\_  Further Listening:\
-    \  -Why the Fed Is Steering Away From Rate Cuts\_ -Janet Yellen on Inflation and\
-    \ the U.S. Economy\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7dvjXfOHqA122buZJTU5dF
-  title: JP Morgan CEO Jamie Dimon on What's Next for the Economy
 - author: Market Makers
   categories: &id004
   - Podcasts
