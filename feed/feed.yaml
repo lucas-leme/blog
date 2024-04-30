@@ -1,3 +1,19 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-04-30T00:21:20+00:00'
+  description: "AI in a Box. But a different box.\n\nGet a dbrand skin and screen\
+    \ protector at https://dbrand.com/rabbit\n\nMKBHD Merch: http://shop.MKBHD.com\n\
+    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track:\
+    \ http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
+    \nR1 provided by Rabbit for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
+    http://facebook.com/MKBHD\n\n0:00 Intro\n0:26 AI In A Box\n3:40 It\u2019s Also\
+    \ Bad\n7:07 $200\n9:56 Large Action Model\n14:06 What Are We Doing Here?\n16:42\
+    \ FUTURE"
+  image: https://i1.ytimg.com/vi/ddTV12hErTc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ddTV12hErTc
+  title: 'Rabbit R1: Barely Reviewable'
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -15,9 +31,7 @@
   path: https://open.spotify.com/episode/7dSez8Srafncv8Zf01xu4N
   title: "Amazon\u2019s Secret Operation to Gather Intel on Rivals"
 - author: Marques Brownlee
-  categories: &id001
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-04-26T22:12:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
@@ -59,33 +73,6 @@
   image: https://i1.ytimg.com/vi/xIWr5p5T_nM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xIWr5p5T_nM
   title: Rust Handles Errors Way Better Than Python
-- author: Marques Brownlee
-  categories: *id001
-  date: '2024-04-26T14:26:53+00:00'
-  description: 'The Holotile infinite floor/360 treadmill could be sick for VR.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track Artist: Logic https://logic.lnk.to/44ever
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/1KEtxTQUzxY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=1KEtxTQUzxY
-  title: I Tried a Disney Secret Project!
 - author: The Journal.
   categories: *id002
   date: '2024-04-26T00:00:00+00:00'
@@ -189,21 +176,45 @@
 - author: Market Makers
   categories: *id004
   date: '2024-04-24T00:00:00+00:00'
-  description: "A BYD chegou de vez para o Brasil e vem tomando cada vez mais conta\
-    \ das ruas e contribuiu fortemente para uma queda no pre\xE7o dos carros. Ser\xE1\
-    \ que ela pode afetar o resultado da maior locadora de carros do Brasil, a Localiza\
-    \ (RENT3).\U0001F3A7 OU\xC7A O EPIS\xD3DIO COMPLETO- Spotify: https://open.spotify.com/episode/3OlIdBmc44YpmaigwmJZqJ?si=5GMNjuyqSAa6hX5OzzHukg-\
-    \ Apple Podcast: https://podcasts.apple.com/br/podcast/93-a-verdade-sobre-a-bolsa-de-valores-brasileira/id1632972179?i=1000652903057\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\_https://youtu.be/Y0TBjwm3f6Y\_- - -\
-    \ - - - - -Corte: BYD x LOCALIZA: empresa chinesa amea\xE7a maior locadora de\
-    \ carros do Brasil? | Market Makers #93A VERDADE SOBRE A BOLSA DE VALORES BRASILEIRA\
-    \ | Market Makers #93Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9\
-    \ Guedes (@josueguedes__)Convidados: Guilherme Motta, gestor da Studio InvestimentosEdi\xE7\
-    \xE3o: Bianca Barsotti e Lucas Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8a1be5cd11b936c9ebb9ffdaef
-  path: https://open.spotify.com/episode/1iuLQp8Md9pSYkIADKwiiZ
-  title: "BYD x LOCALIZA: empresa chinesa AMEA\xC7A maior locadora de carros do Brasil?\
-    \ | Corte Ep #93"
+  description: "No epis\xF3dio de hoje, mergulhamos no universo da Vale (VALE3), uma\
+    \ das maiores mineradoras de ferro do mundo, para entender como seus movimentos\
+    \ impactam o mercado financeiro e os investimentos.\_Analisamos a fundo tudo que\
+    \ envolve a Vale (VALE3), desde sua produ\xE7\xE3o de min\xE9rio at\xE9 seus desafios\
+    \ e oportunidades no mercado global.A Vale (VALE3) \xE9 uma pot\xEAncia no mercado\
+    \ de minera\xE7\xE3o, com a meta ambiciosa de produzir 310 milh\xF5es de toneladas\
+    \ de ferro em 2024. Seu hist\xF3rico de produ\xE7\xE3o, aliado ao menor custo\
+    \ marginal de produ\xE7\xE3o, destaca-a como uma das l\xEDderes do setor.\_Vamos\
+    \ explorar como suas a\xE7\xF5es est\xE3o intimamente ligadas \xE0 cota\xE7\xE3\
+    o do min\xE9rio de ferro e como isso influencia o mercado.A economia chinesa desempenha\
+    \ um papel crucial no cen\xE1rio global de min\xE9rio de ferro, sendo o principal\
+    \ consumidor do produto. Discutiremos as transforma\xE7\xF5es econ\xF4micas na\
+    \ China e seu impacto na demanda por min\xE9rio, bem como as previs\xF5es e perspectivas\
+    \ para o mercado.Apesar dos desafios enfrentados pelo setor imobili\xE1rio chin\xEA\
+    s e das previs\xF5es de queda nos pre\xE7os do min\xE9rio de ferro, apresentaremos\
+    \ uma vis\xE3o otimista sobre a Vale e o mercado de minera\xE7\xE3o. Exploraremos\
+    \ dados que indicam um potencial de crescimento significativo em outros pa\xED\
+    ses, como \xCDndia e Vietn\xE3, e discutiremos como esses mercados emergentes\
+    \ podem impulsionar a demanda por min\xE9rio.Analisaremos os fundamentos de curto\
+    \ prazo que afetam os pre\xE7os do min\xE9rio de ferro, desde quest\xF5es log\xED\
+    sticas at\xE9 mudan\xE7as na produ\xE7\xE3o chinesa de a\xE7o. Al\xE9m disso,\
+    \ discutiremos os desafios regulat\xF3rios e ambientais enfrentados pela ind\xFA\
+    stria, e como esses fatores influenciam o custo marginal de produ\xE7\xE3o.Por\
+    \ fim, exploraremos os aspectos pol\xEDticos que envolvem a Vale, incluindo tentativas\
+    \ de influ\xEAncia governamental e quest\xF5es relacionadas a trag\xE9dias passadas.\
+    \ Compreenderemos como esses elementos afetam a performance da empresa no mercado\
+    \ financeiro e as decis\xF5es de investimento.N\xE3o se esque\xE7a de curtir este\
+    \ v\xEDdeo para apoiar nosso canal e alcan\xE7ar mais pessoas interessadas em\
+    \ aprender sobre investimentos.Acompanhe o Market Makers nas redes e inscreva-se\
+    \ na CompoundLetter:- Instagram: \_https://www.instagram.com/mmakers.oficial-\
+    \ Twitter (X): https://twitter.com/mmakersoficial- TikTok: \_https://www.tiktok.com/@mmakersoficial-\
+    \ Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada- -\
+    \ - - - - -Vale (VALE3): por que a a\xE7\xE3o est\xE1 t\xE3o barata? \xC9 HORA\
+    \ DE COMPRAR?Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares\
+    \ (@maatssoares)Edi\xE7\xE3o e Roteiro: Bianca Barsotti e Gabriel Rosenbaum"
+  image: https://i.scdn.co/image/ab6765630000ba8aa3af8d2a69be2c69d66ee228
+  path: https://open.spotify.com/episode/0vaAM07U40gjAvaqXpJpx1
+  title: "Vale (VALE3): por que a a\xE7\xE3o est\xE1 t\xE3o barata? \xC9 HORA DE COMPRAR?\
+    \ | Mercado Aberto"
 - author: Outliers
   categories: &id007
   - Podcasts
