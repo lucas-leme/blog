@@ -1,3 +1,40 @@
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-05-03T15:00:22+00:00'
+  description: "Over the years, I\u2019ve produced several videos about AsyncIO. Today,\
+    \ however, I\u2019m adopting a new approach where I explain the event loop in\
+    \ depth. I\u2019ll delve deeper into asynchronous programming, focusing specifically\
+    \ on how the event loop operates behind the scenes.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2024/asyncio_dive\n\n\U0001F4A1 Get my FREE 7-step guide\
+    \ to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/ccixtk\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: https://www.arjancodes.com/architect\nNext Level Python:\
+    \ Become a Python Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day\
+    \ Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED\
+    \ BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed this content,\
+    \ give this video a like. If you want to watch more of my upcoming videos, consider\
+    \ subscribing to my channel!\n\nSocial channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\
+    \U0001F426X: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
+    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
+    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
+    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit\
+    \ Hygh\n- Alexander Milden\n- Bean\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:02 The Basics of Asyncio\n3:43 Synchronous Server\n4:53 Asynchronous Server\n\
+    8:05 Why Asyncio?\n9:05 AIO Libraries\n12:38 Outro\n\n#arjancodes #softwaredesign\
+    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
+    \ If you purchase a product or service through one of those links, I may receive\
+    \ a small commission. There is no additional charge to you. Thanks for supporting\
+    \ my channel so I can continue to provide you with free content each week!"
+  image: https://i3.ytimg.com/vi/RIVcqT2OGPA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=RIVcqT2OGPA
+  title: AsyncIO and the Event Loop Explained
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -104,10 +141,7 @@
   path: https://open.spotify.com/episode/70XcFYiY01IJhrOemQxk55
   title: Mayhem at Paramount as Merger Looms
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2024-04-30T15:00:13+00:00'
   description: "In this video, I\u2019ll talk about Semantic Versioning (SemVer).\
     \ SemVer isn't just a practice; it's the backbone and foundation of stable and\
@@ -138,7 +172,7 @@
   path: https://www.youtube.com/watch?v=GD1eajzSApQ
   title: 'SemVer: The Backbone of Software'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-04-30T00:21:20+00:00'
@@ -169,45 +203,12 @@
   path: https://open.spotify.com/episode/7yTzCPJE97xQuyBwRpQjgq
   title: "#126 - Investimento em galp\xF5es log\xEDsticos com a AZ Quest"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-04-26T22:12:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ct2zo1cuzPQ
   title: "New AI Feature: Gaslighting \U0001FAE3"
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-04-26T15:00:51+00:00'
-  description: "In this video, I\u2019ll show you how Rust handles errors and when\
-    \ to use which type of error handling, based on my own experience.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2024/rust_error_handling\n\n\U0001F4A1\
-    \ Get my FREE 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
-    \ Take a quiz on this topic: https://www.learntail.com/quiz/apifir\n\n\U0001F393\
-    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:48 Error handling in Python\n3:36 Understanding\
-    \ Rust's Error Handling Paradigm\n5:40 The Power of match \n7:37 Error Handling\
-    \ with the ? Operator\n12:11 Unwrapping Errors: panic!, unwrap and expect\n16:05\
-    \ Final Thoughts\n17:37 Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
-    \ - The links in this description might be affiliate links. If you purchase a\
-    \ product or service through one of those links, I may receive a small commission.\
-    \ There is no additional charge to you. Thanks for supporting my channel so I\
-    \ can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/xIWr5p5T_nM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=xIWr5p5T_nM
-  title: Rust Handles Errors Way Better Than Python
 - author: RSS - Feeds do BC
   categories:
   - Bacen
