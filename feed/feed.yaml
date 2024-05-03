@@ -8,8 +8,40 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e1f443-9bc9-489f-85d2-785eabc9a0e6_5001x2625.png
   path: https://theovershoot.co/p/the-6-solution
   title: The 6% Solution?
-- author: The Journal.
+- author: Market Makers
   categories: &id001
+  - Podcasts
+  date: '2024-05-02T00:00:00+00:00'
+  description: "No epis\xF3dio de hoje, recebemos dois verdadeiros especialistas do\
+    \ mundo do trade para compartilhar suas experi\xEAncias e hist\xF3rias dos operadores\
+    \ de bolsa de valores no Brasil: Roberto Lombardi, uma lenda no mundo do trading,\
+    \ conhecido como o pai dos minicontratos e fundador da Interfloat, a primeira\
+    \ corretora focada em pessoas f\xEDsicas. Transformando um investimento de 17\
+    \ mil reais em um patrim\xF4nio de 26 milh\xF5es de reais, vinte anos depois,\
+    \ quando a BMF abriu capital. -Andr\xE9 Antunes, CEO da Scalper, uma empresa de\
+    \ educa\xE7\xE3o e tecnologia que revolucionou o mercado de minicontratos no Brasil,\
+    \ formando mais de 2 milh\xF5es de alunos.Com uma trajet\xF3ria que inclui desde\
+    \ o Ex\xE9rcito at\xE9 o sucesso como trader e empreendedor, Antunes traz uma\
+    \ perspectiva \xFAnica sobre estrat\xE9gias de trading e gest\xE3o de risco. Lombardi\
+    \ contou como foi parar no mercado financeiro, a trajet\xF3ria de crescimento\
+    \ da Interfloat, como ele ganhou rios de dinheiro no dia em que Naji Nahas \u201C\
+    quebrou a bolsa do Rio de Janeiro\u201D, a batalha para a cria\xE7\xE3o dos minicontratos,\
+    \ a transi\xE7\xE3o do preg\xE3o viva-voz para o preg\xE3o eletr\xF4nico, entre\
+    \ outros epis\xF3dios.J\xE1 Andr\xE9 Antunes revelou os segredos do tape reading\
+    \ e do scalping, as armadilhas do day trade, os mitos e verdades sobre a rentabilidade\
+    \ no mercado financeiro e as li\xE7\xF5es que todo investidor deve aprender para\
+    \ evitar o fracasso no trade. Se voc\xEA \xE9 f\xE3 de hist\xF3rias de mercado,\
+    \ esse epis\xF3dio \xE9 para voc\xEA! N\xE3o esque\xE7a de deixar o seu like no\
+    \ v\xEDdeo!Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Lucas Claro (@lucas.mclaro)Convidados:\
+    \ Roberto Lombardi (Fundador da Interfloat e Idealizador dos minicontratos da\
+    \ B3) e Andr\xE9 Antunes (CEO da Scalper)Edi\xE7\xE3o: Bianca Barsotti e Lucas\
+    \ Zanardo"
+  image: https://i.scdn.co/image/ab6765630000ba8a8c22be2ff608473fb303efb4
+  path: https://open.spotify.com/episode/4tb9RPFIBRECHI8a9hA6dD
+  title: "#96 | As hist\xF3rias n\xE3o contadas sobre os verdadeiros traders da bolsa\
+    \ de valores"
+- author: The Journal.
+  categories: &id002
   - Podcasts
   date: '2024-05-02T00:00:00+00:00'
   description: "The National Basketball Association is in advanced stages of a new\
@@ -44,8 +76,7 @@
   path: https://open.spotify.com/episode/03n8VVP2OK18pYS6pPUD46
   title: 'Money Talks: An interview with Joseph Stiglitz'
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-05-01T00:00:00+00:00'
   description: "CORTE EP #95: Fernando Ulrich e Economista Sincero falam sobre quem\
     \ s\xE3o os grandes respons\xE1veis pelo juro e a infla\xE7\xE3o e como isso impacta\
@@ -59,7 +90,7 @@
   path: https://open.spotify.com/episode/5KD9HisGAlmcVgT4WKL7pv
   title: "O que n\xE3o querem que voc\xEA saiba sobre o dinheiro | Corte Ep #95"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-05-01T00:00:00+00:00'
   description: "On Monday, Bob Bakish stepped down as CEO of Paramount, one of America\u2019\
     s most iconic media companies. WSJ\u2019s Jessica Toonkel reports on how Bakish\u2019\
@@ -73,7 +104,7 @@
   path: https://open.spotify.com/episode/70XcFYiY01IJhrOemQxk55
   title: Mayhem at Paramount as Merger Looms
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -107,7 +138,7 @@
   path: https://www.youtube.com/watch?v=GD1eajzSApQ
   title: 'SemVer: The Backbone of Software'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-04-30T00:21:20+00:00'
@@ -138,14 +169,14 @@
   path: https://open.spotify.com/episode/7yTzCPJE97xQuyBwRpQjgq
   title: "#126 - Investimento em galp\xF5es log\xEDsticos com a AZ Quest"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-04-26T22:12:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ct2zo1cuzPQ
   title: "New AI Feature: Gaslighting \U0001FAE3"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-04-26T15:00:51+00:00'
   description: "In this video, I\u2019ll show you how Rust handles errors and when\
     \ to use which type of error handling, based on my own experience.\n\n\U0001F525\
@@ -191,35 +222,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/26042024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/04/2024"
-- author: Market Makers
-  categories: *id004
-  date: '2024-04-25T00:00:00+00:00'
-  description: "Pela primeira vez juntos, Fernando Ulrich e Economista Sincero, participaram\
-    \ do epis\xF3dio 95 do Market Makers para falar sobre por que o governo \xE9 o\
-    \ grande culpado pela infla\xE7\xE3o e o juro alto no Brasil e como isso afeta\
-    \ o seu dinheiro.Fernando Ulrich, um dos maiores especialistas em criptomoedas\
-    \ do Brasil, traz consigo mais de duas d\xE9cadas de experi\xEAncia no mercado\
-    \ financeiro. Com forma\xE7\xE3o em Administra\xE7\xE3o e mestrado em Economia\
-    \ pela Escola Austr\xEDaca, Ulrich \xE9 autor do primeiro livro brasileiro sobre\
-    \ bitcoins, lan\xE7ado em 2014. Seu conhecimento abrange desde ciclos econ\xF4\
-    micos at\xE9 pol\xEDticas monet\xE1rias, consolidando-se como uma voz influente\
-    \ n\xE3o apenas no Brasil, mas tamb\xE9m internacionalmente.Charles Mendlowicz,\
-    \ mais conhecido como Economista Sincero, possui mais de 20 anos de experi\xEA\
-    ncia no mercado financeiro e varejo. Graduado em Economia pela UERJ e com MBA\
-    \ em Gest\xE3o Estrat\xE9gica de Neg\xF3cios e Log\xEDstica Empresarial, ele conquistou\
-    \ reconhecimento como o maior influenciador digital do Brasil em 2023, segundo\
-    \ a Anbima. Com uma jornada que envolve desde sua r\xE1pida ascens\xE3o profissional\
-    \ at\xE9 seu papel como professor e influenciador de investimentos, O Economista\
-    \ Sincero se destaca por sua sinceridade e expertise em educa\xE7\xE3o financeira,\
-    \ cativando mais de 900 mil inscritos em seu canal do YouTube.- - - - - - - -\
-    \ -O QUE NUNCA TE CONTARAM SOBRE O DINHEIRO | Market Makers #95\_Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
-    \ Fernando Ulrich (s\xF3cio da Liberta Investimentos) e Charles Mendlowicz (Economista\
-    \ Sincero), maior influenciador de investimentos do BrasilEdi\xE7\xE3o: Bianca\
-    \ Barsotti e Lucas Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8a1db03c9128e1c3168255d4e3
-  path: https://open.spotify.com/episode/3FFvD2s5v4gLjZcXJ981hF
-  title: '#95 | O QUE NUNCA TE CONTARAM SOBRE O DINHEIRO'
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
