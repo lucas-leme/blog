@@ -246,6 +246,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8a4919be6bffd0f569b7ecee9f
   path: https://open.spotify.com/episode/0vGFbBBF5GIo8qX0nMDwRx
   title: "#125 - O novo fundo de deb\xEAntures incentivadas da Legacy Capital"
+- author: AQR
+  categories: &id008
+  - Quant
+  - Papers
+  date: '2024-04-23T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        April\
+    \ 23, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
+    >-</span>\n                <a class=\"cta cta--dark \">Stanley Krasner</a>\n \
+    \               <a class=\"cta cta--dark \">Joseph Liberman</a>\n            \
+    \    <a class=\"cta cta--dark \">Nathan Sosner</a>\n                <a class=\"\
+    cta cta--dark \">Sydney Filler</a>\n</span>\n                    </p><br /><br\
+    \ /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a href=\"\
+    https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Working-Paper/Levering-Up-to-Do-Good-Direct-Long-Short-Investing-and-Charitable-Giving
+  title: 'Levering Up to Do Good: Direct Long-Short Investing and Charitable Giving'
 - author: The Overshoot
   categories: *id006
   date: '2024-04-22T23:57:41+00:00'
@@ -798,9 +814,7 @@
   title: "BC - Copom Comunicado - 261\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,75% a.a."
 - author: AQR
-  categories: &id008
-  - Quant
-  - Papers
+  categories: *id008
   date: '2024-03-12T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
     \ 12, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -809,17 +823,3 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
   title: AQR Factor Research Papers Win Prestigious Academic Awards
-- author: AQR
-  categories: *id008
-  date: '2023-09-01T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        September\
-    \ 1, 2023<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Michele L. Aghassi</a>\n        \
-    \        <a class=\"cta cta--dark \">Cliff Asness</a>\n                <a class=\"\
-    cta cta--dark \">Charles Fattouche</a>\n                <a class=\"cta cta--dark\
-    \ \">Tobias J. Moskowitz</a>\n</span>\n                    </p><br /><br /><span\
-    \ style=\"font-size: 12px; color: gray;\">(Feed generated with <a href=\"https://fetchrss.com\"\
-    \ target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Journal-Article/Fact-Fiction-and-Factor-Investing-Practical-Application
-  title: 'Fact, Fiction,  and Factor Investing: Practical Applications'
