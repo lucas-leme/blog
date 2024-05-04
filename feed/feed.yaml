@@ -1,5 +1,16 @@
+- author: The Overshoot
+  categories: &id001
+  - Macro
+  - Newsletters
+  date: '2024-05-03T23:33:02+00:00'
+  description: The April numbers suggest that the recent slowdown in average hourly
+    pay growth since January could be something more than a fluke. That would be a
+    big deal.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4adb5af7-0d1c-4db4-9348-0561d69af58c_5000x2734.png
+  path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
+  title: Is Nominal Wage Growth Starting to Slow?
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -35,8 +46,44 @@
   image: https://i3.ytimg.com/vi/RIVcqT2OGPA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=RIVcqT2OGPA
   title: AsyncIO and the Event Loop Explained
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-05-03T00:00:00+00:00'
+  description: "GARANTA SUA VAGA NA PR\xD3XIMA REABERTURA DA COMUNIDADE MARKET MAKERS:\
+    \ https://lp.mmakers.com.br/comunidade-market-makers/?xpromo=XE-ME-CMMMK-SUBMMK-20240503-YT-X-XJuros\
+    \ americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas em queda: O que\
+    \ est\xE1 acontecendo nos mercados pelo mundo afora? O m\xEAs de abril foi marcado\
+    \ por uma s\xE9rie de movimentos significativos nos mercados financeiros, tanto\
+    \ nacional quanto internacionalmente. No Brasil, o \xCDndice Bovespa (IBOV) registrou\
+    \ uma queda de 2,63%, refletindo a performance negativa de grande parte das a\xE7\
+    \xF5es do \xEDndice. Assim como o \xCDndice Small Caps, sofreu uma forte retra\xE7\
+    \xE3o, caindo 8,4% no per\xEDodo. No cen\xE1rio internacional, o panorama n\xE3\
+    o foi menos turbulento. O S&amp;P 500, registrou uma queda de 3,5%, apesar de\
+    \ ter atingido uma m\xE1xima hist\xF3rica em mar\xE7o.Outros ativos, como o Bitcoin,\
+    \ tamb\xE9m enfrentaram desafios, com uma queda de 8%, enquanto o ouro atingiu\
+    \ sua m\xE1xima hist\xF3rica, chegando a US$ 2.330 a on\xE7a, impulsionado pela\
+    \ compra do BC da China. O petr\xF3leo, por sua vez, manteve-se est\xE1vel, registrando\
+    \ uma varia\xE7\xE3o de 0%, embora tenha acumulado um aumento de 10% no ano at\xE9\
+    \ o momento, atingindo US$ 88. Enquanto isso, as Treasuries americanas de 10 anos\
+    \ tiveram uma grande eleva\xE7\xE3o nas taxas, atingindo seu patamar mais alto\
+    \ desde o in\xEDcio de novembro do ano anterior, refletindo as expectativas de\
+    \ reprecifica\xE7\xE3o do mercado.No Mercado Aberto de hoje, vamos explorar tudo\
+    \ o que aconteceu em abril e o que devemos esperar para maio. Falaremos sobre\
+    \ as expectativas de queda de juros nos Estados Unidos, as principais not\xED\
+    cias econ\xF4micas dos EUA (Payroll e CPI) e como isso afeta a bolsa de valores\
+    \ e o pa\xEDs como um todo. Inscreva-se no canal e n\xE3o esque\xE7a de deixar\
+    \ o seu like.\_Acompanhe o Market Makers nas redes e inscreva-se na CompoundLetter:\
+    \ -Instagram: https://www.instagram.com/mmakers.oficial\_Twitter (X): https://twitter.com/mmakersoficial\_\
+    TikTok: https://www.tiktok.com/@mmakersoficial\_Newsletter: https://lp.mmakers.com.br/compoundletter_afaste-se_da_manada\_\
+    \ Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)\
+    \ Edi\xE7\xE3o: Renzo Fedri e Lucas Zanardo"
+  image: https://i.scdn.co/image/ab6765630000ba8a453d4841da9887b1afea8a21
+  path: https://open.spotify.com/episode/1fixu0tobjpUXr3T1C4EXe
+  title: "Juros americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas EM QUEDA:\
+    \ e agora? | Mercado Aberto"
 - author: The Journal.
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-05-03T00:00:00+00:00'
   description: "The high price of baby eels has triggered an upsurge in illegal fishing\
@@ -52,9 +99,7 @@
   path: https://open.spotify.com/episode/3LxGgJqdgnfLV5OIbYPA1i
   title: "Guns and Death Threats in Canada\u2019s Baby-Eel Fisheries"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id001
   date: '2024-05-02T08:35:07+00:00'
   description: U.S. spending and incomes continue to grow a bit faster than before
     the pandemic. And that's okay.
@@ -62,8 +107,7 @@
   path: https://theovershoot.co/p/the-6-solution
   title: The 6% Solution?
 - author: Market Makers
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-05-02T00:00:00+00:00'
   description: "No epis\xF3dio de hoje, recebemos dois verdadeiros especialistas do\
     \ mundo do trade para compartilhar suas experi\xEAncias e hist\xF3rias dos operadores\
@@ -94,7 +138,7 @@
   title: "#96 | As hist\xF3rias n\xE3o contadas sobre os verdadeiros traders da bolsa\
     \ de valores"
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2024-05-02T00:00:00+00:00'
   description: "The National Basketball Association is in advanced stages of a new\
     \ round of media-rights deals. WSJ\u2019s Amol Sharma unpacks why several major\
@@ -127,22 +171,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a97fa301a6dd1944dee283450
   path: https://open.spotify.com/episode/03n8VVP2OK18pYS6pPUD46
   title: 'Money Talks: An interview with Joseph Stiglitz'
-- author: Market Makers
-  categories: *id002
-  date: '2024-05-01T00:00:00+00:00'
-  description: "CORTE EP #95: Fernando Ulrich e Economista Sincero falam sobre quem\
-    \ s\xE3o os grandes respons\xE1veis pelo juro e a infla\xE7\xE3o e como isso impacta\
-    \ no valor do seu dinheiro.\_\U0001F4FD ASSISTA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\_\
-    https://youtu.be/LoN4dmqJZ20\_- - - - - - - -O que n\xE3o querem que voc\xEA saiba\
-    \ sobre o dinheiro | Market Makers #95Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)\
-    \ e Josu\xE9 Guedes (@josueguedes__)Convidados: Fernando Ulrich (s\xF3cio da Liberta\
-    \ Investimentos) e Charles Mendlowicz (Economista Sincero), maior influenciador\
-    \ de investimentos do BrasilEdi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8ae513ca44c0138ff1342f7aea
-  path: https://open.spotify.com/episode/5KD9HisGAlmcVgT4WKL7pv
-  title: "O que n\xE3o querem que voc\xEA saiba sobre o dinheiro | Corte Ep #95"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-04-30T15:00:13+00:00'
   description: "In this video, I\u2019ll talk about Semantic Versioning (SemVer).\
     \ SemVer isn't just a practice; it's the backbone and foundation of stable and\
@@ -173,7 +203,7 @@
   path: https://www.youtube.com/watch?v=GD1eajzSApQ
   title: 'SemVer: The Backbone of Software'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-04-30T00:21:20+00:00'
@@ -189,7 +219,7 @@
   path: https://www.youtube.com/watch?v=ddTV12hErTc
   title: 'Rabbit R1: Barely Reviewable'
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-04-30T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -204,7 +234,7 @@
   path: https://open.spotify.com/episode/7yTzCPJE97xQuyBwRpQjgq
   title: "#126 - Investimento em galp\xF5es log\xEDsticos com a AZ Quest"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-04-26T22:12:36+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Ct2zo1cuzPQ/hqdefault.jpg
@@ -236,7 +266,7 @@
   path: https://open.spotify.com/episode/4LLapTuW47SzuAmRBEceEo
   title: Realistic Personal Finance Hacks
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2024-04-23T00:00:00+00:00'
   description: "Investir com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro\
     \ e em minutos voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe\
@@ -264,15 +294,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Working-Paper/Levering-Up-to-Do-Good-Direct-Long-Short-Investing-and-Charitable-Giving
   title: 'Levering Up to Do Good: Direct Long-Short Investing and Charitable Giving'
-- author: The Overshoot
-  categories: *id006
-  date: '2024-04-22T23:57:41+00:00'
-  description: We are far from overcoming humanity's material needs, which means we
-    need more production. The problem is not "excess" investment in capacity, but
-    making sure that the capacity can be fully utilized.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30de2b46-3884-479b-a077-165c3774dce4_5000x2625.png
-  path: https://theovershoot.co/p/chinese-overcapacity-is-not-the-problem
-  title: Chinese "Overcapacity" Is Not the Problem. Underconsumption Is.
 - author: Flirting with Models
   categories:
   - Podcasts
