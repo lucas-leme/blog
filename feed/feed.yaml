@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-06T00:00:00+00:00'
+  description: "Walmart is offering higher pay, bonuses and more stock options this\
+    \ year to retain and attract managers. WSJ\u2019s Sarah Nassauer spent a day with\
+    \ one manager, Nichole Hart, to understand why the job is commanding such a high\
+    \ salary these days, and why Hart logs about 20,000 steps a day.  Further Reading:\
+    \ - A Day in the Life of a Walmart Manager Who Makes $240,000 a Year\_ - Walmart\
+    \ Takes On Trader Joe\u2019s and Whole Foods With New Premium Brand\_ Further\
+    \ Listening: - What Walmart\u2019s Aisles Say About the American Consumer\_  \
+    \ Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4xrFUQmllLFDp7j0vztcfs
+  title: The 20,000 Steps to a Walmart Manager's Six-Figure Salary
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -17,7 +32,7 @@
   path: https://open.spotify.com/episode/13ITDoVKwTJ8qUPmBtIQdE
   title: '[PREVIEW] Enter the New World of Return Stacking | Get Stacked Podcast'
 - author: The Overshoot
-  categories: &id001
+  categories: &id002
   - Macro
   - Newsletters
   date: '2024-05-03T23:33:02+00:00'
@@ -79,7 +94,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/03052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/05/2024"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-05-03T00:00:00+00:00'
   description: "GARANTA SUA VAGA NA PR\xD3XIMA REABERTURA DA COMUNIDADE MARKET MAKERS:\
@@ -115,8 +130,7 @@
   title: "Juros americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas EM QUEDA:\
     \ e agora? | Mercado Aberto"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-05-03T00:00:00+00:00'
   description: "The high price of baby eels has triggered an upsurge in illegal fishing\
     \ and criminal activity in Canada. Earlier this year, the country announced a\
@@ -131,7 +145,7 @@
   path: https://open.spotify.com/episode/3LxGgJqdgnfLV5OIbYPA1i
   title: "Guns and Death Threats in Canada\u2019s Baby-Eel Fisheries"
 - author: The Overshoot
-  categories: *id001
+  categories: *id002
   date: '2024-05-02T08:35:07+00:00'
   description: U.S. spending and incomes continue to grow a bit faster than before
     the pandemic. And that's okay.
@@ -139,7 +153,7 @@
   path: https://theovershoot.co/p/the-6-solution
   title: The 6% Solution?
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-05-02T00:00:00+00:00'
   description: "No epis\xF3dio de hoje, recebemos dois verdadeiros especialistas do\
     \ mundo do trade para compartilhar suas experi\xEAncias e hist\xF3rias dos operadores\
@@ -169,19 +183,6 @@
   path: https://open.spotify.com/episode/4tb9RPFIBRECHI8a9hA6dD
   title: "#96 | As hist\xF3rias n\xE3o contadas sobre os verdadeiros traders da bolsa\
     \ de valores"
-- author: The Journal.
-  categories: *id003
-  date: '2024-05-02T00:00:00+00:00'
-  description: "The National Basketball Association is in advanced stages of a new\
-    \ round of media-rights deals. WSJ\u2019s Amol Sharma unpacks why several major\
-    \ media players are jostling for the lucrative rights.  Further Reading: -NBC\
-    \ Prepares $2.5-Billion-a-Year Bid to Pluck NBA Rights From TNT\_ -Amazon, YouTube\
-    \ Vie for NBA Streaming Rights as League\u2019s Media Talks Heat Up\_  Further\
-    \ Listening: -Why Three Media Giants Are Betting on Sports Streaming\_  Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0Wtymcn9JsVOR6iuofIMEF
-  title: The NBA's Media Rights Are Up for Grabs. Billions Are at Stake.
 - author: Money Talks from The Economist
   categories:
   - Podcasts
