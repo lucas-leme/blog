@@ -1,5 +1,41 @@
-- author: The Journal.
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-05-07T15:00:45+00:00'
+  description: "In this video, I'll show you how to use Jinja2 for AI prompt templates.\
+    \ While Jinja2 is commonly used for generating HTML pages, it's also incredibly\
+    \ effective for tools designed to interact with Large Language Models (LLMs).\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/tuesday_tips/jinja2\n\
+    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
+    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\nTry Learntail\
+    \ for FREE \u27A1\uFE0F https://www.learntail.com/\n\n\U0001F393 Courses:\nThe\
+    \ Software Designer Mindset: https://www.arjancodes.com/mindset\nThe Software\
+    \ Architect Mindset: https://www.arjancodes.com/architect\nNext Level Python:\
+    \ Become a Python Expert: https://www.arjancodes.com/next-level-python\nThe 30-Day\
+    \ Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR & RECOMMENDED\
+    \ BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed this content,\
+    \ give this video a like. If you want to watch more of my upcoming videos, consider\
+    \ subscribing to my channel!\n\nSocial channels:\n\U0001F4AC Discord: https://discord.arjan.codes\n\
+    \U0001F426Twitter: https://twitter.com/arjancodes\n\U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\
+    \U0001F575Facebook: https://www.facebook.com/arjancodes\n\U0001F4F1Instagram:\
+    \ https://www.instagram.com/arjancodes\n\u266A Tiktok: https://www.tiktok.com/@arjancodes\n\
+    \n\U0001F440 Code reviewers:\n- Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit\
+    \ Hygh\n- Alexander Milden\n- Bean\n\n\U0001F3A5 Video edited by Mark Bacskai:\
+    \ https://www.instagram.com/bacskaimark\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:12 OpenAI helper function\n2:57 Jinja2 template\n4:31 Main file\n6:36 Outro\n\
+    \n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this description\
+    \ might be affiliate links. If you purchase a product or service through one of\
+    \ those links, I may receive a small commission. There is no additional charge\
+    \ to you. Thanks for supporting my channel so I can continue to provide you with\
+    \ free content each week!"
+  image: https://i4.ytimg.com/vi/sooYV9qKLDg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=sooYV9qKLDg
+  title: Jinja2 is Awesome for AI Prompt Templates
+- author: The Journal.
+  categories: &id002
   - Podcasts
   date: '2024-05-06T00:00:00+00:00'
   description: "Walmart is offering higher pay, bonuses and more stock options this\
@@ -42,7 +78,7 @@
   path: https://open.spotify.com/episode/13uqPBWgAyT4VHRZEfMfXH
   title: The Best Financial Advice I Know (What I Want My Kids To Learn)
 - author: The Overshoot
-  categories: &id002
+  categories: &id003
   - Macro
   - Newsletters
   date: '2024-05-03T23:33:02+00:00'
@@ -53,10 +89,7 @@
   path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
   title: Is Nominal Wage Growth Starting to Slow?
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-05-03T15:00:22+00:00'
   description: "Over the years, I\u2019ve produced several videos about AsyncIO. Today,\
     \ however, I\u2019m adopting a new approach where I explain the event loop in\
@@ -104,7 +137,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/03052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/05/2024"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-05-03T00:00:00+00:00'
   description: "GARANTA SUA VAGA NA PR\xD3XIMA REABERTURA DA COMUNIDADE MARKET MAKERS:\
@@ -140,7 +173,7 @@
   title: "Juros americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas EM QUEDA:\
     \ e agora? | Mercado Aberto"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-05-03T00:00:00+00:00'
   description: "The high price of baby eels has triggered an upsurge in illegal fishing\
     \ and criminal activity in Canada. Earlier this year, the country announced a\
@@ -155,7 +188,7 @@
   path: https://open.spotify.com/episode/3LxGgJqdgnfLV5OIbYPA1i
   title: "Guns and Death Threats in Canada\u2019s Baby-Eel Fisheries"
 - author: The Overshoot
-  categories: *id002
+  categories: *id003
   date: '2024-05-02T08:35:07+00:00'
   description: U.S. spending and incomes continue to grow a bit faster than before
     the pandemic. And that's okay.
@@ -163,7 +196,7 @@
   path: https://theovershoot.co/p/the-6-solution
   title: The 6% Solution?
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-05-02T00:00:00+00:00'
   description: "No epis\xF3dio de hoje, recebemos dois verdadeiros especialistas do\
     \ mundo do trade para compartilhar suas experi\xEAncias e hist\xF3rias dos operadores\
@@ -214,37 +247,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a97fa301a6dd1944dee283450
   path: https://open.spotify.com/episode/03n8VVP2OK18pYS6pPUD46
   title: 'Money Talks: An interview with Joseph Stiglitz'
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-04-30T15:00:13+00:00'
-  description: "In this video, I\u2019ll talk about Semantic Versioning (SemVer).\
-    \ SemVer isn't just a practice; it's the backbone and foundation of stable and\
-    \ reliable software products. \n\n\U0001F477 Join the FREE Code Diagnosis Workshop\
-    \ to help you review code more effectively using my 3-Factor Diagnosis Framework:\
-    \ https://www.arjancodes.com/diagnosis.\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
-    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/wvxewe\n\
-    \n\U0001F393 Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
-    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:28 So what is SemVer?\n0:55 Base Components\n\
-    3:09 Precedence\n4:28 Final thoughts\n\n#arjancodes #softwaredesign #python\n\n\
-    DISCLAIMER - The links in this description might be affiliate links. If you purchase\
-    \ a product or service through one of those links, I may receive a small commission.\
-    \ There is no additional charge to you. Thanks for supporting my channel so I\
-    \ can continue to provide you with free content each week!"
-  image: https://i4.ytimg.com/vi/GD1eajzSApQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GD1eajzSApQ
-  title: 'SemVer: The Backbone of Software'
 - author: Marques Brownlee
   categories: &id005
   - Tech
