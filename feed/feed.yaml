@@ -1,7 +1,18 @@
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id001
   - Tech
   - Youtube
+  date: '2024-05-08T02:06:33+00:00'
+  description: "I don't know who was asking for a thinner iPad, but we got it\n\n\
+    Get our first MKBHD Ridge Wallet and 10% off with code MKBHD at https://ridge.com/mkbhd\
+    \ \n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
+    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i2.ytimg.com/vi/-T0MGehwWvE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=-T0MGehwWvE
+  title: 'M4 iPad Pro Impressions: Well This is Awkward'
+- author: Marques Brownlee
+  categories: *id001
   date: '2024-05-07T16:18:33+00:00'
   description: 'Google drops Pixel 8A. But Pixel 8 is still goated.
 
@@ -33,7 +44,7 @@
   path: https://www.youtube.com/watch?v=B3szaVzQx0o
   title: 'Google Pixel 8A Impressions: Just Get The 8!'
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -67,9 +78,9 @@
     \ free content each week!"
   image: https://i4.ytimg.com/vi/sooYV9qKLDg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sooYV9qKLDg
-  title: Jinja2 is Awesome for AI Prompt Templates
+  title: How To Do AI Prompt Templating
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-05-07T00:00:00+00:00'
   description: "Participamos da Semana do Mercado Financeiro, a convite da FEA-USP,\
@@ -95,7 +106,7 @@
   title: "Conselhos para uma carreira de sucesso em bancos e o futuro da economia\
     \ brasileira | B\xF4nus #9"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-05-07T00:00:00+00:00'
   description: "Tesla announced last week that it\u2019s laying off the team responsible\
@@ -111,7 +122,7 @@
   path: https://open.spotify.com/episode/54x3lBfvN4qGr7Q6s7VD2a
   title: Why Is Tesla Pulling Back on EV Charging?
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-05-06T00:00:00+00:00'
   description: "Walmart is offering higher pay, bonuses and more stock options this\
     \ year to retain and attract managers. WSJ\u2019s Sarah Nassauer spent a day with\
@@ -153,7 +164,7 @@
   path: https://open.spotify.com/episode/13uqPBWgAyT4VHRZEfMfXH
   title: The Best Financial Advice I Know (What I Want My Kids To Learn)
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-05-03T23:33:02+00:00'
@@ -164,7 +175,7 @@
   path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
   title: Is Nominal Wage Growth Starting to Slow?
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-05-03T15:00:22+00:00'
   description: "Over the years, I\u2019ve produced several videos about AsyncIO. Today,\
     \ however, I\u2019m adopting a new approach where I explain the event loop in\
@@ -212,7 +223,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/03052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/05/2024"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-05-03T00:00:00+00:00'
   description: "GARANTA SUA VAGA NA PR\xD3XIMA REABERTURA DA COMUNIDADE MARKET MAKERS:\
     \ https://lp.mmakers.com.br/comunidade-market-makers/?xpromo=XE-ME-CMMMK-SUBMMK-20240503-YT-X-XJuros\
@@ -247,7 +258,7 @@
   title: "Juros americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas EM QUEDA:\
     \ e agora? | Mercado Aberto"
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-05-02T08:35:07+00:00'
   description: U.S. spending and incomes continue to grow a bit faster than before
     the pandemic. And that's okay.
@@ -275,20 +286,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a97fa301a6dd1944dee283450
   path: https://open.spotify.com/episode/03n8VVP2OK18pYS6pPUD46
   title: 'Money Talks: An interview with Joseph Stiglitz'
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-04-30T00:21:20+00:00'
-  description: "AI in a Box. But a different box.\n\nGet a dbrand skin and screen\
-    \ protector at https://dbrand.com/rabbit\n\nMKBHD Merch: http://shop.MKBHD.com\n\
-    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track:\
-    \ http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \nR1 provided by Rabbit for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
-    http://facebook.com/MKBHD\n\n0:00 Intro\n0:26 AI In A Box\n3:40 It\u2019s Also\
-    \ Bad\n7:07 $200\n9:56 Large Action Model\n14:06 What Are We Doing Here?\n16:42\
-    \ FUTURE"
-  image: https://i1.ytimg.com/vi/ddTV12hErTc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ddTV12hErTc
-  title: 'Rabbit R1: Barely Reviewable'
 - author: Outliers
   categories: &id006
   - Podcasts
