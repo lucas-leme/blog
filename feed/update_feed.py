@@ -78,13 +78,6 @@ feeds = {
         "image": "",
         "n_posts_to_show": 1
     },
-    "Bloomberg Línea": {
-        "url": "https://rss.app/feeds/tJITcQETajHhaxD6.xml",
-        "categories": ["Notícias"],
-        "image": "",
-        "n_posts_to_show": 4,
-        "force_author": True
-    },
     "Brazil Journal - Economia": {
         "url": "https://braziljournal.com/categoria/economia/feed/",
         "categories": ["Notícias"],
