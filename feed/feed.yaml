@@ -33,7 +33,7 @@
   path: https://www.youtube.com/watch?v=B3szaVzQx0o
   title: 'Google Pixel 8A Impressions: Just Get The 8!'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -68,9 +68,50 @@
   image: https://i4.ytimg.com/vi/sooYV9qKLDg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sooYV9qKLDg
   title: Jinja2 is Awesome for AI Prompt Templates
-- author: The Journal.
-  categories: &id002
+- author: Market Makers
+  categories: &id003
   - Podcasts
+  date: '2024-05-07T00:00:00+00:00'
+  description: "Participamos da Semana do Mercado Financeiro, a convite da FEA-USP,\
+    \ com tr\xEAs renomados diretores de bancos estrangeiros, que compartilharam suas\
+    \ experi\xEAncias trabalhando em bancos globais e suas vis\xF5es em rela\xE7\xE3\
+    o \xE0 economia do mundo.Os convidados foram: Mar\xEDlia Carvalho (COO do Morgan\
+    \ Stanley), Pedro Juliano (Vice Chairman do JP Morgan) e Luis Mendes (COO do Deutsche\
+    \ Bank). Os convidados falaram bastante sobre suas trajet\xF3rias de carreira,\
+    \ discutiram sobre a melhor hora para sair do pa\xEDs, as raz\xF5es para retornar\
+    \ e as oportunidades de carreira em suas respectivas institui\xE7\xF5es.Al\xE9\
+    m disso, abordaram a vis\xE3o atual do cen\xE1rio de mercado para 2024, incluindo\
+    \ quest\xF5es como o impacto do ciclo de queda de juros no mercado de capitais\
+    \ brasileiro e a possibilidade de novas ofertas de a\xE7\xF5es. Eles tamb\xE9\
+    m compartilharam insights sobre como os investidores estrangeiros est\xE3o avaliando\
+    \ o mercado de capitais brasileiro.\_O epis\xF3dio foi uma oportunidade valiosa\
+    \ para os espectadores entenderem as perspectivas e tend\xEAncias atuais no mercado\
+    \ financeiro. N\xE3o esque\xE7a de deixar seu like e inscrever-se no canal do\
+    \ Market Makers!Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)Convidados:\
+    \ Marilia Carvalho (Morgan Stanley), Pedro Juliano (JP Morgan) e Luis Flavio Mendes\
+    \ (Deutsche Bank)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo"
+  image: https://i.scdn.co/image/ab6765630000ba8a10b22a0dbcf8d6638e5b786a
+  path: https://open.spotify.com/episode/0kpzfrI3mERDDtFAfkC0Vx
+  title: "Conselhos para uma carreira de sucesso em bancos e o futuro da economia\
+    \ brasileira | B\xF4nus #9"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-07T00:00:00+00:00'
+  description: "Tesla announced last week that it\u2019s laying off the team responsible\
+    \ for the biggest electric-vehicle charging network in the U.S. The move comes\
+    \ as consumer demand for EVs is dwindling. WSJ\u2019s Jennifer Hiller reports\
+    \ on how the layoffs shocked the industry and how the change will impact efforts\
+    \ to build out a national EV charging network.  Further Reading: -Tesla Is Pulling\
+    \ Back From EV Charging, and People Are Freaking Out\_ -As Electric-Vehicle Shoppers\
+    \ Hesitate, Hybrid Sales Surge\_  Further Listening: -Money, Drugs, Elon Musk\
+    \ and Tesla\u2019s Board\_ -How China\u2019s BYD Overtook Tesla\_  Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/54x3lBfvN4qGr7Q6s7VD2a
+  title: Why Is Tesla Pulling Back on EV Charging?
+- author: The Journal.
+  categories: *id001
   date: '2024-05-06T00:00:00+00:00'
   description: "Walmart is offering higher pay, bonuses and more stock options this\
     \ year to retain and attract managers. WSJ\u2019s Sarah Nassauer spent a day with\
@@ -112,7 +153,7 @@
   path: https://open.spotify.com/episode/13uqPBWgAyT4VHRZEfMfXH
   title: The Best Financial Advice I Know (What I Want My Kids To Learn)
 - author: The Overshoot
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2024-05-03T23:33:02+00:00'
@@ -123,7 +164,7 @@
   path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
   title: Is Nominal Wage Growth Starting to Slow?
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-05-03T15:00:22+00:00'
   description: "Over the years, I\u2019ve produced several videos about AsyncIO. Today,\
     \ however, I\u2019m adopting a new approach where I explain the event loop in\
@@ -171,8 +212,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/03052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 03/05/2024"
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-05-03T00:00:00+00:00'
   description: "GARANTA SUA VAGA NA PR\xD3XIMA REABERTURA DA COMUNIDADE MARKET MAKERS:\
     \ https://lp.mmakers.com.br/comunidade-market-makers/?xpromo=XE-ME-CMMMK-SUBMMK-20240503-YT-X-XJuros\
@@ -206,60 +246,14 @@
   path: https://open.spotify.com/episode/1fixu0tobjpUXr3T1C4EXe
   title: "Juros americanos EM ALTA, GUERRAS E P\xC2NICO pelo mundo e bolsas EM QUEDA:\
     \ e agora? | Mercado Aberto"
-- author: The Journal.
-  categories: *id002
-  date: '2024-05-03T00:00:00+00:00'
-  description: "The high price of baby eels has triggered an upsurge in illegal fishing\
-    \ and criminal activity in Canada. Earlier this year, the country announced a\
-    \ ban on baby-eel fishing in an attempt to contain the violence and to protect\
-    \ dwindling fish stocks. We speak to WSJ\u2019s Paul Vieira and to a baby-eel\
-    \ fisherman about how a tiny fish has created a turf war in a remote Canadian\
-    \ community.  Further Reading:  -Guns and Death Threats Spur Canada to Reel in\
-    \ Baby-Eel Fishing\_  Further Listening:  -Will Florida\u2019s Plan to Get Cheap\
-    \ Drugs From Canada Work?\_ -Canada\u2019s Historic Settlement with Indigenous\
-    \ People\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3LxGgJqdgnfLV5OIbYPA1i
-  title: "Guns and Death Threats in Canada\u2019s Baby-Eel Fisheries"
 - author: The Overshoot
-  categories: *id003
+  categories: *id004
   date: '2024-05-02T08:35:07+00:00'
   description: U.S. spending and incomes continue to grow a bit faster than before
     the pandemic. And that's okay.
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e1f443-9bc9-489f-85d2-785eabc9a0e6_5001x2625.png
   path: https://theovershoot.co/p/the-6-solution
   title: The 6% Solution?
-- author: Market Makers
-  categories: *id004
-  date: '2024-05-02T00:00:00+00:00'
-  description: "No epis\xF3dio de hoje, recebemos dois verdadeiros especialistas do\
-    \ mundo do trade para compartilhar suas experi\xEAncias e hist\xF3rias dos operadores\
-    \ de bolsa de valores no Brasil: Roberto Lombardi, uma lenda no mundo do trading,\
-    \ conhecido como o pai dos minicontratos e fundador da Interfloat, a primeira\
-    \ corretora focada em pessoas f\xEDsicas. Transformando um investimento de 17\
-    \ mil reais em um patrim\xF4nio de 26 milh\xF5es de reais, vinte anos depois,\
-    \ quando a BMF abriu capital. -Andr\xE9 Antunes, CEO da Scalper, uma empresa de\
-    \ educa\xE7\xE3o e tecnologia que revolucionou o mercado de minicontratos no Brasil,\
-    \ formando mais de 2 milh\xF5es de alunos.Com uma trajet\xF3ria que inclui desde\
-    \ o Ex\xE9rcito at\xE9 o sucesso como trader e empreendedor, Antunes traz uma\
-    \ perspectiva \xFAnica sobre estrat\xE9gias de trading e gest\xE3o de risco. Lombardi\
-    \ contou como foi parar no mercado financeiro, a trajet\xF3ria de crescimento\
-    \ da Interfloat, como ele ganhou rios de dinheiro no dia em que Naji Nahas \u201C\
-    quebrou a bolsa do Rio de Janeiro\u201D, a batalha para a cria\xE7\xE3o dos minicontratos,\
-    \ a transi\xE7\xE3o do preg\xE3o viva-voz para o preg\xE3o eletr\xF4nico, entre\
-    \ outros epis\xF3dios.J\xE1 Andr\xE9 Antunes revelou os segredos do tape reading\
-    \ e do scalping, as armadilhas do day trade, os mitos e verdades sobre a rentabilidade\
-    \ no mercado financeiro e as li\xE7\xF5es que todo investidor deve aprender para\
-    \ evitar o fracasso no trade. Se voc\xEA \xE9 f\xE3 de hist\xF3rias de mercado,\
-    \ esse epis\xF3dio \xE9 para voc\xEA! N\xE3o esque\xE7a de deixar o seu like no\
-    \ v\xEDdeo!Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney) e Lucas Claro (@lucas.mclaro)Convidados:\
-    \ Roberto Lombardi (Fundador da Interfloat e Idealizador dos minicontratos da\
-    \ B3) e Andr\xE9 Antunes (CEO da Scalper)Edi\xE7\xE3o: Bianca Barsotti e Lucas\
-    \ Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8a09e55ccac480ae95d0c4e104
-  path: https://open.spotify.com/episode/4tb9RPFIBRECHI8a9hA6dD
-  title: "#96 | As hist\xF3rias n\xE3o contadas sobre os verdadeiros traders da bolsa\
-    \ de valores"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
