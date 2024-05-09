@@ -1,3 +1,17 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-09T00:00:00+00:00'
+  description: "Starbucks has a problem: Sales at U.S. stores have fallen sharply\
+    \ and now the company is looking to China, its second biggest market, to boost\
+    \ its revenue. But as WSJ\u2019s Spencer Jakab explains, increased competition\
+    \ there is making that a tall order.\_  Further Reading:  -Starbucks Is Running\
+    \ Out of Americans to Drink Its Expensive Coffee\_ -The Furious Race for the Future\
+    \ of Coffee Further Listening:  -The Underdog Coffee Bean That\u2019s Making a\
+    \ Comeback\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/58aotU5llR5d1G9P74VLaG
+  title: Can Chinese Customers Rescue Starbucks?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -98,7 +112,7 @@
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-05-08T02:06:33+00:00'
@@ -111,7 +125,7 @@
   path: https://www.youtube.com/watch?v=-T0MGehwWvE
   title: 'M4 iPad Pro Impressions: Well This is Awkward'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-05-08T00:00:00+00:00'
   description: "CORTE EP #96: Roberto Lombardi, lenda da bolsa de valores, conta como\
@@ -128,8 +142,7 @@
   title: "NAJI NAHAS: Um dia que entrou para a HIST\xD3RIA da BOLSA BRASILEIRA| Corte\
     \ Ep #96"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-05-08T00:00:00+00:00'
   description: "London and Dubai's international airports have become conduits for\
     \ billions of dollars of illicit funds, potentially linked to corruption, drug\
@@ -154,7 +167,7 @@
   path: https://open.spotify.com/episode/1zTwD8uvis862oGdOciXa8
   title: 'Building Resilience: Selecting the Right Assets for an Alternatives Portfolio'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-05-07T16:18:33+00:00'
   description: 'Google drops Pixel 8A. But Pixel 8 is still goated.
 
@@ -222,7 +235,7 @@
   path: https://www.youtube.com/watch?v=sooYV9qKLDg
   title: Jinja2 is Awesome for AI Prompt Templates
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-05-07T00:00:00+00:00'
   description: "Participamos da Semana do Mercado Financeiro, a convite da FEA-USP,\
     \ com tr\xEAs renomados diretores de bancos estrangeiros, que compartilharam suas\
@@ -246,21 +259,6 @@
   path: https://open.spotify.com/episode/0kpzfrI3mERDDtFAfkC0Vx
   title: "Conselhos para uma carreira de sucesso em bancos e o futuro da economia\
     \ brasileira | B\xF4nus #9"
-- author: The Journal.
-  categories: *id003
-  date: '2024-05-07T00:00:00+00:00'
-  description: "Tesla announced last week that it\u2019s laying off the team responsible\
-    \ for the biggest electric-vehicle charging network in the U.S. The move comes\
-    \ as consumer demand for EVs is dwindling. WSJ\u2019s Jennifer Hiller reports\
-    \ on how the layoffs shocked the industry and how the change will impact efforts\
-    \ to build out a national EV charging network.  Further Reading: -Tesla Is Pulling\
-    \ Back From EV Charging, and People Are Freaking Out\_ -As Electric-Vehicle Shoppers\
-    \ Hesitate, Hybrid Sales Surge\_  Further Listening: -Money, Drugs, Elon Musk\
-    \ and Tesla\u2019s Board\_ -How China\u2019s BYD Overtook Tesla\_  Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/54x3lBfvN4qGr7Q6s7VD2a
-  title: Why Is Tesla Pulling Back on EV Charging?
 - author: Flirting with Models
   categories:
   - Podcasts
