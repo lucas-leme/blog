@@ -1,3 +1,21 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-13T00:00:00+00:00'
+  description: "Before Ozempic, Wegovy, Mounjaro and Zepbound, there was Lotte Bjerre\
+    \ Knudsen.  In the 1990s, the young scientist at the Danish drug company Novo\
+    \ Nordisk was trying to unlock the key to a new technology for treating Type 2\
+    \ diabetes. To her bosses, Lotte\u2019s project, which focused on a hormone called\
+    \ GLP-1, looked like a distraction.\_  But as Lotte fought to save her diabetes\
+    \ project from the chopping block, she couldn\u2019t have imagined how much of\
+    \ an impact her breakthrough would have. Her work would pave the way for a hit\
+    \ drug called Ozempic. And it would unleash a new class of blockbuster drugs,\
+    \ pitting two companies in a race to become the world\u2019s first trillion-dollar\
+    \ pharmaceutical company by market cap.  Listen to Part 1 of \u201CTrillion Dollar\
+    \ Shot\u201D now.   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a2cf523e0b787d95461801a33
+  path: https://open.spotify.com/episode/1XIgBAKpL9IEcd20MwPLKI
+  title: 'Trillion Dollar Shot, Episode 1: Birth of a Blockbuster'
 - author: ArjanCodes
   categories: &id004
   - Tech
@@ -36,8 +54,7 @@
   path: https://www.youtube.com/watch?v=HX6vkP-QD7U
   title: The Unit of Work Design Pattern Explained
 - author: The Journal.
-  categories: &id001
-  - Podcasts
+  categories: *id001
   date: '2024-05-10T00:00:00+00:00'
   description: "WSJ\u2019s Julie Wernau wanted to test a hypothesis: are there more\
     \ mentally ill homeless people now, compared to before the pandemic? That question\
@@ -75,19 +92,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a133f30436e7893f5e83cbd75
   path: https://open.spotify.com/episode/6soUP1Wec9QweOrxISX9W7
   title: '#97 | A MENTALIDADE DO MAIOR INVESTIDOR DE TODOS OS TEMPOS (MMakers em Omaha)'
-- author: The Journal.
-  categories: *id001
-  date: '2024-05-09T00:00:00+00:00'
-  description: "Starbucks has a problem: Sales at U.S. stores have fallen sharply\
-    \ and now the company is looking to China, its second biggest market, to boost\
-    \ its revenue. But as WSJ\u2019s Spencer Jakab explains, increased competition\
-    \ there is making that a tall order.\_  Further Reading:  -Starbucks Is Running\
-    \ Out of Americans to Drink Its Expensive Coffee\_ -The Furious Race for the Future\
-    \ of Coffee  Further Listening:  -The Underdog Coffee Bean That\u2019s Making\
-    \ a Comeback\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/58aotU5llR5d1G9P74VLaG
-  title: Can Chinese Customers Rescue Starbucks?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -292,7 +296,7 @@
     \ free content each week!"
   image: https://i4.ytimg.com/vi/sooYV9qKLDg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sooYV9qKLDg
-  title: How To Do AI Prompt Templating
+  title: Jinja2 is Awesome for AI Prompt Templates
 - author: Flirting with Models
   categories:
   - Podcasts
