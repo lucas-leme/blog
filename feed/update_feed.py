@@ -89,7 +89,7 @@ feeds = {
         "categories": ["Notícias"],
         "n_posts_to_show": 2,
         "image": ""
-    }
+    },
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
         "categories": ["Quant", "Papers"],
