@@ -84,6 +84,12 @@ feeds = {
         "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
         "n_posts_to_show": 2,
     },
+    "Invest News": {
+        "url": "https://investnews.com.br/economia/feed/",
+        "categories": ["Notícias"],
+        "n_posts_to_show": 2,
+        "image": ""
+    }
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
         "categories": ["Quant", "Papers"],
