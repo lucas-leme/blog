@@ -33,6 +33,20 @@
   image: https://i1.ytimg.com/vi/83jGr826Ow8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=83jGr826Ow8
   title: The Best Keyboard for Developers With a Major Flaw
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-17T00:00:00+00:00'
+  description: "The Pacific Surfliner train in Southern California runs along some\
+    \ of the most beautiful coastlines in America. But some fear it might soon fall\
+    \ into the ocean. WSJ\u2019s Jim Carlton reports on how coastal erosion is impacting\
+    \ an iconic train route and the controversial plans to move parts of the line\
+    \ inland.\_\_  Further Reading:  - The Race to Keep an Amtrak Train From Falling\
+    \ Into the Pacific\_  Further Listening:  - What Caused a Train to Derail in East\
+    \ Palestine, Ohio?\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3SWpB4XoQjJwv1xaDcq9RA
+  title: The Race to Save an Iconic Train From Falling Into the Ocean
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -43,7 +57,7 @@
   path: https://www.youtube.com/watch?v=qbu8hN4Qv00
   title: M4 iPad vs MAGNETS
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-05-16T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -76,8 +90,7 @@
   title: "#98 | JAVIER MILEI: Dolariza\xE7\xE3o, Fim do BC e o futuro da economia\
     \ da Argentina"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-05-16T00:00:00+00:00'
   description: "Jim Simons pioneered a revolution in financial trading, embracing\
     \ a computer-oriented, quantitative style in the 1980s well ahead of Wall Street.\
@@ -114,7 +127,7 @@
   path: https://open.spotify.com/episode/7JUgXloipYRMfBtoezlWCf
   title: 'A wholesale success: Why Americans love Costco'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-05-15T00:00:00+00:00'
   description: "Marcos Mendes (Insper) e Daniel Leichsenring (economista-chefe da\
     \ Verde Asset) falam sobre o risco fiscal do brasil e os impactos dele na economia\
@@ -125,22 +138,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a05d790f57b9097870c6f072b
   path: https://open.spotify.com/episode/1RTb6fEn0SrajyNOg1z7r5
   title: A VERDADE INCONVENIENTE SOBRE O FISCAL DO BRASIL | Macro Summit
-- author: The Journal.
-  categories: *id002
-  date: '2024-05-15T00:00:00+00:00'
-  description: "If the upcoming presidential election could be summed up by a song,\
-    \ what would it be? And will voters cast their ballots based on a bright future\
-    \ or a gloomy one? In a live-taping before an audience at the Cascade PBS Ideas\
-    \ Festival, Kate Linebaugh and Ryan Knutson sat down with WSJ political reporter\
-    \ Molly Ball to discuss these topics and more. To watch the video, check out the\
-    \ episode on Spotify.Further Reading:-Biden and Trump, In Two Speeches, Speak\
-    \ to Two Visions of America\_-Arizona is Booming, But Restless Voters Feel Downbeat\
-    \ About EconomyFurther Listening:-Trump Allies Draft Plans to Rein in the Fed-Why\
-    \ the Fed Is Steering Away From Rate Cuts  Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/19VwbWHXWS7JlqJSi79VRh
-  title: 'Live from Seattle: A Weird Economy + Election = ??'
 - author: Outliers
   categories: &id006
   - Podcasts
