@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-20T13:57:39+00:00'
+  description: "Os pre\xE7os come\xE7aram a disparar no in\xEDcio de abril e, na semana\
+    \ passada, o receio de que faltaria metal para fechar posi\xE7\xF5es na bolsa\
+    \ de commodities de Nova York acelerou o rali"
+  image: ''
+  path: https://investnews.com.br/economia/cobre-bate-recorde-com-aumento-de-apostas-em-escassez-global/
+  title: Cobre bate recorde com aumento de apostas em escassez global
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
@@ -32,8 +42,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/05/supply-chain-disruptions-have-eased-but-remain-a-concern/
   title: Supply Chain Disruptions Have Eased, But Remain a Concern
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-19T18:22:02+00:00'
   description: "Helic\xF3ptero ainda n\xE3o foi encontrado devido \xE0s m\xE1s condi\xE7\
     \xF5es meteorol\xF3gicas"
@@ -41,15 +50,6 @@
   path: https://investnews.com.br/economia/presidente-do-ira-ebrahim-raisi-esta-desaparecido-apos-queda-de-helicoptero/
   title: "Presidente do Ir\xE3, Ebrahim Raisi, est\xE1 desaparecido ap\xF3s queda\
     \ de helic\xF3ptero"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-18T12:37:13+00:00'
-  description: "Para eles, pol\xEDtica fiscal brasileira ainda \xE9 fonte de instabilidade\
-    \ e um problema para o Banco Central"
-  image: ''
-  path: https://investnews.com.br/economia/franco-loyola-malan-e-arida-ex-bcs-criticam-politica-fiscal-do-governo-lula/
-  title: "Franco, Loyola, Malan e Arida: ex-BCs criticam pol\xEDtica fiscal do governo\
-    \ Lula"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - "Not\xEDcias"
