@@ -33,6 +33,21 @@
   image: https://i3.ytimg.com/vi/r_le07f_rfQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=r_le07f_rfQ
   title: "Git Hooks: We\u2019re Not Using Them Enough!"
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2024-05-21T11:00:00+00:00'
+  description: "Firms\u2019 access to credit is a crucial determinant of their investment,\
+    \ employment, and overall growth decisions. While we usually think of their ability\
+    \ to borrow as determined by aggregate credit conditions, in reality firms have\
+    \ a number of markets where they can borrow, and conditions can vary across those\
+    \ markets. In this post, we investigate how the composition of debt instruments\
+    \ on U.S. firms\u2019 balance sheets has evolved over the last twenty years."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2024/05/the-changing-landscape-of-corporate-credit/
+  title: The Changing Landscape of Corporate Credit
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -65,6 +80,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac8802d0f01a71afc9b8c6117
   path: https://open.spotify.com/episode/73FSOHz2ZoBtWmtjjDms6n
   title: 'Trillion Dollar Shot, Episode 2: Bank Breakers'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-05-17T21:24:11+00:00'
+  description: "<p>A trag\xE9dia que assola o Rio Grande do Sul tem propor\xE7\xF5\
+    es imensur\xE1veis. Al\xE9m das perdas humanas, exigir\xE1 a reconstru\xE7\xE3\
+    o de cidades inteiras. Os governos n\xE3o resolver\xE3o o problema sozinhos. A\
+    \ sociedade civil pode, quer e deve ajudar, como j\xE1 fez em outros momentos\
+    \ agudos. Em meio a not\xEDcias desoladoras, manifesta\xE7\xF5es de solidariedade\
+    \ nos trazem alento [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-destravar-a-filantropia-pela-via-tributaria/\"\
+    \ rel=\"nofollow\">OPINI\xC3O: Destravar a filantropia pela via tribut\xE1ria</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-destravar-a-filantropia-pela-via-tributaria/
+  title: "OPINI\xC3O: Destravar a filantropia pela via tribut\xE1ria"
 - author: ArjanCodes
   categories: *id002
   date: '2024-05-17T15:00:08+00:00'
@@ -113,7 +144,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/05/2024"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-05-16T16:48:08+00:00'
@@ -121,8 +152,24 @@
   image: https://i2.ytimg.com/vi/qbu8hN4Qv00/hqdefault.jpg
   path: https://www.youtube.com/watch?v=qbu8hN4Qv00
   title: M4 iPad vs MAGNETS
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id003
+  date: '2024-05-16T09:33:42+00:00'
+  description: "<p>Na terra arrasada do Rio Grande do Sul, velhas lealdades e um sentimento\
+    \ de gratid\xE3o est\xE3o se tornando a\xE7\xF5es concretas. A fam\xEDlia Ling\
+    \ &#8212; cujo patriarca come\xE7ou a vida do zero e fez fortuna no Estado &#8212;\
+    \ se comprometeu a doar R$ 50 milh\xF5es para obras emergenciais de infraestrutura,\
+    \ ajudando comunidades a reconstruir pontes e [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/no-sul-a-familia-ling-quer-reconstruir-pontes-e-estradas-os-amigos-estao-ajudando/\"\
+    \ rel=\"nofollow\">No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas.\
+    \ Os amigos est\xE3o ajudando</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-sul-a-familia-ling-quer-reconstruir-pontes-e-estradas-os-amigos-estao-ajudando/
+  title: "No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas. Os amigos\
+    \ est\xE3o ajudando"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-05-16T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -176,7 +223,7 @@
   path: https://open.spotify.com/episode/7JUgXloipYRMfBtoezlWCf
   title: 'A wholesale success: Why Americans love Costco'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-05-15T00:00:00+00:00'
   description: "Marcos Mendes (Insper) e Daniel Leichsenring (economista-chefe da\
     \ Verde Asset) falam sobre o risco fiscal do brasil e os impactos dele na economia\
@@ -188,7 +235,7 @@
   path: https://open.spotify.com/episode/1RTb6fEn0SrajyNOg1z7r5
   title: A VERDADE INCONVENIENTE SOBRE O FISCAL DO BRASIL | Macro Summit
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2024-05-15T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/ukasMX6H4_gInvestir\
@@ -203,7 +250,7 @@
   path: https://open.spotify.com/episode/4n1epNR5GmC0Zhz3sylHKu
   title: "#127 - Os pilares da gest\xE3o de cr\xE9dito privado da SPX Capital"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-05-14T16:10:04+00:00'
@@ -213,7 +260,7 @@
   path: https://www.apricitas.io/p/americas-manufacturing-productivity
   title: America's Manufacturing Productivity Problem
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2024-05-14T11:29:27+00:00'
@@ -643,7 +690,7 @@
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-05-08T02:06:33+00:00'
   description: "I don't know who was asking for a thinner iPad, but we got it\n\n\
     Get our first MKBHD Ridge Wallet and 10% off with code MKBHD at https://ridge.com/mkbhd\
@@ -684,7 +731,7 @@
   path: https://open.spotify.com/episode/13ITDoVKwTJ8qUPmBtIQdE
   title: '[PREVIEW] Enter the New World of Return Stacking | Get Stacked Podcast'
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2024-05-03T23:33:02+00:00'
   description: The April numbers suggest that the recent slowdown in average hourly
     pay growth since January could be something more than a fluke. That would be a
@@ -693,7 +740,7 @@
   path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
   title: Is Nominal Wage Growth Starting to Slow?
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2024-04-30T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -707,7 +754,7 @@
   path: https://open.spotify.com/episode/7yTzCPJE97xQuyBwRpQjgq
   title: "#126 - Investimento em galp\xF5es log\xEDsticos com a AZ Quest"
 - author: AQR
-  categories: &id008
+  categories: &id009
   - Quant
   - Papers
   date: '2024-04-23T00:00:00'
@@ -723,7 +770,7 @@
   path: https://www.aqr.com/Insights/Research/Working-Paper/Levering-Up-to-Do-Good-Direct-Long-Short-Investing-and-Charitable-Giving
   title: 'Levering Up to Do Good: Direct Long-Short Investing and Charitable Giving'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2024-04-14T16:01:24+00:00'
   description: The Golden State Used to Dominate Tech Employment&#8212;But Its Share
     of Total US Tech Jobs has Now Fallen to the Lowest Level in a Decade
@@ -748,7 +795,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202403
   title: "BC - RI: mar\xE7o/2024"
 - author: AQR
-  categories: *id008
+  categories: *id009
   date: '2024-03-12T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
     \ 12, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
