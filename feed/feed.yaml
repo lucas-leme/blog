@@ -1,3 +1,38 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-05-21T15:00:46+00:00'
+  description: "In this video, I\u2019ll explore Git hooks and demonstrate how to\
+    \ create a custom Python script to enhance your development workflow.\n\n\U0001F4A1\
+    \ Get my FREE 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \n\U0001F4E8 The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/ziclcf\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
+    The Software Architect Mindset: Pre-register now! https://www.arjancodes.com/architect\n\
+    Next Level Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
+    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
+    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n0:32 What are git hooks?\n1:02 pre-commit\
+    \ hook\n2:11 Creating custom Python Git hook\n2:56 Why should we use this?\n3:54\
+    \ Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in this\
+    \ description might be affiliate links. If you purchase a product or service through\
+    \ one of those links, I may receive a small commission. There is no additional\
+    \ charge to you. Thanks for supporting my channel so I can continue to provide\
+    \ you with free content each week!"
+  image: https://i3.ytimg.com/vi/r_le07f_rfQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=r_le07f_rfQ
+  title: "Git Hooks: We\u2019re Not Using Them Enough!"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -31,10 +66,7 @@
   path: https://open.spotify.com/episode/73FSOHz2ZoBtWmtjjDms6n
   title: 'Trillion Dollar Shot, Episode 2: Bank Breakers'
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-05-17T15:00:08+00:00'
   description: "In this video, I\u2019ll find out if the Keychron Q5 Max is the best\
     \ keyboard for developers. I\u2019ll talk about all its features, and how it differs\
@@ -90,7 +122,7 @@
   path: https://www.youtube.com/watch?v=qbu8hN4Qv00
   title: M4 iPad vs MAGNETS
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-05-16T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -144,7 +176,7 @@
   path: https://open.spotify.com/episode/7JUgXloipYRMfBtoezlWCf
   title: 'A wholesale success: Why Americans love Costco'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-05-15T00:00:00+00:00'
   description: "Marcos Mendes (Insper) e Daniel Leichsenring (economista-chefe da\
     \ Verde Asset) falam sobre o risco fiscal do brasil e os impactos dele na economia\
@@ -180,40 +212,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15806d4f-46fa-4b7b-93f6-87083f397c8a_2886x1843.png
   path: https://www.apricitas.io/p/americas-manufacturing-productivity
   title: America's Manufacturing Productivity Problem
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-05-14T15:00:16+00:00'
-  description: "In this video, I'll explore invariants in software development. As\
-    \ developers, we're usually focused on what the code does, but it's just as crucial\
-    \ to understand what the code doesn't do. Understanding invariants will not only\
-    \ deepen your grasp of your code but also enhance your ability to write more effective\
-    \ tests.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/tuesday_tips/invariant\n\
-    \n\U0001F477 Join the FREE Code Diagnosis Workshop to help you review code more\
-    \ effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
-    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
-    \ Take a quiz on this topic: https://www.learntail.com/quiz/ypbgpu\n\n\U0001F393\
-    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/mindset\n\
-    The Software Architect Mindset: https://www.arjancodes.com/architect\nNext Level\
-    \ Python: Become a Python Expert: https://www.arjancodes.com/next-level-python\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/30ddc\n\n\U0001F6D2 GEAR\
-    \ & RECOMMENDED BOOKS: https://kit.co/arjancodes.\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426Twitter: https://twitter.com/arjancodes\n\
-    \U0001F30DLinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:35 What Are Invariants?\n1:32 Types of Invariants\n\
-    2:47 Why Invariants Matter\n3:35 Outro\n\n#arjancodes #softwaredesign #python\n\
-    \nDISCLAIMER - The links in this description might be affiliate links. If you\
-    \ purchase a product or service through one of those links, I may receive a small\
-    \ commission. There is no additional charge to you. Thanks for supporting my channel\
-    \ so I can continue to provide you with free content each week!"
-  image: https://i3.ytimg.com/vi/FGgOsCAhFL4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=FGgOsCAhFL4
-  title: 'Invariants: How Understanding Limits Enhances Your Code'
 - author: The Overshoot
   categories: &id005
   - Macro
