@@ -8,7 +8,7 @@ import yaml
 feeds = {
     'Liberty Street Economics': {
         "url": 'https://feeds.feedburner.com/LibertyStreetEconomics',
-        "categories": ["Notícias", "FED", "BC"],
+        "categories": ["Macro", "FED", "BC"],
         "image": "https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg",
         "n_posts_to_show": 1
     },
@@ -80,15 +80,21 @@ feeds = {
     },
     "Brazil Journal - Economia": {
         "url": "https://braziljournal.com/categoria/economia/feed/",
-        "categories": ["Notícias"],
+        "categories": ["Economia"],
         "image": "https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png",
         "n_posts_to_show": 2,
     },
-    "Invest News": {
+    "Invest News - Economia": {
         "url": "https://investnews.com.br/economia/feed/",
         "categories": ["Notícias"],
         "n_posts_to_show": 2,
-        "image": ""
+        "image": "https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj"
+    },
+    "Invest News - Finanças": {
+      "url": "https://investnews.com.br/financas/feed/",
+        "categories": ["Notícias"],
+        "n_posts_to_show": 2,
+        "image": "https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj"
     },
     "AQR": {
         "url": "https://fetchrss.com/rss/653e6c6f01a45c2863204a32653e6c4c2b91d54e8654b9c2.xml",
