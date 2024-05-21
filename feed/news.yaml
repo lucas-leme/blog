@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-21T11:58:54+00:00'
+  description: "A empresa de saneamento prev\xEA realizar sua oferta de a\xE7\xF5\
+    es para privatiza\xE7\xE3o em junho"
+  image: ''
+  path: https://investnews.com.br/economia/privatizacao-da-sabesp-avanca-com-aprovacao-de-novo-contrato-de-concessao/
+  title: "Privatiza\xE7\xE3o da Sabesp avan\xE7a com aprova\xE7\xE3o de novo contrato\
+    \ de concess\xE3o"
 - author: Liberty Street Economics
   categories:
   - "Not\xEDcias"
@@ -14,23 +24,13 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/05/the-changing-landscape-of-corporate-credit/
   title: The Changing Landscape of Corporate Credit
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-20T20:59:45+00:00'
   description: "Focus elevou a proje\xE7\xE3o da Selic para 2024"
   image: ''
   path: https://investnews.com.br/economia/dolar-tem-leva-alta-e-ibovespa-cai-com-projecao-de-que-selic-seguira-em-dois-digitos/
   title: "D\xF3lar tem leva alta e Ibovespa cai com proje\xE7\xE3o de que Selic seguir\xE1\
     \ em dois d\xEDgitos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-20T13:57:39+00:00'
-  description: "Os pre\xE7os come\xE7aram a disparar no in\xEDcio de abril e, na semana\
-    \ passada, o receio de que faltaria metal para fechar posi\xE7\xF5es na bolsa\
-    \ de commodities de Nova York acelerou o rali"
-  image: ''
-  path: https://investnews.com.br/economia/cobre-bate-recorde-com-aumento-de-apostas-em-escassez-global/
-  title: Cobre bate recorde com aumento de apostas em escassez global
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - "Not\xEDcias"
