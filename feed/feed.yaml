@@ -1,3 +1,46 @@
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2024-05-22T05:58:21+00:00'
+  description: Services prices might be moderating, but input costs for manufactured
+    goods may be going the wrong way despite weakening consumer demand.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40931c0d-949c-414e-99fc-d1bf647bb54a_5001x2625.png
+  path: https://theovershoot.co/p/the-inflation-outlook-is-getting
+  title: The Inflation Outlook Is Getting Better, But Also Worse?
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2024-05-22T02:26:31+00:00'
+  description: '2 week of overthinking this iPad Pro
+
+
+    Get a real leather skin at https://dbrand.com/shop/leather
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Tablet provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/PHcDrXeyguM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=PHcDrXeyguM
+  title: 5 Weird iPad Pro (M4) Decisions
 - author: ArjanCodes
   categories: &id002
   - Tech
@@ -49,7 +92,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/05/the-changing-landscape-of-corporate-credit/
   title: The Changing Landscape of Corporate Credit
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-05-21T00:00:00+00:00'
   description: "No epis\xF3dio de hoje do Market Makers, gravado na FGV durante a\
@@ -107,7 +150,7 @@
   path: https://open.spotify.com/episode/2wofce8C3SzYaRj7koeish
   title: "Did \u2018Roaring Kitty\u2019 Just Spark a Meme Stock Sequel?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-05-17T21:24:11+00:00'
   description: "<p>A trag\xE9dia que assola o Rio Grande do Sul tem propor\xE7\xF5\
@@ -170,16 +213,14 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/05/2024"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2024-05-16T16:48:08+00:00'
   description: ''
   image: https://i2.ytimg.com/vi/qbu8hN4Qv00/hqdefault.jpg
   path: https://www.youtube.com/watch?v=qbu8hN4Qv00
   title: M4 iPad vs MAGNETS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-05-16T09:33:42+00:00'
   description: "<p>Na terra arrasada do Rio Grande do Sul, velhas lealdades e um sentimento\
     \ de gratid\xE3o est\xE3o se tornando a\xE7\xF5es concretas. A fam\xEDlia Ling\
@@ -195,7 +236,7 @@
   title: "No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas. Os amigos\
     \ est\xE3o ajudando"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-05-16T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
     \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar.Com o\
@@ -273,9 +314,7 @@
   path: https://www.apricitas.io/p/americas-manufacturing-productivity
   title: America's Manufacturing Productivity Problem
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2024-05-14T11:29:27+00:00'
   description: After accounting for changes in duration and reverse repos, headline
     estimates of quantity-based policy tightening may be overstated.
@@ -702,17 +741,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18160
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-05-08T02:06:33+00:00'
-  description: "I don't know who was asking for a thinner iPad, but we got it\n\n\
-    Get our first MKBHD Ridge Wallet and 10% off with code MKBHD at https://ridge.com/mkbhd\
-    \ \n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nIntro Track: http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/-T0MGehwWvE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=-T0MGehwWvE
-  title: 'M4 iPad Pro Impressions: Well This is Awkward'
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -743,15 +771,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8abd7df772a1fa5cc74ed97f5f
   path: https://open.spotify.com/episode/13ITDoVKwTJ8qUPmBtIQdE
   title: '[PREVIEW] Enter the New World of Return Stacking | Get Stacked Podcast'
-- author: The Overshoot
-  categories: *id006
-  date: '2024-05-03T23:33:02+00:00'
-  description: The April numbers suggest that the recent slowdown in average hourly
-    pay growth since January could be something more than a fluke. That would be a
-    big deal.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4adb5af7-0d1c-4db4-9348-0561d69af58c_5000x2734.png
-  path: https://theovershoot.co/p/is-nominal-wage-growth-starting-to
-  title: Is Nominal Wage Growth Starting to Slow?
 - author: Outliers
   categories: *id007
   date: '2024-04-30T00:00:00+00:00'
