@@ -1,6 +1,25 @@
 - author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-22T20:19:58+00:00'
+  description: "Ainda assim, analistas do Santander e do BofA apontam que as principais\
+    \ raz\xF5es para o pessimismo s\xE3o externas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/investidor-evita-acoes-por-receio-de-intervencao-politica-e-taxas-de-juros-mais-altas-pelo-fed/
+  title: "Investidor evita a\xE7\xF5es por receio de interven\xE7\xE3o pol\xEDtica\
+    \ e taxas de juros mais altas pelo Fed"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2024-05-22T20:01:52+00:00'
+  description: "A taxa\xE7\xE3o enfrenta resist\xEAncia do PT e de parte do governo\
+    \ Lula, que v\xEA a medida como impopular"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-nao-tomou-posicao-sobre-taxacao-de-compras-internacionais-de-ate-us-50-diz-haddad/
+  title: "Governo n\xE3o tomou posi\xE7\xE3o sobre taxa\xE7\xE3o de compras internacionais\
+    \ de at\xE9 US$ 50, diz Haddad"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-05-22T18:58:33+00:00'
   description: "Um operador gerou uma ordem de venda de US$ 444 bilh\xF5es, em vez\
     \ de US$ 58 milh\xF5es"
@@ -9,8 +28,7 @@
   title: "Citigroup recebe multa milion\xE1ria ap\xF3s venda equivocada de a\xE7\xF5\
     es"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-22T18:39:47+00:00'
   description: "A companhia se disp\xF4s a apresentar relat\xF3rios sobre sua nova\
     \ estrat\xE9gia comercial para a oferta de derivados"
@@ -18,27 +36,6 @@
   path: https://investnews.com.br/economia/cade-aprova-proposta-da-petrobras-e-a-desobriga-de-vender-refinarias-e-participacao-na-tbg/
   title: "Cade aprova proposta da Petrobras e a desobriga de vender refinarias e participa\xE7\
     \xE3o na TBG"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-22T13:35:56+00:00'
-  description: "O presidente argentino promete acabar com a infla\xE7\xE3o anual de\
-    \ tr\xEAs d\xEDgitos e dolarizar a economia desde sua campanha eleitoral"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-apresenta-passos-para-dolarizacao-da-economia-argentina/
-  title: "Milei apresenta passos para dolariza\xE7\xE3o da economia Argentina"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-22T11:31:08+00:00'
-  description: "Acionistas da varejista Americanas (AMER3), que est\xE1 em recupera\xE7\
-    \xE3o judicial, aprovaram na ter\xE7a-feira (21) aumento de capital social da\
-    \ companhia durante assembleia geral extraordin\xE1ria, conforme ata da reuni\xE3\
-    o. O valor m\xEDnimo aprovado para o aumento de capital social \xE9 de R$ 12,3\
-    \ bilh\xF5es, com emiss\xE3o de ao menos 9,4 bilh\xF5es de novas a\xE7\xF5es,\
-    \ enquanto o [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acionistas-da-americanas-aprovam-aumento-de-capital-de-ate-r-407-bi/
-  title: "Acionistas da Americanas aprovam aumento de capital de at\xE9 R$ 40,7 bilh\xF5\
-    es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
