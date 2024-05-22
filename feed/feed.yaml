@@ -27,7 +27,7 @@
   path: https://theovershoot.co/p/the-inflation-outlook-is-getting
   title: The Inflation Outlook Is Getting Better, But Also Worse?
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-05-22T02:26:31+00:00'
@@ -59,8 +59,23 @@
   image: https://i1.ytimg.com/vi/PHcDrXeyguM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=PHcDrXeyguM
   title: 5 Weird iPad Pro (M4) Decisions
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2024-05-22T00:00:00+00:00'
+  description: "CORTE EP #98: Daniel Delabio e Jos\xE9 Carlos Carvalho explica o que\
+    \ est\xE1 acontecendo com a Argentina e como Javier Milei vem trabalhando para\
+    \ salvar a economia do pa\xEDs.\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\
+    \ https://youtu.be/BRJzSTdmKv8JAVIER MILEI: Dolariza\xE7\xE3o, Fim do BC e o futuro\
+    \ da economia da Argentina | Market Makers #98Apresenta\xE7\xE3o: Thiago Salom\xE3\
+    o (@_salomoney) e Josu\xE9 Guedes (@josueguedes_)Convidados: Daniel Delabio (s\xF3\
+    cio fundador e gestor da Exploritas) e Jos\xE9 Carlos Carvalho (S\xF3cio da Vinci\
+    \ Partners)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo"
+  image: https://i.scdn.co/image/ab6765630000ba8a253ca4c87d8aa7d10e829eef
+  path: https://open.spotify.com/episode/4CZJW5Q6EltjvM5jNoKZ8k
+  title: "A DIREITA EST\xC1 SALVANDO A ARGENTINA? | Corte EP #98"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -95,8 +110,7 @@
   path: https://www.youtube.com/watch?v=r_le07f_rfQ
   title: "Git Hooks: We\u2019re Not Using Them Enough!"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2024-05-21T00:00:00+00:00'
   description: "No epis\xF3dio de hoje do Market Makers, gravado na FGV durante a\
     \ sexta semana do mercado financeiro da CJE, recebemos Rodrigo Campos, uma lenda\
@@ -121,7 +135,7 @@
   path: https://open.spotify.com/episode/1q40V0Jrl90Nre3vWI0MuS
   title: "OS SEGREDOS PARA O SUCESSO NO MERCADO FINANCEIRO | B\xF4nus #11"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-05-21T00:00:00+00:00'
   description: "Seven months into the war, Hamas is far from defeated. The Islamist\
@@ -138,7 +152,7 @@
   path: https://open.spotify.com/episode/76CbyeikfaQAb2AMoEMdLP
   title: Why Israel and Hamas Could Be Headed Into a Forever War
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-05-20T00:00:00+00:00'
   description: "Meme stocks took off last week after an unexpected tweet appeared\
     \ from \u201CRoaring Kitty,\u201D a social media account associated with former\
@@ -153,7 +167,7 @@
   path: https://open.spotify.com/episode/2wofce8C3SzYaRj7koeish
   title: "Did \u2018Roaring Kitty\u2019 Just Spark a Meme Stock Sequel?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-05-17T21:24:11+00:00'
   description: "<p>A trag\xE9dia que assola o Rio Grande do Sul tem propor\xE7\xF5\
@@ -169,7 +183,7 @@
   path: https://braziljournal.com/opiniao-destravar-a-filantropia-pela-via-tributaria/
   title: "OPINI\xC3O: Destravar a filantropia pela via tribut\xE1ria"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-05-17T15:00:08+00:00'
   description: "In this video, I\u2019ll find out if the Keychron Q5 Max is the best\
     \ keyboard for developers. I\u2019ll talk about all its features, and how it differs\
@@ -216,14 +230,14 @@
   path: https://www.bcb.gov.br/publicacoes/focus/17052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/05/2024"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-05-16T16:48:08+00:00'
   description: ''
   image: https://i2.ytimg.com/vi/qbu8hN4Qv00/hqdefault.jpg
   path: https://www.youtube.com/watch?v=qbu8hN4Qv00
   title: M4 iPad vs MAGNETS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-05-16T09:33:42+00:00'
   description: "<p>Na terra arrasada do Rio Grande do Sul, velhas lealdades e um sentimento\
     \ de gratid\xE3o est\xE3o se tornando a\xE7\xF5es concretas. A fam\xEDlia Ling\
@@ -238,38 +252,6 @@
   path: https://braziljournal.com/no-sul-a-familia-ling-quer-reconstruir-pontes-e-estradas-os-amigos-estao-ajudando/
   title: "No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas. Os amigos\
     \ est\xE3o ajudando"
-- author: Market Makers
-  categories: *id005
-  date: '2024-05-16T00:00:00+00:00'
-  description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
-    \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar.Com o\
-    \ cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site:\_\
-    https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=maio_mktinfluencia_ig_marketmakersELAS\
-    \ REVOLUCIONARAM AS ESTATAIS:O evento que vai te colocar 'dentro' das maiores\
-    \ estatais brasileiras.No dia 30/05,\_THIAGO SALOM\xC3O\_e JULIA WILTGEN, rep\xF3\
-    rter especial do Seu Dinheiro, v\xE3o receber convidadas ilustres: Elvira Pesta,\
-    \ ex-CFO da Eletrobras, Andrea Almeida, ex-CFO da Petrobras, e Daniella Marques,\
-    \ ex-CEO da Caixa. Fa\xE7a sua inscri\xE7\xE3o gratuita aqui: https://lp.seudinheiro.com/mmk09-0/?xpromo=XD-MEL-MMK-MMK09-YT-PODCAST98-20240516-XNeste\
-    \ epis\xF3dio, vamos explorar a fundo como a Argentina passou de uma grande pot\xEA\
-    ncia mundial para um dos pa\xEDses mais inst\xE1veis do mundo, com uma infla\xE7\
-    \xE3o assustadora.Para nos ajudar, recebemos dois convidados que sabem tudo sobre\
-    \ Argentina: Jos\xE9 Carlos Carvalho (S\xF3cio da Vinci Partners) e Daniel Delabio\
-    \ (Exploritas Investimentos) para nos ajudar a entender o que aconteceu com a\
-    \ Argentina, e como a recente \u201Cmelhora\u201D da economia fez com que oportunidades\
-    \ de investimento surgissem no pa\xEDs.Falaremos sobre como Javier Milei vem tentando\
-    \ salvar a economia Argentina, ajustando o grave problema fiscal do pa\xEDs, e\
-    \ tamb\xE9m sobre como ele planeja implementar medidas extremas, como por exemplo:\
-    \ a dolariza\xE7\xE3o da economia e o fim do Banco Central.O que Javier Milei\
-    \ est\xE1 realmente fazendo com a economia da Argentina? Ser\xE1 que ele ser\xE1\
-    \ capaz de realmente tirar a Argentina desta crise que assola o pa\xEDs h\xE1\
-    \ anos?Confira o epis\xF3dio e descubra se a Argentina tem salva\xE7\xE3o.Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes)Convidados:\
-    \ Daniel Delabio (s\xF3cio fundador e gestor da Exploritas) e Jos\xE9 Carlos Carvalho\
-    \ (S\xF3cio da Vinci Partners)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8a74f2b3a339d8938d34d3a60f
-  path: https://open.spotify.com/episode/08mDvseP90HCch9bYT22jv
-  title: "#98 | JAVIER MILEI: Dolariza\xE7\xE3o, Fim do BC e o futuro da economia\
-    \ da Argentina"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
