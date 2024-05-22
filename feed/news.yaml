@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-05-22T13:35:56+00:00'
+  description: "O presidente argentino promete acabar com a infla\xE7\xE3o anual de\
+    \ tr\xEAs d\xEDgitos e dolarizar a economia desde sua campanha eleitoral"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-apresenta-passos-para-dolarizacao-da-economia-argentina/
+  title: "Milei apresenta passos para dolariza\xE7\xE3o da economia Argentina"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -22,8 +31,7 @@
   title: "Stuhlberger assume fundo de a\xE7\xF5es da Verde Asset ap\xF3s corte na\
     \ equipe"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-21T19:02:01+00:00'
   description: "Fintech do Mercado Livre tamb\xE9m visa aumentar seu portf\xF3lio\
     \ de produtos"
@@ -31,15 +39,6 @@
   path: https://investnews.com.br/economia/mercado-pago-vai-buscar-licenca-bancaria-no-mexico-prazo-estimado-e-de-ate-24-meses/
   title: "Mercado Pago vai buscar licen\xE7a banc\xE1ria no M\xE9xico; prazo estimado\
     \ \xE9 de at\xE9 24 meses"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-21T12:58:32+00:00'
-  description: "O pa\xEDs ais\xE1tico \xE9 o maior comprador de mat\xE9rias-primas\
-    \ da regi\xE3o e um grande investidor"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/america-latina-segue-passos-dos-eua-e-aumenta-tarifas-de-aco-chines/
-  title: "Am\xE9rica Latina segue passos dos EUA e aumenta tarifas de a\xE7o chin\xEA\
-    s"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
