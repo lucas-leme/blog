@@ -1,6 +1,19 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-05-22T11:31:08+00:00'
+  description: "Acionistas da varejista Americanas (AMER3), que est\xE1 em recupera\xE7\
+    \xE3o judicial, aprovaram na ter\xE7a-feira (21) aumento de capital social da\
+    \ companhia durante assembleia geral extraordin\xE1ria, conforme ata da reuni\xE3\
+    o. O valor m\xEDnimo aprovado para o aumento de capital social \xE9 de R$ 12,3\
+    \ bilh\xF5es, com emiss\xE3o de ao menos 9,4 bilh\xF5es de novas a\xE7\xF5es,\
+    \ enquanto o [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/acionistas-da-americanas-aprovam-aumento-de-capital-de-ate-r-407-bi/
+  title: "Acionistas da Americanas aprovam aumento de capital de at\xE9 R$ 40,7 bilh\xF5\
+    es"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-05-21T19:26:39+00:00'
   description: "Segundo fontes, as fortes perdas registradas em abril no fundo Verde\
     \ AM Acoes FIA levaram \xE0 reestrutura\xE7\xE3o de estrat\xE9gia da gestora"
@@ -9,7 +22,7 @@
   title: "Stuhlberger assume fundo de a\xE7\xF5es da Verde Asset ap\xF3s corte na\
     \ equipe"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-05-21T19:02:01+00:00'
   description: "Fintech do Mercado Livre tamb\xE9m visa aumentar seu portf\xF3lio\
@@ -19,7 +32,7 @@
   title: "Mercado Pago vai buscar licen\xE7a banc\xE1ria no M\xE9xico; prazo estimado\
     \ \xE9 de at\xE9 24 meses"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-05-21T12:58:32+00:00'
   description: "O pa\xEDs ais\xE1tico \xE9 o maior comprador de mat\xE9rias-primas\
     \ da regi\xE3o e um grande investidor"
@@ -27,12 +40,3 @@
   path: https://investnews.com.br/economia/america-latina-segue-passos-dos-eua-e-aumenta-tarifas-de-aco-chines/
   title: "Am\xE9rica Latina segue passos dos EUA e aumenta tarifas de a\xE7o chin\xEA\
     s"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-20T14:23:22+00:00'
-  description: "Em julho do ano passado, \xF3rg\xE3os reguladores divulgaram uma proposta\
-    \ para reformular a forma como os bancos com mais de US$ 100 bi em ativos calculam\
-    \ seu \"colch\xE3o\" de liquidez"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/reguladores-dos-eua-reconsideram-aumento-de-capital-para-grandes-bancos/
-  title: Reguladores dos EUA reconsideram aumento de capital para grandes bancos
