@@ -126,6 +126,12 @@ feeds = {
         "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBJycsmduvYEL83R_U4JriQ",
         "categories": ["Tech", "Youtube"],
         "image": ""
+    },
+    "CFA Reddit": {
+        "url": "https://www.reddit.com/r/CFA/.rss",
+        "categories": ["Notícias", "CFA", "Reddit"],
+        "n_posts_to_show": 2,
+        "image": "https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c"
     }
 }
 
