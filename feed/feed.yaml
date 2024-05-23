@@ -1,3 +1,50 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-05-23T19:41:23+00:00'
+  description: 'Commencement for the class of 2024 at the school I graduated from!
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/a7ItChBrY8E/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=a7ItChBrY8E
+  title: I Gave A Commencement Speech!
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-05-23T00:00:00+00:00'
+  description: "Paris Hilton and her husband, VC investor Carter Reum, talk about\
+    \ \"strict\" parenting, the importance of A.I. and the huge economic value of\
+    \ her spoiled airhead persona. Ryan Knutson sat down with the couple at The Wall\
+    \ Street Journal\u2019s Future of Everything Festival.\_ To watch the video, check\
+    \ out the episode on Spotify.Further Reading:-Paris Hilton\u2019s Business Empire\
+    \ Is Getting a MakeoverFurther Listening:-The Business of Dua Lipa Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3RnwYmtf3N3JIKUbvsgxUd
+  title: "Paris Hilton and Carter Reum on AI, Parenting and \u201CCreating the Next\
+    \ Disney\u201D"
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2024-05-23T00:00:00+00:00'
+  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k speak with Randy\
+    \ Anderson, a partner in the Real Assets Group at Apollo, about how surging interest\
+    \ rates have contributed to unprecedented conditions in the US real estate market,\
+    \ and how opportunities can be found as rates stay higher for longer."
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/1aCb7zYjSXFIo6cQUKz2NY
+  title: 'Real Estate: Opportunities and Risks in an Unprecedented Market'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -51,9 +98,7 @@
   path: https://theovershoot.co/p/the-inflation-outlook-is-getting
   title: The Inflation Outlook Is Getting Better, But Also Worse?
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-05-22T02:26:31+00:00'
   description: '2 week of overthinking this iPad Pro
 
@@ -84,7 +129,7 @@
   path: https://www.youtube.com/watch?v=PHcDrXeyguM
   title: 5 Weird iPad Pro (M4) Decisions
 - author: Market Makers
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-05-22T00:00:00+00:00'
   description: "CORTE EP #98: Daniel Delabio e Jos\xE9 Carlos Carvalho explica o que\
@@ -99,8 +144,7 @@
   path: https://open.spotify.com/episode/4CZJW5Q6EltjvM5jNoKZ8k
   title: "A DIREITA EST\xC1 SALVANDO A ARGENTINA? | Corte EP #98"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-05-22T00:00:00+00:00'
   description: "Florida condominium buildings are undergoing inspections after the\
     \ state set new requirements for how often the structures are put to the test.\
@@ -114,7 +158,7 @@
   path: https://open.spotify.com/episode/7CLGIWlChaSCLlsdzyMyK5
   title: Years After Surfside Collapse, Florida Condos Are In Crisis
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -149,7 +193,7 @@
   path: https://www.youtube.com/watch?v=r_le07f_rfQ
   title: "Git Hooks: We\u2019re Not Using Them Enough!"
 - author: Market Makers
-  categories: *id001
+  categories: *id003
   date: '2024-05-21T00:00:00+00:00'
   description: "No epis\xF3dio de hoje do Market Makers, gravado na FGV durante a\
     \ sexta semana do mercado financeiro da CJE, recebemos Rodrigo Campos, uma lenda\
@@ -173,22 +217,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6f1740a0803ec21e75bc7002
   path: https://open.spotify.com/episode/1q40V0Jrl90Nre3vWI0MuS
   title: "OS SEGREDOS PARA O SUCESSO NO MERCADO FINANCEIRO | B\xF4nus #11"
-- author: The Journal.
-  categories: *id002
-  date: '2024-05-21T00:00:00+00:00'
-  description: "Seven months into the war, Hamas is far from defeated. The Islamist\
-    \ militant group is using guerrilla tactics and a vast underground tunnel network\
-    \ to evade Israeli forces. WSJ\u2019s Jared Malsin reports on how the group\u2019\
-    s resilience is stoking fears in Israel that it is walking into a forever war.\
-    \  Further Reading:  -Hamas Shift to Guerrilla Tactics Raises Specter of Forever\
-    \ War for Israel\_ -ICC Prosecutor Seeks Arrest Warrants for Netanyahu, Hamas\
-    \ Leader Sinwar\_ -Israel War Cabinet Member Sets Ultimatum and Threatens to Quit\
-    \ Government\_  Further Listening:  -A Deadly Strike on Aid Workers in Gaza\_\
-    \ -The UN Agency Accused of Links to Hamas\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/76CbyeikfaQAb2AMoEMdLP
-  title: Why Israel and Hamas Could Be Headed Into a Forever War
 - author: "Economia \u2013 Brazil Journal"
   categories: &id005
   - Economia
@@ -206,7 +234,7 @@
   path: https://braziljournal.com/opiniao-destravar-a-filantropia-pela-via-tributaria/
   title: "OPINI\xC3O: Destravar a filantropia pela via tribut\xE1ria"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-05-17T15:00:08+00:00'
   description: "In this video, I\u2019ll find out if the Keychron Q5 Max is the best\
     \ keyboard for developers. I\u2019ll talk about all its features, and how it differs\
@@ -252,13 +280,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/17052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/05/2024"
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-05-16T16:48:08+00:00'
-  description: ''
-  image: https://i2.ytimg.com/vi/qbu8hN4Qv00/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=qbu8hN4Qv00
-  title: M4 iPad vs MAGNETS
 - author: "Economia \u2013 Brazil Journal"
   categories: *id005
   date: '2024-05-16T09:33:42+00:00'
@@ -728,18 +749,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18160
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2024-05-08T00:00:00+00:00'
-  description: "Listen to Apollo Chief Economist Torsten Slok speak with Matt O\u2019\
-    Mara, Partner in Apollo\u2019s Insurance Solutions Group, about how alternative\
-    \ investments can help mitigate volatility at a time of high asset-class correlation,\
-    \ and how adding alternatives with a focus on factors such as cash-flow generation\
-    \ and valuation can make portfolios more resilient."
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/1zTwD8uvis862oGdOciXa8
-  title: 'Building Resilience: Selecting the Right Assets for an Alternatives Portfolio'
 - author: Flirting with Models
   categories:
   - Podcasts
