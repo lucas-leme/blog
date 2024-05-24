@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-24T17:51:52+00:00'
+  description: "A oferta poderia arrecadar cerca de US$ 10 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/arabia-saudita-planeja-oferta-de-acoes-da-aramco-ja-em-junho-dizem-fontes/
+  title: "Ar\xE1bia Saudita planeja oferta de a\xE7\xF5es da Aramco j\xE1 em junho,\
+    \ dizem fontes"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/economia/goldman-sachs-descarta-aposta-em-corte-do-fed-em-julho-a-medida-que-o-mercado-preve-menos-afrouxamento/
   title: Goldman Sachs descarta corte de juros pelo do Fed em julho
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-24T14:50:58+00:00'
   description: "Mudan\xE7as regulat\xF3rias tornam mais complicado para os bancos\
     \ de Wall Street permitirem o trabalho remoto"
@@ -58,14 +66,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1czbzmf/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-23T23:13:24+00:00'
-  description: "Ainda \xE9 necess\xE1ria uma aprova\xE7\xE3o adicional da SEC para\
-    \ os emissores dos produtos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/em-aprovacao-inedita-comissao-de-valores-dos-eua-aprova-etf-de-ethereum/
-  title: "Em decis\xE3o in\xE9dita, CVM dos EUA aprova ETFs de Ethereum"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2024-05-23T22:58:04+00:00'
