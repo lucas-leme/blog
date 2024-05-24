@@ -1,3 +1,21 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-05-24T15:09:15+00:00'
+  description: "Para os estrategistas do banco, a economia americana ainda \xE9 muito\
+    \ resiliente para justificar um afrouxamento"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/goldman-sachs-descarta-aposta-em-corte-do-fed-em-julho-a-medida-que-o-mercado-preve-menos-afrouxamento/
+  title: Goldman Sachs descarta corte de juros pelo do Fed em julho
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-24T14:50:58+00:00'
+  description: "Mudan\xE7as regulat\xF3rias tornam mais complicado para os bancos\
+    \ de Wall Street permitirem o trabalho remoto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/citi-hsbc-e-barclays-ampliam-volta-de-equipe-em-tempo-integral/
+  title: Citi, HSBC e Barclays ampliam volta de equipe em tempo integral
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -41,8 +59,7 @@
   path: https://www.reddit.com/r/CFA/comments/1czbzmf/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-23T23:13:24+00:00'
   description: "Ainda \xE9 necess\xE1ria uma aprova\xE7\xE3o adicional da SEC para\
     \ os emissores dos produtos"
@@ -50,8 +67,7 @@
   path: https://investnews.com.br/financas/em-aprovacao-inedita-comissao-de-valores-dos-eua-aprova-etf-de-ethereum/
   title: "Em decis\xE3o in\xE9dita, CVM dos EUA aprova ETFs de Ethereum"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-23T22:58:04+00:00'
   description: "Entenda o gargalo do refino no pa\xEDs, e como o monop\xF3lio da Petrobras,\
     \ reiterado pela decis\xE3o do Cade, colaborou para cri\xE1-lo"
@@ -59,23 +75,6 @@
   path: https://investnews.com.br/economia/brasil-o-mega-exportador-de-petroleo-que-precisa-importar-combustivel/
   title: "Brasil, o mega exportador de petr\xF3leo que precisa importar combust\xED\
     vel"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-23T21:52:55+00:00'
-  description: "D\xF3lar fecha est\xE1vel, acima dos R$ 5,15"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/perspectiva-de-juros-alto-por-mais-tempo-leva-ibovespa-ao-5o-pregao-seguido-de-queda/
-  title: "Perspectiva de juros alto por mais tempo leva Ibovespa ao 5\xBA preg\xE3\
-    o seguido de queda"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-22T20:19:58+00:00'
-  description: "Ainda assim, analistas do Santander e do BofA apontam que as principais\
-    \ raz\xF5es para o pessimismo s\xE3o externas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investidor-evita-acoes-por-receio-de-intervencao-politica-e-taxas-de-juros-mais-altas-pelo-fed/
-  title: "Investidor evita a\xE7\xF5es por receio de interven\xE7\xE3o pol\xEDtica\
-    \ e taxas de juros mais altas pelo Fed"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
