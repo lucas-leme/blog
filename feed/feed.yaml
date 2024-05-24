@@ -37,8 +37,24 @@
   image: https://i4.ytimg.com/vi/c8QXUrvSSyg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=c8QXUrvSSyg
   title: 'Streamlit Explained: Python Tutorial for Data Scientists'
-- author: Marques Brownlee
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-05-24T00:00:00+00:00'
+  description: "Elon Musk\u2019s Neuralink is on a mission to enable humans to communicate\
+    \ with computers using their thoughts. Now they have successfully implanted their\
+    \ device in a human.. WSJ's Rolfe Winkler explores the new technology and speaks\
+    \ to Noland Arbaugh, Neuralink's first participant.  Further Reading: - Elon Musk\u2019\
+    s Neuralink Shows First Patient Using Its Brain Implant\_ - Elon Musk\u2019s Neuralink\
+    \ Gets FDA Green Light for Second Patient, as First Describes His Emotional Journey\_\
+    \  Further Listening: - Elon Musk's 'Demon Mode'\_ - Elon Musk on 2024 Politics,\
+    \ Succession Plans and Whether AI Will Annihilate Humanity\_\_  Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/36LlCZaosvHqSLmOlg1r72
+  title: "The First Person to Get Elon Musk\u2019s Neuralink Brain Chip"
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-05-23T19:41:23+00:00'
@@ -59,7 +75,7 @@
   path: https://www.youtube.com/watch?v=a7ItChBrY8E
   title: I Gave A Commencement Speech!
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-05-23T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -75,8 +91,7 @@
   title: "#99 | Os SEGREDOS para ganhar dinheiro com a queda das a\xE7\xF5es na bolsa\
     \ de valores"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-05-23T00:00:00+00:00'
   description: "Paris Hilton and her husband, VC investor Carter Reum, talk about\
     \ \"strict\" parenting, the importance of A.I. and the huge economic value of\
@@ -153,7 +168,7 @@
   path: https://theovershoot.co/p/the-inflation-outlook-is-getting
   title: The Inflation Outlook Is Getting Better, But Also Worse?
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-05-22T02:26:31+00:00'
   description: '2 week of overthinking this iPad Pro
 
@@ -184,7 +199,7 @@
   path: https://www.youtube.com/watch?v=PHcDrXeyguM
   title: 5 Weird iPad Pro (M4) Decisions
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-05-22T00:00:00+00:00'
   description: "CORTE EP #98: Daniel Delabio e Jos\xE9 Carlos Carvalho explica o que\
     \ est\xE1 acontecendo com a Argentina e como Javier Milei vem trabalhando para\
@@ -197,20 +212,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a253ca4c87d8aa7d10e829eef
   path: https://open.spotify.com/episode/4CZJW5Q6EltjvM5jNoKZ8k
   title: "A DIREITA EST\xC1 SALVANDO A ARGENTINA? | Corte EP #98"
-- author: The Journal.
-  categories: *id003
-  date: '2024-05-22T00:00:00+00:00'
-  description: "Florida condominium buildings are undergoing inspections after the\
-    \ state set new requirements for how often the structures are put to the test.\
-    \ WSJ's Deborah Acosta explores how costs in one building have climbed to over\
-    \ $134,000.\_  Further Reading: - New Florida Law Roils Its Condo Market Three\
-    \ Years After Surfside Collapse\_ - Florida Condo Owners Brace for New Inspection,\
-    \ Reserve Requirements\_  Further Listening: - Who's in Charge of Fixing Miami's\
-    \ Aging Condos?\_ - The Mixed Signals from the Collapsed Condo's Past\_   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7CLGIWlChaSCLlsdzyMyK5
-  title: Years After Surfside Collapse, Florida Condos Are In Crisis
 - author: ArjanCodes
   categories: *id004
   date: '2024-05-21T15:00:46+00:00'
