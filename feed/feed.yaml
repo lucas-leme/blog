@@ -37,8 +37,38 @@
   image: https://i4.ytimg.com/vi/c8QXUrvSSyg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=c8QXUrvSSyg
   title: 'Streamlit Explained: Python Tutorial for Data Scientists'
-- author: The Journal.
+- author: Market Makers
   categories: &id001
+  - Podcasts
+  date: '2024-05-24T00:00:00+00:00'
+  description: "INSCREVA-SE NO CANAL DO SPORTS MARKET MAKERS: https://www.youtube.com/@SportsMMakers\
+    \ Shop2gether possui a melhor curadoria de moda e lifestyle, com as melhores marcas\
+    \ nacionais e internacionais reunidas em um s\xF3 lugar. Com o cupom MARKETMAKERS15,\
+    \ voc\xEA garante 15% OFF na sua primeira compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=maio_mktinfluencia_ig_marketmakers\
+    \ Nesta live especial, vamos falar sobre como as empresas transformam a paix\xE3\
+    o pelos esportes em neg\xF3cios altamente lucrativos. Vamos explorar estrat\xE9\
+    gias de investimento no setor esportivo, desde patroc\xEDnios milion\xE1rios at\xE9\
+    \ aquisi\xE7\xF5es de equipes e ligas. Nesta live, voc\xEA vai entender como marcas\
+    \ globais ganham dinheiro com esportes, quais s\xE3o as oportunidades de mercado\
+    \ para investidores e as tend\xEAncias que est\xE3o moldando o futuro dessa ind\xFA\
+    stria bilion\xE1ria.Falaremos sobre:\_Como empresas lucram com patroc\xEDnios\
+    \ esportivos\_Investimentos em equipes e ligas esportivas\_O papel do marketing\
+    \ esportivo nos lucros empresariais\_Oportunidades de investimento no setor esportivo\_\
+    Tend\xEAncias e inova\xE7\xF5es no mercado esportivoA ideia de criar o Sports\
+    \ Market Makers surgiu ap\xF3s percebermos um forte crescimento no interesse do\
+    \ brasileiro em temas ligados \xE0 sa\xFAde financeira do time do cora\xE7\xE3\
+    o ou mesmo oportunidades de neg\xF3cios dentro do mundo dos esportes, ao mesmo\
+    \ tempo que n\xE3o temos um ve\xEDculo ou canal focado em abordar esses assuntos\
+    \ de uma maneira f\xE1cil de entender.N\xF3s, que j\xE1 buscamos diariamente democratizar\
+    \ o tema mercado financeiro no Market Makers, nos vimos com a miss\xE3o de fazer\
+    \ a mesma coisa nas finan\xE7as esportivas.Aproveite e j\xE1 siga nossas redes:Youtube:\
+    \ https://www.youtube.com/@SportsMMakers Instagram: https://www.instagram.com/sports.mmakers/\_\
+    X (antigo Twitter): https://x.com/sports_mmakers TikTok: https://www.tiktok.com/@sports.mmakers"
+  image: https://i.scdn.co/image/ab6765630000ba8a21ebcbf3b0df36e4d10b51a3
+  path: https://open.spotify.com/episode/1K9qqQic0MjuXaAhQ6foqD
+  title: "Tudo que voc\xEA precisa saber sobre investimentos em esportes"
+- author: The Journal.
+  categories: &id002
   - Podcasts
   date: '2024-05-24T00:00:00+00:00'
   description: "Elon Musk\u2019s Neuralink is on a mission to enable humans to communicate\
@@ -53,8 +83,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/36LlCZaosvHqSLmOlg1r72
   title: "The First Person to Get Elon Musk\u2019s Neuralink Brain Chip"
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-05-24T00:00:00+00:00'
+  description: The most productive work you can do often looks like the laziest --
+    but it can be hard to accept that because of how the workplace has changed over
+    the last 100 years.
+  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
+  path: https://open.spotify.com/episode/15LtQCEElRURzauztQDOyU
+  title: Lazy Work, Good Work
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-05-23T19:41:23+00:00'
@@ -75,8 +115,7 @@
   path: https://www.youtube.com/watch?v=a7ItChBrY8E
   title: I Gave A Commencement Speech!
 - author: Market Makers
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-05-23T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
     \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
@@ -91,7 +130,7 @@
   title: "#99 | Os SEGREDOS para ganhar dinheiro com a queda das a\xE7\xF5es na bolsa\
     \ de valores"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-05-23T00:00:00+00:00'
   description: "Paris Hilton and her husband, VC investor Carter Reum, talk about\
     \ \"strict\" parenting, the importance of A.I. and the huge economic value of\
@@ -168,7 +207,7 @@
   path: https://theovershoot.co/p/the-inflation-outlook-is-getting
   title: The Inflation Outlook Is Getting Better, But Also Worse?
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-05-22T02:26:31+00:00'
   description: '2 week of overthinking this iPad Pro
 
@@ -198,20 +237,6 @@
   image: https://i1.ytimg.com/vi/PHcDrXeyguM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=PHcDrXeyguM
   title: 5 Weird iPad Pro (M4) Decisions
-- author: Market Makers
-  categories: *id003
-  date: '2024-05-22T00:00:00+00:00'
-  description: "CORTE EP #98: Daniel Delabio e Jos\xE9 Carlos Carvalho explica o que\
-    \ est\xE1 acontecendo com a Argentina e como Javier Milei vem trabalhando para\
-    \ salvar a economia do pa\xEDs.\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\
-    \ https://youtu.be/BRJzSTdmKv8JAVIER MILEI: Dolariza\xE7\xE3o, Fim do BC e o futuro\
-    \ da economia da Argentina | Market Makers #98Apresenta\xE7\xE3o: Thiago Salom\xE3\
-    o (@_salomoney) e Josu\xE9 Guedes (@josueguedes_)Convidados: Daniel Delabio (s\xF3\
-    cio fundador e gestor da Exploritas) e Jos\xE9 Carlos Carvalho (S\xF3cio da Vinci\
-    \ Partners)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo"
-  image: https://i.scdn.co/image/ab6765630000ba8a253ca4c87d8aa7d10e829eef
-  path: https://open.spotify.com/episode/4CZJW5Q6EltjvM5jNoKZ8k
-  title: "A DIREITA EST\xC1 SALVANDO A ARGENTINA? | Corte EP #98"
 - author: ArjanCodes
   categories: *id004
   date: '2024-05-21T15:00:46+00:00'
@@ -654,17 +679,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/08052024
   title: "BC - Copom Ata - 262\xAA Reuni\xE3o - 7-8 maio, 2024"
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-05-13T00:00:00+00:00'
-  description: "Every great idea can be taken too far.\_Take the notion that investors\
-    \ should ignore the short run.It's important to recognize that the long run is\
-    \ just a collection of short runs, and capturing long-term growth means managing\
-    \ the short run effectively enough to ensure you can stick around for a long time."
-  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
-  path: https://open.spotify.com/episode/3S8VxnOFZEjbsvVuK4ySm9
-  title: The Long Run Is Just A Collection of Short Runs
 - author: Comunicados Copom
   categories:
   - Bacen
