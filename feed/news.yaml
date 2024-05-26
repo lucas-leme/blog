@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-05-26T17:23:37+00:00'
+  description: "Dados de infla\xE7\xE3o no Brasil e EUA deve mover o mercado de juros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/balanco-da-cosan-ipca-15-inflacao-e-pib-dos-eua-o-que-esperar-para-a-semana/
+  title: "Balan\xE7o da Cosan; IPCA-15; infla\xE7\xE3o e PIB dos EUA: o que esperar\
+    \ para a semana?"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   title: "Fala de Campos Neto impulsiona d\xF3lar que sobe 1,28% na semana; Ibovespa\
     \ cai 3%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-24T15:09:15+00:00'
   description: "Para os estrategistas do banco, a economia americana ainda est\xE1\
     \ resiliente demais para justificar um afrouxamento"
@@ -67,15 +75,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1czbzmf/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-23T22:58:04+00:00'
-  description: "Entenda o gargalo do refino no pa\xEDs, e como o monop\xF3lio da Petrobras,\
-    \ reiterado pela decis\xE3o do Cade, colaborou para cri\xE1-lo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/brasil-o-mega-exportador-de-petroleo-que-precisa-importar-combustivel/
-  title: "Brasil, o mega exportador de petr\xF3leo que precisa importar combust\xED\
-    vel"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
