@@ -1,3 +1,34 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id005
+  - Economia
+  date: '2024-05-26T04:16:21+00:00'
+  description: "<p>A estrat\xE9gia do Governo de arrecadar mais \u201Cpor meio de\
+    \ mudan\xE7a de regrinhas e contenciosos tribut\xE1rios\u201D \xE9 muito ruim\
+    \ para o ambiente de neg\xF3cios do Pa\xEDs, diz o economista Marcos Lisboa. \u201C\
+    Gera uma incerteza que contamina o investimento.\u201D Em uma longa conversa com\
+    \ o Brazil Journal sobre a conjuntura brasileira, Lisboa detalhou as fragilidades\
+    \ do [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/marcos-lisboa-como-e-que-alguem-investe-no-brasil/\"\
+    \ rel=\"nofollow\">Marcos Lisboa: \u201CComo \xE9 que algu\xE9m investe no Brasil?\u201D\
+    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/marcos-lisboa-como-e-que-alguem-investe-no-brasil/
+  title: "Marcos Lisboa: \u201CComo \xE9 que algu\xE9m investe no Brasil?\u201D"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-05-26T00:00:00+00:00'
+  description: "Trillion Dollar Shot, our new series about drugs like Ozempic, will\
+    \ be back next week. Until then, we think you\u2019d enjoy a show from our friends\
+    \ over at Science Vs, a podcast that takes on fads, trends and the opinionated\
+    \ mob to find out what\u2019s fact, what\u2019s not and what\u2019s somewhere\
+    \ in between. This episode examines the fears around the new class of blockbuster\
+    \ weight-loss drugs.  This episode does deal with depression and suicidal thoughts.\
+    \ If you are in the U.S. and need help, dial 988.  Full list of international\
+    \ hotlines here.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8ae0a0377f35132d8e0d75368d
+  path: https://open.spotify.com/episode/3mKCbweaFSz7WLJ2FGTSD2
+  title: 'Introducing Science Vs - Ozempic: Is It Scarier Than We Thought?'
 - author: Apricitas Economics
   categories: &id006
   - Macro
@@ -48,7 +79,7 @@
   path: https://www.youtube.com/watch?v=c8QXUrvSSyg
   title: 'Streamlit Explained: Python Tutorial for Data Scientists'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-05-24T00:00:00+00:00'
   description: "INSCREVA-SE NO CANAL DO SPORTS MARKET MAKERS: https://www.youtube.com/@SportsMMakers\
@@ -78,8 +109,7 @@
   path: https://open.spotify.com/episode/1K9qqQic0MjuXaAhQ6foqD
   title: "Tudo que voc\xEA precisa saber sobre investimentos em esportes"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-05-24T00:00:00+00:00'
   description: "Elon Musk\u2019s Neuralink is on a mission to enable humans to communicate\
     \ with computers using their thoughts. Now they have successfully implanted their\
@@ -125,7 +155,7 @@
   path: https://www.youtube.com/watch?v=a7ItChBrY8E
   title: I Gave A Commencement Speech!
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-05-23T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
     \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
@@ -139,20 +169,6 @@
   path: https://open.spotify.com/episode/4Fuie6V4T6MNcE91TF9xAi
   title: "#99 | Os SEGREDOS para ganhar dinheiro com a queda das a\xE7\xF5es na bolsa\
     \ de valores"
-- author: The Journal.
-  categories: *id002
-  date: '2024-05-23T00:00:00+00:00'
-  description: "Paris Hilton and her husband, VC investor Carter Reum, talk about\
-    \ \"strict\" parenting, the importance of A.I. and the huge economic value of\
-    \ her spoiled airhead persona. Ryan Knutson sat down with the couple at The Wall\
-    \ Street Journal\u2019s Future of Everything Festival.\_ To watch the video, check\
-    \ out the episode on Spotify.Further Reading:-Paris Hilton\u2019s Business Empire\
-    \ Is Getting a MakeoverFurther Listening:-The Business of Dua Lipa Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3RnwYmtf3N3JIKUbvsgxUd
-  title: "Paris Hilton and Carter Reum on AI, Parenting and \u201CCreating the Next\
-    \ Disney\u201D"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -280,8 +296,7 @@
   path: https://www.youtube.com/watch?v=r_le07f_rfQ
   title: "Git Hooks: We\u2019re Not Using Them Enough!"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id005
   date: '2024-05-17T21:24:11+00:00'
   description: "<p>A trag\xE9dia que assola o Rio Grande do Sul tem propor\xE7\xF5\
     es imensur\xE1veis. Al\xE9m das perdas humanas, exigir\xE1 a reconstru\xE7\xE3\
@@ -309,22 +324,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/17052024
   title: "BC - Focus - Relat\xF3rio de Mercado - 17/05/2024"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-05-16T09:33:42+00:00'
-  description: "<p>Na terra arrasada do Rio Grande do Sul, velhas lealdades e um sentimento\
-    \ de gratid\xE3o est\xE3o se tornando a\xE7\xF5es concretas. A fam\xEDlia Ling\
-    \ &#8212; cujo patriarca come\xE7ou a vida do zero e fez fortuna no Estado &#8212;\
-    \ se comprometeu a doar R$ 50 milh\xF5es para obras emergenciais de infraestrutura,\
-    \ ajudando comunidades a reconstruir pontes e [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/no-sul-a-familia-ling-quer-reconstruir-pontes-e-estradas-os-amigos-estao-ajudando/\"\
-    \ rel=\"nofollow\">No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas.\
-    \ Os amigos est\xE3o ajudando</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/no-sul-a-familia-ling-quer-reconstruir-pontes-e-estradas-os-amigos-estao-ajudando/
-  title: "No Sul, a fam\xEDlia Ling quer reconstruir pontes e estradas. Os amigos\
-    \ est\xE3o ajudando"
 - author: Outliers
   categories: &id008
   - Podcasts
