@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-27T10:30:00+00:00'
+  description: "Adeus, b\xF4nus demogr\xE1fico. A era com mais adultos do que idosos\
+    \ e crian\xE7as vai acabar. E mais cedo do que se imaginava"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-esta-produzindo-menos-bebes/
+  title: "O Brasil est\xE1 produzindo menos beb\xEAs: problemas \xE0 vista para a\
+    \ economia"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,16 +44,15 @@
   path: https://www.reddit.com/r/CFA/comments/1d1ixp8/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2024-05-26T17:23:37+00:00'
-  description: "Dados de infla\xE7\xE3o no Brasil e EUA deve mover o mercado de juros"
+  categories: *id001
+  date: '2024-05-27T01:03:06+00:00'
+  description: "MPs t\xEAm como objetivo enfrentar as perdas nas lavouras em raz\xE3\
+    o das enchentes no Rio Grande do Sul"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/balanco-da-cosan-ipca-15-inflacao-e-pib-dos-eua-o-que-esperar-para-a-semana/
-  title: "Balan\xE7o da Cosan; IPCA-15; infla\xE7\xE3o e PIB dos EUA: o que esperar\
-    \ para a semana?"
+  path: https://investnews.com.br/economia/governo-libera-mais-r-67-bi-para-compra-de-arroz/
+  title: Governo libera mais R$ 6,7 bi para compra de arroz
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-05-25T21:31:13+00:00'
   description: "Quem recebeu rendimentos tribut\xE1veis acima de R$ 30.639,90 fica\
@@ -52,7 +61,7 @@
   path: https://investnews.com.br/financas/deixou-para-ultima-hora-veja-como-declarar-o-imposto-de-renda-2024/
   title: "Deixou para \xFAltima hora? Veja como declarar o Imposto de Renda 2024"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-05-24T20:53:46+00:00'
   description: "Presidente do BC disse que as expectativas de infla\xE7\xE3o t\xEA\
     m sido uma m\xE1 not\xEDcia no Brasil"
@@ -60,14 +69,6 @@
   path: https://investnews.com.br/financas/fala-de-campos-neto-impulsiona-dolar-que-sobe-128-na-semana-ibovespa-cai-3/
   title: "Fala de Campos Neto impulsiona d\xF3lar que sobe 1,28% na semana; Ibovespa\
     \ cai 3%"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-24T15:09:15+00:00'
-  description: "Para os estrategistas do banco, a economia americana ainda est\xE1\
-    \ resiliente demais para justificar um afrouxamento"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/goldman-sachs-descarta-aposta-em-corte-do-fed-em-julho-a-medida-que-o-mercado-preve-menos-afrouxamento/
-  title: Goldman Sachs descarta corte de juros pelo do Fed em julho
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
