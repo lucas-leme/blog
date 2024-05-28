@@ -1,9 +1,18 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-05-28T13:26:01+00:00'
+  description: "A meta para a infla\xE7\xE3o em 2024 \xE9 de 3,0%, com margem de 1,5\
+    \ ponto percentual para mais ou menos, medida pelo IPCA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/ipca-15-acelera-044-em-maio-sob-peso-de-saude-e-gasolina/
+  title: "IPCA-15 acelera 0,44% em maio sob peso de sa\xFAde e gasolina"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
   date: '2024-05-28T10:50:00+00:00'
-  description: "Entenda a vantagem dos t\xEDtulos p\xFAblicos voltados \xE0 aposentadoria\
-    \ em tempos de juros fora da curva"
+  description: "Os t\xEDtulos p\xFAblicos voltados \xE0 aposentadoria florescem em\
+    \ tempos de juros fora da curva. Veja como, e quanto"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/o-renda-na-era-do-ipca6-ganhos-de-ate-1-800-acima-da-inflacao/
   title: "O Renda+ na era do IPCA+6%: ganhos de at\xE9 1.800% acima da infla\xE7\xE3\
@@ -57,8 +66,7 @@
   title: "Imposto de Renda: como fazer doa\xE7\xF5es para o Rio Grande do Sul na declara\xE7\
     \xE3o de 2024"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-27T21:22:52+00:00'
   description: "Presidente do BC reconhece que ru\xEDdos gerados na \xFAltima reuni\xE3\
     o de pol\xEDtica monet\xE1ria impactam expectativas de infla\xE7\xE3o"
@@ -66,15 +74,6 @@
   path: https://investnews.com.br/economia/com-o-tempo-as-pessoas-vao-entender-que-decisao-do-copom-foi-tecnica-diz-campos-neto/
   title: "Com o tempo, as pessoas v\xE3o entender que decis\xE3o do Copom foi t\xE9\
     cnica, diz Campos Neto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-27T18:54:13+00:00'
-  description: "Os investidores aumentaram as posi\xE7\xF5es vendidas l\xEDquidas\
-    \ em d\xF3lar face ao euro, ao mesmo tempo que reduziram as posi\xE7\xF5es compradas\
-    \ em d\xF3lar contra a libra"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/aposta-na-forca-global-do-dolar-recua-com-dados-brandos-nos-eua/
-  title: "Aposta na for\xE7a global do d\xF3lar recua com dados brandos nos EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
