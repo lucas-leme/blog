@@ -1,6 +1,24 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2024-05-28T15:37:27+00:00'
+  description: "A fabricante de sandu\xEDches est\xE1 oferecendo a maioria de seus\
+    \ ativos como garantia, incluindo taxas de franquia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/subway-coloca-a-venda-us-33-bi-em-titulos-lastreados-a-maior-securitizacao-do-tipo-ja-registrada/
+  title: "Subway coloca \xE0 venda US$ 3,3 bi em t\xEDtulos lastreados \u2013 a maior\
+    \ securitiza\xE7\xE3o do tipo j\xE1 registrada"
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-28T15:06:55+00:00'
+  description: "FMI tamb\xE9m elogiou as autoridades brasileiras pelo que classificou\
+    \ de esfor\xE7o para melhorar a situa\xE7\xE3o fiscal do pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fmi-diz-que-flexibilidade-no-ritmo-de-cortes-da-selic-e-prudente/
+  title: "FMI diz que flexibilidade no ritmo de cortes da Selic \xE9 prudente"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-05-28T13:26:01+00:00'
   description: "A meta para a infla\xE7\xE3o em 2024 \xE9 de 3,0%, com margem de 1,5\
     \ ponto percentual para mais ou menos, medida pelo IPCA"
@@ -8,8 +26,7 @@
   path: https://investnews.com.br/economia/ipca-15-acelera-044-em-maio-sob-peso-de-saude-e-gasolina/
   title: "IPCA-15 acelera 0,44% em maio sob peso de sa\xFAde e gasolina"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-05-28T10:50:00+00:00'
   description: "Os t\xEDtulos p\xFAblicos voltados \xE0 aposentadoria florescem em\
     \ tempos de juros fora da curva. Veja como, e quanto"
@@ -57,23 +74,6 @@
   path: https://www.reddit.com/r/CFA/comments/1d2akxw/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-05-27T21:47:48+00:00'
-  description: "A op\xE7\xE3o s\xF3 vale para quem faz a declara\xE7\xE3o completa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-como-fazer-doacoes-para-o-rio-grande-do-sul-na-declaracao-de-2024/
-  title: "Imposto de Renda: como fazer doa\xE7\xF5es para o Rio Grande do Sul na declara\xE7\
-    \xE3o de 2024"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-27T21:22:52+00:00'
-  description: "Presidente do BC reconhece que ru\xEDdos gerados na \xFAltima reuni\xE3\
-    o de pol\xEDtica monet\xE1ria impactam expectativas de infla\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/com-o-tempo-as-pessoas-vao-entender-que-decisao-do-copom-foi-tecnica-diz-campos-neto/
-  title: "Com o tempo, as pessoas v\xE3o entender que decis\xE3o do Copom foi t\xE9\
-    cnica, diz Campos Neto"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
