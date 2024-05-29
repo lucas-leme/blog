@@ -1,5 +1,5 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-05-29T20:12:30+00:00'
   description: "<p>O PIB do primeiro trimestre ser\xE1 divulgado na pr\xF3xima semana,\
@@ -62,6 +62,21 @@
   path: https://open.spotify.com/episode/7oLxlwIO8WRkUqkHInar0Y
   title: "LOCALIZA (RENT3) e MOVIDA (MOVI3) EM QUEDA: qual a melhor a\xE7\xE3o para\
     \ comprar? | Corte EP #99"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-05-29T00:00:00+00:00'
+  description: "Assistant Attorney General Jonathan Kanter heads the Department of\
+    \ Justice\u2019s Antitrust Division. He speaks with Ryan Knutson about the DOJ\u2019\
+    s lawsuit against Live Nation and Ticketmaster, and why the government says the\
+    \ business is an illegal monopoly which the company denies.  Further Reading:\
+    \ - Justice Department to Sue Live Nation, Seek Breakup of Concert and Ticketing\
+    \ Giant\_ - Justice Department Sues to Break Up Live Nation-Ticketmaster\_  Further\
+    \ Listening: - The Taylor Swift Ticketmaster Debacle\_  Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/53l8JwPbkn0YR8MMEXvGbO
+  title: The Trustbuster Taking on Ticketmaster
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -111,8 +126,7 @@
   path: https://open.spotify.com/episode/1aqyZpyo5RoV0zEKsNsRNK
   title: "O MERCADO se ENGANOU com as promessas de LULA? | B\xF4nus #13"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-05-28T00:00:00+00:00'
   description: "For over a century, the NCAA has refused to pay athletes. After a\
     \ recent settlement, that\u2019s going to change. The organization has agreed\
@@ -128,7 +142,7 @@
   path: https://open.spotify.com/episode/1VRMySpVUroacHz5T4xhe4
   title: $2.8 Billion for College Athletes and a New World for the NCAA
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-05-27T04:01:42+00:00'
   description: "<p>Era uma vez uma empresa monopolista nos mercados de g\xE1s e refino\
     \ de petr\xF3leo. Esta empresa \u2014 gigantesca e tentacular, cujos pre\xE7os\
@@ -165,20 +179,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ada06809eb0a065a9ad6b7080
   path: https://open.spotify.com/episode/1tdy59XstS55xN45tHnS2m
   title: Nicolas Mirjolet - Multivariate Trend Following (S7E8)
-- author: The Journal.
-  categories: *id003
-  date: '2024-05-26T00:00:00+00:00'
-  description: "Trillion Dollar Shot, our new series about drugs like Ozempic, will\
-    \ be back next week. Until then, we think you\u2019d enjoy a show from our friends\
-    \ over at Science Vs, a podcast that takes on fads, trends and the opinionated\
-    \ mob to find out what\u2019s fact, what\u2019s not and what\u2019s somewhere\
-    \ in between. This episode examines the fears around the new class of blockbuster\
-    \ weight-loss drugs.  This episode does deal with depression and suicidal thoughts.\
-    \ If you are in the U.S. and need help, dial 988.  Full list of international\
-    \ hotlines here.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8ae0a0377f35132d8e0d75368d
-  path: https://open.spotify.com/episode/3mKCbweaFSz7WLJ2FGTSD2
-  title: 'Introducing Science Vs - Ozempic: Is It Scarier Than We Thought?'
 - author: Apricitas Economics
   categories: &id006
   - Macro
