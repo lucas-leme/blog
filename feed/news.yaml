@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-29T19:03:30+00:00'
+  description: "Primeiro lote ser\xE1 pago na pr\xF3xima sexta-feira e vai beneficiar\
+    \ mais de 5 milh\xF5es de contribuintes"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/imposto-de-renda-2024-como-consultar-o-pagamento-da-restituicao/
+  title: "Imposto de Renda 2024: Como consultar o pagamento da restitui\xE7\xE3o?"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-05-29T11:39:25+00:00'
   description: "A espinha dorsal do plano \xE9 a inje\xE7\xE3o de recursos na Oi para\
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/financas/justica-homologa-plano-de-recuperacao-judicial-da-oi/
   title: "Justi\xE7a homologa plano de recupera\xE7\xE3o judicial da Oi"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-29T11:34:46+00:00'
   description: "Com o resultado do m\xEAs, o \xEDndice passou a acumular em 12 meses\
     \ queda de 0,34%, contra defla\xE7\xE3o de 3,04% em abril"
@@ -18,21 +26,13 @@
   title: "IGP-M acelera alta a 0,89% em maio sob peso de mat\xE9rias-primas brutas\
     \ e bens intermedi\xE1rios"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-05-28T21:41:41+00:00'
   description: "Agenda macroecon\xF4mica no Brasil foi movimentada nesta ter\xE7a-feira,\
     \ destacando a alta de 0,44% do IPCA-15 em maio"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/ibovespa-fecha-em-queda-pressionado-por-vale-dolar-tambem-recua/
   title: "Ibovespa fecha em queda pressionado por Vale; d\xF3lar tamb\xE9m recua"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-28T15:06:55+00:00'
-  description: "FMI tamb\xE9m elogiou as autoridades brasileiras pelo que classificou\
-    \ de esfor\xE7o para melhorar a situa\xE7\xE3o fiscal do pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fmi-diz-que-flexibilidade-no-ritmo-de-cortes-da-selic-e-prudente/
-  title: "FMI diz que flexibilidade no ritmo de cortes da Selic \xE9 prudente"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"

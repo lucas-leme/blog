@@ -1,3 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-05-29T20:12:30+00:00'
+  description: "<p>O PIB do primeiro trimestre ser\xE1 divulgado na pr\xF3xima semana,\
+    \ e os n\xFAmeros do IBGE dever\xE3o mostrar uma acelera\xE7\xE3o na atividade.\
+    \ Mas ser\xE1, muito provavelmente, uma imagem do retrovisor. Os economistas dos\
+    \ principais bancos do Pa\xEDs est\xE3o revendo para baixo suas estimativas para\
+    \ o desempenho da economia em 2024. As principais raz\xF5es para a cautela [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/pib-em-vies-de-baixa-inflacao-em-vies-de-alta-efeitos-da-tragedia/\"\
+    \ rel=\"nofollow\">PIB em vi\xE9s de baixa; infla\xE7\xE3o em vi\xE9s de alta.\
+    \ Efeitos da trag\xE9dia</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/pib-em-vies-de-baixa-inflacao-em-vies-de-alta-efeitos-da-tragedia/
+  title: "PIB em vi\xE9s de baixa; infla\xE7\xE3o em vi\xE9s de alta. Efeitos da trag\xE9\
+    dia"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -111,8 +128,7 @@
   path: https://open.spotify.com/episode/1VRMySpVUroacHz5T4xhe4
   title: $2.8 Billion for College Athletes and a New World for the NCAA
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id002
   date: '2024-05-27T04:01:42+00:00'
   description: "<p>Era uma vez uma empresa monopolista nos mercados de g\xE1s e refino\
     \ de petr\xF3leo. Esta empresa \u2014 gigantesca e tentacular, cujos pre\xE7os\
@@ -125,21 +141,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/editorial-a-desmoralizacao-do-cade/
   title: "EDITORIAL: A desmoraliza\xE7\xE3o do CADE"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-05-27T03:52:10+00:00'
-  description: "<p>O governo do Reino Unido anunciou recentemente o fim de uma antiga\
-    \ isen\xE7\xE3o de impostos que beneficiava os estrangeiros donos de grandes fortunas\
-    \ \u2013 pegando de surpresa milion\xE1rios e bilion\xE1rios que haviam escolhido\
-    \ o pa\xEDs para viver e administrar seus recursos. O tratamento especial remonta\
-    \ aos tempos do Imp\xE9rio Brit\xE2nico. \xC9 uma regra com mais [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/londres-ja-nao-e-mais-a-mesma-bilionarios-procuram-alternativas/\"\
-    \ rel=\"nofollow\">Londres j\xE1 n\xE3o \xE9 mais a mesma. Bilion\xE1rios procuram\
-    \ alternativas</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/londres-ja-nao-e-mais-a-mesma-bilionarios-procuram-alternativas/
-  title: "Londres j\xE1 n\xE3o \xE9 mais a mesma. Bilion\xE1rios procuram alternativas"
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -805,18 +806,14 @@
   categories: &id009
   - Quant
   - Papers
-  date: '2024-04-23T00:00:00'
+  date: '2024-04-09T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        April\
-    \ 23, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
-    >-</span>\n                <a class=\"cta cta--dark \">Stanley Krasner</a>\n \
-    \               <a class=\"cta cta--dark \">Joseph Liberman</a>\n            \
-    \    <a class=\"cta cta--dark \">Nathan Sosner</a>\n                <a class=\"\
-    cta cta--dark \">Sydney Filler</a>\n</span>\n                    </p><br /><br\
-    \ /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a href=\"\
-    https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+    \ 9, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Working-Paper/Levering-Up-to-Do-Good-Direct-Long-Short-Investing-and-Charitable-Giving
-  title: 'Levering Up to Do Good: Direct Long-Short Investing and Charitable Giving'
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/A-3-for-1-Solution-for-Concentrated-Stock
+  title: A 3-for-1 Solution for Concentrated Stock
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
@@ -836,11 +833,13 @@
   title: "BC - RI: mar\xE7o/2024"
 - author: AQR
   categories: *id009
-  date: '2024-03-12T00:00:00'
+  date: '2024-03-07T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
-    \ 12, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+    \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <a class=\"cta cta--dark \">Joseph Liberman</a>\n           \
+    \     <a class=\"cta cta--dark \">Nathan Sosner</a>\n</span>\n               \
+    \     </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated\
+    \ with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/AQR-Factor-Research-Papers-Win-Prestigious-Academic-Awards
-  title: AQR Factor Research Papers Win Prestigious Academic Awards
+  path: https://www.aqr.com/Insights/Research/Working-Paper/Combining-VPFs-and-TaxAware-Strategies-to-Diversify-LowBasis-Stock
+  title: Combining VPFs and Tax-Aware Strategies to Diversify Low-Basis Stock
