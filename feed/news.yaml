@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-05-29T21:23:41+00:00'
+  description: "Novo epis\xF3dio da s\xE9rie 'Passaporte InvestNews' mostra como \xE9\
+    \ viver em Nova York, Boston, Miami e Orlando"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/os-pros-e-contras-dos-destinos-mais-procurados-por-brasileiros-que-moram-nos-eua/
+  title: "Os pr\xF3s e contras dos destinos mais procurados por brasileiros que moram\
+    \ nos EUA"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-05-29T20:53:26+00:00'
   description: "Pelos termos aprovados, a Light far\xE1 uma capitaliza\xE7\xE3o de\
@@ -9,8 +19,7 @@
   path: https://investnews.com.br/financas/assembleia-de-credores-da-light-aprova-plano-de-recuperacao-judicial/
   title: "Assembleia de credores da Light aprova plano de recupera\xE7\xE3o judicial"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-05-29T19:03:30+00:00'
   description: "Primeiro lote ser\xE1 pago na pr\xF3xima sexta-feira e vai beneficiar\
     \ mais de 5 milh\xF5es de contribuintes"
@@ -18,22 +27,13 @@
   path: https://investnews.com.br/economia/imposto-de-renda-2024-como-consultar-o-pagamento-da-restituicao/
   title: "Imposto de Renda 2024: Como consultar o pagamento da restitui\xE7\xE3o?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-05-29T11:39:25+00:00'
   description: "A espinha dorsal do plano \xE9 a inje\xE7\xE3o de recursos na Oi para\
     \ sustentar suas opera\xE7\xF5es at\xE9 a realiza\xE7\xE3o da venda de ativos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/justica-homologa-plano-de-recuperacao-judicial-da-oi/
   title: "Justi\xE7a homologa plano de recupera\xE7\xE3o judicial da Oi"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-29T11:34:46+00:00'
-  description: "Com o resultado do m\xEAs, o \xEDndice passou a acumular em 12 meses\
-    \ queda de 0,34%, contra defla\xE7\xE3o de 3,04% em abril"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/igp-m-acelera-alta-a-089-em-maio-sob-peso-de-materias-primas-brutas-e-bens-intermediarios/
-  title: "IGP-M acelera alta a 0,89% em maio sob peso de mat\xE9rias-primas brutas\
-    \ e bens intermedi\xE1rios"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"

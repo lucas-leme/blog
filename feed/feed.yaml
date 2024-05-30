@@ -1,6 +1,21 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id001
   - Economia
+  date: '2024-05-29T22:31:02+00:00'
+  description: "<p>Donald Trump est\xE1 prometendo acabar com os incentivos aos carros\
+    \ el\xE9tricos caso retorne \xE0 Casa Branca \u2013 eliminando subs\xEDdios que\
+    \ est\xE3o no centro da pol\xEDtica de Joe Biden para a transi\xE7\xE3o verde.\_\
+    \ O republicano tamb\xE9m disse que vai impor uma tarifa de 100% sobre os el\xE9\
+    tricos importados \u2013 incluindo os fabricados no M\xE9xico, pa\xEDs que [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/trump-esquenta-a-retorica-contra-o-carro-eletrico-e-sincero/\"\
+    \ rel=\"nofollow\">Trump esquenta a ret\xF3rica contra o carro el\xE9trico. \xC9\
+    \ sincero?</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/trump-esquenta-a-retorica-contra-o-carro-eletrico-e-sincero/
+  title: "Trump esquenta a ret\xF3rica contra o carro el\xE9trico. \xC9 sincero?"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2024-05-29T20:12:30+00:00'
   description: "<p>O PIB do primeiro trimestre ser\xE1 divulgado na pr\xF3xima semana,\
     \ e os n\xFAmeros do IBGE dever\xE3o mostrar uma acelera\xE7\xE3o na atividade.\
@@ -37,7 +52,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/05/taking-stock-dollar-assets-gold-and-official-foreign-exchange-reserves/
   title: 'Taking Stock: Dollar Assets, Gold, and Official Foreign Exchange Reserves'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-05-29T00:00:00+00:00'
   description: "CORTE EP #99: Bruno Rignel falou sobre uma estrat\xE9gia de investimento\
@@ -63,7 +78,7 @@
   title: "LOCALIZA (RENT3) e MOVIDA (MOVI3) EM QUEDA: qual a melhor a\xE7\xE3o para\
     \ comprar? | Corte EP #99"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-05-29T00:00:00+00:00'
   description: "Assistant Attorney General Jonathan Kanter heads the Department of\
@@ -77,6 +92,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/53l8JwPbkn0YR8MMEXvGbO
   title: The Trustbuster Taking on Ticketmaster
+- author: Outliers
+  categories: &id006
+  - Podcasts
+  date: '2024-05-29T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
+    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
+    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a18045532aa5afa8bedd655db
+  path: https://open.spotify.com/episode/2Yb2rf6q16vwLaeXy3GG60
+  title: '#128 - Juros altos e escassez de capital: oportunidade em Special Situations
+    com Blue Oak'
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -108,7 +139,7 @@
   path: https://www.youtube.com/watch?v=kkX8_nbBqBQ
   title: 'Android 15 Hands-On: Top 5 Features!'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-05-28T00:00:00+00:00'
   description: "Com um n\xEDvel de incerteza sobre o futuro econ\xF4mico do Brasil\
     \ aumentando nas \xFAltimas semanas, ap\xF3s quase um ano de uma \u201Clua de\
@@ -126,7 +157,7 @@
   path: https://open.spotify.com/episode/1aqyZpyo5RoV0zEKsNsRNK
   title: "O MERCADO se ENGANOU com as promessas de LULA? | B\xF4nus #13"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-05-28T00:00:00+00:00'
   description: "For over a century, the NCAA has refused to pay athletes. After a\
     \ recent settlement, that\u2019s going to change. The organization has agreed\
@@ -141,20 +172,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/1VRMySpVUroacHz5T4xhe4
   title: $2.8 Billion for College Athletes and a New World for the NCAA
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-05-27T04:01:42+00:00'
-  description: "<p>Era uma vez uma empresa monopolista nos mercados de g\xE1s e refino\
-    \ de petr\xF3leo. Esta empresa \u2014 gigantesca e tentacular, cujos pre\xE7os\
-    \ e inefici\xEAncias moldam e distorcem toda a economia do Pa\xEDs que supostamente\
-    \ a controla \u2014 sofria diversos processos que a acusavam de conduta anticoncorrencial\
-    \ naqueles dois segmentos.\_ Cinco anos atr\xE1s, esta empresa prop\xF4s [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/editorial-a-desmoralizacao-do-cade/\"\
-    \ rel=\"nofollow\">EDITORIAL: A desmoraliza\xE7\xE3o do CADE</a> appeared first\
-    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/editorial-a-desmoralizacao-do-cade/
-  title: "EDITORIAL: A desmoraliza\xE7\xE3o do CADE"
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -180,7 +197,7 @@
   path: https://open.spotify.com/episode/1tdy59XstS55xN45tHnS2m
   title: Nicolas Mirjolet - Multivariate Trend Following (S7E8)
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-05-25T13:31:02+00:00'
@@ -307,7 +324,7 @@
   path: https://open.spotify.com/episode/5zl4CcCdpFh2OrdpfkpIo3
   title: 'New order: The global financial order is under threat'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-05-22T05:58:21+00:00'
@@ -349,8 +366,7 @@
   path: https://www.youtube.com/watch?v=r_le07f_rfQ
   title: "Git Hooks: We\u2019re Not Using Them Enough!"
 - author: Outliers
-  categories: &id008
-  - Podcasts
+  categories: *id006
   date: '2024-05-15T00:00:00+00:00'
   description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/ukasMX6H4_gInvestir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -364,7 +380,7 @@
   path: https://open.spotify.com/episode/4n1epNR5GmC0Zhz3sylHKu
   title: "#127 - Os pilares da gest\xE3o de cr\xE9dito privado da SPX Capital"
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2024-05-14T16:10:04+00:00'
   description: US Manufacturing Productivity Has Been Stagnant for 15 Years. Industrial
     Policy Must Aim to Fix That.
@@ -372,7 +388,7 @@
   path: https://www.apricitas.io/p/americas-manufacturing-productivity
   title: America's Manufacturing Productivity Problem
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2024-05-14T11:29:27+00:00'
   description: After accounting for changes in duration and reverse repos, headline
     estimates of quantity-based policy tightening may be overstated.
@@ -788,20 +804,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/18160
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
-- author: Outliers
-  categories: *id008
-  date: '2024-04-30T00:00:00+00:00'
-  description: "-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
-    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
-    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a597b848c5e363bff3cf7f97b
-  path: https://open.spotify.com/episode/7yTzCPJE97xQuyBwRpQjgq
-  title: "#126 - Investimento em galp\xF5es log\xEDsticos com a AZ Quest"
 - author: AQR
   categories: &id009
   - Quant
