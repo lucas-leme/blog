@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-03T11:27:04+00:00'
+  description: "Setor manufatureiro focado na exporta\xE7\xE3o est\xE1 tomando forma,\
+    \ segundo a ag\xEAncia."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/moodys-aumenta-previsao-de-crescimento-da-china-em-2024-para-45/
+  title: "Moody\u2019s aumenta previs\xE3o de crescimento da China em 2024 para 4,5%"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1d6vm9x/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-02T21:43:56+00:00'
   description: "\xC9 improv\xE1vel que os executivos da Boeing sejam acusados \u200B\
     \u200Bcriminalmente pelos acidentes fatais em 2018 e 2019 que mataram 346 pessoas,\
@@ -46,14 +54,6 @@
   path: https://investnews.com.br/economia/executivos-da-boeing-provavelmente-nao-serao-acusados-por-acidentes-do-737-max/
   title: "Executivos da Boeing provavelmente n\xE3o ser\xE3o acusados \u200B\u200B\
     por acidentes do 737 MAX"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-02T17:26:51+00:00'
-  description: "Redu\xE7\xE3o \xE9 de 5,86 milh\xF5es de barris por dia \u2013 5,7%\
-    \ da demanda global"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/opep-prorroga-cortes-na-producao-de-petroleo-ate-2025/
-  title: "Opep+ prorroga cortes na produ\xE7\xE3o de petr\xF3leo at\xE9 2025"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
