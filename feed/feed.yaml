@@ -1,3 +1,17 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-06-03T14:57:33+00:00'
+  description: "Reviewing the new $450 Sonos headphones\n\nGet $350 off the Pod 4\
+    \ Ultra or $200 off the Pod 4 with code MKBHD at https://eightsleep.com/mkbhd\
+    \ \n\nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nIntro Track Artist: Logic https://logic.lnk.to/DejaVu\nPlaylist of MKBHD Intro\
+    \ music: https://goo.gl/B3AWV5\n\nHeadphones provided by Sonos for review.\n\n\
+    ~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i3.ytimg.com/vi/6_3cLlSlTKw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=6_3cLlSlTKw
+  title: 'Sonos Ace Headphones: You Had One Job!'
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -26,7 +40,7 @@
   path: https://theovershoot.co/p/is-consumer-spending-slowing
   title: Is Consumer Spending Slowing?
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -235,9 +249,7 @@
   title: '#128 - Juros altos e escassez de capital: oportunidade em Special Situations
     com Blue Oak'
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-05-28T21:40:15+00:00'
   description: 'Android 15 features are more subtle and hidden than ever. These are
     the best ones
@@ -299,7 +311,7 @@
   path: https://www.apricitas.io/p/a-detailed-look-at-bidens-new-china
   title: "A Detailed Look at Biden\u2019s New China Tariffs"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-05-24T15:00:38+00:00'
   description: "In this Python tutorial, I\u2019ll dive into Streamlit, a tool that\
     \ simplifies the creation of web applications for your data science projects.\
@@ -344,25 +356,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/15LtQCEElRURzauztQDOyU
   title: Lazy Work, Good Work
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-05-23T19:41:23+00:00'
-  description: 'Commencement for the class of 2024 at the school I graduated from!
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/a7ItChBrY8E/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=a7ItChBrY8E
-  title: I Gave A Commencement Speech!
 - author: The View From Apollo
   categories:
   - Podcasts
