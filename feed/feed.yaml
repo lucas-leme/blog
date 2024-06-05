@@ -1,3 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-06-04T22:30:17+00:00'
+  description: "<p>Contrariando as previs\xF5es de uma reelei\xE7\xE3o tranquila,\
+    \ o primeiro-ministro da \xCDndia, Narendra Modi, n\xE3o conseguiu uma maioria\
+    \ absoluta nas urnas \u2013 e precisar\xE1 negociar o apoio de partidos aliados\
+    \ para formar um novo governo e continuar no poder por mais cinco anos.\_ O resultado\
+    \ arranhou a aura de invencibilidade de Modi, o popular comandante do [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/modelo-modi-fica-mais-5-anos-mas-dependera-de-aliancas/\"\
+    \ rel=\"nofollow\">&#8216;Modelo Modi&#8217; fica mais 5 anos \u2013 mas depender\xE1\
+    \ de alian\xE7as</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/modelo-modi-fica-mais-5-anos-mas-dependera-de-aliancas/
+  title: "\u2018Modelo Modi\u2019 fica mais 5 anos \u2013 mas depender\xE1 de alian\xE7\
+    as"
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -27,7 +44,7 @@
   title: "A ESTRAT\xC9GIA GRINGA PARA ESCOLHER AS MELHORES A\xC7\xD5ES BRASILEIRAS\
     \ | B\xF4nus #14"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-06-04T00:00:00+00:00'
   description: "Astro Teller, the CEO of Aphabet\u2019s X, runs a lab dedicated to\
@@ -42,8 +59,7 @@
   path: https://open.spotify.com/episode/4Xlv7zoCpKd5KJi5sSHx6N
   title: "A Conversation with Alphabet\u2019s Captain of Moonshots"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2024-06-03T23:52:07+00:00'
   description: "<p>Claudia Sheinbaum fez hist\xF3ria ao se eleger como a primeira\
     \ mulher que assumir\xE1 a Presid\xEAncia do M\xE9xico. Mas a vit\xF3ria avassaladora\
@@ -74,7 +90,7 @@
   path: https://www.youtube.com/watch?v=6_3cLlSlTKw
   title: 'Sonos Ace Headphones: You Had One Job!'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-06-03T00:00:00+00:00'
   description: "Claudia Sheinbaum, the former mayor of Mexico City, will become Mexico\u2019\
     s first female president. Sheinbaum has pledged to be a continuation of her predecessor,\
@@ -190,21 +206,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6c34ab0621d63cabb18569af
   path: https://open.spotify.com/episode/1EVHizt19x2XmKDAcfsaBn
   title: 'Trailer: The Modi Raj'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-05-30T09:50:29+00:00'
-  description: "<p>O Plano Real transformou a economia brasileira mas, no come\xE7\
-    o de 1994, quando a nova moeda ainda era uma ideia a ser implementada, o ceticismo\
-    \ era geral. A expectativa era de que seria mais um plano \u2013 e fracassaria\
-    \ como todas as tentativas anteriores de conter a hiperinfla\xE7\xE3o. Por isso,\
-    \ muitos bancos e empresas n\xE3o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/quem-nao-se-adaptou-quebrou-como-o-real-forcou-empresas-e-bancos-a-se-reinventar/\"\
-    \ rel=\"nofollow\">\u201CQuem n\xE3o se adaptou quebrou.\u201D Como o Real for\xE7\
-    ou empresas e bancos a se reinventar</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2024/04/MoedaQueVingou2.png
-  path: https://braziljournal.com/quem-nao-se-adaptou-quebrou-como-o-real-forcou-empresas-e-bancos-a-se-reinventar/
-  title: "\u201CQuem n\xE3o se adaptou quebrou.\u201D Como o Real for\xE7ou empresas\
-    \ e bancos a se reinventar"
 - author: Market Makers
   categories: *id003
   date: '2024-05-30T00:00:00+00:00'
