@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-05T18:00:14+00:00'
+  description: "Ainda assim, Yellen reconhece os benef\xEDcios da ferramenta no setor"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/yellen-fara-alerta-sobre-riscos-do-uso-de-inteligencia-artificial-em-financas/
+  title: "Yellen far\xE1 alerta sobre riscos do uso de intelig\xEAncia artificial\
+    \ em finan\xE7as"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   path: https://investnews.com.br/economia/minerio-estende-tombo-diante-de-acumulo-de-estoque-na-china/
   title: "Min\xE9rio estende tombo diante de ac\xFAmulo de estoque na China"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-04T15:39:01+00:00'
   description: "Gera\xE7\xE3o \"sandu\xEDche\"tem que arcar com os custos dos pais\
     \ idosos enquanto cria filhos e pensa na pr\xF3pria aposentadoria"
@@ -65,15 +73,6 @@
   path: https://www.reddit.com/r/CFA/comments/1d7o5no/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-05-29T20:53:26+00:00'
-  description: "Pelos termos aprovados, a Light far\xE1 uma capitaliza\xE7\xE3o de\
-    \ at\xE9 R$ 1,5 bilh\xE3o, com R$ 1 bilh\xE3o ancorados por seus acionistas de\
-    \ refer\xEAncia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/assembleia-de-credores-da-light-aprova-plano-de-recuperacao-judicial/
-  title: "Assembleia de credores da Light aprova plano de recupera\xE7\xE3o judicial"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
