@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-06T11:19:53+00:00'
+  description: "A Nvidia est\xE1 se preparando para desdobrar suas a\xE7\xF5es na\
+    \ propor\xE7\xE3o de dez para um, a partir de 7 de junho, uma medida que pode\
+    \ aumentar sua atratividade para investidores individuais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/nvidia-ultrapassa-apple-e-se-torna-a-segunda-empresa-mais-valiosa-do-mundo/
+  title: Nvidia ultrapassa Apple e se torna a segunda empresa mais valiosa do mundo
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-06T10:55:00+00:00'
   description: "Expectativa \xE9 de que custo supere \u20AC 9 bilh\xF5es (R$ 51,8\
@@ -47,8 +57,7 @@
   path: https://www.reddit.com/r/CFA/comments/1d99c3m/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-05T21:51:47+00:00'
   description: "Quase metade das declara\xE7\xF5es que v\xE3o parar na malha fina\
     \ acabam ali por causa de inconsist\xEAncias nas despesas m\xE9dicas. Veja as\
@@ -57,21 +66,13 @@
   path: https://investnews.com.br/financas/nao-sabe-se-faltou-alguma-coisa-na-sua-declaracao-do-imposto-de-renda-atencao-para-os-gastos-com-saude/
   title: "Caiu na malha fina? Aten\xE7\xE3o para os gastos com sa\xFAde"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-05T21:06:48+00:00'
   description: "D\xF3lar subiu 0,22%, para R$ 5,29"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/impactado-por-vale-e-petrobras-ibovespa-tem-6o-pregao-consecutivo-de-queda/
   title: "Impactado por Vale e Petrobras, Ibovespa tem 6\xBA preg\xE3o consecutivo\
     \ de queda"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-05T18:00:14+00:00'
-  description: "Ainda assim, Yellen reconhece os benef\xEDcios da ferramenta no setor"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/yellen-fara-alerta-sobre-riscos-do-uso-de-inteligencia-artificial-em-financas/
-  title: "Yellen far\xE1 alerta sobre riscos do uso de intelig\xEAncia artificial\
-    \ em finan\xE7as"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
