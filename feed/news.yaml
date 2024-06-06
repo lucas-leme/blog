@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-05T21:51:47+00:00'
+  description: "Quase metade das declara\xE7\xF5es que v\xE3o parar na malha fina\
+    \ acabam ali por causa de inconsist\xEAncias nas despesas m\xE9dicas. Veja as\
+    \ mais comuns"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/nao-sabe-se-faltou-alguma-coisa-na-sua-declaracao-do-imposto-de-renda-atencao-para-os-gastos-com-saude/
+  title: "Caiu na malha fina? Aten\xE7\xE3o para os gastos com sa\xFAde"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,22 +26,13 @@
   path: https://investnews.com.br/economia/vai-morar-nos-eua-saiba-como-organizar-a-mudanca/
   title: "Vai morar nos EUA? Saiba como organizar a mudan\xE7a"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-05T18:00:14+00:00'
   description: "Ainda assim, Yellen reconhece os benef\xEDcios da ferramenta no setor"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/yellen-fara-alerta-sobre-riscos-do-uso-de-inteligencia-artificial-em-financas/
   title: "Yellen far\xE1 alerta sobre riscos do uso de intelig\xEAncia artificial\
     \ em finan\xE7as"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-04T15:39:01+00:00'
-  description: "Gera\xE7\xE3o \"sandu\xEDche\"tem que arcar com os custos dos pais\
-    \ idosos enquanto cria filhos e pensa na pr\xF3pria aposentadoria"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/home-care-residencial-plano-de-saude-quanto-custa-manter-um-idoso/
-  title: "Home care, residencial, plano de sa\xFAde\u2026Quanto custa manter um idoso?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
