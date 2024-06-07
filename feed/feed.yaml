@@ -34,8 +34,21 @@
   image: https://i3.ytimg.com/vi/zjdfbeUcZTM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=zjdfbeUcZTM
   title: Every Developer Had This Feeling
-- author: Market Makers
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-06-07T00:00:00+00:00'
+  description: "There is a new contender in the cola wars, and it isn\u2019t a cola.\
+    \ It\u2019s Dr Pepper. WSJ\u2019s Jennifer Maloney unpacks how after decades as\
+    \ a distant competitor, Dr Pepper has climbed the soda ranks with help from hefty\
+    \ marketing, novel flavors and TikTok videos.  Further Reading: - Dr Pepper Ties\
+    \ Pepsi as America\u2019s No. 2 Soda  Further Listening: - The Agony and Ecstasy\
+    \ of Tab\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2qvWZzIKoLIE7wS1FM8NZX
+  title: "\u2018It Came out of Nowhere\u2019: The Rise of Dr Pepper"
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2024-06-06T00:00:00+00:00'
   description: "Voc\xEA j\xE1 viu a bolsa t\xE3o largada e odiada como agora?Neste\
@@ -60,8 +73,7 @@
   path: https://open.spotify.com/episode/1ymaoU4HM9zryhOTKUQYQH
   title: "#101 | COMO SOBREVIVER \xC0 CRISE DA BOLSA DE VALORES?"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-06-06T00:00:00+00:00'
   description: "President Biden unveiled a last-ditch effort to lower illegal crossings\
     \ at the southern border this week. The move focuses on asylum seekers, and the\
@@ -92,7 +104,7 @@
   path: https://open.spotify.com/episode/7mchZIK2o5k3Tcth8Cv15M
   title: 'Music machines: Could AI kill the radio star?'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-06-05T00:00:00+00:00'
   description: "CORTE B\xD4NUS #13:\_Por que os investidores estrangeiros est\xE3\
     o fugindo do Brasil?Mergulhamos na complexa quest\xE3o da sa\xEDda de investidores\
@@ -118,20 +130,6 @@
   path: https://open.spotify.com/episode/686hlEw9Xwh6Z2baH0Sosp
   title: "ADEUS BOLSA: Por que o investidor estrangeiro est\xE1 fugindo do Brasil?\
     \ | Corte B\xF4nus #13"
-- author: The Journal.
-  categories: *id002
-  date: '2024-06-05T00:00:00+00:00'
-  description: "For much of his career, Biden built a reputation as a master negotiator.\
-    \ He\u2019s known for his detailed knowledge of issues\u2014and for hitting his\
-    \ stride when the pressure was on. Now, 81-year-old Biden is the oldest person\
-    \ to hold the presidency. WSJ's Annie Linskey and Siobhan Hughes go behind closed\
-    \ doors where some who have worked with him describe a president who appears slower.\_\
-    \  Further Reading: - Behind Closed Doors, Biden Shows Signs of Slipping\_  Further\
-    \ Listening:  - Inside the White House's Scramble to Avert a Bigger Middle East\
-    \ War\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2Dp9egMYs0ty0YGbUcUGMN
-  title: "Behind Closed Doors, Biden\u2019s Age is Showing"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id003
   - Economia
