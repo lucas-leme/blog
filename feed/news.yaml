@@ -1,6 +1,16 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-07T13:07:17+00:00'
+  description: "No acumulado do ano, houve um salto de 25% nas exporta\xE7\xF5es chinesas,\
+    \ um ritmo que coloca as exporta\xE7\xF5es anuais rumo a ultrapassar 100 milh\xF5\
+    es de toneladas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/minerio-tem-tombo-semanal-apesar-de-alta-nas-exportacoes-de-aco-da-china/
+  title: "Min\xE9rio tem tombo semanal apesar de alta nas exporta\xE7\xF5es de a\xE7\
+    o da China"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-06-07T12:46:46+00:00'
   description: "Na dire\xE7\xE3o oposta, a taxa foi mais baixa nos grupos alimenta\xE7\
     \xE3o, sa\xFAde e cuidados pessoais, vestu\xE1rio e transportes"
@@ -51,7 +61,7 @@
   path: https://www.reddit.com/r/CFA/comments/1da1oao/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-06T21:02:25+00:00'
   description: "Bolsa brasileira foi ajudada pelo avan\xE7o das commodities"
@@ -60,22 +70,13 @@
   title: "D\xF3lar cai e volta a ser cotado abaixo de R$ 5,25; Ibovespa tem dia positivo,\
     \ ap\xF3s 6 quedas seguidas"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-06T20:15:17+00:00'
   description: Cerca de 60% do retorno total do S&#038;P 500 de mais de 12% no ano
     foi impulsionado por cinco empresas
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/valorizacao-da-nvidia-impulsiona-alta-recorde-em-wall-street/
   title: "Valoriza\xE7\xE3o da Nvidia impulsiona alta recorde em Wall Street"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-06T19:34:48+00:00'
-  description: "Segundo dados do Minist\xE9rio do Desenvolvimento, Ind\xFAstria, Com\xE9\
-    rcio e Servi\xE7os, as exporta\xE7\xF5es do Rio Grande do Sul ca\xEDram 14% em\
-    \ maio, enquanto o dado nacional caiu 7,1%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/efeitos-das-chuvas-impactou-balanca-comercial-do-rs-em-maio-segundo-mdic/
-  title: "Efeito das chuvas impactou balan\xE7a comercial do RS em maio, segundo MDIC"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
