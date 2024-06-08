@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-08T13:54:03+00:00'
+  description: "O ministro se reuniu com o CEO do Santander Brasil e executivos do\
+    \ banco e de gestoras de ativos, como Bradesco Asset, Ita\xFA Asset, Ibi\xFAna\
+    \ Investimentos e Verde Asset"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/haddad-reclama-de-quebra-de-protocolo-apos-reuniao-com-banco-e-gestores-de-investimentos/
+  title: "Haddad reclama de quebra de protocolo ap\xF3s reuni\xE3o com banco e gestores\
+    \ de investimentos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +20,7 @@
   title: "Ibovespa recua 1,07% na semana com incerteza sobre corte de juros nos EUA;\
     \ d\xF3lar avan\xE7a 1,40%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-07T17:16:28+00:00'
   description: "Segundo o chefe do BC, o Brasil vive um momento \"at\xEDpico\", marcado\
     \ por uma infla\xE7\xE3o corrente benigna acompanhada de expectativas do mercado\
@@ -19,15 +29,6 @@
   path: https://investnews.com.br/economia/tempo-vai-jogar-a-favor-do-bc-com-reducao-de-ruidos-diz-campos-neto/
   title: "Tempo vai jogar a favor do BC com redu\xE7\xE3o de ru\xEDdos, diz Campos\
     \ Neto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-07T15:50:48+00:00'
-  description: "As 272 mil novas vagas que o Payroll apontou, versus 185 mil das previs\xF5\
-    es, abrem mais uma janela para quem busca IPCA+6%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/demonstracao-de-forca-da-economia-americana-eleva-o-ipca2035-a-623/
-  title: "Demonstra\xE7\xE3o de for\xE7a da economia americana eleva o IPCA+2035 a\
-    \ 6,2%"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
