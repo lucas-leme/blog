@@ -1,5 +1,54 @@
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-06-07T21:37:09+00:00'
+  description: "<p>A Medida Provis\xF3ria que alterou a forma como os cr\xE9ditos\
+    \ do PIS/Cofins podem ser utilizados \u2013 e que vai sangrar o caixa das empresas\
+    \ \u2013 causou uma mobiliza\xE7\xE3o in\xE9dita entre v\xE1rios setores afetados,\
+    \ aumentando as chances de que o governo tenha que voltar atr\xE1s na medida.\
+    \ \u201CExistem tr\xEAs op\xE7\xF5es para essa MP: o governo retirar, [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/o-governo-conseguiu-uma-unanimidade-contra-a-mp-do-pis-cofins/\"\
+    \ rel=\"nofollow\">O governo conseguiu uma unanimidade: contra a MP do PIS/Cofins</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-governo-conseguiu-uma-unanimidade-contra-a-mp-do-pis-cofins/
+  title: 'O governo conseguiu uma unanimidade: contra a MP do PIS/Cofins'
+- author: Marques Brownlee
   categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-06-07T21:31:09+00:00'
+  description: 'Where 10,000 iPhones are built and destroyed before the first one
+    ships
+
+
+    The original thread: https://twitter.com/MKBHD/status/1795826687630065846
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Logic https://logic.lnk.to/DejaVu
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/8reaJG7z-is/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8reaJG7z-is
+  title: I Visited Apple's Secret iPhone Testing Labs!
+- author: ArjanCodes
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -131,8 +180,7 @@
   title: "ADEUS BOLSA: Por que o investidor estrangeiro est\xE1 fugindo do Brasil?\
     \ | Corte B\xF4nus #13"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id003
   date: '2024-06-04T22:30:17+00:00'
   description: "<p>Contrariando as previs\xF5es de uma reelei\xE7\xE3o tranquila,\
     \ o primeiro-ministro da \xCDndia, Narendra Modi, n\xE3o conseguiu uma maioria\
@@ -147,26 +195,8 @@
   path: https://braziljournal.com/modelo-modi-fica-mais-5-anos-mas-dependera-de-aliancas/
   title: "\u2018Modelo Modi\u2019 fica mais 5 anos \u2013 mas depender\xE1 de alian\xE7\
     as"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-06-03T23:52:07+00:00'
-  description: "<p>Claudia Sheinbaum fez hist\xF3ria ao se eleger como a primeira\
-    \ mulher que assumir\xE1 a Presid\xEAncia do M\xE9xico. Mas a vit\xF3ria avassaladora\
-    \ da coaliz\xE3o liderada pelo atual presidente, o esquerdista Andr\xE9s Manuel\
-    \ L\xF3pez Obrador, lan\xE7ou d\xFAvidas sobre o futuro da economia mexicana \u2013\
-    \ e at\xE9 mesmo sobre a vitalidade da democracia no segundo pa\xEDs mais populoso\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/vitoria-esmagadora-da-candidata-de-amlo-lanca-duvida-sobre-futuro-do-mexico/\"\
-    \ rel=\"nofollow\">Vit\xF3ria esmagadora da candidata de AMLO lan\xE7a d\xFAvida\
-    \ sobre futuro do M\xE9xico</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/vitoria-esmagadora-da-candidata-de-amlo-lanca-duvida-sobre-futuro-do-mexico/
-  title: "Vit\xF3ria esmagadora da candidata de AMLO lan\xE7a d\xFAvida sobre futuro\
-    \ do M\xE9xico"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-06-03T14:57:33+00:00'
   description: "Reviewing the new $450 Sonos headphones\n\nThanks to EightSleep for\
     \ sponsoring the video! Get $350 off the Pod 4 Ultra or $200 off the Pod 4 with\
@@ -189,7 +219,7 @@
   path: https://theovershoot.co/p/is-consumer-spending-slowing
   title: Is Consumer Spending Slowing?
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-05-31T15:00:37+00:00'
   description: "Check out Hostinger \u27A1\uFE0F https://hostinger.com/arjancodes\
     \  \n\u2714\uFE0F Hostinger code for 10% off: ARJANCODES\n\nIn today's video,\
@@ -272,34 +302,6 @@
   path: https://open.spotify.com/episode/2Yb2rf6q16vwLaeXy3GG60
   title: '#128 - Juros altos e escassez de capital: oportunidade em Special Situations
     com Blue Oak'
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-05-28T21:40:15+00:00'
-  description: 'Android 15 features are more subtle and hidden than ever. These are
-    the best ones
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: http://youtube.com/20syl
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/kkX8_nbBqBQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=kkX8_nbBqBQ
-  title: 'Android 15 Hands-On: Top 5 Features!'
 - author: Flirting with Models
   categories:
   - Podcasts
