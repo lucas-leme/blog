@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-08T14:39:35+00:00'
+  description: "Um dos principais atrativos desta vez \xE9 o dividendo da empresa,\
+    \ que \xE9 um dos maiores do mundo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/sauditas-distribuem-cerca-de-60-da-oferta-da-aramco-para-fundos-estrangeiros/
+  title: Sauditas distribuem cerca de 60% da oferta da Aramco para fundos estrangeiros
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-08T13:54:03+00:00'
   description: "O ministro se reuniu com o CEO do Santander Brasil e executivos do\
@@ -10,8 +19,7 @@
   title: "Haddad reclama de quebra de protocolo ap\xF3s reuni\xE3o com banco e gestores\
     \ de investimentos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-07T22:03:21+00:00'
   description: "Mercado reagiu ao relat\xF3rio de emprego dos Estados Unidos que mostrou\
     \ um n\xFAmero de vagas acima do projetado pelo mercado"
@@ -20,7 +28,7 @@
   title: "Ibovespa recua 1,07% na semana com incerteza sobre corte de juros nos EUA;\
     \ d\xF3lar avan\xE7a 1,40%"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-07T17:16:28+00:00'
   description: "Segundo o chefe do BC, o Brasil vive um momento \"at\xEDpico\", marcado\
     \ por uma infla\xE7\xE3o corrente benigna acompanhada de expectativas do mercado\
@@ -71,14 +79,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1da1oao/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-06T21:02:25+00:00'
-  description: "Bolsa brasileira foi ajudada pelo avan\xE7o das commodities"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dolar-cai-e-volta-a-ser-cotado-abaixo-de-r-525-ibovespa-tem-dia-positivo-apos-6-quedas-seguidas/
-  title: "D\xF3lar cai e volta a ser cotado abaixo de R$ 5,25; Ibovespa tem dia positivo,\
-    \ ap\xF3s 6 quedas seguidas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
