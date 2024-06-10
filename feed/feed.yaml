@@ -1,5 +1,19 @@
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-06-10T00:00:00+00:00'
+  description: "The fast-fashion giant hoped to have a splashy U.S. public offering\
+    \ this year. WSJ's Shen Lu explains how the divide between Beijing and Washington\
+    \ got in the way.  Further Reading: - Shein Promised to Have a Big U.S. IPO. Its\
+    \ China Roots Got in the Way.\_ - Fast-Fashion Giant Shein Files to Go Public\_\
+    \  Further Listening: - Shein Took Over Fast Fashion. Then Came the Backlash.\_\
+    \ - The Mysterious CEO Leading Shein to an IPO\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4Q6SHBK9LswblQuTZ8Wq9v
+  title: Fast Fashion, Slow IPO
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2024-06-09T09:50:30+00:00'
   description: "<p>\xC0s v\xE9speras de completar 30 anos, o Plano Real foi defendido\
@@ -14,8 +28,7 @@
   path: https://braziljournal.com/simonsen-um-precursor-discreto-do-plano-real/
   title: Simonsen, um precursor discreto do Plano Real
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-06-09T00:00:00+00:00'
   description: "The rising popularity of GLP-1 drugs could cause all kinds of ripple\
     \ effects.According to one estimate, 9% of the U.S. population could be on Ozempic\
@@ -43,7 +56,7 @@
   path: https://theovershoot.co/p/perhaps-wage-growth-isnt-slowing
   title: Perhaps Wage Growth Isn't Slowing After All?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-06-07T21:37:09+00:00'
   description: "<p>A Medida Provis\xF3ria que alterou a forma como os cr\xE9ditos\
     \ do PIS/Cofins podem ser utilizados \u2013 e que vai sangrar o caixa das empresas\
@@ -140,18 +153,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/07062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 07/06/2024"
-- author: The Journal.
-  categories: *id002
-  date: '2024-06-07T00:00:00+00:00'
-  description: "There is a new contender in the cola wars, and it isn\u2019t a cola.\
-    \ It\u2019s Dr Pepper. WSJ\u2019s Jennifer Maloney unpacks how after decades as\
-    \ a distant competitor, Dr Pepper has climbed the soda ranks with help from hefty\
-    \ marketing, novel flavors and TikTok videos.  Further Reading: - Dr Pepper Ties\
-    \ Pepsi as America\u2019s No. 2 Soda  Further Listening: - The Agony and Ecstasy\
-    \ of Tab\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2qvWZzIKoLIE7wS1FM8NZX
-  title: "\u2018It Came out of Nowhere\u2019: The Rise of Dr Pepper"
 - author: Market Makers
   categories: &id003
   - Podcasts
