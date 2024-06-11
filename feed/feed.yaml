@@ -1,5 +1,14 @@
-- author: "Economia \u2013 Brazil Journal"
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-06-11T19:33:58+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/nifUnSk21-w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=nifUnSk21-w
+  title: "Apple has done this before \U0001F440"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2024-06-11T09:50:55+00:00'
   description: "<p>O grande problema do Brasil neste momento \xE9\_ encontrar um jeito\
@@ -15,9 +24,7 @@
   path: https://braziljournal.com/editorial-o-congresso-precisa-desmontar-a-zona-franca-do-brasil/
   title: "EDITORIAL: O Congresso precisa desmontar a \u2018Zona Franca do Brasil\u2019"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-06-11T07:28:19+00:00'
   description: 'Apple dropped new software for iPhone, iPad, AI way more. This is
     everything you need to know.
@@ -64,7 +71,7 @@
   path: https://www.youtube.com/watch?v=qkYoBNdcXBU
   title: 'WWDC 2024 Recap: Is Apple Intelligence Legit?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-06-11T00:12:50+00:00'
   description: "<p>NOVA YORK \u2013 Os juros mais altos nos Estados Unidos t\xEAm\
     \ atra\xEDdo investidores para os t\xEDtulos da d\xEDvida americana. Mas, para\
@@ -79,6 +86,66 @@
   path: https://braziljournal.com/blackrock-renda-fixa-emergente-vale-a-pena-mas-ha-mercados-melhores-que-o-brasil/
   title: "BlackRock: Renda fixa emergente vale a pena \u2013 mas h\xE1 mercados melhores\
     \ que o Brasil"
+- author: Market Makers
+  categories: &id005
+  - Podcasts
+  date: '2024-06-11T00:00:00+00:00'
+  description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
+    \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
+    \ cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site:\
+    \ https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=maio_mktinfluencia_ig_marketmakersNo\
+    \ epis\xF3dio 102 do Market Makers, entrevistamos Fernando de Rizzo, CEO da Tupy,\
+    \ uma empresa brasileira que est\xE1 transformando a ind\xFAstria de fundi\xE7\
+    \xE3o e motores, para uma conversa profunda sobre a transi\xE7\xE3o energ\xE9\
+    tica e os desafios que ela traz.\_Com quase 30 anos na Tupy, Fernando compartilhou\
+    \ sua jornada desde engenheiro at\xE9 CEO, e revelou como a Tupy est\xE1 lidando\
+    \ com os desafios atuais, como a eletrifica\xE7\xE3o, descarboniza\xE7\xE3o e\
+    \ a transi\xE7\xE3o energ\xE9tica.Ele tamb\xE9m explicou como a empresa est\xE1\
+    \ se adaptando \xE0s novas demandas de energia e sustentabilidade, e porque a\
+    \ eletrifica\xE7\xE3o de ve\xEDculos e m\xE1quinas n\xE3o ser\xE1 um caminho t\xE3\
+    o simples. Discutimos as estrat\xE9gias da Tupy para se tornar l\xEDder global\
+    \ em componentes estruturais e motores, al\xE9m de explorar novas oportunidades\
+    \ no mercado de biometano e biofertilizantes.A conversa aborda a necessidade de\
+    \ inova\xE7\xE3o, os investimentos em novas tecnologias e a relev\xE2ncia de uma\
+    \ abordagem equilibrada que considere tanto a efici\xEAncia econ\xF4mica quanto\
+    \ a sustentabilidade ambiental. Um papo important\xEDssimo para entender as dificuldades\
+    \ por tr\xE1s da t\xE3o falada transi\xE7\xE3o energ\xE9ticaApresenta\xE7\xE3\
+    o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Convidados:\
+    \ Fernando de Rizzo (CEO da Tupy)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo\_\
+    Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a28cba2bad35260f0b9fb462b
+  path: https://open.spotify.com/episode/3bJ2Dw6TxC1MSZ9d4EzRaT
+  title: "#102 | VERDADES INCONVENIENTES SOBRE A TRANSIC\u0327A\u0303O ENERGE\u0301\
+    TICA"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-06-11T00:00:00+00:00'
+  description: "The nation\u2019s first congestion-pricing plan was set to take effect\
+    \ at the end of June. But last week, New York Gov. Kathy Hochul called to indefinitely\
+    \ delay the program. WSJ's Jimmy Vielkind unpacks the surprising move and explores\
+    \ why Hochul made the 11th hour change.  Further Reading: -New York Gov. Kathy\
+    \ Hochul Abruptly Halts Manhattan Congestion Pricing\_  Further Listening:  -NYC\u2019\
+    s Food Delivery Workers Fight for a Minimum Wage\_ -New York City's 'De Facto\
+    \ Ban' on Airbnb\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3aYcgH9wbfdhw9UyNewxBT
+  title: "New York\u2019s U-Turn on a Plan to Reduce Traffic"
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-06-11T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
+    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
+    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a3d858c218ccc84d57b20f390
+  path: https://open.spotify.com/episode/6x1uibOdq77KjTvzkVHIMg
+  title: "#129 - Investindo em renda fixa com a Ib\xEDuna Investimentos"
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -94,7 +161,7 @@
   path: https://open.spotify.com/episode/71HTBK4HEVMrf3qhKw56nv
   title: History's Seductive Beliefs
 - author: The Overshoot
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2024-06-10T21:49:16+00:00'
@@ -105,8 +172,7 @@
   path: https://theovershoot.co/p/the-curious-case-of-australias-brief
   title: The Curious Case of Australia's (Brief?) Current Account Surplus
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id003
   date: '2024-06-10T00:00:00+00:00'
   description: "The fast-fashion giant hoped to have a splashy U.S. public offering\
     \ this year. WSJ's Shen Lu explains how the divide between Beijing and Washington\
@@ -118,25 +184,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4Q6SHBK9LswblQuTZ8Wq9v
   title: 'Shein: Fast Fashion, Slow IPO'
-- author: The Journal.
-  categories: *id002
-  date: '2024-06-09T00:00:00+00:00'
-  description: "The rising popularity of GLP-1 drugs could cause all kinds of ripple\
-    \ effects.According to one estimate, 9% of the U.S. population could be on Ozempic\
-    \ or similar medications by 2030. Meanwhile, drugmakers are already developing\
-    \ the next generation of weight-loss drugs and researchers are studying the possible\
-    \ health benefits beyond weight loss and diabetes, including addiction.In the\
-    \ final episode of our series we ask: What could all this development mean for\
-    \ businesses, from the food sector to airlines? And who wins and who loses in\
-    \ the post-Ozempic economy?Guests include: David Ricks, CEO of Eli Lilly; and\
-    \ Mehdi Farokhnia, an addiction researcher at the National Institutes of Health.Listen\
-    \ to Episodes 1, 2 and 3 of \u201CTrillion Dollar Shot\u201D here.\_ Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8ad9bcc42a50e03eaca3366fc8
-  path: https://open.spotify.com/episode/5hNCCyj35z427dRJWW6HPs
-  title: 'Trillion Dollar Shot, Episode 4: The Disruptors'
 - author: The Overshoot
-  categories: *id003
+  categories: *id004
   date: '2024-06-08T04:50:13+00:00'
   description: The typical worker's pay jumped in May even as the number of people
     working continued to rise briskly. But there are a few signs of slowing in the
@@ -144,37 +193,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d48975f-23c6-4a73-88e2-274158ee859a_5004x2625.png
   path: https://theovershoot.co/p/perhaps-wage-growth-isnt-slowing
   title: Perhaps Wage Growth Isn't Slowing After All?
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-06-07T21:31:09+00:00'
-  description: 'Where 10,000 iPhones are built and destroyed before the first one
-    ships
-
-
-    The original thread: https://twitter.com/MKBHD/status/1795826687630065846
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: Logic https://logic.lnk.to/DejaVu
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/8reaJG7z-is/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=8reaJG7z-is
-  title: I Visited Apple's Secret iPhone Testing Labs!
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -226,8 +244,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/07062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 07/06/2024"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id005
   date: '2024-06-06T00:00:00+00:00'
   description: "Voc\xEA j\xE1 viu a bolsa t\xE3o largada e odiada como agora?Neste\
     \ epis\xF3dio, mergulhamos nas oportunidades ocultas do mercado de a\xE7\xF5es\
@@ -267,33 +284,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6cc5533d38892d1053793292
   path: https://open.spotify.com/episode/7mchZIK2o5k3Tcth8Cv15M
   title: 'Music machines: Could AI kill the radio star?'
-- author: Market Makers
-  categories: *id005
-  date: '2024-06-05T00:00:00+00:00'
-  description: "CORTE B\xD4NUS #13:\_Por que os investidores estrangeiros est\xE3\
-    o fugindo do Brasil?Mergulhamos na complexa quest\xE3o da sa\xEDda de investidores\
-    \ estrangeiros do mercado brasileiro.Walter Maciel e Pedro Jobim discutiram como\
-    \ a volatilidade econ\xF4mica, as pol\xEDticas populistas e a instabilidade nas\
-    \ regras impactam negativamente a confian\xE7a dos investidores. Al\xE9m disso,\
-    \ analisaram os desafios impostos pela alta da infla\xE7\xE3o nos Estados Unidos\
-    \ e como isso afeta a atratividade dos investimentos no Brasil.\_A conversa abrange\
-    \ tamb\xE9m a competitividade dos juros locais, a aus\xEAncia de gatilhos para\
-    \ a valoriza\xE7\xE3o da bolsa e a compara\xE7\xE3o entre o ambiente macroecon\xF4\
-    mico brasileiro e outros pa\xEDses emergentes, como M\xE9xico e \xCDndia.\_Descubra\
-    \ como a economia global e as decis\xF5es pol\xEDticas influenciam diretamente\
-    \ o fluxo de capital estrangeiro e o que poderia reverter essa tend\xEAncia.Gostou\
-    \ do conte\xFAdo? Deixe seu like e inscreva-se no canal para n\xE3o perder nenhum\
-    \ epis\xF3dio!\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtu.be/7jxiAd1n5MU-\
-    \ - - - - - -ADEUS BOLSA: Por que o investidor estrangeiro est\xE1 fugindo do\
-    \ Brasil? | Market Makers #B\xF4nus13Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)\
-    \ e Josu\xE9 Guedes (@josueguedes__)Convidados: Walter Maciel (CEO da AZ Quest)\
-    \ e Pedro Jobim (s\xF3cio fundador da Legacy Capital)Edi\xE7\xE3o: Bianca Barsotti#LULA\
-    \ #MERCADOFINANCEIRO #ECONOMIABRASILEIRA #BRASIL #FISCALBRASILEIRO #FARIALIMA\
-    \ #MARKETMAKERS #THIAGOSALOMAOBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8aadb73dd98169c07df1d8c730
-  path: https://open.spotify.com/episode/686hlEw9Xwh6Z2baH0Sosp
-  title: "ADEUS BOLSA: Por que o investidor estrangeiro est\xE1 fugindo do Brasil?\
-    \ | Corte B\xF4nus #13"
 - author: ArjanCodes
   categories: *id006
   date: '2024-05-31T15:00:37+00:00'
@@ -349,8 +339,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/05/can-discount-window-stigma-be-cured/
   title: Can Discount Window Stigma Be Cured?
 - author: Outliers
-  categories: &id007
-  - Podcasts
+  categories: *id007
   date: '2024-05-29T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -409,20 +398,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/1aCb7zYjSXFIo6cQUKz2NY
   title: 'Real Estate: Opportunities and Risks in an Unprecedented Market'
-- author: Outliers
-  categories: *id007
-  date: '2024-05-15T00:00:00+00:00'
-  description: "Assista ao epis\xF3dio em v\xEDdeo: https://www.youtube.com/live/ukasMX6H4_gInvestir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
-    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
-    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8aebf62b04774ddc5dad147f81
-  path: https://open.spotify.com/episode/4n1epNR5GmC0Zhz3sylHKu
-  title: "#127 - Os pilares da gest\xE3o de cr\xE9dito privado da SPX Capital"
 - author: Apricitas Economics
   categories: *id008
   date: '2024-05-14T16:10:04+00:00'
