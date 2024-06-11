@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-11T12:18:16+00:00'
+  description: "No acumulado de 12 meses at\xE9 maio, o indicador teve alta de 3,93%,\
+    \ contra alta 3,69% do m\xEAs anterior"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/ipca-sobe-046-em-maio-diz-ibge/
+  title: IPCA sobe 0,46% em maio, diz IBGE
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/financas/lojas-marisa-aprova-aumento-de-capital-de-ate-r-750-milhoes/
   title: "Lojas Marisa aprova aumento de capital de at\xE9 R$ 750 milh\xF5es"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-11T11:00:00+00:00'
   description: "Pela primeira vez corredores amadores como a vice-presidente da Mastercard\
     \ Brasil, Ana Karina Scarlato, poder\xE3o participar da prova"
@@ -57,16 +65,6 @@
   path: https://www.reddit.com/r/CFA/comments/1dd54y8/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-10T19:13:57+00:00'
-  description: "O governo editou recentemente uma MP limitando o sistema de cr\xE9\
-    ditos de Pis/Cofins, com a proibi\xE7\xE3o de que eles sejam usados para o pagamento\
-    \ de outros tributos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/haddad-destaca-preocupacao-com-aumento-de-creditos-tributarios-e-diz-que-esclarecera-pontos-para-empresarios-sobre-mp/
-  title: "Haddad vai tentar explicar \u2018MP do Fim do Mundo\u2019 para empres\xE1\
-    rios"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-06-10T15:04:36+00:00'
