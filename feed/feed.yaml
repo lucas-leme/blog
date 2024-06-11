@@ -1,6 +1,70 @@
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
+  date: '2024-06-11T09:50:55+00:00'
+  description: "<p>O grande problema do Brasil neste momento \xE9\_ encontrar um jeito\
+    \ de fechar suas contas para que a taxa de juros asfixiante finalmente volte a\
+    \ cair. E a julgar pelo clima melanc\xF3lico entre o empresariado, parece muito\
+    \ dif\xEDcil que Bras\xEDlia consiga fazer este ajuste apenas criando novos impostos\
+    \ ou aumentando os j\xE1 existentes. \u201CO estresse [&#8230;]</p>\n<p>The post\
+    \ <a href=\"https://braziljournal.com/editorial-o-congresso-precisa-desmontar-a-zona-franca-do-brasil/\"\
+    \ rel=\"nofollow\">EDITORIAL: O Congresso precisa desmontar a \u2018Zona Franca\
+    \ do Brasil\u2019</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-o-congresso-precisa-desmontar-a-zona-franca-do-brasil/
+  title: "EDITORIAL: O Congresso precisa desmontar a \u2018Zona Franca do Brasil\u2019"
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-06-11T07:28:19+00:00'
+  description: 'Apple dropped new software for iPhone, iPad, AI way more. This is
+    everything you need to know.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Logic https://logic.lnk.to/DejaVu
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Intro
+
+    0:55 Vision Pro
+
+    2:22 iOS 18 Features and Mess
+
+    6:00 AirPods, AppleTV, WatchOS
+
+    6:44 iPadOS 18 and the Calculator
+
+    9:34 MacOS Sequoia
+
+    10:29 What is Apple Intelligence? (AI)
+
+    14:48 AI vs Privacy
+
+    17:02 Final Thoughts'
+  image: https://i2.ytimg.com/vi/qkYoBNdcXBU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=qkYoBNdcXBU
+  title: 'WWDC 2024 Recap: Is Apple Intelligence Legit?'
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2024-06-11T00:12:50+00:00'
   description: "<p>NOVA YORK \u2013 Os juros mais altos nos Estados Unidos t\xEAm\
     \ atra\xEDdo investidores para os t\xEDtulos da d\xEDvida americana. Mas, para\
@@ -54,20 +118,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4Q6SHBK9LswblQuTZ8Wq9v
   title: 'Shein: Fast Fashion, Slow IPO'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2024-06-09T09:50:30+00:00'
-  description: "<p>\xC0s v\xE9speras de completar 30 anos, o Plano Real foi defendido\
-    \ logo no nascedouro por um dos maiores economistas brasileiros que, ainda nos\
-    \ anos 70, j\xE1 demonstrava preocupa\xE7\xE3o com a infla\xE7\xE3o crescente\
-    \ e a indexa\xE7\xE3o da economia. Mais ainda: uma d\xE9cada antes do Real, Mario\
-    \ Henrique Simonsen j\xE1 apoiava a tese de desindexa\xE7\xE3o de Persio [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/simonsen-um-precursor-discreto-do-plano-real/\"\
-    \ rel=\"nofollow\">Simonsen, um precursor discreto do Plano Real</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/simonsen-um-precursor-discreto-do-plano-real/
-  title: Simonsen, um precursor discreto do Plano Real
 - author: The Journal.
   categories: *id002
   date: '2024-06-09T00:00:00+00:00'
@@ -95,9 +145,7 @@
   path: https://theovershoot.co/p/perhaps-wage-growth-isnt-slowing
   title: Perhaps Wage Growth Isn't Slowing After All?
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-06-07T21:31:09+00:00'
   description: 'Where 10,000 iPhones are built and destroyed before the first one
     ships
@@ -178,7 +226,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/07062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 07/06/2024"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-06-06T00:00:00+00:00'
   description: "Voc\xEA j\xE1 viu a bolsa t\xE3o largada e odiada como agora?Neste\
@@ -220,7 +268,7 @@
   path: https://open.spotify.com/episode/7mchZIK2o5k3Tcth8Cv15M
   title: 'Music machines: Could AI kill the radio star?'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-06-05T00:00:00+00:00'
   description: "CORTE B\xD4NUS #13:\_Por que os investidores estrangeiros est\xE3\
     o fugindo do Brasil?Mergulhamos na complexa quest\xE3o da sa\xEDda de investidores\
@@ -246,19 +294,6 @@
   path: https://open.spotify.com/episode/686hlEw9Xwh6Z2baH0Sosp
   title: "ADEUS BOLSA: Por que o investidor estrangeiro est\xE1 fugindo do Brasil?\
     \ | Corte B\xF4nus #13"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-06-03T14:57:33+00:00'
-  description: "Reviewing the new $450 Sonos headphones\n\nThanks to EightSleep for\
-    \ sponsoring the video! Get $350 off the Pod 4 Ultra or $200 off the Pod 4 with\
-    \ code MKBHD at https://eightsleep.com/mkbhd \n\nMKBHD Merch: http://shop.MKBHD.com\n\
-    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track Artist:\
-    \ Logic https://logic.lnk.to/DejaVu\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \nHeadphones provided by Sonos for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
-    http://facebook.com/MKBHD"
-  image: https://i3.ytimg.com/vi/6_3cLlSlTKw/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=6_3cLlSlTKw
-  title: 'Sonos Ace Headphones: You Had One Job!'
 - author: ArjanCodes
   categories: *id006
   date: '2024-05-31T15:00:37+00:00'
