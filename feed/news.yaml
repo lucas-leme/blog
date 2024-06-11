@@ -1,3 +1,22 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-11T11:42:06+00:00'
+  description: "A companhia vai emitir cerca de 535,7 milh\xF5es de a\xE7\xF5es ao\
+    \ pre\xE7o de R$ 1,40"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/lojas-marisa-aprova-aumento-de-capital-de-ate-r-750-milhoes/
+  title: "Lojas Marisa aprova aumento de capital de at\xE9 R$ 750 milh\xF5es"
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-11T11:00:00+00:00'
+  description: "Pela primeira vez corredores amadores como a vice-presidente da Mastercard\
+    \ Brasil, Ana Karina Scarlato, poder\xE3o participar da prova"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/olimpiadas-de-paris-executivos-brasileiros-amadores-vao-correr-a-maratona/
+  title: "Olimp\xEDadas de Paris: executivos brasileiros, amadores, v\xE3o correr\
+    \ a maratona"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,8 +58,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-10T19:13:57+00:00'
   description: "O governo editou recentemente uma MP limitando o sistema de cr\xE9\
     ditos de Pis/Cofins, com a proibi\xE7\xE3o de que eles sejam usados para o pagamento\
@@ -49,18 +67,8 @@
   path: https://investnews.com.br/economia/haddad-destaca-preocupacao-com-aumento-de-creditos-tributarios-e-diz-que-esclarecera-pontos-para-empresarios-sobre-mp/
   title: "Haddad vai tentar explicar \u2018MP do Fim do Mundo\u2019 para empres\xE1\
     rios"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-10T16:45:09+00:00'
-  description: "Pe\xE7a deve levar ao menos seis gramas de ouro e 92,5% de prata e,\
-    \ pelo pre\xE7o dos metais, valeria US$ 932. Mas o valor intang\xEDvel \xE9 inestim\xE1\
-    vel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/olimpiadas-quanto-custa-uma-medalha-de-ouro-olimpica/
-  title: "Olimp\xEDadas: Quanto custa uma medalha de ouro ol\xEDmpica?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-10T15:04:36+00:00'
   description: "Agentes financeiros seguem \xE0 espera de novas pistas sobre a pol\xED\
     tica monet\xE1ria norte-americana na semana, bem como as previs\xF5es para a infla\xE7\
@@ -68,15 +76,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/ibovespa-sobe-com-petrobras-mas-clima-e-de-cautela-antes-de-fed/
   title: "Ibovespa sobe com Petrobras mas clima \xE9 de cautela antes de Fed"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-10T11:00:00+00:00'
-  description: "Apelo do d\xF3lar e sucess\xE3o sem impostos mant\xEAm a for\xE7a\
-    \ das offshores, mesmo depois do novo imposto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/sonho-da-offshore-propria-segue-firme-mesmo-apos-taxacao/
-  title: "\u2018Sonho da offshore pr\xF3pria\u2019 segue firme, mesmo ap\xF3s taxa\xE7\
-    \xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
