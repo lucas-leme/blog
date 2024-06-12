@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -12,6 +12,32 @@
   image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: ArjanCodes | Under the Hood
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-06-12T00:00:00+00:00'
+  description: "CORTE B\xD4NUS 101: A Bolsa de Valores Brasileira est\xE1 em seu pior\
+    \ momento? O que os investidores devem fazer?No epis\xF3dio 101 do Market Makers,\
+    \ discutimos o clima atual da Bolsa de Valores, marcado por resgates sequenciais\
+    \ de fundos e um pessimismo generalizado. Comparamos este per\xEDodo com o final\
+    \ do governo Dilma e destacamos que, embora o cen\xE1rio pare\xE7a desanimador,\
+    \ h\xE1 uma s\xE9rie de boas oportunidades para quem tem paci\xEAncia e disciplina.Tamb\xE9\
+    m analisamos como o comportamento dos investidores e a ansiedade do mercado influenciam\
+    \ as oscila\xE7\xF5es bruscas de pre\xE7os e a import\xE2ncia de entender o processo\
+    \ por tr\xE1s das decis\xF5es de gest\xE3o. Apesar dos desafios, a perspectiva\
+    \ de pre\xE7os atrativos e oportunidades de investimento continuam a surgir, sinalizando\
+    \ que, com a abordagem certa, ainda \xE9 poss\xEDvel prosperar.Voc\xEA acha que\
+    \ a bolsa de valores brasileira vai se recuperar em breve? Como voc\xEA est\xE1\
+    \ lidando com seus investimentos nesse per\xEDodo?\U0001F4FD VEJA O EPIS\xD3DIO\
+    \ COMPLETO NO YOUTUBE:https://youtu.be/U11hzh7sB0E- - - - - - - -A BOLSA DE VALORES\
+    \ N\xC3O PARA DE CAIR | Market Makers #101Apresenta\xE7\xE3o: Thiago Salom\xE3\
+    o (@_salomoney) e Matheus Soares (@maatssoares)Convidados: Gustavo Constantino\
+    \ (s\xF3cio da T\xE1vola Investimentos)Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo#BOLSADEVALORES\
+    \ #A\xC7\xD5ES #INVESTIMENTO #MARKETMAKERS #THIAGOSALOM\xC3OBecome a supporter\
+    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a30b78a2c917d65b01ca58ca7
+  path: https://open.spotify.com/episode/3w27jN6MJxDgECnveX9IGy
+  title: "BOLSA DE VALORES EM QUEDA LIVRE: o que est\xE1 acontecendo? | Corte Ep 101"
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -101,8 +127,7 @@
   title: "BlackRock: Renda fixa emergente vale a pena \u2013 mas h\xE1 mercados melhores\
     \ que o Brasil"
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id003
   date: '2024-06-11T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
     \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
@@ -132,7 +157,7 @@
   title: "#102 | VERDADES INCONVENIENTES SOBRE A TRANSIC\u0327A\u0303O ENERGE\u0301\
     TICA"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-11T00:00:00+00:00'
   description: "The nation\u2019s first congestion-pricing plan was set to take effect\
@@ -175,7 +200,7 @@
   path: https://open.spotify.com/episode/71HTBK4HEVMrf3qhKw56nv
   title: History's Seductive Beliefs
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-06-10T21:49:16+00:00'
@@ -186,7 +211,7 @@
   path: https://theovershoot.co/p/the-curious-case-of-australias-brief
   title: The Curious Case of Australia's (Brief?) Current Account Surplus
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-06-10T00:00:00+00:00'
   description: "The fast-fashion giant hoped to have a splashy U.S. public offering\
     \ this year. WSJ's Shen Lu explains how the divide between Beijing and Washington\
@@ -199,7 +224,7 @@
   path: https://open.spotify.com/episode/4Q6SHBK9LswblQuTZ8Wq9v
   title: 'Shein: Fast Fashion, Slow IPO'
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-06-08T04:50:13+00:00'
   description: The typical worker's pay jumped in May even as the number of people
     working continued to rise briskly. But there are a few signs of slowing in the
@@ -208,7 +233,7 @@
   path: https://theovershoot.co/p/perhaps-wage-growth-isnt-slowing
   title: Perhaps Wage Growth Isn't Slowing After All?
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-06-07T15:01:04+00:00'
   description: "In this video, I\u2019m going to talk about imposter syndrome. What\
     \ it is, why so many software developers have it, including me, and how I\u2019\
@@ -254,30 +279,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/07062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 07/06/2024"
-- author: Market Makers
-  categories: *id006
-  date: '2024-06-06T00:00:00+00:00'
-  description: "Voc\xEA j\xE1 viu a bolsa t\xE3o largada e odiada como agora?Neste\
-    \ epis\xF3dio, mergulhamos nas oportunidades ocultas do mercado de a\xE7\xF5es\
-    \ brasileiro. Com a bolsa em um dos n\xEDveis mais baixos da hist\xF3ria recente,\
-    \ muitos investidores se perguntam: \xE9 hora de comprar?Conversamos com Gustavo\
-    \ Constantino, fundador da T\xE1vola Capital, que compartilhou sua vis\xE3o sobre\
-    \ a desvaloriza\xE7\xE3o das a\xE7\xF5es, destacando setores e empresas que est\xE3\
-    o subvalorizados. Gustavo contou por que acredita que empresas como a Eletrobras\
-    \ e a Orizon est\xE3o posicionadas para um crescimento significativo, mesmo em\
-    \ um cen\xE1rio econ\xF4mico desafiador.\_Al\xE9m disso, discutimos a import\xE2\
-    ncia de olhar para os fundamentos das empresas e n\xE3o se deixar levar apenas\
-    \ pelo pessimismo do mercado.Quais a\xE7\xF5es voc\xEA acredita que est\xE3o subvalorizadas\
-    \ no mercado brasileiro atualmente? Deixe sua opini\xE3o nos coment\xE1rios! Gostou\
-    \ do conte\xFAdo? N\xE3o se esque\xE7a de deixar o seu like e inscrever-se no\
-    \ canal para n\xE3o perder nenhuma atualiza\xE7\xE3o sobre o mercado financeiro!COMUNIDADE\
-    \ MARKET MAKERS:\_https://lp.mmakers.com.br/comunidade-market-makers?xpromo=XE-ME-EMP-MMK-SUBMMK-20240604-YT-NTVNL-DESCRICAO-EPBONUS14-XApresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)\_Convidado:\
-    \ Gustavo Constantino (s\xF3cio da T\xE1vola Investimentos)\_Edi\xE7\xE3o: Bianca\
-    \ Barsotti e Lucas Zanardo\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a43ebdd156381f511b87d044a
-  path: https://open.spotify.com/episode/1ymaoU4HM9zryhOTKUQYQH
-  title: "#101 | COMO SOBREVIVER \xC0 CRISE DA BOLSA DE VALORES?"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
