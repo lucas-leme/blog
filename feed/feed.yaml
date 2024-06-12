@@ -1,3 +1,17 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-06-12T08:06:02+00:00'
+  description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
+    \ I'll dive into the code and design of a soon-to-be-announced open-source project\
+    \ together with you. This is going to be completely unscripted, so you'll see\
+    \ my real-time reactions to the code and how it\u2019s been designed. Also, there\
+    \ will be time for Q&amp;A!"
+  image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=c-TWPdL9_X4
+  title: ArjanCodes | Under the Hood
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -87,7 +101,7 @@
   title: "BlackRock: Renda fixa emergente vale a pena \u2013 mas h\xE1 mercados melhores\
     \ que o Brasil"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-06-11T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -194,10 +208,7 @@
   path: https://theovershoot.co/p/perhaps-wage-growth-isnt-slowing
   title: Perhaps Wage Growth Isn't Slowing After All?
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2024-06-07T15:01:04+00:00'
   description: "In this video, I\u2019m going to talk about imposter syndrome. What\
     \ it is, why so many software developers have it, including me, and how I\u2019\
@@ -244,7 +255,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/07062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 07/06/2024"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-06-06T00:00:00+00:00'
   description: "Voc\xEA j\xE1 viu a bolsa t\xE3o largada e odiada como agora?Neste\
     \ epis\xF3dio, mergulhamos nas oportunidades ocultas do mercado de a\xE7\xF5es\
@@ -284,41 +295,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6cc5533d38892d1053793292
   path: https://open.spotify.com/episode/7mchZIK2o5k3Tcth8Cv15M
   title: 'Music machines: Could AI kill the radio star?'
-- author: ArjanCodes
-  categories: *id006
-  date: '2024-05-31T15:00:37+00:00'
-  description: "Check out Hostinger \u27A1\uFE0F https://hostinger.com/arjancodes\
-    \  \n\u2714\uFE0F Hostinger code for 10% off: ARJANCODES\n\nIn today's video,\
-    \ I'll show you how to build, deploy, and host a backend from start to finish.\
-    \ I\u2019ll walk through the entire process, covering everything you need to know\
-    \ to get your application up and running.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/build_deploy_host_backend/skypulse\n\
-    \n\u2705 Get the FREE Software Architecture Checklist, a guide for building robust,\
-    \ scalable software systems: https://arjan.codes/checklist.\n\n\U0001F4E8 The\
-    \ Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\n\U0001F4BB\
-    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
-    \ quiz on this topic: https://www.learntail.com/quiz/sjdllc\n\n\U0001F393 Courses:\n\
-    The Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\nThe Software\
-    \ Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext Level Python:\
-    \ Become a Python Expert: https://www.arjancodes.com/courses/nlp\nThe 30-Day Design\
-    \ Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
-    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:24 The Build Process\n7:13 Hosting\n10:11 Deploy process\n\
-    13:00 Summary\n13:49 Outro\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
-    \ - The links in this description might be affiliate links. If you purchase a\
-    \ product or service through one of those links, I may receive a small commission.\
-    \ There is no additional charge to you. Thanks for supporting my channel so I\
-    \ can continue to provide you with free content each week!"
-  image: https://i3.ytimg.com/vi/ZUlevpurfqk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZUlevpurfqk
-  title: Build, Deploy, and Host a Backend From A to Z
 - author: Liberty Street Economics
   categories:
   - Macro
