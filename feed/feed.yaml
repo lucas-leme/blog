@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -38,7 +38,7 @@
   path: https://www.youtube.com/watch?v=vhdUyGs_f6c
   title: "Do These 5 Things if You Don\u2019t Want to Write Crappy Code"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-06-14T13:58:49+00:00'
@@ -46,6 +46,24 @@
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
   title: Real light saber vs Nokia 3310
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-06-14T00:00:00+00:00'
+  description: "Tesla shareholders voted to reapprove Elon Musk\u2019s multibillion-dollar\
+    \ pay package, signaling support for the EV maker\u2019s CEO and giving the board\
+    \ ammunition in its fight to preserve the court-rejected compensation plan. WSJ\u2019\
+    s David Benoit explores the fight to get Musk billions and why the Tesla board\
+    \ is so invested in making the huge pay package happen.  Further Listening:\_\
+    \ - Elon Musk\u2019s Unusual Relationships With Women at SpaceX\_ - Why is Tesla\
+    \ Pulling Back on EV Charging?\_ - Money, Drugs, Elon Musk and Tesla\u2019s Board\_\
+    \  Further Reading:\_ - Tesla Shareholders Vote to Uphold Elon Musk\u2019s $48\
+    \ Billion Pay Package\_ - Elon Musk\u2019s $55.8 Billion Tesla Pay Package Struck\
+    \ Down by Judge\_ - Tesla Hits the Road to Persuade Shareholders to Pay Elon Musk\
+    \ $46 Billion\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2GfZ9e9NXmlAEZG6QIn8RV
+  title: "Tesla\u2019s Multibillion-Dollar Pay Package for Elon Musk"
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -91,7 +109,7 @@
   title: "\u201CO Brasil n\xE3o est\xE1 mais no radar,\u201D diz o chefe do Pinheiro\
     \ Neto"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-06-13T00:00:00+00:00'
   description: "A China e os EUA est\xE3o prestes a iniciar a Terceira Guerra Mundial?\
@@ -119,8 +137,7 @@
   path: https://open.spotify.com/episode/7HuRvMEvvQwe3n1391tS3s
   title: "#103 | EUA x CHINA: A 3\xAA GUERRA MUNDIAL \xC9 INEVIT\xC1VEL?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2024-06-13T00:00:00+00:00'
   description: "Joshua Wright was a star in the world of antitrust, from his time\
     \ at the Federal Trade Commission to his work with some of the biggest tech companies.\
@@ -155,7 +172,7 @@
   path: https://open.spotify.com/episode/4ndCIcNBA7mVOUesupDdhC
   title: 'Dangerous allure: Why the China model still appeals overseas'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-06-12T15:56:11+00:00'
   description: 'AI...Siri... magic mouse... we talk about it all
 
@@ -196,7 +213,7 @@
   path: https://www.youtube.com/watch?v=pMX2cQdPubk
   title: Talking Tech and AI with Tim Cook!
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-06-12T08:06:02+00:00'
   description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
     \ I'll dive into the code and design of a soon-to-be-announced open-source project\
@@ -207,7 +224,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: ArjanCodes | Under the Hood
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-06-12T00:00:00+00:00'
   description: "CORTE B\xD4NUS 101: A Bolsa de Valores Brasileira est\xE1 em seu pior\
     \ momento? O que os investidores devem fazer?No epis\xF3dio 101 do Market Makers,\
@@ -231,18 +248,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a30b78a2c917d65b01ca58ca7
   path: https://open.spotify.com/episode/3w27jN6MJxDgECnveX9IGy
   title: "BOLSA DE VALORES EM QUEDA LIVRE: o que est\xE1 acontecendo? | Corte Ep 101"
-- author: The Journal.
-  categories: *id005
-  date: '2024-06-12T00:00:00+00:00'
-  description: "The billionaire founder showed several female employees at SpaceX\
-    \ an unusual amount of attention or pursued them. WSJ's Joseph Palazzolo describes\
-    \ the revelations.  Further Reading: -Elon Musk\u2019s Boundary-Blurring Relationships\
-    \ With Women at SpaceX\_  Further Listening:  -Money, Drugs, Elon Musk and Tesla's\
-    \ Board\_ -Elon Musk's 'Demon Mode'\_  Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0mem00nSwECEW8ur6ZEbcC
-  title: "Elon Musk\u2019s Unusual Relationships With Women at SpaceX"
 - author: Outliers
   categories: &id007
   - Podcasts
