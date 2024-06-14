@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-06-14T13:58:49+00:00'
+  description: Real life dark side light saber
+  image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
+  title: Real light saber vs Nokia 3310
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -43,7 +52,7 @@
   title: "\u201CO Brasil n\xE3o est\xE1 mais no radar,\u201D diz o chefe do Pinheiro\
     \ Neto"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-06-13T00:00:00+00:00'
   description: "A China e os EUA est\xE3o prestes a iniciar a Terceira Guerra Mundial?\
@@ -71,7 +80,7 @@
   path: https://open.spotify.com/episode/7HuRvMEvvQwe3n1391tS3s
   title: "#103 | EUA x CHINA: A 3\xAA GUERRA MUNDIAL \xC9 INEVIT\xC1VEL?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-13T00:00:00+00:00'
   description: "Joshua Wright was a star in the world of antitrust, from his time\
@@ -107,9 +116,7 @@
   path: https://open.spotify.com/episode/4ndCIcNBA7mVOUesupDdhC
   title: 'Dangerous allure: Why the China model still appeals overseas'
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2024-06-12T15:56:11+00:00'
   description: 'AI...Siri... magic mouse... we talk about it all
 
@@ -164,7 +171,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: ArjanCodes | Under the Hood
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-06-12T00:00:00+00:00'
   description: "CORTE B\xD4NUS 101: A Bolsa de Valores Brasileira est\xE1 em seu pior\
     \ momento? O que os investidores devem fazer?No epis\xF3dio 101 do Market Makers,\
@@ -189,7 +196,7 @@
   path: https://open.spotify.com/episode/3w27jN6MJxDgECnveX9IGy
   title: "BOLSA DE VALORES EM QUEDA LIVRE: o que est\xE1 acontecendo? | Corte Ep 101"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-06-12T00:00:00+00:00'
   description: "The billionaire founder showed several female employees at SpaceX\
     \ an unusual amount of attention or pursued them. WSJ's Joseph Palazzolo describes\
@@ -200,13 +207,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/0mem00nSwECEW8ur6ZEbcC
   title: "Elon Musk\u2019s Unusual Relationships With Women at SpaceX"
-- author: Marques Brownlee
-  categories: *id004
-  date: '2024-06-11T19:33:58+00:00'
-  description: ''
-  image: https://i3.ytimg.com/vi/nifUnSk21-w/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=nifUnSk21-w
-  title: "Apple has done this before \U0001F440"
 - author: Outliers
   categories: &id007
   - Podcasts
