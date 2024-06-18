@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-18T19:26:22+00:00'
+  description: "Acordo com YPFB ainda n\xE3o foi fechado, mas a estatal aponta ser\
+    \ capaz de transportar o g\xE1s a partir de outubro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petroleira-boliviana-quer-canalizar-gas-argentino-para-o-brasil/
+  title: "Petroleira boliviana quer canalizar g\xE1s argentino para o Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Com rali de alta da Nvidia, insiders vendem mais de US$ 700 milh\xF5es em\
     \ a\xE7\xF5es neste ano"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-18T14:29:34+00:00'
   description: "O caso tem como origem a compra de 27,7% do total das a\xE7\xF5es\
     \ da Usiminas em 2011, o que para a CSN, deveria ser feita uma oferta p\xFAblica\
@@ -19,15 +27,6 @@
   path: https://investnews.com.br/economia/maioria-no-stj-decide-a-favor-da-csn-em-pleito-de-r-5-bilhoes-contra-ternium/
   title: "Maioria no STJ decide a favor da CSN em pleito de R$ 5 bilh\xF5es contra\
     \ Ternium"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-18T14:24:13+00:00'
-  description: "De acordo com o presidente, o comportamento da autarquia \xE9 a \xFA\
-    nica \"coisa desajustada\" no Brasil no momento e a taxa de juros n\xE3o pode\
-    \ ser \"proibitiva\" para setores produtivos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/para-lula-presidente-do-bc-trabalha-para-prejudicar-o-pais/
-  title: "Para Lula, Campos Neto trabalha para prejudicar o pa\xEDs"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-06-18T11:03:09+00:00'
