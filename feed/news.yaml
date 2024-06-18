@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-18T15:01:40+00:00'
+  description: "O valor em d\xF3lar das vendas de a\xE7\xF5es deste ano supera em\
+    \ muito o de per\xEDodos anteriores, dado o ganho de 168% dos papeis em 2024"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/com-rali-de-alta-da-nvidia-insiders-vendem-mais-de-us-700-milhoes-em-acoes-neste-ano/
+  title: "Com rali de alta da Nvidia, insiders vendem mais de US$ 700 milh\xF5es em\
+    \ a\xE7\xF5es neste ano"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   path: https://investnews.com.br/economia/para-lula-presidente-do-bc-trabalha-para-prejudicar-o-pais/
   title: "Para Lula, presidente do BC trabalha para prejudicar o pa\xEDs"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-18T11:03:09+00:00'
   description: "Entre as exchanges que n\xE3o est\xE3o baseadas no Brasil, mas operam\
     \ no pa\xEDs e inclusive possuem sites em portugu\xEAs est\xE3o a Binance, Coinbase,\
@@ -69,15 +78,6 @@
   path: https://www.reddit.com/r/CFA/comments/1dihmb2/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-12T12:15:19+00:00'
-  description: "\xC0s vezes parece ideal deixar uma fatia maior do seu dinheiro rendendo.\
-    \ Mas essas situa\xE7\xF5es s\xE3o raras. Vamos \xE0s contas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/e-melhor-eu-quitar-o-financiamento-do-imovel-ou-deixar-o-dinheiro-investido/
-  title: "\u2018\xC9 melhor eu quitar o financiamento do im\xF3vel ou deixar o dinheiro\
-    \ investido?\u2019"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
