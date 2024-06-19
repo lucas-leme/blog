@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-19T10:50:00+00:00'
+  description: "Veja por que Huguinho, Zezinho e Luizinho n\xE3o veriam o dinheiro\
+    \ do Tio Patinhas. E como um testamento pode ajudar na hora da sucess\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/testamento-quem-fica-com-a-heranca-na-ausencia-de-um/
+  title: "Testamento: quem fica com a heran\xE7a na aus\xEAncia de um"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/economia/petroleira-boliviana-quer-canalizar-gas-argentino-para-o-brasil/
   title: "Petroleira boliviana quer canalizar g\xE1s argentino para o Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-18T15:01:40+00:00'
   description: "O valor em d\xF3lar das vendas de a\xE7\xF5es deste ano supera em\
     \ muito o de per\xEDodos anteriores, dado o ganho de 168% dos papeis em 2024"
@@ -25,16 +33,6 @@
   path: https://investnews.com.br/financas/com-rali-de-alta-da-nvidia-insiders-vendem-mais-de-us-700-milhoes-em-acoes-neste-ano/
   title: "Com rali de alta da Nvidia, insiders vendem mais de US$ 700 milh\xF5es em\
     \ a\xE7\xF5es neste ano"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-18T11:03:09+00:00'
-  description: "Entre as exchanges que n\xE3o est\xE3o baseadas no Brasil, mas operam\
-    \ no pa\xEDs e inclusive possuem sites em portugu\xEAs est\xE3o a Binance, Coinbase,\
-    \ OKX e KuCoin"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/exchanges-gringas-de-criptomoedas-terao-de-prestar-contas-a-receita-federal/
-  title: "Exchanges gringas de criptomoedas ter\xE3o de prestar contas \xE0 Receita\
-    \ Federal"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
