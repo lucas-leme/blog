@@ -1,13 +1,22 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-20T21:00:50+00:00'
+  description: Moeda americana passou a subir depois de falas do Lula sobre a autonomia
+    do BC
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-vai-a-r-546-e-registra-a-maior-cotacao-desde-julho-de-2022-ibovespa-tem-leve-alta/
+  title: "D\xF3lar vai a R$ 5,46 e registra a maior cota\xE7\xE3o desde julho de 2022;\
+    \ Ibovespa tem leve alta"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-06-20T15:38:45+00:00'
   description: "A companhia afirma ter d\xEDvidas no montante de R$ 4,1 bilh\xF5es"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/plano-de-recuperacao-extrajudicial-da-casas-bahia-e-homologado/
   title: "Plano de recupera\xE7\xE3o extrajudicial da Casas Bahia \xE9 homologado"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-20T14:26:47+00:00'
   description: "Desde os Jogos de Pequim-2008 as piscinas t\xEAm duas raias extras\
@@ -17,7 +26,7 @@
   path: https://investnews.com.br/economia/olimpiadas-2024-quantos-litros-de-agua-tem-uma-piscina-olimpica/
   title: "Olimp\xEDadas 2024: Quantos litros de \xE1gua tem uma piscina ol\xEDmpica?"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-20T13:34:10+00:00'
   description: "Na manh\xE3 desta quinta-feira (20), a moeda ca\xEDa em reflexo a\
     \ decis\xE3o do Copom em manter a taxa Selic em 10,5% ao ano"
@@ -63,14 +72,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dk2lvp/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-19T10:50:00+00:00'
-  description: "Veja por que Huguinho, Zezinho e Luizinho n\xE3o veriam o dinheiro\
-    \ do Tio Patinhas. E como um testamento pode ajudar na hora da sucess\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/heranca-quem-fica-com-o-que-na-ausencia-de-um-testamento/
-  title: "Heran\xE7a: quem fica com o qu\xEA na aus\xEAncia de um testamento"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
