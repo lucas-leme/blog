@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-21T10:50:00+00:00'
+  description: "Para a economista, declara\xE7\xF5es do presidente refletem \"desconex\xE3\
+    o ecom o sentimento da sociedade\""
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lula-nao-percebeu-que-inflacao-castiga-mais-do-que-a-selic/
+  title: "Lula n\xE3o percebeu que infla\xE7\xE3o castiga mais do que a Selic, diz\
+    \ Zeina Latif"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -58,8 +68,7 @@
   path: https://investnews.com.br/financas/plano-de-recuperacao-extrajudicial-da-casas-bahia-e-homologado/
   title: "Plano de recupera\xE7\xE3o extrajudicial da Casas Bahia \xE9 homologado"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-20T14:26:47+00:00'
   description: "Desde os Jogos de Pequim-2008 as piscinas t\xEAm duas raias extras\
     \ para reduzir o efeito das ondula\xE7\xF5es que aumentam o arrasto \u2013 for\xE7\
@@ -67,14 +76,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/olimpiadas-2024-quantos-litros-de-agua-tem-uma-piscina-olimpica/
   title: "Olimp\xEDadas 2024: Quantos litros de \xE1gua tem uma piscina ol\xEDmpica?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-20T13:34:10+00:00'
-  description: "Na manh\xE3 desta quinta-feira (20), a moeda ca\xEDa em reflexo a\
-    \ decis\xE3o do Copom em manter a taxa Selic em 10,5% ao ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/dolar-cai-apos-decisao-unanime-do-copom-de-manter-selic/
-  title: "D\xF3lar volta a subir ap\xF3s declara\xE7\xF5es de Lula"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
