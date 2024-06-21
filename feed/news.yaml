@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-21T11:57:51+00:00'
+  description: "A qualidade da presta\xE7\xE3o dos servi\xE7os aos consumidores est\xE1\
+    \ no centro das diretrizes apresentadas pelo Minist\xE9rio de Minas e Energia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/renovacao-de-concessoes-de-distribuicao-de-energia-tera-regras-mais-rigidas-dividendos-podem-ser-limitados/
+  title: "Renova\xE7\xE3o de concess\xF5es de distribui\xE7\xE3o de energia ter\xE1\
+    \ regras mais r\xEDgidas; dividendos podem ser limitados"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-06-21T10:50:00+00:00'
   description: "Para a economista, declara\xE7\xF5es do presidente refletem \"desconex\xE3\
     o ecom o sentimento da sociedade\""
@@ -51,7 +60,7 @@
   path: https://www.reddit.com/r/CFA/comments/1dkuy9r/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-20T21:00:50+00:00'
   description: Moeda americana passou a subir depois de falas do Lula sobre a autonomia
@@ -61,21 +70,12 @@
   title: "D\xF3lar vai a R$ 5,46 e registra a maior cota\xE7\xE3o desde julho de 2022;\
     \ Ibovespa tem leve alta"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-20T15:38:45+00:00'
   description: "A companhia afirma ter d\xEDvidas no montante de R$ 4,1 bilh\xF5es"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/plano-de-recuperacao-extrajudicial-da-casas-bahia-e-homologado/
   title: "Plano de recupera\xE7\xE3o extrajudicial da Casas Bahia \xE9 homologado"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-20T14:26:47+00:00'
-  description: "Desde os Jogos de Pequim-2008 as piscinas t\xEAm duas raias extras\
-    \ para reduzir o efeito das ondula\xE7\xF5es que aumentam o arrasto \u2013 for\xE7\
-    a que atua sobre o corpo do nadador"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/olimpiadas-2024-quantos-litros-de-agua-tem-uma-piscina-olimpica/
-  title: "Olimp\xEDadas 2024: Quantos litros de \xE1gua tem uma piscina ol\xEDmpica?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
