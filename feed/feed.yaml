@@ -1,5 +1,43 @@
-- author: Marques Brownlee
+- author: ArjanCodes
   categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-06-21T15:00:25+00:00'
+  description: "In this video, I'll walk you through 7 functional programming techniques\
+    \ and demonstrate how they work. Although Python is not a purely functional language,\
+    \ functional programming can significantly improve your Python skills.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2024/func\n\n\U0001F4A1 Get my FREE\
+    \ 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \n\U0001F4E8 The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/ezhdob\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\n\
+    The Software Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext\
+    \ Level Python: Become a Python Expert: https://www.arjancodes.com/courses/nlp\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D\
+    \ If you enjoyed this content, give this video a like. If you want to watch more\
+    \ of my upcoming videos, consider subscribing to my channel!\n\nSocial channels:\n\
+    \U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
+    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:32 #1. Recursion\n4:45 #2. Structural Pattern Matching\n\
+    6:17 #3. Immutability\n8:49 #4. Pure Functions\n11:11 #5. Higher-Order Functions\n\
+    15:53 #6. Function Composition\n18:42 #7. Lazy Evaluation\n20:47 Outro\n\n#arjancodes\
+    \ #softwaredesign #python\n\nDISCLAIMER - The links in this description might\
+    \ be affiliate links. If you purchase a product or service through one of those\
+    \ links, I may receive a small commission. There is no additional charge to you.\
+    \ Thanks for supporting my channel so I can continue to provide you with free\
+    \ content each week!"
+  image: https://i3.ytimg.com/vi/Rp9Ha0rVM1w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Rp9Ha0rVM1w
+  title: 7 Functional Programming Techniques to Enhance Your Python Code
+- author: Marques Brownlee
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -189,7 +227,7 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-06-16T03:02:58+00:00'
   description: "<p>Com um arcabou\xE7o fiscal repleto de regras inconsistentes e que\
@@ -206,10 +244,7 @@
   title: "Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos falando dos\
     \ problemas\u201D"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2024-06-14T15:01:01+00:00'
   description: "In this video, I'll share 5 key things you should do to avoid writing\
     \ crappy code. These tips, drawn from my own experience, will help you write clean\
@@ -245,7 +280,7 @@
   path: https://www.youtube.com/watch?v=vhdUyGs_f6c
   title: "Do These 5 Things if You Don\u2019t Want to Write Crappy Code"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
@@ -277,7 +312,7 @@
   path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
   title: The Fed Looks Through a Great Inflation Print
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-06-13T22:08:32+00:00'
   description: "<p>Foram meses de negocia\xE7\xF5es e intensa queda de bra\xE7o pol\xED\
     tico, com direito a protestos incendi\xE1rios nas ruas de Buenos Aires. Mas o\
@@ -292,17 +327,6 @@
   path: https://braziljournal.com/milei-aprova-ampla-reforma-em-vitoria-suada-no-congresso-seu-melhor-dia-ate-agora/
   title: "Milei aprova ampla reforma em vit\xF3ria suada no Congresso; seu \u201C\
     melhor dia\u201D at\xE9 agora"
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-06-12T08:06:02+00:00'
-  description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
-    \ I'll dive into the code and design of a soon-to-be-announced open-source project\
-    \ together with you. This is going to be completely unscripted, so you'll see\
-    \ my real-time reactions to the code and how it\u2019s been designed. Also, there\
-    \ will be time for Q&amp;A!"
-  image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=c-TWPdL9_X4
-  title: ArjanCodes | Under the Hood
 - author: Outliers
   categories: &id007
   - Podcasts
