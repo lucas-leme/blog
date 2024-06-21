@@ -36,6 +36,22 @@
   image: https://i3.ytimg.com/vi/Rp9Ha0rVM1w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Rp9Ha0rVM1w
   title: 7 Functional Programming Techniques to Enhance Your Python Code
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-06-21T00:00:00+00:00'
+  description: "For about a decade, Zyn, a brand of nicotine pouch, was a niche product\
+    \ used by former smokers. But now it\u2019s exploded in popularity and is hard\
+    \ to find on store shelves. WSJ\u2019s Jennifer Maloney explains how Zyn achieved\
+    \ social media virality and has found itself in the middle of a culture war. \
+    \ Further Reading: - Zyn Nicotine Pouches Take Off\u2014and Land in the Culture\
+    \ Wars\_ - Why America Is Running Low on Zyn Nicotine Pouches\_  Further Listening:\
+    \  - The Juul Paradox\_ - The \u2018Existential Threat\u2019 Facing Big Tobacco\_\
+    \ - How Puff Bar Became the Most Popular Vape for Kids\_   Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6ZcW3FS3gZrNqY9HlXcka8
+  title: "Zyn pouches, \u2018Zynfluencers\u2019 and \u2018the Zyndemic\u2019"
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -89,7 +105,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/the-growing-risk-of-spillovers-and-spillbacks-in-the-bank-nbfi-nexus/
   title: The Growing Risk of Spillovers and Spillbacks in the Bank&#8209;NBFI Nexus
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-06-20T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -124,8 +140,7 @@
   title: "#105 | Transformando ESTAGI\xC1RIOS em S\xD3CIOS EXTRAORDIN\xC1RIOS (com\
     \ CEO do BR Partners)"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-06-20T00:00:00+00:00'
   description: "OpenAI CEO Sam Altman has a day job and a side gig. Only one of them\
     \ makes him rich. WSJ's Berber Jin explains how Altman makes most of his wealth\
@@ -161,7 +176,7 @@
   path: https://open.spotify.com/episode/14sVzSxg1dfV8SPPTbi8PM
   title: 'In a tailspin: what will it take to turn Boeing around?'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-06-19T00:00:00+00:00'
   description: "Ser\xE1 que o Brasil est\xE1 realmente seguro em uma poss\xEDvel guerra\
     \ mundial?No epis\xF3dio 103 do Market Makers, discutimos se o Brasil poderia\
@@ -190,18 +205,6 @@
   path: https://open.spotify.com/episode/0KeFxJ3iPX71SZFGbMBGjR
   title: "O que aconteceria no BRASIL em caso de uma 3\xAA Guerra Mundial? | Corte\
     \ EP #103"
-- author: The Journal.
-  categories: *id002
-  date: '2024-06-18T00:00:00+00:00'
-  description: "Gum arabic is a widely used but little-known ingredient found in products\
-    \ like soda, gum, makeup and beer. But as WSJ\u2019s Nicholas Bariyo and Alexandra\
-    \ Wexler report, the product has been used for a darker purpose: helping to fund\
-    \ the civil war in Sudan.Further Reading:  -How Soda, Chocolate and Chewing Gum\
-    \ Are Funding War in Sudan\_ -What Is Happening in Sudan? The Fighting Explained\_\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/53Uyzs5hSpCYUksHEDN6e5
-  title: "How \u2018Conflict Gum\u2019 Is Helping Fuel Sudan\u2019s Civil War"
 - author: Apricitas Economics
   categories: &id008
   - Macro
