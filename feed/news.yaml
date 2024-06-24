@@ -1,18 +1,23 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-24T19:33:58+00:00'
+  description: "Neg\xF3cio deve ser conclu\xEDdo no terceiro trimestre de 2025."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/africa-oil-compra-participacao-do-btg-em-joint-venture-de-petroleo-da-nigeria/
+  title: "Africa Oil compra participa\xE7\xE3o do BTG em joint venture de petr\xF3\
+    leo na Nig\xE9ria"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
   date: '2024-06-24T15:53:34+00:00'
-  description: "A varejista de moda online Shein entrou com pedido confidencial para\
-    \ abertura de capital na bolsa de Londres, segundo pessoas familiarizadas com\
-    \ o assunto. O momento de uma oferta p\xFAblica inicial, que provavelmente seria\
-    \ a maior de Londres em mais de uma d\xE9cada, n\xE3o estava imediatamente claro,\
-    \ pois a Shein ainda est\xE1 aguardando aprova\xE7\xE3o do [&#8230;]"
+  description: "Segundo a Bloomberg, gigante de moda chin\xEAs pode ser avaliado em\
+    \ \xA350 bilh\xF5es (US$ 63,3 bilh\xF5es)"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/shein-entra-com-pedido-de-ipo-em-londres/
   title: Shein entra com pedido de IPO em Londres
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-24T12:01:45+00:00'
   description: "Analistas consultados pelo Banco Central voltaram a elevar as perspectivas\
     \ para a infla\xE7\xE3o e para o d\xF3lar na pesquisa Focus divulgada nesta segunda-feira\
@@ -24,7 +29,7 @@
   title: "Proje\xE7\xE3o do mercado para infla\xE7\xE3o este ano se aproxima de 4%,\
     \ mostra Focus"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-24T10:50:00+00:00'
   description: "Ele prop\xF5e ganhos fora da curva e ajuda a mover o processo de R$\
     \ 247 bilh\xF5es contra a BHP, que envolve a Vale"
@@ -66,14 +71,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dn4kun/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-23T11:30:00+00:00'
-  description: "A mesatenista Bruna Alexandre ser\xE1 a primeira atleta brasileira\
-    \ a disputar as duas competi\xE7\xF5es em Paris-2024"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/uma-atleta-pode-disputar-as-olimpiadas-e-as-paralimpiadas/
-  title: "Um atleta pode disputar as Olimp\xEDadas e as Paralimp\xEDadas?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
