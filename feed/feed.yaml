@@ -1,5 +1,21 @@
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: &id003
+  - Economia
+  date: '2024-06-24T09:50:30+00:00'
+  description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
+    \ \u201CA quest\xE3o \xE9 como fazer esse ajuste, dado que houve toda essa demanda\
+    \ de gastos adicionais,\u201D disse Tiago Cavalcanti, que acaba de se tornar o\
+    \ primeiro brasileiro a conquistar uma c\xE1tedra de Economia em Cambridge. Nesta\
+    \ conversa com o Brazil Journal, o economista diz que o [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/\"\
+    \ rel=\"nofollow\">Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro\
+    \ em Cambridge</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
+  title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
+- author: ArjanCodes
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -53,7 +69,7 @@
   path: https://open.spotify.com/episode/6ZcW3FS3gZrNqY9HlXcka8
   title: "Zyn pouches, \u2018Zynfluencers\u2019 and \u2018the Zyndemic\u2019"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -230,8 +246,7 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id003
   date: '2024-06-16T03:02:58+00:00'
   description: "<p>Com um arcabou\xE7o fiscal repleto de regras inconsistentes e que\
     \ n\xE3o ficam de p\xE9, o Brasil est\xE1 com uma s\xE9rie de problemas contratados\
@@ -247,7 +262,7 @@
   title: "Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos falando dos\
     \ problemas\u201D"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-06-14T15:01:01+00:00'
   description: "In this video, I'll share 5 key things you should do to avoid writing\
     \ crappy code. These tips, drawn from my own experience, will help you write clean\
@@ -283,7 +298,7 @@
   path: https://www.youtube.com/watch?v=vhdUyGs_f6c
   title: "Do These 5 Things if You Don\u2019t Want to Write Crappy Code"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
@@ -314,22 +329,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35837a8f-6ebd-4af6-8b4b-43ac1173aaab_5002x2670.png
   path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
   title: The Fed Looks Through a Great Inflation Print
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-06-13T22:08:32+00:00'
-  description: "<p>Foram meses de negocia\xE7\xF5es e intensa queda de bra\xE7o pol\xED\
-    tico, com direito a protestos incendi\xE1rios nas ruas de Buenos Aires. Mas o\
-    \ Presidente Javier Milei acaba de aprovar no Congresso da Argentina a chamada\
-    \ Lei de Bases \u2013 seu amplo e ambicioso projeto de desregulamenta\xE7\xE3\
-    o e abertura da economia, reduzindo a incerteza jur\xEDdica para os [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/milei-aprova-ampla-reforma-em-vitoria-suada-no-congresso-seu-melhor-dia-ate-agora/\"\
-    \ rel=\"nofollow\">Milei aprova ampla reforma em vit\xF3ria suada no Congresso;\
-    \ seu \u201Cmelhor dia\u201D at\xE9 agora</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/milei-aprova-ampla-reforma-em-vitoria-suada-no-congresso-seu-melhor-dia-ate-agora/
-  title: "Milei aprova ampla reforma em vit\xF3ria suada no Congresso; seu \u201C\
-    melhor dia\u201D at\xE9 agora"
 - author: Outliers
   categories: &id007
   - Podcasts
