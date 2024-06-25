@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -12,6 +12,15 @@
   image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-06-25T12:51:46+00:00'
+  description: While the immediate future may not be promising for the equity premium,
+    it looks bright for factor premiums.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/06/25/did-inflation-kill-the-capm/
+  title: Did Inflation Kill the CAPM?
 - author: Atas do Copom
   categories:
   - Bacen
@@ -337,7 +346,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-06-24T09:50:30+00:00'
   description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
@@ -353,7 +362,7 @@
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-06-24T00:00:00+00:00'
   description: "An activist investor says Southwest Airlines is stuck in the past.\
@@ -369,8 +378,16 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
   title: Southwest Changed Flying. Can It Change Itself?
-- author: ArjanCodes
+- author: CFA Institute Enterprising Investor
   categories: *id001
+  date: '2024-06-21T16:54:50+00:00'
+  description: When behavioral crowds are roiling the markets, as they are now, best
+    idea active equity has an excellent chance of outperforming.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/06/21/behavior-of-crowds-not-wisdom-of-crowds/
+  title: Behavior of Crowds not Wisdom of Crowds
+- author: ArjanCodes
+  categories: *id002
   date: '2024-06-21T15:00:25+00:00'
   description: "In this video, I'll walk you through 7 functional programming techniques\
     \ and demonstrate how they work. Although Python is not a purely functional language,\
@@ -419,7 +436,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-06-21T00:00:00+00:00'
   description: "For about a decade, Zyn, a brand of nicotine pouch, was a niche product\
     \ used by former smokers. But now it\u2019s exploded in popularity and is hard\
@@ -434,7 +451,7 @@
   path: https://open.spotify.com/episode/6ZcW3FS3gZrNqY9HlXcka8
   title: "Zyn pouches, \u2018Zynfluencers\u2019 and \u2018the Zyndemic\u2019"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -467,8 +484,17 @@
   image: https://i4.ytimg.com/vi/sDIi95CqTiM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2024-06-20T00:00:00+00:00'
+  description: In this episode, Alexander discusses her recent work as a consulting
+    expert witness supporting actions against cryptoasset market abuse.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
+  title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-20T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -526,7 +552,7 @@
   path: https://open.spotify.com/episode/14sVzSxg1dfV8SPPTbi8PM
   title: 'In a tailspin: what will it take to turn Boeing around?'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-06-19T00:00:00+00:00'
   description: "Ser\xE1 que o Brasil est\xE1 realmente seguro em uma poss\xEDvel guerra\
     \ mundial?No epis\xF3dio 103 do Market Makers, discutimos se o Brasil poderia\
@@ -556,7 +582,7 @@
   title: "O que aconteceria no BRASIL em caso de uma 3\xAA Guerra Mundial? | Corte\
     \ EP #103"
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id010
   - Macro
   - Newsletters
   date: '2024-06-17T19:36:36+00:00'
@@ -580,7 +606,7 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-06-16T03:02:58+00:00'
   description: "<p>Com um arcabou\xE7o fiscal repleto de regras inconsistentes e que\
     \ n\xE3o ficam de p\xE9, o Brasil est\xE1 com uma s\xE9rie de problemas contratados\
@@ -596,14 +622,22 @@
   title: "Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos falando dos\
     \ problemas\u201D"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
   title: Real light saber vs Nokia 3310
+- author: CFA Institute Research and Policy Center
+  categories: *id007
+  date: '2024-06-14T00:00:00+00:00'
+  description: Evaluating models for estimating long-term expected returns, this study
+    finds that a three-component model can boost Sharpe ratios.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/estimating-long-term-expected-returns
+  title: Estimating Long-Term Expected Returns
 - author: The Overshoot
-  categories: &id006
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-06-13T22:36:13+00:00'
@@ -614,7 +648,7 @@
   path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
   title: The Fed Looks Through a Great Inflation Print
 - author: Outliers
-  categories: &id007
+  categories: &id009
   - Podcasts
   date: '2024-06-11T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -629,7 +663,7 @@
   path: https://open.spotify.com/episode/6x1uibOdq77KjTvzkVHIMg
   title: "#129 - Investindo em renda fixa com a Ib\xEDuna Investimentos"
 - author: The Overshoot
-  categories: *id006
+  categories: *id008
   date: '2024-06-10T21:49:16+00:00'
   description: For decades, Australians spent more than they generated in income,
     raising finance from abroad to make up the difference. That has reversed dramatically
@@ -638,7 +672,7 @@
   path: https://theovershoot.co/p/the-curious-case-of-australias-brief
   title: The Curious Case of Australia's (Brief?) Current Account Surplus
 - author: Outliers
-  categories: *id007
+  categories: *id009
   date: '2024-05-29T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -677,7 +711,7 @@
   path: https://open.spotify.com/episode/1tdy59XstS55xN45tHnS2m
   title: Nicolas Mirjolet - Multivariate Trend Following (S7E8)
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id010
   date: '2024-05-25T13:31:02+00:00'
   description: Breaking Down the Data on the White House&#8217;s Increased Tariffs
     for Chinese EVs, Solar, Batteries, and More
@@ -774,7 +808,7 @@
   title: "BC - Copom Comunicado - 262\xAA Reuni\xE3o - Copom reduz a taxa Selic para\
     \ 10,50% a.a."
 - author: AQR
-  categories: &id009
+  categories: &id011
   - Quant
   - Papers
   date: '2024-04-09T00:00:00'
@@ -803,7 +837,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202403
   title: "BC - RI: mar\xE7o/2024"
 - author: AQR
-  categories: *id009
+  categories: *id011
   date: '2024-03-07T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        March\
     \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
