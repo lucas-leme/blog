@@ -6,6 +6,21 @@ import feedparser
 import yaml
 
 feeds = {
+    "CFA - Enterprising Investor": {
+        "url": "https://blogs.cfainstitute.org/investor/feed/",
+        "categories": ["CFA"],
+        "n_posts_to_show": 2
+    },
+    "Klement on Investing": {
+        "url": "https://klementoninvesting.substack.com/feed",
+        "categories": ["Macro", "Newsletters"],
+        "image": ""
+    },
+    "CFA - Financial Analysts Journal": {
+        "url": "https://rpc.cfainstitute.org/en/ICE-Feeds/RPC-Publications-Feed",
+        "categories": ["CFA"],
+        "n_posts_to_show": 2
+    },
     'Liberty Street Economics': {
         "url": 'https://feeds.feedburner.com/LibertyStreetEconomics',
         "categories": ["Macro", "FED", "BC"],
