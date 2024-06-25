@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -13,7 +13,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-06-25T12:51:46+00:00'
   description: While the immediate future may not be promising for the equity premium,
@@ -324,6 +324,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19062024
   title: "BC - Copom Ata - 263\xAA Reuni\xE3o - 18-19 junho, 2024"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-06-25T00:00:00+00:00'
+  description: "Rent has long been an expense people wanted to pay on credit cards.\
+    \ In 2022, Wells Fargo launched a credit card with Bilt Technologies that allowed\
+    \ users to pay for rent, avoid processing fees and earn points. But the partnership\
+    \ is costing Wells Fargo millions. WSJ\u2019s AnnaMaria Andriotis reports.  Further\
+    \ Listening: -The Fight Over Your Credit Card Swipe\_ -The Deal That Could Change\
+    \ Credit Cards\_  Further Reading: -Wells Fargo Bet on a Flashy Rent Credit Card.\
+    \ It Is Costing the Bank Dearly.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3NQ2hxxN5D2mPSyQ7Fpszi
+  title: The Unusual Economics of the Bilt Credit Card
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -362,8 +376,7 @@
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-06-24T00:00:00+00:00'
   description: "An activist investor says Southwest Airlines is stuck in the past.\
     \ Elliott Investment Management says it has amassed a $1.9 billion stake, making\
@@ -379,7 +392,7 @@
   path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
   title: Southwest Changed Flying. Can It Change Itself?
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-06-21T16:54:50+00:00'
   description: When behavioral crowds are roiling the markets, as they are now, best
     idea active equity has an excellent chance of outperforming.
@@ -387,7 +400,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/21/behavior-of-crowds-not-wisdom-of-crowds/
   title: Behavior of Crowds not Wisdom of Crowds
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-06-21T15:00:25+00:00'
   description: "In this video, I'll walk you through 7 functional programming techniques\
     \ and demonstrate how they work. Although Python is not a purely functional language,\
@@ -435,21 +448,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-06-21T00:00:00+00:00'
-  description: "For about a decade, Zyn, a brand of nicotine pouch, was a niche product\
-    \ used by former smokers. But now it\u2019s exploded in popularity and is hard\
-    \ to find on store shelves. WSJ\u2019s Jennifer Maloney explains how Zyn achieved\
-    \ social media virality and has found itself in the middle of a culture war. \
-    \ Further Reading: - Zyn Nicotine Pouches Take Off\u2014and Land in the Culture\
-    \ Wars\_ - Why America Is Running Low on Zyn Nicotine Pouches\_  Further Listening:\
-    \  - The Juul Paradox\_ - The \u2018Existential Threat\u2019 Facing Big Tobacco\_\
-    \ - How Puff Bar Became the Most Popular Vape for Kids\_   Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6ZcW3FS3gZrNqY9HlXcka8
-  title: "Zyn pouches, \u2018Zynfluencers\u2019 and \u2018the Zyndemic\u2019"
 - author: Marques Brownlee
   categories: &id006
   - Tech
