@@ -1,3 +1,17 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-06-25T14:04:56+00:00'
+  description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
+    \ I'll dive into the code and design of an open-source project together with you.\
+    \ This is going to be completely unscripted, so you'll see my real-time reactions\
+    \ to the code and how it\u2019s been designed. \n\nIn this episode, I looked at\
+    \ the Faker package: https://github.com/joke2k/faker."
+  image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=c-TWPdL9_X4
+  title: Under the Hood | Faker
 - author: Atas do Copom
   categories:
   - Bacen
@@ -323,7 +337,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-06-24T09:50:30+00:00'
   description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
@@ -339,7 +353,7 @@
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-06-24T00:00:00+00:00'
   description: "An activist investor says Southwest Airlines is stuck in the past.\
@@ -356,10 +370,7 @@
   path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
   title: Southwest Changed Flying. Can It Change Itself?
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-06-21T15:00:25+00:00'
   description: "In this video, I'll walk you through 7 functional programming techniques\
     \ and demonstrate how they work. Although Python is not a purely functional language,\
@@ -408,7 +419,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-06-21T00:00:00+00:00'
   description: "For about a decade, Zyn, a brand of nicotine pouch, was a niche product\
     \ used by former smokers. But now it\u2019s exploded in popularity and is hard\
@@ -423,7 +434,7 @@
   path: https://open.spotify.com/episode/6ZcW3FS3gZrNqY9HlXcka8
   title: "Zyn pouches, \u2018Zynfluencers\u2019 and \u2018the Zyndemic\u2019"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -457,7 +468,7 @@
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-06-20T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
@@ -515,7 +526,7 @@
   path: https://open.spotify.com/episode/14sVzSxg1dfV8SPPTbi8PM
   title: 'In a tailspin: what will it take to turn Boeing around?'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-06-19T00:00:00+00:00'
   description: "Ser\xE1 que o Brasil est\xE1 realmente seguro em uma poss\xEDvel guerra\
     \ mundial?No epis\xF3dio 103 do Market Makers, discutimos se o Brasil poderia\
@@ -569,7 +580,7 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-06-16T03:02:58+00:00'
   description: "<p>Com um arcabou\xE7o fiscal repleto de regras inconsistentes e que\
     \ n\xE3o ficam de p\xE9, o Brasil est\xE1 com uma s\xE9rie de problemas contratados\
@@ -585,7 +596,7 @@
   title: "Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos falando dos\
     \ problemas\u201D"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
@@ -602,17 +613,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35837a8f-6ebd-4af6-8b4b-43ac1173aaab_5002x2670.png
   path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
   title: The Fed Looks Through a Great Inflation Print
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-06-12T08:06:02+00:00'
-  description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
-    \ I'll dive into the code and design of a soon-to-be-announced open-source project\
-    \ together with you. This is going to be completely unscripted, so you'll see\
-    \ my real-time reactions to the code and how it\u2019s been designed. Also, there\
-    \ will be time for Q&amp;A!"
-  image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=c-TWPdL9_X4
-  title: ArjanCodes | Under the Hood
 - author: Outliers
   categories: &id007
   - Podcasts
