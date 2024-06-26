@@ -1,5 +1,14 @@
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2024-06-26T12:31:07+00:00'
+  description: By allocating to a diversified pool of hedge funds, many institutional
+    investors are unwittingly reducing their equity holdings.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/06/26/hedge-funds-a-poor-choice-for-most-long-term-investors/
+  title: 'Hedge Funds: A Poor Choice for Most Long-Term Investors?'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
   - Economia
   date: '2024-06-26T09:51:32+00:00'
   description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
@@ -13,8 +22,35 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-06-26T00:00:00+00:00'
+  description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
+    \ em 2024?O epis\xF3dio explora a atual situa\xE7\xE3o desafiadora do mercado\
+    \ financeiro brasileiro, destacando como gestores da Faria Lima enfrentam um clima\
+    \ de incertezas e pessimismo. Desde as dificuldades iniciadas em 2021 com a crise\
+    \ do meteoro de Paulo Guedes, a alta dos juros e a infla\xE7\xE3o, at\xE9 as recentes\
+    \ complica\xE7\xF5es pol\xEDticas e econ\xF4micas, o cen\xE1rio permanece desfavor\xE1\
+    vel. A conversa aborda a expectativa de cortes de juros nos Estados Unidos e como\
+    \ isso pode influenciar positivamente o mercado brasileiro.Al\xE9m disso, discute\
+    \ os problemas fiscais, a desancoragem da \xE2ncora monet\xE1ria e as interfer\xEA\
+    ncias nas empresas, bem como as perspectivas otimistas para as companhias brasileiras,\
+    \ que mostram balan\xE7os saud\xE1veis, baixo n\xEDvel de alavancagem e altos\
+    \ dividendos.Voc\xEA acha que o mercado financeiro brasileiro conseguir\xE1 se\
+    \ recuperar em 2024? Deixe sua opini\xE3o nos coment\xE1rios!Se voc\xEA gostou\
+    \ deste conte\xFAdo, n\xE3o esque\xE7a de deixar o like no v\xEDdeo e se inscrever\
+    \ no nosso canal para mais an\xE1lises e insights sobre o mercado financeiro!\U0001F4FD\
+    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:https://youtube.com/live/tJZvKslfpp0-\
+    \ - - - - - - -O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Market Makers #104\_\
+    Convidados: Fernando Ferreira (Estrategista-chefe na XP Investimentos) e Felipe\
+    \ Miranda (s\xF3cio fundador e estrategista-chefe da Empiricus)Apresentador: Thiago\
+    \ Salom\xE3o (@_salomoney)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a904f14b3c8d5adcc0c16281c
+  path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
+  title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Cortes EP #104'
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -28,8 +64,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-06-25T12:51:46+00:00'
   description: While the immediate future may not be promising for the equity premium,
     it looks bright for factor premiums.
@@ -340,8 +375,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/19062024
   title: "BC - Copom Ata - 263\xAA Reuni\xE3o - 18-19 junho, 2024"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2024-06-25T00:00:00+00:00'
   description: "Rodrigo Azevedo (s\xF3cio e co-CIO da Ibiuna Investimentos) participa\
     \ da live para debater sobre como o adiamento do ciclo de queda de juros americanos\
@@ -360,7 +394,7 @@
   path: https://open.spotify.com/episode/4ZBmgnfHPNKwItqDIzdcec
   title: "#106 | O que esperar da ECONOMIA MUNDIAL para os PR\xD3XIMOS ANOS"
 - author: The Journal.
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-06-25T00:00:00+00:00'
   description: "Rent has long been an expense people wanted to pay on credit cards.\
@@ -395,7 +429,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id003
   date: '2024-06-24T09:50:30+00:00'
   description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
     \ \u201CA quest\xE3o \xE9 como fazer esse ajuste, dado que houve toda essa demanda\
@@ -410,7 +444,7 @@
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: The Journal.
-  categories: *id002
+  categories: *id004
   date: '2024-06-24T00:00:00+00:00'
   description: "An activist investor says Southwest Airlines is stuck in the past.\
     \ Elliott Investment Management says it has amassed a $1.9 billion stake, making\
@@ -425,16 +459,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
   title: Southwest Changed Flying. Can It Change Itself?
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-06-21T16:54:50+00:00'
-  description: When behavioral crowds are roiling the markets, as they are now, best
-    idea active equity has an excellent chance of outperforming.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/06/21/behavior-of-crowds-not-wisdom-of-crowds/
-  title: Behavior of Crowds not Wisdom of Crowds
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-06-21T15:00:25+00:00'
   description: "In this video, I'll walk you through 7 functional programming techniques\
     \ and demonstrate how they work. Although Python is not a purely functional language,\
@@ -525,40 +551,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
   title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
-- author: Market Makers
-  categories: *id005
-  date: '2024-06-20T00:00:00+00:00'
-  description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
-    \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
-    \ cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site:\
-    \ https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersLISTA\
-    \ DE ESPERA DA COMUNIDADE MARKET MAKERS: https://lp.mmakers.com.br/comunidade-market-makers?xpromo=XE-ME-EMP-MMK-SUBMMK-20240620-EPISODIO105-NTVNL-XVoc\xEA\
-    \ sabia que a transforma\xE7\xE3o de estagi\xE1rios em s\xF3cios pode ser a chave\
-    \ para reter talentos na sua empresa? No epis\xF3dio 105 do Market Makers, recebemos\
-    \ Ricardo Lacerda (S\xF3cio Fundador e CEO do BR Partners) para falar sobre como\
-    \ a cultura de partnership pode revolucionar a reten\xE7\xE3o de talentos e transformar\
-    \ estagi\xE1rios em s\xF3cios.Ricardo compartilhou sua trajet\xF3ria impressionante,\
-    \ desde seu est\xE1gio na \xE1rea de cr\xE9dito do Chase Manhattan at\xE9 a funda\xE7\
-    \xE3o do BR Partners. Ele revelou como os princ\xEDpios de partnership e meritocracia\
-    \ aprendidos no Goldman Sachs influenciam a filosofia de sua empresa e a fez se\
-    \ tornar o 2\xBA maior banco de investimento do Brasil.Entenda como a cultura\
-    \ de dono e a transpar\xEAncia nas regras do jogo s\xE3o fundamentais para o sucesso\
-    \ a longo prazo e como o alinhamento de interesses entre s\xF3cios e executivos\
-    \ \xE9 essencial para evitar crises e garantir o crescimento sustent\xE1vel. Ricardo\
-    \ tamb\xE9m explicou os diversos segmentos do BR Partners e os principais desafios\
-    \ e vantagens competitivas do banco em rela\xE7\xE3o aos seus concorrentes.Al\xE9\
-    m disse, Ricardo Lacerda falou sobre: -as diferen\xE7as entre o investidor brasileiro\
-    \ e estrangeiro; -os benef\xEDcios de fazer um MBA; e -o momento do mercado brasileiro\
-    \ e a influ\xEAncia das decis\xF5es do governo na economia; Se gostou deste epis\xF3\
-    dio, n\xE3o esque\xE7a de deixar seu like e se inscrever no nosso canal para mais\
-    \ epis\xF3dios como este!Apresenta\xE7\xE3o: Matheus Soares (@maatssoares) e Josu\xE9\
-    \ Guedes (@josueguedes__)\_Convidados: Ricardo Lacerda (S\xF3cio Fundador e CEO\
-    \ do BR Partners)\_Edi\xE7\xE3o: Bianca Barsotti e Lucas Zanardo\_Become a supporter\
-    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8af36bb44b1873133319ded270
-  path: https://open.spotify.com/episode/4VNvlZiFabocOxhpzRapRH
-  title: "#105 | Transformando ESTAGI\xC1RIOS em S\xD3CIOS EXTRAORDIN\xC1RIOS (com\
-    \ CEO do BR Partners)"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
