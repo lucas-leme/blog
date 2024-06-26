@@ -8,7 +8,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/26/hedge-funds-a-poor-choice-for-most-long-term-investors/
   title: 'Hedge Funds: A Poor Choice for Most Long-Term Investors?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-06-26T09:51:32+00:00'
   description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
@@ -23,7 +23,7 @@
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
@@ -58,6 +58,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8a904f14b3c8d5adcc0c16281c
   path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
   title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Cortes EP #104'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-06-26T00:00:00+00:00'
+  description: "Ukraine has sunk or damaged about two dozen Russian ships using a\
+    \ technical innovation: naval drones. WSJ\u2019s James Marson unspools the story\
+    \ of the drones\u2019 development and explores how they\u2019re turning the tide\
+    \ in a key area of the war.  Further Reading: - How Ukraine\u2019s Naval Drones\
+    \ Turned the Tide in the Battle of the Black Sea\_  Further Listening:  - Ukraine\
+    \ Makes a Deal with Wall Street\_ - Ukraine's $30 Billion Problem\_   Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2kUfONXP6gYTT9wNReDCSj
+  title: How Ukraine Built a Weapon to Control the Black Sea
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -416,8 +430,7 @@
   path: https://open.spotify.com/episode/4ZBmgnfHPNKwItqDIzdcec
   title: "#106 | O que esperar da ECONOMIA MUNDIAL para os PR\xD3XIMOS ANOS"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-06-25T00:00:00+00:00'
   description: "Rent has long been an expense people wanted to pay on credit cards.\
     \ In 2022, Wells Fargo launched a credit card with Bilt Technologies that allowed\
@@ -451,7 +464,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-06-24T09:50:30+00:00'
   description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
     \ \u201CA quest\xE3o \xE9 como fazer esse ajuste, dado que houve toda essa demanda\
@@ -465,22 +478,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
-- author: The Journal.
-  categories: *id004
-  date: '2024-06-24T00:00:00+00:00'
-  description: "An activist investor says Southwest Airlines is stuck in the past.\
-    \ Elliott Investment Management says it has amassed a $1.9 billion stake, making\
-    \ it one of Southwest\u2019s biggest shareholders and one of its most vocal critics.\
-    \ WSJ\u2019s Alison Sider explains what Elliott wants, and why critics say some\
-    \ of the things that made Southwest great are now holding it back.\_  Further\
-    \ Reading: - Southwest Changed Flying. Now It Can\u2019t Change Fast Enough\_\
-    \ - Meet the Southwest Superfans Who Don\u2019t Want the Airline to Change\_ \
-    \ Further Listening:  - Ryanair: Cheap, Cramped and Making Its CEO a Fortune\_\
-    \ - The Love Triangle Over Spirit Airlines\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
-  title: Southwest Changed Flying. Can It Change Itself?
 - author: ArjanCodes
   categories: *id005
   date: '2024-06-21T15:00:25+00:00'
@@ -531,7 +528,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -564,14 +561,6 @@
   image: https://i4.ytimg.com/vi/sDIi95CqTiM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
-- author: CFA Institute Research and Policy Center
-  categories: *id006
-  date: '2024-06-20T00:00:00+00:00'
-  description: In this episode, Alexander discusses her recent work as a consulting
-    expert witness supporting actions against cryptoasset market abuse.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
-  title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -620,12 +609,20 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: Marques Brownlee
-  categories: *id007
+  categories: *id006
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
   title: Real light saber vs Nokia 3310
+- author: CFA Institute Research and Policy Center
+  categories: *id007
+  date: '2024-06-14T00:00:00+00:00'
+  description: Evaluating models for estimating long-term expected returns, this study
+    finds that a three-component model can boost Sharpe ratios.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/estimating-long-term-expected-returns
+  title: Estimating Long-Term Expected Returns
 - author: The Overshoot
   categories: &id008
   - Macro

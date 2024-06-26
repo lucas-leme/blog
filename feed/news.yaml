@@ -1,6 +1,32 @@
 - author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-26T21:04:43+00:00'
+  description: "No epis\xF3dio desta semana da s\xE9rie Passaporte InvestNews, o jornalista\
+    \ Dony de Nuccio explica como \xE9 comprar um carro em solo americano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/carro-nos-eua-e-mais-barato-do-que-aqui-e-muitas-vezes-nem-tem-ipva/
+  title: "Carro nos EUA \xE9 mais barato do que aqui \u2013 e muitas vezes nem tem\
+    \ IPVA"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-26T18:43:01+00:00'
+  description: Autoridades facilitaram regras para pequenas empresas levantarem capital
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/com-regras-mais-flexiveis-para-pequenas-empresas-no-mercado-de-capitais-uruguai-faz-1o-ipo-apos-8-anos/
+  title: "Com regras mais flex\xEDveis no mercado de capitais, Uruguai faz 1\xBA IPO\
+    \ ap\xF3s 8 anos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2024-06-26T18:27:39+00:00'
+  description: "As a\xE7\xF5es da Amazon subiram mais de 26% este ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/amazon-bate-us-2-tri-em-valor-de-mercado-com-ia-e-apostas-de-corte-de-juros-nos-eua/
+  title: Amazon bate US$ 2 tri em valor de mercado com IA e apostas de corte de juros
+    nos EUA
+- author: "Economia \u2013 InvestNews"
+  categories: *id002
   date: '2024-06-26T17:01:47+00:00'
   description: "Decreto mudar\xE1 a forma como o chefe do Banco Central ter\xE1 que\
     \ atuar para colocar a infla\xE7\xE3o dentro da meta"
@@ -9,7 +35,7 @@
   title: "Em gesto a Haddad e Gal\xEDpolo, Lula formaliza meta cont\xEDnua de infla\xE7\
     \xE3o a partir de 2025"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -22,48 +48,23 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dp2xa4/passing_candidates/
   title: Passing candidates
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-26T16:00:34+00:00'
-  description: "Lula descartou possibilidade de o governo desvincular pens\xF5es e\
-    \ benef\xEDcios como o Benef\xEDcio de Presta\xE7\xE3o Continuada (BPC)"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/dolar-passa-dos-r-550-apos-falas-de-lula-sobre-fiscal-e-divulgacao-do-ipca/
-  title: "D\xF3lar passa dos R$ 5,50, ap\xF3s falas de Lula sobre fiscal e divulga\xE7\
-    \xE3o do IPCA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
-  date: '2024-06-26T12:10:43+00:00'
-  description: "O grupo alem\xE3o disse na v\xE9spera que investir\xE1 at\xE9 US$\
-    \ 5 bilh\xF5es na fabricante de ve\xEDculos el\xE9tricos norte-americana"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acao-da-volkswagen-recua-com-preocupacoes-sobre-custos-e-implicacoes-do-acordo-com-rivian/
-  title: "A\xE7\xE3o da Volkswagen recua com preocupa\xE7\xF5es sobre custos e implica\xE7\
-    \xF5es do acordo com Rivian"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2024-06-26T11:01:36+00:00'
-  description: <!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
+  description: '<!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
     best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
-    <p><strong>As is tradition, we'll be removing all other related posts (I passed,
-    I failed, How close was I?) because this is the designated place to celebrate
-    or commiserate.</strong></p> <h1>Results Survey</h1> <p>Please consider participating
-    in our Level 1 results survey <a href="https://forms.gle/sNMsaqqm5xpXh63h7">here</a>
-    once results are released. I've updated it once again to hopefully work out some
+    <p><strong><em>ETA: Of the 21,116 Level I candidates who tested in May, 46% passed.
+    For comparison, the February 2024 Level I pass rate was 44%, and the historical
+    pass rate is 41%.</em></strong></p> <p><strong>As is tradition, we''ll be removing
+    all other related posts (I passed, I failed, How close was I?) because this is
+    the designated place to celebrate or commiserate.</strong></p> <h1>Results Survey</h1>
+    <p>Please consider participating in our Level 1 results survey <a href="https://forms.gle/sNMsaqqm5xpXh63h7">here</a>
+    once results are released. I''ve updated it once again to hopefully work out some
     kinks. Your responses could help other candidates prepare for the exam in the
     future.</p> <p><a href="https://discord.gg/Zm9KEF3">Join us on Discord here.</a></p>
     </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/third_najarian">
     /u/third_najarian </a> <br /> <span><a href="https://www.reddit.com/r/CFA/comments/1dovu56/official_may_2024_level_i_results_thread/">[link]</a></span>
-    &#32; <span><a href="https://www.reddit.com/r/CFA/comments/1dovu56/official_may_2024_level_i_results_thread/">[comments]</a></span>
+    &#32; <span><a href="https://www.reddit.com/r/CFA/comments/1dovu56/official_may_2024_level_i_results_thread/">[comments]</a></span>'
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dovu56/official_may_2024_level_i_results_thread/
   title: Official May 2024 Level I Results Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2024-06-24T15:53:34+00:00'
-  description: "Segundo a Bloomberg, gigante de moda chin\xEAs pode ser avaliado em\
-    \ \xA350 bilh\xF5es (US$ 63,3 bilh\xF5es)"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/shein-entra-com-pedido-de-ipo-em-londres/
-  title: Shein entra com pedido de IPO em Londres
