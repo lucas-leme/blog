@@ -1,5 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-06-26T09:51:32+00:00'
+  description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
+    \ mais. Numa autocr\xEDtica franca e refrescante para um membro do STF,\_ o ministro\
+    \ Luiz Fux disse que o Brasil \u201Cn\xE3o tem governo de ju\xEDzes\u201D e que\
+    \ um \u201Cprotagonismo delet\xE9rio\u201D est\xE1 \u201Ccorroendo a credibilidade\
+    \ dos tribunais.\u201D Fux estava proferindo seu voto sobre a descriminaliza\xE7\
+    \xE3o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/\"\
+    \ rel=\"nofollow\">O exame de consci\xEAncia do Ministro Fux\_</a> appeared first\
+    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
+  title: "O exame de consci\xEAncia do Ministro Fux"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -13,7 +28,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-06-25T12:51:46+00:00'
   description: While the immediate future may not be promising for the equity premium,
@@ -325,7 +340,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/19062024
   title: "BC - Copom Ata - 263\xAA Reuni\xE3o - 18-19 junho, 2024"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-06-25T00:00:00+00:00'
   description: "Rodrigo Azevedo (s\xF3cio e co-CIO da Ibiuna Investimentos) participa\
@@ -345,7 +360,7 @@
   path: https://open.spotify.com/episode/4ZBmgnfHPNKwItqDIzdcec
   title: "#106 | O que esperar da ECONOMIA MUNDIAL para os PR\xD3XIMOS ANOS"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-06-25T00:00:00+00:00'
   description: "Rent has long been an expense people wanted to pay on credit cards.\
@@ -380,8 +395,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2024-06-24T09:50:30+00:00'
   description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
     \ \u201CA quest\xE3o \xE9 como fazer esse ajuste, dado que houve toda essa demanda\
@@ -396,7 +410,7 @@
   path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
   title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-06-24T00:00:00+00:00'
   description: "An activist investor says Southwest Airlines is stuck in the past.\
     \ Elliott Investment Management says it has amassed a $1.9 billion stake, making\
@@ -412,7 +426,7 @@
   path: https://open.spotify.com/episode/2brEj0Y8JF4BFEbZgtDFYe
   title: Southwest Changed Flying. Can It Change Itself?
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-06-21T16:54:50+00:00'
   description: When behavioral crowds are roiling the markets, as they are now, best
     idea active equity has an excellent chance of outperforming.
@@ -420,7 +434,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/21/behavior-of-crowds-not-wisdom-of-crowds/
   title: Behavior of Crowds not Wisdom of Crowds
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-06-21T15:00:25+00:00'
   description: "In this video, I'll walk you through 7 functional programming techniques\
     \ and demonstrate how they work. Although Python is not a purely functional language,\
@@ -453,7 +467,7 @@
     \ content each week!"
   image: https://i3.ytimg.com/vi/Rp9Ha0rVM1w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Rp9Ha0rVM1w
-  title: 7 Functional Programming Techniques to Enhance Your Python Code
+  title: 7 Functional Programming Techniques Every Developer Should Know
 - author: RSS - Feeds do BC
   categories:
   - Bacen
@@ -512,7 +526,7 @@
   path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
   title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-06-20T00:00:00+00:00'
   description: "O Shop2gether possui a melhor curadoria de moda e lifestyle, com as\
     \ melhores marcas nacionais e internacionais reunidas em um s\xF3 lugar. Com o\
@@ -592,22 +606,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-06-16T03:02:58+00:00'
-  description: "<p>Com um arcabou\xE7o fiscal repleto de regras inconsistentes e que\
-    \ n\xE3o ficam de p\xE9, o Brasil est\xE1 com uma s\xE9rie de problemas contratados\
-    \ pela frente. \u201CMas pela primeira vez o Pa\xEDs come\xE7ou a debater esses\
-    \ problemas sem estar no meio de uma grande crise,\u201D o economista Marcos Lisboa\
-    \ disse nesta entrevista ao Brazil Journal. Lisboa, [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/marcos-lisboa-sobre-o-stress-fiscal-pelos-menos-estamos-falando-dos-problemas/\"\
-    \ rel=\"nofollow\">Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos\
-    \ falando dos problemas\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2024/06/brasil.png
-  path: https://braziljournal.com/marcos-lisboa-sobre-o-stress-fiscal-pelos-menos-estamos-falando-dos-problemas/
-  title: "Marcos Lisboa sobre o stress fiscal: \u201CPelo menos estamos falando dos\
-    \ problemas\u201D"
 - author: Marques Brownlee
   categories: *id006
   date: '2024-06-14T13:58:49+00:00'
