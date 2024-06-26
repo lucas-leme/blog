@@ -22,6 +22,15 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
+- author: CFA Institute Research and Policy Center
+  categories: &id006
+  - CFA
+  date: '2024-06-26T00:00:00+00:00'
+  description: This study finds that machine-learning techniques can improve estimations
+    of US corporate bond illiquidity, outperforming the conventional standard.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
+  title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Market Makers
   categories: &id002
   - Podcasts
@@ -49,6 +58,19 @@
   image: https://i.scdn.co/image/ab6765630000ba8a904f14b3c8d5adcc0c16281c
   path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
   title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Cortes EP #104'
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2024-06-26T00:00:00+00:00'
+  description: "Listen to Apollo\u2019s Global Head of Content Strategy for Client\
+    \ and Product Solutions J.P. Vicente and Chief Economist Torsten Sl\xF8k discuss\
+    \ the precarious outlook for the US economy as policymakers try to tame inflation\
+    \ without sending the economy into recession. It\u2019s a wide-ranging conversation\
+    \ that includes the outlook for GDP growth, inflation, interest rates, and consumer\
+    \ spending."
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/0UqBiwd0rRqrwwJVrAsmpP
+  title: 'Mid-Year Outlook: An Unstable Economic Equilibrium'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -509,7 +531,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -543,8 +565,7 @@
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id006
   date: '2024-06-20T00:00:00+00:00'
   description: In this episode, Alexander discusses her recent work as a consulting
     expert witness supporting actions against cryptoasset market abuse.
@@ -599,20 +620,12 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
   title: Real light saber vs Nokia 3310
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2024-06-14T00:00:00+00:00'
-  description: Evaluating models for estimating long-term expected returns, this study
-    finds that a three-component model can boost Sharpe ratios.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/estimating-long-term-expected-returns
-  title: Estimating Long-Term Expected Returns
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -695,17 +708,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15c70c6-1016-4f15-852d-490da7d8b81f_2886x1843.png
   path: https://www.apricitas.io/p/a-detailed-look-at-bidens-new-china
   title: "A Detailed Look at Biden\u2019s New China Tariffs"
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2024-05-23T00:00:00+00:00'
-  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k speak with Randy\
-    \ Anderson, a partner in the Real Assets Group at Apollo, about how surging interest\
-    \ rates have contributed to unprecedented conditions in the US real estate market,\
-    \ and how opportunities can be found as rates stay higher for longer."
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/1aCb7zYjSXFIo6cQUKz2NY
-  title: 'Real Estate: Opportunities and Risks in an Unprecedented Market'
 - author: Comunicados Copom
   categories:
   - Bacen
