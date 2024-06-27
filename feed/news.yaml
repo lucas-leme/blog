@@ -1,6 +1,23 @@
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-06-27T13:15:48+00:00'
+  description: "Autarquia apontou em relat\xF3rio trimestral que a chance de a infla\xE7\
+    \xE3o estourar o teto da meta de 4,5% passou de 19%, em mar\xE7o, para 28%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/bc-aumenta-estimativa-de-chance-de-estouro-da-meta-da-inflacao-em-2024/
+  title: "BC aumenta estimativa de chance de estouro da meta da infla\xE7\xE3o em\
+    \ 2024"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-06-27T12:57:28+00:00'
+  description: "Bitcoin reagiu \xE0 not\xEDcia caindo 6,5%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/mt-gox-reembolso-de-bitcoins-roubados-gera-temor-por-pressao-vendedora/
+  title: "Mt. Gox: Reembolso de bitcoins roubados gera temor por press\xE3o vendedora"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-06-27T11:54:00+00:00'
   description: "A alta do \xCDndice Geral de Pre\xE7os-Mercado desacelerou 0,81% no\
     \ m\xEAs"
@@ -25,32 +42,14 @@
   image: https://preview.redd.it/lpwyim9h419d1.jpeg?width=640&crop=smart&auto=webp&s=7e395c5b6dbceaaa7522ea5b3173fe2e480bc5b3
   path: https://www.reddit.com/r/CFA/comments/1dph0km/cfai_celebrates_ethics_violation/
   title: CFAI Celebrates Ethics Violation
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-26T21:04:43+00:00'
-  description: "No epis\xF3dio desta semana da s\xE9rie Passaporte InvestNews, o jornalista\
-    \ Dony de Nuccio explica como \xE9 comprar um carro em solo americano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/carro-nos-eua-e-mais-barato-do-que-aqui-e-muitas-vezes-nem-tem-ipva/
-  title: "Carro nos EUA \xE9 mais barato do que aqui \u2013 e muitas vezes nem tem\
-    \ IPVA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-06-26T18:43:01+00:00'
   description: Autoridades facilitaram regras para pequenas empresas levantarem capital
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/com-regras-mais-flexiveis-para-pequenas-empresas-no-mercado-de-capitais-uruguai-faz-1o-ipo-apos-8-anos/
   title: "Com regras mais flex\xEDveis no mercado de capitais, Uruguai faz 1\xBA IPO\
     \ ap\xF3s 8 anos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-26T18:27:39+00:00'
-  description: "As a\xE7\xF5es da Amazon subiram mais de 26% este ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/amazon-bate-us-2-tri-em-valor-de-mercado-com-ia-e-apostas-de-corte-de-juros-nos-eua/
-  title: Amazon bate US$ 2 tri em valor de mercado com IA e apostas de corte de juros
-    nos EUA
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-06-26T11:01:36+00:00'
