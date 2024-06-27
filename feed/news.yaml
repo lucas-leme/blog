@@ -1,5 +1,24 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-27T19:57:19+00:00'
+  description: "Varejistas preveem que o c\xE2mbio deve se estabilizar num patamar\
+    \ mais elevado do que se esperava"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/com-dolar-mais-alto-casas-bahia-e-boticario-planejam-rever-os-precos-para-o-segundo-semestre/
+  title: "Com d\xF3lar mais alto, Casas Bahia e Botic\xE1rio planejam rever os pre\xE7\
+    os para o segundo semestre"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2024-06-27T19:14:32+00:00'
+  description: "A medida era um pedido de varejistas brasileiras que argumentam que\
+    \ estavam sendo v\xEDtimas de concorr\xEAncia desleal, principalmente por parte\
+    \ de sites chineses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lula-sanciona-taxa-para-blusinhas-de-ate-us-50-para-compras-internacionais/
+  title: "Lula sanciona taxa para blusinhas de at\xE9 US$ 50 para compras internacionais"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-27T17:26:39+00:00'
   description: "Neste ano foram arrecadados mais de US$ 20 bilh\xF5es em novas ofertas\
@@ -8,31 +27,13 @@
   path: https://investnews.com.br/financas/a-confianca-retorna-ipos-nos-eua-tem-melhor-inicio-de-ano-desde-2021/
   title: "A confian\xE7a retorna: IPOs nos EUA t\xEAm melhor in\xEDcio de ano desde\
     \ 2021"
-- author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2024-06-27T13:15:48+00:00'
-  description: "Autarquia apontou em relat\xF3rio trimestral que a chance de a infla\xE7\
-    \xE3o estourar o teto da meta de 4,5% passou de 19%, em mar\xE7o, para 28%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/bc-aumenta-estimativa-de-chance-de-estouro-da-meta-da-inflacao-em-2024/
-  title: "BC aumenta estimativa de chance de estouro da meta da infla\xE7\xE3o em\
-    \ 2024"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-27T12:57:28+00:00'
   description: "Bitcoin reagiu \xE0 not\xEDcia caindo 6,5%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/mt-gox-reembolso-de-bitcoins-roubados-gera-temor-por-pressao-vendedora/
   title: "Mt. Gox: Reembolso de bitcoins roubados gera temor por press\xE3o vendedora"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-27T11:54:00+00:00'
-  description: "A alta do \xCDndice Geral de Pre\xE7os-Mercado desacelerou 0,81% no\
-    \ m\xEAs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/alta-do-igp-m-desacelera-em-junho-e-fica-abaixo-do-esperado/
-  title: Alta do IGP-M desacelera em junho e fica abaixo do esperado
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
