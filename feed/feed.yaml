@@ -1,5 +1,21 @@
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2024-06-26T22:49:58+00:00'
+  description: "<p>H\xE1 v\xE1rias fontes para a forte piora no ambiente dos mercados\
+    \ financeiros, com causas externas e dom\xE9sticas. Incertezas sobre a gest\xE3\
+    o monet\xE1ria respondem por uma parte; o \u201Cracha\u201D do pen\xFAltimo Copom\
+    \ antecipou a quest\xE3o de como ser\xE1 a condu\xE7\xE3o da pol\xEDtica monet\xE1\
+    ria com a troca do presidente da autarquia.\_ Nosso azar foi que tudo isso [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3\
+    rica</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/
+  title: "OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3rica"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2024-06-26T12:31:07+00:00'
   description: By allocating to a diversified pool of hedge funds, many institutional
@@ -8,8 +24,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/26/hedge-funds-a-poor-choice-for-most-long-term-investors/
   title: 'Hedge Funds: A Poor Choice for Most Long-Term Investors?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2024-06-26T09:51:32+00:00'
   description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
     \ mais. Numa autocr\xEDtica franca e refrescante para um membro do STF,\_ o ministro\
@@ -23,7 +38,7 @@
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id006
   - CFA
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
@@ -32,7 +47,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
   title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-06-26T00:00:00+00:00'
   description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
@@ -59,7 +74,7 @@
   path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
   title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Cortes EP #104'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-26T00:00:00+00:00'
   description: "Ukraine has sunk or damaged about two dozen Russian ships using a\
@@ -72,6 +87,21 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/2kUfONXP6gYTT9wNReDCSj
   title: How Ukraine Built a Weapon to Control the Black Sea
+- author: Outliers
+  categories: &id008
+  - Podcasts
+  date: '2024-06-26T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a7c6906c98d7fd43e75de85a9
+  path: https://open.spotify.com/episode/00JaahgJqIaOCychJUBYkO
+  title: '#130 - Desmistificando o High Yield'
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -100,7 +130,7 @@
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-06-25T12:51:46+00:00'
   description: While the immediate future may not be promising for the equity premium,
     it looks bright for factor premiums.
@@ -411,7 +441,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/19062024
   title: "BC - Copom Ata - 263\xAA Reuni\xE3o - 18-19 junho, 2024"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-06-25T00:00:00+00:00'
   description: "Rodrigo Azevedo (s\xF3cio e co-CIO da Ibiuna Investimentos) participa\
     \ da live para debater sobre como o adiamento do ciclo de queda de juros americanos\
@@ -430,7 +460,7 @@
   path: https://open.spotify.com/episode/4ZBmgnfHPNKwItqDIzdcec
   title: "#106 | O que esperar da ECONOMIA MUNDIAL para os PR\xD3XIMOS ANOS"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-06-25T00:00:00+00:00'
   description: "Rent has long been an expense people wanted to pay on credit cards.\
     \ In 2022, Wells Fargo launched a credit card with Bilt Technologies that allowed\
@@ -463,21 +493,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/deciphering-the-disinflation-process/
   title: Deciphering the Disinflation Process
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2024-06-24T09:50:30+00:00'
-  description: "<p>Por uma decis\xE3o pol\xEDtica, o Brasil decidiu gastar mais.\_\
-    \ \u201CA quest\xE3o \xE9 como fazer esse ajuste, dado que houve toda essa demanda\
-    \ de gastos adicionais,\u201D disse Tiago Cavalcanti, que acaba de se tornar o\
-    \ primeiro brasileiro a conquistar uma c\xE1tedra de Economia em Cambridge. Nesta\
-    \ conversa com o Brazil Journal, o economista diz que o [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/\"\
-    \ rel=\"nofollow\">Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro\
-    \ em Cambridge</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/haddad-precisa-de-apoio-para-ancorar-meta-fiscal-diz-brasileiro-em-cambridge/
-  title: Haddad precisa de apoio para ancorar meta fiscal, diz brasileiro em Cambridge
 - author: ArjanCodes
   categories: *id005
   date: '2024-06-21T15:00:25+00:00'
@@ -528,7 +543,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-06-20T21:53:33+00:00'
@@ -561,6 +576,14 @@
   image: https://i4.ytimg.com/vi/sDIi95CqTiM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
+- author: CFA Institute Research and Policy Center
+  categories: *id006
+  date: '2024-06-20T00:00:00+00:00'
+  description: In this episode, Alexander discusses her recent work as a consulting
+    expert witness supporting actions against cryptoasset market abuse.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
+  title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -609,22 +632,14 @@
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-06-14T13:58:49+00:00'
   description: Real life dark side light saber aka mega lighter
   image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
   title: Real light saber vs Nokia 3310
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2024-06-14T00:00:00+00:00'
-  description: Evaluating models for estimating long-term expected returns, this study
-    finds that a three-component model can boost Sharpe ratios.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/estimating-long-term-expected-returns
-  title: Estimating Long-Term Expected Returns
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-06-13T22:36:13+00:00'
@@ -635,8 +650,7 @@
   path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
   title: The Fed Looks Through a Great Inflation Print
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id008
   date: '2024-06-11T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -650,7 +664,7 @@
   path: https://open.spotify.com/episode/6x1uibOdq77KjTvzkVHIMg
   title: "#129 - Investindo em renda fixa com a Ib\xEDuna Investimentos"
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2024-06-10T21:49:16+00:00'
   description: For decades, Australians spent more than they generated in income,
     raising finance from abroad to make up the difference. That has reversed dramatically
@@ -658,21 +672,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb30e2da-6f21-4f16-86a6-5d13e5bb915c_5004x2625.png
   path: https://theovershoot.co/p/the-curious-case-of-australias-brief
   title: The Curious Case of Australia's (Brief?) Current Account Surplus
-- author: Outliers
-  categories: *id009
-  date: '2024-05-29T00:00:00+00:00'
-  description: "-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: http://bit.ly/3SRd2A1Acompanhe todos\
-    \ os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber nossa\
-    \ newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a18045532aa5afa8bedd655db
-  path: https://open.spotify.com/episode/2Yb2rf6q16vwLaeXy3GG60
-  title: '#128 - Juros altos e escassez de capital: oportunidade em Special Situations
-    com Blue Oak'
 - author: Flirting with Models
   categories:
   - Podcasts
