@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-27T17:26:39+00:00'
+  description: "Neste ano foram arrecadados mais de US$ 20 bilh\xF5es em novas ofertas\
+    \ de a\xE7\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/a-confianca-retorna-ipos-nos-eua-tem-melhor-inicio-de-ano-desde-2021/
+  title: "A confian\xE7a retorna: IPOs nos EUA t\xEAm melhor in\xEDcio de ano desde\
+    \ 2021"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-06-27T13:15:48+00:00'
   description: "Autarquia apontou em relat\xF3rio trimestral que a chance de a infla\xE7\
@@ -9,15 +19,14 @@
   title: "BC aumenta estimativa de chance de estouro da meta da infla\xE7\xE3o em\
     \ 2024"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-27T12:57:28+00:00'
   description: "Bitcoin reagiu \xE0 not\xEDcia caindo 6,5%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/mt-gox-reembolso-de-bitcoins-roubados-gera-temor-por-pressao-vendedora/
   title: "Mt. Gox: Reembolso de bitcoins roubados gera temor por press\xE3o vendedora"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-06-27T11:54:00+00:00'
   description: "A alta do \xCDndice Geral de Pre\xE7os-Mercado desacelerou 0,81% no\
     \ m\xEAs"
@@ -42,14 +51,6 @@
   image: https://preview.redd.it/lpwyim9h419d1.jpeg?width=640&crop=smart&auto=webp&s=7e395c5b6dbceaaa7522ea5b3173fe2e480bc5b3
   path: https://www.reddit.com/r/CFA/comments/1dph0km/cfai_celebrates_ethics_violation/
   title: CFAI Celebrates Ethics Violation
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-06-26T18:43:01+00:00'
-  description: Autoridades facilitaram regras para pequenas empresas levantarem capital
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/com-regras-mais-flexiveis-para-pequenas-empresas-no-mercado-de-capitais-uruguai-faz-1o-ipo-apos-8-anos/
-  title: "Com regras mais flex\xEDveis no mercado de capitais, Uruguai faz 1\xBA IPO\
-    \ ap\xF3s 8 anos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-06-26T11:01:36+00:00'
