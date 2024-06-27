@@ -1,3 +1,30 @@
+- author: Marques Brownlee
+  categories: &id006
+  - Tech
+  - Youtube
+  date: '2024-06-27T15:04:20+00:00'
+  description: 'The dope tech hidden at a golf tournament is actually incredible.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Intro Track: http://youtube.com/20syl
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/MV1qaFv4VUg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=MV1qaFv4VUg
+  title: Golf Tech is Hidden in Plain Sight!
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -66,7 +93,7 @@
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
@@ -571,9 +598,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id006
   date: '2024-06-20T21:53:33+00:00'
   description: 'The new Siri vs the RabbitR1 and Humane pin
 
@@ -605,7 +630,7 @@
   path: https://www.youtube.com/watch?v=sDIi95CqTiM
   title: AI the Product vs AI the Feature
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2024-06-20T00:00:00+00:00'
   description: In this episode, Alexander discusses her recent work as a consulting
     expert witness supporting actions against cryptoasset market abuse.
@@ -659,13 +684,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
-- author: Marques Brownlee
-  categories: *id007
-  date: '2024-06-14T13:58:49+00:00'
-  description: Real life dark side light saber aka mega lighter
-  image: https://i1.ytimg.com/vi/x7M-FAV9-2Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=x7M-FAV9-2Q
-  title: Real light saber vs Nokia 3310
 - author: The Overshoot
   categories: *id008
   date: '2024-06-13T22:36:13+00:00'
