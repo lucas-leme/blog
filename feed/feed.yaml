@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-06-28T11:11:15+00:00'
+  description: Proxy data and estimates are likely to play an important role in plugging
+    disclosure gaps in financial institutions' Scope 3 emissions.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/06/28/scope-3-emissions-spotlight-on-financial-institutions/
+  title: 'Scope 3 Emissions: Spotlight on Financial Institutions'
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -54,7 +63,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-06-27T00:00:00+00:00'
   description: "Use o cupom MARKETMAKERS15 e garanta 15% OFF na sua primeira compra\
@@ -91,7 +100,7 @@
   title: "#107 | Como ENCONTRAR \xF3timos neg\xF3cios que ningu\xE9m est\xE1 de olho\
     \ (ainda)"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-27T00:00:00+00:00'
   description: "Tonight, two presidents, one current and one former, are set to debate\
@@ -132,7 +141,7 @@
   path: https://open.spotify.com/episode/4KO76xSTDQQ0iC0zFQ6AtL
   title: 'Eye of the beholder: the opaque world of the art market'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-06-26T22:49:58+00:00'
   description: "<p>H\xE1 v\xE1rias fontes para a forte piora no ambiente dos mercados\
@@ -148,8 +157,7 @@
   path: https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/
   title: "OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3rica"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-06-26T12:31:07+00:00'
   description: By allocating to a diversified pool of hedge funds, many institutional
     investors are unwittingly reducing their equity holdings.
@@ -157,7 +165,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/26/hedge-funds-a-poor-choice-for-most-long-term-investors/
   title: 'Hedge Funds: A Poor Choice for Most Long-Term Investors?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-06-26T09:51:32+00:00'
   description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
     \ mais. Numa autocr\xEDtica franca e refrescante para um membro do STF,\_ o ministro\
@@ -180,7 +188,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
   title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-06-26T00:00:00+00:00'
   description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
     \ em 2024?O epis\xF3dio explora a atual situa\xE7\xE3o desafiadora do mercado\
@@ -206,7 +214,7 @@
   path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
   title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Cortes EP #104'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-06-26T00:00:00+00:00'
   description: "Ukraine has sunk or damaged about two dozen Russian ships using a\
     \ technical innovation: naval drones. WSJ\u2019s James Marson unspools the story\
@@ -260,14 +268,6 @@
   image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=c-TWPdL9_X4
   title: Under the Hood | Faker
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-06-25T12:51:46+00:00'
-  description: While the immediate future may not be promising for the equity premium,
-    it looks bright for factor premiums.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/06/25/did-inflation-kill-the-capm/
-  title: Did Inflation Kill the CAPM?
 - author: Atas do Copom
   categories:
   - Bacen
