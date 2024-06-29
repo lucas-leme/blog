@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-06-29T12:25:27+00:00'
+  description: "De acordo com a secret\xE1ria estadual de Meio Ambiente, pre\xE7o\
+    \ ofertado pela Equatorial ficou dentro do pre\xE7o m\xEDnimo estabelecido"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/equatorial-oferece-r-69-bi-para-ser-acionista-de-referencia-da-sabesp/
+  title: "Equatorial oferece R$ 6,9 bi para ser acionista de refer\xEAncia da Sabesp"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://www.reddit.com/r/CFA/comments/1dr48l6/covariance_formula/
   title: Covariance Formula
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-06-28T20:10:50+00:00'
   description: "Diretor do BC afirmou que uma das raz\xF5es para a performance pior\
     \ do real est\xE1 na elevada liquidez do mercado brasileiro"
@@ -25,17 +33,6 @@
   path: https://investnews.com.br/economia/galipolo-diz-que-dolar-perto-de-r-560-chama-atencao-e-traz-preocupacao-adicional/
   title: "Gal\xEDpolo diz que d\xF3lar perto de R$ 5,60 chama aten\xE7\xE3o e traz\
     \ preocupa\xE7\xE3o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-06-28T18:25:11+00:00'
-  description: "A restitui\xE7\xE3o do Imposto de Renda funciona como uma&#160;devolu\xE7\
-    \xE3o do imposto pago a mais durante o ano-base da declara\xE7\xE3o. Quem tem\
-    \ direito \xE0 restitui\xE7\xE3o, portanto, recebe uma quantia da Receita Federal\
-    \ \u2014 em vez de ter que pagar o imposto. O valor a ser recebido, portanto,\
-    \ depende da quantia de tributos devidos e do valor [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/restituicao-do-imposto-de-renda-quem-tem-direito-e-como-receber/
-  title: "Restitui\xE7\xE3o do Imposto de Renda: quem tem direito e como receber"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
