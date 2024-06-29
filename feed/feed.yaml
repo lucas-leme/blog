@@ -1,3 +1,13 @@
+- author: The Overshoot
+  categories: &id003
+  - Macro
+  - Newsletters
+  date: '2024-06-29T20:45:42+00:00'
+  description: '"Immaculate disinflation" works best if consumer spending rises less
+    than incomes. That may finally be happening.'
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3549df5e-d557-4806-92ae-1a10845cc912_4997x2625.png
+  path: https://theovershoot.co/p/are-consumers-retrenching
+  title: Are Consumers Retrenching?
 - author: Marques Brownlee
   categories: &id002
   - Tech
@@ -8,7 +18,7 @@
   path: https://www.youtube.com/watch?v=SD8WJ7O1Q5M
   title: The Best Beats Ever?
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -81,7 +91,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/06/racial-and-ethnic-inequalities-in-household-wealth-persist/
   title: Racial and Ethnic Inequalities in Household Wealth Persist
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-06-28T00:00:00+00:00'
   description: "Alice Waters helped the farm-to-table movement go mainstream in the\
@@ -121,9 +131,7 @@
   path: https://www.youtube.com/watch?v=MV1qaFv4VUg
   title: Golf Tech is Hidden in Plain Sight!
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id003
   date: '2024-06-27T01:20:55+00:00'
   description: The U.S. Department of Justice is charging some creative intermediaries
     for figuring out how to match drug dealers who want to launder dirty money with
@@ -149,7 +157,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-06-27T00:00:00+00:00'
   description: "Use o cupom MARKETMAKERS15 e garanta 15% OFF na sua primeira compra\
@@ -186,7 +194,7 @@
   title: "#107 | Como ENCONTRAR \xF3timos neg\xF3cios que ningu\xE9m est\xE1 de olho\
     \ (ainda)"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-06-27T00:00:00+00:00'
   description: "Tonight, two presidents, one current and one former, are set to debate\
     \ live on CNN. The stakes are high for the candidates and for the network that\u2019\
@@ -226,7 +234,7 @@
   path: https://open.spotify.com/episode/4KO76xSTDQQ0iC0zFQ6AtL
   title: 'Eye of the beholder: the opaque world of the art market'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-06-26T22:49:58+00:00'
   description: "<p>H\xE1 v\xE1rias fontes para a forte piora no ambiente dos mercados\
@@ -242,7 +250,7 @@
   path: https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/
   title: "OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3rica"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-06-26T09:51:32+00:00'
   description: "<p>A conversa era sobre maconha \u2013 mas no fundo era sobre muito\
     \ mais. Numa autocr\xEDtica franca e refrescante para um membro do STF,\_ o ministro\
@@ -256,7 +264,7 @@
   path: https://braziljournal.com/o-exame-de-consciencia-do-ministro-fux/
   title: "O exame de consci\xEAncia do Ministro Fux"
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
@@ -265,7 +273,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
   title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-06-26T00:00:00+00:00'
   description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
     \ em 2024?O epis\xF3dio explora a atual situa\xE7\xE3o desafiadora do mercado\
@@ -319,7 +327,7 @@
   path: https://open.spotify.com/episode/0UqBiwd0rRqrwwJVrAsmpP
   title: 'Mid-Year Outlook: An Unstable Economic Equilibrium'
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2024-06-25T14:04:56+00:00'
   description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
     \ I'll dive into the code and design of an open-source project together with you.\
@@ -647,7 +655,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/21062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 21/06/2024"
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2024-06-20T00:00:00+00:00'
   description: In this episode, Alexander discusses her recent work as a consulting
     expert witness supporting actions against cryptoasset market abuse.
@@ -678,15 +686,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
   title: Quiet Compounding
-- author: The Overshoot
-  categories: *id008
-  date: '2024-06-13T22:36:13+00:00'
-  description: After being burned by the unwelcome inflation surprises of the first
-    few months of 2024, they are now justifiably reluctant to be fooled again, even
-    if that means ignoring some encouraging numbers.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35837a8f-6ebd-4af6-8b4b-43ac1173aaab_5002x2670.png
-  path: https://theovershoot.co/p/the-fed-looks-through-a-great-inflation
-  title: The Fed Looks Through a Great Inflation Print
 - author: Outliers
   categories: *id009
   date: '2024-06-11T00:00:00+00:00'
