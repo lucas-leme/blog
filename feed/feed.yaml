@@ -34,6 +34,15 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/exploring-the-tips-treasury-valuation-puzzle/
   title: Exploring the TIPS&#8209;Treasury Valuation Puzzle
+- author: CFA Institute Research and Policy Center
+  categories: &id006
+  - CFA
+  date: '2024-07-01T00:00:00+00:00'
+  description: Derivatives investments have a measurable ESG impact. This paper proposes
+    a framework for applying ESG screens to portfolios that include derivatives.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/esg-and-derivatives
+  title: ESG and Derivatives
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -56,6 +65,14 @@
   path: https://open.spotify.com/episode/39Yn3Milq6j3VUuFy1WwLC
   title: Bill Gebhardt - Replicating Discretionary Commodity Trading Systematically
     (S7E9)
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-07-01T00:00:00+00:00'
+  description: A few important money and life topics to make you ponder.
+  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
+  path: https://open.spotify.com/episode/5vB0p8GAbq7e4Kuif9VpBX
+  title: I Have A Few Questions
 - author: The Overshoot
   categories: &id003
   - Macro
@@ -76,7 +93,7 @@
   path: https://www.youtube.com/watch?v=SD8WJ7O1Q5M
   title: The Best Beats Ever?
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -210,7 +227,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2024-06-27T00:00:00+00:00'
   description: "Use o cupom MARKETMAKERS15 e garanta 15% OFF na sua primeira compra\
@@ -302,8 +319,7 @@
   path: https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/
   title: "OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3rica"
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id006
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
     of US corporate bond illiquidity, outperforming the conventional standard.
@@ -311,7 +327,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
   title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2024-06-26T00:00:00+00:00'
   description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
     \ em 2024?O epis\xF3dio explora a atual situa\xE7\xE3o desafiadora do mercado\
@@ -365,7 +381,7 @@
   path: https://open.spotify.com/episode/0UqBiwd0rRqrwwJVrAsmpP
   title: 'Mid-Year Outlook: An Unstable Economic Equilibrium'
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2024-06-25T14:04:56+00:00'
   description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
     \ I'll dive into the code and design of an open-source project together with you.\
@@ -678,14 +694,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19062024
   title: "BC - Copom Ata - 263\xAA Reuni\xE3o - 18-19 junho, 2024"
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2024-06-20T00:00:00+00:00'
-  description: In this episode, Alexander discusses her recent work as a consulting
-    expert witness supporting actions against cryptoasset market abuse.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/multimedia/2024/conversations-with-frank-fabozzi-featuring-carol-alexander
-  title: Conversations with Frank Fabozzi, CFA, Featuring Carol Alexander
 - author: Apricitas Economics
   categories: &id010
   - Macro
@@ -696,20 +704,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ac9984-69fa-4008-bcb3-61cf00f7bdac_2886x1843.png
   path: https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing
   title: The Death of NYC Congestion Pricing
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-06-17T00:00:00+00:00'
-  description: "\"Nature is not in a hurry, yet everything is accomplished,\u201D\
-    \ said Chinese philosopher Lao Tzu.Giant sequoias, advanced organisms, towering\
-    \ mountains \u2013 it builds the most jaw-dropping features of the universe. And\
-    \ it does so silently, where growth is almost never visible right now but staggering\
-    \ over long periods of time.It\u2019s quiet compounding, and it\u2019s a wonder\
-    \ to see.I like the idea of quietly compounding your money. Just like in nature,\
-    \ it\u2019s where you\u2019ll find the most impressive results."
-  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
-  path: https://open.spotify.com/episode/2dBfObD7HNQ99fmWd1odp1
-  title: Quiet Compounding
 - author: Outliers
   categories: *id009
   date: '2024-06-11T00:00:00+00:00'
