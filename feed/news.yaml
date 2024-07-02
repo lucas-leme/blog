@@ -1,8 +1,30 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-02T14:04:23+00:00'
+  description: "Em entrevista \xE0 R\xE1dio Sociedade, em Salvador, Lula disse que\
+    \ n\xE3o se pode \"inventar crises\" e afirmou que h\xE1 um ataque especulativo\
+    \ ao real"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/alta-do-dolar-temos-que-fazer-alguma-coisa-mas-nao-posso-falar-para-nao-alertar-meus-adversarios-diz-lula/
+  title: "Alta do d\xF3lar: \u2018Temos que fazer alguma coisa. Mas n\xE3o posso falar\
+    \ para n\xE3o alertar meus advers\xE1rios\u2019, diz Lula"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id001
   - "Not\xEDcias"
   - CFA
   - Reddit
+  date: '2024-07-02T12:41:45+00:00'
+  description: <!-- SC_OFF --><div class="md"><p>I did it, I did it, I did it. I FUCKING
+    DID IT BITCH. After failing two times, I finally did it. Fuck the failure. I persisted.
+    I won. AMA!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/CaptainMcTavish141">
+    /u/CaptainMcTavish141 </a> <br /> <span><a href="https://www.reddit.com/r/CFA/comments/1dtkvo9/level_2/">[link]</a></span>
+    &#32; <span><a href="https://www.reddit.com/r/CFA/comments/1dtkvo9/level_2/">[comments]</a></span>
+  image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
+  path: https://www.reddit.com/r/CFA/comments/1dtkvo9/level_2/
+  title: Level 2
+- author: "\u201CSuperior returns guaranteed\""
+  categories: *id001
   date: '2024-07-02T12:35:38+00:00'
   description: <table> <tr><td> <a href="https://www.reddit.com/r/CFA/comments/1dtkre4/what_do_we_do_when_fall_off_the_horse_derrick_we/">
     <img alt="&quot;What do we do when fall off the horse, Derrick?... We get back
@@ -21,26 +43,8 @@
   title: '"What do we do when fall off the horse, Derrick?... We get back on the horse."
     "I don''t know, Maury. I''m not a gymnast." Failed L2 last August. Passed this
     May. If you don''t pass the first time, get back on that horse!'
-- author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
-  date: '2024-07-02T11:01:51+00:00'
-  description: <!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
-    best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
-    <p><strong>As is tradition, we'll be removing all other related posts (I passed,
-    I failed, How close was I?) because this is the designated place to celebrate
-    or commiserate.</strong></p> <h1>Results Survey</h1> <p>Please consider participating
-    in our Level 2 results survey <a href="https://forms.gle/ohH8NkdnGDmpWZ3t6">here</a>
-    once results are released. I've updated it once again to hopefully work out some
-    kinks. Your responses could help other candidates prepare for the exam in the
-    future.</p> <p><a href="https://discord.gg/Zm9KEF3">Join us on Discord here.</a></p>
-    </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/third_najarian">
-    /u/third_najarian </a> <br /> <span><a href="https://www.reddit.com/r/CFA/comments/1dtj2oc/official_may_2024_level_ii_results_thread/">[link]</a></span>
-    &#32; <span><a href="https://www.reddit.com/r/CFA/comments/1dtj2oc/official_may_2024_level_ii_results_thread/">[comments]</a></span>
-  image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
-  path: https://www.reddit.com/r/CFA/comments/1dtj2oc/official_may_2024_level_ii_results_thread/
-  title: Official May 2024 Level II Results Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   date: '2024-07-02T10:50:00+00:00'
   description: "Eles s\xE3o a forma mais segura de manter uma reserva em moeda forte.\
@@ -49,8 +53,7 @@
   path: https://investnews.com.br/financas/como-investir-em-titulos-publicos-americanos/
   title: "Poupan\xE7a em d\xF3lar: como investir em t\xEDtulos p\xFAblicos dos EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-01T22:37:30+00:00'
   description: "Interven\xE7\xE3o do Banco Central? Alta nos juros? N\xE3o. A bola\
     \ est\xE1 nas m\xE3os de Lula"
@@ -58,18 +61,10 @@
   path: https://investnews.com.br/economia/o-que-fazer-para-baixar-o-dolar/
   title: "O que fazer para baixar o d\xF3lar?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
+  categories: *id003
   date: '2024-07-01T22:16:21+00:00'
   description: "Aposta de fundos \"brasile\xF1os\" nos juros mexicanos representa\
     \ movimento mais recente"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/gestoras-brasileiras-puxam-mercados-pela-america-latina/
   title: "Gestoras brasileiras alimentam volatilidade em mercados da Am\xE9rica Latina"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2024-07-01T21:41:19+00:00'
-  description: "C&#038;A, Renner, Gol e Azul est\xE3o entre as empresas do Ibovespa\
-    \ que mais sofrem com o c\xE2mbio, diz relat\xF3rio do BTG Pactual"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/quem-mais-perde-e-quem-mais-ganha-com-a-alta-do-dolar/
-  title: "Quem mais perde, e quem mais ganha, com a alta do d\xF3lar"
