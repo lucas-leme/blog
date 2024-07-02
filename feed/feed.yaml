@@ -1,3 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-07-02T13:21:34+00:00'
+  description: "No matter how sophisticated and expensive a firm's AI tools are, it\
+    \ should not forget that the principle \u201Cgarbage in, garbage out\u201D (GIGO)\
+    \ applies to the entire investment management process."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/02/are-your-data-governance-and-management-practices-keeping-pace-with-the-ai-boom/
+  title: Are Your Data Governance and Management Practices Keeping Pace with the AI
+    Boom?
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -158,8 +169,7 @@
   path: https://www.youtube.com/watch?v=6jgu9tmbrrE
   title: FINALLY, I Understand the Difference Between the Stack and the Heap
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2024-06-28T11:33:45+00:00'
   description: "Argentina\u2019s debt restructuring tests the theoretical limits of\
     \ chaos theory. Gregory Makoff's feat is to build his narrative as a thriller\
@@ -167,14 +177,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/06/28/book-review-default/
   title: 'Book Review: Default'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2024-06-28T11:11:15+00:00'
-  description: Proxy data and estimates are likely to play an important role in plugging
-    disclosure gaps in financial institutions' Scope 3 emissions.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/06/28/scope-3-emissions-spotlight-on-financial-institutions/
-  title: 'Conundrum Cubed: Scope 3 for Financials'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
