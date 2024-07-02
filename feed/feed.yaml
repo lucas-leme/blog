@@ -1,6 +1,20 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id001
   - Economia
+  date: '2024-07-01T21:24:51+00:00'
+  description: "<p>Num Pa\xEDs em que muitos pol\xEDticos falam em tirar gente da\
+    \ pobreza e eliminar a mis\xE9ria, \xE9 dif\xEDcil pensar em algo que tenha feito\
+    \ mais pelos vulner\xE1veis do Brasil do que o Plano Real, que hoje completa 30\
+    \ anos. Enquanto os planos de estabiliza\xE7\xE3o anteriores usaram a for\xE7\
+    a bruta do congelamento e cometeram arbitrariedades ensandecidas [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/plano-real-o-brasil-que-deu-certo/\"\
+    \ rel=\"nofollow\">Plano Real, o Brasil que deu certo</a> appeared first on <a\
+    \ href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2024/07/moeda.png
+  path: https://braziljournal.com/plano-real-o-brasil-que-deu-certo/
+  title: Plano Real, o Brasil que deu certo
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2024-07-01T20:16:24+00:00'
   description: "<p>A cada jovem que n\xE3o conclui o ensino m\xE9dio, o Pa\xEDs perde\
     \ R$ 395 mil por ano.\_ O valor quantifica um fato bem documentado na literatura:\
@@ -43,6 +57,21 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/esg-and-derivatives
   title: ESG and Derivatives
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-07-01T00:00:00+00:00'
+  description: "The Supreme Court dealt a major blow to prosecutors hoping to convict\
+    \ Donald Trump on charges he sought to subvert the 2020 election. The court ruled\
+    \ 6-3 that former presidents enjoy sweeping immunity for their acts while in office.\
+    \ WSJ's Jess Bravin discusses what this ruling could mean for the future of American\
+    \ democracy.\_  Further Reading: -Supreme Court Deals Blow to Trump\u2019s Prosecution,\
+    \ Ruling He Has Broad Immunity\_  Further Listening:  -Will the Supreme Court\
+    \ Kick Trump off the Ballot?\_ -The Origin Story of Trump's Guilty Verdict\_ \
+    \ Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2BFzS8wkbXCSpk3QtMenQe
+  title: Trump Has Broad Immunity
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -74,7 +103,7 @@
   path: https://open.spotify.com/episode/5vB0p8GAbq7e4Kuif9VpBX
   title: I Have A Few Questions
 - author: The Overshoot
-  categories: &id003
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-06-29T20:45:42+00:00'
@@ -84,7 +113,7 @@
   path: https://theovershoot.co/p/are-consumers-retrenching
   title: Are Consumers Retrenching?
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-06-28T19:31:56+00:00'
@@ -129,7 +158,7 @@
   path: https://www.youtube.com/watch?v=6jgu9tmbrrE
   title: FINALLY, I Understand the Difference Between the Stack and the Heap
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-06-28T11:33:45+00:00'
   description: "Argentina\u2019s debt restructuring tests the theoretical limits of\
@@ -139,7 +168,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/06/28/book-review-default/
   title: 'Book Review: Default'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-06-28T11:11:15+00:00'
   description: Proxy data and estimates are likely to play an important role in plugging
     disclosure gaps in financial institutions' Scope 3 emissions.
@@ -161,8 +190,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/28062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 28/06/2024"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-06-28T00:00:00+00:00'
   description: "Alice Waters helped the farm-to-table movement go mainstream in the\
     \ U.S. through her restaurant Chez Panisse. In the decades since she has kept\
@@ -176,7 +204,7 @@
   path: https://open.spotify.com/episode/2AUnKf8mvLQMBvMerdcyPH
   title: Farm-to-Table Pioneer on Why We Still Need Better Food
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id004
   date: '2024-06-27T15:04:20+00:00'
   description: 'The dope tech hidden at a golf tournament is actually incredible.
 
@@ -201,7 +229,7 @@
   path: https://www.youtube.com/watch?v=MV1qaFv4VUg
   title: Golf Tech is Hidden in Plain Sight!
 - author: The Overshoot
-  categories: *id003
+  categories: *id005
   date: '2024-06-27T01:20:55+00:00'
   description: The U.S. Department of Justice is charging some creative intermediaries
     for figuring out how to match drug dealers who want to launder dirty money with
@@ -263,22 +291,6 @@
   path: https://open.spotify.com/episode/2Zr1L7VZdIiAy3I97JVwvy
   title: "#107 | Como ENCONTRAR \xF3timos neg\xF3cios que ningu\xE9m est\xE1 de olho\
     \ (ainda)"
-- author: The Journal.
-  categories: *id004
-  date: '2024-06-27T00:00:00+00:00'
-  description: "Tonight, two presidents, one current and one former, are set to debate\
-    \ live on CNN. The stakes are high for the candidates and for the network that\u2019\
-    s been struggling to win viewers. WSJ\u2019s Isabella Simonetti reports on how\
-    \ CNN is remaking the debate, and Annie Linskey analyzes what the format change\
-    \ could mean for the candidates.  Further Reading:  - Presidential Debate Carries\
-    \ Great Opportunity\u2014and Risk\u2014for CNN\_ - Biden-Trump Debate Takes Shape\_\
-    \ - We Rewatched the 2020 Trump-Biden Debates. Here\u2019s What We Learned.\_\
-    \  Further Listening: - The Downfall of CNN\u2019s CEO\_ - Behind Closed Doors,\
-    \ Biden\u2019s Age is Showing\_ - The Origin Story of Trump\u2019s Guilty Verdict\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/51tqYLFlHVjs9MXHAOx7ho
-  title: "All Eyes on Biden, Trump \u2013 and CNN"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -303,21 +315,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/4KO76xSTDQQ0iC0zFQ6AtL
   title: 'Eye of the beholder: the opaque world of the art market'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-06-26T22:49:58+00:00'
-  description: "<p>H\xE1 v\xE1rias fontes para a forte piora no ambiente dos mercados\
-    \ financeiros, com causas externas e dom\xE9sticas. Incertezas sobre a gest\xE3\
-    o monet\xE1ria respondem por uma parte; o \u201Cracha\u201D do pen\xFAltimo Copom\
-    \ antecipou a quest\xE3o de como ser\xE1 a condu\xE7\xE3o da pol\xEDtica monet\xE1\
-    ria com a troca do presidente da autarquia.\_ Nosso azar foi que tudo isso [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3\
-    rica</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-acertamos-na-meta-agora-e-cuidar-da-retorica/
-  title: "OPINI\xC3O. Acertamos na meta; agora \xE9 cuidar da ret\xF3rica"
 - author: CFA Institute Research and Policy Center
   categories: *id006
   date: '2024-06-26T00:00:00+00:00'
