@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-03T12:54:57+00:00'
+  description: "Os investidores t\xEAm comprado notas com vencimento mais curto e\
+    \ vendido notas de prazo mais longo depois que Trump\_se saiu melhor\_do que Joe\
+    \ Biden no primeiro debate"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/mercado-eleva-aposta-em-yields-altos-com-possivel-volta-de-trump/
+  title: "Mercado eleva aposta em yields altos com poss\xEDvel volta de Trump"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,7 +28,7 @@
   path: https://investnews.com.br/economia/dolar-desacelera-e-encerra-abaixo-dos-r-570/
   title: "D\xF3lar desacelera e encerra abaixo dos R$ 5,70"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -51,8 +61,7 @@
   path: https://www.reddit.com/r/CFA/comments/1dtwvsc/for_those_who_are_struggling_getting_through/
   title: For those who are struggling getting through these exams
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-02T20:28:45+00:00'
   description: "Valor de mercado das empresas do Ibovespa em d\xF3lar caiu 14,11%\
     \ neste ano, para US$ 663 bilh\xF5es"
@@ -60,7 +69,7 @@
   path: https://investnews.com.br/financas/a-incrivel-historia-do-pais-que-encolheu/
   title: "A incr\xEDvel hist\xF3ria do pa\xEDs que encolheu"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2024-07-02T11:01:51+00:00'
   description: '<!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
     best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
@@ -79,11 +88,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dtj2oc/official_may_2024_level_ii_results_thread/
   title: Official May 2024 Level II Results Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2024-07-02T10:50:00+00:00'
-  description: "Essa \xE9 a forma mais segura de manter uma reserva em moeda forte.\
-    \ Veja como aproveitar a onda de juros altos no \"tesouro direto\" deles."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/como-investir-em-titulos-publicos-americanos/
-  title: "Como investir em t\xEDtulos p\xFAblicos americanos"
