@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-07-02T13:21:34+00:00'
   description: "No matter how sophisticated and expensive a firm's AI tools are, it\
@@ -29,6 +29,50 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/on-the-distributional-effects-of-inflation-and-inflation-stabilization/
   title: On the Distributional Effects of Inflation and Inflation Stabilization
+- author: Market Makers
+  categories: &id006
+  - Podcasts
+  date: '2024-07-02T00:00:00+00:00'
+  description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
+    \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersNo\
+    \ epis\xF3dio 108 do Market Makers, vamos receber Zeina Latif e Stephan Kautz\
+    \ para mergulhar nas complexidades e incertezas que cercam o futuro da economia\
+    \ brasileira. Apesar dos fundamentos s\xF3lidos da economia, como infla\xE7\xE3\
+    o e contas externas positivas, alguns eventos recentes mudaram o panorama. A preocupa\xE7\
+    \xE3o com o aumento dos gastos p\xFAblicos e a sustentabilidade fiscal a longo\
+    \ prazo aumentaram, colocando em cheque o crescimento futuro do pa\xEDs.Al\xE9\
+    m disso, os recentes coment\xE1rios do presidente Lula sobre a \"especula\xE7\xE3\
+    o\" no c\xE2mbio e suas consequ\xEAncias para o mercado financeiro fez com que\
+    \ o d\xF3lar rompesse a marca dos R$ 5,70, gerando incertezas e press\xE3o sobre\
+    \ o Banco Central. Enquanto isso, o presidente do BC, Campos Neto, rebate as acusa\xE7\
+    \xF5es e enfatiza a necessidade de sair dessa narrativa pol\xEDtica.\_Com tanta\
+    \ coisa acontecendo, a pergunta que fica \xE9: O que esperar para o futuro da\
+    \ economia brasileira nos pr\xF3ximos anos? Temos uma nova crise a caminho? N\xE3\
+    o perca nosso epis\xF3dio ao vivo! Prepare suas perguntas para mandar para nosso\
+    \ convidados ao vivo!Inscreva-se agora e ative as notifica\xE7\xF5es para n\xE3\
+    o perder! GARANTA SUA VAGA NO STOCK PICKING DAY: https://bit.ly/3xxOfdY ENTRE\
+    \ PARA A LISTA DE ESPERA DA COMUNIDADE MARKET MAKERS: https://lp.mmakers.com.br/comunidade-market-makers?xpromo=XE-ME-EMP-MMK-SUBMMK-20240702-YT-EPISODIO108-XConvidados:\
+    \ Zeina Latif (doutora em economia e s\xF3cia da Gibraltar Consulting) e Stephan\
+    \ Kautz (economista-chefe da EQI Asset)Apresentadores: Thiago Salom\xE3o (@_salomoney)\
+    \ e Josu\xE9 Guedes (@josueguedes__)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a52dbbbc6730104428d0e7642
+  path: https://open.spotify.com/episode/2x1fKlaFaK3NRfw5UhyUak
+  title: '#108 | O QUE ESPERAR PARA O FUTURO DA ECONOMIA BRASILEIRA?'
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-07-02T00:00:00+00:00'
+  description: "After a steep increase in migration, the United Kingdom turned to\
+    \ a controversial plan: sending migrants to Rwanda. But the plan has faced years\
+    \ of delays and legal challenges. Max Colchester  explains why the U.K. pushed\
+    \ ahead, and what Rwanda stands to gain.\_  Further Reading:  - Britain\u2019\
+    s Radical Plan to Tackle the Migrant Crisis Turns Into a Cautionary Tale\_  Further\
+    \ Listening:  - Smuggling Migrants Toward the U.S. Is a Booming Business\_ - Texas\
+    \ Took On Border Security. Is It Working?\_ - What the End of Title 42 Means for\
+    \ U.S. Immigration Policy\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3K8jzFm4hjZUBaN9rmIKkS
+  title: Will the U.K. Send Asylum Seekers To Rwanda?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -60,7 +104,7 @@
   title: "\u2018P\xE9 de Meia\u2019 no ensino t\xE9cnico: a tese de doutorado que\
     \ pode virar lei"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-07-01T00:00:00+00:00'
   description: Derivatives investments have a measurable ESG impact. This paper proposes
@@ -69,8 +113,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/esg-and-derivatives
   title: ESG and Derivatives
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-07-01T00:00:00+00:00'
   description: "The Supreme Court dealt a major blow to prosecutors hoping to convict\
     \ Donald Trump on charges he sought to subvert the 2020 election. The court ruled\
@@ -169,7 +212,7 @@
   path: https://www.youtube.com/watch?v=6jgu9tmbrrE
   title: FINALLY, I Understand the Difference Between the Stack and the Heap
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-06-28T11:33:45+00:00'
   description: "Argentina\u2019s debt restructuring tests the theoretical limits of\
     \ chaos theory. Gregory Makoff's feat is to build his narrative as a thriller\
@@ -191,20 +234,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/28062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 28/06/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-06-28T00:00:00+00:00'
-  description: "Alice Waters helped the farm-to-table movement go mainstream in the\
-    \ U.S. through her restaurant Chez Panisse. In the decades since she has kept\
-    \ advocating for locally grown, organic food over the fast food Americans regularly\
-    \ consume. Kate Linebaugh sat down with Waters at The Wall Street Journal\u2019\
-    s Global Food Forum. To watch a video of the conversation, check out the episode\
-    \ on Spotify.Further Listening:\u2013 Could Paris Hilton Create the 'Next Disney?'\u2013\
-    \ Live from Seattle: A Weird Economy + Election Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2AUnKf8mvLQMBvMerdcyPH
-  title: Farm-to-Table Pioneer on Why We Still Need Better Food
 - author: Marques Brownlee
   categories: *id004
   date: '2024-06-27T15:04:20+00:00'
@@ -257,8 +286,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
 - author: Market Makers
-  categories: &id007
-  - Podcasts
+  categories: *id006
   date: '2024-06-27T00:00:00+00:00'
   description: "Use o cupom MARKETMAKERS15 e garanta 15% OFF na sua primeira compra\
     \ no site:\_https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\_\
@@ -318,39 +346,13 @@
   path: https://open.spotify.com/episode/4KO76xSTDQQ0iC0zFQ6AtL
   title: 'Eye of the beholder: the opaque world of the art market'
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
     of US corporate bond illiquidity, outperforming the conventional standard.
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
   title: Predicting Corporate Bond Illiquidity via Machine Learning
-- author: Market Makers
-  categories: *id007
-  date: '2024-06-26T00:00:00+00:00'
-  description: "CORTE EP #104: Como sobreviver ao caos do mercado financeiro brasileiro\
-    \ em 2024?O epis\xF3dio explora a atual situa\xE7\xE3o desafiadora do mercado\
-    \ financeiro brasileiro, destacando como gestores da Faria Lima enfrentam um clima\
-    \ de incertezas e pessimismo. Desde as dificuldades iniciadas em 2021 com a crise\
-    \ do meteoro de Paulo Guedes, a alta dos juros e a infla\xE7\xE3o, at\xE9 as recentes\
-    \ complica\xE7\xF5es pol\xEDticas e econ\xF4micas, o cen\xE1rio permanece desfavor\xE1\
-    vel. A conversa aborda a expectativa de cortes de juros nos Estados Unidos e como\
-    \ isso pode influenciar positivamente o mercado brasileiro.Al\xE9m disso, discute\
-    \ os problemas fiscais, a desancoragem da \xE2ncora monet\xE1ria e as interfer\xEA\
-    ncias nas empresas, bem como as perspectivas otimistas para as companhias brasileiras,\
-    \ que mostram balan\xE7os saud\xE1veis, baixo n\xEDvel de alavancagem e altos\
-    \ dividendos.Voc\xEA acha que o mercado financeiro brasileiro conseguir\xE1 se\
-    \ recuperar em 2024? Deixe sua opini\xE3o nos coment\xE1rios!Se voc\xEA gostou\
-    \ deste conte\xFAdo, n\xE3o esque\xE7a de deixar o like no v\xEDdeo e se inscrever\
-    \ no nosso canal para mais an\xE1lises e insights sobre o mercado financeiro!\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:https://youtube.com/live/tJZvKslfpp0-\
-    \ - - - - - - -O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Market Makers #104\_\
-    Convidados: Fernando Ferreira (Estrategista-chefe na XP Investimentos) e Felipe\
-    \ Miranda (s\xF3cio fundador e estrategista-chefe da Empiricus)Apresentador: Thiago\
-    \ Salom\xE3o (@_salomoney)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a904f14b3c8d5adcc0c16281c
-  path: https://open.spotify.com/episode/6BThc1d88VhBkEwLJe4opf
-  title: 'O MERCADO BRASILEIRO vai SAIR VIVO de 2024? | Corte EP #104'
 - author: Outliers
   categories: &id009
   - Podcasts
