@@ -1,6 +1,14 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2024-07-03T11:13:03+00:00'
+  description: Vanguard's OCIO clients should be wary of the higher-fee active funds
+    and alternative investments that are now open to them.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/03/vanguards-former-ocio-clients-must-stand-their-ground/
+  title: "Vanguard\u2019s Former OCIO Clients Must Stand Their Ground"
+- author: CFA Institute Enterprising Investor
+  categories: *id001
   date: '2024-07-02T13:21:34+00:00'
   description: "No matter how sophisticated and expensive a firm's AI tools are, it\
     \ should not forget that the principle \u201Cgarbage in, garbage out\u201D (GIGO)\
@@ -59,7 +67,7 @@
   path: https://open.spotify.com/episode/2x1fKlaFaK3NRfw5UhyUak
   title: '#108 | O QUE ESPERAR PARA O FUTURO DA ECONOMIA BRASILEIRA?'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-02T00:00:00+00:00'
   description: "After a steep increase in migration, the United Kingdom turned to\
@@ -74,7 +82,7 @@
   path: https://open.spotify.com/episode/3K8jzFm4hjZUBaN9rmIKkS
   title: Will the U.K. Send Asylum Seekers To Rwanda?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-07-01T21:24:51+00:00'
   description: "<p>Num Pa\xEDs em que muitos pol\xEDticos falam em tirar gente da\
@@ -89,7 +97,7 @@
   path: https://braziljournal.com/plano-real-o-brasil-que-deu-certo/
   title: Plano Real, o Brasil que deu certo
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-07-01T20:16:24+00:00'
   description: "<p>A cada jovem que n\xE3o conclui o ensino m\xE9dio, o Pa\xEDs perde\
     \ R$ 395 mil por ano.\_ O valor quantifica um fato bem documentado na literatura:\
@@ -113,7 +121,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/esg-and-derivatives
   title: ESG and Derivatives
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-07-01T00:00:00+00:00'
   description: "The Supreme Court dealt a major blow to prosecutors hoping to convict\
     \ Donald Trump on charges he sought to subvert the 2020 election. The court ruled\
@@ -211,15 +219,6 @@
   image: https://i3.ytimg.com/vi/6jgu9tmbrrE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6jgu9tmbrrE
   title: Developer Explains Difference Between Stack and Heap With Wood
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-06-28T11:33:45+00:00'
-  description: "Argentina\u2019s debt restructuring tests the theoretical limits of\
-    \ chaos theory. Gregory Makoff's feat is to build his narrative as a thriller\
-    \ without losing the detailed facts valued by specialists."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/06/28/book-review-default/
-  title: 'Book Review: Default'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
