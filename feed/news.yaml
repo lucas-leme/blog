@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-04T21:03:05+00:00'
+  description: "Governo identificou R$ 25,9 bilh\xF5es em despesas obrigat\xF3rias\
+    \ que podem ser cortadas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/dolar-volta-a-ficar-abaixo-dos-r-550-ibovespa-fecha-em-alta-com-melhora-do-humor-local/
+  title: "D\xF3lar volta a ficar abaixo dos R$ 5,50; Ibovespa fecha em alta com melhora\
+    \ do humor local"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/portugal-vai-retomar-programa-de-beneficios-fiscais-para-estrangeiros/
   title: "Portugal vai retomar programa de benef\xEDcios fiscais para estrangeiros"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-04T17:02:45+00:00'
   description: "Segundo o deputado Luiz Gast\xE3o, se os fundos fossem taxados, investimentos\
     \ sairiam do pa\xEDs"
@@ -47,14 +56,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1dvb9ng/i_think_people_overestimate_the_difficulty_of/
   title: I think people overestimate the difficulty of level 2 vs level 1.
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-04T15:20:22+00:00'
-  description: "Plano Safra recorde que foi anunciado parece n\xE3o ser o suficiente\
-    \ para angariar apoio de fazendeiros e de um Congresso conservador"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/o-velho-manual-de-lula-falha-em-conquistar-fazendeiros-hostis/
-  title: O velho manual de Lula falha em conquistar o agro
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-07-03T12:54:57+00:00'
