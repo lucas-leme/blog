@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-04T13:47:33+00:00'
+  description: "Qual \xE9 o &#8220;pre\xE7o justo&#8221; de alguma coisa? \xC9 o tanto\
+    \ que as pessoas est\xE3o dispostas a pagar. Se h\xE1 quem d\xEA R$ 100 mil por\
+    \ uma bolsa Birkin, este \xE9 o valor justo de uma bolsa Birkin. Se h\xE1 quem\
+    \ pague quase R$ 5,50 por uma unidade de d\xF3lar, esse \xE9 o pre\xE7o justo\
+    \ [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/pelo-indice-big-mac-valorizacao-do-dolar-no-brasil-ja-e-a-maior-em-20-anos/
+  title: "Pelo \xCDndice Big Mac, valoriza\xE7\xE3o do d\xF3lar no Brasil j\xE1 \xE9\
+    \ a maior em 20 anos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -20,8 +33,7 @@
   path: https://www.reddit.com/r/CFA/comments/1dv660w/imposter_syndrome/
   title: Imposter syndrome
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-04T12:18:15+00:00'
   description: "A UE concluiu que a China subsidia sua ind\xFAstria de ve\xEDculos\
     \ el\xE9tricos a um grau que causa danos econ\xF4micos \xE0s montadoras do bloco"
@@ -29,15 +41,6 @@
   path: https://investnews.com.br/economia/uniao-europeia-impoe-tarifas-provisorias-a-veiculos-eletricos-da-china/
   title: "Uni\xE3o Europeia imp\xF5e tarifas provis\xF3rias a ve\xEDculos el\xE9tricos\
     \ da China"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-04T12:00:34+00:00'
-  description: "O acerto permitir\xE1 \xE0 Oi prestar servi\xE7os com uma autoriza\xE7\
-    \xE3o e n\xE3o mais em regime de concess\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/acordo-entre-oi-anatel-e-governo-e-homologado-gerando-investimentos-de-r-59-bi-no-setor/
-  title: "Acordo entre Oi, Anatel e governo \xE9 homologado gerando investimentos\
-    \ de R$ 5,9 bi no setor"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
