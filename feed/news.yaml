@@ -1,3 +1,22 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-05T11:43:22+00:00'
+  description: "Com a conclus\xE3o, a JHSF passa a deter 60% do Catarina Fashion Outlet,\
+    \ 18% do Shopping Ponta Negra e 11,7% do Shopping Bela Vista"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/jhsf-conclui-parte-de-acordo-com-xp-malls-para-venda-de-fatias-em-shoppings/
+  title: JHSF conclui parte de acordo com XP Malls para venda de fatias em shoppings
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-05T11:41:15+00:00'
+  description: "Esses receb\xEDveis, que somam mais de R$ 30 bilh\xF5es, foram negociados\
+    \ no processo de privatiza\xE7\xE3o da Eletrobras"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-define-regras-para-antecipar-recebiveis-da-eletrobras-para-aliviar-conta-de-luz/
+  title: "Governo define regras para antecipar receb\xEDveis da Eletrobras para aliviar\
+    \ conta de luz"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -13,8 +32,7 @@
   path: https://www.reddit.com/r/CFA/comments/1dvptmk/what_age_is_cfa_most_useful/
   title: What age is CFA most useful?
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-04T21:03:05+00:00'
   description: "Governo identificou R$ 25,9 bilh\xF5es em despesas obrigat\xF3rias\
     \ que podem ser cortadas"
@@ -23,32 +41,13 @@
   title: "D\xF3lar volta a ficar abaixo dos R$ 5,50; Ibovespa fecha em alta com melhora\
     \ do humor local"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-04T19:19:26+00:00'
   description: "Redu\xE7\xE3o de impostos se aplicar\xE1 \xE0 renda do trabalho, e\
     \ n\xE3o se aplica a pens\xF5es, dividendos ou ganhos de capital"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/portugal-vai-retomar-programa-de-beneficios-fiscais-para-estrangeiros/
   title: "Portugal vai retomar programa de benef\xEDcios fiscais para estrangeiros"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-04T17:02:45+00:00'
-  description: "Segundo o deputado Luiz Gast\xE3o, se os fundos fossem taxados, investimentos\
-    \ sairiam do pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/reforma-tributaria-contribuicao-de-fiis-e-fiagros-sera-opcional-para-tranquilizar-o-mercado/
-  title: "Reforma Tribut\xE1ria: contribui\xE7\xE3o de FIIs e Fiagros ser\xE1 opcional\
-    \ para \u2018tranquilizar o mercado\u2019"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-03T12:54:57+00:00'
-  description: "Os investidores t\xEAm comprado notas com vencimento mais curto e\
-    \ vendido notas de prazo mais longo depois que Trump\_se saiu melhor\_do que Joe\
-    \ Biden no primeiro debate"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mercado-eleva-aposta-em-yields-altos-com-possivel-volta-de-trump/
-  title: "Mercado eleva aposta em yields altos com poss\xEDvel volta de Trump"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-02T11:01:51+00:00'
