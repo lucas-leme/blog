@@ -39,6 +39,20 @@
   image: https://i3.ytimg.com/vi/FWacanslfFM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=FWacanslfFM
   title: 'Click: Build Your Own Command Line Interface Tool'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-07-05T00:00:00+00:00'
+  description: "Joe Erlinger, President of McDonald\u2019s USA, sits down with Kate\
+    \ Linebaugh to talk about how the company is trying to keep customers happy despite\
+    \ rising prices and a shift towards healthier eating.  Further Reading:  - The\
+    \ Fast-Food Fight Over the $5 Meal Deal\_ - A Day in the Life of a California\
+    \ Fast-Food Manager Who Makes Up to $174,000\_  Further Listening:  - Farm-to-Table\
+    \ Pioneer on Why We Still Need Better Food\_ - Beyond Meat Loses Its Sizzle\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7yDNW3hkprAu6SEneR6BJ6
+  title: "McDonald\u2019s Wants To Offer Quality And Value. Can It Do Both?"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -115,7 +129,7 @@
   path: https://open.spotify.com/episode/2RPwu94Hly8ETEpa4H6UC3
   title: 'The Bangalore model: Could developing countries get rich by exporting services?'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-07-03T11:13:03+00:00'
   description: Vanguard's OCIO clients should be wary of the higher-fee active funds
@@ -175,8 +189,7 @@
   title: "Por que o JURO AMERICANO \xE9 T\xC3O IMPORTANTE para o mundo? | Corte EP\
     \ #106"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-07-03T00:00:00+00:00'
   description: "Pressure is mounting on President Joe Biden to step back as candidate\
     \ for president. A new WSJ poll shows Biden has fallen six points behind Donald\
@@ -190,7 +203,7 @@
   path: https://open.spotify.com/episode/15e0r4webx14sV9k7agzl8
   title: Will Biden Stay in the Race?
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-07-02T13:21:34+00:00'
   description: "No matter how sophisticated and expensive a firm's AI tools are, it\
     \ should not forget that the principle \u201Cgarbage in, garbage out\u201D (GIGO)\
@@ -199,20 +212,6 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/02/are-your-data-governance-and-management-practices-keeping-pace-with-the-ai-boom/
   title: Are Your Data Governance and Management Practices Keeping Pace with the AI
     Boom?
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-02T00:00:00+00:00'
-  description: "After a steep increase in migration, the United Kingdom turned to\
-    \ a controversial plan: sending migrants to Rwanda. But the plan has faced years\
-    \ of delays and legal challenges. Max Colchester  explains why the U.K. pushed\
-    \ ahead, and what Rwanda stands to gain.\_  Further Reading:  - Britain\u2019\
-    s Radical Plan to Tackle the Migrant Crisis Turns Into a Cautionary Tale\_  Further\
-    \ Listening:  - Smuggling Migrants Toward the U.S. Is a Booming Business\_ - Texas\
-    \ Took On Border Security. Is It Working?\_ - What the End of Title 42 Means for\
-    \ U.S. Immigration Policy\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3K8jzFm4hjZUBaN9rmIKkS
-  title: A Troubled Plan to Ship Migrants to Rwanda
 - author: CFA Institute Research and Policy Center
   categories: &id008
   - CFA
