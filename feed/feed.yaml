@@ -1,3 +1,44 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-07-05T15:00:12+00:00'
+  description: "In this video, I'll guide you through creating a Command Line Interface\
+    \ (CLI) tool in Python using the Click package. We'll build a simple note-taking\
+    \ tool that can write, read, update, and delete notes. Stick around until the\
+    \ end to discover some hidden features Click offers right out of the box that\
+    \ many people don't know about.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/python_cli\n\
+    \n\U0001F4A1 Get my FREE 7-step guide to help you consistently design great software:\
+    \ https://arjancodes.com/designguide.\n\n\U0001F4E8 The Friday Loop by ArjanCodes\
+    \ Newsletter: https://thefridayloop.com\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
+    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/faoxyu\n\
+    \n\U0001F393 Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\n\
+    The Software Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext\
+    \ Level Python: Become a Python Expert: https://www.arjancodes.com/courses/nlp\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D\
+    \ If you enjoyed this content, give this video a like. If you want to watch more\
+    \ of my upcoming videos, consider subscribing to my channel!\n\nSocial channels:\n\
+    \U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
+    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:31 Story time\n2:45 Creating the project\n4:00 Create\
+    \ the CLI\n4:54 Commands\n6:33 Arguments vs Options\n7:58 Creating the command\n\
+    10:40 Connecting to the Entry point\n12:16 The design of click\n14:19 Continuing\
+    \ the connection\n16:46 Using click context\n18:25 Adding config to our tool\n\
+    20:26 Giving the option to create the config\n22:59 Things you get for free with\
+    \ Click\n24:12 Final Thoughts\n24:52 Outro\n\n#arjancodes #softwaredesign #python\n\
+    \nDISCLAIMER - The links in this description might be affiliate links. If you\
+    \ purchase a product or service through one of those links, I may receive a small\
+    \ commission. There is no additional charge to you. Thanks for supporting my channel\
+    \ so I can continue to provide you with free content each week!"
+  image: https://i3.ytimg.com/vi/FWacanslfFM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=FWacanslfFM
+  title: 'Click: Build Your Own Command Line Interface Tool'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -173,7 +214,7 @@
   path: https://open.spotify.com/episode/3K8jzFm4hjZUBaN9rmIKkS
   title: A Troubled Plan to Ship Migrants to Rwanda
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2024-07-01T00:00:00+00:00'
   description: Derivatives investments have a measurable ESG impact. This paper proposes
@@ -212,7 +253,7 @@
   path: https://open.spotify.com/episode/5vB0p8GAbq7e4Kuif9VpBX
   title: I Have A Few Questions
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-06-29T20:45:42+00:00'
@@ -222,7 +263,7 @@
   path: https://theovershoot.co/p/are-consumers-retrenching
   title: Are Consumers Retrenching?
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-06-28T19:31:56+00:00'
@@ -231,10 +272,7 @@
   path: https://www.youtube.com/watch?v=SD8WJ7O1Q5M
   title: The Best Beats Ever?
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2024-06-28T15:00:05+00:00'
   description: "In this video, I\u2019m exploring memory models in software, focusing\
     \ on the stack and the heap. I'll use wooden blocks to visually explain these\
@@ -265,7 +303,7 @@
     \ can continue to provide you with free content each week!"
   image: https://i3.ytimg.com/vi/6jgu9tmbrrE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6jgu9tmbrrE
-  title: Developer Explains Difference Between Stack and Heap With Wood
+  title: FINALLY, I Understand the Difference Between the Stack and the Heap
 - author: RSS - Feeds do BC
   categories:
   - Bacen
@@ -281,7 +319,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/28062024
   title: "BC - Focus - Relat\xF3rio de Mercado - 28/06/2024"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-06-27T15:04:20+00:00'
   description: 'The dope tech hidden at a golf tournament is actually incredible.
 
@@ -306,7 +344,7 @@
   path: https://www.youtube.com/watch?v=MV1qaFv4VUg
   title: Golf Tech is Hidden in Plain Sight!
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2024-06-27T01:20:55+00:00'
   description: The U.S. Department of Justice is charging some creative intermediaries
     for figuring out how to match drug dealers who want to launder dirty money with
@@ -332,7 +370,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2024-06-26T00:00:00+00:00'
   description: This study finds that machine-learning techniques can improve estimations
     of US corporate bond illiquidity, outperforming the conventional standard.
@@ -367,17 +405,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0UqBiwd0rRqrwwJVrAsmpP
   title: 'Mid-Year Outlook: An Unstable Economic Equilibrium'
-- author: ArjanCodes
-  categories: *id008
-  date: '2024-06-25T14:04:56+00:00'
-  description: "This is a new series called \u201CUnder the Hood.\" In this live stream,\
-    \ I'll dive into the code and design of an open-source project together with you.\
-    \ This is going to be completely unscripted, so you'll see my real-time reactions\
-    \ to the code and how it\u2019s been designed. \n\nIn this episode, I looked at\
-    \ the Faker package: https://github.com/joke2k/faker."
-  image: https://i4.ytimg.com/vi/c-TWPdL9_X4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=c-TWPdL9_X4
-  title: Under the Hood | Faker
 - author: Atas do Copom
   categories:
   - Bacen
