@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2024-07-08T20:50:55+00:00'
+  description: Asset classes such as commodities have historically had notable diversification
+    benefits for longer-term investors who are concerned with inflation.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/08/commodities-for-the-long-run/
+  title: Commodities for the Long Run?
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -30,6 +39,21 @@
   image: https://i4.ytimg.com/vi/_q45HmRIM08/hqdefault.jpg
   path: https://www.youtube.com/watch?v=_q45HmRIM08
   title: 'CMF Phone 1: Fun Modular Budget Phone!'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-07-08T00:00:00+00:00'
+  description: "After high-profile collapses and government crackdowns, Coinbase CEO\
+    \ Brian Armstrong is one of the last big digital-asset founders standing. He speaks\
+    \ with Ryan Knutson about taking up the mantle, clashes with the SEC and the future\
+    \ of crypto.  Further Listening:  - The Trial of Crypto\u2019s Golden Boy\_ -\
+    \ The Fall of (Another) Crypto King\_  Further Reading and Watching: - Who Is\
+    \ Brian Armstrong? Coinbase CEO Is Taking On the SEC\_ - Coinbase CEO Says He\u2019\
+    ll Challenge the SEC for \u2018Clarity\u2019 on Crypto\_   Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/4h1rV53BqcuNapHzFWFFRs
+  title: "Coinbase\u2019s CEO on the Future of Crypto"
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -86,8 +110,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/05072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 05/07/2024"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-07-05T00:00:00+00:00'
   description: "Joe Erlinger, President of McDonald\u2019s USA, sits down with Kate\
     \ Linebaugh to talk about how the company is trying to keep customers happy despite\
@@ -100,7 +123,7 @@
   path: https://open.spotify.com/episode/7yDNW3hkprAu6SEneR6BJ6
   title: "McDonald\u2019s Wants To Offer Quality And Value. Can It Do Both?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-07-04T13:37:10+00:00'
   description: "<p>A reforma tribut\xE1ria demorou mais de meio s\xE9culo para acontecer.\
@@ -115,7 +138,7 @@
   path: https://braziljournal.com/editorial-por-que-a-pressa-arthur/
   title: 'EDITORIAL: Por que a pressa, Arthur?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-07-04T11:27:02+00:00'
   description: "<p>Tive a honra de servir como diretor do Banco Central do Brasil\
     \ (BCB). Quando tomei posse, os diretores n\xE3o tinham mandato fixo. Portanto,\
@@ -129,7 +152,7 @@
   path: https://braziljournal.com/opiniao-precisamos-avancar-na-modernizacao-do-banco-central/
   title: "OPINI\xC3O. Precisamos avan\xE7ar na moderniza\xE7\xE3o do Banco Central"
 - author: Market Makers
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-07-04T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -175,8 +198,7 @@
   path: https://open.spotify.com/episode/2RPwu94Hly8ETEpa4H6UC3
   title: 'The Bangalore model: Could developing countries get rich by exporting services?'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2024-07-03T11:13:03+00:00'
   description: Vanguard's OCIO clients should be wary of the higher-fee active funds
     and alternative investments that are now open to them.
@@ -204,7 +226,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/on-the-distributional-consequences-of-responding-aggressively-to-inflation/
   title: On the Distributional Consequences of Responding Aggressively to Inflation
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2024-07-03T00:00:00+00:00'
   description: "CORTE EP #106: A taxa de juros americana vai despencar ou permanecer\
     \ elevada at\xE9 o final do ano?O v\xEDdeo discute as oscila\xE7\xF5es na pol\xED\
@@ -234,30 +256,6 @@
   path: https://open.spotify.com/episode/3BeNSFJ2F4mJBf6nWueqSr
   title: "Por que o JURO AMERICANO \xE9 T\xC3O IMPORTANTE para o mundo? | Corte EP\
     \ #106"
-- author: The Journal.
-  categories: *id003
-  date: '2024-07-03T00:00:00+00:00'
-  description: "Pressure is mounting on President Joe Biden to step back as candidate\
-    \ for president. A new WSJ poll shows Biden has fallen six points behind Donald\
-    \ Trump and that  80% of respondents said they worry about Biden\u2019s age. WSJ's\
-    \ Annie Linskey explores the rising panic inside the party, and how Biden\u2019\
-    s tight inner circle is urging him to stay the course.\_  Further Listening: \
-    \ - Behind Closed Doors, Biden's Age is Showing\_  Further Reading: - Tight Inner\
-    \ Circle Urges Biden to Press On\_ - Behind Closed Doors, Biden Shows Signs of\
-    \ Slipping\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/15e0r4webx14sV9k7agzl8
-  title: Will Biden Stay in the Race?
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-02T13:21:34+00:00'
-  description: "No matter how sophisticated and expensive a firm's AI tools are, it\
-    \ should not forget that the principle \u201Cgarbage in, garbage out\u201D (GIGO)\
-    \ applies to the entire investment management process."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/02/are-your-data-governance-and-management-practices-keeping-pace-with-the-ai-boom/
-  title: Are Your Data Governance and Management Practices Keeping Pace with the AI
-    Boom?
 - author: CFA Institute Research and Policy Center
   categories: &id008
   - CFA
