@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-09T16:37:30+00:00'
+  description: "Senador diz ser favor\xE1vel \xE0 proposta, mas sugeriu maior amadurecimento\
+    \ do texto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/pacheco-defende-debate-mais-aprofundado-sobre-autonomia-financeira-do-bc/
+  title: Pacheco defende debate mais aprofundado  sobre autonomia financeira do BC
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,8 +48,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-08T19:56:20+00:00'
   description: "Principal produto de exporta\xE7\xE3o do pa\xEDs, gr\xE3o se favorece\
     \ quando a moeda americana est\xE1 mais valorizada frente ao real"
@@ -56,15 +64,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/acao-da-zamp-desaba-9-apos-proposta-de-aumento-de-capital/
   title: "A\xE7\xE3o da Zamp desaba 9% ap\xF3s proposta de aumento de capital"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-08T19:02:00+00:00'
-  description: "A despeito da press\xE3o dos grandes doadores, vis\xE3o em Washington\
-    \ \xE9 de que pr\xF3ximos dias ser\xE3o decisivos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/dona-do-cheque-wall-street-assiste-imovel-a-plano-de-biden-de-seguir-na-corrida-eleitoral/
-  title: Doadores de Wall Street chegam ao limite no plano de demover Biden da corrida
-    eleitoral
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-07-08T10:50:00+00:00'
