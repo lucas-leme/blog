@@ -1,5 +1,15 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-07-10T11:17:11+00:00'
+  description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
+    \ the Senate Banking Committee this week fresh in mind, it is an ideal time to\
+    \ consider the drivers of r*."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
+  title: In Search of the Elusive Neutral Interest Rate
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-07-09T22:28:49+00:00'
   description: "<p>Faltando horas para a vota\xE7\xE3o da regulamenta\xE7\xE3o da\
@@ -14,7 +24,7 @@
   path: https://braziljournal.com/seis-setores-suando-frio-com-a-reforma-tributaria/
   title: "Seis setores suando frio com a reforma tribut\xE1ria"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-09T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -38,7 +48,7 @@
   title: "#110 | Haddad promete corte de gastos, d\xF3lar cai e bolsa reage: o pior\
     \ j\xE1 passou?"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-07-09T00:00:00+00:00'
   description: "In a stunning concession, Boeing agreed Sunday to plead guilty to\
@@ -55,8 +65,7 @@
   path: https://open.spotify.com/episode/3PlT39LbyzSTTg6Xyww1Eq
   title: Boeing Agrees to Felony Plea. Now Its Future Is Up in the Air.
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-07-08T20:50:55+00:00'
   description: Asset classes such as commodities have historically had notable diversification
     benefits for longer-term investors who are concerned with inflation.
@@ -98,7 +107,7 @@
   path: https://www.youtube.com/watch?v=_q45HmRIM08
   title: 'CMF Phone 1: Fun Modular Budget Phone!'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-07-08T00:00:00+00:00'
   description: "After high-profile collapses and government crackdowns, Coinbase CEO\
     \ Brian Armstrong is one of the last big digital-asset founders standing. He speaks\
@@ -167,7 +176,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/05072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 05/07/2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-07-04T13:37:10+00:00'
   description: "<p>A reforma tribut\xE1ria demorou mais de meio s\xE9culo para acontecer.\
     \ Agora, querem regulament\xE1-la em duas semanas. A tramita\xE7\xE3o do projeto\
@@ -181,7 +190,7 @@
   path: https://braziljournal.com/editorial-por-que-a-pressa-arthur/
   title: 'EDITORIAL: Por que a pressa, Arthur?'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-07-04T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersVamos\
@@ -225,14 +234,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/2RPwu94Hly8ETEpa4H6UC3
   title: 'The Bangalore model: Could developing countries get rich by exporting services?'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-03T11:13:03+00:00'
-  description: Vanguard's OCIO clients should be wary of the higher-fee active funds
-    and alternative investments that are now open to them.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/03/vanguards-former-ocio-clients-must-stand-their-ground/
-  title: "Vanguard\u2019s Former OCIO Clients Must Stand Their Ground"
 - author: Liberty Street Economics
   categories:
   - Macro
