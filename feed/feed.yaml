@@ -1,5 +1,22 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-07-10T20:59:27+00:00'
+  description: "<p>Hoje, \u201Ca Uni\xE3o finge que recebe, e os estados fingem que\
+    \ pagam,\u201D disse o presidente do Senado, Rodrigo Pacheco, ao apresentar o\
+    \ Projeto de Lei para a renegocia\xE7\xE3o das d\xEDvidas estaduais. Na verdade,\
+    \ alguns poucos estados hoje n\xE3o pagam nada \u2013 e o PL de Pacheco, que finge\
+    \ resolver os problemas, trar\xE1 novas complica\xE7\xF5es.\_ \xC9 [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/assim-nao-pacheco-pl-e-presente-para-governadores-e-um-onus-para-o-pais/\"\
+    \ rel=\"nofollow\">\u201CAssim n\xE3o, Pacheco!\u201D\_PL \xE9 presente para governadores\
+    \ \u2013 e um \xF4nus para o Pa\xEDs</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/assim-nao-pacheco-pl-e-presente-para-governadores-e-um-onus-para-o-pais/
+  title: "\u201CAssim n\xE3o, Pacheco!\u201D\_PL \xE9 presente para governadores \u2013\
+    \ e um \xF4nus para o Pa\xEDs"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-07-10T13:00:48+00:00'
@@ -50,7 +67,7 @@
   path: https://www.youtube.com/watch?v=zijUjJdegI8
   title: Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-07-10T11:17:11+00:00'
   description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
@@ -60,7 +77,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
   title: In Search of the Elusive Neutral Interest Rate
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-07-10T00:00:00+00:00'
   description: "CORTE EP #108: Ser\xE1 que a pol\xEDtica econ\xF4mica atual vai levar\
@@ -87,8 +104,7 @@
   path: https://open.spotify.com/episode/7uss5WI3gpgY44Zg5KiDOr
   title: "ECONOMIA BRASILEIRA \xC0 BEIRA DO PRECIP\xCDCIO? | Corte EP #108"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2024-07-09T22:28:49+00:00'
   description: "<p>Faltando horas para a vota\xE7\xE3o da regulamenta\xE7\xE3o da\
     \ Reforma Tribut\xE1ria, diversos setores tentam se posicionar para evitar o aumento\
@@ -102,7 +118,7 @@
   path: https://braziljournal.com/seis-setores-suando-frio-com-a-reforma-tributaria/
   title: "Seis setores suando frio com a reforma tribut\xE1ria"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-07-09T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -125,7 +141,7 @@
   title: "#110 | Haddad promete corte de gastos, d\xF3lar cai e bolsa reage: o pior\
     \ j\xE1 passou?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-07-09T00:00:00+00:00'
   description: "In a stunning concession, Boeing agreed Sunday to plead guilty to\
@@ -154,7 +170,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
   title: Levering Up to Do Good
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-07-08T20:50:55+00:00'
   description: Asset classes such as commodities have historically had notable diversification
     benefits for longer-term investors who are concerned with inflation.
@@ -162,7 +178,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/08/commodities-for-the-long-run/
   title: Commodities for the Long Run?
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-07-08T15:23:00+00:00'
   description: '"What a knob" was my alternate title"
 
@@ -194,7 +210,7 @@
   path: https://www.youtube.com/watch?v=_q45HmRIM08
   title: 'CMF Phone 1: Fun Modular Budget Phone!'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-07-08T00:00:00+00:00'
   description: "After high-profile collapses and government crackdowns, Coinbase CEO\
     \ Brian Armstrong is one of the last big digital-asset founders standing. He speaks\
@@ -262,20 +278,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/05072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 05/07/2024"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-07-04T13:37:10+00:00'
-  description: "<p>A reforma tribut\xE1ria demorou mais de meio s\xE9culo para acontecer.\
-    \ Agora, querem regulament\xE1-la em duas semanas. A tramita\xE7\xE3o do projeto\
-    \ de lei da regulamenta\xE7\xE3o \xE9 preocupante. J\xE1 se sabia que o Presidente\
-    \ da C\xE2mara daria pouco espa\xE7o para debates para garantir a aprova\xE7\xE3\
-    o c\xE9lere do projeto, mas o atropelo com que o assunto tem sido [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/editorial-por-que-a-pressa-arthur/\"\
-    \ rel=\"nofollow\">EDITORIAL: Por que a pressa, Arthur?</a> appeared first on\
-    \ <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/editorial-por-que-a-pressa-arthur/
-  title: 'EDITORIAL: Por que a pressa, Arthur?'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
