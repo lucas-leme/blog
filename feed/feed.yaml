@@ -1,5 +1,43 @@
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2024-07-10T13:00:48+00:00'
+  description: 'Samsung Unpacked 2024 gave us a lot of gadgets. This is a first look
+    at all of them.
+
+
+    Get a case hardened skin at https://dbrand.com/shop/case-hardened
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 2 New Phones + Galaxy AI
+
+    4:48 Watches and Buds
+
+    7:22 The Ring'
+  image: https://i3.ytimg.com/vi/zijUjJdegI8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=zijUjJdegI8
+  title: Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-07-10T11:17:11+00:00'
   description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
@@ -8,8 +46,35 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
   title: In Search of the Elusive Neutral Interest Rate
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2024-07-10T00:00:00+00:00'
+  description: "CORTE EP #108: Ser\xE1 que a pol\xEDtica econ\xF4mica atual vai levar\
+    \ o Brasil a uma crise?No epis\xF3dio 108 do Market Makers recebemos Zeina Latif\
+    \ e Stephan Kautz e discutimos os sinais preocupantes na economia brasileira.\
+    \ exploramos tamb\xE9m a falta de par\xE2metros claros de pol\xEDtica econ\xF4\
+    mica e como isso gera incertezas no mercado.\_A an\xE1lise aborda as falas contradit\xF3\
+    rias entre ministros, a autonomia do Banco Central, e o impacto das falas do presidente\
+    \ Lula sobre a economia. Relembramos o contexto econ\xF4mico durante o governo\
+    \ Dilma e comparamos com o cen\xE1rio atual, destacando a import\xE2ncia de uma\
+    \ pol\xEDtica econ\xF4mica bem definida.\_A discuss\xE3o inclui a vis\xE3o do\
+    \ mercado sobre a transi\xE7\xE3o no Banco Central e as expectativas em rela\xE7\
+    \xE3o \xE0s futuras decis\xF5es econ\xF4micas do governo.Voc\xEA acha que a falta\
+    \ de clareza na pol\xEDtica econ\xF4mica vai prejudicar ainda mais a economia\
+    \ do Brasil?Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
+    \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersENTRE\
+    \ PARA A LISTA DE ESPERA DA COMUNIDADE MARKET MAKERS: https://lp.mmakers.com.br/comunidade-market-makers?xpromo=XE-ME-EMP-MMK-SUBMMK-20240702-YT-EPISODIO108-X\U0001F4FD\
+    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:https://youtube.com/live/_o-ADfavc-U-\
+    \ - - - - - - -Convidados: Zeina Latif (doutora em economia e s\xF3cia da Gibraltar\
+    \ Consulting) e Stephan Kautz (economista-chefe da EQI Asset)Apresentadores: Thiago\
+    \ Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Become a supporter\
+    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a23dece962e4cb182708a9fe4
+  path: https://open.spotify.com/episode/7uss5WI3gpgY44Zg5KiDOr
+  title: "ECONOMIA BRASILEIRA \xC0 BEIRA DO PRECIP\xCDCIO? | Corte EP #108"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id005
   - Economia
   date: '2024-07-09T22:28:49+00:00'
   description: "<p>Faltando horas para a vota\xE7\xE3o da regulamenta\xE7\xE3o da\
@@ -24,8 +89,7 @@
   path: https://braziljournal.com/seis-setores-suando-frio-com-a-reforma-tributaria/
   title: "Seis setores suando frio com a reforma tribut\xE1ria"
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-07-09T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -48,7 +112,7 @@
   title: "#110 | Haddad promete corte de gastos, d\xF3lar cai e bolsa reage: o pior\
     \ j\xE1 passou?"
 - author: The Journal.
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-07-09T00:00:00+00:00'
   description: "In a stunning concession, Boeing agreed Sunday to plead guilty to\
@@ -65,7 +129,7 @@
   path: https://open.spotify.com/episode/3PlT39LbyzSTTg6Xyww1Eq
   title: Boeing Agrees to Felony Plea. Now Its Future Is Up in the Air.
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-07-08T20:50:55+00:00'
   description: Asset classes such as commodities have historically had notable diversification
     benefits for longer-term investors who are concerned with inflation.
@@ -73,9 +137,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/08/commodities-for-the-long-run/
   title: Commodities for the Long Run?
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2024-07-08T15:23:00+00:00'
   description: '"What a knob" was my alternate title"
 
@@ -107,7 +169,7 @@
   path: https://www.youtube.com/watch?v=_q45HmRIM08
   title: 'CMF Phone 1: Fun Modular Budget Phone!'
 - author: The Journal.
-  categories: *id002
+  categories: *id004
   date: '2024-07-08T00:00:00+00:00'
   description: "After high-profile collapses and government crackdowns, Coinbase CEO\
     \ Brian Armstrong is one of the last big digital-asset founders standing. He speaks\
@@ -176,7 +238,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/05072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 05/07/2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id005
   date: '2024-07-04T13:37:10+00:00'
   description: "<p>A reforma tribut\xE1ria demorou mais de meio s\xE9culo para acontecer.\
     \ Agora, querem regulament\xE1-la em duas semanas. A tramita\xE7\xE3o do projeto\
@@ -189,28 +251,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/editorial-por-que-a-pressa-arthur/
   title: 'EDITORIAL: Por que a pressa, Arthur?'
-- author: Market Makers
-  categories: *id004
-  date: '2024-07-04T00:00:00+00:00'
-  description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
-    \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersVamos\
-    \ receber Christian Faricelli (gestor de a\xE7\xF5es na Absolute Investimentos)\
-    \ no \xFAltimo painel do Stock Picking Day, evento comemorativo de 2 anos do Market\
-    \ Makers em que reunimos os melhores stock pickers do Brasil num evento in\xE9\
-    dito e \xFAnico para descobrir os segredos e estrat\xE9gias de quem sabe escolher\
-    \ as a\xE7\xF5es vencedores da bolsa de valores, para falar sobre como ele escolhe\
-    \ as melhores a\xE7\xF5es e em quais a\xE7\xF5es est\xE1 investindo atualmente.Epis\xF3\
-    dio imperd\xEDvel para quem investidor de a\xE7\xF5es da bolsa brasileira. Prepare\
-    \ suas perguntas para mandar para nosso convidado ao vivo!Inscreva-se agora e\
-    \ ative as notifica\xE7\xF5es para n\xE3o perder!N\xC3O ACOMPANHOU OS OUTROS PAIN\xC9\
-    IS? ASSISTA AQUI: https://bit.ly/3LegfGR ENTRE PARA A LISTA DE ESPERA DA COMUNIDADE\
-    \ MARKET MAKERS: https://lp.mmakers.com.br/comunidade-market-makers?xpromo=XE-ME-EMP-MMK-SUBMMK-20240704-YT-EPISODIO109-X\_\
-    Convidado: Christian Faricelli (gestor de a\xE7\xF5es na Absolute Investimentos)Apresentadores:\
-    \ Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)\_Become a\
-    \ supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8addd056c4dbec9799c61ae363
-  path: https://open.spotify.com/episode/7qJxwM6HChVijtiZH0hDXr
-  title: "#109 | Segredos e estrat\xE9gias de um mestre do Stock Picking no Brasil"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -303,13 +343,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3549df5e-d557-4806-92ae-1a10845cc912_4997x2625.png
   path: https://theovershoot.co/p/are-consumers-retrenching
   title: Are Consumers Retrenching?
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-06-28T19:31:56+00:00'
-  description: Best Beats ever, or too far?
-  image: https://i4.ytimg.com/vi/SD8WJ7O1Q5M/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=SD8WJ7O1Q5M
-  title: The Best Beats Ever?
 - author: ArjanCodes
   categories: *id006
   date: '2024-06-28T15:00:05+00:00'
