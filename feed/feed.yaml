@@ -141,6 +141,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/3PlT39LbyzSTTg6Xyww1Eq
   title: Boeing Agrees to Felony Plea. Now Its Future Is Up in the Air.
+- author: AQR
+  categories: &id011
+  - Quant
+  - Papers
+  date: '2024-07-09T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        July\
+    \ 9, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
+    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
+    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
+  title: Levering Up to Do Good
 - author: CFA Institute Enterprising Investor
   categories: *id002
   date: '2024-07-08T20:50:55+00:00'
@@ -869,9 +881,7 @@
   path: https://www.apricitas.io/p/a-detailed-look-at-bidens-new-china
   title: "A Detailed Look at Biden\u2019s New China Tariffs"
 - author: AQR
-  categories: &id011
-  - Quant
-  - Papers
+  categories: *id011
   date: '2024-04-09T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        April\
     \ 9, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -880,15 +890,3 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/A-3-for-1-Solution-for-Concentrated-Stock
   title: A 3-for-1 Solution for Concentrated Stock
-- author: AQR
-  categories: *id011
-  date: '2024-03-07T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        March\
-    \ 7, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Joseph Liberman</a>\n           \
-    \     <a class=\"cta cta--dark \">Nathan Sosner</a>\n</span>\n               \
-    \     </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated\
-    \ with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Working-Paper/Combining-VPFs-and-TaxAware-Strategies-to-Diversify-LowBasis-Stock
-  title: Combining VPFs and Tax-Aware Strategies to Diversify Low-Basis Stock
