@@ -16,7 +16,7 @@
   title: "\u201CAssim n\xE3o, Pacheco!\u201D\_PL \xE9 presente para governadores \u2013\
     \ e um \xF4nus para o Pa\xEDs"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-07-10T13:00:48+00:00'
@@ -67,7 +67,7 @@
   path: https://www.youtube.com/watch?v=zijUjJdegI8
   title: Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-07-10T11:17:11+00:00'
   description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
@@ -103,6 +103,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8a23dece962e4cb182708a9fe4
   path: https://open.spotify.com/episode/7uss5WI3gpgY44Zg5KiDOr
   title: "ECONOMIA BRASILEIRA \xC0 BEIRA DO PRECIP\xCDCIO? | Corte EP #108"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-07-10T00:00:00+00:00'
+  description: "After his first corruption case ended in a mistrial in 2017, Sen.\
+    \ Bob Menendez had a message for his supporters: \u201CToday is resurrection day.\u201D\
+    \ Now, Menendez is back in a courthouse facing new corruption charges. WSJ\u2019\
+    s Corinne Ramey unpacks the case.  Further Reading: - Menendez Declared His \u2018\
+    Resurrection.\u2019 Then He Fell in Love.\_  Further Listening: - The 'Mystery\
+    \ Man' Tells Us How He Helped Free Rod Blagojevich\_   Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3GgymXVNVMFx0gg5XDeaeo
+  title: 'Gold Bars, Cash and a Mercedes: A U.S. Senator''s Corruption Trial'
 - author: "Economia \u2013 Brazil Journal"
   categories: *id001
   date: '2024-07-09T22:28:49+00:00'
@@ -141,8 +155,7 @@
   title: "#110 | Haddad promete corte de gastos, d\xF3lar cai e bolsa reage: o pior\
     \ j\xE1 passou?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2024-07-09T00:00:00+00:00'
   description: "In a stunning concession, Boeing agreed Sunday to plead guilty to\
     \ misleading air-safety regulators ahead of two deadly 737 MAX crashes in 2018\
@@ -170,7 +183,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
   title: Levering Up to Do Good
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-07-08T20:50:55+00:00'
   description: Asset classes such as commodities have historically had notable diversification
     benefits for longer-term investors who are concerned with inflation.
@@ -178,7 +191,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/08/commodities-for-the-long-run/
   title: Commodities for the Long Run?
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-07-08T15:23:00+00:00'
   description: '"What a knob" was my alternate title"
 
@@ -209,20 +222,6 @@
   image: https://i4.ytimg.com/vi/_q45HmRIM08/hqdefault.jpg
   path: https://www.youtube.com/watch?v=_q45HmRIM08
   title: 'CMF Phone 1: Fun Modular Budget Phone!'
-- author: The Journal.
-  categories: *id005
-  date: '2024-07-08T00:00:00+00:00'
-  description: "After high-profile collapses and government crackdowns, Coinbase CEO\
-    \ Brian Armstrong is one of the last big digital-asset founders standing. He speaks\
-    \ with Ryan Knutson about taking up the mantle, clashes with the SEC and the future\
-    \ of crypto.  Further Listening:  - The Trial of Crypto\u2019s Golden Boy\_ -\
-    \ The Fall of (Another) Crypto King\_  Further Reading and Watching: - Who Is\
-    \ Brian Armstrong? Coinbase CEO Is Taking On the SEC\_ - Coinbase CEO Says He\u2019\
-    ll Challenge the SEC for \u2018Clarity\u2019 on Crypto\_  Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4h1rV53BqcuNapHzFWFFRs
-  title: "Coinbase\u2019s CEO on the Future of Crypto"
 - author: ArjanCodes
   categories: &id006
   - Tech
