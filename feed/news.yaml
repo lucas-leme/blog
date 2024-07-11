@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-11T20:55:48+00:00'
+  description: "Dados de infla\xE7\xE3o nos Estados Unidos  refor\xE7arem as apostas\
+    \ de um corte na taxa de juros norte-americana em setembro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ibovespa-sobe-com-perspectiva-sobre-juro-nos-eua-e-alcanca-maior-serie-de-altas-desde-2018/
+  title: "Ibovespa sobe com perspectiva sobre juro nos EUA e alcan\xE7a maior s\xE9\
+    rie de altas desde 2018"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "Col\xF4mbia olha para Brasil com medo de indica\xE7\xF5es de Gustavo Petro\
     \ no BC"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-11T11:52:54+00:00'
   description: "Institui\xE7\xF5es financeiras poder\xE3o tomar a linha e repass\xE1\
     -las aos investidores em complemento a opera\xE7\xF5es de mercado de capitais\
@@ -28,14 +37,6 @@
   path: https://investnews.com.br/financas/tesouro-lanca-edital-para-leilao-de-linha-de-credito-destinada-a-impulsionar-projetos-verdes/
   title: "Tesouro lan\xE7a edital para leil\xE3o de linha de cr\xE9dito destinada\
     \ a impulsionar projetos verdes"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-11T11:34:12+00:00'
-  description: "Oferta p\xFAblica de aquisi\xE7\xE3o visa 902,2 milh\xF5es de a\xE7\
-    \xF5es pelo pre\xE7o unit\xE1rio de R$ 5,60"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/cielo-lanca-opa-e-tem-leilao-agendado-para-14-de-agosto/
-  title: "Cielo marca leil\xE3o de fechamento de capital para 14 de agosto"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
