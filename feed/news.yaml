@@ -1,6 +1,24 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-12T20:58:56+00:00'
+  description: "O Rio Grande do Sul det\xE9m uma fatia de 6,8% da ind\xFAstria nacional\
+    \ e responde por 4,58% de todo o volume de servi\xE7os prestados no pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/enchentes-derrubaram-a-industria-e-turismo-do-rs-varejo-cresceu-com-doacoes/
+  title: "Enchentes derrubaram a ind\xFAstria e turismo do RS; varejo cresceu com\
+    \ doa\xE7\xF5es"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-07-12T20:49:20+00:00'
+  description: "Na semana, o principal \xEDndice acion\xE1rio da B3 avan\xE7ou 2,08%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ibovespa-crava-10a-alta-seguida-com-aposta-sobre-corte-de-juro-nos-eua-dolar-recua/
+  title: "Ibovespa crava 10\xAA alta seguida com aposta sobre corte de juro nos EUA;\
+    \ d\xF3lar recua"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-07-12T18:16:15+00:00'
   description: "Apesar das taxas de juros mais altas nos EUA, que atra\xEDram fundos\
     \ para ativos em d\xF3lar, mercados emergentes demostraram resili\xEAncia"
@@ -8,17 +26,8 @@
   path: https://investnews.com.br/financas/fluxos-de-capital-de-mercados-emergentes-se-recuperam-para-niveis-de-2018-diz-fmi/
   title: "Fluxos de capital de mercados emergentes se recuperam para n\xEDveis de\
     \ 2018, diz FMI"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-12T13:37:24+00:00'
-  description: "A fixa\xE7\xE3o do pre\xE7o est\xE1 prevista para 18 de julho"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/eletrobras-registra-oferta-de-acoes-da-isa-cteep-podendo-movimentar-r-35-bi/
-  title: "Eletrobras registra oferta de a\xE7\xF5es da ISA Cteep, podendo movimentar\
-    \ R$ 3,5 bi"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-12T12:06:24+00:00'
   description: "A desonera\xE7\xE3o da folha de pagamentos foi institu\xEDda em 2011\
     \ para setores intensivos em m\xE3o de obra"
@@ -26,14 +35,6 @@
   path: https://investnews.com.br/economia/governo-propoe-gatilho-que-eleva-tributo-sobre-lucro-de-empresas-para-compensar-desoneracao/
   title: "Governo prop\xF5e gatilho que eleva tributo sobre lucro de empresas para\
     \ compensar desonera\xE7\xE3o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-12T11:56:15+00:00'
-  description: "O texto, que altera a tributa\xE7\xE3o de itens do dia a dia, agora\
-    \ segue para an\xE1lise do Senado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/os-11-pontos-chaves-da-reforma-tributaria/
-  title: "Os 11 pontos-chave da reforma tribut\xE1ria"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
