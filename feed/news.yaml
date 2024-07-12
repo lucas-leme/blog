@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-07-12T18:16:15+00:00'
+  description: "Apesar das taxas de juros mais altas nos EUA, que atra\xEDram fundos\
+    \ para ativos em d\xF3lar, mercados emergentes demostraram resili\xEAncia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/fluxos-de-capital-de-mercados-emergentes-se-recuperam-para-niveis-de-2018-diz-fmi/
+  title: "Fluxos de capital de mercados emergentes se recuperam para n\xEDveis de\
+    \ 2018, diz FMI"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-07-12T13:37:24+00:00'
   description: "A fixa\xE7\xE3o do pre\xE7o est\xE1 prevista para 18 de julho"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +17,7 @@
   title: "Eletrobras registra oferta de a\xE7\xF5es da ISA Cteep, podendo movimentar\
     \ R$ 3,5 bi"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-12T12:06:24+00:00'
   description: "A desonera\xE7\xE3o da folha de pagamentos foi institu\xEDda em 2011\
@@ -18,7 +27,7 @@
   title: "Governo prop\xF5e gatilho que eleva tributo sobre lucro de empresas para\
     \ compensar desonera\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-12T11:56:15+00:00'
   description: "O texto, que altera a tributa\xE7\xE3o de itens do dia a dia, agora\
     \ segue para an\xE1lise do Senado"
@@ -67,15 +76,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1e188bn/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-11T20:55:48+00:00'
-  description: "Dados de infla\xE7\xE3o nos Estados Unidos  refor\xE7arem as apostas\
-    \ de um corte na taxa de juros norte-americana em setembro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ibovespa-sobe-com-perspectiva-sobre-juro-nos-eua-e-alcanca-maior-serie-de-altas-desde-2018/
-  title: "Ibovespa sobe com perspectiva sobre juro nos EUA e alcan\xE7a maior s\xE9\
-    rie de altas desde 2018"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-02T11:01:51+00:00'
