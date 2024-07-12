@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-12T13:37:24+00:00'
+  description: "A fixa\xE7\xE3o do pre\xE7o est\xE1 prevista para 18 de julho"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/eletrobras-registra-oferta-de-acoes-da-isa-cteep-podendo-movimentar-r-35-bi/
+  title: "Eletrobras registra oferta de a\xE7\xF5es da ISA Cteep, podendo movimentar\
+    \ R$ 3,5 bi"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -59,8 +68,7 @@
   path: https://www.reddit.com/r/CFA/comments/1e188bn/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-11T20:55:48+00:00'
   description: "Dados de infla\xE7\xE3o nos Estados Unidos  refor\xE7arem as apostas\
     \ de um corte na taxa de juros norte-americana em setembro"
@@ -68,16 +76,6 @@
   path: https://investnews.com.br/financas/ibovespa-sobe-com-perspectiva-sobre-juro-nos-eua-e-alcanca-maior-serie-de-altas-desde-2018/
   title: "Ibovespa sobe com perspectiva sobre juro nos EUA e alcan\xE7a maior s\xE9\
     rie de altas desde 2018"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-11T11:52:54+00:00'
-  description: "Institui\xE7\xF5es financeiras poder\xE3o tomar a linha e repass\xE1\
-    -las aos investidores em complemento a opera\xE7\xF5es de mercado de capitais\
-    \ no exterior"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/tesouro-lanca-edital-para-leilao-de-linha-de-credito-destinada-a-impulsionar-projetos-verdes/
-  title: "Tesouro lan\xE7a edital para leil\xE3o de linha de cr\xE9dito destinada\
-    \ a impulsionar projetos verdes"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-02T11:01:51+00:00'
