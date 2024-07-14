@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-07-14T02:36:14+00:00'
+  description: "<p>LONDRES \u2013 Quando cheguei ao Reino Unido, em 2014, deparei-me\
+    \ com um debate infinito sobre a independ\xEAncia da Esc\xF3cia, que ali\xE1s\
+    \ sempre me pareceu in\xF3cuo.\_ No entanto, aprendi nesses 10 anos que, acima\
+    \ de tudo, os ingleses adoram o debate pelo debate, pois acreditam no poder da\
+    \ troca de ideias e de testar hip\xF3teses.\_ Encontrei [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/opiniao-o-que-o-reino-unido-me-ensinou-sobre-politica/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. O que o Reino Unido me ensinou sobre pol\xEDtica</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-que-o-reino-unido-me-ensinou-sobre-politica/
+  title: "OPINI\xC3O. O que o Reino Unido me ensinou sobre pol\xEDtica"
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -73,7 +89,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/the-mysterious-slowdown-in-u-s-manufacturing-productivity/
   title: The Mysterious Slowdown in U.S. Manufacturing Productivity
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-11T00:00:00+00:00'
   description: "Como construir do zero uma das \xE1reas mais importantes de uma gestora\
@@ -177,8 +193,7 @@
   path: https://open.spotify.com/episode/7BOa2aAIJXP3mP1cOPDbja
   title: "Palaver in Paris: will politics derail France\u2019s commercial revival?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2024-07-10T20:59:27+00:00'
   description: "<p>Hoje, \u201Ca Uni\xE3o finge que recebe, e os estados fingem que\
     \ pagam,\u201D disse o presidente do Senado, Rodrigo Pacheco, ao apresentar o\
@@ -255,7 +270,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
   title: In Search of the Elusive Neutral Interest Rate
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-07-10T00:00:00+00:00'
   description: "CORTE EP #108: Ser\xE1 que a pol\xEDtica econ\xF4mica atual vai levar\
     \ o Brasil a uma crise?No epis\xF3dio 108 do Market Makers recebemos Zeina Latif\
@@ -280,20 +295,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a23dece962e4cb182708a9fe4
   path: https://open.spotify.com/episode/7uss5WI3gpgY44Zg5KiDOr
   title: "ECONOMIA BRASILEIRA \xC0 BEIRA DO PRECIP\xCDCIO? | Corte EP #108"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-07-09T22:28:49+00:00'
-  description: "<p>Faltando horas para a vota\xE7\xE3o da regulamenta\xE7\xE3o da\
-    \ Reforma Tribut\xE1ria, diversos setores tentam se posicionar para evitar o aumento\
-    \ brutal na carga tribut\xE1ria que a Reforma trar\xE1.\_ (Em tese, s\xF3 as empresas\
-    \ B2C deveriam se preocupar, enquanto as B2B teriam o aumento neutralizado pela\
-    \ regra da n\xE3o-cumulatividade).\_ O Governo sustenta que a reforma \xE9 neutra,\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/seis-setores-suando-frio-com-a-reforma-tributaria/\"\
-    \ rel=\"nofollow\">Seis setores suando frio com a reforma tribut\xE1ria</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/seis-setores-suando-frio-com-a-reforma-tributaria/
-  title: "Seis setores suando frio com a reforma tribut\xE1ria"
 - author: AQR
   categories: &id011
   - Quant
