@@ -1,3 +1,18 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-07-15T19:39:10+00:00'
+  description: "<p>Desde a crise nos anos finais da ditadura, a produtividade da economia\
+    \ brasileira registra um desempenho inst\xE1vel, alternando per\xEDodos transit\xF3\
+    rios de avan\xE7o com fases de retra\xE7\xE3o. Como resultado, h\xE1 40 anos o\
+    \ Pa\xEDs n\xE3o sai do lugar.\_ Entre os principais setores da economia, s\xF3\
+    \ a agropecu\xE1ria vem obtendo ganhos mais significativos. Entre 1991 e 2022,\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-armadilha-da-baixa-produtividade-como-desmontar/\"\
+    \ rel=\"nofollow\">A armadilha da baixa produtividade: como desmontar</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-armadilha-da-baixa-produtividade-como-desmontar/
+  title: 'A armadilha da baixa produtividade: como desmontar'
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -8,8 +23,7 @@
   path: https://theovershoot.co/p/how-many-benign-inflation-prints
   title: How Many Benign Inflation Prints Are Enough?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2024-07-14T02:36:14+00:00'
   description: "<p>LONDRES \u2013 Quando cheguei ao Reino Unido, em 2014, deparei-me\
     \ com um debate infinito sobre a independ\xEAncia da Esc\xF3cia, que ali\xE1s\
@@ -73,7 +87,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/12072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 12/07/2024"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-07-12T00:00:00+00:00'
   description: "Last fall, nude photos of a 14-year-old student started spreading\
@@ -153,7 +167,7 @@
   path: https://open.spotify.com/episode/1NEqQMbrTXaOqVwo7ptkfM
   title: "#111 | A estrat\xE9gia de baixo risco para lucrar com os juros mais altos"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-07-11T00:00:00+00:00'
   description: "In the late 1990s and early 2000s, Abercrombie & Fitch was the hottest\
     \ teen clothing brand. Kids would flock to their local mall to get the expensive,\
@@ -215,22 +229,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/7BOa2aAIJXP3mP1cOPDbja
   title: "Palaver in Paris: will politics derail France\u2019s commercial revival?"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-07-10T20:59:27+00:00'
-  description: "<p>Hoje, \u201Ca Uni\xE3o finge que recebe, e os estados fingem que\
-    \ pagam,\u201D disse o presidente do Senado, Rodrigo Pacheco, ao apresentar o\
-    \ Projeto de Lei para a renegocia\xE7\xE3o das d\xEDvidas estaduais. Na verdade,\
-    \ alguns poucos estados hoje n\xE3o pagam nada \u2013 e o PL de Pacheco, que finge\
-    \ resolver os problemas, trar\xE1 novas complica\xE7\xF5es.\_ \xC9 [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/assim-nao-pacheco-pl-e-presente-para-governadores-e-um-onus-para-o-pais/\"\
-    \ rel=\"nofollow\">\u201CAssim n\xE3o, Pacheco!\u201D\_PL \xE9 presente para governadores\
-    \ \u2013 e um \xF4nus para o Pa\xEDs</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/assim-nao-pacheco-pl-e-presente-para-governadores-e-um-onus-para-o-pais/
-  title: "\u201CAssim n\xE3o, Pacheco!\u201D\_PL \xE9 presente para governadores \u2013\
-    \ e um \xF4nus para o Pa\xEDs"
 - author: Marques Brownlee
   categories: &id005
   - Tech
