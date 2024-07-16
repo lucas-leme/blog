@@ -1,3 +1,22 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-07-16T19:24:50+00:00'
+  description: As financial systems evolve, preserving the US dollar's dominance will
+    require skillful policy management and the integration of cutting-edge technologies.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/16/preserving-the-dollar-the-role-of-cbdcs-in-securing-economic-stability-for-future-generations/
+  title: 'Preserving the Dollar: The Role of CBDCs in Securing Economic Stability
+    for Future Generations'
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-07-16T18:20:01+00:00'
+  description: ''
+  image: https://i1.ytimg.com/vi/xiJMjTnlxg4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xiJMjTnlxg4
+  title: AI is Stealing my Videos
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -30,8 +49,7 @@
   path: https://open.spotify.com/episode/5Ru91lLgj5JbVTAWLrUpKx
   title: The Search for Risk Premium with Apollo Strategist Alex Wright
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-07-15T21:43:57+00:00'
   description: Mega-cap concentration has exploded since 2015. The corollary to an
     increasingly top-heavy benchmark is that market diversification and breadth have
@@ -41,9 +59,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/15/can-equal-weight-solve-our-concentration-crisis-not-so-fast/
   title: "Can Equal Weight Solve Our Concentration Crisis? Not So Fast\u2026"
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2024-07-15T21:31:41+00:00'
   description: 'iOS 18. Coming soon to an iPhone near you.
 
@@ -79,7 +95,7 @@
   path: https://www.youtube.com/watch?v=ArcI4A5nvBo
   title: 'iOS 18 Hands-On: Top 5 Features!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id003
   - Economia
   date: '2024-07-15T19:39:10+00:00'
   description: "<p>Desde a crise nos anos finais da ditadura, a produtividade da economia\
@@ -94,7 +110,7 @@
   path: https://braziljournal.com/a-armadilha-da-baixa-produtividade-como-desmontar/
   title: 'A armadilha da baixa produtividade: como desmontar'
 - author: The Journal.
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-07-15T00:00:00+00:00'
   description: "On Saturday, a shooter attempted to assassinate former President Donald\
@@ -117,7 +133,7 @@
   path: https://theovershoot.co/p/how-many-benign-inflation-prints
   title: How Many Benign Inflation Prints Are Enough?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id003
   date: '2024-07-14T02:36:14+00:00'
   description: "<p>LONDRES \u2013 Quando cheguei ao Reino Unido, em 2014, deparei-me\
     \ com um debate infinito sobre a independ\xEAncia da Esc\xF3cia, que ali\xE1s\
@@ -181,7 +197,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/12072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 12/07/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id004
   date: '2024-07-12T00:00:00+00:00'
   description: "Last fall, nude photos of a 14-year-old student started spreading\
     \ around her high school. But they weren't real\u2026 they\u2019d been created\
@@ -282,64 +298,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/7BOa2aAIJXP3mP1cOPDbja
   title: "Palaver in Paris: will politics derail France\u2019s commercial revival?"
-- author: Marques Brownlee
-  categories: *id003
-  date: '2024-07-10T13:00:48+00:00'
-  description: 'Samsung Unpacked 2024 gave us a lot of gadgets. This is a first look
-    at all of them.
-
-
-    Get a case hardened skin at https://dbrand.com/shop/case-hardened
-
-
-    Galaxy Ring: https://geni.us/qEazZlO
-
-    Galaxy Watch 7: https://geni.us/N9exy
-
-    Galaxy Buds 3 Pro: https://geni.us/k9H2hy1
-
-    Galaxy Z Fold 6: https://geni.us/iiriED
-
-    Galaxy Z Flip 6: https://geni.us/2ExS2nA
-
-    Galaxy Watch Ultra: https://geni.us/PUC0R
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD
-
-
-    0:00 2 New Phones + Galaxy AI
-
-    4:48 Watches and Buds
-
-    7:22 The Ring'
-  image: https://i3.ytimg.com/vi/zijUjJdegI8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=zijUjJdegI8
-  title: Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-10T11:17:11+00:00'
-  description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
-    \ the Senate Banking Committee this week fresh in mind, it is an ideal time to\
-    \ consider the drivers of r*."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
-  title: In Search of the Elusive Neutral Interest Rate
 - author: Market Makers
   categories: *id005
   date: '2024-07-10T00:00:00+00:00'
