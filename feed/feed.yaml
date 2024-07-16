@@ -1,3 +1,52 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id004
+  - CFA
+  date: '2024-07-15T21:43:57+00:00'
+  description: Mega-cap concentration has exploded since 2015. The corollary to an
+    increasingly top-heavy benchmark is that market diversification and breadth have
+    never been more limited. A multifactor methodology can be a restorative balance
+    to US equities when more traditional measures fall short.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/15/can-equal-weight-solve-our-concentration-crisis-not-so-fast/
+  title: "Can Equal Weight Solve Our Concentration Crisis? Not So Fast\u2026"
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2024-07-15T21:31:41+00:00'
+  description: 'iOS 18. Coming soon to an iPhone near you.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Control Center and shortcuts
+
+    3:29 The Passwords app
+
+    4:58 Homescreen customization
+
+    8:20 The little things (and RCS)
+
+    10:10 That calculator doe'
+  image: https://i2.ytimg.com/vi/ArcI4A5nvBo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ArcI4A5nvBo
+  title: 'iOS 18 Hands-On: Top 5 Features!'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -139,7 +188,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/the-mysterious-slowdown-in-u-s-manufacturing-productivity/
   title: The Mysterious Slowdown in U.S. Manufacturing Productivity
 - author: Market Makers
-  categories: &id003
+  categories: &id005
   - Podcasts
   date: '2024-07-11T00:00:00+00:00'
   description: "Como construir do zero uma das \xE1reas mais importantes de uma gestora\
@@ -226,9 +275,7 @@
   path: https://open.spotify.com/episode/7BOa2aAIJXP3mP1cOPDbja
   title: "Palaver in Paris: will politics derail France\u2019s commercial revival?"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2024-07-10T13:00:48+00:00'
   description: 'Samsung Unpacked 2024 gave us a lot of gadgets. This is a first look
     at all of them.
@@ -277,8 +324,7 @@
   path: https://www.youtube.com/watch?v=zijUjJdegI8
   title: Samsung Z Flip/Fold 6, Watch Ultra, Buds Pro and Ring Impressions!
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id004
   date: '2024-07-10T11:17:11+00:00'
   description: "With Federal Reserve Chair\_Jerome Powell's semiannual address to\
     \ the Senate Banking Committee this week fresh in mind, it is an ideal time to\
@@ -287,7 +333,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/10/in-search-of-the-elusive-neutral-interest-rate/
   title: In Search of the Elusive Neutral Interest Rate
 - author: Market Makers
-  categories: *id003
+  categories: *id005
   date: '2024-07-10T00:00:00+00:00'
   description: "CORTE EP #108: Ser\xE1 que a pol\xEDtica econ\xF4mica atual vai levar\
     \ o Brasil a uma crise?No epis\xF3dio 108 do Market Makers recebemos Zeina Latif\
@@ -324,46 +370,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
   title: Levering Up to Do Good
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-08T20:50:55+00:00'
-  description: Asset classes such as commodities have historically had notable diversification
-    benefits for longer-term investors who are concerned with inflation.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/08/commodities-for-the-long-run/
-  title: Commodities for the Long Run?
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-07-08T15:23:00+00:00'
-  description: '"What a knob" was my alternate title"
-
-
-    CMF Phone 1: https://geni.us/HfpQq
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: http://youtube.com/20syl
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by CMF for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/_q45HmRIM08/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=_q45HmRIM08
-  title: 'CMF Phone 1: Fun Modular Budget Phone!'
 - author: ArjanCodes
   categories: *id006
   date: '2024-07-05T15:00:12+00:00'
