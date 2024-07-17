@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-07-17T03:23:34+00:00'
+  description: "<p>Qual ser\xE1 a al\xEDquota do novo IVA? Ningu\xE9m sabe. N\xE3\
+    o sabemos, nem saberemos t\xE3o cedo. Por qu\xEA? Porque ao contr\xE1rio da cren\xE7\
+    a popular (alimentada por articulistas que se desincumbiram do \xF4nus de ler\
+    \ a Emenda Constitucional), n\xE3o existe uma al\xEDquota, mas sim tr\xEAs: uma\
+    \ federal, uma estadual, e outra municipal.\_ E cada ente federado (Uni\xE3o,\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-debate-inutil-sobre-a-aliquota-do-iva/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. O debate in\xFAtil sobre a al\xEDquota do IVA</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-debate-inutil-sobre-a-aliquota-do-iva/
+  title: "OPINI\xC3O. O debate in\xFAtil sobre a al\xEDquota do IVA"
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -58,7 +74,7 @@
   path: https://open.spotify.com/episode/1QFxvbVPnm5nVHUoD5TMTf
   title: "#112 | Entenda a verdade sobre a situa\xE7\xE3o da economia brasileira"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-16T00:00:00+00:00'
   description: "Last night at the Republican National Convention, Sean O\u2019Brien,\
@@ -132,8 +148,7 @@
   path: https://www.youtube.com/watch?v=ArcI4A5nvBo
   title: 'iOS 18 Hands-On: Top 5 Features!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id003
   date: '2024-07-15T19:39:10+00:00'
   description: "<p>Desde a crise nos anos finais da ditadura, a produtividade da economia\
     \ brasileira registra um desempenho inst\xE1vel, alternando per\xEDodos transit\xF3\
@@ -147,7 +162,7 @@
   path: https://braziljournal.com/a-armadilha-da-baixa-produtividade-como-desmontar/
   title: 'A armadilha da baixa produtividade: como desmontar'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-07-15T00:00:00+00:00'
   description: "On Saturday, a shooter attempted to assassinate former President Donald\
     \ Trump. Now, the Secret Service is coming under scrutiny for failing to prevent\
@@ -168,21 +183,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff9ab58-db97-4e1b-b52b-b7b3fa92c3f3_4997x2625.png
   path: https://theovershoot.co/p/how-many-benign-inflation-prints
   title: How Many Benign Inflation Prints Are Enough?
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2024-07-14T02:36:14+00:00'
-  description: "<p>LONDRES \u2013 Quando cheguei ao Reino Unido, em 2014, deparei-me\
-    \ com um debate infinito sobre a independ\xEAncia da Esc\xF3cia, que ali\xE1s\
-    \ sempre me pareceu in\xF3cuo.\_ No entanto, aprendi nesses 10 anos que, acima\
-    \ de tudo, os ingleses adoram o debate pelo debate, pois acreditam no poder da\
-    \ troca de ideias e de testar hip\xF3teses.\_ Encontrei [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/opiniao-o-que-o-reino-unido-me-ensinou-sobre-politica/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O que o Reino Unido me ensinou sobre pol\xEDtica</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-que-o-reino-unido-me-ensinou-sobre-politica/
-  title: "OPINI\xC3O. O que o Reino Unido me ensinou sobre pol\xEDtica"
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -217,7 +217,7 @@
     \ you with free content each week!"
   image: https://i3.ytimg.com/vi/J8et7Xoy1GU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J8et7Xoy1GU
-  title: "Don\u2019t Turn Your Development Process Into a NIGHTMARE"
+  title: How to NOT Go Completely INSANE as a Development Team
 - author: RSS - Feeds do BC
   categories:
   - Bacen
