@@ -37,6 +37,15 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-o-debate-inutil-sobre-a-aliquota-do-iva/
   title: "OPINI\xC3O. O debate in\xFAtil sobre a al\xEDquota do IVA"
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2024-07-17T00:00:00+00:00'
+  description: A novel corporate bond transaction costs analysis determines which
+    systematic bond strategies remain profitable when fund size increases.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/transaction-costs-and-capacity-of-systematic-corporate-bond-strategies
+  title: Transaction Costs and Capacity of Systematic Corporate Bond Strategies
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -205,7 +214,7 @@
   path: https://open.spotify.com/episode/7HKFsOJvcs6NNNLhh7fMbG
   title: "The Secret Service\u2019s Failure to Protect Trump"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-07-14T19:42:46+00:00'
@@ -359,8 +368,7 @@
   path: https://www.youtube.com/watch?v=FWacanslfFM
   title: Build AWESOME CLIs With Click in Python
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id007
   date: '2024-07-01T00:00:00+00:00'
   description: Derivatives investments have a measurable ESG impact. This paper proposes
     a framework for applying ESG screens to portfolios that include derivatives.
@@ -398,7 +406,7 @@
   path: https://open.spotify.com/episode/5vB0p8GAbq7e4Kuif9VpBX
   title: I Have A Few Questions
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2024-06-29T20:45:42+00:00'
   description: '"Immaculate disinflation" works best if consumer spending rises less
     than incomes. That may finally be happening.'
@@ -422,14 +430,6 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202406
   title: 'BC - RI: junho/2024'
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2024-06-26T00:00:00+00:00'
-  description: This study finds that machine-learning techniques can improve estimations
-    of US corporate bond illiquidity, outperforming the conventional standard.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/predicting-corporate-bond-illiquidity-via-machine-learning
-  title: Predicting Corporate Bond Illiquidity via Machine Learning
 - author: Outliers
   categories: *id009
   date: '2024-06-26T00:00:00+00:00'
