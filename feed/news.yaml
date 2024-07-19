@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-19T18:49:43+00:00'
+  description: "Autoridades est\xE3o tentando conter um surto da doen\xE7a de Newcastle\
+    \ depois de cerca de 7 mil aves terem morrido"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-suspende-parte-das-exportacoes-de-frango-apos-problema-sanitario/
+  title: "Brasil suspende parte das exporta\xE7\xF5es de frango ap\xF3s problema sanit\xE1\
+    rio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -59,8 +69,7 @@
   path: https://www.reddit.com/r/CFA/comments/1e6uo0v/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-18T21:03:58+00:00'
   description: "Do total, R$ 11,2 bilh\xF5es ser\xE3o bloqueados e outros R$ 3,8 bilh\xF5\
     es, contingenciados"
@@ -68,16 +77,6 @@
   path: https://investnews.com.br/economia/governo-fara-contencao-de-r-15-bilhoes-para-cumprir-arcabouco-fiscal-diz-haddad/
   title: "Governo far\xE1 conten\xE7\xE3o de R$ 15 bilh\xF5es para cumprir arcabou\xE7\
     o fiscal, diz Haddad"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-18T19:56:18+00:00'
-  description: "Documento tamb\xE9m apontou uma deteriora\xE7\xE3o na vis\xE3o do\
-    \ governo para a infla\xE7\xE3o, com a proje\xE7\xE3o para o IPCA indo a 3,9%\
-    \ neste ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-mantem-projecao-de-alta-do-pib-em-25-para-2024-e-piora-expectativa-para-2025/
-  title: "Governo mant\xE9m proje\xE7\xE3o de alta do PIB em 2,5% para 2024 e piora\
-    \ expectativa para 2025"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-02T11:01:51+00:00'
