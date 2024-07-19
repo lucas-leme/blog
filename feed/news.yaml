@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-19T20:36:02+00:00'
+  description: "Congelamento anunciado pelo governo na v\xE9spera n\xE3o alterou o\
+    \ humor do mercado"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-a-vista-fecha-em-alta-de-028-a-r560-ibovespa-fica-estavel/
+  title: "D\xF3lar \xE0 vista fecha em alta de 0,28%, a R$5,60; Ibovespa fica est\xE1\
+    vel"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Brasil suspende parte das exporta\xE7\xF5es de frango ap\xF3s problema sanit\xE1\
     rio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-19T16:49:33+00:00'
   description: "Vit\xF3ria governista no M\xE9xico e preocupa\xE7\xE3o com a situa\xE7\
     \xE3o fiscal brasileira ajudam a explicar o movimento"
@@ -18,14 +27,6 @@
   path: https://investnews.com.br/financas/operadores-de-cambio-migram-de-brasil-e-mexico-para-paises-mais-ricos/
   title: "Operadores de c\xE2mbio migram de Brasil e M\xE9xico para pa\xEDses mais\
     \ ricos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-19T12:11:34+00:00'
-  description: "A OPA vai envolver 902,2 milh\xF5es de a\xE7\xF5es ordin\xE1rias pelo\
-    \ pre\xE7o de R$ 5,60"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/membros-independentes-de-conselho-da-cielo-aprovam-opa/
-  title: Membros independentes de conselho da Cielo aprovam OPA
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
