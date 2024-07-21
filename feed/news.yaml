@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-21T18:00:16+00:00'
+  description: "Desist\xEAncia acontece depois de pol\xEDticos democratas pedirem\
+    \ publicamente para que Biden deixe a corrida eleitoral"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/joe-biden-desiste-de-tentar-a-reeleicao-contra-donald-trump/
+  title: "Joe Biden desiste de tentar a reeleic\xE3o contra Donald Trump"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-19T20:36:02+00:00'
   description: "Congelamento anunciado pelo governo na v\xE9spera n\xE3o alterou o\
@@ -9,8 +18,7 @@
   title: "D\xF3lar \xE0 vista fecha em alta de 0,28%, a R$5,60; Ibovespa fica est\xE1\
     vel"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-19T18:49:43+00:00'
   description: "Autoridades est\xE3o tentando conter um surto da doen\xE7a de Newcastle\
     \ depois de cerca de 7 mil aves terem morrido"
@@ -19,7 +27,7 @@
   title: "Brasil suspende parte das exporta\xE7\xF5es de frango ap\xF3s problema sanit\xE1\
     rio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-19T16:49:33+00:00'
   description: "Vit\xF3ria governista no M\xE9xico e preocupa\xE7\xE3o com a situa\xE7\
     \xE3o fiscal brasileira ajudam a explicar o movimento"
@@ -69,15 +77,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1e6uo0v/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-18T21:03:58+00:00'
-  description: "Do total, R$ 11,2 bilh\xF5es ser\xE3o bloqueados e outros R$ 3,8 bilh\xF5\
-    es, contingenciados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-fara-contencao-de-r-15-bilhoes-para-cumprir-arcabouco-fiscal-diz-haddad/
-  title: "Governo far\xE1 conten\xE7\xE3o de R$ 15 bilh\xF5es para cumprir arcabou\xE7\
-    o fiscal, diz Haddad"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
