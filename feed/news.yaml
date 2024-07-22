@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-22T11:35:09+00:00'
+  description: "A ideia \xE9 focar os debates em um acordo que d\xEA autonomia aos\
+    \ pa\xEDses para gastar os recursos levantados com a tributa\xE7\xE3o dos bilion\xE1\
+    rios"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-ve-janela-para-apoio-do-g20-a-taxacao-de-bilionarios-mesmo-com-eleicoes-nos-eua/
+  title: "Brasil v\xEA janela para apoio do G20 a taxa\xE7\xE3o de bilion\xE1rios\
+    \ mesmo com elei\xE7\xF5es nos EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +45,7 @@
   path: https://www.reddit.com/r/CFA/comments/1e951y9/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-21T21:05:51+00:00'
   description: "Joe Biden desistiu de buscar a reelei\xE7\xE3o contra Trump e endossou\
     \ poss\xEDvel candidatura de Harris"
@@ -43,15 +53,6 @@
   path: https://investnews.com.br/economia/kamala-harris-diz-querer-nomeacao-e-promete-trabalhar-para-derrotar-trump/
   title: "Kamala Harris diz querer nomea\xE7\xE3o e promete trabalhar para derrotar\
     \ Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-21T18:00:16+00:00'
-  description: "Desist\xEAncia ocorre ap\xF3s press\xE3o de doadores e pol\xEDticos\
-    \ democratas. Aos 81 anos, Biden \xE9 o mais velho presidente dos EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/joe-biden-desiste-de-tentar-a-reeleicao-contra-donald-trump/
-  title: "Joe Biden desiste de tentar a reelei\xE7\xE3o contra Donald Trump e anuncia\
-    \ apoio a Kamala Harris"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
