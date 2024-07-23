@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-23T11:45:26+00:00'
+  description: "A opera\xE7\xE3o reuniu 17.572 investidores pessoa f\xEDsica que compraram\
+    \ 21.876.433 a\xE7\xF5es da empresa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/estado-de-sp-abocanha-r-1477-bilhoes-com-venda-de-acoes-da-sabesp/
+  title: "Estado de SP abocanha R$ 14,77 bilh\xF5es com venda de a\xE7\xF5es da Sabesp"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,7 +48,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-22T15:23:27+00:00'
   description: "Musk passou a se concentrar em intelig\xEAncia artificial, software\
@@ -50,8 +59,7 @@
   title: "Tesla ter\xE1 rob\xF4s humanoides para uso interno no pr\xF3ximo ano, diz\
     \ Musk"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-22T13:52:17+00:00'
   description: "A empresa de investimentos de Warren Buffett agora det\xE9m 4,94%\
     \ da montadora chinesa"
@@ -59,7 +67,7 @@
   path: https://investnews.com.br/financas/berkshire-hathaway-vende-mais-byd-e-chega-a-fatia-abaixo-de-5/
   title: Berkshire Hathaway vende mais BYD e chega a fatia abaixo de 5%
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-22T13:28:17+00:00'
   description: "L\xE1 fora, as bolsas europeias e os \xEDndices futuros em Nova York\
     \ sobem, enquanto os juros longos dos Treasuries recuam"
@@ -67,15 +75,6 @@
   path: https://investnews.com.br/economia/dolar-recua-de-olho-em-eleicao-nos-eua-e-china-antes-de-relatorio-fiscal/
   title: "D\xF3lar recua de olho em elei\xE7\xE3o nos EUA e China antes de relat\xF3\
     rio fiscal"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-19T20:36:02+00:00'
-  description: "Congelamento anunciado pelo governo na v\xE9spera n\xE3o alterou o\
-    \ humor do mercado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dolar-a-vista-fecha-em-alta-de-028-a-r560-ibovespa-fica-estavel/
-  title: "D\xF3lar \xE0 vista fecha em alta de 0,28%, a R$5,60; Ibovespa fica est\xE1\
-    vel"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-19T04:01:25+00:00'
