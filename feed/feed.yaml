@@ -1,5 +1,21 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-07-24T21:16:11+00:00'
+  description: "<p>\u201COs fatos mudaram, ent\xE3o eu mudei de ideia.\u201D Bill\
+    \ Dudley, o ex-presidente do Federal Reserve de Nova York e um dos economistas\
+    \ mais respeitados de Wall Street, sacou a velha frase de John Maynard Keynes\
+    \ para justificar por que passou a defender a redu\xE7\xE3o dos juros \u2013 j\xE1\
+    \ na reuni\xE3o da pr\xF3xima semana. Em um [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/mudei-de-ideia-fed-deve-cortar-ja-diz-bill-dudley/\"\
+    \ rel=\"nofollow\">\u201CMudei de ideia.\u201D\_Fed deve cortar j\xE1, diz Bill\
+    \ Dudley</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/mudei-de-ideia-fed-deve-cortar-ja-diz-bill-dudley/
+  title: "\u201CMudei de ideia.\u201D\_Fed deve cortar j\xE1, diz Bill Dudley"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-07-24T11:09:21+00:00'
   description: Do the products and services of the companies you invest in create
@@ -38,6 +54,20 @@
   path: https://open.spotify.com/episode/2uPbkRXOWguHoSBLzdhQof
   title: "Corte para PodcastChuva de impostos de Haddad, d\xEDvida p\xFAblica explodindo\
     \ e crise fiscal agendada para 2027 | Corte EP #112"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-07-24T00:00:00+00:00'
+  description: "Democrats are rallying around Vice President Kamala Harris as she\
+    \ takes over President Biden\u2019s campaign. WSJ\u2019s Tarini Parti discusses\
+    \ some key moments in her political career and explores what they reveal about\
+    \ her as a candidate.  Further Listening: - Biden Taps Out. Harris Taps In.\_\
+    \ - Takeaways from the RNC: Trump Is in Control\_  Further Reading: - Inside the\
+    \ Slow-Building Biden-Harris Relationship\_ - How Kamala Harris Views Policy\_\
+    \    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/53fzZRuaewNjpHrdGQXY7O
+  title: Kamala Harris, In Context
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -72,8 +102,7 @@
   path: https://www.youtube.com/watch?v=UKffsivi17Q
   title: When Companies Copy Each Other...
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2024-07-23T03:01:27+00:00'
   description: "<p>\xC9 \u201Cabsolutamente impressionante\u201D o que Javier Milei\
     \ fez nos \xFAltimos seis meses, Alberto Ramos, o chefe da \xE1rea de pesquisa\
@@ -88,22 +117,6 @@
   path: https://braziljournal.com/milei-mostrou-que-e-possivel-zerar-deficit-duvida-e-se-plano-se-sustenta-diz-goldman/
   title: "Milei mostrou que \xE9 poss\xEDvel zerar d\xE9ficit. D\xFAvida \xE9 se plano\
     \ se sustenta, diz Goldman"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2024-07-23T03:01:19+00:00'
-  description: "<p>O Governo conseguiu reduzir o n\xEDvel de estresse no mercado,\
-    \ prometendo manter o arcabou\xE7o fiscal e indicando corte nas despesas. \u201C\
-    Mas esse epis\xF3dio n\xE3o foi esquecido, o mercado agora est\xE1 esperando um\
-    \ pouco para ver, acho que ainda n\xE3o est\xE1 all clear em rela\xE7\xE3o a essa\
-    \ quest\xE3o,\u201D Alberto Ramos, o chefe da \xE1rea de pesquisa [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/selic-a-105-nao-e-tao-alta-quanto-se-diz-diz-alberto-ramos-da-goldman/\"\
-    \ rel=\"nofollow\">Selic a 10,5% n\xE3o \xE9 t\xE3o alta quanto se diz, diz Alberto\
-    \ Ramos, da Goldman</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/selic-a-105-nao-e-tao-alta-quanto-se-diz-diz-alberto-ramos-da-goldman/
-  title: "Selic a 10,5% n\xE3o \xE9 t\xE3o alta quanto se diz, diz Alberto Ramos,\
-    \ da Goldman"
 - author: Market Makers
   categories: *id002
   date: '2024-07-23T00:00:00+00:00'
@@ -143,8 +156,7 @@
   title: "#114 | A estrat\xE9gia de investimentos em a\xE7\xF5es que multiplicou o\
     \ patrim\xF4nio em 90 vezes"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-07-23T00:00:00+00:00'
   description: "Last Friday, 8.5 million computers around the world stopped working.\
     \ All kinds of businesses were impacted, from airlines to banks to hospitals.\
@@ -174,7 +186,7 @@
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-07-22T11:38:21+00:00'
   description: New technologies always face resistance, but demographic shifts imply
     there is a fierce tailwind behind crypto adoption, politically, economically,
@@ -182,19 +194,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/07/22/is-widespread-crypto-adoption-inevitable/
   title: Is Widespread Crypto Adoption Inevitable?
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-22T00:00:00+00:00'
-  description: "On Sunday, President Joe Biden ended his bid for re-election and endorsed\
-    \ Vice President Kamala Harris. Annie Linskey reports on Biden\u2019s big decision\
-    \ and what lies ahead for Harris and the Democratic Party.\_  Further Listening:\
-    \ - Takeaways from the RNC: Trump Is in Control\_ - Will Biden Stay in the Race?\_\
-    \  Further Reading: - How the Bet on an 81-Year-Old Joe Biden Turned Into an Epic\
-    \ Miscalculation\_ - Biden Drops Out of Presidential Race, Endorses Harris\_ \
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/33Yil9LDYLPAGmxQN9YxjQ
-  title: Biden Taps Out. Harris Taps In.
 - author: ArjanCodes
   categories: &id005
   - Tech
