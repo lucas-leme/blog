@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-24T13:25:10+00:00'
+  description: A Tesla registrou sua pior margem de lucro em mais de cinco anos, abaixo
+    das estimativas de Wall Street para o segundo trimestre
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/lucro-da-tesla-cai-a-medida-que-musk-liga-seu-futuro-aos-robotaxis-atrasados/
+  title: "Lucro da Tesla cai \xE0 medida que Musk liga seu futuro aos robotaxis atrasados"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-24T12:48:16+00:00'
   description: "Democratas t\xEAm pressa para compensar quase um m\xEAs de tempo perdido\
@@ -10,8 +19,7 @@
   title: Doadores democratas de Wall Street planejam encher os cofres da campanha
     de Kamala Harris
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-24T12:05:31+00:00'
   description: "A expectativa \xE9 que o novo fundo replique um \xEDndice de refer\xEA\
     ncia ainda a ser criado, com seus recursos alocados para empr\xE9stimos sustent\xE1\
@@ -21,7 +29,7 @@
   title: "BB, Caixa e BNDES v\xE3o se juntar ao BID para desenvolvimento de ETF sustent\xE1\
     vel"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-24T12:04:05+00:00'
   description: "Ministra ressaltou que parte das medidas n\xE3o precisar\xE1 passar\
     \ pelo Congresso"
@@ -48,15 +56,6 @@
   image: https://preview.redd.it/m5z5rk7t2ged1.jpeg?width=640&crop=smart&auto=webp&s=77f6f23f33448e19c34c68f1a91bbb433a238dd7
   path: https://www.reddit.com/r/CFA/comments/1eay5y5/cfa_l1_fsa_question_doubt/
   title: Cfa L1 FSA Question Doubt
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-23T17:47:25+00:00'
-  description: "O lan\xE7amento de fundos negociados em bolsa diretamente atrelados\
-    \ \xE0 criptomoeda em janeiro ajudou a iniciar um novo recorde hist\xF3rico para\
-    \ o BTC este ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/a-promessa-de-trump-por-um-dolar-mais-fraco-pode-beneficiar-o-bitcoin/
-  title: "A promessa de Trump por um d\xF3lar mais fraco pode beneficiar o bitcoin"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-23T04:01:24+00:00'
