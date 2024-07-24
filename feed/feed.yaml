@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-07-24T11:09:21+00:00'
+  description: Do the products and services of the companies you invest in create
+    negative or positive material outcomes?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/24/measuring-corporate-impact-the-gold-is-in-the-details/
+  title: 'Measuring Corporate Impact: The Gold Is in the Details'
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -104,7 +113,7 @@
   title: "#114 | A estrat\xE9gia de investimentos em a\xE7\xF5es que multiplicou o\
     \ patrim\xF4nio em 90 vezes"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-23T00:00:00+00:00'
   description: "Last Friday, 8.5 million computers around the world stopped working.\
@@ -135,8 +144,7 @@
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-07-22T11:38:21+00:00'
   description: New technologies always face resistance, but demographic shifts imply
     there is a fierce tailwind behind crypto adoption, politically, economically,
@@ -145,7 +153,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/22/is-widespread-crypto-adoption-inevitable/
   title: Is Widespread Crypto Adoption Inevitable?
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-07-22T00:00:00+00:00'
   description: "On Sunday, President Joe Biden ended his bid for re-election and endorsed\
     \ Vice President Kamala Harris. Annie Linskey reports on Biden\u2019s big decision\
@@ -158,7 +166,7 @@
   path: https://open.spotify.com/episode/33Yil9LDYLPAGmxQN9YxjQ
   title: Biden Taps Out. Harris Taps In.
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -191,7 +199,7 @@
   path: https://www.youtube.com/watch?v=UdJr2p5RrF0
   title: CrowdStrike Exposes a FUNDAMENTAL Problem in Software
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-07-19T15:00:33+00:00'
   description: "Learn 6 essential tips for designing a great REST API that even big\
     \ companies often overlook. From following standards and maintaining consistency\
@@ -227,16 +235,6 @@
   image: https://i4.ytimg.com/vi/SjUQLryotAk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=SjUQLryotAk
   title: "How to Design a REST API That Doesn\u2019t SUCK"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-19T12:06:07+00:00'
-  description: Carlsson-Szlezak and Swartz attempt to add fresh thinking on framing
-    macro shocks that may often prove to be false alarms. Any general reader will
-    obtain some key fresh insights with this work, and CFA charterholders will be
-    offered an alternative to the conventional Wall Street approach to macro discussions.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/19/book-review-shocks-crises-and-false-alarms/
-  title: 'Book Review: Shocks, Crises, and False Alarms'
 - author: Marques Brownlee
   categories: *id005
   date: '2024-07-19T00:56:54+00:00'
