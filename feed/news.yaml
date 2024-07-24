@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-24T18:43:05+00:00'
+  description: "Moeda americana ronda os R$ 5,65, impulsionada pela queda do min\xE9\
+    rio. Mas n\xE3o \xE9 s\xF3 isso"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/como-a-china-tambem-faz-o-dolar-subir/
+  title: "Como a China (tamb\xE9m) faz o d\xF3lar subir"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   path: https://investnews.com.br/financas/tesla-e-alphabet-desabam-em-wall-street-apos-resultados-decepcionantes/
   title: "Tesla e Alphabet desabam em Wall Street ap\xF3s resultados decepcionantes"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-24T12:48:16+00:00'
   description: "Democratas t\xEAm pressa para compensar quase um m\xEAs de tempo perdido\
     \ na arrecada\xE7\xE3o de fundos, j\xE1 que os principais contribuintes pausaram\
@@ -27,15 +35,6 @@
   path: https://investnews.com.br/economia/doadores-democratas-de-wall-street-planejam-encher-os-cofres-da-campanha-de-kamala-harris/
   title: Doadores democratas de Wall Street planejam encher os cofres da campanha
     de Kamala Harris
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-24T12:04:05+00:00'
-  description: "Ministra ressaltou que parte das medidas n\xE3o precisar\xE1 passar\
-    \ pelo Congresso"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/equipe-economica-detalha-cortes-de-gastos-no-orcamento-na-proxima-semana/
-  title: "Equipe econ\xF4mica detalhar\xE1 cortes de gastos no Or\xE7amento na pr\xF3\
-    xima semana, diz Tebet"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
