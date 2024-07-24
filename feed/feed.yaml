@@ -1,3 +1,36 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2024-07-23T22:15:53+00:00'
+  description: 'The Samsung Galaxy Watch Ultra is great.... it''s also a pretty shameless
+    rip.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: http://youtube.com/20syl
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Watch provided by Samsung for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/UKffsivi17Q/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=UKffsivi17Q
+  title: When Companies Copy Each Other...
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -32,7 +65,7 @@
   title: "Selic a 10,5% n\xE3o \xE9 t\xE3o alta quanto se diz, diz Alberto Ramos,\
     \ da Goldman"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-07-23T00:00:00+00:00'
   description: "No epis\xF3dio 114 do Market Makers, Octavio Magalh\xE3es, gestor\
@@ -205,9 +238,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/19/book-review-shocks-crises-and-false-alarms/
   title: 'Book Review: Shocks, Crises, and False Alarms'
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2024-07-19T00:56:54+00:00'
   description: "Smart rings are fun fitness trackers, but turns out they're not for\
     \ me.\n\nGet $350 off the Pod 4 Ultra or $200 off the Pod 4 at https://eightsleep.com/MKBHD\n\
@@ -233,7 +264,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/19072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 19/07/2024"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-07-18T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15\_voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -326,13 +357,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/transaction-costs-and-capacity-of-systematic-corporate-bond-strategies
   title: Transaction Costs and Capacity of Systematic Corporate Bond Strategies
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-07-16T18:20:01+00:00'
-  description: ''
-  image: https://i1.ytimg.com/vi/xiJMjTnlxg4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=xiJMjTnlxg4
-  title: AI is Stealing my Videos
 - author: The View From Apollo
   categories:
   - Podcasts
