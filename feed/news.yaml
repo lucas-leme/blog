@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-24T12:48:16+00:00'
+  description: "Democratas t\xEAm pressa para compensar quase um m\xEAs de tempo perdido\
+    \ na arrecada\xE7\xE3o de fundos, j\xE1 que os principais contribuintes pausaram\
+    \ as doa\xE7\xF5es \xE0 campanha de Biden"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/doadores-democratas-de-wall-street-planejam-encher-os-cofres-da-campanha-de-kamala-harris/
+  title: Doadores democratas de Wall Street planejam encher os cofres da campanha
+    de Kamala Harris
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -10,8 +21,7 @@
   title: "BB, Caixa e BNDES v\xE3o se juntar ao BID para desenvolvimento de ETF sustent\xE1\
     vel"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-24T12:04:05+00:00'
   description: "Ministra ressaltou que parte das medidas n\xE3o precisar\xE1 passar\
     \ pelo Congresso"
@@ -38,16 +48,6 @@
   image: https://preview.redd.it/m5z5rk7t2ged1.jpeg?width=640&crop=smart&auto=webp&s=77f6f23f33448e19c34c68f1a91bbb433a238dd7
   path: https://www.reddit.com/r/CFA/comments/1eay5y5/cfa_l1_fsa_question_doubt/
   title: Cfa L1 FSA Question Doubt
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-23T19:15:05+00:00'
-  description: "Medida passar\xE1 a taxar produtos internacionais de at\xE9 US$ 50\
-    \ em 20%; plataformas asi\xE1ticas passar\xE3o a cobrar o imposto a partir de\
-    \ s\xE1bado (27)"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/aliexpress-shein-e-shopee-compras-internacionais-ja-podem-ter-nova-taxacao/
-  title: "Aliexpress, Shein e Shopee: compras internacionais j\xE1 podem ter nova\
-    \ taxa\xE7\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-07-23T17:47:25+00:00'
