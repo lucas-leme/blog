@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-26T11:09:07+00:00'
+  description: "A discuss\xE3o sobre uma poss\xEDvel recompra veio \xE0 tona no ano\
+    \ passado, quando o fundo soberano de Abu Dhabi  prop\xF4s um investimento em\
+    \ refino tradicional na Bahia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petrobras-conclui-due-diligence-para-recomprar-refinaria-de-mubadala/
+  title: Petrobras conclui due diligence para recomprar refinaria de Mubadala
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -50,8 +60,7 @@
   path: https://investnews.com.br/financas/ibovespa-tem-nova-queda-mas-fecha-acima-de-126-mil-pontos-puxada-por-vale-e-gerdau/
   title: Ibovespa tem terceira queda seguida, puxada por Vale e Gerdau
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-25T13:38:33+00:00'
   description: "Crescimento \xE9 de 2,8% e expectativa era de 2%; reuni\xE3o do Fed\
     \ est\xE1 marcada para semana que vem"
@@ -59,14 +68,6 @@
   path: https://investnews.com.br/economia/crescimento-economico-dos-eua-volta-a-ganhar-forca-no-2o-trimestre-inflacao-desacelera/
   title: "PIB dos EUA cresce acima do esperado e infla\xE7\xE3o desacelera; como ficam\
     \ os juros?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-25T13:27:28+00:00'
-  description: IPCA-15 sobe 4,45% em 12 meses
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inflacao-anual-do-brasil-supera-todas-as-previsoes-sustentando-altas-taxas-de-juros/
-  title: "Infla\xE7\xE3o anual do Brasil supera todas as previs\xF5es, sustentando\
-    \ altas taxas de juros"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-07-25T13:12:23+00:00'
