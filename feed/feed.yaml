@@ -1,5 +1,15 @@
-- author: Market Makers
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2024-07-26T02:17:22+00:00'
+  description: Investment managers are being caught off guard by tougher questions
+    from an increasingly sophisticated allocator market. Are you prepared for your
+    next beauty parade?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/25/investment-manager-selection-is-hotting-up-are-you-ready-for-the-tough-questions/
+  title: Investment Manager Selection Is Hotting Up. Are You Ready for the Tough Questions?
+- author: Market Makers
+  categories: &id003
   - Podcasts
   date: '2024-07-25T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -29,7 +39,7 @@
   path: https://open.spotify.com/episode/1dV46bNVo2FNMTN0QX0Oh9
   title: "#115 | POR QUE VOC\xCA DEVERIA INVESTIR NA BOLSA DE VALORES AGORA"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-25T00:00:00+00:00'
   description: "USAntibiotics's plant in Tennessee is one of the last plants in the\
@@ -108,8 +118,7 @@
   path: https://braziljournal.com/mudei-de-ideia-fed-deve-cortar-ja-diz-bill-dudley/
   title: "\u201CMudei de ideia.\u201D\_Fed deve cortar j\xE1, diz Bill Dudley"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-07-24T11:09:21+00:00'
   description: Do the products and services of the companies you invest in create
     negative or positive material outcomes?
@@ -117,7 +126,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/24/measuring-corporate-impact-the-gold-is-in-the-details/
   title: 'Measuring Corporate Impact: The Gold Is in the Details'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-07-24T00:00:00+00:00'
   description: "CORTE EP #112: Ser\xE1 que o Brasil est\xE1 destinado a ficar para\
     \ tr\xE1s em rela\xE7\xE3o a outras economias emergentes?No epis\xF3dio 112 do\
@@ -147,7 +156,7 @@
   title: "Corte para PodcastChuva de impostos de Haddad, d\xEDvida p\xFAblica explodindo\
     \ e crise fiscal agendada para 2027 | Corte EP #112"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-07-24T00:00:00+00:00'
   description: "Democrats are rallying around Vice President Kamala Harris as she\
     \ takes over President Biden\u2019s campaign. WSJ\u2019s Tarini Parti discusses\
@@ -207,15 +216,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc05ee040283494e52280426
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-22T11:38:21+00:00'
-  description: New technologies always face resistance, but demographic shifts imply
-    there is a fierce tailwind behind crypto adoption, politically, economically,
-    and financially.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/22/is-widespread-crypto-adoption-inevitable/
-  title: Is Widespread Crypto Adoption Inevitable?
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -248,7 +248,7 @@
     \ free content each week!"
   image: https://i2.ytimg.com/vi/UdJr2p5RrF0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=UdJr2p5RrF0
-  title: CrowdStrike Exposes a Fundamental Problem in Software
+  title: CrowdStrike Exposes a FUNDAMENTAL Problem in Software
 - author: ArjanCodes
   categories: *id005
   date: '2024-07-19T15:00:33+00:00'
@@ -285,7 +285,7 @@
     \ my channel so I can continue to provide you with free content each week!"
   image: https://i4.ytimg.com/vi/SjUQLryotAk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=SjUQLryotAk
-  title: "6 Tips For Designing a REST API That Doesn\u2019t SUCK"
+  title: "How to Design a REST API That Doesn\u2019t SUCK"
 - author: Marques Brownlee
   categories: *id006
   date: '2024-07-19T00:56:54+00:00'
