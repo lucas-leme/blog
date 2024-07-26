@@ -1,5 +1,43 @@
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id005
+  - Tech
+  - Youtube
+  date: '2024-07-26T18:14:38+00:00'
+  description: 'That time the FBI visited the studio...
+
+
+    Storytime podcast episode coming soon: http://youtube.com/WVFRM
+
+
+    The original Escobar phone video: https://youtu.be/O8FJSjy3bXA
+
+
+    https://sifted.eu/articles/escobars-ceo-who-sued-klarna-for-millions-is-now-in-custody-for-fraud-news
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: http://youtube.com/MKBHD
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/_9prH7NFmLI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=_9prH7NFmLI
+  title: My FBI Declassified Story
+- author: ArjanCodes
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -210,9 +248,7 @@
   path: https://open.spotify.com/episode/53fzZRuaewNjpHrdGQXY7O
   title: Kamala Harris, In Context
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2024-07-23T22:15:53+00:00'
   description: 'The Samsung Galaxy Watch Ultra is great.... it''s also a pretty shameless
     rip.
@@ -258,7 +294,7 @@
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-07-21T15:15:02+00:00'
   description: "Whew, what a disaster! I share my thoughts about the whole CrowdStrike\
     \ situation and the fundamental problem that I think lies at the core of this.\
@@ -287,38 +323,6 @@
   image: https://i2.ytimg.com/vi/UdJr2p5RrF0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=UdJr2p5RrF0
   title: CrowdStrike Exposes a FUNDAMENTAL Problem in Software
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-07-19T00:56:54+00:00'
-  description: 'Smart rings are fun fitness trackers, but turns out they''re not for
-    me.
-
-
-    Get $350 off the Pod 4 Ultra or $200 off the Pod 4 at https://eightsleep.com/MKBHD
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Samsung provided the Galaxy Ring for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/tYUC_Ni3lb4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=tYUC_Ni3lb4
-  title: 'Samsung Galaxy Ring Review: I Wanted to Love It!'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
