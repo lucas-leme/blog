@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-26T15:33:07+00:00'
+  description: "Resultado \xE9 mais um sinal de confian\xE7a para que o banco central\
+    \ dos EUA reduza os juros brevemente"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/indice-favorito-do-fed-pce-sobe-moderadamente-em-junho/
+  title: "\xCDndice favorito do Fed, PCE sobe moderadamente em junho"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   path: https://investnews.com.br/financas/rali-insano-do-iene-arrisca-desmoronar-se-bc-do-japao-decepcionar/
   title: "Rali \u2018insano\u2019 do iene arrisca desmoronar se BC do Jap\xE3o decepcionar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-26T11:09:07+00:00'
   description: "A discuss\xE3o sobre uma poss\xEDvel recompra veio \xE0 tona no ano\
     \ passado, quando o fundo soberano de Abu Dhabi  prop\xF4s um investimento em\
@@ -69,15 +77,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ecesnz/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-25T13:38:33+00:00'
-  description: "Crescimento \xE9 de 2,8% e expectativa era de 2%; reuni\xE3o do Fed\
-    \ est\xE1 marcada para semana que vem"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/crescimento-economico-dos-eua-volta-a-ganhar-forca-no-2o-trimestre-inflacao-desacelera/
-  title: "PIB dos EUA cresce acima do esperado e infla\xE7\xE3o desacelera; como ficam\
-    \ os juros?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-23T04:01:24+00:00'
