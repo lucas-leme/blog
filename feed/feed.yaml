@@ -6,7 +6,7 @@
   description: 'That time the FBI visited the studio...
 
 
-    Storytime podcast episode coming soon: http://youtube.com/WVFRM
+    Storytime podcast episode coming soon: https://youtube.com/Waveform
 
 
     The original Escobar phone video: https://youtu.be/O8FJSjy3bXA
@@ -78,7 +78,7 @@
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: Don't Let Your Code Cause the Next Software Disaster
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-07-26T02:17:22+00:00'
   description: Investment managers are being caught off guard by tougher questions
@@ -87,8 +87,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/07/25/investment-manager-selection-is-hotting-up-are-you-ready-for-the-tough-questions/
   title: Investment Manager Selection Is Hotting Up. Are You Ready for the Tough Questions?
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-07-26T00:00:00+00:00'
+  description: "The 2024 presidential election has taken a major turn after Biden\
+    \ dropped out of the race. WSJ\u2019s Molly Ball charts how the 2024 political\
+    \ election has hit a reset and what Harris\u2019s candidacy could mean for her\
+    \ party and the country.\_  Further Listening: - Takeaways from the RNC: Trump\
+    \ Is in Control\_  Further Reading: - Biden Withdrawal Caps Weeks of Epic Political\
+    \ Turbulence\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5ttu3H6xdqvRODMQTCIAWu
+  title: The Week That Changed the Presidential Race
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-25T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -118,8 +131,7 @@
   path: https://open.spotify.com/episode/1dV46bNVo2FNMTN0QX0Oh9
   title: "#115 | POR QUE VOC\xCA DEVERIA INVESTIR NA BOLSA DE VALORES AGORA"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-07-25T00:00:00+00:00'
   description: "USAntibiotics's plant in Tennessee is one of the last plants in the\
     \ United States that makes amoxicillin, the crucial antibiotic that has been in\
@@ -165,7 +177,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-07-24T22:59:10+00:00'
   description: "<p>A economia chinesa passar\xE1 por uma desacelera\xE7\xE3o nos pr\xF3\
@@ -182,7 +194,7 @@
   title: "China vai \u2018all in\u2019 em ci\xEAncia e tecnologia (e aponta os \u2018\
     erros\u2019 dos EUA)"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-07-24T21:16:11+00:00'
   description: "<p>\u201COs fatos mudaram, ent\xE3o eu mudei de ideia.\u201D Bill\
     \ Dudley, o ex-presidente do Federal Reserve de Nova York e um dos economistas\
@@ -197,7 +209,7 @@
   path: https://braziljournal.com/mudei-de-ideia-fed-deve-cortar-ja-diz-bill-dudley/
   title: "\u201CMudei de ideia.\u201D\_Fed deve cortar j\xE1, diz Bill Dudley"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-07-24T11:09:21+00:00'
   description: Do the products and services of the companies you invest in create
     negative or positive material outcomes?
@@ -205,7 +217,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/24/measuring-corporate-impact-the-gold-is-in-the-details/
   title: 'Measuring Corporate Impact: The Gold Is in the Details'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-07-24T00:00:00+00:00'
   description: "CORTE EP #112: Ser\xE1 que o Brasil est\xE1 destinado a ficar para\
     \ tr\xE1s em rela\xE7\xE3o a outras economias emergentes?No epis\xF3dio 112 do\
@@ -234,19 +246,6 @@
   path: https://open.spotify.com/episode/2uPbkRXOWguHoSBLzdhQof
   title: "Corte para PodcastChuva de impostos de Haddad, d\xEDvida p\xFAblica explodindo\
     \ e crise fiscal agendada para 2027 | Corte EP #112"
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-24T00:00:00+00:00'
-  description: "Democrats are rallying around Vice President Kamala Harris as she\
-    \ takes over President Biden\u2019s campaign. WSJ\u2019s Tarini Parti discusses\
-    \ some key moments in her political career and explores what they reveal about\
-    \ her as a candidate.  Further Listening: - Biden Taps Out. Harris Taps In.\_\
-    \ - Takeaways from the RNC: Trump Is in Control\_  Further Reading: - Inside the\
-    \ Slow-Building Biden-Harris Relationship\_ - How Kamala Harris Views Policy\_\
-    \    Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/53fzZRuaewNjpHrdGQXY7O
-  title: Kamala Harris, In Context
 - author: Marques Brownlee
   categories: *id005
   date: '2024-07-23T22:15:53+00:00'
