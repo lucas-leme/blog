@@ -1,5 +1,24 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-26T13:00:28+00:00'
+  description: "O aumento de capital, parte do plano de recupera\xE7\xE3o judicial\
+    \ da empresa, envolveu emiss\xE3o de 18,8 bilh\xF5es de novas a\xE7\xF5es ao pre\xE7\
+    o de R$ 1,30"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/conselho-da-americanas-homologa-aumento-de-capital-de-r-245-bilhoes/
+  title: "Conselho da Americanas homologa aumento de capital de R$ 24,5 bilh\xF5es"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2024-07-26T12:36:41+00:00'
+  description: "A moeda apreciou cerca de 5% em rela\xE7\xE3o ao d\xF3lar desde meados\
+    \ de julho; expectativa do mercado \xE9 que o BOJ aumentar\xE1 a taxa de juros,\
+    \ mas se isso n\xE3o acontecer, o iene pode desabar"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/rali-insano-do-iene-arrisca-desmoronar-se-bc-do-japao-decepcionar/
+  title: "Rali \u2018insano\u2019 do iene arrisca desmoronar se BC do Jap\xE3o decepcionar"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-26T11:09:07+00:00'
   description: "A discuss\xE3o sobre uma poss\xEDvel recompra veio \xE0 tona no ano\
@@ -50,17 +69,8 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ecesnz/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2024-07-25T20:25:43+00:00'
-  description: "O principal \xEDndice acion\xE1rio da B3 encerrou a quinta-feira (25)\
-    \ em queda de 0,37%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ibovespa-tem-nova-queda-mas-fecha-acima-de-126-mil-pontos-puxada-por-vale-e-gerdau/
-  title: Ibovespa tem terceira queda seguida, puxada por Vale e Gerdau
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-25T13:38:33+00:00'
   description: "Crescimento \xE9 de 2,8% e expectativa era de 2%; reuni\xE3o do Fed\
     \ est\xE1 marcada para semana que vem"
@@ -68,14 +78,6 @@
   path: https://investnews.com.br/economia/crescimento-economico-dos-eua-volta-a-ganhar-forca-no-2o-trimestre-inflacao-desacelera/
   title: "PIB dos EUA cresce acima do esperado e infla\xE7\xE3o desacelera; como ficam\
     \ os juros?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-25T13:12:23+00:00'
-  description: "Investidores est\xE3o correndo para redistribuir dinheiro em meio\
-    \ a crescentes d\xFAvidas sobre as perspectivas da economia dos Estados Unidos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mercados-reavaliam-ativos-que-alcancaram-niveis-estupidos/
-  title: Crescimento global mais fraco esfria frenesi com techs, Treasuries e cobre
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-07-23T04:01:24+00:00'
