@@ -1,5 +1,16 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-27T12:26:39+00:00'
+  description: "A opera\xE7\xE3o decorre de contratos de comercializa\xE7\xE3o de\
+    \ energia gerada no ambiente regulado da usina termel\xE9trica Porto de Sergipe\
+    \ I, relativos ao per\xEDodo de janeiro de 2026 a fevereiro de 2030"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/eneva-liquida-com-bradesco-r-27-bi-em-recebiveis-ligados-a-contratos-de-energia/
+  title: "Eneva liquida com Bradesco R$ 2,7 bi em  receb\xEDveis ligados a contratos\
+    \ de energia"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-26T21:02:24+00:00'
   description: "A estimativa \xE9 que a Galp Energia detenha pelo menos 10 bilh\xF5\
@@ -10,8 +21,7 @@
   title: "Petrobras faz oferta n\xE3o vinculante por fatia em mega bloco de petr\xF3\
     leo e g\xE1s na Nam\xEDbia"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-26T20:51:42+00:00'
   description: "O principal \xEDndice acion\xE1rio da B3 encerrou a sexta-feira (26)\
     \ aos 127.591 pontos"
@@ -20,22 +30,13 @@
   title: "Ibovespa fecha em alta impulsionado por Vale; d\xF3lar encerra semana a\
     \ R$ 5,65"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-26T15:33:07+00:00'
   description: "Resultado \xE9 mais um sinal de confian\xE7a para que o banco central\
     \ dos EUA reduza os juros brevemente"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/indice-favorito-do-fed-pce-sobe-moderadamente-em-junho/
   title: "\xCDndice favorito do Fed, PCE sobe moderadamente em junho"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-26T13:00:28+00:00'
-  description: "O aumento de capital, parte do plano de recupera\xE7\xE3o judicial\
-    \ da empresa, envolveu emiss\xE3o de 18,8 bilh\xF5es de novas a\xE7\xF5es ao pre\xE7\
-    o de R$ 1,30"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/conselho-da-americanas-homologa-aumento-de-capital-de-r-245-bilhoes/
-  title: "Conselho da Americanas homologa aumento de capital de R$ 24,5 bilh\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
