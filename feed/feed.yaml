@@ -1,3 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-07-29T15:08:13+00:00'
+  description: "Confidence is a necessary but insufficient factor in long-term investing\
+    \ success. Raising the metaknowledge quotient of the investment team can help\
+    \ protect against the surprises that lurk in left-tail events and remain unknown,\
+    \ until they\u2019re known."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
+  title: What Do Experts Really Know? Embracing the Unknown
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -23,7 +34,7 @@
   path: https://open.spotify.com/episode/73Zk6Nibaw7diW1cv9qj5R
   title: Kris Abdelmessih - Life Through a Volatility Lens (S7E10)
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-07-28T04:39:25+00:00'
   description: "<p>\u201CUma verdadeira e ampla frente contra o autoritarismo.\u201D\
@@ -118,8 +129,7 @@
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: Don't Let Your Code Cause the Next Software Disaster
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-07-26T02:17:22+00:00'
   description: Investment managers are being caught off guard by tougher questions
     from an increasingly sophisticated allocator market. Are you prepared for your
@@ -142,7 +152,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/07/2024"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-07-26T00:00:00+00:00'
   description: "The 2024 presidential election has taken a major turn after Biden\
@@ -185,7 +195,7 @@
   path: https://open.spotify.com/episode/1dV46bNVo2FNMTN0QX0Oh9
   title: "#115 | POR QUE VOC\xCA DEVERIA INVESTIR NA BOLSA DE VALORES AGORA"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-07-25T00:00:00+00:00'
   description: "USAntibiotics's plant in Tennessee is one of the last plants in the\
     \ United States that makes amoxicillin, the crucial antibiotic that has been in\
@@ -231,7 +241,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-07-24T22:59:10+00:00'
   description: "<p>A economia chinesa passar\xE1 por uma desacelera\xE7\xE3o nos pr\xF3\
     ximos anos, um decl\xEDnio j\xE1 contratado por causa da din\xE2mica demogr\xE1\
@@ -246,14 +256,6 @@
   path: https://braziljournal.com/china-vai-all-in-em-ciencia-e-tecnologia-e-aponta-os-erros-dos-eua/
   title: "China vai \u2018all in\u2019 em ci\xEAncia e tecnologia (e aponta os \u2018\
     erros\u2019 dos EUA)"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-07-24T11:09:21+00:00'
-  description: Do the products and services of the companies you invest in create
-    negative or positive material outcomes?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/24/measuring-corporate-impact-the-gold-is-in-the-details/
-  title: 'Measuring Corporate Impact: The Gold Is in the Details'
 - author: Market Makers
   categories: *id004
   date: '2024-07-24T00:00:00+00:00'
