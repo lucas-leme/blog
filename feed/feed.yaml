@@ -9,6 +9,31 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
   title: What Do Experts Really Know? Embracing the Unknown
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2024-07-29T00:00:00+00:00'
+  description: "The author proposes the practical correction of \u20131.25 \u2013\
+    \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
+  title: A Heuristic for Fat-Tailed Stock Market Returns
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-07-29T00:00:00+00:00'
+  description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
+    \ Feliz Solomon spent months investigating and discovered that many of these texts\
+    \ are coming from slaves trapped in scam dens in Southeast Asia. She talked to\
+    \ one person who had been imprisoned there and learned how he became ensnared\
+    \ in a growing criminal empire.  Further Listening: - Pig Butchering: A Texting\
+    \ Scam With A Crypto Twist\_  Further Reading:  - Posing As \u2018Alicia,\u2019\
+    \ This Man Scammed Hundreds Online. He Was Also A Victim.\_ - \u2018She Hooked\
+    \ Me\u2019: How An Online Scam Cost A Senior Citizen His Life\u2019s Savings\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1uQIxIlh7Qt3CZvVdsfPXF
+  title: The Slaves Sending You Scam Texts
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -152,8 +177,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/07/2024"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-07-26T00:00:00+00:00'
   description: "The 2024 presidential election has taken a major turn after Biden\
     \ dropped out of the race. WSJ\u2019s Molly Ball charts how the 2024 political\
@@ -194,20 +218,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a74e346ccbe91d320cb40503d
   path: https://open.spotify.com/episode/1dV46bNVo2FNMTN0QX0Oh9
   title: "#115 | POR QUE VOC\xCA DEVERIA INVESTIR NA BOLSA DE VALORES AGORA"
-- author: The Journal.
-  categories: *id002
-  date: '2024-07-25T00:00:00+00:00'
-  description: "USAntibiotics's plant in Tennessee is one of the last plants in the\
-    \ United States that makes amoxicillin, the crucial antibiotic that has been in\
-    \ shortage in some forms since 2022. But the plant isn\u2019t breaking even, financially.\
-    \ WSJ\u2019s Liz Essley Whyte reports on why it is so hard for American-made generic\
-    \ drugs manufacturers to survive.  Further Listening: - Will Florida\u2019s Plan\
-    \ to Get Cheap Drugs From Canada Work?\_ - Trillion Dollar Shot\_  Further Reading:\
-    \ - Drug Shortages in America Reach a Record High\_ - Drug Shortages Trigger FTC\
-    \ Probe\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3GPX52R477uZNlNt2nZIFl
-  title: The Quest to Save American-Made Antibiotics
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -318,7 +328,7 @@
   path: https://www.youtube.com/watch?v=UKffsivi17Q
   title: When Companies Copy Each Other...
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-07-23T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -386,8 +396,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/wage-insurance-a-potential-policy-for-displaced-workers/
   title: 'Wage Insurance: A Potential Policy for Displaced Workers'
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id007
   date: '2024-07-17T00:00:00+00:00'
   description: A novel corporate bond transaction costs analysis determines which
     systematic bond strategies remain profitable when fund size increases.
@@ -416,7 +425,7 @@
   path: https://theovershoot.co/p/how-many-benign-inflation-prints
   title: How Many Benign Inflation Prints Are Enough?
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-07-11T00:00:00+00:00'
   description: "A Tenax Capital \xE9 uma gestora com R$ 1,3 bilh\xE3o sob gest\xE3\
     o, divididos em tr\xEAs estrat\xE9gias: macro, renda vari\xE1vel e cr\xE9dito,\
@@ -450,14 +459,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
   title: Levering Up to Do Good
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2024-07-01T00:00:00+00:00'
-  description: Derivatives investments have a measurable ESG impact. This paper proposes
-    a framework for applying ESG screens to portfolios that include derivatives.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/esg-and-derivatives
-  title: ESG and Derivatives
 - author: The Overshoot
   categories: *id009
   date: '2024-06-29T20:45:42+00:00'
