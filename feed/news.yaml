@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-30T11:34:49+00:00'
+  description: "Segundo Mar\xEDa Corina Machado, os n\xFAmeros mostram uma vit\xF3\
+    ria categ\xF3rica e \u201Cirrevers\xEDvel\u201D: 6,2 milh\xF5es de votos para\
+    \ Gonz\xE1lez, contra 2,8 milh\xF5es para Maduro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lider-da-oposicao-na-venezuela-diz-ter-prova-de-fraude-eleitoral-paises-pedem-transparencia/
+  title: "L\xEDder da oposi\xE7\xE3o na Venezuela diz ter prova de fraude eleitoral;\
+    \ pa\xEDses pedem transpar\xEAncia"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,8 +50,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-29T21:48:40+00:00'
   description: "Declara\xE7\xE3o conjunta dos aliados mais pr\xF3ximos de Maduro \xE9\
     \ vista como  forma de aumentar a press\xE3o sobre governo venezuelano"
@@ -48,7 +58,7 @@
   path: https://investnews.com.br/economia/brasil-mexico-e-colombia-negociam-nota-sobre-venezuela-dizem-fontes/
   title: "Brasil, M\xE9xico e Col\xF4mbia negociam nota sobre Venezuela, dizem fontes"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-07-29T20:03:59+00:00'
   description: "Mercado aponta o bin\xF3culo para os fundos de papel e analistas esperam\
@@ -58,7 +68,7 @@
   title: "Cen\xE1rio para fundos imobili\xE1rios mudou: com juro alto, investimento\
     \ vale a pena?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-07-29T15:24:43+00:00'
   description: "O republicano disse que tornar\xE1 os EUA a \u201Ccapital cripto do\
     \ planeta e a superpot\xEAncia do Bitcoin\u201D se retornar \xE0 Casa Branca ap\xF3\
@@ -66,15 +76,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/bitcoin-atinge-quase-us-70-000-apos-fala-pro-cripto-de-trump/
   title: "Bitcoin atinge quase US$ 70.000 ap\xF3s fala pr\xF3-cripto de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-29T12:37:49+00:00'
-  description: "Guilherme Mello, secret\xE1rio de Pol\xEDtica Econ\xF4mica do Minist\xE9\
-    rio da Fazenda, afirmou que as taxas de juros no pa\xEDs est\xE3o acima do neutro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/corte-de-juros-nao-deve-acontecer-nesta-semana-aponta-secretario-de-haddad/
-  title: "Corte de juros n\xE3o deve acontecer nesta semana, aponta secret\xE1rio\
-    \ de Haddad"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
