@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-07-30T15:36:43+00:00'
@@ -7,6 +7,15 @@
   image: https://i3.ytimg.com/vi/6y-GZp_UUUo/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6y-GZp_UUUo
   title: This is the New Siri!
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2024-07-30T00:00:00+00:00'
+  description: A 1974 FAJ article rejected earnings per share as the main metric for
+    equity analysis, spurring research that expanded the set of valuation tools.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/earnings-per-share-dont-count-at-50
+  title: "\u201CEarnings per Share Don\u2019t Count\u201D at 50"
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -19,7 +28,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-07-29T15:08:13+00:00'
   description: "Confidence is a necessary but insufficient factor in long-term investing\
@@ -30,8 +39,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
   title: What Do Experts Really Know? Embracing the Unknown
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id001
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
@@ -39,7 +47,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
   title: A Heuristic for Fat-Tailed Stock Market Returns
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-29T00:00:00+00:00'
   description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
@@ -79,7 +87,7 @@
   path: https://open.spotify.com/episode/73Zk6Nibaw7diW1cv9qj5R
   title: Kris Abdelmessih - Life Through a Volatility Lens (S7E10)
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-07-28T04:39:25+00:00'
   description: "<p>\u201CUma verdadeira e ampla frente contra o autoritarismo.\u201D\
@@ -95,7 +103,7 @@
   path: https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/
   title: "OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-07-26T18:14:38+00:00'
   description: 'That time the FBI visited the studio...
 
@@ -131,7 +139,7 @@
   path: https://www.youtube.com/watch?v=_9prH7NFmLI
   title: My FBI Declassified Story
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -172,7 +180,7 @@
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: 8 Tips to Prevent Your Software from Becoming the Next Big Disaster
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-07-26T02:17:22+00:00'
   description: Investment managers are being caught off guard by tougher questions
     from an increasingly sophisticated allocator market. Are you prepared for your
@@ -195,7 +203,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/07/2024"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-07-26T00:00:00+00:00'
   description: "The 2024 presidential election has taken a major turn after Biden\
     \ dropped out of the race. WSJ\u2019s Molly Ball charts how the 2024 political\
@@ -207,7 +215,7 @@
   path: https://open.spotify.com/episode/5ttu3H6xdqvRODMQTCIAWu
   title: The Week That Changed the Presidential Race
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-07-25T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -269,7 +277,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-07-24T22:59:10+00:00'
   description: "<p>A economia chinesa passar\xE1 por uma desacelera\xE7\xE3o nos pr\xF3\
     ximos anos, um decl\xEDnio j\xE1 contratado por causa da din\xE2mica demogr\xE1\
@@ -285,7 +293,7 @@
   title: "China vai \u2018all in\u2019 em ci\xEAncia e tecnologia (e aponta os \u2018\
     erros\u2019 dos EUA)"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-07-24T00:00:00+00:00'
   description: "CORTE EP #112: Ser\xE1 que o Brasil est\xE1 destinado a ficar para\
     \ tr\xE1s em rela\xE7\xE3o a outras economias emergentes?No epis\xF3dio 112 do\
@@ -330,7 +338,7 @@
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2024-07-21T15:15:02+00:00'
   description: "Whew, what a disaster! I share my thoughts about the whole CrowdStrike\
     \ situation and the fundamental problem that I think lies at the core of this.\
@@ -382,14 +390,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/wage-insurance-a-potential-policy-for-displaced-workers/
   title: 'Wage Insurance: A Potential Policy for Displaced Workers'
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2024-07-17T00:00:00+00:00'
-  description: A novel corporate bond transaction costs analysis determines which
-    systematic bond strategies remain profitable when fund size increases.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/transaction-costs-and-capacity-of-systematic-corporate-bond-strategies
-  title: Transaction Costs and Capacity of Systematic Corporate Bond Strategies
 - author: The View From Apollo
   categories:
   - Podcasts
