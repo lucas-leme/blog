@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-30T13:33:51+00:00'
+  description: "A holding de Warren Buffett come\xE7ou a vender os papeis do banco\
+    \ americano no meio de julho, quando o pre\xE7o acumulava 31% de alta no ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/buffett-vende-us-3-bilhoes-em-acoes-do-bofa-e-reduz-participacao/
+  title: "Buffett vende US$ 3 bilh\xF5es em a\xE7\xF5es do BofA e reduz participa\xE7\
+    \xE3o"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -59,8 +69,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-29T20:03:59+00:00'
   description: "Mercado aponta o bin\xF3culo para os fundos de papel e analistas esperam\
     \ vida dura para os produtos de tijolos"
@@ -68,15 +77,6 @@
   path: https://investnews.com.br/financas/cenario-para-fundos-imobiliarios-mudou-com-juro-alto-investimento-vale-a-pena/
   title: "Cen\xE1rio para fundos imobili\xE1rios mudou: com juro alto, investimento\
     \ vale a pena?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-29T15:24:43+00:00'
-  description: "O republicano disse que tornar\xE1 os EUA a \u201Ccapital cripto do\
-    \ planeta e a superpot\xEAncia do Bitcoin\u201D se retornar \xE0 Casa Branca ap\xF3\
-    s a elei\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-atinge-quase-us-70-000-apos-fala-pro-cripto-de-trump/
-  title: "Bitcoin atinge quase US$ 70.000 ap\xF3s fala pr\xF3-cripto de Trump"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
