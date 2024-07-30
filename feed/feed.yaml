@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-07-30T15:36:43+00:00'
@@ -16,6 +16,22 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/earnings-per-share-dont-count-at-50
   title: "\u201CEarnings per Share Don\u2019t Count\u201D at 50"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-07-30T00:00:00+00:00'
+  description: "Today, Olympics officials in Paris postponed the men\u2019s triathlon\
+    \ because of elevated E. coli levels in the River Seine, where the event was set\
+    \ to take place. WSJ\u2019s Joshua Robinson reports on how decades of trying to\
+    \ clean up the river may not have been successful.\_  Further Reading: - Paris\
+    \ Olympics Postpones Triathlon Because of Pollution in River Seine\_ - Yes, They\u2019\
+    re Actually Doing Olympic Swimming in the River Seine. Gulp.\_\_ - Herculean Feat\
+    \ in Paris Olympics: Make the Seine Safe to Swim\_\_  Further Listening: - Simone\
+    \ Biles and the Power of Saying No\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/04brz2dxwE6mfrzkCIe4rF
+  title: "The Paris Olympics\u2019 $1.5 Billion Poop Problem"
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -28,7 +44,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-07-29T15:08:13+00:00'
   description: "Confidence is a necessary but insufficient factor in long-term investing\
@@ -47,8 +63,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
   title: A Heuristic for Fat-Tailed Stock Market Returns
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-07-29T00:00:00+00:00'
   description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
     \ Feliz Solomon spent months investigating and discovered that many of these texts\
@@ -103,7 +118,7 @@
   path: https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/
   title: "OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-07-26T18:14:38+00:00'
   description: 'That time the FBI visited the studio...
 
@@ -180,7 +195,7 @@
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: 8 Tips to Prevent Your Software from Becoming the Next Big Disaster
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-07-26T02:17:22+00:00'
   description: Investment managers are being caught off guard by tougher questions
     from an increasingly sophisticated allocator market. Are you prepared for your
@@ -202,18 +217,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/26072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/07/2024"
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-26T00:00:00+00:00'
-  description: "The 2024 presidential election has taken a major turn after Biden\
-    \ dropped out of the race. WSJ\u2019s Molly Ball charts how the 2024 political\
-    \ election has hit a reset and what Harris\u2019s candidacy could mean for her\
-    \ party and the country.\_  Further Listening: - Takeaways from the RNC: Trump\
-    \ Is in Control\_  Further Reading: - Biden Withdrawal Caps Weeks of Epic Political\
-    \ Turbulence\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5ttu3H6xdqvRODMQTCIAWu
-  title: The Week That Changed the Presidential Race
 - author: Market Makers
   categories: &id006
   - Podcasts
