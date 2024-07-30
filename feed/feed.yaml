@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-07-30T15:36:43+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/6y-GZp_UUUo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=6y-GZp_UUUo
+  title: This is the New Siri!
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -10,7 +19,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-07-29T15:08:13+00:00'
   description: "Confidence is a necessary but insufficient factor in long-term investing\
@@ -30,7 +39,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
   title: A Heuristic for Fat-Tailed Stock Market Returns
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-29T00:00:00+00:00'
   description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
@@ -70,7 +79,7 @@
   path: https://open.spotify.com/episode/73Zk6Nibaw7diW1cv9qj5R
   title: Kris Abdelmessih - Life Through a Volatility Lens (S7E10)
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-07-28T04:39:25+00:00'
   description: "<p>\u201CUma verdadeira e ampla frente contra o autoritarismo.\u201D\
@@ -86,9 +95,7 @@
   path: https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/
   title: "OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-07-26T18:14:38+00:00'
   description: 'That time the FBI visited the studio...
 
@@ -165,7 +172,7 @@
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: 8 Tips to Prevent Your Software from Becoming the Next Big Disaster
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-07-26T02:17:22+00:00'
   description: Investment managers are being caught off guard by tougher questions
     from an increasingly sophisticated allocator market. Are you prepared for your
@@ -188,7 +195,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/26072024
   title: "BC - Focus - Relat\xF3rio de Mercado - 26/07/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-07-26T00:00:00+00:00'
   description: "The 2024 presidential election has taken a major turn after Biden\
     \ dropped out of the race. WSJ\u2019s Molly Ball charts how the 2024 political\
@@ -200,7 +207,7 @@
   path: https://open.spotify.com/episode/5ttu3H6xdqvRODMQTCIAWu
   title: The Week That Changed the Presidential Race
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-07-25T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -262,7 +269,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-07-24T22:59:10+00:00'
   description: "<p>A economia chinesa passar\xE1 por uma desacelera\xE7\xE3o nos pr\xF3\
     ximos anos, um decl\xEDnio j\xE1 contratado por causa da din\xE2mica demogr\xE1\
@@ -278,7 +285,7 @@
   title: "China vai \u2018all in\u2019 em ci\xEAncia e tecnologia (e aponta os \u2018\
     erros\u2019 dos EUA)"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-07-24T00:00:00+00:00'
   description: "CORTE EP #112: Ser\xE1 que o Brasil est\xE1 destinado a ficar para\
     \ tr\xE1s em rela\xE7\xE3o a outras economias emergentes?No epis\xF3dio 112 do\
@@ -307,37 +314,6 @@
   path: https://open.spotify.com/episode/2uPbkRXOWguHoSBLzdhQof
   title: "Corte para PodcastChuva de impostos de Haddad, d\xEDvida p\xFAblica explodindo\
     \ e crise fiscal agendada para 2027 | Corte EP #112"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-07-23T22:15:53+00:00'
-  description: 'The Samsung Galaxy Watch Ultra is great.... it''s also a pretty shameless
-    rip.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: http://youtube.com/20syl
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Watch provided by Samsung for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/UKffsivi17Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=UKffsivi17Q
-  title: When Companies Copy Each Other...
 - author: Outliers
   categories: &id009
   - Podcasts
