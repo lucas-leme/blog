@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2024-07-29T23:01:50+00:00'
+  description: The latest numbers on growth, inflation, and incomes suggest that the
+    American economy is easing into a steady state growth regime with inflation still
+    slightly faster than the Fed's 2% goal.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff815e066-5e37-49bc-8503-f45f013c37fb_5013x4405.png
+  path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
+  title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -328,7 +339,7 @@
   path: https://www.youtube.com/watch?v=UKffsivi17Q
   title: When Companies Copy Each Other...
 - author: Outliers
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2024-07-23T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -416,16 +427,14 @@
   path: https://open.spotify.com/episode/5Ru91lLgj5JbVTAWLrUpKx
   title: The Search for Risk Premium with Apollo Strategist Alex Wright
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id008
   date: '2024-07-14T19:42:46+00:00'
   description: We should be cautious about overemphasizing the data from May and June
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff9ab58-db97-4e1b-b52b-b7b3fa92c3f3_4997x2625.png
   path: https://theovershoot.co/p/how-many-benign-inflation-prints
   title: How Many Benign Inflation Prints Are Enough?
 - author: Outliers
-  categories: *id008
+  categories: *id009
   date: '2024-07-11T00:00:00+00:00'
   description: "A Tenax Capital \xE9 uma gestora com R$ 1,3 bilh\xE3o sob gest\xE3\
     o, divididos em tr\xEAs estrat\xE9gias: macro, renda vari\xE1vel e cr\xE9dito,\
@@ -459,14 +468,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Levering-Up-to-Do-Good
   title: Levering Up to Do Good
-- author: The Overshoot
-  categories: *id009
-  date: '2024-06-29T20:45:42+00:00'
-  description: '"Immaculate disinflation" works best if consumer spending rises less
-    than incomes. That may finally be happening.'
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3549df5e-d557-4806-92ae-1a10845cc912_4997x2625.png
-  path: https://theovershoot.co/p/are-consumers-retrenching
-  title: Are Consumers Retrenching?
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen

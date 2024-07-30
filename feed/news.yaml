@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-29T21:48:40+00:00'
+  description: "Declara\xE7\xE3o conjunta dos aliados mais pr\xF3ximos de Maduro \xE9\
+    \ vista como  forma de aumentar a press\xE3o sobre governo venezuelano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-mexico-e-colombia-negociam-nota-sobre-venezuela-dizem-fontes/
+  title: "Brasil, M\xE9xico e Col\xF4mbia negociam nota sobre Venezuela, dizem fontes"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   path: https://investnews.com.br/financas/bitcoin-atinge-quase-us-70-000-apos-fala-pro-cripto-de-trump/
   title: "Bitcoin atinge quase US$ 70.000 ap\xF3s fala pr\xF3-cripto de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-29T12:37:49+00:00'
   description: "Guilherme Mello, secret\xE1rio de Pol\xEDtica Econ\xF4mica do Minist\xE9\
     rio da Fazenda, afirmou que as taxas de juros no pa\xEDs est\xE3o acima do neutro"
@@ -27,15 +35,6 @@
   path: https://investnews.com.br/economia/corte-de-juros-nao-deve-acontecer-nesta-semana-aponta-secretario-de-haddad/
   title: "Corte de juros n\xE3o deve acontecer nesta semana, aponta secret\xE1rio\
     \ de Haddad"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-29T12:25:38+00:00'
-  description: "Levantamento, que capta a percep\xE7\xE3o do mercado para indicadores\
-    \ econ\xF4micos, mostrou que o IPCA deve fechar este ano com alta de 4,10%,"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/focus-mercado-aumenta-expectativas-para-alta-da-inflacao-em-2024-e-2025/
-  title: "Focus: Mercado aumenta expectativas para alta da infla\xE7\xE3o em 2024\
-    \ e 2025"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
