@@ -12,7 +12,7 @@
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-07-31T12:22:50+00:00'
   description: How accurate is VIX on a realized basis and when does it diverge with
@@ -51,6 +51,20 @@
   path: https://open.spotify.com/episode/5hilYGw9V2orW4eQlQNzgH
   title: "OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B, CRIs,\
     \ CRAs e etc) | Corte EP #114"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-07-31T00:00:00+00:00'
+  description: "After ten years of sales, 500 million Amazon smart devices have found\
+    \ their way into homes around the world. But the company is losing billions of\
+    \ dollars on the devices. WSJ\u2019s Dana Mattioli discovered an accounting tool\
+    \ that\u2019s kept the huge losses under wraps.\_  Further Reading: -Alexa Is\
+    \ in Millions of Households\u2014and Amazon Is Losing Billions\_  Further Listening:\
+    \ -Amazon's Secret Operation to Gather Intel on Rivals\_ -What Is Amazon's Secret\
+    \ 'Project Nessie'?\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6pDzeTKVi5LtyzVZ0n5pnp
+  title: Alexa is in Millions of Homes and Amazon is Losing Billions
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -61,7 +75,7 @@
   path: https://www.youtube.com/watch?v=6y-GZp_UUUo
   title: This is the New Siri!
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
@@ -96,8 +110,7 @@
   title: "#116 | GUIA DAS ELEI\xC7\xD5ES NOS EUA: economia global, pol\xEDtica, guerras\
     \ e investimentos"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-07-30T00:00:00+00:00'
   description: "Today, Olympics officials in Paris postponed the men\u2019s triathlon\
     \ because of elevated E. coli levels in the River Seine, where the event was set\
@@ -137,7 +150,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-07-29T15:08:13+00:00'
   description: "Confidence is a necessary but insufficient factor in long-term investing\
     \ success. Raising the metaknowledge quotient of the investment team can help\
@@ -147,28 +160,13 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
   title: What Do Experts Really Know? Embracing the Unknown
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
   title: A Heuristic for Fat-Tailed Stock Market Returns
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-29T00:00:00+00:00'
-  description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
-    \ Feliz Solomon spent months investigating and discovered that many of these texts\
-    \ are coming from slaves trapped in scam dens in Southeast Asia. She talked to\
-    \ one person who had been imprisoned there and learned how he became ensnared\
-    \ in a growing criminal empire.  Further Listening: - Pig Butchering: A Texting\
-    \ Scam With A Crypto Twist\_  Further Reading:  - Posing As \u2018Alicia,\u2019\
-    \ This Man Scammed Hundreds Online. He Was Also A Victim.\_ - \u2018She Hooked\
-    \ Me\u2019: How An Online Scam Cost A Senior Citizen His Life\u2019s Savings\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1uQIxIlh7Qt3CZvVdsfPXF
-  title: The Slaves Sending You Scam Texts
 - author: Flirting with Models
   categories:
   - Podcasts
