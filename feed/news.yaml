@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-07-31T12:13:58+00:00'
+  description: "O Conselho Nacional Eleitorl venezuelano ainda n\xE3o comprovou o\
+    \ resultado anunciado nas elei\xE7\xF5es, que deu vit\xF3ria a\_Maduro\_com 51,21%\
+    \ dos votos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lula-reforca-cobranca-por-atas-antes-de-reconhecer-resultado-na-venezuela/
+  title: "Lula refor\xE7a cobran\xE7a por atas antes de reconhecer resultado na Venezuela"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "A\xE7\xE3o da Microsoft afunda, mas pap\xE9is de fabricantes de chips sobem\
     \ conforme rali de IA enfrenta divis\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-07-31T10:50:00+00:00'
   description: "Fed ter\xE1 de considerar impacto da elei\xE7\xE3o presidencial; no\
     \ Brasil, pesa a mudan\xE7a da diretoria do BC"
@@ -18,16 +27,6 @@
   path: https://investnews.com.br/economia/como-o-cenario-politico-pode-embaralhar-as-decisoes-dos-bancos-centrais-nesta-super-quarta/
   title: "Como o cen\xE1rio pol\xEDtico pode embaralhar as decis\xF5es dos Bancos\
     \ Centrais nesta Super Quarta"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-07-30T15:48:20+00:00'
-  description: "Superlano vinha recebendo amea\xE7as veladas do governo h\xE1 meses,\
-    \ incluindo os principais aliados de Maduro, Diosdado Cabello e Jorge Rodr\xED\
-    guez"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ex-parlamentar-de-oposicao-na-venezuela-e-detido-em-meio-a-protestos-contra-eleicao-de-maduro/
-  title: "Ex-parlamentar de oposi\xE7\xE3o na Venezuela \xE9 detido em meio a protestos\
-    \ contra elei\xE7\xE3o de Maduro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-07-30T13:33:51+00:00'

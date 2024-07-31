@@ -1,5 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-07-31T12:22:50+00:00'
+  description: How accurate is VIX on a realized basis and when does it diverge with
+    the market?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/07/31/how-well-does-the-market-predict-volatility/
+  title: How Well Does the Market Predict Volatility?
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-07-30T15:36:43+00:00'
@@ -8,7 +17,7 @@
   path: https://www.youtube.com/watch?v=6y-GZp_UUUo
   title: This is the New Siri!
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
@@ -44,7 +53,7 @@
   title: "#116 | GUIA DAS ELEI\xC7\xD5ES NOS EUA: economia global, pol\xEDtica, guerras\
     \ e investimentos"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-30T00:00:00+00:00'
   description: "Today, Olympics officials in Paris postponed the men\u2019s triathlon\
@@ -71,8 +80,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-07-29T15:08:13+00:00'
   description: "Confidence is a necessary but insufficient factor in long-term investing\
     \ success. Raising the metaknowledge quotient of the investment team can help\
@@ -82,7 +90,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
   title: What Do Experts Really Know? Embracing the Unknown
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
@@ -90,7 +98,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
   title: A Heuristic for Fat-Tailed Stock Market Returns
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-07-29T00:00:00+00:00'
   description: "Have you ever thought about who is behind your scam texts? WSJ reporter\
     \ Feliz Solomon spent months investigating and discovered that many of these texts\
@@ -145,7 +153,7 @@
   path: https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/
   title: "OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-07-26T18:14:38+00:00'
   description: 'That time the FBI visited the studio...
 
@@ -221,15 +229,6 @@
   image: https://i2.ytimg.com/vi/IzU_5fT4m_M/hqdefault.jpg
   path: https://www.youtube.com/watch?v=IzU_5fT4m_M
   title: Don't Let Your Code Cause the Next Software Disaster
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-26T02:17:22+00:00'
-  description: Investment managers are being caught off guard by tougher questions
-    from an increasingly sophisticated allocator market. Are you prepared for your
-    next beauty parade?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/25/investment-manager-selection-is-hotting-up-are-you-ready-for-the-tough-questions/
-  title: Investment Manager Selection Is Hotting Up. Are You Ready for the Tough Questions?
 - author: RSS - Feeds do BC
   categories:
   - Bacen
