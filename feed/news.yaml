@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-07-31T11:47:40+00:00'
+  description: "Os resultados trimestrais decepcionantes da Microsoft derreteram US$\
+    \ 340 bilh\xF5es\_ em valor de mercado da companhia na ter\xE7a-feira (31)"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/acao-da-microsoft-afunda-mas-papeis-de-fabricantes-de-chips-sobem-conforme-rali-de-ia-enfrenta-divisao/
+  title: "A\xE7\xE3o da Microsoft afunda, mas pap\xE9is de fabricantes de chips sobem\
+    \ conforme rali de IA enfrenta divis\xE3o"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   title: "Ex-parlamentar de oposi\xE7\xE3o na Venezuela \xE9 detido em meio a protestos\
     \ contra elei\xE7\xE3o de Maduro"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-07-30T13:33:51+00:00'
   description: "A holding de Warren Buffett come\xE7ou a vender os papeis do banco\
     \ americano no meio de julho, quando o pre\xE7o acumulava 31% de alta no ano"
@@ -68,15 +77,6 @@
   path: https://www.reddit.com/r/CFA/comments/1efjysv/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-29T20:03:59+00:00'
-  description: "Mercado aponta o bin\xF3culo para os fundos de papel e analistas esperam\
-    \ vida dura para os produtos de tijolos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/cenario-para-fundos-imobiliarios-mudou-com-juro-alto-investimento-vale-a-pena/
-  title: "Cen\xE1rio para fundos imobili\xE1rios mudou: com juro alto, investimento\
-    \ vale a pena?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
