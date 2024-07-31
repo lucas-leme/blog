@@ -111,6 +111,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/04brz2dxwE6mfrzkCIe4rF
   title: "The Paris Olympics\u2019 $1.5 Billion Poop Problem"
+- author: AQR
+  categories: &id010
+  - Quant
+  - Papers
+  date: '2024-07-30T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        July\
+    \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
+    >-</span>\n                <a class=\"cta cta--dark \">Portfolio Solutions Group</a>\n\
+    </span>\n                    </p><br /><br /><span style=\"font-size: 12px; color:\
+    \ gray;\">(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\"\
+    >FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
+  title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -412,9 +426,7 @@
   path: https://open.spotify.com/episode/2lj8LDTgmm61zW84ASXuhj
   title: '#131 - Como a Tenax atravessa a volatilidade da Bolsa brasileira'
 - author: AQR
-  categories: &id011
-  - Quant
-  - Papers
+  categories: *id010
   date: '2024-07-09T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        July\
     \ 9, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -826,7 +838,7 @@
   title: "BC - Copom Comunicado - 263\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: Apricitas Economics
-  categories: &id010
+  categories: &id011
   - Macro
   - Newsletters
   date: '2024-06-17T19:36:36+00:00'
@@ -836,20 +848,10 @@
   path: https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing
   title: The Death of NYC Congestion Pricing
 - author: Apricitas Economics
-  categories: *id010
+  categories: *id011
   date: '2024-05-25T13:31:02+00:00'
   description: Breaking Down the Data on the White House&#8217;s Increased Tariffs
     for Chinese EVs, Solar, Batteries, and More
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa15c70c6-1016-4f15-852d-490da7d8b81f_2886x1843.png
   path: https://www.apricitas.io/p/a-detailed-look-at-bidens-new-china
   title: "A Detailed Look at Biden\u2019s New China Tariffs"
-- author: AQR
-  categories: *id011
-  date: '2024-04-09T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        April\
-    \ 9, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
-    \ /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a\
-    \ href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/A-3-for-1-Solution-for-Concentrated-Stock
-  title: A 3-for-1 Solution for Concentrated Stock
