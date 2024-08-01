@@ -1,5 +1,15 @@
-- author: Marques Brownlee
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2024-08-01T11:39:57+00:00'
+  description: The relationship between stocks and interest rates is not reliably
+    stable. There are periods when equities are highly rate sensitive, and periods
+    when they aren't.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/01/small-caps-large-caps-and-interest-rates/
+  title: Small Caps, Large Caps, and Interest Rates
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-07-31T21:19:01+00:00'
@@ -115,8 +125,7 @@
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-07-31T12:22:50+00:00'
   description: How accurate is VIX on a realized basis and when does it diverge with
     the market?
@@ -124,7 +133,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/07/31/how-well-does-the-market-predict-volatility/
   title: How Well Does the Market Predict Volatility?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-07-31T00:00:00+00:00'
   description: "CORTE EP #114: FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade\
@@ -155,7 +164,7 @@
   title: "OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B, CRIs,\
     \ CRAs e etc) | Corte EP #114"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-07-31T00:00:00+00:00'
   description: "After ten years of sales, 500 million Amazon smart devices have found\
@@ -169,7 +178,7 @@
   path: https://open.spotify.com/episode/6pDzeTKVi5LtyzVZ0n5pnp
   title: Alexa is in Millions of Homes and Amazon is Losing Billions
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-07-30T15:36:43+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/6y-GZp_UUUo/hqdefault.jpg
@@ -185,7 +194,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/earnings-per-share-dont-count-at-50
   title: "\u201CEarnings per Share Don\u2019t Count\u201D at 50"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-07-30T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersFA\xC7\
@@ -211,7 +220,7 @@
   title: "#116 | GUIA DAS ELEI\xC7\xD5ES NOS EUA: economia global, pol\xEDtica, guerras\
     \ e investimentos"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-07-30T00:00:00+00:00'
   description: "Today, Olympics officials in Paris postponed the men\u2019s triathlon\
     \ because of elevated E. coli levels in the River Seine, where the event was set\
@@ -250,16 +259,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff815e066-5e37-49bc-8503-f45f013c37fb_5013x4405.png
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-07-29T15:08:13+00:00'
-  description: "Confidence is a necessary but insufficient factor in long-term investing\
-    \ success. Raising the metaknowledge quotient of the investment team can help\
-    \ protect against the surprises that lurk in left-tail events and remain unknown,\
-    \ until they\u2019re known."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/07/29/what-do-experts-really-know-embracing-the-unknown/
-  title: What Do Experts Really Know? Embracing the Unknown
 - author: CFA Institute Research and Policy Center
   categories: *id005
   date: '2024-07-29T00:00:00+00:00'
