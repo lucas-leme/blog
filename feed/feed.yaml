@@ -45,6 +45,21 @@
   image: https://i.scdn.co/image/ab6765630000ba8af9ef49bfdf34835822aa6789
   path: https://open.spotify.com/episode/73OFotFF04gDCD0oUKH4mT
   title: "#117 | Como encontrar (ou construir) a pr\xF3xima MAIOR EMPRESA DO MUNDO?"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-08-01T00:00:00+00:00'
+  description: "Russia freed wrongfully convicted Wall Street Journal reporter Evan\
+    \ Gershkovich and more than a dozen others on Thursday as part of the largest\
+    \ East-West prisoner swap since the Cold War. WSJ\u2019s Joe Parkinson and Drew\
+    \ Hinshaw report on the effort to bring Gershkovich home.\_  Further Listening:\
+    \ -Russia Tries a WSJ Reporter in a Secret Court\_ -Two Parents on a Crusade to\
+    \ Free Their Son\_  Further Reading: -Inside the Secret Negotiations to Free Evan\
+    \ Gershkovich\_ -WSJ Reporter Evan Gershkovich Is Free\_  Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/77jT1ZMhb4uCqjgbk2ln8J
+  title: "How the U.S. Negotiated Evan Gershkovich\u2019s Freedom"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -68,7 +83,7 @@
   title: 'Gensler v Trump: an interview with the most controversial man in American
     finance'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-07-31T21:19:01+00:00'
@@ -222,8 +237,7 @@
   title: "OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B, CRIs,\
     \ CRAs e etc) | Corte EP #114"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-07-31T00:00:00+00:00'
   description: "After ten years of sales, 500 million Amazon smart devices have found\
     \ their way into homes around the world. But the company is losing billions of\
@@ -236,7 +250,7 @@
   path: https://open.spotify.com/episode/6pDzeTKVi5LtyzVZ0n5pnp
   title: Alexa is in Millions of Homes and Amazon is Losing Billions
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-07-30T15:36:43+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/6y-GZp_UUUo/hqdefault.jpg
@@ -251,21 +265,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/earnings-per-share-dont-count-at-50
   title: "\u201CEarnings per Share Don\u2019t Count\u201D at 50"
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-30T00:00:00+00:00'
-  description: "Today, Olympics officials in Paris postponed the men\u2019s triathlon\
-    \ because of elevated E. coli levels in the River Seine, where the event was set\
-    \ to take place. WSJ\u2019s Joshua Robinson reports on how decades of trying to\
-    \ clean up the river may not have been successful.\_  Further Reading: - Paris\
-    \ Olympics Postpones Triathlon Because of Pollution in River Seine\_ - Yes, They\u2019\
-    re Actually Doing Olympic Swimming in the River Seine. Gulp.\_\_ - Herculean Feat\
-    \ in Paris Olympics: Make the Seine Safe to Swim\_\_  Further Listening: - Simone\
-    \ Biles and the Power of Saying No\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/04brz2dxwE6mfrzkCIe4rF
-  title: "The Paris Olympics\u2019 $1.5 Billion Poop Problem"
 - author: AQR
   categories: &id010
   - Quant
