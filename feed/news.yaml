@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-02T20:47:59+00:00'
+  description: Dados mais fracos da economia dos EUA direcionaram o mercado nesta
+    sexta-feira
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ibovespa-recua-127-a-1258-mil-pontos-dolar-cai-044/
+  title: "Ibovespa recua 1,27%, a 125,8 mil pontos; d\xF3lar cai 0,44%"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -59,23 +68,13 @@
   path: https://www.reddit.com/r/CFA/comments/1ei0mxt/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-01T20:25:25+00:00'
   description: "Moeda americana atinge maior cota\xE7\xE3o de fechamento desde 21\
     \ de dezembro de 2021"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/dolar-fecha-a-r5736-alta-de-143-ibovespa-cai-019/
   title: "D\xF3lar fecha a R$5,736, alta de 1,43%; Ibovespa cai 0,2%"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-07-31T11:47:40+00:00'
-  description: "Os resultados trimestrais decepcionantes da Microsoft derreteram US$\
-    \ 340 bilh\xF5es\_ em valor de mercado da companhia na ter\xE7a-feira (31)"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acao-da-microsoft-afunda-mas-papeis-de-fabricantes-de-chips-sobem-conforme-rali-de-ia-enfrenta-divisao/
-  title: "A\xE7\xE3o da Microsoft afunda, mas pap\xE9is de fabricantes de chips sobem\
-    \ conforme rali de IA enfrenta divis\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'

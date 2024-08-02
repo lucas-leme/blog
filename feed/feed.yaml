@@ -8,7 +8,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/02/private-equity-in-essence-plunder/
   title: 'Private Equity: In Essence, Plunder?'
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -46,6 +46,19 @@
   image: https://i3.ytimg.com/vi/zWPe_CUR4yU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=zWPe_CUR4yU
   title: How Much FASTER Is Python 3.13 Without the GIL?
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-08-02T00:00:00+00:00'
+  description: "As Kamala Harris\u2019s presidential campaign gets underway, Democrats\
+    \ and Republicans are rushing to define her. And Democrats are shifting the way\
+    \ they talk about the GOP. WSJ\u2019s Molly Ball explores the strategies behind\
+    \ how both sides are framing each other.\_  Further Listening: - The Week That\
+    \ Changed the Presidential Race\_ - Takeaways from the RNC: Trump Is in Control\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5Flvx0CSzxyMRSUTxtdvnd
+  title: '''Phony'' and ''Weird.'' Trump and Harris Size Each Other Up'
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -68,7 +81,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/01/small-caps-large-caps-and-interest-rates/
   title: Small Caps, Large Caps, and Interest Rates
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-08-01T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -105,8 +118,7 @@
   path: https://open.spotify.com/episode/73OFotFF04gDCD0oUKH4mT
   title: "#117 | Como encontrar (ou construir) a pr\xF3xima MAIOR EMPRESA DO MUNDO?"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-08-01T00:00:00+00:00'
   description: "Russia freed wrongfully convicted Wall Street Journal reporter Evan\
     \ Gershkovich and more than a dozen others on Thursday as part of the largest\
@@ -245,7 +257,7 @@
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-07-31T14:21:54+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -255,7 +267,7 @@
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-07-31T00:00:00+00:00'
   description: "CORTE EP #114: FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade\
     \ Market Makers), onde a pr\xF3xima gera\xE7\xE3o de investidores profissionais\
@@ -284,19 +296,6 @@
   path: https://open.spotify.com/episode/5hilYGw9V2orW4eQlQNzgH
   title: "OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B, CRIs,\
     \ CRAs e etc) | Corte EP #114"
-- author: The Journal.
-  categories: *id004
-  date: '2024-07-31T00:00:00+00:00'
-  description: "After ten years of sales, 500 million Amazon smart devices have found\
-    \ their way into homes around the world. But the company is losing billions of\
-    \ dollars on the devices. WSJ\u2019s Dana Mattioli discovered an accounting tool\
-    \ that\u2019s kept the huge losses under wraps.\_  Further Reading: -Alexa Is\
-    \ in Millions of Households\u2014and Amazon Is Losing Billions\_  Further Listening:\
-    \ -Amazon's Secret Operation to Gather Intel on Rivals\_ -What Is Amazon's Secret\
-    \ 'Project Nessie'?\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6pDzeTKVi5LtyzVZ0n5pnp
-  title: Alexa is in Millions of Homes and Amazon is Losing Billions
 - author: Marques Brownlee
   categories: *id005
   date: '2024-07-30T15:36:43+00:00'
