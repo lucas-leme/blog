@@ -1,3 +1,14 @@
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2024-08-02T22:38:50+00:00'
+  description: There is much less to the rise in joblessness than meets the eye, while
+    annualized wage growth is still running about 1.5 percentage points faster than
+    pre-pandemic.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd225104f-bf18-41f9-98c7-cd508d159fbd_5000x4396.png
+  path: https://theovershoot.co/p/the-us-job-market-is-better-than
+  title: The U.S. Job Market Is Better Than It Looks
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -304,7 +315,7 @@
   path: https://www.youtube.com/watch?v=6y-GZp_UUUo
   title: This is the New Siri!
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
@@ -327,9 +338,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
   title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2024-07-29T23:01:50+00:00'
   description: The latest numbers on growth, inflation, and incomes suggest that the
     American economy is easing into a steady state growth regime with inflation still
@@ -338,7 +347,7 @@
   path: https://theovershoot.co/p/strong-but-not-too-hot-the-us-economy
   title: 'Strong, But Not Too Hot: The U.S. Economy as of Mid-2024'
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
@@ -370,7 +379,7 @@
   path: https://open.spotify.com/episode/73Zk6Nibaw7diW1cv9qj5R
   title: Kris Abdelmessih - Life Through a Volatility Lens (S7E10)
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
+  categories: &id008
   - Economia
   date: '2024-07-28T04:39:25+00:00'
   description: "<p>\u201CUma verdadeira e ampla frente contra o autoritarismo.\u201D\
@@ -413,7 +422,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id007
+  categories: *id008
   date: '2024-07-24T22:59:10+00:00'
   description: "<p>A economia chinesa passar\xE1 por uma desacelera\xE7\xE3o nos pr\xF3\
     ximos anos, um decl\xEDnio j\xE1 contratado por causa da din\xE2mica demogr\xE1\
@@ -466,13 +475,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/07/wage-insurance-a-potential-policy-for-displaced-workers/
   title: 'Wage Insurance: A Potential Policy for Displaced Workers'
-- author: The Overshoot
-  categories: *id008
-  date: '2024-07-14T19:42:46+00:00'
-  description: We should be cautious about overemphasizing the data from May and June
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff9ab58-db97-4e1b-b52b-b7b3fa92c3f3_4997x2625.png
-  path: https://theovershoot.co/p/how-many-benign-inflation-prints
-  title: How Many Benign Inflation Prints Are Enough?
 - author: Outliers
   categories: *id009
   date: '2024-07-11T00:00:00+00:00'
