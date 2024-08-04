@@ -1,0 +1,48 @@
+---
+title: "PCA #1 - A Economia Global entrará em Recessão?"
+author: "Lucas Leme Santos"
+image: "https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg"
+date: "2024-4-8"
+categories: [macro, pca]
+toc: true
+toc_sticky: true
+execute:
+    echo: false
+    freeze: auto
+
+lang: pt-BR
+---
+
+Perspectivas das Classes de Ativos - A Economia Global entrará em Recessão?
+
+## Economia Americana
+
+No mês de julho de 2024, houve um aumento na volatilidade no mercado de capitais. O índice VIX subiu mais de 80% ao longo do mês. 
+Esse aumento na percepção de risco se deve primordialmente à dúvida sobre quando o FED irá iniciar o ciclo de afrouxamento monetário. 
+Na última semana do mês de julho, o FOMC se reuniu e decidiu manter a taxa de juros inalterada. 
+Dias após a decisão, dados do mercado de trabalho vieram no sentido de uma deterioração, porém dados de atividade econômica apontam para um economia ainda resiliente.
+
+Dois dados relevantes da economia americana são a taxa de desemprego e o número de vagas criadas. 
+No entanto, o mercado tinha uma expectativa de criação de 175 mil vagas, mas o número veio abaixo do esperado, com apenas 114 mil vagas criadas. 
+Além disso, a taxa de desemprego também veio acima do esperado, atingindo 4,3% da população desempregada, contra uma expectativa de 4,1%.
+Esses dados, que apontam para uma deterioração do mercado de trabalho, vieram após a decisão do FOMC. Vale ressaltar que a próxima reunião do FOMC só ocorrerá em setembro, ou seja, daqui a 2 meses. 
+Essa situação gerou uma escalada na percepção de risco, uma vez que os efeitos da política monetária demoram a surtir efeito na economia e o FED pode estar atrasado em iniciar o ciclo de afrouxamento monetário.
+
+```{=html}
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1reRs&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+```
+
+::: {.callout-note}
+SAHM Rule: Indicador para recessões com base na variação do desemprego.
+
+Esse indicador ressalta a característica inercial da taxa de desemprego, que quando apresenta uma tendência de aumento, tende a continuar.
+:::
+
+O mandato do FED é controlar a inflação e promover empregos de forma estável. Em cenários de inflação elevada, é necessário frear a economia aumentando a taxa de juros, o que resulta em um aumento do desemprego, de acordo com a curva de Phillips. A preocupação do mercado está em uma possível recessão, porém o PIB da economia americana continua forte. Apesar do aspecto inercial da taxa de desemprego (SAHM Rule), o nível atual ainda está abaixo da taxa natural de desemprego, que é maior que 4,5% e representa o nível em que a economia produz produto real a pleno emprego.
+Portanto, diante desses dados, há uma maior probabilidade de corte de juros na reunião de Setembro. Além disso, há também um aumento da probabilidade de uma recessão. No entanto, no final das contas, essa é a visão que o FED precisa impor nos agentes de mercado para frear a inflação.
+
+## Implicação para as classes de Ativos
+
+Num cenário de maior certeza de um corte de juros, é esperado um movimento de fechamento de taxas. Isso significa que o prêmio de risco nas taxas de títulos públicos tende a diminuir, resultando em taxas menores. No entanto, para as empresas, o cenário não é tão positivo. No curto prazo, é esperada uma redução na demanda devido à desaceleração da economia, o que impactará os lucros das companhias. Esse impacto já está sendo observado nesta temporada de balanços.
+
+No mês de julho, o ETF de juros soberanos americanos (GOVT) subiu 2,89%, enquanto o S&P500 caiu 1,5%. Nas classes de ativos brasileiras, o IMA-B teve uma valorização de 2,09%, o IRF-M de 1,34% e o IMA-S (Livre de Risco) de 0,93%. Na renda variável, o Ibovespa subiu 3%, mostrando-se menos afetado devido ao seu prêmio de risco já elevado. Por fim, o índice de Small Caps (SMLL), que apresenta uma correlação com o Ibovespa e a taxa de juros de longo prazo, subiu 2,13%.
