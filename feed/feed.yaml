@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-08-03T02:13:54+00:00'
@@ -34,6 +34,30 @@
   image: https://i3.ytimg.com/vi/vJEbP2Vdq2U/hqdefault.jpg
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-08-03T00:00:00+00:00'
+  description: "FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade Market Makers),\
+    \ o grupo onde a pr\xF3xima gera\xE7\xE3o de investidores profissionais da Bolsa\
+    \ se encontra: https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-20240803-YT-NTVYT-EPISODIO118-XComo\
+    \ investir em a\xE7\xF5es pode garantir retornos surpreendentes mesmo em momentos\
+    \ de incerteza no mercado?No epis\xF3dio de hoje, recebemos Camilo Marcantonio,\
+    \ gestor da Charles River, para trazer insights valiosos sobre como ele transformou\
+    \ um clube de investimentos em um fundo que alcan\xE7ou mais de 700% de rentabilidade\
+    \ em 10 anos, contrastando com os 130% do Ibovespa.Camilo detalha sua estrat\xE9\
+    gia vencedora para investir em a\xE7\xF5es, desde a an\xE1lise conservadora do\
+    \ valor justo das a\xE7\xF5es at\xE9 a import\xE2ncia da margem de seguran\xE7\
+    a. Al\xE9m disso, falamos sobre como enfrentar as incertezas do mercado com uma\
+    \ mentalidade de longo prazo e uma s\xF3lida filosofia de investimento.\_ostou\
+    \ do conte\xFAdo? Deixe um like no v\xEDdeo e inscreva-se no nosso canal para\
+    \ n\xE3o perder mais epis\xF3dios como este!Convidado: Camilo Marcantonio (s\xF3\
+    cio fundador e gestor da Charles River)Apresentadores: Thiago Salom\xE3o (@_salomoney)\
+    \ e Matheus Soares (@maatssoares)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a6e9719f72c8acbc523548c9e
+  path: https://open.spotify.com/episode/3bhP1loEdazdbG0qVzxDuP
+  title: "#118 | Segredos e estrat\xE9gias de um investidor que ATROPELA O IBOVESPA\
+    \ h\xE1 10 anos."
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -55,7 +79,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/02/private-equity-in-essence-plunder/
   title: 'Private Equity: In Essence, Plunder?'
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -94,7 +118,7 @@
   path: https://www.youtube.com/watch?v=zWPe_CUR4yU
   title: How Much FASTER Is Python 3.13 Without the GIL?
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-02T00:00:00+00:00'
   description: "As Kamala Harris\u2019s presidential campaign gets underway, Democrats\
@@ -128,8 +152,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/01/small-caps-large-caps-and-interest-rates/
   title: Small Caps, Large Caps, and Interest Rates
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2024-08-01T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -165,7 +188,7 @@
   path: https://open.spotify.com/episode/73OFotFF04gDCD0oUKH4mT
   title: "#117 | Como encontrar (ou construir) a pr\xF3xima MAIOR EMPRESA DO MUNDO?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-01T00:00:00+00:00'
   description: "Russia freed wrongfully convicted Wall Street Journal reporter Evan\
     \ Gershkovich and more than a dozen others on Thursday as part of the largest\
@@ -201,7 +224,7 @@
   title: 'Gensler v Trump: an interview with the most controversial man in American
     finance'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-07-31T21:19:01+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Cq1sQmFJBF0/hqdefault.jpg
@@ -302,7 +325,7 @@
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-07-31T14:21:54+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -311,36 +334,6 @@
   image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
-- author: Market Makers
-  categories: *id005
-  date: '2024-07-31T00:00:00+00:00'
-  description: "CORTE EP #114: FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade\
-    \ Market Makers), onde a pr\xF3xima gera\xE7\xE3o de investidores profissionais\
-    \ da Bolsa se encontra: https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-20240722-YT-NTVYT-EPISODIO114-4X\"\
-    Se voc\xEA investe em a\xE7\xF5es, \xE9 um absurdo ter renda fixa\" - Octavio\
-    \ Magalh\xE3esRecebemos Oct\xE1vio Magalh\xE3es (diretor de investimentos da Guepardo)\
-    \ e discutimos estrat\xE9gias essenciais para se manter fiel \xE0 sua disciplina\
-    \ de investimento, mesmo quando o mercado est\xE1 em queda. Ele compartilhou como\
-    \ ele evita a influ\xEAncia negativa do mercado, preferindo a\xE7\xF5es a renda\
-    \ fixa e explicando a import\xE2ncia de conhecer profundamente os neg\xF3cios\
-    \ nos quais investe.\_Exploramos a l\xF3gica por tr\xE1s de preferir investimentos\
-    \ em renda vari\xE1vel, como a\xE7\xF5es, que podem oferecer um retorno muito\
-    \ maior, e as armadilhas de se investir em ativos de renda fixa como NTNBs.\_\
-    Descubra por que manter dinheiro em CDI pode ser uma estrat\xE9gia inteligente\
-    \ enquanto espera por grandes oportunidades no mercado.Voc\xEA prefere investir\
-    \ em renda vari\xE1vel, renda fixa ou ambos?Se voc\xEA gostou deste v\xEDdeo,\
-    \ n\xE3o se esque\xE7a de deixar um like, inscrever-se no nosso canal para mais\
-    \ conte\xFAdo sobre investimento em a\xE7\xF5es e bolsa de valores.\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:https://youtu.be/zTz0uBoHrGwCom o cupom\
-    \ MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\_\
-    - - - - - - -OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B,\
-    \ CRIs, CRAs e etc) Market Makers #115Convidado: Oct\xE1vio Magalh\xE3es (diretor\
-    \ de investimentos da Guepardo)Apresentadores: Thiago Salom\xE3o (@_salomoney)\
-    \ e Matheus Soares (@maatssoares)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ac53fda8ca42848fc0aadab5d
-  path: https://open.spotify.com/episode/5hilYGw9V2orW4eQlQNzgH
-  title: "OCTAVIO MAGALH\xC3ES MANDA A REAL SOBRE RENDA FIXA (IPCA+6, NTN-B, CRIs,\
-    \ CRAs e etc) | Corte EP #114"
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
