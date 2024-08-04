@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-04T12:48:50+00:00'
+  description: "Adaptar resid\xEAncias e trens e expandir servi\xE7os para idosos\
+    \ est\xE3o nos planos da China para cumprir meta de crescimento econ\xF4mico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/para-estimular-consumo-domestico-china-mira-na-economia-grisalha/
+  title: "Para estimular consumo dom\xE9stico, China mira na \u2018economia grisalha\u2019"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/financas/ibovespa-recua-127-a-1258-mil-pontos-dolar-cai-044/
   title: "Ibovespa recua 1,27%, a 125,8 mil pontos; d\xF3lar cai 0,44%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-02T18:42:57+00:00'
   description: "Bolsas americanas amargam forte queda pelo segundo dia, enquanto o\
     \ d\xF3lar sobe no mundo \u2013 e aqui"
@@ -25,14 +33,6 @@
   path: https://investnews.com.br/economia/mercados-exageram-na-reacao-aos-dados-de-emprego-nos-eua-diz-solange-srour-do-ubs/
   title: "Mercados exageram na rea\xE7\xE3o aos dados de emprego nos EUA, diz Solange\
     \ Srour, do UBS"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-02T13:49:41+00:00'
-  description: "Alta na taxa de desemprego desencadeou um famoso indicador de recess\xE3\
-    o conhecido como a \"regra de Sahm\""
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/desemprego-acelera-nos-eua-e-pressiona-fed-por-corte-de-juros-em-setembro/
-  title: Desemprego acelera nos EUA e pressiona Fed por corte maior de juros em setembro
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
