@@ -26,25 +26,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./favicon.ico" rel="icon">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../favicon.ico" rel="icon">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,35 +70,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Procurar"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
 
 <script type="text/javascript">
@@ -111,38 +80,9 @@ gtag('js', new Date());
 gtag('config', 'G-6ET4F49FZC', { 'anonymize_ip': true});
 </script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <meta property="og:title" content="Lucas Leme - Blog">
-<meta property="og:description" content="Conteúdo que produzi ao longo do tempo.">
+<meta property="og:description" content="">
 <meta property="og:image" content="https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg">
 <meta property="og:site_name" content="Lucas Leme">
 </head>
@@ -154,7 +94,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
@@ -165,17 +105,17 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./"> 
+    <a class="nav-link" href="../../"> 
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./feed/"> 
+    <a class="nav-link" href="../../feed/"> 
 <span class="menu-text">Feed</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">Sobre</span></a>
   </li>  
   <li class="nav-item compact">
@@ -200,15 +140,30 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Posts</h1>
-            <p class="subtitle lead">Conteúdo que produzi ao longo do tempo.</p>
-                      </div>
+      <h1 class="title">PCA #1 - A Economia Global entrará em Recessão?</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">macro</div>
+                <div class="quarto-category">pca</div>
+              </div>
+                  </div>
   </div>
     
   
   <div class="quarto-title-meta column-page-left">
 
+      <div>
+      <div class="quarto-title-meta-heading">Autor</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lucas Leme Santos </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Data de Publicação</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">8 de abril de 2024</p>
+      </div>
+    </div>
     
       
     </div>
@@ -225,8 +180,15 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(7)</span></div><div class="category" data-category="code">code <span class="quarto-category-count">(1)</span></div><div class="category" data-category="english">english <span class="quarto-category-count">(1)</span></div><div class="category" data-category="fundos">fundos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="intro">intro <span class="quarto-category-count">(1)</span></div><div class="category" data-category="macro">macro <span class="quarto-category-count">(3)</span></div><div class="category" data-category="nlp">nlp <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pca">pca <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pib">pib <span class="quarto-category-count">(1)</span></div><div class="category" data-category="previdência">previdência <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quant">quant <span class="quarto-category-count">(3)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Nesta página</h2>
+   
+  <ul>
+  <li><a href="#economia-americana" id="toc-economia-americana" class="nav-link active" data-scroll-target="#economia-americana">Economia Americana</a></li>
+  <li><a href="#implicação-para-as-classes-de-ativos" id="toc-implicação-para-as-classes-de-ativos" class="nav-link" data-scroll-target="#implicação-para-as-classes-de-ativos">Implicação para as classes de Ativos</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -234,248 +196,37 @@ window.Quarto = {
 
 
 
+<p>Perspectivas das Classes de Ativos - A Economia Global entrará em Recessão?</p>
+<section id="economia-americana" class="level2">
+<h2 class="anchored" data-anchor-id="economia-americana">Economia Americana</h2>
+<p>No mês de julho de 2024, houve um aumento na volatilidade no mercado de capitais. O índice VIX subiu mais de 80% ao longo do mês. Esse aumento na percepção de risco se deve primordialmente à dúvida sobre quando o FED irá iniciar o ciclo de afrouxamento monetário. Na última semana do mês de julho, o FOMC se reuniu e decidiu manter a taxa de juros inalterada. Dias após a decisão, dados do mercado de trabalho vieram no sentido de uma deterioração, porém dados de atividade econômica apontam para um economia ainda resiliente.</p>
+<p>Dois dados relevantes da economia americana são a taxa de desemprego e o número de vagas criadas. No entanto, o mercado tinha uma expectativa de criação de 175 mil vagas, mas o número veio abaixo do esperado, com apenas 114 mil vagas criadas. Além disso, a taxa de desemprego também veio acima do esperado, atingindo 4,3% da população desempregada, contra uma expectativa de 4,1%. Esses dados, que apontam para uma deterioração do mercado de trabalho, vieram após a decisão do FOMC. Vale ressaltar que a próxima reunião do FOMC só ocorrerá em setembro, ou seja, daqui a 2 meses. Essa situação gerou uma escalada na percepção de risco, uma vez que os efeitos da política monetária demoram a surtir efeito na economia e o FED pode estar atrasado em iniciar o ciclo de afrouxamento monetário.</p>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=1reRs&amp;width=670&amp;height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowtransparency="true" loading="lazy"></iframe>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Nota
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>SAHM Rule: Indicador para recessões com base na variação do desemprego.</p>
+<p>Esse indicador ressalta a característica inercial da taxa de desemprego, que quando apresenta uma tendência de aumento, tende a continuar.</p>
+</div>
+</div>
+<p>O mandato do FED é controlar a inflação e promover empregos de forma estável. Em cenários de inflação elevada, é necessário frear a economia aumentando a taxa de juros, o que resulta em um aumento do desemprego, de acordo com a curva de Phillips. A preocupação do mercado está em uma possível recessão, porém o PIB da economia americana continua forte. Apesar do aspecto inercial da taxa de desemprego (SAHM Rule), o nível atual ainda está abaixo da taxa natural de desemprego, que é maior que 4,5% e representa o nível em que a economia produz produto real a pleno emprego. Portanto, diante desses dados, há uma maior probabilidade de corte de juros na reunião de Setembro. Além disso, há também um aumento da probabilidade de uma recessão. No entanto, no final das contas, essa é a visão que o FED precisa impor nos agentes de mercado para frear a inflação.</p>
+</section>
+<section id="implicação-para-as-classes-de-ativos" class="level2">
+<h2 class="anchored" data-anchor-id="implicação-para-as-classes-de-ativos">Implicação para as classes de Ativos</h2>
+<p>Num cenário de maior certeza de um corte de juros, é esperado um movimento de fechamento de taxas. Isso significa que o prêmio de risco nas taxas de títulos públicos tende a diminuir, resultando em taxas menores. No entanto, para as empresas, o cenário não é tão positivo. No curto prazo, é esperada uma redução na demanda devido à desaceleração da economia, o que impactará os lucros das companhias. Esse impacto já está sendo observado nesta temporada de balanços.</p>
+<p>No mês de julho, o ETF de juros soberanos americanos (GOVT) subiu 2,89%, enquanto o S&amp;P500 caiu 1,5%. Nas classes de ativos brasileiras, o IMA-B teve uma valorização de 2,09%, o IRF-M de 1,34% e o IMA-S (Livre de Risco) de 0,93%. Na renda variável, o Ibovespa subiu 3%, mostrando-se menos afetado devido ao seu prêmio de risco já elevado. Por fim, o índice de Small Caps (SMLL), que apresenta uma correlação com o Ibovespa e a taxa de juros de longo prazo, subiu 2,13%.</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="macro,pca" data-listing-date-sort="1712534400000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="592">
-<a href="./posts/pca/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-PCA #1 - A Economia Global entrará em Recessão?
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('macro'); return false;">
-macro
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pca'); return false;">
-pca
-</div>
-</div>
-<div class="card-text listing-description">
-Perspectivas das Classes de Ativos - A Economia Global entrará em Recessão?
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-8 de abr. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="macro" data-listing-date-sort="1705795200000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2892">
-<a href="./posts/divida_publica/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/divida_publica/capa.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dívida Pública em Números: Uma Perspectiva Matemática
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('macro'); return false;">
-macro
-</div>
-</div>
-<div class="card-text listing-description">
-Dados e equações por trás da dívida pública.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-21 de jan. de 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="macro,pib" data-listing-date-sort="1698537600000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3085">
-<a href="./posts/intro-macro/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Introdução a Macroeconomia
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('macro'); return false;">
-macro
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('pib'); return false;">
-pib
-</div>
-</div>
-<div class="card-text listing-description">
-Visualização dos componentes do PIB sob as óticas de Oferta e Demanda.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-29 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="previdência,fundos" data-listing-date-sort="1698278400000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="775">
-<a href="./posts/arquitetura-fundos-prev/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/arquitetura-fundos-prev/capa.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Arquitetura de Fundos de Previdência Complementar
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('previdência'); return false;">
-previdência
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('fundos'); return false;">
-fundos
-</div>
-</div>
-<div class="card-text listing-description">
-Compreendendo a Estrutura dos Fundos FIE e FIFE
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-26 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="quant,nlp,english" data-listing-date-sort="1697760000000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1609">
-<a href="./posts/finbert-pt-br/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://huggingface.co/lucas-leme/FinBERT-PT-BR/resolve/main/sentiment_index_and_economy.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-FinBERT-PT-BR: Sentiment Analysis of Texts in Portuguese from the Financial Market
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('nlp'); return false;">
-nlp
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('english'); return false;">
-english
-</div>
-</div>
-<div class="card-text listing-description">
-Training LLM to analyze the Brazilian financial news.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-20 de out. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="quant,code" data-listing-date-sort="1684108800000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1232">
-<a href="./posts/quebra-de-correlacoes/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://miro.medium.com/v2/resize:fit:720/0*40bX5Y9hfklMNaXE" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Como identificar quebra de correlações na Bolsa de Valores?
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('code'); return false;">
-code
-</div>
-</div>
-<div class="card-text listing-description">
-Utilizando a variância explicada da análise de componentes principais para estimar o aumento do risco sistêmico de ativos.
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-15 de mai. de 2023
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="quant,intro" data-listing-date-sort="1589673600000" data-listing-file-modified-sort="1722806628342" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1651">
-<a href="./posts/tsmom/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*TrLri5kVyRpUo6uA4IUi-A.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Construindo uma Estratégia de Investimentos Quantitativa — Time Series Momentum
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('quant'); return false;">
-quant
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('intro'); return false;">
-intro
-</div>
-</div>
-<div class="card-text listing-description">
-O algoritmo de investimento que teve 951,62% de rentabilidade
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Lucas Leme Santos
-</div>
-<div class="listing-date">
-17 de mai. de 2020
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-Sem itens correspondentes
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
