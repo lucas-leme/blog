@@ -15,10 +15,10 @@
   date: '2024-08-05T14:23:15+00:00'
   description: "<p>Os mercados internacionais vivem o maior movimento de avers\xE3\
     o ao risco dos \xFAltimos anos, um deslocamento violento iniciado no final da\
-    \ semana passada e potencializado na manh\xE3 de hoje.&#160; O Vix, \xEDndice\
-    \ que mede a volatilidade, subiu acima dos 65 pontos \u2013 algo que aconteceu\
-    \ apenas outras duas vezes na hist\xF3ria, em 2020, na pandemia [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/\"\
+    \ semana passada e potencializado na manh\xE3 de hoje.\_ O Vix, \xEDndice que\
+    \ mede a volatilidade, subiu acima dos 65 pontos \u2013 algo que aconteceu apenas\
+    \ outras duas vezes na hist\xF3ria, em 2020, na pandemia [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/\"\
     \ rel=\"nofollow\">Muita calma nessa hora: o freio de arruma\xE7\xE3o dos mercados</a>\
     \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
     \ Journal</a>.</p>"
@@ -45,6 +45,19 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/the-defi-intermediation-chain/
   title: The DeFi Intermediation Chain
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-08-05T00:00:00+00:00'
+  description: "Under the Americans With Disabilities Act, businesses are supposed\
+    \ to make their websites accessible to the visually impaired. WSJ's Ruth Simon\
+    \ found that this requirement has led to an explosion of lawsuits, many of which\
+    \ are against small businesses.  Further Reading: - The Law Firm Hitting Businesses\
+    \ With Thousands of Disability Suits\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1hZTsg9oQxBgQBu8RBfUT1
+  title: Who is Filing Thousands of Disability Lawsuits Against Businesses?
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -82,7 +95,7 @@
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-03T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade Market Makers),\
@@ -178,8 +191,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/02082024
   title: "BC - Focus - Relat\xF3rio de Mercado - 02/08/2024"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-08-02T00:00:00+00:00'
   description: "As Kamala Harris\u2019s presidential campaign gets underway, Democrats\
     \ and Republicans are rushing to define her. And Democrats are shifting the way\
@@ -203,7 +215,7 @@
   title: "Capturing Risk Premia: A Practitioner\u2019s Perspective with Apollo Partner\
     \ Matt O\u2019Mara"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-08-01T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -238,20 +250,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af9ef49bfdf34835822aa6789
   path: https://open.spotify.com/episode/73OFotFF04gDCD0oUKH4mT
   title: "#117 | Como encontrar (ou construir) a pr\xF3xima MAIOR EMPRESA DO MUNDO?"
-- author: The Journal.
-  categories: *id003
-  date: '2024-08-01T00:00:00+00:00'
-  description: "Russia freed wrongfully convicted Wall Street Journal reporter Evan\
-    \ Gershkovich and more than a dozen others on Thursday as part of the largest\
-    \ East-West prisoner swap since the Cold War. WSJ\u2019s Joe Parkinson and Drew\
-    \ Hinshaw report on the effort to bring Gershkovich home.\_  Further Listening:\
-    \ -Russia Tries a WSJ Reporter in a Secret Court\_ -Two Parents on a Crusade to\
-    \ Free Their Son\_  Further Reading: -Inside the Secret Negotiations to Free Evan\
-    \ Gershkovich\_ -WSJ Reporter Evan Gershkovich Is Free\_  Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/77jT1ZMhb4uCqjgbk2ln8J
-  title: "How the U.S. Negotiated Evan Gershkovich\u2019s Freedom"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
