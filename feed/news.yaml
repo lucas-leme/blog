@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-08-05T00:06:06+00:00'
+  description: "Em comunicado neste domingo, a UE pede uma verifica\xE7\xE3o independente\
+    \ das atas das se\xE7\xF5es eleitorais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-venezuela-uniao-europa-diz-nao-reconhecer-resultado/
+  title: "Uni\xE3o Europeia diz n\xE3o reconhecer resultado das elei\xE7\xF5es na\
+    \ Venezuela"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-08-04T12:48:50+00:00'
   description: "Adaptar resid\xEAncias e trens e expandir servi\xE7os para idosos\
     \ est\xE3o nos planos da China para cumprir meta de crescimento econ\xF4mico"
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/economia/para-estimular-consumo-domestico-china-mira-na-economia-grisalha/
   title: "Para estimular consumo dom\xE9stico, China mira a \u2018economia grisalha\u2019"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-08-03T12:27:26+00:00'
   description: "Al\xE9m da elei\xE7\xE3o, assembleia tamb\xE9m vai aprovar altera\xE7\
@@ -17,22 +26,13 @@
   path: https://investnews.com.br/financas/americanas-convoca-assembleia-para-eleger-7-novos-membros-do-conselho/
   title: Americanas convoca assembleia para eleger 7 novos membros do conselho
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-08-02T20:47:59+00:00'
   description: Dados mais fracos da economia dos EUA direcionaram o mercado nesta
     sexta-feira
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/ibovespa-recua-127-a-1258-mil-pontos-dolar-cai-044/
   title: "Ibovespa recua 1,27%, a 125,8 mil pontos; d\xF3lar cai 0,44%"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-02T18:42:57+00:00'
-  description: "Bolsas americanas amargam forte queda pelo segundo dia, enquanto o\
-    \ d\xF3lar sobe no mundo \u2013 e aqui"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mercados-exageram-na-reacao-aos-dados-de-emprego-nos-eua-diz-solange-srour-do-ubs/
-  title: "Mercados exageram na rea\xE7\xE3o aos dados de emprego nos EUA, diz Solange\
-    \ Srour, do UBS"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
