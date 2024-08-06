@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-05T21:23:10+00:00'
+  description: "Mercados iniciaram o preg\xE3o em venda generalizada, mas diminu\xED\
+    ram ritmo ao longo das negocia\xE7\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-chega-a-superar-r586-em-dia-de-estresse-global-mas-desacelera-alta-ibovespa-cai-246/
+  title: "D\xF3lar chega a superar R$5,86 em dia de estresse global, mas desacelera\
+    \ alta; Ibovespa cai 0,46%"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   path: https://investnews.com.br/economia/acoes-europeias-recuam-com-temores-globais-sobre-recessao-nos-eua/
   title: "A\xE7\xF5es europeias recuam com temores globais sobre recess\xE3o nos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-05T11:40:42+00:00'
   description: "Bolsas asi\xE1ticas despencaram e \xEDndices futuros nos EUA indicam\
     \ a pior abertura em anos"
@@ -61,14 +70,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ekeios/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-03T12:27:26+00:00'
-  description: "Al\xE9m da elei\xE7\xE3o, assembleia tamb\xE9m vai aprovar altera\xE7\
-    \xE3o de trecho do estatuto da companhia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/americanas-convoca-assembleia-para-eleger-7-novos-membros-do-conselho/
-  title: Americanas convoca assembleia para eleger 7 novos membros do conselho
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
