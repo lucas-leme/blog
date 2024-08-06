@@ -1,6 +1,14 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-08-06T16:59:08+00:00'
+  description: "Op\xE7\xE3o por Tim Walz sinaliza inten\xE7\xE3o de dialogar com regi\xE3\
+    o tradicional do agroneg\xF3cio americano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/kamala-escolhe-governador-de-minnesota-como-candidato-a-vice-na-chapa-democrata/
+  title: Kamala escolhe governador de Minnesota como candidato a vice na chapa democrata
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-08-06T11:47:08+00:00'
   description: "O BC enfatizou que o desenrolar do cen\xE1rio ser\xE1 importante para\
     \ definir os pr\xF3ximos passos na condu\xE7\xE3o dos juros"
@@ -9,7 +17,7 @@
   title: "Banco Central do Brasil diz que n\xE3o hesitar\xE1 em elevar juros se julgar\
     \ apropriado, mostra ata"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-08-06T11:44:06+00:00'
   description: "O futuro do S&#038;P 500 subia 0,87%, enquanto o contrato futuro do\
@@ -19,7 +27,7 @@
   title: "\xCDndices futuros de a\xE7\xF5es nos EUA se recuperam ap\xF3s queda da\
     \ \xFAltima sess\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-08-06T11:35:38+00:00'
   description: "Nesta ter\xE7a-feira (6), os dois principais \xEDndices de a\xE7\xF5\
     es do Jap\xE3o saltaram mais de 9%, o maior ganho desde outubro de 2008"
@@ -67,15 +75,6 @@
   path: https://www.reddit.com/r/CFA/comments/1el88qq/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-05T19:02:20+00:00'
-  description: "Para ex-diretor do BC, autoridade monet\xE1ria poder\xE1 vender d\xF3\
-    lares para organizar liquidez do mercado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/medo-de-recessao-global-pode-levar-bc-a-intervir-no-cambio-e-ser-cauteloso-nos-juros-diz-volpon/
-  title: "Medo de recess\xE3o global pode levar BC a intervir no c\xE2mbio e ser cauteloso\
-    \ nos juros, diz Volpon"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
