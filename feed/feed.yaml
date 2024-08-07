@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-08-07T16:13:50+00:00'
   description: Rather than running away from illiquidity, investment professionals,
@@ -60,6 +60,38 @@
   path: https://open.spotify.com/episode/7IzynvCqZAHqZLd95i5l0x
   title: "BOLSA BRASILEIRA: comprar a\xE7\xF5es agora \xC9 O MELHOR INVESTIMENTO?\
     \ | Corte EP #115"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-08-07T00:00:00+00:00'
+  description: "In a historic decision this week, a federal judge ruled that Google\
+    \ acted to illegally maintain a monopoly in online search. The case was the first\
+    \ of several antitrust lawsuits the U.S. government has brought against some of\
+    \ the nation\u2019s leading tech companies, and the ruling marks a major victory\
+    \ for its efforts to reign in big tech. WSJ\u2019s Miles Kruppa explains how this\
+    \ decision could shake up Google\u2019s business and potentially change how we\
+    \ search the internet.\_  Further Reading: -Google\u2019s Antitrust Loss Set to\
+    \ Reshape Search and Mobile Industries\_ -Google Loses Antitrust Case Over Search-Engine\
+    \ Dominance\_  Further Listening: -Why the DOJ Is Suing Google Again\_  Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5Milpdxbsk1njI2gC38Z3R
+  title: "Judge Rules \u2018Google Is a Monopolist\u2019"
+- author: Outliers
+  categories: &id009
+  - Podcasts
+  date: '2024-08-07T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8aa97eb56fec8e6f756c356dcb
+  path: https://open.spotify.com/episode/4g1iOgGmORJoIoPeAu7Bn9
+  title: '#133 - Investimento em criptomoedas com Hashdex'
 - author: Atas do Copom
   categories:
   - Bacen
@@ -413,8 +445,7 @@
   title: "#119 | COMO INVESTIR EM A\xC7\xD5ES FORA DA BOLSA (e que podem valorizar\
     \ muito)"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-08-06T00:00:00+00:00'
   description: "Slow job growth in the U.S. and interest rate cuts in Japan triggered\
     \ a global stock market sell off on Monday. WSJ\u2019s Nick Timiraos breaks down\
@@ -428,7 +459,7 @@
   path: https://open.spotify.com/episode/2lco0dxqqvEs2XlFQVxHJt
   title: What the Stock Market Panic Says About the Economy
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-08-05T16:28:11+00:00'
   description: By fostering resilience through the consideration of various outcomes,
     investment practitioners can better anticipate and manage the complexities and
@@ -453,18 +484,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/
   title: "Muita calma nessa hora: o freio de arruma\xE7\xE3o dos mercados"
-- author: The Journal.
-  categories: *id003
-  date: '2024-08-05T00:00:00+00:00'
-  description: "Under the Americans With Disabilities Act, businesses are supposed\
-    \ to make their websites accessible to the visually impaired. WSJ's Ruth Simon\
-    \ found that this requirement has led to an explosion of lawsuits, many of which\
-    \ are against small businesses.  Further Reading: - The Law Firm Hitting Businesses\
-    \ With Thousands of Disability Suits\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1hZTsg9oQxBgQBu8RBfUT1
-  title: Who is Filing Thousands of Disability Lawsuits Against Businesses?
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -803,8 +822,7 @@
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id009
   date: '2024-07-23T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -817,29 +835,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc05ee040283494e52280426
   path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
   title: '#132 - Do Macro ao Micro com a WHG'
-- author: Outliers
-  categories: *id009
-  date: '2024-07-11T00:00:00+00:00'
-  description: "A Tenax Capital \xE9 uma gestora com R$ 1,3 bilh\xE3o sob gest\xE3\
-    o, divididos em tr\xEAs estrat\xE9gias: macro, renda vari\xE1vel e cr\xE9dito,\
-    \ todas com foco em gera\xE7\xE3o de alpha. Atualmente, a gestora conta com mais\
-    \ de 30 profissionais e combina as an\xE1lises fundamentalistas e macroecon\xF4\
-    micas para a tomada de decis\xE3o.No epis\xF3dio 131 do Outliers, Clara Sodr\xE9\
-    , analista de fundos de investimento da XP, e Rodrigo Sgavioli, head de aloca\xE7\
-    \xE3o da XP, receberam Alexandre Silverio, CEO e portfolio manager na Tenax, e\
-    \ Rodrigo Mello, s\xF3cio e portfolio manager da gestora, que comentaram sobre\
-    \ as estrat\xE9gias para superar a volatilidade da Bolsa e atingir bons resultados\
-    \ em fundos de renda vari\xE1vel.-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a836cf3b6f3d485e1f2989465
-  path: https://open.spotify.com/episode/2lj8LDTgmm61zW84ASXuhj
-  title: '#131 - Como a Tenax atravessa a volatilidade da Bolsa brasileira'
 - author: AQR
   categories: *id010
   date: '2024-07-09T00:00:00'
