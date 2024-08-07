@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-07T10:50:00+00:00'
+  description: "Pap\xE9is est\xE3o ainda mais atrativos com cen\xE1rio de juro e infla\xE7\
+    \xE3o altos, mas ainda assim \xE9 preciso fazer as contas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/titulos-isentos-a-festa-acabou-mas-ainda-tem-o-after/
+  title: "A festa dos t\xEDtulos isentos acabou? Calma que ainda tem o after"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   path: https://investnews.com.br/economia/kamala-escolhe-governador-de-minnesota-como-candidato-a-vice-na-chapa-democrata/
   title: Kamala escolhe governador de Minnesota como candidato a vice na chapa democrata
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-06T11:44:06+00:00'
   description: "O futuro do S&#038;P 500 subia 0,87%, enquanto o contrato futuro do\
     \ Nasdaq 100 tinha alta de 0,96%, e o futuro do Dow Jones avan\xE7ava 0,68%"
@@ -26,15 +34,6 @@
   path: https://investnews.com.br/financas/indices-futuros-de-acoes-nos-eua-se-recuperam-apos-queda-da-ultima-sessao/
   title: "\xCDndices futuros de a\xE7\xF5es nos EUA se recuperam ap\xF3s queda da\
     \ \xFAltima sess\xE3o"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-06T11:35:38+00:00'
-  description: "Nesta ter\xE7a-feira (6), os dois principais \xEDndices de a\xE7\xF5\
-    es do Jap\xE3o saltaram mais de 9%, o maior ganho desde outubro de 2008"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/depois-do-panico-bolsa-de-toquio-dispara-mas-isso-nao-significa-que-o-mercado-se-acalmou/
-  title: "Depois do p\xE2nico, bolsa de T\xF3quio dispara. Mas isso n\xE3o significa\
-    \ que o mercado se acalmou"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
