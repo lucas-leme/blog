@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-08-07T16:13:50+00:00'
+  description: Rather than running away from illiquidity, investment professionals,
+    investors, and regulators alike should recognize its potential benefits and consider
+    a more balanced approach.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/07/is-illiquidity-a-blessing-in-disguise-for-some-investors/
+  title: Is Illiquidity a Blessing in Disguise for Some Investors?
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -403,7 +413,7 @@
   title: "#119 | COMO INVESTIR EM A\xC7\xD5ES FORA DA BOLSA (e que podem valorizar\
     \ muito)"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-06T00:00:00+00:00'
   description: "Slow job growth in the U.S. and interest rate cuts in Japan triggered\
@@ -418,8 +428,7 @@
   path: https://open.spotify.com/episode/2lco0dxqqvEs2XlFQVxHJt
   title: What the Stock Market Panic Says About the Economy
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2024-08-05T16:28:11+00:00'
   description: By fostering resilience through the consideration of various outcomes,
     investment practitioners can better anticipate and manage the complexities and
@@ -445,7 +454,7 @@
   path: https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/
   title: "Muita calma nessa hora: o freio de arruma\xE7\xE3o dos mercados"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-05T00:00:00+00:00'
   description: "Under the Americans With Disabilities Act, businesses are supposed\
     \ to make their websites accessible to the visually impaired. WSJ's Ruth Simon\
@@ -503,14 +512,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd225104f-bf18-41f9-98c7-cd508d159fbd_5000x4396.png
   path: https://theovershoot.co/p/the-us-job-market-is-better-than
   title: The U.S. Job Market Is Better Than It Looks
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-08-02T15:13:50+00:00'
-  description: To understand what private equity is at its worst is a call to action,
-    personally and professionally.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/02/private-equity-in-essence-plunder/
-  title: 'Private Equity: In Essence, Plunder?'
 - author: ArjanCodes
   categories: &id005
   - Tech
