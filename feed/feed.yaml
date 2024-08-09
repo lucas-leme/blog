@@ -1,3 +1,41 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-08-09T15:00:13+00:00'
+  description: "In this video, I want to show you that there is a place for object-oriented\
+    \ code and a place for more functional code. In Python, you can combine the two,\
+    \ which is great, and you can do it so that you get the best of both worlds.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/funky\n\n\U0001F477\
+    \ Join the FREE Code Diagnosis Workshop to help you review code more effectively\
+    \ using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
+    \n\U0001F4E8 The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/hfpota\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\n\
+    The Software Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext\
+    \ Level Python: Become a Python Expert: https://www.arjancodes.com/courses/nlp\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D\
+    \ If you enjoyed this content, give this video a like. If you want to watch more\
+    \ of my upcoming videos, consider subscribing to my channel!\n\nSocial channels:\n\
+    \U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
+    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:09 Functional vs object-oriented code\n0:47 Code explanation\
+    \ \n4:07 Functional version \n12:21 More functional version \n17:25 Even more\
+    \ functional version \n21:54 Final thoughts\n\n#arjancodes #softwaredesign #python\n\
+    \nDISCLAIMER - The links in this description might be affiliate links. If you\
+    \ purchase a product or service through one of those links, I may receive a small\
+    \ commission. There is no additional charge to you. Thanks for supporting my channel\
+    \ so I can continue to provide you with free content each week!"
+  image: https://i1.ytimg.com/vi/DvdZv_DD0DY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=DvdZv_DD0DY
+  title: From Boring Object-Oriented to INSANE Functional Code
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -511,7 +549,7 @@
   path: https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/
   title: "Muita calma nessa hora: o freio de arruma\xE7\xE3o dos mercados"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-08-03T02:13:54+00:00'
@@ -556,10 +594,7 @@
   path: https://theovershoot.co/p/the-us-job-market-is-better-than
   title: The U.S. Job Market Is Better Than It Looks
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2024-08-02T15:01:06+00:00'
   description: "In this video, I'll discuss how Python 3.13 is revolutionizing performance\
     \ by making the Global Interpreter Lock (GIL) optional! Learn what the GIL is,\
@@ -621,7 +656,7 @@
   title: "Capturing Risk Premia: A Practitioner\u2019s Perspective with Apollo Partner\
     \ Matt O\u2019Mara"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-07-31T21:19:01+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Cq1sQmFJBF0/hqdefault.jpg
@@ -721,16 +756,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20242
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
-- author: ArjanCodes
-  categories: *id006
-  date: '2024-07-31T14:21:54+00:00'
-  description: "In this live stream, I'll dive into the code and design of an open-source\
-    \ project together with you. This is going to be completely unscripted, so you'll\
-    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
-    \ a surprise which project I'm going to be reviewing (also for me! :) )."
-  image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=aOly5eEDXug
-  title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
