@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-09T11:59:00+00:00'
+  description: This book is direct, delightful, and articulate in suggesting that
+    we take a slow rather than fast approach to getting things thoughtfully done.
+    It touches the minds and hearts of investment professionals.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/09/book-review-pause-to-think/
+  title: 'Book Review: Pause to Think'
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -9,7 +19,7 @@
   path: https://theovershoot.co/p/the-strategic-bitcoin-reserve-is
   title: The "Strategic Bitcoin Reserve" is an Absurd Idea
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-08-08T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -44,7 +54,7 @@
   title: "#120 | VERDADES OCULTAS sobre INVESTIMENTO EM A\xC7\xD5ES que MUDAR\xC3\
     O A SUA MENTE"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-08T00:00:00+00:00'
   description: "Bill Ackman has pressed pause on the initial public offering of a\
@@ -77,8 +87,7 @@
   path: https://open.spotify.com/episode/6JeeHCrLQMjc52QdkvocVo
   title: 'Carry-trade wars: why the market rout may not be over yet'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-08-07T16:13:50+00:00'
   description: Rather than running away from illiquidity, investment professionals,
     investors, and regulators alike should recognize its potential benefits and consider
@@ -108,7 +117,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/the-anatomy-of-labor-demand-pre-and-post-covid/
   title: The Anatomy of Labor Demand Pre&#8209; and Post&#8209;COVID
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-08-07T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB (nova marca da Comunidade Market Makers),\
     \ o grupo onde a pr\xF3xima gera\xE7\xE3o de investidores profissionais da Bolsa\
@@ -138,7 +147,7 @@
   title: "BOLSA BRASILEIRA: comprar a\xE7\xF5es agora \xC9 O MELHOR INVESTIMENTO?\
     \ | Corte EP #115"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-07T00:00:00+00:00'
   description: "In a historic decision this week, a federal judge ruled that Google\
     \ acted to illegally maintain a monopoly in online search. The case was the first\
@@ -485,16 +494,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-08-05T16:28:11+00:00'
-  description: By fostering resilience through the consideration of various outcomes,
-    investment practitioners can better anticipate and manage the complexities and
-    disruptions that characterize today's dynamic environment.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/05/scenario-planning-foresight-and-the-power-of-imagination-navigating-an-uncertain-future/
-  title: 'Scenario Planning, Foresight, and the Power of Imagination: Navigating an
-    Uncertain Future'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id008
   - Economia
