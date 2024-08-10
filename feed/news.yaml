@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-10T14:51:32+00:00'
+  description: "Gestores aumentaram a compra de posi\xE7\xF5es vendidas para as principais\
+    \ mat\xE9rias-primas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fundos-estao-mais-pessimistas-com-as-commodities-desde-2011/
+  title: "Fundos est\xE3o mais pessimistas com as commodities e t\xEAm maior aposta\
+    \ na queda de pre\xE7os desde 2011"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -50,8 +60,7 @@
   path: https://www.reddit.com/r/CFA/comments/1enq8z9/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-08T16:10:24+00:00'
   description: "H\xE1 tr\xEAs anos, vendas da tecnologia representavam apenas 7% do\
     \ total"
@@ -59,15 +68,6 @@
   path: https://investnews.com.br/economia/veiculos-eletricos-e-hibridos-passam-a-representar-metade-da-venda-de-carros-na-china/
   title: "Ve\xEDculos el\xE9tricos e h\xEDbridos passam a representar metade da venda\
     \ de carros na China"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-08T13:57:19+00:00'
-  description: "Mercado passou a esperar um corte de 0,5 ponto em setembro e n\xE3\
-    o acha que haver\xE1 uma reuni\xE3o extraordin\xE1ria para isso"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fed-ja-cortou-juros-em-meio-a-queda-de-acoes-antes-desta-vez-isso-parece-dificil/
-  title: "Fed j\xE1 cortou juros em meio \xE0 queda de a\xE7\xF5es antes; desta vez,\
-    \ isso parece dif\xEDcil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-08-07T10:50:00+00:00'
