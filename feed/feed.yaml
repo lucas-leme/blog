@@ -1,3 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id004
+  - Economia
+  date: '2024-08-12T17:41:58+00:00'
+  description: "<p>Delfim Netto, o \u2018czar da economia\u2019 na ditadura militar\
+    \ e uma das figuras mais influentes da hist\xF3ria recente do Pa\xEDs em mais\
+    \ de 50 anos de vida p\xFAblica, morreu hoje em S\xE3o Paulo, aos 96 anos. Respons\xE1\
+    vel pela forma\xE7\xE3o de gera\xE7\xF5es seguidas de economistas, Delfim viveu\
+    \ seu auge nos anos do governo militar, mas manteve [&#8230;]</p>\n<p>The post\
+    \ <a href=\"https://braziljournal.com/memoria-delfim-netto-um-genio-da-economia-politica-com-resultados-questionaveis/\"\
+    \ rel=\"nofollow\">MEM\xD3RIA: Delfim Netto, um g\xEAnio da economia pol\xEDtica\
+    \ com resultados question\xE1veis</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/memoria-delfim-netto-um-genio-da-economia-politica-com-resultados-questionaveis/
+  title: "MEM\xD3RIA: Delfim Netto, um g\xEAnio da economia pol\xEDtica com resultados\
+    \ question\xE1veis"
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -36,7 +53,7 @@
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -83,7 +100,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/09/book-review-pause-to-think/
   title: 'Book Review: Pause to Think'
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-08-09T09:54:00+00:00'
@@ -553,8 +570,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id008
-  - Economia
+  categories: *id004
   date: '2024-08-05T14:23:15+00:00'
   description: "<p>Os mercados internacionais vivem o maior movimento de avers\xE3\
     o ao risco dos \xFAltimos anos, um deslocamento violento iniciado no final da\
@@ -569,7 +585,7 @@
   path: https://braziljournal.com/muita-calma-nessa-hora-o-freio-de-arrumacao-dos-mercados/
   title: "Muita calma nessa hora: o freio de arruma\xE7\xE3o dos mercados"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-08-03T02:13:54+00:00'
@@ -605,7 +621,7 @@
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-08-02T22:38:50+00:00'
   description: There is much less to the rise in joblessness than meets the eye, while
     annualized wage growth is still running about 1.5 percentage points faster than
@@ -614,7 +630,7 @@
   path: https://theovershoot.co/p/the-us-job-market-is-better-than
   title: The U.S. Job Market Is Better Than It Looks
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-08-02T15:01:06+00:00'
   description: "In this video, I'll discuss how Python 3.13 is revolutionizing performance\
     \ by making the Global Interpreter Lock (GIL) optional! Learn what the GIL is,\
@@ -662,7 +678,7 @@
   title: "Capturing Risk Premia: A Practitioner\u2019s Perspective with Apollo Partner\
     \ Matt O\u2019Mara"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-07-31T21:19:01+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Cq1sQmFJBF0/hqdefault.jpg
@@ -763,7 +779,7 @@
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
@@ -786,7 +802,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
   title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
@@ -817,21 +833,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af2bfa9dc74110b6ee723e5f9
   path: https://open.spotify.com/episode/73Zk6Nibaw7diW1cv9qj5R
   title: Kris Abdelmessih - Life Through a Volatility Lens (S7E10)
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id008
-  date: '2024-07-28T04:39:25+00:00'
-  description: "<p>\u201CUma verdadeira e ampla frente contra o autoritarismo.\u201D\
-    \ Foi com essa frase que o Presidente Lula foi diplomado em dezembro de 2022,\
-    \ ap\xF3s derrotar Jair Bolsonaro nas elei\xE7\xF5es daquele ano. Passados quase\
-    \ dois anos, as elei\xE7\xF5es na Venezuela de Nicol\xE1s Maduro sublinham a dicotomia\
-    \ entre pragmatismo e ideologia existente na pol\xEDtica externa de Lula. As [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-na-venezuela-um-lula-entre-o-pragmatismo-e-a-ideologia/
-  title: "OPINI\xC3O. Na Venezuela, um Lula entre o pragmatismo e a ideologia"
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
