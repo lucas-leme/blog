@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-08-13T10:46:38+00:00'
+  description: For investors in the space, the changing cannabis consumption landscape
+    opens challenges and opportunities in product creation, marketing, and targeting
+    new consumer groups.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/13/the-changing-nature-of-cannabis-consumption/
+  title: 'The Changing Nature of Cannabis Consumption: Investment Opportunities'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -30,8 +40,7 @@
   title: "MEM\xD3RIA: Delfim Netto, um g\xEAnio da economia pol\xEDtica com resultados\
     \ question\xE1veis"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2024-08-12T12:19:04+00:00'
   description: The presence of power law returns in angel investing, with the potential
     for significant contributions from a handful of investments, has implications
@@ -120,16 +129,7 @@
     \ so I can continue to provide you with free content each week!"
   image: https://i1.ytimg.com/vi/DvdZv_DD0DY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
-  title: From Boring Object-Oriented to INSANE Functional Code
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2024-08-09T11:59:00+00:00'
-  description: This book is direct, delightful, and articulate in suggesting that
-    we take a slow rather than fast approach to getting things thoughtfully done.
-    It touches the minds and hearts of investment professionals.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/09/book-review-pause-to-think/
-  title: 'Book Review: Pause to Think'
+  title: Refactoring Object-Oriented to AWESOME Functional Code
 - author: The Overshoot
   categories: &id005
   - Macro
