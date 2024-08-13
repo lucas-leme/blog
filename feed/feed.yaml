@@ -1,3 +1,34 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2024-08-13T17:00:45+00:00'
+  description: 'Pixel 9s are looking like flagships for real. Plus some AI stuff,
+    of course.
+
+
+    Protect your smartphone with dbrand at https://dbrand.com/pixel-9-series
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/63EVXf_S4WQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=63EVXf_S4WQ
+  title: 'Google Pixel 9/Pro/Fold Impressions: They''ve Finally Done It?'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -98,7 +129,7 @@
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -136,7 +167,7 @@
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
   title: Refactoring Object-Oriented to AWESOME Functional Code
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2024-08-09T09:54:00+00:00'
@@ -591,9 +622,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2024-08-03T02:13:54+00:00'
   description: 'Windows ARM laptops are finally having a moment and I''m loving it.
 
@@ -627,7 +656,7 @@
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2024-08-02T22:38:50+00:00'
   description: There is much less to the rise in joblessness than meets the eye, while
     annualized wage growth is still running about 1.5 percentage points faster than
@@ -636,7 +665,7 @@
   path: https://theovershoot.co/p/the-us-job-market-is-better-than
   title: The U.S. Job Market Is Better Than It Looks
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2024-08-02T15:01:06+00:00'
   description: "In this video, I'll discuss how Python 3.13 is revolutionizing performance\
     \ by making the Global Interpreter Lock (GIL) optional! Learn what the GIL is,\
@@ -683,13 +712,6 @@
   path: https://open.spotify.com/episode/6ZT82Z2L8j2Psevi6UEPGq
   title: "Capturing Risk Premia: A Practitioner\u2019s Perspective with Apollo Partner\
     \ Matt O\u2019Mara"
-- author: Marques Brownlee
-  categories: *id007
-  date: '2024-07-31T21:19:01+00:00'
-  description: ''
-  image: https://i4.ytimg.com/vi/Cq1sQmFJBF0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Cq1sQmFJBF0
-  title: The Electric VW bus is LOADED
 - author: Comunicados Copom
   categories:
   - Bacen
