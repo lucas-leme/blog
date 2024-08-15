@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-15T10:00:00+00:00'
+  description: "Com a perspectiva de queda nos juros americanos, commodity deve ganhar\
+    \ f\xF4lego extra, dizem especialistas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/a-corrida-do-ouro-continua-ainda-da-tempo-de-lucrar-com-o-metal/
+  title: "A corrida do ouro continua. Ainda d\xE1 tempo de lucrar com o metal?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +47,7 @@
   path: https://www.reddit.com/r/CFA/comments/1eslso0/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-14T22:37:08+00:00'
   description: "Segundo a B3, 81,6% das a\xE7\xF5es ordin\xE1rias em oferta foram\
     \ compradas pelos dois bancos credores"
@@ -47,7 +55,7 @@
   path: https://investnews.com.br/financas/leilao-da-cielo-para-fechar-capital-movimenta-r43-bi-diz-b3/
   title: "Leil\xE3o da Cielo para fechar capital movimenta R$4,3 bi, diz B3"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-08-14T16:13:17+00:00'
   description: Em entrevista ao InvestNews, a economista Claudia Sahm, da "Regra de
@@ -57,21 +65,13 @@
   title: "\u2018A economia est\xE1 normalizando. \xC9 hora de o Fed fazer o mesmo\u2019\
     , diz criadora do \u2018alerta de recess\xE3o\u2019 dos EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-08-14T13:58:22+00:00'
   description: "Lula tem criticado duramente o BC e pelo patamar da taxa b\xE1sica\
     \ Selic, atualmente em 10,50% ao ano"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/lula-diz-que-baixar-os-juros-e-uma-briga-eterna-no-brasil/
   title: "Lula diz que baixar os juros \xE9 uma briga eterna no Brasil"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-09T10:00:00+00:00'
-  description: "Mix de produtos da empresa \xE9 considerado mais resiliente por proteger\
-    \ companhia das oscila\xE7\xF5es da celulose"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mais-papel-menos-celulose-a-equacao-que-mantem-a-klabin-no-gosto-do-investidor/
-  title: "A\xE7\xE3o em foco: Por que vale a pena prestar aten\xE7\xE3o na Klabin"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
