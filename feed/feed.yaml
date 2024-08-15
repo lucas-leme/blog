@@ -1,3 +1,17 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-08-15T00:00:00+00:00'
+  description: "Former YouTube CEO Susan Wojcicki died last week at the age of 56.\
+    \ WSJ\u2019s Miles Kruppa shares how Wojcicki developed a reputation as perhaps\
+    \ the most important Google employee that few people have heard of outside of\
+    \ the company\u2019s walls.  Further Reading: -Former YouTube CEO Susan Wojcicki\
+    \ Dies at Age 56\_ -YouTube\u2019s Susan Wojcicki on Transforming the Video Service\_\
+    \  Further Listening: -Why the DOJ Is Suing Google Again\_  Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2BqRV7Jy013Q6T1QkEq9Sz
+  title: "She Was Google\u2019s First Landlord. And She Changed the Internet."
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -38,7 +52,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/a-new-set-of-indicators-of-reserve-ampleness/
   title: "\xAD\xADA New Set of Indicators of Reserve Ampleness"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-14T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram:\
@@ -68,8 +82,7 @@
   title: "O ERRO QUE TE IMPEDE DE INVESTIR EM GRANDES EMPRESAS (E COMO EVIT\xC1-LO)\
     \ | Corte EP #120"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-08-14T00:00:00+00:00'
   description: "In the past three months, Robby Starbuck has fueled social-media attacks\
     \ that have led to two companies rolling back their diversity initiatives. He\
@@ -83,7 +96,7 @@
   path: https://open.spotify.com/episode/166LQEvYFj7aZRTRU5dFaZ
   title: "One Man\u2019s Campaign Against DEI"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-08-13T22:53:17+00:00'
   description: "<p>A aproxima\xE7\xE3o com Lula Foi assim que, em 2006, o ent\xE3\
@@ -152,7 +165,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/13/the-changing-nature-of-cannabis-consumption/
   title: Opportunities in the Evolving Cannabis Consumption Market
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-08-13T00:02:41+00:00'
   description: "<p>Em quase seis d\xE9cadas de vida p\xFAblica, Delfim Netto se notabilizou\
     \ como um frasista acurado e bem humorado; sagaz mas correto com suas \u201Cv\xED\
@@ -166,7 +179,7 @@
   path: https://braziljournal.com/as-melhores-frases-de-delfim/
   title: As melhores frases de Delfim
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-08-13T00:00:00+00:00'
   description: "PARTICIPE DO MACRO DAY (100% ONLINE E GRATUITO): https://www.macroday.live/?utm_channel=influencers&amp;utm_source=market-makers&amp;utm_medium=inf&amp;utm_campaign=inf_inb_buinvest_macroday2024_202408&amp;utm_term=macroday2024-marketmakers&amp;utm_content=stories_sem-participante%E2%80%83%E2%80%83%E2%80%83%E2%80%83Com\
     \ o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site:\
@@ -187,19 +200,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a68fdf3254a24bcf642555c68
   path: https://open.spotify.com/episode/7KOYKQTGTZufGkQCVNSmhX
   title: "#121 | Como encontrar A\xC7\xD5ES PROMISSORAS que NINGU\xC9M EST\xC1 VENDO"
-- author: The Journal.
-  categories: *id003
-  date: '2024-08-13T00:00:00+00:00'
-  description: "After years of pressure from the U.S., China is imposing new restrictions\
-    \ on chemicals used in the production of fentanyl. WSJ\u2019s Brian Spegele says\
-    \ the move marks a small step forward after nearly a decade of sometimes-tense\
-    \ negotiations.  Further Reading: -China Restricts Fentanyl Chemicals After Years\
-    \ of U.S. Pressure\_  Further Listening: -The Push to Test Drugs for Fentanyl\_\
-    \ -How a Balloon Burst U.S.-China Relations\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0WpoPoXPTl5W68IePrxVhE
-  title: China Is Finally Doing Something About the Fentanyl Crisis
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-08-12T12:19:04+00:00'
