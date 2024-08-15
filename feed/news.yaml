@@ -1,3 +1,15 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-15T12:14:08+00:00'
+  description: "Com a taxa b\xE1sica Selic em dois d\xEDgitos, o interesse pela renda\
+    \ fixa segue em alta. As empresas brasileiras t\xEAm aproveitado a forte demanda\
+    \ por t\xEDtulos para captar recursos no mercado de capitais. Apenas em julho,\
+    \ as companhias conseguiram R$ 96 bilh\xF5es em recursos por meio de emiss\xF5\
+    es de t\xEDtulos privados, de acordo com a [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/captacao-de-empresas-no-mercado-de-capitais-bate-recorde-em-julho/
+  title: "Capta\xE7\xE3o de empresas no mercado de capitais bate recorde em julho"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -55,8 +67,7 @@
   path: https://investnews.com.br/financas/leilao-da-cielo-para-fechar-capital-movimenta-r43-bi-diz-b3/
   title: "Leil\xE3o da Cielo para fechar capital movimenta R$4,3 bi, diz B3"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-14T16:13:17+00:00'
   description: Em entrevista ao InvestNews, a economista Claudia Sahm, da "Regra de
     Sahm", defende corte na taxa de juros americana
@@ -64,14 +75,6 @@
   path: https://investnews.com.br/economia/a-economia-esta-normalizando-e-hora-de-o-fed-fazer-o-mesmo-diz-criadora-do-alerta-de-recessao-dos-eua/
   title: "\u2018A economia est\xE1 normalizando. \xC9 hora de o Fed fazer o mesmo\u2019\
     , diz criadora do \u2018alerta de recess\xE3o\u2019 dos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-14T13:58:22+00:00'
-  description: "Lula tem criticado duramente o BC e pelo patamar da taxa b\xE1sica\
-    \ Selic, atualmente em 10,50% ao ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/lula-diz-que-baixar-os-juros-e-uma-briga-eterna-no-brasil/
-  title: "Lula diz que baixar os juros \xE9 uma briga eterna no Brasil"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
