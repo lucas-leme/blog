@@ -1,3 +1,16 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-08-16T16:25:38+00:00'
+  description: "In this live stream, I'll dive into the code and design of an open-source\
+    \ project together with you. This is going to be completely unscripted, so you'll\
+    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
+    \ a surprise which project I'm going to be reviewing (also for me! :) )."
+  image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=aOly5eEDXug
+  title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
@@ -177,7 +190,7 @@
   path: https://open.spotify.com/episode/166LQEvYFj7aZRTRU5dFaZ
   title: "One Man\u2019s Campaign Against DEI"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-08-13T17:00:45+00:00'
@@ -238,10 +251,7 @@
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2024-08-09T15:00:13+00:00'
   description: "In this video, I want to show you that there is a place for object-oriented\
     \ code and a place for more functional code. In Python, you can combine the two,\
@@ -276,7 +286,7 @@
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
   title: From Boring Object-Oriented to INSANE Functional Code
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-08-09T09:54:00+00:00'
@@ -632,7 +642,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-08-03T02:13:54+00:00'
   description: 'Windows ARM laptops are finally having a moment and I''m loving it.
 
@@ -666,7 +676,7 @@
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2024-08-02T22:38:50+00:00'
   description: There is much less to the rise in joblessness than meets the eye, while
     annualized wage growth is still running about 1.5 percentage points faster than
@@ -780,16 +790,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20242
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
-- author: ArjanCodes
-  categories: *id007
-  date: '2024-07-31T14:21:54+00:00'
-  description: "In this live stream, I'll dive into the code and design of an open-source\
-    \ project together with you. This is going to be completely unscripted, so you'll\
-    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
-    \ a surprise which project I'm going to be reviewing (also for me! :) )."
-  image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=aOly5eEDXug
-  title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
 - author: CFA Institute Research and Policy Center
   categories: &id008
   - CFA
