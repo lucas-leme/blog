@@ -1,3 +1,13 @@
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2024-08-16T20:28:03+00:00'
+  description: The most recent data are likely overstating the extent of disinflation,
+    especially given what seems to be happening with goods supply and demand.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d16354-eb94-47a0-8ecd-f4b7a6949aa6_5000x4438.png
+  path: https://theovershoot.co/p/the-case-for-cutting-rates-or-not
+  title: The Case for Cutting Rates (or Not) is the Same As It Was Last Year
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -39,6 +49,20 @@
   path: https://braziljournal.com/o-rugido-selvagem-da-economia-do-tigrinho-e-seu-impacto-no-pais/
   title: "O rugido selvagem da economia do tigrinho \u2013 e seu impacto no Pa\xED\
     s"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-08-16T00:00:00+00:00'
+  description: "WSJ\u2019s Molly Ball breaks down the past week for the Trump campaign\
+    \ as the former president continues to try and counter a surge of support for\
+    \ Harris. Plus, do undecided voters truly exist? Molly answers your questions.\
+    \  Further Reading: - Race Is On To Reach the Rapidly Shrinking Pool of Undecided\
+    \ Voters\_ - Inside Elon Musk\u2019s Hands-On Push to Win 800,000 Voters for Trump\_\
+    \  Further Listening: - The Week that Changed the Presidential Race\_ - Kamala\
+    \ Harris, In Context\_\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5QzzHTjbWqjHEG8i499WxQ
+  title: Is the Trump Campaign Going Off Track?
 - author: "Economia \u2013 Brazil Journal"
   categories: *id001
   date: '2024-08-15T23:45:14+00:00'
@@ -57,7 +81,7 @@
   title: "Brasil muda representante \u2013 e orienta\xE7\xE3o \u2013 em cadeira no\
     \ FMI"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-15T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -94,8 +118,7 @@
   title: "#122 | Trag\xE9dias e gl\xF3rias: a POL\xCAMICA e \xDANICA hist\xF3ria de\
     \ Eike Batista"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-08-15T00:00:00+00:00'
   description: "Former YouTube CEO Susan Wojcicki died last week at the age of 56.\
     \ WSJ\u2019s Miles Kruppa shares how Wojcicki developed a reputation as perhaps\
@@ -147,7 +170,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/a-new-set-of-indicators-of-reserve-ampleness/
   title: "\xAD\xADA New Set of Indicators of Reserve Ampleness"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-08-14T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram:\
     \ https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-EPISODIO120-YT-NTVYT-CORTES-XSer\xE1\
@@ -175,22 +198,8 @@
   path: https://open.spotify.com/episode/5U206ZQkE3fpAmuHIUOi5b
   title: "O ERRO QUE TE IMPEDE DE INVESTIR EM GRANDES EMPRESAS (E COMO EVIT\xC1-LO)\
     \ | Corte EP #120"
-- author: The Journal.
-  categories: *id003
-  date: '2024-08-14T00:00:00+00:00'
-  description: "In the past three months, Robby Starbuck has fueled social-media attacks\
-    \ that have led to two companies rolling back their diversity initiatives. He\
-    \ is part of a larger movement that is pushing back against diversity, equity\
-    \ and inclusion policies at companies. WSJ\u2019s Chip Cutter reports.\_  Further\
-    \ Listening: -Conservatives Come for ESG\_  Further Reading: -The Activist Pushing\
-    \ Companies to Ditch Their Diversity Policies\_ -Diversity Goals Are Disappearing\
-    \ From Companies\u2019 Annual Reports\_  Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/166LQEvYFj7aZRTRU5dFaZ
-  title: "One Man\u2019s Campaign Against DEI"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-08-13T17:00:45+00:00'
@@ -286,9 +295,7 @@
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
   title: From Boring Object-Oriented to INSANE Functional Code
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2024-08-09T09:54:00+00:00'
   description: It is understandable why BTC owners would want the U.S. government
     to bid up the price of their assets. That does not make it good policy.
@@ -642,7 +649,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-08-03T02:13:54+00:00'
   description: 'Windows ARM laptops are finally having a moment and I''m loving it.
 
@@ -675,15 +682,6 @@
   image: https://i3.ytimg.com/vi/vJEbP2Vdq2U/hqdefault.jpg
   path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
   title: What's going on with Windows Laptops?
-- author: The Overshoot
-  categories: *id007
-  date: '2024-08-02T22:38:50+00:00'
-  description: There is much less to the rise in joblessness than meets the eye, while
-    annualized wage growth is still running about 1.5 percentage points faster than
-    pre-pandemic.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd225104f-bf18-41f9-98c7-cd508d159fbd_5000x4396.png
-  path: https://theovershoot.co/p/the-us-job-market-is-better-than
-  title: The U.S. Job Market Is Better Than It Looks
 - author: The View From Apollo
   categories:
   - Podcasts
