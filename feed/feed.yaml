@@ -1,6 +1,22 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id001
   - Economia
+  date: '2024-08-16T04:58:30+00:00'
+  description: "<p>Uma bomba de suc\xE7\xE3o poderosa est\xE1 atuando na economia\
+    \ brasileira, drenando bilh\xF5es de reais que antes alimentavam o consumo popular\
+    \ e causando deslocamentos at\xE9 nas igrejas evang\xE9licas e no mundo da publicidade.\
+    \ Bem-vindo \xE0 economia das apostas online \u2013 cujos clientes j\xE1 s\xE3\
+    o 7 vezes mais numerosos que os investidores na Bolsa. (Ouviu isso, Barsi?) [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/o-rugido-selvagem-da-economia-do-tigrinho-e-seu-impacto-no-pais/\"\
+    \ rel=\"nofollow\">O rugido selvagem da economia do tigrinho \u2013 e seu impacto\
+    \ no Pa\xEDs</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-rugido-selvagem-da-economia-do-tigrinho-e-seu-impacto-no-pais/
+  title: "O rugido selvagem da economia do tigrinho \u2013 e seu impacto no Pa\xED\
+    s"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2024-08-15T23:45:14+00:00'
   description: "<p>Substitui\xE7\xE3o na representa\xE7\xE3o brasileira no Fundo Monet\xE1\
     rio Internacional: sai o \u2018ortodoxo\u2019 Afonso Bevilaqua, entra o \u2018\
@@ -17,7 +33,7 @@
   title: "Brasil muda representante \u2013 e orienta\xE7\xE3o \u2013 em cadeira no\
     \ FMI"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-08-15T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -54,7 +70,7 @@
   title: "#122 | Trag\xE9dias e gl\xF3rias: a POL\xCAMICA e \xDANICA hist\xF3ria de\
     \ Eike Batista"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-15T00:00:00+00:00'
   description: "Former YouTube CEO Susan Wojcicki died last week at the age of 56.\
@@ -107,7 +123,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/a-new-set-of-indicators-of-reserve-ampleness/
   title: "\xAD\xADA New Set of Indicators of Reserve Ampleness"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-08-14T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram:\
     \ https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-EPISODIO120-YT-NTVYT-CORTES-XSer\xE1\
@@ -136,7 +152,7 @@
   title: "O ERRO QUE TE IMPEDE DE INVESTIR EM GRANDES EMPRESAS (E COMO EVIT\xC1-LO)\
     \ | Corte EP #120"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-14T00:00:00+00:00'
   description: "In the past three months, Robby Starbuck has fueled social-media attacks\
     \ that have led to two companies rolling back their diversity initiatives. He\
@@ -149,22 +165,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/166LQEvYFj7aZRTRU5dFaZ
   title: "One Man\u2019s Campaign Against DEI"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-08-13T22:53:17+00:00'
-  description: "<p>A aproxima\xE7\xE3o com Lula Foi assim que, em 2006, o ent\xE3\
-    o deputado Delfim Netto explicou sua in\xE9dita derrota nas urnas. \u201CEles\
-    \ nunca aceitaram e jamais aceitar\xE3o me ver ao lado do l\xEDder oper\xE1rio\
-    \ que foi advers\xE1rio do nosso governo,\u201D disse, pesaroso, na noite de 1\xBA\
-    \ de outubro de 2006. Depois de comandar a economia brasileira [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/essa-mulher-queria-me-sequestrar-tres-momentos-dos-altos-e-baixos-de-delfim-netto/\"\
-    \ rel=\"nofollow\">\u201CEssa mulher queria me sequestrar!\u201D Tr\xEAs momentos\
-    \ dos altos e baixos de Delfim Netto</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/essa-mulher-queria-me-sequestrar-tres-momentos-dos-altos-e-baixos-de-delfim-netto/
-  title: "\u201CEssa mulher queria me sequestrar!\u201D Tr\xEAs momentos dos altos\
-    \ e baixos de Delfim Netto"
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -273,7 +273,7 @@
     \ so I can continue to provide you with free content each week!"
   image: https://i1.ytimg.com/vi/DvdZv_DD0DY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
-  title: Refactoring Object-Oriented to AWESOME Functional Code
+  title: From Boring Object-Oriented to INSANE Functional Code
 - author: The Overshoot
   categories: &id006
   - Macro
