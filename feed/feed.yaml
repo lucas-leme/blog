@@ -1,3 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id004
+  - CFA
+  date: '2024-08-16T13:26:05+00:00'
+  description: "This highly readable book contains numerous entertaining anecdotes\
+    \ about, and descriptions of, the lifestyles of the rich and famous. Readers\u2019\
+    \ interest will never flag as they glean the chunks of wisdom that they can productively\
+    \ apply to investment analysis."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/16/book-review-risks-and-returns/
+  title: 'Book Review: Risks and Returns'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -208,8 +219,7 @@
   path: https://www.youtube.com/watch?v=63EVXf_S4WQ
   title: 'Google Pixel 9/Pro/Fold Impressions: They''ve Finally Done It?'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id004
   date: '2024-08-13T10:46:38+00:00'
   description: For investors in the space, the changing cannabis consumption landscape
     opens challenges and opportunities in product creation, marketing, and targeting
@@ -217,15 +227,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/08/13/the-changing-nature-of-cannabis-consumption/
   title: Opportunities in the Evolving Cannabis Consumption Market
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-08-12T12:19:04+00:00'
-  description: The presence of power law returns in angel investing, with the potential
-    for significant contributions from a handful of investments, has implications
-    for portfolio construction, investment strategies, and diversification.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/12/from-sandpiles-to-angel-investments/
-  title: From Sandpiles to Angel Investments
 - author: Apricitas Economics
   categories: &id011
   - Macro
