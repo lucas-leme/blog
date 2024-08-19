@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-19T10:05:58+00:00'
+  description: Here's a weighting scheme to mitigate economic risks while preserving
+    the benefits of diversified multi-factor strategies.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/19/mitigating-economic-risk-in-multi-factor-strategies/
+  title: Mitigating Economic Risk in Multi-Factor Strategies
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -20,10 +29,9 @@
     \ a surprise which project I'm going to be reviewing (also for me! :) )."
   image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
   path: https://www.youtube.com/watch?v=aOly5eEDXug
-  title: 'Under The Hood: Reviewing an Open-Source Project - Episode 2'
+  title: Under The Hood | Requests
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-08-16T13:26:05+00:00'
   description: "This highly readable book contains numerous entertaining anecdotes\
     \ about, and descriptions of, the lifestyles of the rich and famous. Readers\u2019\
@@ -33,7 +41,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/16/book-review-risks-and-returns/
   title: 'Book Review: Risks and Returns'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-08-16T04:58:30+00:00'
   description: "<p>Uma bomba de suc\xE7\xE3o poderosa est\xE1 atuando na economia\
@@ -50,7 +58,7 @@
   title: "O rugido selvagem da economia do tigrinho \u2013 e seu impacto no Pa\xED\
     s"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-16T00:00:00+00:00'
   description: "WSJ\u2019s Molly Ball breaks down the past week for the Trump campaign\
@@ -64,7 +72,7 @@
   path: https://open.spotify.com/episode/5QzzHTjbWqjHEG8i499WxQ
   title: Is the Trump Campaign Going Off Track?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-08-15T23:45:14+00:00'
   description: "<p>Substitui\xE7\xE3o na representa\xE7\xE3o brasileira no Fundo Monet\xE1\
     rio Internacional: sai o \u2018ortodoxo\u2019 Afonso Bevilaqua, entra o \u2018\
@@ -81,7 +89,7 @@
   title: "Brasil muda representante \u2013 e orienta\xE7\xE3o \u2013 em cadeira no\
     \ FMI"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-08-15T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -118,7 +126,7 @@
   title: "#122 | Trag\xE9dias e gl\xF3rias: a POL\xCAMICA e \xDANICA hist\xF3ria de\
     \ Eike Batista"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-15T00:00:00+00:00'
   description: "Former YouTube CEO Susan Wojcicki died last week at the age of 56.\
     \ WSJ\u2019s Miles Kruppa shares how Wojcicki developed a reputation as perhaps\
@@ -170,7 +178,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/08/a-new-set-of-indicators-of-reserve-ampleness/
   title: "\xAD\xADA New Set of Indicators of Reserve Ampleness"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-08-14T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram:\
     \ https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-EPISODIO120-YT-NTVYT-CORTES-XSer\xE1\
@@ -240,15 +248,6 @@
   image: https://i3.ytimg.com/vi/63EVXf_S4WQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=63EVXf_S4WQ
   title: 'Google Pixel 9/Pro/Fold Impressions: They''ve Finally Done It?'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-08-13T10:46:38+00:00'
-  description: For investors in the space, the changing cannabis consumption landscape
-    opens challenges and opportunities in product creation, marketing, and targeting
-    new consumer groups.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/13/the-changing-nature-of-cannabis-consumption/
-  title: Opportunities in the Evolving Cannabis Consumption Market
 - author: Apricitas Economics
   categories: &id011
   - Macro
