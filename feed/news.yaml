@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-19T20:16:33+00:00'
+  description: "Ibov fecha em 135.777 pontos e bate seu recorde nominal. Mas o recorde\
+    \ REAL, de 16 anos atr\xE1s, \xE9 bem maior"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/investimentos/calma-ainda-faltam-35-de-alta-para-a-maxima-historica-do-ibovespa/
+  title: "Calma. Ainda faltam 35% de alta para a m\xE1xima hist\xF3rica do Ibovespa"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -23,16 +32,15 @@
   path: https://www.reddit.com/r/CFA/comments/1ewbjea/level_1_exam_day_megathread/
   title: Level 1 Exam Day Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-19T18:53:32+00:00'
   description: "Marco foi alcan\xE7ado na sexta-feira, quando o pre\xE7o \xE0 vista\
     \ do metal superou os US$ 2.500 por on\xE7a troy"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/barra-de-ouro-vale-us-1-milhao-pela-primeira-vez-na-historia/
-  title: "Barra de ouro vale US$ 1 milh\xE3o pela primeira vez na hist\xF3ria"
+  title: "Barra de ouro chega a US$ 1 milh\xE3o pela primeira vez na hist\xF3ria"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-08-19T17:52:56+00:00'
   description: "S\xC3O PAULO (Reuters) &#8211; O Ibovespa ampliou a alta e trabalhava\
@@ -45,7 +53,7 @@
   path: https://investnews.com.br/economia/ibovespa-amplia-alta-e-ultrapassa-135-mil-pontos-pela-1a-vez/
   title: "Ibovespa amplia alta e ultrapassa 135 mil pontos pela 1\xAA vez"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-08-19T17:51:04+00:00'
   description: "S\xC3O PAULO (Reuters) &#8211; O d\xF3lar recuava mais de 1% frente\
     \ ao real nesta segunda-feira, em movimento alinhado com a fraqueza da moeda norte-americana\
@@ -55,15 +63,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/dolar-recua-mais-de-1-em-meio-a-fraqueza-global/
   title: "D\xF3lar recua mais de 1% em meio a fraqueza global"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-17T11:48:30+00:00'
-  description: "Dados recentes de infla\xE7\xE3o e dos gastos dos consumidores mostraram\
-    \ que a economia americana est\xE1 saud\xE1vel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/medo-de-recessao-nos-eua-vai-embora-e-wall-street-tem-melhor-semana-do-ano/
-  title: "Medo de recess\xE3o nos EUA vai embora e Wall Street tem melhor semana do\
-    \ ano"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-08-15T20:01:08+00:00'
