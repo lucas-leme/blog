@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-19T11:26:18+00:00'
+  description: "Fabricante de carros esportivos vai ajudar a reduzir d\xEDvida e injetar\
+    \ 60 milh\xF5es de euros para resgatar o neg\xF3cio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/porsche-entra-no-jogo-para-salvar-fabricante-de-baterias-varta/
+  title: Porsche entra em campo para salvar fabricante de baterias Varta
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Medo de recess\xE3o nos EUA vai embora e Wall Street tem melhor semana do\
     \ ano"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-16T11:22:34+00:00'
   description: Montadora japonesa pode se tornar a primeira a abandonar carros movidos
     apenas a gasolina
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/toyota-investe-em-hibridos-com-menor-demanda-por-veiculos-eletricos/
   title: "Toyota investe em h\xEDbridos diante de menor demanda por ve\xEDculos el\xE9\
     tricos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-15T21:24:55+00:00'
-  description: "Movimento dever\xE1 ocorrer nas pr\xF3ximas semanas para que possam\
-    \ participar das sabatinas no Senado antes do fim do ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/lula-cogita-anuncio-em-bloco-de-nomes-para-a-diretoria-do-banco-central-incluindo-galipolo-na-presidencia/
-  title: "Lula cogita an\xFAncio em bloco de nomes para a diretoria do Banco Central\
-    \ \u2014 incluindo Gal\xEDpolo na presid\xEAncia"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
