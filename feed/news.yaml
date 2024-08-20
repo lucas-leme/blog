@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-19T22:26:56+00:00'
+  description: "Luiz C\xE9sio Caetano, diretor corporativo e acionista da fabricante\
+    \ de sal, era o 1\xBA vice-presidente da Firjan"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/diretor-da-sal-cisne-e-eleito-novo-presidente-da-firjan/
+  title: "Diretor da Sal Cisne \xE9 eleito novo presidente da Firjan"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -40,8 +49,7 @@
   path: https://investnews.com.br/financas/barra-de-ouro-vale-us-1-milhao-pela-primeira-vez-na-historia/
   title: "Barra de ouro chega a US$ 1 milh\xE3o pela primeira vez na hist\xF3ria"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-19T17:52:56+00:00'
   description: "S\xC3O PAULO (Reuters) &#8211; O Ibovespa ampliou a alta e trabalhava\
     \ acima dos 135 mil pontos pela primeira vez na sua hist\xF3ria nesta segunda-feira,\
@@ -52,17 +60,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/ibovespa-amplia-alta-e-ultrapassa-135-mil-pontos-pela-1a-vez/
   title: "Ibovespa amplia alta e ultrapassa 135 mil pontos pela 1\xAA vez"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-19T17:51:04+00:00'
-  description: "S\xC3O PAULO (Reuters) &#8211; O d\xF3lar recuava mais de 1% frente\
-    \ ao real nesta segunda-feira, em movimento alinhado com a fraqueza da moeda norte-americana\
-    \ no exterior, \xE0 medida que investidores consolidam suas apostas sobre um corte\
-    \ de juros pelo Federal Reserve em setembro. \xC0s 11h57, o d\xF3lar \xE0 vista\
-    \ ca\xEDa 1,03%, a 5,4110 reais na [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/dolar-recua-mais-de-1-em-meio-a-fraqueza-global/
-  title: "D\xF3lar recua mais de 1% em meio a fraqueza global"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-08-15T20:01:08+00:00'
