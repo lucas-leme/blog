@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-20T10:00:00+00:00'
+  description: "LVOL11, HIGH11 e DOLA11: entenda a mec\xE2nica dos novos ETFs da Nu\
+    \ Asset e da BB Asset"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/um-etf-de-acoes-estaveis-outro-de-papeis-revoltos-e-o-1o-de-dolar-conheca-o-trio/
+  title: "Um ETF de a\xE7\xF5es est\xE1veis; outro, de pap\xE9is espevitados; e o\
+    \ 1\xBA de d\xF3lar. Conhe\xE7a o trio"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/economia/diretor-da-sal-cisne-e-eleito-novo-presidente-da-firjan/
   title: "Diretor da Sal Cisne \xE9 eleito novo presidente da Firjan"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-19T20:16:33+00:00'
   description: "Ibov fecha em 135.777 pontos e bate seu recorde nominal. Mas o recorde\
     \ REAL, de 16 anos atr\xE1s, \xE9 bem maior"
@@ -40,14 +49,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ewbjea/level_1_exam_day_megathread/
   title: Level 1 Exam Day Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-19T18:53:32+00:00'
-  description: "Marco foi alcan\xE7ado na sexta-feira, quando o pre\xE7o \xE0 vista\
-    \ do metal superou os US$ 2.500 por on\xE7a troy"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/barra-de-ouro-vale-us-1-milhao-pela-primeira-vez-na-historia/
-  title: "Barra de ouro chega a US$ 1 milh\xE3o pela primeira vez na hist\xF3ria"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2024-08-19T17:52:56+00:00'
