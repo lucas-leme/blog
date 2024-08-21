@@ -39,6 +39,21 @@
   image: https://i.scdn.co/image/ab6765630000ba8aa60be0b0d2418d97a780d12e
   path: https://open.spotify.com/episode/5RXCzSQ8jWVmGwMHqqpGnW
   title: "O NOVO NEG\xD3CIO DE EIKE BATISTA QUE PROMETE MUDAR O MUNDO | Corte EP #122"
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-08-21T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a8a275cea75163b21930a8db4
+  path: https://open.spotify.com/episode/3qFTqGkVcmEXuSyVu4LiaD
+  title: "#134 - Se a Bolsa n\xE3o existe, como investir em empresas globais?"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -214,7 +229,7 @@
   path: https://open.spotify.com/episode/6AAx6F61CpUKV8TIBde9m7
   title: "Going south: China\u2019s growing export market"
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id008
   - Tech
   - Youtube
   date: '2024-08-13T17:00:45+00:00'
@@ -309,8 +324,7 @@
   path: https://theovershoot.co/p/the-strategic-bitcoin-reserve-is
   title: The "Strategic Bitcoin Reserve" is an Absurd Idea
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id007
   date: '2024-08-07T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -641,7 +655,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
 - author: Marques Brownlee
-  categories: *id007
+  categories: *id008
   date: '2024-08-03T02:13:54+00:00'
   description: 'Windows ARM laptops are finally having a moment and I''m loving it.
 
@@ -781,7 +795,7 @@
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: CFA Institute Research and Policy Center
-  categories: &id008
+  categories: &id009
   - CFA
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
@@ -804,7 +818,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
   title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
 - author: CFA Institute Research and Policy Center
-  categories: *id008
+  categories: *id009
   date: '2024-07-29T00:00:00+00:00'
   description: "The author proposes the practical correction of \u20131.25 \u2013\
     \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
@@ -824,20 +838,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/05belfXD5z1EjAgak0Bo3p
   title: Different Kinds of BS
-- author: Outliers
-  categories: *id009
-  date: '2024-07-23T00:00:00+00:00'
-  description: "-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8afc05ee040283494e52280426
-  path: https://open.spotify.com/episode/2uJyaikHJpyvOzQItzY629
-  title: '#132 - Do Macro ao Micro com a WHG'
 - author: AQR
   categories: *id010
   date: '2024-07-09T00:00:00'
