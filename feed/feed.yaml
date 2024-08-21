@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-21T12:01:08+00:00'
+  description: Risk managers must look at market and model risk through a single lens
+    to see the complete picture of their market-related investment and trading risks,
+    as well as management costs, complexities, time, and regulatory requirements.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/21/market-and-model-risk-sequentially-interweaved-risk-dimensions/
+  title: 'Market and Model Risk: Sequentially Interweaved Risk Dimensions'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -36,7 +46,7 @@
   path: https://open.spotify.com/episode/4urmxEFXE7EVYbjr3GqpDF
   title: '#123 | BITCOIN: O DEBATE (Tiago Reis x Richard Rytenband)'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-08-20T00:00:00+00:00'
   description: "The Democratic National Convention is underway in Chicago, where the\
@@ -63,8 +73,7 @@
   path: https://open.spotify.com/episode/2ahGGcOfPKMymwNTsAQoEp
   title: 'Talk Your Book: Return Stacking [REPLAY]'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2024-08-19T10:05:58+00:00'
   description: Here's a weighting scheme to mitigate economic risks while preserving
     the benefits of diversified multi-factor strategies.
@@ -72,7 +81,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/19/mitigating-economic-risk-in-multi-factor-strategies/
   title: Mitigating Economic Risk in Multi-Factor Strategies
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-08-19T00:00:00+00:00'
   description: "Last week, the two presidential candidates put forward some specific\
     \ policy proposals about the economy. WSJ\u2019s Andrew Restuccia breaks down\
@@ -107,16 +116,6 @@
   image: https://i2.ytimg.com/vi/aOly5eEDXug/hqdefault.jpg
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: Under The Hood | Requests
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2024-08-16T13:26:05+00:00'
-  description: "This highly readable book contains numerous entertaining anecdotes\
-    \ about, and descriptions of, the lifestyles of the rich and famous. Readers\u2019\
-    \ interest will never flag as they glean the chunks of wisdom that they can productively\
-    \ apply to investment analysis."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/16/book-review-risks-and-returns/
-  title: 'Book Review: Risks and Returns'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id003
   - Economia
