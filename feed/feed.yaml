@@ -1,3 +1,20 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2024-08-21T17:01:43+00:00'
+  description: "Pixel 9 and Pixel 9 Pro are full of AI and wrapped in premium build.\
+    \ What a gift.\n\nExplore the full Anker Prime lineup and get the most advanced\
+    \ multi-device fast-charging experience:\nAmazon:\_https://ankerfast.club/7anzze\n\
+    Anker:\_https://shop.anker.com/ocm4ti\n\nMKBHD Merch: http://shop.MKBHD.com\n\n\
+    Tech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\n\
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Google\
+    \ for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\
+    \n0:00 Intro\n1:29 Hardware\n5:49 Cameras\n8:14 The Pixel Experience\n11:00 Gemini\n\
+    15:56 AI: Overrated or Underrated?\n21:34 Conclusion"
+  image: https://i2.ytimg.com/vi/EGkGRs6YhoM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=EGkGRs6YhoM
+  title: 'Google Pixel 9/Pro Review: Gimmick or Good?'
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -40,7 +57,7 @@
   path: https://open.spotify.com/episode/5RXCzSQ8jWVmGwMHqqpGnW
   title: "O NOVO NEG\xD3CIO DE EIKE BATISTA QUE PROMETE MUDAR O MUNDO | Corte EP #122"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-08-21T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -139,7 +156,7 @@
   path: https://open.spotify.com/episode/3XeOanqJR93Seg5v5pyZJT
   title: 'The Economy: Trump vs. Harris'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-08-16T20:28:03+00:00'
@@ -149,7 +166,7 @@
   path: https://theovershoot.co/p/the-case-for-cutting-rates-or-not
   title: The Case for Cutting Rates (or Not) is the Same As It Was Last Year
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -229,9 +246,7 @@
   path: https://open.spotify.com/episode/6AAx6F61CpUKV8TIBde9m7
   title: "Going south: China\u2019s growing export market"
 - author: Marques Brownlee
-  categories: &id008
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2024-08-13T17:00:45+00:00'
   description: 'Pixel 9s are looking like flagships for real. Plus some AI stuff,
     of course.
@@ -281,7 +296,7 @@
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-08-09T15:00:13+00:00'
   description: "In this video, I want to show you that there is a place for object-oriented\
     \ code and a place for more functional code. In Python, you can combine the two,\
@@ -316,7 +331,7 @@
   path: https://www.youtube.com/watch?v=DvdZv_DD0DY
   title: Refactoring Object-Oriented to AWESOME Functional Code
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2024-08-09T09:54:00+00:00'
   description: It is understandable why BTC owners would want the U.S. government
     to bid up the price of their assets. That does not make it good policy.
@@ -324,7 +339,7 @@
   path: https://theovershoot.co/p/the-strategic-bitcoin-reserve-is
   title: The "Strategic Bitcoin Reserve" is an Absurd Idea
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-08-07T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -654,40 +669,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
-- author: Marques Brownlee
-  categories: *id008
-  date: '2024-08-03T02:13:54+00:00'
-  description: 'Windows ARM laptops are finally having a moment and I''m loving it.
-
-
-    See inside your smartphone or laptop with dbrand at https://dbrand.com/xray
-
-
-    Microsoft Surface Laptop 7: https://geni.us/r9SOB1B
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Surface provided by Microsoft for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/vJEbP2Vdq2U/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=vJEbP2Vdq2U
-  title: What's going on with Windows Laptops?
 - author: The View From Apollo
   categories:
   - Podcasts
