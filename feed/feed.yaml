@@ -1,3 +1,31 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-22T16:01:05+00:00'
+  description: Has the science of economics gone astray by borrowing ideas from physics?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/22/from-darwin-to-wall-street-harnessing-evolutionary-theory-for-smarter-investments/
+  title: 'From Darwin to Wall Street: Harnessing Evolutionary Theory for Smarter Investments'
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2024-08-22T00:00:00+00:00'
+  description: "Taylor Swift is reportedly worth $1.3bn. In the music industry, amassing\
+    \ that kind of fortune requires more than talent alone. It requires a shrewd business\
+    \ sense and an ability to be ruthless. In the first of two special episodes, we\
+    \ explore how Taylor Swift built the biggest brand in music.Hosts: Alice Fulwood,\
+    \ Tom Lee-Devlin and Mike Bird. Guests: Bob Reeves, a manager who was at one of\
+    \ Swift\u2019s first gigs; Clay Myers, former Warner Music Group exec who helped\
+    \ facilitate one of Swift\u2019s early hits; and Bill Werde, former editorial\
+    \ director of Billboard magazine, current director of the Bandier Program at Syracuse\
+    \ University and author of the \u201CFull Rate No Cap\u201D newsletter.Transcripts\
+    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
+    \ most, from global politics and business to science and technology\u2014subscribe\
+    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
+    \ please visit our FAQs page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8ab0572063531cbed1788a0245
+  path: https://open.spotify.com/episode/2AopbSbEJc0GyovxNuLThz
+  title: 'Money Talks: Taylor''s version (part one)'
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -16,8 +44,7 @@
   path: https://www.youtube.com/watch?v=EGkGRs6YhoM
   title: 'Google Pixel 9/Pro Review: Gimmick or Good?'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-08-21T12:01:08+00:00'
   description: Risk managers must look at market and model risk through a single lens
     to see the complete picture of their market-related investment and trading risks,
@@ -26,7 +53,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/21/market-and-model-risk-sequentially-interweaved-risk-dimensions/
   title: 'Market and Model Risk: Sequentially Interweaved Risk Dimensions'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-08-21T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram::\
@@ -57,7 +84,7 @@
   path: https://open.spotify.com/episode/5RXCzSQ8jWVmGwMHqqpGnW
   title: "O NOVO NEG\xD3CIO DE EIKE BATISTA QUE PROMETE MUDAR O MUNDO | Corte EP #122"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-21T00:00:00+00:00'
   description: "Last week, Starbucks ousted its CEO Laxman Narasimhan and replaced\
@@ -106,7 +133,7 @@
   title: The Disparate Outcomes of Bank&#8209; and Nonbank&#8209;Financed Private
     Credit Expansions
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-08-20T00:00:00+00:00'
   description: "Promovemos um debate \xE9pico entre Tiago Reis e Richard Rytenband\
     \ para discutir o futuro do Bitcoin.Tiago Reis questiona a viabilidade de longo\
@@ -122,7 +149,7 @@
   path: https://open.spotify.com/episode/4urmxEFXE7EVYbjr3GqpDF
   title: '#123 | BITCOIN: O DEBATE (Tiago Reis x Richard Rytenband)'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-08-20T00:00:00+00:00'
   description: "The Democratic National Convention is underway in Chicago, where the\
     \ party aims to unite behind its new nominee for president, Kamala Harris. But\
@@ -147,14 +174,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a4f05f16b642a289cebeeb2f0
   path: https://open.spotify.com/episode/2ahGGcOfPKMymwNTsAQoEp
   title: 'Talk Your Book: Return Stacking [REPLAY]'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-08-19T10:05:58+00:00'
-  description: Here's a weighting scheme to mitigate economic risks while preserving
-    the benefits of diversified multi-factor strategies.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/19/mitigating-economic-risk-in-multi-factor-strategies/
-  title: Mitigating Economic Risk in Multi-Factor Strategies
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -226,25 +245,6 @@
   path: https://braziljournal.com/brasil-muda-representante-e-orientacao-e-cadeira-no-fmi/
   title: "Brasil muda representante \u2013 e orienta\xE7\xE3o \u2013 em cadeira no\
     \ FMI"
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2024-08-15T00:00:00+00:00'
-  description: "For decades, \u201Cthe world\u2019s factory\u201D has been churning\
-    \ out goods for export. But many of those products were made not by Chinese companies,\
-    \ but by American, European or Japanese ones looking to take advantage of China\u2019\
-    s cheap labour. But as the country\u2019s economy slows, domestic firms are increasingly\
-    \ looking abroad for growth and, as a trade war rages with the West, they have\
-    \ set their sights on the global south.Hosts: Tom Lee-Devlin, Alice Fulwood and\
-    \ Mike Bird. Guests: Lourdes Casanova of Cornell University and Ong Kian Ming,\
-    \ a Malaysian former deputy minister.Transcripts of our podcasts are available\
-    \ via economist.com/podcasts.Listen to what matters most, from global politics\
-    \ and business to science and technology\u2014subscribe to Economist Podcasts+.For\
-    \ more information about how to access Economist Podcasts+, please visit our FAQs\
-    \ page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
-  path: https://open.spotify.com/episode/6AAx6F61CpUKV8TIBde9m7
-  title: "Going south: China\u2019s growing export market"
 - author: Marques Brownlee
   categories: *id005
   date: '2024-08-13T17:00:45+00:00'
