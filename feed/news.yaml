@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-23T10:00:00+00:00'
+  description: Para especialistas, fundamentos das empresas ainda inspiram cuidado
+    e movimento atual envolve capital (principalmente externo) de risco
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/alta-das-acoes-de-magalu-e-casas-bahia-mostra-reconciliacao-com-o-varejo-analistas-pregam-cautela/
+  title: "Alta das a\xE7\xF5es de Magalu e Casas Bahia mostra reconcilia\xE7\xE3o\
+    \ com o varejo? Analistas pregam cautela"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "Pol\xEDtica monet\xE1ria do Brasil \xE9 exemplo a ser evitado, diz diretor\
     \ do BC da Col\xF4mbia"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-20T10:00:00+00:00'
   description: "LVOL11, HIGH11 e DOLA11: entenda a mec\xE2nica dos novos ETFs da Nu\
     \ Asset e da BB Asset"
@@ -27,14 +36,6 @@
   path: https://investnews.com.br/financas/um-etf-de-acoes-estaveis-outro-de-papeis-revoltos-e-o-1o-de-dolar-conheca-o-trio/
   title: "Um ETF de a\xE7\xF5es est\xE1veis; outro, de pap\xE9is espevitados; e o\
     \ 1\xBA de d\xF3lar. Conhe\xE7a o trio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-19T20:16:33+00:00'
-  description: "Ibov fecha em 135.777 pontos e bate seu recorde nominal. Mas o recorde\
-    \ REAL, de 16 anos atr\xE1s, \xE9 bem maior"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/calma-ainda-faltam-35-de-alta-para-a-maxima-historica-do-ibovespa/
-  title: "Calma. Ainda faltam 35% de alta para a m\xE1xima hist\xF3rica do Ibovespa"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
