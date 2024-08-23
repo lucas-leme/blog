@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-23T11:20:20+00:00'
+  description: "Empresa oferecer\xE1 seus ve\xEDculos aut\xF4nomos na plataforma de\
+    \ transporte por aplicativo a partir do ano que vem"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/cruise-oferecera-veiculos-autonomos-pela-uber-nos-eua-a-partir-de-2025/
+  title: "Cruise oferecer\xE1 ve\xEDculos aut\xF4nomos pela Uber nos EUA a partir\
+    \ de 2025"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Alta das a\xE7\xF5es de Magalu e Casas Bahia mostra reconcilia\xE7\xE3o\
     \ com o varejo? Analistas pregam cautela"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-22T21:50:35+00:00'
   description: "Previs\xE3o \xE9 que dinheiro seja depositado na conta-corrente indicada\
     \ no dia 30 de agosto"
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/economia/receita-libera-nesta-sexta-23-consulta-ao-4o-lote-de-restituicao-do-ir/
   title: "Receita libera nesta sexta (23) consulta ao 4\xBA lote de restitui\xE7\xE3\
     o do IR"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-22T21:08:47+00:00'
-  description: "Coment\xE1rio surgiu em um contexto de alerta sobre os perigos de\
-    \ uma flexibiliza\xE7\xE3o monet\xE1ria precipitada"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/politica-monetaria-do-brasil-e-exemplo-a-ser-evitado-diz-diretor-do-bc-da-colombia/
-  title: "Pol\xEDtica monet\xE1ria do Brasil \xE9 exemplo a ser evitado, diz diretor\
-    \ do BC da Col\xF4mbia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-08-20T10:00:00+00:00'
