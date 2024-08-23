@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-23T14:27:51+00:00'
+  description: We are three months away from the longest yield curve inversion-to-recession
+    period. Will Cam Harvey's famous recession indicator hold? Highlights from EI
+    podcast.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/23/the-yield-curve-recessions-and-monetary-policy-blunders-ei-podcast-highlights/
+  title: 'The Yield Curve, Recessions, and Monetary Policy Blunders: EI Podcast Highlights'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -15,8 +25,7 @@
   path: https://braziljournal.com/opiniao-por-que-o-bc-nao-deveria-aumentar-a-selic/
   title: "OPINI\xC3O. Por que o BC n\xE3o deveria aumentar a Selic"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2024-08-22T16:01:05+00:00'
   description: Has the science of economics gone astray by borrowing ideas from physics?
   image: null
@@ -101,15 +110,6 @@
   image: https://i2.ytimg.com/vi/EGkGRs6YhoM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EGkGRs6YhoM
   title: 'Google Pixel 9/Pro Review: Gimmick or Good?'
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2024-08-21T12:01:08+00:00'
-  description: Risk managers must look at market and model risk through a single lens
-    to see the complete picture of their market-related investment and trading risks,
-    as well as management costs, complexities, time, and regulatory requirements.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/21/market-and-model-risk-sequentially-interweaved-risk-dimensions/
-  title: 'Market and Model Risk: Sequentially Interweaved Risk Dimensions'
 - author: Market Makers
   categories: *id002
   date: '2024-08-21T00:00:00+00:00'

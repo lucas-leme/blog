@@ -1,16 +1,24 @@
 - author: "Economia \u2013 InvestNews"
+  categories:
+  - "Not\xEDcias"
+  date: '2024-08-23T14:29:59+00:00'
+  description: "Presidente do Fed afirmou que indicadores de infla\xE7\xE3o e desemprego\
+    \ encorajam a mudan\xE7a de ciclo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/powell-diz-que-chegou-a-hora-de-reduzir-os-juros-nos-estados-unidos/
+  title: "Powell diz que \u2018chegou a hora\u2019 de reduzir os juros nos Estados\
+    \ Unidos"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
-  date: '2024-08-23T11:20:20+00:00'
-  description: "Empresa oferecer\xE1 seus ve\xEDculos aut\xF4nomos na plataforma de\
-    \ transporte por aplicativo a partir do ano que vem"
+  date: '2024-08-23T14:10:12+00:00'
+  description: "Plano deve passar por uma consulta p\xFAblica at\xE9 o final do ano"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cruise-oferecera-veiculos-autonomos-pela-uber-nos-eua-a-partir-de-2025/
-  title: "Cruise oferecer\xE1 ve\xEDculos aut\xF4nomos pela Uber nos EUA a partir\
-    \ de 2025"
+  path: https://investnews.com.br/economia/governo-e-cvm-preparam-plano-para-melhorar-acesso-de-empresas-menores-ao-mercado-de-capitais/
+  title: Governo e CVM preparam plano para melhorar acesso de empresas menores ao
+    mercado de capitais
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-23T10:00:00+00:00'
   description: Para especialistas, fundamentos das empresas ainda inspiram cuidado
     e movimento atual envolve capital (principalmente externo) de risco
@@ -18,26 +26,8 @@
   path: https://investnews.com.br/financas/alta-das-acoes-de-magalu-e-casas-bahia-mostra-reconciliacao-com-o-varejo-analistas-pregam-cautela/
   title: "Alta das a\xE7\xF5es de Magalu e Casas Bahia mostra reconcilia\xE7\xE3o\
     \ com o varejo? Analistas pregam cautela"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-22T21:50:35+00:00'
-  description: "Previs\xE3o \xE9 que dinheiro seja depositado na conta-corrente indicada\
-    \ no dia 30 de agosto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/receita-libera-nesta-sexta-23-consulta-ao-4o-lote-de-restituicao-do-ir/
-  title: "Receita libera nesta sexta (23) consulta ao 4\xBA lote de restitui\xE7\xE3\
-    o do IR"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-20T10:00:00+00:00'
-  description: "LVOL11, HIGH11 e DOLA11: entenda a mec\xE2nica dos novos ETFs da Nu\
-    \ Asset e da BB Asset"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/um-etf-de-acoes-estaveis-outro-de-papeis-revoltos-e-o-1o-de-dolar-conheca-o-trio/
-  title: "Um ETF de a\xE7\xF5es est\xE1veis; outro, de pap\xE9is espevitados; e o\
-    \ 1\xBA de d\xF3lar. Conhe\xE7a o trio"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id003
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -61,7 +51,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ewbjea/level_1_exam_day_megathread/
   title: Level 1 Exam Day Megathread
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id003
+  categories: *id002
   date: '2024-08-15T20:01:08+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Heyo L3 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
