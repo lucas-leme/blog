@@ -1,5 +1,16 @@
-- author: ArjanCodes
+- author: The Overshoot
   categories: &id004
+  - Macro
+  - Newsletters
+  date: '2024-08-23T21:56:25+00:00'
+  description: It has been over a year-and-half since the end of "Covid Zero" restrictions,
+    but domestic demand is still so weak that production is only holding up thanks
+    to exports (dumping?)
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F572bd015-cb97-480f-82d4-35fa7a02e6ff_4996x4430.png
+  path: https://theovershoot.co/p/chinese-weakness-is-the-real-china
+  title: Chinese Weakness is the Real "China Shock"
+- author: ArjanCodes
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -50,8 +61,23 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/08/23/the-yield-curve-recessions-and-monetary-policy-blunders-ei-podcast-highlights/
   title: 'The Yield Curve, Recessions, and Monetary Policy Blunders: EI Podcast Highlights'
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-08-23T00:00:00+00:00'
+  description: "Last night, Vice President Kamala Harris formally accepted the Democratic\
+    \ presidential nomination. It capped off a boisterous, speaker-packed week in\
+    \ Chicago as the Harris campaign tries to reach a broad swath of American voters.\
+    \ Molly Ball reports from Chicago.\_  Further Listening: - Is the Trump Campaign\
+    \ Going Off Track?\_\_ - Takeaways from the RNC: Trump Is in Control\_  Further\
+    \ Reading: - Kamala Harris Defines the Democrats\u2019 New Normal\_ - Democrats\u2019\
+    \ Upbeat Convention Has Nancy Pelosi to Thank\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6XWFPEC0Te1ouZU1Q0dv4M
+  title: Hope, Unity (and Some Nerves) at the DNC
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2024-08-22T19:14:27+00:00'
   description: "<p>O transtorno bipolar \xE9 uma doen\xE7a psiqui\xE1trica caracterizada\
@@ -74,7 +100,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/22/from-darwin-to-wall-street-harnessing-evolutionary-theory-for-smarter-investments/
   title: 'From Darwin to Wall Street: Harnessing Evolutionary Theory for Smarter Investments'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-08-22T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -99,8 +125,7 @@
   title: "#124 | Como funciona a estrat\xE9gia que MULTIPLICOU o patrim\xF4nio em\
     \ 16 VEZES"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-08-22T00:00:00+00:00'
   description: "In May, an associate at Bank of America died unexpectedly after working\
     \ long hours on a big acquisition. The death sparked an outcry about the all-nighters\
@@ -136,7 +161,7 @@
   path: https://open.spotify.com/episode/2AopbSbEJc0GyovxNuLThz
   title: 'Money Talks: Taylor''s version (part one)'
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-08-21T17:01:43+00:00'
@@ -153,7 +178,7 @@
   path: https://www.youtube.com/watch?v=EGkGRs6YhoM
   title: 'Google Pixel 9/Pro Review: Gimmick or Good?'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-08-21T00:00:00+00:00'
   description: "FA\xC7A PARTE DO M3 CLUB, onde investidores profissionais se encontram::\
     \ https://lp.mmakers.com.br/m3-club/?xpromo=XE-ME-EMP-M3C-SUBMMK-EPISODIO122-YT-NTVYT-CORTES-X\_\
@@ -182,19 +207,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8aa60be0b0d2418d97a780d12e
   path: https://open.spotify.com/episode/5RXCzSQ8jWVmGwMHqqpGnW
   title: "O NOVO NEG\xD3CIO DE EIKE BATISTA QUE PROMETE MUDAR O MUNDO | Corte EP #122"
-- author: The Journal.
-  categories: *id003
-  date: '2024-08-21T00:00:00+00:00'
-  description: "Last week, Starbucks ousted its CEO Laxman Narasimhan and replaced\
-    \ him with Brian Niccol, the current leader of Chipotle. Lauren Thomas reports\
-    \ on the dramatic leadership change, as Starbucks struggles to turn around its\
-    \ business and contend with activist investors.\_\_  Further Listening: - Can\
-    \ Chinese Customers Rescue Starbucks?\_\_ - The Underdog Coffee Bean That\u2019\
-    s Making a Comeback\_  Further Reading: - Inside Starbucks\u2019s Surprising CEO\
-    \ Firing and Hiring\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1KOD5bHuXU6usmFJCIhfXJ
-  title: "The Inside Story of Starbucks\u2019s CEO Drama"
 - author: Outliers
   categories: &id008
   - Podcasts
@@ -242,9 +254,7 @@
   path: https://open.spotify.com/episode/2ahGGcOfPKMymwNTsAQoEp
   title: 'Talk Your Book: Return Stacking [REPLAY]'
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2024-08-16T20:28:03+00:00'
   description: The most recent data are likely overstating the extent of disinflation,
     especially given what seems to be happening with goods supply and demand.
@@ -252,7 +262,7 @@
   path: https://theovershoot.co/p/the-case-for-cutting-rates-or-not
   title: The Case for Cutting Rates (or Not) is the Same As It Was Last Year
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-08-16T16:25:38+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -262,7 +272,7 @@
   path: https://www.youtube.com/watch?v=aOly5eEDXug
   title: Under The Hood | Requests
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2024-08-16T04:58:30+00:00'
   description: "<p>Uma bomba de suc\xE7\xE3o poderosa est\xE1 atuando na economia\
     \ brasileira, drenando bilh\xF5es de reais que antes alimentavam o consumo popular\
@@ -292,7 +302,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/16082024
   title: "BC - Focus - Relat\xF3rio de Mercado - 16/08/2024"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-08-13T17:00:45+00:00'
   description: 'Pixel 9s are looking like flagships for real. Plus some AI stuff,
     of course.
@@ -341,14 +351,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad12b44-7e78-4629-97b4-c9b7adf6fd26_2886x1843.png
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
-- author: The Overshoot
-  categories: *id007
-  date: '2024-08-09T09:54:00+00:00'
-  description: It is understandable why BTC owners would want the U.S. government
-    to bid up the price of their assets. That does not make it good policy.
-  image: https://substackcdn.com/image/youtube/w_728,c_limit/_Ou_oxWsCcc
-  path: https://theovershoot.co/p/the-strategic-bitcoin-reserve-is
-  title: The "Strategic Bitcoin Reserve" is an Absurd Idea
 - author: Outliers
   categories: *id008
   date: '2024-08-07T00:00:00+00:00'
