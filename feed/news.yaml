@@ -1,6 +1,24 @@
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-08-26T18:03:16+00:00'
+  description: "Consequ\xEAncias podem ser ainda maiores do que as da grande geada\
+    \ que danificou a cana no Brasil em 2021"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/negocios/incendios-em-sao-paulo-afetam-producao-de-cana-de-acucar-e-elevam-precos-internacionais/
+  title: "Inc\xEAndios em S\xE3o Paulo afetam produ\xE7\xE3o de cana-de-a\xE7\xFA\
+    car e elevam pre\xE7os internacionais"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-08-26T17:59:17+00:00'
+  description: Brasileiros gastaram mais com as moedas digitais do que com turismo
+    no exterior nos sete primeiros meses do ano
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/remessa-de-recursos-para-comprar-cripto-atinge-recorde-de-r-9997-bi-no-ano/
+  title: Remessa de recursos para comprar cripto atinge recorde de R$ 10 bi no ano
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-08-25T19:34:03+00:00'
   description: "Caso a irm\xE3 do El Ni\xF1o reduza as chuvas nos pr\xF3ximos meses,\
     \ o Estado pode viver novamente uma seca como a de 2014"
@@ -8,32 +26,14 @@
   path: https://investnews.com.br/economia/estiagem-e-la-nina-ameacam-abastecimento-de-agua-em-sao-paulo-para-2025/
   title: "Estiagem e La Ni\xF1a amea\xE7am abastecimento de \xE1gua em S\xE3o Paulo\
     \ para 2025"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-08-25T17:35:07+00:00'
-  description: "Ra\xEDzen, S\xE3o Martinho e Grupo Moreno est\xE3o entre as sucroalcooleiras\
-    \ atingidas. O preju\xEDzo estimado \xE9 de R$ 350 milh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/incendios-paralisam-parte-do-agronegocio-em-sao-paulo/
-  title: "Inc\xEAndios paralisam parte do agroneg\xF3cio em S\xE3o Paulo"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-08-23T14:10:12+00:00'
   description: "Plano deve passar por uma consulta p\xFAblica at\xE9 o final do ano"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/governo-e-cvm-preparam-plano-para-melhorar-acesso-de-empresas-menores-ao-mercado-de-capitais/
   title: Governo e CVM preparam plano para melhorar acesso de empresas menores ao
     mercado de capitais
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-23T10:00:00+00:00'
-  description: Para especialistas, fundamentos das empresas ainda inspiram cuidado
-    e movimento atual envolve capital (principalmente externo) de risco
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/alta-das-acoes-de-magalu-e-casas-bahia-mostra-reconciliacao-com-o-varejo-analistas-pregam-cautela/
-  title: "Alta das a\xE7\xF5es de Magalu e Casas Bahia mostra reconcilia\xE7\xE3o\
-    \ com o varejo? Analistas pregam cautela"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
