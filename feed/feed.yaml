@@ -8,6 +8,15 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/08/28/central-banks-and-the-green-economy-a-path-to-sustainable-growth/
   title: 'Central Banks and the Green Economy: A Path to Sustainable Growth'
+- author: CFA Institute Research and Policy Center
+  categories: &id009
+  - CFA
+  date: '2024-08-28T00:00:00+00:00'
+  description: For decades, lifecycle finance models and mean-variance optimization
+    models remained separate, but recent breakthroughs have produced combined models.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
+  title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -772,8 +781,7 @@
   title: "BC - Copom Comunicado - 264\xAA Reuni\xE3o - Copom mant\xE9m a taxa Selic\
     \ em 10,50% a.a."
 - author: CFA Institute Research and Policy Center
-  categories: &id009
-  - CFA
+  categories: *id009
   date: '2024-07-30T00:00:00+00:00'
   description: A 1974 FAJ article rejected earnings per share as the main metric for
     equity analysis, spurring research that expanded the set of valuation tools.
@@ -794,14 +802,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
   title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
-- author: CFA Institute Research and Policy Center
-  categories: *id009
-  date: '2024-07-29T00:00:00+00:00'
-  description: "The author proposes the practical correction of \u20131.25 \u2013\
-    \ log(\u2013Z) to assess the probabilities of left-tail events in equity returns."
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/heuristic-for-fat-tailed-stock-market-returns
-  title: A Heuristic for Fat-Tailed Stock Market Returns
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
