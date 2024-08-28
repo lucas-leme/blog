@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-08-28T13:49:57+00:00'
+  description: The Fed and other leading central banks are progressively aligning
+    with climate change policies. This marks an evolution toward a greener form of
+    capitalism in the global capital markets.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/08/28/central-banks-and-the-green-economy-a-path-to-sustainable-growth/
+  title: 'Central Banks and the Green Economy: A Path to Sustainable Growth'
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -20,7 +30,7 @@
   title: "#125 | BOLSA NA M\xC1XIMA HIST\xD3RICA e ALTA DA SELIC \xC0 VISTA: o que\
     \ est\xE1 acontecendo?"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-08-27T00:00:00+00:00'
   description: "When Elon Musk bought Twitter in 2022, he borrowed $13 billion dollars\
@@ -70,8 +80,7 @@
   path: https://www.youtube.com/watch?v=iGYpj2gFu9Q
   title: "Dyson is Back\u2026 Why Do These Exist?"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-08-26T17:38:28+00:00'
   description: The cost of institutional investing has become an impossible burden.
     Reduce costs. Give alpha a chance.
@@ -79,7 +88,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/26/elusive-alpha-corrosive-costs/
   title: Elusive Alpha, Corrosive Costs
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-08-26T04:01:53+00:00'
   description: "<p>H\xE1 aproximadamente 15 anos, publiquei com meu amigo Paulo Tafner\
@@ -96,7 +105,7 @@
   title: "OPINI\xC3O. O desafio demogr\xE1fico \xE9 maior do que se imagina. Precisamos\
     \ agir"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-08-26T00:00:00+00:00'
   description: "For almost 20 years, Etsy has been a popular website for handmade\
     \ and specialized goods on the internet. But as the company grew, many current\
@@ -111,7 +120,7 @@
   path: https://open.spotify.com/episode/35VgQAJND0XrUM0Bljrq0j
   title: 'Etsy: Big Commerce or Crafters'' Community?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-08-25T09:50:01+00:00'
   description: "<p>Os inc\xEAndios dantescos de 2020 devastaram um quarto da vegeta\xE7\
     \xE3o do Pantanal e dizimaram 17 milh\xF5es de animais silvestres. Os inc\xEA\
@@ -178,15 +187,6 @@
   image: https://i1.ytimg.com/vi/pZunzLJ1qcQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=pZunzLJ1qcQ
   title: Quick and Easy Rate Limiting for FastAPI
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-08-23T14:27:51+00:00'
-  description: We are three months away from the longest yield curve inversion-to-recession
-    period. Will Cam Harvey's famous recession indicator hold? Highlights from EI
-    podcast.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/23/the-yield-curve-recessions-and-monetary-policy-blunders-ei-podcast-highlights/
-  title: 'The Yield Curve, Recessions, and Monetary Policy Blunders: EI Podcast Highlights'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
