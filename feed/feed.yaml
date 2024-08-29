@@ -1,3 +1,30 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-08-28T23:32:28+00:00'
+  description: "<p>A indica\xE7\xE3o de Gabriel Gal\xEDpolo para a presid\xEAncia\
+    \ do Banco Central reduz uma incerteza que pairava sobre a economia e marca a\
+    \ ascens\xE3o de um nome que conta com a confian\xE7a do Presidente Lula e tem\
+    \ trabalhado diligentemente para estabelecer sua credibilidade junto ao mercado.\_\
+    \ Gal\xEDpolo ocupa desde o ano passado a diretoria de pol\xEDtica [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/no-bc-galipolo-tera-que-transformar-confianca-de-lula-em-boa-politica-monetaria/\"\
+    \ rel=\"nofollow\">No BC, Gal\xEDpolo ter\xE1 que transformar confian\xE7a de\
+    \ Lula em boa pol\xEDtica monet\xE1ria</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-bc-galipolo-tera-que-transformar-confianca-de-lula-em-boa-politica-monetaria/
+  title: "No BC, Gal\xEDpolo ter\xE1 que transformar confian\xE7a de Lula em boa pol\xED\
+    tica monet\xE1ria"
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2024-08-28T23:02:32+00:00'
+  description: The shortfall in household spending since 2019 is massive no matter
+    how you count it.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54359b62-1d94-47fa-a64f-4ca15d4de0eb_4996x4421.png
+  path: https://theovershoot.co/p/deeper-inside-the-chinese-consumer
+  title: Deeper Inside the Chinese Consumer Spending Data
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -33,7 +60,7 @@
   path: https://open.spotify.com/episode/1vQzBZjMAulaOMPJNwqJ8o
   title: Why China Is Risking a Trade War
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-08-27T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
@@ -69,7 +96,7 @@
   path: https://open.spotify.com/episode/55mjFOJwWJN5C7dybA237q
   title: Lending Elon Musk Money Was A Very Bad Bet
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-08-26T22:32:36+00:00'
@@ -111,8 +138,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/08/26/elusive-alpha-corrosive-costs/
   title: Elusive Alpha, Corrosive Costs
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id003
   date: '2024-08-26T04:01:53+00:00'
   description: "<p>H\xE1 aproximadamente 15 anos, publiquei com meu amigo Paulo Tafner\
     \ o livro Demografia: a amea\xE7a invis\xEDvel, no qual cham\xE1vamos aten\xE7\
@@ -127,25 +153,8 @@
   path: https://braziljournal.com/opiniao-o-desafio-demografico-e-maior-do-que-se-imagina-precisamos-agir/
   title: "OPINI\xC3O. O desafio demogr\xE1fico \xE9 maior do que se imagina. Precisamos\
     \ agir"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-08-25T09:50:01+00:00'
-  description: "<p>Os inc\xEAndios dantescos de 2020 devastaram um quarto da vegeta\xE7\
-    \xE3o do Pantanal e dizimaram 17 milh\xF5es de animais silvestres. Os inc\xEA\
-    ndios deste ano, que j\xE1 fizeram arder mais de 10% do territ\xF3rio da regi\xE3\
-    o, poder\xE3o ser ainda mais graves. A temporada de chuvas s\xF3 se inicia em\
-    \ novembro. At\xE9 pouco tempo atr\xE1s, epis\xF3dios como esses [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/o-pantanal-esta-morrendo-o-que-e-possivel-fazer/\"\
-    \ rel=\"nofollow\">O Pantanal est\xE1 morrendo.\_O que \xE9 poss\xEDvel fazer?</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-pantanal-esta-morrendo-o-que-e-possivel-fazer/
-  title: "O Pantanal est\xE1 morrendo.\_O que \xE9 poss\xEDvel fazer?"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2024-08-23T21:56:25+00:00'
   description: It has been over a year-and-half since the end of "Covid Zero" restrictions,
     but domestic demand is still so weak that production is only holding up thanks
@@ -210,7 +219,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/23082024
   title: "BC - Focus - Relat\xF3rio de Mercado - 23/08/2024"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-08-22T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakersAssine\
@@ -254,7 +263,7 @@
   path: https://open.spotify.com/episode/2AopbSbEJc0GyovxNuLThz
   title: 'Money Talks: Taylor''s version (part one)'
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-08-21T17:01:43+00:00'
   description: "Pixel 9 and Pixel 9 Pro are full of AI and wrapped in premium build.\
     \ What a gift.\n\nExplore the full Anker Prime lineup and get the most advanced\
@@ -314,14 +323,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a4f05f16b642a289cebeeb2f0
   path: https://open.spotify.com/episode/2ahGGcOfPKMymwNTsAQoEp
   title: 'Talk Your Book: Return Stacking [REPLAY]'
-- author: The Overshoot
-  categories: *id006
-  date: '2024-08-16T20:28:03+00:00'
-  description: The most recent data are likely overstating the extent of disinflation,
-    especially given what seems to be happening with goods supply and demand.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24d16354-eb94-47a0-8ecd-f4b7a6949aa6_5000x4438.png
-  path: https://theovershoot.co/p/the-case-for-cutting-rates-or-not
-  title: The Case for Cutting Rates (or Not) is the Same As It Was Last Year
 - author: ArjanCodes
   categories: *id007
   date: '2024-08-16T16:25:38+00:00'
