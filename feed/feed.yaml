@@ -1,3 +1,37 @@
+- author: Marques Brownlee
+  categories: &id006
+  - Tech
+  - Youtube
+  date: '2024-08-30T12:49:57+00:00'
+  description: 'This is the paradox of the Boox Palma
+
+
+    The Studio Video: https://youtu.be/HMyurkqaddc?si=7DXkeq8P9tSsiS7h&amp;t=5
+
+    The Boox Palma: https://geni.us/TyYRwm
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Logic https://logic.lnk.to/DejaVu
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/xwTub7_we0w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xwTub7_we0w
+  title: This Phone is Bad... Which Makes it Better?
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -136,7 +170,7 @@
   path: https://open.spotify.com/episode/0KLZltmVhPxI14vm85nhag
   title: Cumulative vs. Cyclical Knowledge
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-08-28T23:02:32+00:00'
@@ -188,9 +222,7 @@
   title: "#125 | BOLSA NA M\xC1XIMA HIST\xD3RICA e ALTA DA SELIC \xC0 VISTA: o que\
     \ est\xE1 acontecendo?"
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id006
   date: '2024-08-26T22:32:36+00:00'
   description: 'Dyson already made the ridiculous air filter headphones. Now they''re
     back.
@@ -222,7 +254,7 @@
   path: https://www.youtube.com/watch?v=iGYpj2gFu9Q
   title: "Dyson is Back\u2026 Why Do These Exist?"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2024-08-23T21:56:25+00:00'
   description: It has been over a year-and-half since the end of "Covid Zero" restrictions,
     but domestic demand is still so weak that production is only holding up thanks
@@ -286,21 +318,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/23082024
   title: "BC - Focus - Relat\xF3rio de Mercado - 23/08/2024"
-- author: Marques Brownlee
-  categories: *id007
-  date: '2024-08-21T17:01:43+00:00'
-  description: "Pixel 9 and Pixel 9 Pro are full of AI and wrapped in premium build.\
-    \ What a gift.\n\nExplore the full Anker Prime lineup and get the most advanced\
-    \ multi-device fast-charging experience:\nAmazon:\_https://ankerfast.club/7anzze\n\
-    Anker:\_https://shop.anker.com/ocm4ti\n\nMKBHD Merch: http://shop.MKBHD.com\n\n\
-    Tech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track: http://youtube.com/20syl\n\
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Google\
-    \ for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\
-    \n0:00 Intro\n1:29 Hardware\n5:49 Cameras\n8:14 The Pixel Experience\n11:00 Gemini\n\
-    15:56 AI: Overrated or Underrated?\n21:34 Conclusion"
-  image: https://i2.ytimg.com/vi/EGkGRs6YhoM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=EGkGRs6YhoM
-  title: 'Google Pixel 9/Pro Review: Gimmick or Good?'
 - author: Outliers
   categories: &id009
   - Podcasts
