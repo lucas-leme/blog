@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-08-30T10:00:00+00:00'
+  description: "Companhias distribuem R$ 80 bilh\xF5es no primeiro semestre, 22,6%\
+    \ a mais do que o pago no mesmo per\xEDodo de 2023"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/investimentos/gosta-de-dividendos-balancos-indicam-boa-safra-de-proventos-em-2024/
+  title: "Gosta de dividendos? Balan\xE7os indicam boa safra de proventos em 2024"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-08-29T17:06:41+00:00'
   description: "C\xE1lculo divulgado nesta quinta-feira foi feito pela Vibra em conjunto\
@@ -9,8 +18,7 @@
   title: "Combust\xEDvel no mercado irregular j\xE1 desvia 13 bi de litros, estima\
     \ Vibra Energia"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-08-29T15:17:25+00:00'
   description: "An\xE1lise do STF sobre o tema pode nortear regulamenta\xE7\xE3o da\
     \ Reforma Tribut\xE1ria; especialistas s\xE3o contra imposto"
@@ -19,7 +27,7 @@
   title: "VGBL e PGBL v\xE3o pagar imposto? Por que planos de previd\xEAncia est\xE3\
     o na mira do ITCMD"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-08-29T14:34:05+00:00'
   description: "Segunda maior economia do mundo teve um in\xEDcio irregular no segundo\
     \ semestre, com desempenho mais fraco de setores-chave"
@@ -50,15 +58,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1f1z1id/level_2_exam_day_megathread/
   title: Level 2 Exam Day Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-08-26T17:59:17+00:00'
-  description: Brasileiros gastaram mais com as moedas digitais do que com turismo
-    no exterior nos sete primeiros meses do ano
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/remessa-de-recursos-para-comprar-cripto-atinge-recorde-de-r-9997-bi-no-ano/
-  title: "Remessa de recursos para comprar cripto atinge recorde de R$ 10 bilh\xF5\
-    es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-08-19T20:01:26+00:00'
