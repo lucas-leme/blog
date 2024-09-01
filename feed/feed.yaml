@@ -1,3 +1,21 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-08-31T21:50:47+00:00'
+  description: 'If you''re reading this... brb
+
+
+    World Championships coverage: https://buff.ly/4dAocCE
+
+
+    To watch games: https://ultiworld.com/event/165874/2024-world-ultimate-championships/
+
+
+    http://twitter.com/MKBHD'
+  image: https://i3.ytimg.com/vi/FVwV5BxJ8M4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=FVwV5BxJ8M4
+  title: I'm Taking a Break
 - author: ArjanCodes
   categories: &id008
   - Tech
@@ -38,9 +56,7 @@
   path: https://www.youtube.com/watch?v=YA0Wq1rcs6U
   title: My FAVORITE Error Handling Technique
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-08-30T12:49:57+00:00'
   description: 'This is the paradox of the Boox Palma
 
@@ -72,7 +88,7 @@
   path: https://www.youtube.com/watch?v=xwTub7_we0w
   title: This Phone is Bad... Which Makes it Better?
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-08-30T11:57:04+00:00'
   description: 'Team Efficient Markets vs. Team Behavioral Finance: It''s the academic
@@ -82,7 +98,7 @@
   title: 'Market Efficiency vs. Behavioral Finance: Which Strategy Delivers Better
     Returns?'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-08-30T00:00:00+00:00'
   description: "Kamala Harris is trying to step out of President Biden\u2019s shadow\
@@ -97,7 +113,7 @@
   path: https://open.spotify.com/episode/2XyIJzm2SEEJQFmICsJ7r2
   title: For Kamala Harris, a Big Interview and a Narrow Lead
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-08-29T23:24:46+00:00'
   description: "<p>A queda de bra\xE7o entre Alexandre de Moraes e Elon Musk se aprofundou\
@@ -114,7 +130,7 @@
   title: "Alexandre vai atr\xE1s da Starlink para punir Musk. As consequ\xEAncias\
     \ s\xE3o preocupantes"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-08-29T22:07:14+00:00'
   description: "<p>O mercado imobili\xE1rio da China continua derretendo, derrubando\
     \ as estimativas de crescimento para o pa\xEDs.\_ Depois de anos e anos de investimentos\
@@ -130,7 +146,7 @@
   title: "O inferno astral da China: mercado imobili\xE1rio derrete, e pa\xEDs luta\
     \ para crescer 5%"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-08-29T13:13:03+00:00'
   description: Banks and other traditional capital providers are no longer the primary
     source of capital for the economy. This shift has increased the diversity of capital
@@ -140,7 +156,7 @@
   title: How Private Capital Markets Are Disrupting Traditional Finance and Economic
     Indicators
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-08-29T00:00:00+00:00'
   description: Common methods of using machine learning to predict stock returns can
@@ -149,7 +165,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/choices-matter-when-training-machine-learning-models-for-return-prediction
   title: Choices Matter When Training Machine Learning Models for Return Prediction
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-08-29T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -178,7 +194,7 @@
   path: https://open.spotify.com/episode/684nXqZDbzunc8Yc3xY8UU
   title: "#126 | O que ESPERAR e como LUCRAR com as ELEI\xC7\xD5ES PELO MUNDO"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-08-29T00:00:00+00:00'
   description: "The world\u2019s most lucrative sports league is allowing private\
     \ equity to buy into teams. WSJ\u2019s Andrew Beaton and Miriam Gottfried unpack\
@@ -233,7 +249,7 @@
   path: https://theovershoot.co/p/deeper-inside-the-chinese-consumer
   title: Deeper Inside the Chinese Consumer Spending Data
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2024-08-28T00:00:00+00:00'
   description: For decades, lifecycle finance models and mean-variance optimization
     models remained separate, but recent breakthroughs have produced combined models.
@@ -241,7 +257,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
   title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-08-28T00:00:00+00:00'
   description: "Voc\xEA j\xE1 se questionou quais s\xE3o os verdadeiros atributos\
     \ que garantem o sucesso de um investimento em a\xE7\xF5es?No v\xEDdeo de hoje,\
@@ -268,38 +284,6 @@
   path: https://open.spotify.com/episode/1BDDRKq0XsHumRQwe9lcGT
   title: "INVISTA NAS EMPRESAS QUE POSSUEM ESSAS CARACTER\xCDSTICAS... | Corte EP\
     \ #124"
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-08-26T22:32:36+00:00'
-  description: 'Dyson already made the ridiculous air filter headphones. Now they''re
-    back.
-
-
-    The original Dyson nightmare: https://youtu.be/tFdnCzfJPJ0?si=Cor44XLKoek01HWy
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Headphones provided by Dyson for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/iGYpj2gFu9Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=iGYpj2gFu9Q
-  title: "Dyson is Back\u2026 Why Do These Exist?"
 - author: The Overshoot
   categories: *id007
   date: '2024-08-23T21:56:25+00:00'
