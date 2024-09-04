@@ -3,26 +3,35 @@
   - Macro
   - FED
   - BC
-  date: '2024-09-04T11:00:00+00:00'
-  description: "Economic surveys are very popular these days and for a good reason.\
-    \ They tell us how the folks being surveyed\u2014professional forecasters, households,\
-    \ firm managers\u2014feel about the economy. So, for instance, the New York Fed\u2019\
-    s <a href=\"https://www.newyorkfed.org/microeconomics/sce#/\">Survey of Consumer\
-    \ Expectations</a> (SCE) website displays an <a href=\"https://www.newyorkfed.org/microeconomics/sce#/influncert-1\"\
-    >inflation uncertainty measure</a> that tells us households are more uncertain\
-    \ about inflation than they were pre-COVID, but a bit less than they were a few\
-    \ months ago. The Philadelphia Fed\u2019s <a href=\"https://www.philadelphiafed.org/surveys-and-data/real-time-data-research/survey-of-professional-forecasters\"\
-    >Survey of Professional Forecasters</a> (SPF) tells us that forecasters believed\
-    \ last May that there was a lower risk of negative 2024 real GDP growth than there\
-    \ was last February. The question addressed in this post is: Does this information\
-    \ actually have any predictive content? Specifically, I will focus on the SPF\
-    \ and ask: When professional forecasters indicate that their uncertainty about\
-    \ future output or inflation is higher, does that mean that output or inflation\
-    \ is actually becoming more uncertain, in the sense that the SPF will have a harder\
-    \ time predicting these variables?"
+  date: '2024-09-04T12:30:00+00:00'
+  description: "The rapid rise in Artificial Intelligence (AI) has the potential to\
+    \ dramatically change the labor market, and indeed possibly even the nature of\
+    \ work itself. However, how firms are adjusting their workforces to accommodate\
+    \ this emerging technology is not yet clear. Our August regional business surveys\
+    \ asked <a href=\"http://nyfed.org/esms\" rel=\"noreferrer noopener\" target=\"\
+    _blank\">manufacturing</a> and <a href=\"http://nyfed.org/bls\" rel=\"noreferrer\
+    \ noopener\" target=\"_blank\">service firms</a> special topical questions about\
+    \ their use of AI, and how it is changing their workforces. Most firms that report\
+    \ expected AI use in the next six months\u202Fplan to retrain their workforces,\
+    \ with far fewer reporting adjustments to planned headcounts.<br />"
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2024/09/can-professional-forecasters-predict-uncertain-times/
-  title: Can Professional Forecasters Predict Uncertain Times?
+  path: https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-will-firms-hire-fire-or-retrain/
+  title: 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?'
+- author: Outliers
+  categories: &id009
+  - Podcasts
+  date: '2024-09-04T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8af071425aa2807e0f6cf75cb2
+  path: https://open.spotify.com/episode/1HIBmo5Kpfn36FPqVC6r35
+  title: "#135 - Estrat\xE9gias de renda no cr\xE9dito estruturado com a Vinci Partners"
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -393,8 +402,7 @@
   path: https://www.youtube.com/watch?v=pZunzLJ1qcQ
   title: Why Your FastAPI App Needs a Rate Limiter
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id009
   date: '2024-08-21T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -417,20 +425,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad12b44-7e78-4629-97b4-c9b7adf6fd26_2886x1843.png
   path: https://www.apricitas.io/p/america-and-chinas-chip-race
   title: America & China's Chip Race
-- author: Outliers
-  categories: *id009
-  date: '2024-08-07T00:00:00+00:00'
-  description: "-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8aa97eb56fec8e6f756c356dcb
-  path: https://open.spotify.com/episode/4g1iOgGmORJoIoPeAu7Bn9
-  title: '#133 - Investimento em criptomoedas com Hashdex'
 - author: Atas do Copom
   categories:
   - Bacen
