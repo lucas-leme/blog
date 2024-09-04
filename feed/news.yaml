@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-09-04T14:33:48+00:00'
+  description: "La Rioja perdeu transfer\xEAncias de recursos do governo federal e\
+    \ passou a imprimir dinheiro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/provincia-argentina-deixa-peso-de-lado-cria-moeda-propria-e-paga-funcionarios-publicos/
+  title: "Prov\xEDncia argentina deixa peso de lado, cria moeda pr\xF3pria e paga\
+    \ funcion\xE1rios p\xFAblicos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Fortuna das fam\xEDlias ultrarricas vai crescer para US$ 9,5 trilh\xF5es\
     \ at\xE9 2030"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-09-04T12:30:12+00:00'
   description: "Usinas poder\xE3o ser acionadas agora quando a carga de energia est\xE1\
     \ no pico"
@@ -18,14 +27,6 @@
   path: https://investnews.com.br/economia/brasil-acionara-mais-termeletricas-a-gas-e-flexibiliza-criterios-para-enfrentar-seca/
   title: "Brasil acionar\xE1 mais termel\xE9tricas a g\xE1s e flexibiliza crit\xE9\
     rios para enfrentar seca"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-09-04T11:15:33+00:00'
-  description: "Obra j\xE1 consumiu R$ 12 bilh\xF5es. Usina deve come\xE7ar a operar\
-    \ em 2031"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/concluir-a-usina-nuclear-angra-3-vai-custar-mais-r-23-bilhoes/
-  title: "Concluir a usina nuclear Angra 3 vai custar mais R$ 23 bilh\xF5es"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-08-30T22:19:47+00:00'
