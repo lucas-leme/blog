@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-09-05T11:27:29+00:00'
+  description: AI is more than just another technology. It is a transformative force
+    with the potential to redefine investment management. The industry's most significant
+    barrier to harnessing this power is the widening AI skills gap.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/09/05/dangers-and-opportunities-of-the-ai-skills-gap-in-investment-management/
+  title: Dangers and Opportunities Posed by the AI Skills Gap in Investment Management
 - author: Apricitas Economics
   categories: &id010
   - Macro
@@ -9,7 +19,7 @@
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-09-04T15:22:41+00:00'
   description: "<p>O Projeto de Lei Or\xE7ament\xE1ria de 2025 foi entregue pelo Executivo\
@@ -43,7 +53,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-will-firms-hire-fire-or-retrain/
   title: 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-04T00:00:00+00:00'
   description: "Tweens, or kids aged 8 to 12, have learned to shop online. Brands\
@@ -73,8 +83,7 @@
   path: https://open.spotify.com/episode/1HIBmo5Kpfn36FPqVC6r35
   title: "#135 - Estrat\xE9gias de renda no cr\xE9dito estruturado com a Vinci Partners"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-09-03T17:06:20+00:00'
   description: Big data-driven AI in financial services is a technology that augments
     human capabilities. We are living in countries governed by the rule of law, and
@@ -85,7 +94,7 @@
   title: 'Navigating the Risks of AI in Finance: Data Governance and Management Are
     Critical'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-09-03T16:12:21+00:00'
   description: "<p>O PIB do segundo trimestre veio em linha com as estimativas mais\
     \ otimistas \u2013 batendo com folga o consenso do mercado e colocando em vi\xE9\
@@ -123,7 +132,7 @@
   path: https://open.spotify.com/episode/6cOsUAS99VaSJZyxSk0rOX
   title: "#127 | O BRASIL SE TORNAR\xC1 um mercado N\xC3O INVEST\xCDVEL?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-09-03T00:00:00+00:00'
   description: "Pavel Durov, the CEO of the messaging app Telegram, was arrested in\
     \ France last month. He was charged with a host of crimes, including complicity\
@@ -163,7 +172,7 @@
   title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
     Things (S7E11)
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-08-31T21:50:47+00:00'
@@ -220,7 +229,7 @@
   path: https://www.youtube.com/watch?v=YA0Wq1rcs6U
   title: My FAVORITE Error Handling Technique
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-08-30T12:49:57+00:00'
   description: 'This is the paradox of the Boox Palma
 
@@ -251,15 +260,6 @@
   image: https://i1.ytimg.com/vi/xwTub7_we0w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xwTub7_we0w
   title: This Phone is Bad... Which Makes it Better?
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-08-30T11:57:04+00:00'
-  description: 'Team Efficient Markets vs. Team Behavioral Finance: It''s the academic
-    equivalent of Lakers vs. Celtics.'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/08/30/market-efficiency-vs-behavioral-finance-which-strategy-delivers-better-returns/
-  title: 'Market Efficiency vs. Behavioral Finance: Which Strategy Delivers Better
-    Returns?'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
