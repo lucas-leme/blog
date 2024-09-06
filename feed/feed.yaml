@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-09-06T00:00:00+00:00'
+  description: "Who will win the race to the White House? A new series from The Journal\
+    \ podcast explores the issues that are shaping this election. This week, Ryan\
+    \ Knutson and WSJ\u2019s Molly Ball delve into reproductive rights, examining\
+    \ how the issue is playing out for both Democrats and Republicans. Plus..what\
+    \ makes a state a swing state?  Further Listening:  - For Kamala Harris, a Big\
+    \ Interview and a Narrow Lead\_ - Hope, Unity (and Some Nerves at the DNC)\_ -\
+    \ Is the Trump Campaign Going Off Track?\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a53213d44a55fd98be90a8edb
+  path: https://open.spotify.com/episode/3QNaVyLfV43SR1bVuJejSz
+  title: Red, White and Who? How Abortion Plays For Trump and Harris
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -45,8 +60,7 @@
   path: https://open.spotify.com/episode/2T7xbdcqSom6sSCmfimvtq
   title: "#128 | GRANDES QUEST\xD5ES sobre a ECONOMIA e o FISCAL brasileiro"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-09-05T00:00:00+00:00'
   description: "This month, for the first time in over two years, the U.S. Federal\
     \ Reserve is widely expected to cut interest rates. Mary Daly, the president of\
@@ -123,20 +137,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-will-firms-hire-fire-or-retrain/
   title: 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?'
-- author: The Journal.
-  categories: *id002
-  date: '2024-09-04T00:00:00+00:00'
-  description: "Tweens, or kids aged 8 to 12, have learned to shop online. Brands\
-    \ are taking note. WSJ\u2019s Chavie Lieber spoke to TikTok-er Demetra Dias and\
-    \ explains the impact of influencers like her on young shoppers and the brands\
-    \ that court them.  Further Reading:  - Teen Girls Are Spending Big. She Tells\
-    \ Them What to Buy.\_ - Why Tweens Are Obsessed With This $110 Sweatsuit\_  Further\
-    \ Listening:  - How the Stanley Cup Became the Internet's Favorite Water Bottle\_\
-    \ - Teens Are Falling Victim to AI Fake Nudes\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/36cfKxdrADzci516kvLzos
-  title: The Rise of the Tween Shopper
 - author: Outliers
   categories: &id009
   - Podcasts
@@ -399,7 +399,7 @@
     \ my channel so I can continue to provide you with free content each week!"
   image: https://i1.ytimg.com/vi/pZunzLJ1qcQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=pZunzLJ1qcQ
-  title: Why Your FastAPI App Needs a Rate Limiter
+  title: Quick and Easy Rate Limiting for FastAPI
 - author: Outliers
   categories: *id009
   date: '2024-08-21T00:00:00+00:00'
