@@ -1,3 +1,43 @@
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-09-06T15:01:06+00:00'
+  description: "In this video, I\u2019ll uncover common bad OOP Python practices and\
+    \ show you how to keep your code clean and maintainable. Learn why you should\
+    \ replace unnecessary classes with functions, use modules instead of classes with\
+    \ only static methods, and flatten deep inheritance hierarchies. \n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2024/badoo\n\n\U0001F4A1 Get my FREE\
+    \ 7-step guide to help you consistently design great software: https://arjancodes.com/designguide.\n\
+    \n\U0001F4E8 The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB\
+    \ Take a quiz on this topic: https://www.learntail.com/quiz/pzzjpu\n\n\U0001F393\
+    \ Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\n\
+    The Software Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext\
+    \ Level Python: Become a Python Expert: https://www.arjancodes.com/courses/nlp\n\
+    The 30-Day Design Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D\
+    \ If you enjoyed this content, give this video a like. If you want to watch more\
+    \ of my upcoming videos, consider subscribing to my channel!\n\nSocial channels:\n\
+    \U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
+    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
+    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
+    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
+    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:11 #1 A Function Masquerading as a Class\n1:53  #2\
+    \ A Module Masquerading as a Class\n4:37 #3 Complex Inheritance structures\n7:51\
+    \ #4 Not Relying on Abstractions\n11:27 #5 Ignoring Encapsulation\n15:34 #6 Excessive\
+    \ Use of Getters and Setters\n17:40 #7 Heavily Relying on Mixins\n22:50 Final\
+    \ thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER - The links in\
+    \ this description might be affiliate links. If you purchase a product or service\
+    \ through one of those links, I may receive a small commission. There is no additional\
+    \ charge to you. Thanks for supporting my channel so I can continue to provide\
+    \ you with free content each week!"
+  image: https://i2.ytimg.com/vi/yFLY0SVutgM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=yFLY0SVutgM
+  title: Avoid These BAD Practices in Python OOP
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -227,7 +267,7 @@
   title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
     Things (S7E11)
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-08-31T21:50:47+00:00'
@@ -245,10 +285,7 @@
   path: https://www.youtube.com/watch?v=FVwV5BxJ8M4
   title: I'm Taking a Break
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2024-08-30T15:00:30+00:00'
   description: "In this video, I\u2019ll show you my probably surprising \u201CLet\
     \ it burn\u201D approach to error handling. Learn why letting your code fail fast\
@@ -284,7 +321,7 @@
   path: https://www.youtube.com/watch?v=YA0Wq1rcs6U
   title: My FAVORITE Error Handling Technique
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-08-30T12:49:57+00:00'
   description: 'This is the paradox of the Boox Palma
 
@@ -330,7 +367,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/30082024
   title: "BC - Focus - Relat\xF3rio de Mercado - 30/08/2024"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-08-29T00:00:00+00:00'
   description: Common methods of using machine learning to predict stock returns can
@@ -349,7 +386,7 @@
   path: https://open.spotify.com/episode/0KLZltmVhPxI14vm85nhag
   title: Cumulative vs. Cyclical Knowledge
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-08-28T23:02:32+00:00'
@@ -359,7 +396,7 @@
   path: https://theovershoot.co/p/deeper-inside-the-chinese-consumer
   title: Deeper Inside the Chinese Consumer Spending Data
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2024-08-28T00:00:00+00:00'
   description: For decades, lifecycle finance models and mean-variance optimization
     models remained separate, but recent breakthroughs have produced combined models.
@@ -367,7 +404,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
   title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2024-08-23T21:56:25+00:00'
   description: It has been over a year-and-half since the end of "Covid Zero" restrictions,
     but domestic demand is still so weak that production is only holding up thanks
@@ -375,45 +412,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F572bd015-cb97-480f-82d4-35fa7a02e6ff_4996x4430.png
   path: https://theovershoot.co/p/chinese-weakness-is-the-real-china
   title: Chinese Weakness is the Real "China Shock"
-- author: ArjanCodes
-  categories: *id008
-  date: '2024-08-23T15:00:59+00:00'
-  description: "If you don\u2019t want your API to crash due to too many requests,\
-    \ use rate limiting! In this video, I cover how rate limiting works, what types\
-    \ of rate limiting you can do, how to implement it in FastAPI, and what you need\
-    \ to be mindful of.\n\nGet started with Zuplo: https://zuplo.link/arjancodes\n\
-    \n\u2705 Get the FREE Software Architecture Checklist, a guide for building robust,\
-    \ scalable software systems: https://arjan.codes/checklist.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2024/rate_limiting\n\nRate limiting strategies:\
-    \ https://limits.readthedocs.io/en/stable/strategies.html\n\n\U0001F477 Join the\
-    \ FREE Code Diagnosis Workshop to help you review code more effectively using\
-    \ my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\n\U0001F4E8\
-    \ The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\n\U0001F4BB\
-    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
-    \ quiz on this topic: https://www.learntail.com/quiz/shznfe\n\n\U0001F393 Courses:\n\
-    The Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\nThe Software\
-    \ Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext Level Python:\
-    \ Become a Python Expert: https://www.arjancodes.com/courses/nlp\nThe 30-Day Design\
-    \ Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
-    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:12 What does a rate limiter do?\n3:43 Why do you need\
-    \ a rate limiter?\n8:19 Different types of rate limiting\n12:05 Practical Rate\
-    \ Limiting for FastAPI\n14:15 Caveats\n17:45 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i1.ytimg.com/vi/pZunzLJ1qcQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=pZunzLJ1qcQ
-  title: Quick and Easy Rate Limiting for FastAPI
 - author: Outliers
   categories: *id009
   date: '2024-08-21T00:00:00+00:00'
