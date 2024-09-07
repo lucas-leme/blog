@@ -39,8 +39,21 @@
   path: https://www.youtube.com/watch?v=yFLY0SVutgM
   title: Avoid These BAD Practices in Python OOP
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-09-06T00:00:00+00:00'
+  description: "Kyle, Texas is one of the fastest-growing cities in the United States.\
+    \ It is also facing heat and drought that has been exacerbated by climate change\
+    \ and is expected to get worse. Matt Wirz reports on the tensions in Kyle as the\
+    \ city continues to build, even as it runs low on water.\_  Further Listening:\
+    \  - A Plan to Hack the Planet  Further Reading:  - This Texas City Is Too Hot,\
+    \ Short on Water\u2014and Booming\_ - Welcome to Y\u2019all Street, Texas\u2019\
+    \ Burgeoning Financial Hub\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3yg345mwA1vJznijspEflF
+  title: 'Hot, Dry and Booming: A Texas Climate Case Study'
+- author: The Journal.
+  categories: *id001
   date: '2024-09-06T00:00:00+00:00'
   description: "Who will win the race to the White House? A new series from The Journal\
     \ podcast explores the issues that are shaping this election. This week, Ryan\
@@ -54,7 +67,7 @@
   path: https://open.spotify.com/episode/3QNaVyLfV43SR1bVuJejSz
   title: Red, White and Who? How Abortion Plays For Trump and Harris
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-09-05T18:07:21+00:00'
   description: Using machine learning algorithms in portfolio optimization is a growing
@@ -63,7 +76,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/05/how-machine-learning-is-transforming-portfolio-optimization/
   title: How Machine Learning Is Transforming Portfolio Optimization
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-09-05T11:27:29+00:00'
   description: AI is more than just another technology. It is a transformative force
     with the potential to redefine investment management. The industry's most significant
@@ -99,20 +112,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad30435118d6c7f77eed868a4
   path: https://open.spotify.com/episode/2T7xbdcqSom6sSCmfimvtq
   title: "#128 | GRANDES QUEST\xD5ES sobre a ECONOMIA e o FISCAL brasileiro"
-- author: The Journal.
-  categories: *id002
-  date: '2024-09-05T00:00:00+00:00'
-  description: "This month, for the first time in over two years, the U.S. Federal\
-    \ Reserve is widely expected to cut interest rates. Mary Daly, the president of\
-    \ the Federal Reserve Bank of San Francisco, is one of 12 people who will decide\
-    \ how aggressive that cut should be. She talks to Kate about inflation, unemployment,\
-    \ the economy and Taylor Swift.\_  Further Listening:  - What the Stock Market\
-    \ Panic Says About the Economy\_ - Why the Fed Is Steering Away From Rate Cuts\_\
-    \  Further Reading:  - The Make-or-Break Moment That Will Determine the Economy\u2019\
-    s Fate\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2eN2iOzo3TF90vZm3ZAhpS
-  title: A Fed Insider on the Looming Rate Cut
 - author: Money Talks from The Economist
   categories:
   - Podcasts
