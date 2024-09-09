@@ -1,5 +1,18 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-09-09T11:24:18+00:00'
+  description: "In this live stream, I'll dive into the code and design of an open-source\
+    \ project together with you. This is going to be completely unscripted, so you'll\
+    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
+    \ a surprise which project I'm going to be reviewing (also for me! :) )."
+  image: https://i2.ytimg.com/vi/5uqZ6jAPTnY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=5uqZ6jAPTnY
+  title: 'Under The Hood: Reviewing an Open-Source Project - Episode 3'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-09-09T11:12:33+00:00'
   description: "<p>O com\xE9rcio j\xE1 havia sentido o golpe, com a queda no consumo\
@@ -15,10 +28,7 @@
   path: https://braziljournal.com/ate-os-bancos-estao-assustados-com-a-epidemia-das-bets/
   title: "At\xE9 os bancos est\xE3o assustados com a epidemia das bets"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-09-06T15:01:06+00:00'
   description: "In this video, I\u2019ll uncover common bad OOP Python practices and\
     \ show you how to keep your code clean and maintainable. Learn why you should\
@@ -54,8 +64,22 @@
   image: https://i2.ytimg.com/vi/yFLY0SVutgM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=yFLY0SVutgM
   title: Avoid These BAD Practices in Python OOP
+- author: RSS - Feeds do BC
+  categories:
+  - Bacen
+  - BC
+  date: '2024-09-06T00:00:00-03:00'
+  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
+    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
+    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
+    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
+    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
+    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
+  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
+  path: https://www.bcb.gov.br/publicacoes/focus/06092024
+  title: "BC - Focus - Relat\xF3rio de Mercado - 06/09/2024"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-09-06T00:00:00+00:00'
   description: "Kyle, Texas is one of the fastest-growing cities in the United States.\
@@ -69,7 +93,7 @@
   path: https://open.spotify.com/episode/3yg345mwA1vJznijspEflF
   title: 'Hot, Dry and Booming: A Texas Climate Case Study'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-09-06T00:00:00+00:00'
   description: "Who will win the race to the White House? A new series from The Journal\
     \ podcast explores the issues that are shaping this election. This week, Ryan\
@@ -83,7 +107,7 @@
   path: https://open.spotify.com/episode/3QNaVyLfV43SR1bVuJejSz
   title: Red, White and Who? How Abortion Plays For Trump and Harris
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-09-05T18:07:21+00:00'
   description: Using machine learning algorithms in portfolio optimization is a growing
@@ -92,7 +116,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/05/how-machine-learning-is-transforming-portfolio-optimization/
   title: How Machine Learning Is Transforming Portfolio Optimization
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-09-05T11:27:29+00:00'
   description: AI is more than just another technology. It is a transformative force
     with the potential to redefine investment management. The industry's most significant
@@ -101,7 +125,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/05/dangers-and-opportunities-of-the-ai-skills-gap-in-investment-management/
   title: Dangers and Opportunities Posed by the AI Skills Gap in Investment Management
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-09-05T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
@@ -173,7 +197,7 @@
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-09-04T15:22:41+00:00'
   description: "<p>O Projeto de Lei Or\xE7ament\xE1ria de 2025 foi entregue pelo Executivo\
     \ ao Congresso cumprindo a meta estabelecida em lei de \u201Cd\xE9ficit prim\xE1\
@@ -221,7 +245,7 @@
   path: https://open.spotify.com/episode/1HIBmo5Kpfn36FPqVC6r35
   title: "#135 - Estrat\xE9gias de renda no cr\xE9dito estruturado com a Vinci Partners"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-09-03T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO127-X\
@@ -283,42 +307,6 @@
   image: https://i3.ytimg.com/vi/FVwV5BxJ8M4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=FVwV5BxJ8M4
   title: I'm Taking a Break
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-08-30T15:00:30+00:00'
-  description: "In this video, I\u2019ll show you my probably surprising \u201CLet\
-    \ it burn\u201D approach to error handling. Learn why letting your code fail fast\
-    \ can lead to simpler, clearer, and more robust software.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2024/burn\n\n\U0001F477 Join the FREE Code\
-    \ Diagnosis Workshop to help you review code more effectively using my 3-Factor\
-    \ Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\n\U0001F4E8 The\
-    \ Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\n\U0001F4BB\
-    \ ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\u270D\U0001F3FB Take a\
-    \ quiz on this topic: https://www.learntail.com/quiz/pttoju\n\n\U0001F393 Courses:\n\
-    The Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\nThe Software\
-    \ Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext Level Python:\
-    \ Become a Python Expert: https://www.arjancodes.com/courses/nlp\nThe 30-Day Design\
-    \ Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D If you enjoyed\
-    \ this content, give this video a like. If you want to watch more of my upcoming\
-    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
-    \ Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
-    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F440 Code reviewers:\n\
-    - Yoriz\n- Ryan Laursen\n- Dale Hagglund\n- Kit Hygh\n- Alexander Milden\n- Bean\n\
-    \n\U0001F3A5 Video edited by Mark Bacskai: https://www.instagram.com/bacskaimark\n\
-    \n\U0001F6D2 GEAR & RECOMMENDED BOOKS: https://kit.co/arjancodes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:09 What is the \"Let It Burn\" Approach?\n1:54 #1 Simplicity\
-    \ and Clarity\n4:13 #2 Early Detection\n6:09 #3 Serious Errors are not Hidden\
-    \ from You\n7:26 #4 Focus on real issues\n9:07 Caveats\n11:57 Quick Tips for Error\
-    \ Handling\n15:04 Final Thoughts\n\n#arjancodes #softwaredesign #python\n\nDISCLAIMER\
-    \ - The links in this description might be affiliate links. If you purchase a\
-    \ product or service through one of those links, I may receive a small commission.\
-    \ There is no additional charge to you. Thanks for supporting my channel so I\
-    \ can continue to provide you with free content each week!"
-  image: https://i2.ytimg.com/vi/YA0Wq1rcs6U/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=YA0Wq1rcs6U
-  title: My FAVORITE Error Handling Technique
 - author: Marques Brownlee
   categories: *id006
   date: '2024-08-30T12:49:57+00:00'
@@ -351,20 +339,6 @@
   image: https://i1.ytimg.com/vi/xwTub7_we0w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xwTub7_we0w
   title: This Phone is Bad... Which Makes it Better?
-- author: RSS - Feeds do BC
-  categories:
-  - Bacen
-  - BC
-  date: '2024-08-30T00:00:00-03:00'
-  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
-    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
-    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
-    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
-    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
-    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
-  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/30082024
-  title: "BC - Focus - Relat\xF3rio de Mercado - 30/08/2024"
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
