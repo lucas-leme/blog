@@ -1,5 +1,21 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-09-09T23:14:04+00:00'
+  description: "<p>Em julho de 2012, o italiano Mario Draghi, ent\xE3o presidente\
+    \ do Banco Central Europeu, fez um discurso hist\xF3rico no qual afirmou que faria\
+    \ \u2018o que fosse necess\xE1rio\u2019 \u2013 whatever it takes \u2013 para superar\
+    \ a crise do endividamento nos pa\xEDses do sul. Doze anos depois, \u2018Super\
+    \ Mario\u2019 ataca novamente. Draghi apresentou hoje o relat\xF3rio The [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/a-receita-para-a-europa-voltar-a-ser-competitiva-um-plano-marshall-turbinado/\"\
+    \ rel=\"nofollow\">A receita para a Europa voltar a ser competitiva: um Plano\
+    \ Marshall turbinado</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-receita-para-a-europa-voltar-a-ser-competitiva-um-plano-marshall-turbinado/
+  title: 'A receita para a Europa voltar a ser competitiva: um Plano Marshall turbinado'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-09-09T17:39:34+00:00'
   description: Don't ignore serial dependencies in your factor portfolio.
@@ -8,7 +24,7 @@
   title: 'Revisiting the Factor Zoo: How Time Horizon Impacts the Efficacy of Investment
     Factors'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -21,8 +37,7 @@
   path: https://www.youtube.com/watch?v=5uqZ6jAPTnY
   title: 'Under The Hood: Reviewing an Open-Source Project - Episode 3'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2024-09-09T11:12:33+00:00'
   description: "<p>O com\xE9rcio j\xE1 havia sentido o golpe, com a queda no consumo\
     \ por causa do gasto fren\xE9tico com as apostas online. Agora \xE9 a vez de as\
@@ -36,8 +51,23 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ate-os-bancos-estao-assustados-com-a-epidemia-das-bets/
   title: "At\xE9 os bancos est\xE3o assustados com a epidemia das bets"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-09-09T00:00:00+00:00'
+  description: "WSJ\u2019s Alexander Osipovich explores the world of political betting.\
+    \ We meet a trader making big money making predictions on the upcoming U.S. elections\
+    \ over a platform called Polymarket and examine the fight that  is brewing with\
+    \ regulators over the practice.\_\_  Further Reading:  - Meet the Traders Making\
+    \ Money Off the Trump Shooting and Biden\u2019s Stumbles\_ - Judge Holds Off on\
+    \ Allowing Election Bets\u2013For Now\_ - The Hot New Trade That Everyone Is Watching:\
+    \ Will Biden Drop Out?\_  Further Listening:  - How Gambling Scandals Are Rocking\
+    \ Sports Leagues\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3XiIttzPVi1UtFPwH3VImO
+  title: How Betting on U.S. Politics Is Getting Big
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-09-06T15:01:06+00:00'
   description: "In this video, I\u2019ll uncover common bad OOP Python practices and\
     \ show you how to keep your code clean and maintainable. Learn why you should\
@@ -88,8 +118,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/06092024
   title: "BC - Focus - Relat\xF3rio de Mercado - 06/09/2024"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id003
   date: '2024-09-06T00:00:00+00:00'
   description: "Kyle, Texas is one of the fastest-growing cities in the United States.\
     \ It is also facing heat and drought that has been exacerbated by climate change\
@@ -101,22 +130,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/3yg345mwA1vJznijspEflF
   title: 'Hot, Dry and Booming: A Texas Climate Case Study'
-- author: The Journal.
-  categories: *id002
-  date: '2024-09-06T00:00:00+00:00'
-  description: "Who will win the race to the White House? A new series from The Journal\
-    \ podcast explores the issues that are shaping this election. This week, Ryan\
-    \ Knutson and WSJ\u2019s Molly Ball delve into reproductive rights, examining\
-    \ how the issue is playing out for both Democrats and Republicans. Plus..what\
-    \ makes a state a swing state?  Further Listening:  - For Kamala Harris, a Big\
-    \ Interview and a Narrow Lead\_ - Hope, Unity (and Some Nerves at the DNC)\_ -\
-    \ Is the Trump Campaign Going Off Track?\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a53213d44a55fd98be90a8edb
-  path: https://open.spotify.com/episode/3QNaVyLfV43SR1bVuJejSz
-  title: Red, White and Who? How Abortion Plays For Trump and Harris
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-09-05T18:07:21+00:00'
   description: Using machine learning algorithms in portfolio optimization is a growing
     trend that investors should pay attention to.
@@ -195,20 +210,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b6cf9f0-e6ef-4df6-9c82-7c29fe8b352f_2886x1843.png
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2024-09-04T15:22:41+00:00'
-  description: "<p>O Projeto de Lei Or\xE7ament\xE1ria de 2025 foi entregue pelo Executivo\
-    \ ao Congresso cumprindo a meta estabelecida em lei de \u201Cd\xE9ficit prim\xE1\
-    rio zero.\u201D Duas perguntas devem ser feitas: qu\xE3o cr\xEDveis s\xE3o os\
-    \ n\xFAmeros apresentados, e qual seu impacto sobre o que realmente interessa:\
-    \ a trajet\xF3ria futura da d\xEDvida p\xFAblica? Valores exclu\xEDdos da conta\
-    \ H\xE1 despesas [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-os-pontos-cegos-do-orcamento-de-2025/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Os pontos cegos do Or\xE7amento de 2025</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-os-pontos-cegos-do-orcamento-de-2025/
-  title: "OPINI\xC3O. Os pontos cegos do Or\xE7amento de 2025"
 - author: Liberty Street Economics
   categories:
   - Macro
