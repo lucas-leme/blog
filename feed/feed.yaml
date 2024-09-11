@@ -1,5 +1,5 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-09-11T15:31:06+00:00'
   description: "<p>A explos\xE3o das apostas online no Brasil tem acendido um alerta\
@@ -14,7 +14,7 @@
   path: https://braziljournal.com/regulamentacao-nao-deve-barrar-explosao-das-bets-diz-xp/
   title: "Regulamenta\xE7\xE3o n\xE3o deve barrar explos\xE3o das bets, diz XP"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-09-11T12:43:39+00:00'
   description: 'In the underbelly of private markets lies the main culprit behind
@@ -64,6 +64,20 @@
   path: https://open.spotify.com/episode/4UKcU2tiLyN5Msn1FObuoM
   title: "A verdade sobre as ELEI\xC7\xD5ES MUNICIPAIS que NINGU\xC9M EST\xC1 FALANDO\
     \ | Corte EP #126"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-09-11T00:00:00+00:00'
+  description: "Testosterone therapy is booming, touting a boost at the gym and in\
+    \ the bedroom, but the potential side effects (like infertility) are less well\
+    \ known. WSJ\u2019s Rolfe Winkler on the clinics making millions on this growing\
+    \ industry.  Further Reading: - Testosterone Clinics Sell Virility. Some Men End\
+    \ Up With Infertility.\_  Further Listening: - Trillion Dollar Shot, Episode 1:\
+    \ Birth of a Blockbuster\_ - The Rise of Botox and the Wrinkle in Its Future\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2vTwPXuAqe6u6e3BcZRgQI
+  title: Testosterone Clinics Sell Virility. Side Effects Sometimes Included.
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -122,8 +136,7 @@
   path: https://open.spotify.com/episode/78ALqqTRjvHqlSDDbE460E
   title: "#129 | As MELHORES A\xC7\xD5ES para investir agora e como ENCONTR\xC1-LAS?"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-09-10T00:00:00+00:00'
   description: "North Korean cybercriminals have developed a new way to access networks\
     \ in corporate America: getting IT jobs. According to U.S. officials, hundreds\
@@ -156,7 +169,7 @@
   title: "#136 - De olho na demanda e spreads: a sofistica\xE7\xE3o da gest\xE3o de\
     \ cr\xE9dito da XP Asset"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-09-09T23:14:04+00:00'
   description: "<p>Em julho de 2012, o italiano Mario Draghi, ent\xE3o presidente\
     \ do Banco Central Europeu, fez um discurso hist\xF3rico no qual afirmou que faria\
@@ -171,27 +184,13 @@
   path: https://braziljournal.com/a-receita-para-a-europa-voltar-a-ser-competitiva-um-plano-marshall-turbinado/
   title: 'A receita para a Europa voltar a ser competitiva: um Plano Marshall turbinado'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-09-09T17:39:34+00:00'
   description: Don't ignore serial dependencies in your factor portfolio.
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/09/09/revisiting-the-factor-zoo-how-time-horizon-impacts-the-efficacy-of-investment-factors/
   title: 'Revisiting the Factor Zoo: How Time Horizon Impacts the Efficacy of Investment
     Factors'
-- author: The Journal.
-  categories: *id004
-  date: '2024-09-09T00:00:00+00:00'
-  description: "WSJ\u2019s Alexander Osipovich explores the world of political betting.\
-    \ We meet a trader making big money making predictions on the upcoming U.S. elections\
-    \ over a platform called Polymarket and examine the fight that  is brewing with\
-    \ regulators over the practice.\_\_  Further Reading:  - Meet the Traders Making\
-    \ Money Off the Trump Shooting and Biden\u2019s Stumbles\_ - Judge Holds Off on\
-    \ Allowing Election Bets\u2013For Now\_ - The Hot New Trade That Everyone Is Watching:\
-    \ Will Biden Drop Out?\_  Further Listening:  - How Gambling Scandals Are Rocking\
-    \ Sports Leagues\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3XiIttzPVi1UtFPwH3VImO
-  title: How Betting on U.S. Politics Is Getting Big
 - author: ArjanCodes
   categories: *id005
   date: '2024-09-06T15:01:06+00:00'
@@ -837,3 +836,20 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/White-Papers/Portable-Alpha-Still-A-Great-Solution-For-Improving-Return-Outcomes
   title: 'Portable Alpha: Still A Great Solution For Improving Return Outcomes'
+- author: "Relat\xF3rio de Infla\xE7\xE3o"
+  categories:
+  - Bacen
+  - BC
+  date: '2024-06-27T00:00:00-03:00'
+  description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
+    ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
+    \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
+    \xF5es s\xE3o apresentadas em cen\xE1rios com condicionantes para algumas vari\xE1\
+    veis econ\xF4micas. O Copom utiliza um conjunto amplo de modelos e cen\xE1rios\
+    \ para orientar suas decis\xF5es de pol\xEDtica monet\xE1ria. Ao expor alguns\
+    \ desses cen\xE1rios, o Copom procura dar maior transpar\xEAncia \xE0s decis\xF5\
+    es de pol\xEDtica monet\xE1ria, contribuindo para sua efic\xE1cia no controle\
+    \ da infla\xE7\xE3o, que \xE9 seu objetivo prec\xEDpuo."
+  image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
+  path: https://www.bcb.gov.br/publicacoes/ri/202406
+  title: 'BC - RI: junho/2024'
