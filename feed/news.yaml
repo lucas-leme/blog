@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-09-11T12:49:07+00:00'
+  description: "Investidores come\xE7aram a reduzir as posi\xE7\xF5es ligadas a uma\
+    \ eventual vit\xF3ria de Donald Trump na corrida presidencial"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/analista-financeiros-veem-vitoria-de-kamala-harris-no-debate-com-donald-trump/
+  title: "Kamala Harris tem desempenho melhor no debate com Donald Trump na vis\xE3\
+    o de analistas"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +26,7 @@
   path: https://investnews.com.br/economia/em-2-lugares-do-brasil-nao-havera-eleicao-em-2024-veja-motivo/
   title: "Em 2 lugares do Brasil n\xE3o haver\xE1 elei\xE7\xE3o em 2024; veja motivo"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-09-11T10:00:00+00:00'
   description: "Seja VGBL ou PGBL, decis\xE3o tardia pode fazer a conta subir quase\
     \ 3 vezes. Atente-se tamb\xE9m para os valores reais"
@@ -25,15 +34,6 @@
   path: https://investnews.com.br/financas/investimentos/previdencia-privada-quanto-guardar-para-ter-uma-renda-extra-de-r-5-mil-por-mes/
   title: "Previd\xEAncia privada: quanto guardar para ter numa renda extra equivalente\
     \ a R$ 5 mil por m\xEAs"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-09-10T21:10:09+00:00'
-  description: "Dados fracos da economia chinesa pressionaram divisas de pa\xEDses\
-    \ exportadores de mat\xE9rias-primas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dolar-sobe-mais-de-1-ante-o-real-em-dia-negativo-para-moedas-commodities/
-  title: "D\xF3lar sobe mais de 1% ante o real em dia negativo para moedas ligadas\
-    \ a commodities"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
