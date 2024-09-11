@@ -12,7 +12,7 @@
   path: https://www.youtube.com/watch?v=5uqZ6jAPTnY
   title: 'Under The Hood | Poetry (Episode #3)'
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2024-09-10T11:12:09+00:00'
@@ -26,6 +26,36 @@
   image: https://i2.ytimg.com/vi/9lx11dy9J30/hqdefault.jpg
   path: https://www.youtube.com/watch?v=9lx11dy9J30
   title: 'iPhone 16/Pro Impressions: The Great Separation!'
+- author: Market Makers
+  categories: &id005
+  - Podcasts
+  date: '2024-09-10T00:00:00+00:00'
+  description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
+    \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO129-X\
+    \ No epis\xF3dio 129 do Market Makers, receberemos Alexandre Sabanai (gestor na\
+    \ Perfin Asset) e Maur\xEDcio Jonas (fundador da CL4 Capital). Alexandre Sabanai,\
+    \ formado em Administra\xE7\xE3o pela Funda\xE7\xE3o Getulio Vargas (EAESP), \xE9\
+    \ o s\xF3cio respons\xE1vel pelo research e co-gest\xE3o de fundos abertos da\
+    \ Perfin Asset.Em 2001, iniciou sua carreira no mercado financeiro no Bank Boston\
+    \ Asset Management, onde atuou na \xE1rea de renda vari\xE1vel. Al\xE9m disso,\
+    \ trabalhou tamb\xE9m no Unibanco, onde foi premiado como runner-up team pela\
+    \ Institutional Investor All-Brazil Research Team. J\xE1 em 2006, foi nomeado\
+    \ s\xF3cio da RXZ Investimentos, estruturando a \xE1rea de renda vari\xE1vel e\
+    \ fazendo a co-gest\xE3o do Fundo de A\xE7\xF5es.J\xE1 Maur\xEDcio Jonas tem mais\
+    \ de 25 anos de experi\xEAncia no mercado e passou por institui\xE7\xF5es como\
+    \ Nucleo Capital, BRZ Investimentos, Skopos Investimentos, CPFL Energia e BBA,\
+    \ com atua\xE7\xE3o voltada para an\xE1lise de empresas. Maur\xEDcio \xE9 formado\
+    \ em administra\xE7\xE3o de empresas pela FGV-EAESP.Vamos falar sobre o momento\
+    \ atual do mercado e tamb\xE9m sobre as principais posi\xE7\xF5es e teses da Perfin\
+    \ Asset e da CL4 Capital Aquele papo raiz sobre a\xE7\xF5es que todos n\xF3s adoramos\
+    \ falar. Deixe o seu like e se inscreva no canal para ficar por dentro de tudo\
+    \ que acontece nas economias pelo mundo e os impactos no seu dinheiro!Apresentador:\
+    \ Thiago Salom\xE3o (@_salomoney)Convidado: Alexandre Sabanai (gestor na Perfin\
+    \ Asset) e Maur\xEDcio Jonas (fundador da CL4 Capital)Become a supporter of this\
+    \ podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a3f11a292dddb999f723161ce
+  path: https://open.spotify.com/episode/78ALqqTRjvHqlSDDbE460E
+  title: "#129 | As MELHORES A\xC7\xD5ES para investir agora e como ENCONTR\xC1-LAS?"
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -44,6 +74,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/4N5CCPA0MuJftehMJRveST
   title: Your New Hire May Be a North Korean Spy
+- author: Outliers
+  categories: &id006
+  - Podcasts
+  date: '2024-09-10T00:00:00+00:00'
+  description: "-----------------------------------------------------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8a326a5e6c9fac2f5646080afa
+  path: https://open.spotify.com/episode/0ePZv218lvMGP5G4OHfUsp
+  title: "#136 - De olho na demanda e spreads: a sofistica\xE7\xE3o da gest\xE3o de\
+    \ cr\xE9dito da XP Asset"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -158,8 +204,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/05/how-machine-learning-is-transforming-portfolio-optimization/
   title: How Machine Learning Is Transforming Portfolio Optimization
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id005
   date: '2024-09-05T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO128-X\
@@ -249,8 +294,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-will-firms-hire-fire-or-retrain/
   title: 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?'
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id006
   date: '2024-09-04T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -263,28 +307,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af071425aa2807e0f6cf75cb2
   path: https://open.spotify.com/episode/1HIBmo5Kpfn36FPqVC6r35
   title: "#135 - Estrat\xE9gias de renda no cr\xE9dito estruturado com a Vinci Partners"
-- author: Market Makers
-  categories: *id005
-  date: '2024-09-03T00:00:00+00:00'
-  description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
-    \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO127-X\
-    \ No epis\xF3dio 127 do Market Makers, iremos receber Alexandre Silverio, s\xF3\
-    cio fundador da Tenax Capital, que possui mais de 25 anos de experi\xEAncia no\
-    \ mercado financeiro com foco em a\xE7\xF5es. De 2011 a 2020 foi respons\xE1vel\
-    \ pela estrat\xE9gia de renda vari\xE1vel da AZ Quest, ocupando a partir de 2015,\
-    \ o cargo de CIO da empresa. Antes disso, foi head de renda vari\xE1vel no Santander\
-    \ Asset Management, tornando-se CIO em 2007.Vamos falar sobre:\_Queda de juros\
-    \ e chances de recess\xE3o nos EUA ;\_Perspectivas de Gal\xEDpolo no Banco Central\
-    \ e taxa de juros no Brasil;\_Caso X e Starlink: quais os impactos da suspens\xE3\
-    o nos investimentos estrangeiros no pa\xEDs;\_O que podemos esperar para a bolsa\
-    \ brasileira no segundo semestre de 2024;\_A\xE7\xF5es com potencial para investir.Deixe\
-    \ o seu like e se inscreva no canal para ficar por dentro de tudo que acontece\
-    \ nas economias pelo mundo e os impactos no seu dinheiro!Apresentador: Thiago\
-    \ Salom\xE3o (@_salomoney) Convidado: Alexandre Silverio (s\xF3cio fundador da\
-    \ Tenax Capital)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8aee041f76b7e9e3193727bdb0
-  path: https://open.spotify.com/episode/6cOsUAS99VaSJZyxSk0rOX
-  title: "#127 | O BRASIL SE TORNAR\xC1 um mercado N\xC3O INVEST\xCDVEL?"
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -309,7 +331,7 @@
   title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
     Things (S7E11)
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2024-08-31T21:50:47+00:00'
   description: 'If you''re reading this... brb
 
@@ -325,7 +347,7 @@
   path: https://www.youtube.com/watch?v=FVwV5BxJ8M4
   title: I'm Taking a Break
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2024-08-29T00:00:00+00:00'
   description: Common methods of using machine learning to predict stock returns can
@@ -344,7 +366,7 @@
   path: https://open.spotify.com/episode/0KLZltmVhPxI14vm85nhag
   title: Cumulative vs. Cyclical Knowledge
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-08-28T23:02:32+00:00'
@@ -354,7 +376,7 @@
   path: https://theovershoot.co/p/deeper-inside-the-chinese-consumer
   title: Deeper Inside the Chinese Consumer Spending Data
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2024-08-28T00:00:00+00:00'
   description: For decades, lifecycle finance models and mean-variance optimization
     models remained separate, but recent breakthroughs have produced combined models.
@@ -362,7 +384,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
   title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2024-08-23T21:56:25+00:00'
   description: It has been over a year-and-half since the end of "Covid Zero" restrictions,
     but domestic demand is still so weak that production is only holding up thanks
@@ -370,20 +392,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F572bd015-cb97-480f-82d4-35fa7a02e6ff_4996x4430.png
   path: https://theovershoot.co/p/chinese-weakness-is-the-real-china
   title: Chinese Weakness is the Real "China Shock"
-- author: Outliers
-  categories: *id009
-  date: '2024-08-21T00:00:00+00:00'
-  description: "-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a8a275cea75163b21930a8db4
-  path: https://open.spotify.com/episode/3qFTqGkVcmEXuSyVu4LiaD
-  title: "#134 - Se a Bolsa n\xE3o existe, como investir em empresas globais?"
 - author: Apricitas Economics
   categories: *id010
   date: '2024-08-11T13:30:11+00:00'
