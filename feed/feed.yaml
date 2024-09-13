@@ -1,5 +1,19 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-09-13T00:00:00+00:00'
+  description: "After a tense debate, Ryan Knutson and Molly Ball unpack a busy election\
+    \ week and examine what\u2019s next for both campaigns in crucial swing states\
+    \ like Pennsylvania. Plus, could a state like Nebraska decide the election?  Further\
+    \ Listening:  - Red, White, and Who? How Abortion Plays for Trump and Harris\_\
+    \ - For Kamala Harris, a Big Interview and a Narrow Lead\_ - Is the Trump Campaign\
+    \ Going Off Track?\_  Further Reading: - We Asked Undecided Voters Who Won the\
+    \ Trump-Harris Debate\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a5c17041ecc854afd907467e6
+  path: https://open.spotify.com/episode/1BiDkZE74TN8CPY9BIxliK
+  title: Red, White and Who? A Swing-State Debate
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-12T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -30,8 +44,7 @@
   path: https://open.spotify.com/episode/2kOLtBogp29wxw6qWg0geZ
   title: "#130 | A VERDADE por tr\xE1s da CRISE na FARIA LIMA"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-09-12T00:00:00+00:00'
   description: "President Biden, Vice President Harris and former President Trump\
     \ have all signaled their opposition to the planned sale of U.S. Steel to Japan\u2019\
@@ -70,7 +83,7 @@
   path: https://open.spotify.com/episode/5ES7i79TDQgFskKC0YDUPF
   title: A Few Little Ideas And Short Stories
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-09-11T20:40:34+00:00'
   description: "<p>O Senado do M\xE9xico aprovou hoje de madrugada a (para l\xE1 de\
@@ -87,7 +100,7 @@
   title: "AMLO aprova reforma populista do Judici\xE1rio. \xC9 mais um golpe para\
     \ o M\xE9xico"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-09-11T15:31:06+00:00'
   description: "<p>A explos\xE3o das apostas online no Brasil tem acendido um alerta\
     \ na economia e no or\xE7amento das fam\xEDlias. Mas para a XP, a coisa ainda\
@@ -121,7 +134,7 @@
   path: https://theovershoot.co/p/the-case-for-huge-fed-rate-cuts-up
   title: The Case for Huge Fed Rate Cuts Up Front (And Maybe Some Hikes Later)
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-09-11T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO124-XAs\
@@ -150,19 +163,6 @@
   path: https://open.spotify.com/episode/4UKcU2tiLyN5Msn1FObuoM
   title: "A verdade sobre as ELEI\xC7\xD5ES MUNICIPAIS que NINGU\xC9M EST\xC1 FALANDO\
     \ | Corte EP #126"
-- author: The Journal.
-  categories: *id003
-  date: '2024-09-11T00:00:00+00:00'
-  description: "Testosterone therapy is booming, touting a boost at the gym and in\
-    \ the bedroom, but the potential side effects (like infertility) are less well\
-    \ known. WSJ\u2019s Rolfe Winkler on the clinics making millions on this growing\
-    \ industry.  Further Reading: - Testosterone Clinics Sell Virility. Some Men End\
-    \ Up With Infertility.\_  Further Listening: - Trillion Dollar Shot, Episode 1:\
-    \ Birth of a Blockbuster\_ - The Rise of Botox and the Wrinkle in Its Future\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2vTwPXuAqe6u6e3BcZRgQI
-  title: Testosterone Clinics Sell Virility. Side Effects Sometimes Included.
 - author: ArjanCodes
   categories: &id005
   - Tech
