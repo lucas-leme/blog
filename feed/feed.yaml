@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2024-09-13T12:30:24+00:00'
+  description: "Howard Marks\u2019s approach to risk emphasizes the importance of\
+    \ understanding risk as the probability of loss, not volatility, and managing\
+    \ it through careful judgment and strategic thinking."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/09/13/how-to-think-about-risk-howard-marks-s-comprehensive-guide/
+  title: "How to Think About Risk: Howard Marks\u2019 s Comprehensive Guide"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -13,7 +23,7 @@
   path: https://open.spotify.com/episode/1BiDkZE74TN8CPY9BIxliK
   title: Red, White and Who? A Swing-State Debate
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-09-12T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -114,8 +124,7 @@
   path: https://braziljournal.com/regulamentacao-nao-deve-barrar-explosao-das-bets-diz-xp/
   title: "Regulamenta\xE7\xE3o n\xE3o deve barrar explos\xE3o das bets, diz XP"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2024-09-11T12:43:39+00:00'
   description: 'In the underbelly of private markets lies the main culprit behind
     corporate failures: defective capital structuring.'
@@ -134,7 +143,7 @@
   path: https://theovershoot.co/p/the-case-for-huge-fed-rate-cuts-up
   title: The Case for Huge Fed Rate Cuts Up Front (And Maybe Some Hikes Later)
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-09-11T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO124-XAs\
@@ -207,14 +216,6 @@
   path: https://open.spotify.com/episode/0ePZv218lvMGP5G4OHfUsp
   title: "#136 - De olho na demanda e spreads: a sofistica\xE7\xE3o da gest\xE3o de\
     \ cr\xE9dito da XP Asset"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-09-09T17:39:34+00:00'
-  description: Don't ignore serial dependencies in your factor portfolio.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/09/09/revisiting-the-factor-zoo-how-time-horizon-impacts-the-efficacy-of-investment-factors/
-  title: 'Revisiting the Factor Zoo: How Time Horizon Impacts the Efficacy of Investment
-    Factors'
 - author: ArjanCodes
   categories: *id005
   date: '2024-09-06T15:01:06+00:00'
