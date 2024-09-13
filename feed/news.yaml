@@ -16,6 +16,15 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/qual-o-salario-vereador-nas-eleicoes-2024/
   title: "Elei\xE7\xF5es 2024: Qual \xE9 o sal\xE1rio de um vereador?"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2024-09-13T10:00:00+00:00'
+  description: "Texto entregue ao Congresso prop\xF5e mudar regras e excluir mulher\
+    \ ou marido dos herdeiros necess\xE1rios"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/novo-codigo-civil-exclui-conjuge-da-heranca-entenda-a-proposta/
+  title: "Novo C\xF3digo Civil exclui c\xF4njuge da heran\xE7a? Entenda a proposta"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -78,8 +87,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fflsqx/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2024-09-11T12:49:07+00:00'
   description: "Investidores come\xE7aram a reduzir as posi\xE7\xF5es ligadas a uma\
     \ eventual vit\xF3ria de Donald Trump na corrida presidencial"
@@ -87,12 +95,3 @@
   path: https://investnews.com.br/financas/analista-financeiros-veem-vitoria-de-kamala-harris-no-debate-com-donald-trump/
   title: Para analistas do mercado, Kamala Harris foi melhor do que Donald Trump em
     debate
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2024-09-11T10:00:00+00:00'
-  description: "Seja VGBL ou PGBL, decis\xE3o tardia pode fazer a conta subir quase\
-    \ 3 vezes. Atente-se tamb\xE9m para os valores reais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/previdencia-privada-quanto-guardar-para-ter-uma-renda-extra-de-r-5-mil-por-mes/
-  title: "Previd\xEAncia privada: quanto guardar para ter uma renda extra equivalente\
-    \ a R$ 5 mil por m\xEAs"
