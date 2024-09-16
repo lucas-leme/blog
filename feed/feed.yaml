@@ -1,3 +1,17 @@
+- author: Marques Brownlee
+  categories: &id006
+  - Tech
+  - Youtube
+  date: '2024-09-16T12:05:08+00:00'
+  description: "AirPods 4 now come in 2 versions: Regular and with Noise Cancellation.\
+    \ Are they any good?\n\nGet dbrand\u2019s new Area 51 skins at https://dbrand.com/store/area51\n\
+    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nHeadphones provided\
+    \ by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
+    http://facebook.com/MKBHD"
+  image: https://i4.ytimg.com/vi/WwjHonzRd4E/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=WwjHonzRd4E
+  title: 'AirPods 4 Review: Which Ones To Get?'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -240,9 +254,7 @@
   path: https://www.youtube.com/watch?v=5uqZ6jAPTnY
   title: 'Under The Hood | Poetry (Episode #3)'
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id006
   date: '2024-09-10T11:12:09+00:00'
   description: "Hands on and first impression with iPhone 16 and iPhone 16 Pro.\n\n\
     Power your iPhone 16 with the latest from Anker's MagGo lineup and enjoy a 15%\
@@ -255,7 +267,7 @@
   path: https://www.youtube.com/watch?v=9lx11dy9J30
   title: 'iPhone 16/Pro Impressions: The Great Separation!'
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2024-09-10T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
@@ -314,7 +326,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/09/ai-and-the-labor-market-will-firms-hire-fire-or-retrain/
   title: 'AI and the Labor Market: Will Firms Hire, Fire, or Retrain?'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2024-09-04T00:00:00+00:00'
   description: "-----------------------------------------------------------------------------------------------------Investir\
     \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
@@ -350,22 +362,6 @@
   path: https://open.spotify.com/episode/6NbQI7GFMUU0e8x1njTcP8
   title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
     Things (S7E11)
-- author: Marques Brownlee
-  categories: *id007
-  date: '2024-08-31T21:50:47+00:00'
-  description: 'If you''re reading this... brb
-
-
-    World Championships coverage: https://buff.ly/4dAocCE
-
-
-    To watch games: https://ultiworld.com/event/165874/2024-world-ultimate-championships/
-
-
-    http://twitter.com/MKBHD'
-  image: https://i3.ytimg.com/vi/FVwV5BxJ8M4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=FVwV5BxJ8M4
-  title: I'm Taking a Break
 - author: CFA Institute Research and Policy Center
   categories: &id009
   - CFA
