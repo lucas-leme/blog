@@ -1,3 +1,43 @@
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2024-09-17T12:03:18+00:00'
+  description: 'So... this is the big "redesign," eh?
+
+
+    Get $350 off the EightSleep Pod 4 Ultra or $200 off the Pod 4 at https://eightsleep.com/MKBHD
+
+
+    Apple Watch Series 10: https://geni.us/LBuel0
+
+    Apple Watch Ultra 2: https://geni.us/yoji7
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Watch provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/Ir1xi2zeuug/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Ir1xi2zeuug
+  title: 'Apple Watch Series 10 Review: This is It?'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -18,9 +58,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/16/global-fungible-money-flows-heighten-volatility-risks/
   title: Global Fungible Money Flows Heighten Volatility Risks
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2024-09-16T12:05:08+00:00'
   description: "AirPods 4 now come in 2 versions: Regular and with Noise Cancellation.\
     \ Are they any good?\n\nGet dbrand\u2019s new Area 51 skins at https://dbrand.com/store/area51\n\
@@ -32,7 +70,7 @@
   path: https://www.youtube.com/watch?v=WwjHonzRd4E
   title: 'AirPods 4 Review: Which Ones To Get?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-09-16T02:39:34+00:00'
   description: "<p>A criatividade para contornar as regras fiscais contribui para\
@@ -49,7 +87,7 @@
   title: "OPINI\xC3O. Os gastos parafiscais est\xE3o acelerando. As armadilhas do\
     \ PL 1.725"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-16T00:00:00+00:00'
   description: "Tens of thousands of Boeing\u2019s unionized workers are on strike\
@@ -65,7 +103,7 @@
   path: https://open.spotify.com/episode/3OwXvW6Ew8PcW7yeaHhTkN
   title: Why 33,000 Boeing Workers Walked Off the Job
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -119,7 +157,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/13092024
   title: "BC - Focus - Relat\xF3rio de Mercado - 13/09/2024"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-09-13T00:00:00+00:00'
   description: "Scammers are exploiting retailers\u2019 online return programs like\
     \ never before, fueled by websites and messaging apps. WSJ\u2019s Liz Young reports\
@@ -133,7 +171,7 @@
   path: https://open.spotify.com/episode/5gYpNBVtoNVnVle6r3v3my
   title: Fraudulent Online Returns Cost Retailers Billions
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-09-12T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -190,7 +228,7 @@
   path: https://open.spotify.com/episode/5ES7i79TDQgFskKC0YDUPF
   title: A Few Little Ideas And Short Stories
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-09-11T20:40:34+00:00'
   description: "<p>O Senado do M\xE9xico aprovou hoje de madrugada a (para l\xE1 de\
     \ controversa) reforma do Judici\xE1rio \u2013 colocando o pa\xEDs numa rota de\
@@ -217,7 +255,7 @@
   path: https://theovershoot.co/p/the-case-for-huge-fed-rate-cuts-up
   title: The Case for Huge Fed Rate Cuts Up Front (And Maybe Some Hikes Later)
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-09-11T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-EPISODIO124-XAs\
@@ -247,7 +285,7 @@
   title: "A verdade sobre as ELEI\xC7\xD5ES MUNICIPAIS que NINGU\xC9M EST\xC1 FALANDO\
     \ | Corte EP #126"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-09-10T15:09:54+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -256,19 +294,6 @@
   image: https://i2.ytimg.com/vi/5uqZ6jAPTnY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=5uqZ6jAPTnY
   title: Live Code Review | Poetry
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-09-10T11:12:09+00:00'
-  description: "Hands on and first impression with iPhone 16 and iPhone 16 Pro.\n\n\
-    Power your iPhone 16 with the latest from Anker's MagGo lineup and enjoy a 15%\
-    \ discount when you buy two for a limited time.\nAmazon:\_https://ankerfast.club/8fvg06\n\
-    Anker.com: https://shop.anker.com/ujBG1k\n\nMKBHD Merch: http://shop.MKBHD.com\n\
-    \nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\nIntro Track:\
-    \ http://youtube.com/20syl\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/9lx11dy9J30/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=9lx11dy9J30
-  title: 'iPhone 16/Pro Impressions: The Great Separation!'
 - author: Outliers
   categories: &id007
   - Podcasts
