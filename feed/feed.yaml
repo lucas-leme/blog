@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-09-20T19:03:06+00:00'
+  description: "<p>Em 20 de setembro de 2019, a Medida Provis\xF3ria (MP) da Liberdade\
+    \ Econ\xF4mica foi convertida em lei (Lei no. 13.874), marcando um novo cap\xED\
+    tulo na hist\xF3ria econ\xF4mica do Brasil. Como relator e coautor desta lei,\
+    \ respectivamente, temos acompanhado de perto os avan\xE7os e resultados alcan\xE7\
+    ados ao longo desses cinco anos. Quando a lei foi sancionada, [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/opiniao-5-anos-da-lei-da-liberdade-economica-o-que-ainda-resta-fazer/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. 5 anos da Lei da Liberdade Econ\xF4mica: o que\
+    \ ainda resta fazer</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-5-anos-da-lei-da-liberdade-economica-o-que-ainda-resta-fazer/
+  title: "OPINI\xC3O. 5 anos da Lei da Liberdade Econ\xF4mica: o que ainda resta fazer"
 - author: ArjanCodes
   categories: &id004
   - Tech
@@ -63,8 +79,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/09/20/book-review-the-puzzle-of-sustainable-investment/
   title: 'Book Review: The Puzzle of Sustainable Investment'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id001
   date: '2024-09-20T03:48:11+00:00'
   description: "<p>Deus me livre de mulher que resolve criar os filhos e tocar empresa\
     \ ao mesmo tempo. Essas malucas mudam a \u201Cordem natural das coisas\u201D e\
@@ -77,8 +92,23 @@
   path: https://braziljournal.com/editorial-deus-me-livre-de-mulher-ceo/
   title: "EDITORIAL. \u201CDeus me livre de mulher CEO\u201D"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
+  date: '2024-09-20T00:00:00+00:00'
+  description: "The Federal Reserve cut interest rates this week, after a two year\
+    \ battle with inflation. David Uberti explains how that will impact the economy\
+    \ and we hear from two couples about what they hope this means for their finances.\_\
+    \  Further Listening:  - A Fed Insider on the Looming Rate Cut\_ - What the Stock\
+    \ Market Panic Says About the Economy\_ - Trump Allies Draft Plans to Rein in\
+    \ the Fed\_  Further Reading: - Americans Are Desperate for Relief. The Rate Cut\
+    \ Is a Glimmer of Hope.\_ - The Fed Aims to Repeat Greenspan\u2019s 1990s Masterpiece\_\
+    \ - Fed Cuts Rates by Half Percentage Point\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7lOUmjQiHkpwVRWJFUr85d
+  title: The Fed Finally Cut Rates. What Does That Mean?
+- author: The Journal.
+  categories: *id002
   date: '2024-09-20T00:00:00+00:00'
   description: "Ryan Knutson talks with Molly Ball and Rachel Humphreys about their\
     \ recent trip to Ohio, where they talked to voters about a tight Senate race and\
@@ -91,8 +121,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2635aefa1629dbd690c1ab4a
   path: https://open.spotify.com/episode/57t20zvJhbGCymlAEWp1Y9
   title: Red, White and Who? Why Ohio Could Decide the Senate
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2024-09-20T00:00:00+00:00'
+  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k discuss his views\
+    \ on what the recent rate cut by the US Federal Reserve means for the future of\
+    \ US growth and inflation. Also: What impact will lower rates have on financial\
+    \ markets?"
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/40I8F39Dquh7BJ144wn8Pp
+  title: "The Fed Kicks off an Easing Cycle: What\u2019s Next for the Economy and\
+    \ Financial Markets?"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-19T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -135,22 +177,6 @@
   path: https://open.spotify.com/episode/3QwluLMqZ0c3uwA7hpIS4W
   title: "#132 | CORRUP\xC7\xC3O, PARAFISCAL E CRIATIVIDADE: o Brasil da Era Dilma\
     \ voltou?"
-- author: The Journal.
-  categories: *id001
-  date: '2024-09-19T00:00:00+00:00'
-  description: "On Tuesday afternoon, thousands of pagers issued to Hezbollah operatives\
-    \ in Lebanon exploded at the same time, killing 12 people and injuring more than\
-    \ 2,800. The next day, walkie-talkies detonated in a similar way. Michael Amon\
-    \ reports on one of Israel\u2019s most ambitious covert operations and what the\
-    \ attacks could mean for a broader war.  Further Listening:  -The Brutal Calculation\
-    \ of Hamas\u2019s Leader\_ -Why Israel and Hamas Could Be Headed Into a Forever\
-    \ War\_  Further Reading:  -How a Covert Attack Against Hezbollah Unfolded Across\
-    \ Lebanon\u2019s Streets and Malls\_ -Israel Scored a Stunning Blow Against Hezbollah.\
-    \ Its Path to Victory Is Less Clear.\_  Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0juWcQ4I7tPOv2S4ccPRuR
-  title: Exploding Pagers and the Risk of a Spreading War
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -277,7 +303,7 @@
   path: https://www.youtube.com/watch?v=h3BKjZMGoIw
   title: 'iPhone 16/16 Pro Unboxing: End of an Era!'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-09-18T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XO\
@@ -306,21 +332,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a9778251be0c3f01546bb397d
   path: https://open.spotify.com/episode/2r6qTyRlG4TUhWcFWG3RDn
   title: "Por que o Brasil SEMPRE ter\xE1 um PROBLEMA FISCAL | Corte EP #128"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-09-17T22:48:31+00:00'
-  description: "<p>O carry trade do Jap\xE3o morreu? Vida longa ao carry trade da\
-    \ China! O Jap\xE3o era conhecido por ter juros permanentemente pr\xF3ximos de\
-    \ zero, enquanto a China mantinha taxas reais positivas e oferecia uma alternativa\
-    \ rent\xE1vel e segura para os investidores internacionais. Agora os pap\xE9is\
-    \ est\xE3o se invertendo. Os rendimentos dos t\xEDtulos soberanos ultra longos\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/china-com-yields-em-queda-atrai-carry-trade-e-e-o-novo-japao/\"\
-    \ rel=\"nofollow\">China, com yields em queda, atrai carry trade e \xE9 o novo\
-    \ Jap\xE3o</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/china-com-yields-em-queda-atrai-carry-trade-e-e-o-novo-japao/
-  title: "China, com yields em queda, atrai carry trade e \xE9 o novo Jap\xE3o"
 - author: ArjanCodes
   categories: *id004
   date: '2024-09-17T13:33:55+00:00'
@@ -843,18 +854,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/31072024
   title: "BC - Copom Ata - 264\xAA Reuni\xE3o - 30-31 julho, 2024"
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2024-08-02T00:00:00+00:00'
-  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k and Matt O\u2019\
-    Mara, partner in Apollo\u2019s Insurance Solutions Group, discuss how the structured\
-    \ nature of private market transactions can help align risk levels and returns,\
-    \ and how that dynamic is helping risk premia hold up in private markets."
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/6ZT82Z2L8j2Psevi6UEPGq
-  title: "Capturing Risk Premia: A Practitioner\u2019s Perspective with Apollo Partner\
-    \ Matt O\u2019Mara"
 - author: AQR
   categories: *id011
   date: '2024-07-30T00:00:00'
