@@ -1,5 +1,34 @@
-- author: Market Makers
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-09-20T03:48:11+00:00'
+  description: "<p>Deus me livre de mulher que resolve criar os filhos e tocar empresa\
+    \ ao mesmo tempo. Essas malucas mudam a \u201Cordem natural das coisas\u201D e\
+    \ aceleram a marcha da Hist\xF3ria. (N\xE3o gosto.) Deus me livre de suas filhas,\
+    \ jacobinas assanhadas, que bebem no exemplo das m\xE3es para sonhar mais alto\
+    \ que o bordado e o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/editorial-deus-me-livre-de-mulher-ceo/\"\
+    \ rel=\"nofollow\">EDITORIAL. \u201CDeus me livre de mulher CEO\u201D</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-deus-me-livre-de-mulher-ceo/
+  title: "EDITORIAL. \u201CDeus me livre de mulher CEO\u201D"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-09-20T00:00:00+00:00'
+  description: "Ryan Knutson talks with Molly Ball and Rachel Humphreys about their\
+    \ recent trip to Ohio, where they talked to voters about a tight Senate race and\
+    \ why it might matter so much for both parties. Plus, look at another important\
+    \ Senate race in Montana.  Further Listening:\_ - Red, White and Who? Playlist\_\
+    \ - Red, White and Who? A Swing-State Debate\_ - Red, White, and Who? How Abortion\
+    \ Plays for Trump and Harris\_  Further Reading: - A Populist Democrat Fights\
+    \ to Survive the Trump-Fueled Populist Wave\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a2635aefa1629dbd690c1ab4a
+  path: https://open.spotify.com/episode/57t20zvJhbGCymlAEWp1Y9
+  title: Red, White and Who? Why Ohio Could Decide the Senate
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2024-09-19T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -43,8 +72,7 @@
   title: "#132 | CORRUP\xC7\xC3O, PARAFISCAL E CRIATIVIDADE: o Brasil da Era Dilma\
     \ voltou?"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-09-19T00:00:00+00:00'
   description: "On Tuesday afternoon, thousands of pagers issued to Hezbollah operatives\
     \ in Lebanon exploded at the same time, killing 12 people and injuring more than\
@@ -171,7 +199,7 @@
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-09-18T12:01:27+00:00'
@@ -185,7 +213,7 @@
   path: https://www.youtube.com/watch?v=h3BKjZMGoIw
   title: 'iPhone 16/16 Pro Unboxing: End of an Era!'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-09-18T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XO\
@@ -214,22 +242,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a9778251be0c3f01546bb397d
   path: https://open.spotify.com/episode/2r6qTyRlG4TUhWcFWG3RDn
   title: "Por que o Brasil SEMPRE ter\xE1 um PROBLEMA FISCAL | Corte EP #128"
-- author: The Journal.
-  categories: *id002
-  date: '2024-09-18T00:00:00+00:00'
-  description: "Organized crime used to be considered a remote threat in much of Western\
-    \ Europe, but ruthless violence by criminal gangs is now rattling the peace in\
-    \ some of the world\u2019s safest societies. WSJ\u2019s Sune Rasmussen explores\
-    \ the rise of one drug kingpin and how his brutal tactics have spread around the\
-    \ continent.\_  Further Reading: - Violent Drug Gangs Bring Mayhem to Western\
-    \ Europe\_  Further Listening:  - The Push to Test Drugs for Fentanyl\_ - Afghanistan's\
-    \ Desperation Economy\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/646EANP6vksjytppoMHX6x
-  title: A Cocaine Kingpin and the Rise of Drug Violence in Europe
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
-  - Economia
+  categories: *id003
   date: '2024-09-17T22:48:31+00:00'
   description: "<p>O carry trade do Jap\xE3o morreu? Vida longa ao carry trade da\
     \ China! O Jap\xE3o era conhecido por ter juros permanentemente pr\xF3ximos de\
@@ -244,7 +258,7 @@
   path: https://braziljournal.com/china-com-yields-em-queda-atrai-carry-trade-e-e-o-novo-japao/
   title: "China, com yields em queda, atrai carry trade e \xE9 o novo Jap\xE3o"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -257,7 +271,7 @@
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Under the Hood | Live Code Review
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-09-17T13:33:13+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -267,7 +281,7 @@
   path: https://www.youtube.com/watch?v=QANzqo1D8w8
   title: Under the Hood | Live Code Review
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-09-17T12:03:18+00:00'
   description: 'So... this is the big "redesign," eh?
 
@@ -305,7 +319,7 @@
   path: https://www.youtube.com/watch?v=Ir1xi2zeuug
   title: 'Apple Watch Series 10 Review: This is It?'
 - author: CFA Institute Enterprising Investor
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2024-09-17T11:17:39+00:00'
   description: By minimizing exposure to severe market downturns, investors can achieve
@@ -335,7 +349,7 @@
   path: https://open.spotify.com/episode/0JpVwKwgNh76LiJ66LCYqX
   title: "#137 - Oportunidades do mercado imobili\xE1rio com a JiveMau\xE1"
 - author: CFA Institute Enterprising Investor
-  categories: *id005
+  categories: *id006
   date: '2024-09-16T17:09:10+00:00'
   description: Rapid yen appreciation in the third quarter triggered a brief-but-disruptive
     volatility surge across major asset markets, demonstrating the fleeting nature
@@ -343,22 +357,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/09/16/global-fungible-money-flows-heighten-volatility-risks/
   title: Global Fungible Money Flows Heighten Volatility Risks
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id006
-  date: '2024-09-16T02:39:34+00:00'
-  description: "<p>A criatividade para contornar as regras fiscais contribui para\
-    \ a distribui\xE7\xE3o de privil\xE9gios aos lobbies, e a conta ser\xE1 paga anos\
-    \ \xE0 frente. S\xE3o muitos os exemplos. Um caso recente \xE9 a medida que permite\
-    \ a uma empresa estatal, a EMGEA (Empresa Gestora de Ativos), comprar cr\xE9ditos\
-    \ imobili\xE1rios concedidos por institui\xE7\xF5es financeiras.\_ O objetivo\
-    \ \xE9 [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-os-gastos-parafiscais-estao-acelerando-e-o-pl-1-725-e-um-cavalo-de-troia/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Os gastos parafiscais est\xE3o acelerando. As armadilhas\
-    \ do PL 1.725</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-os-gastos-parafiscais-estao-acelerando-e-o-pl-1-725-e-um-cavalo-de-troia/
-  title: "OPINI\xC3O. Os gastos parafiscais est\xE3o acelerando. As armadilhas do\
-    \ PL 1.725"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
