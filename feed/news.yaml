@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-09-23T12:01:41+00:00'
+  description: "ROE saud\xE1vel e dividendos generosos garantem o papel entre os mais\
+    \ indicados por analistas. Mas h\xE1 pontos de aten\xE7\xE3o, claro. Veja quais."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/acao-em-foco-as-oportunidades-e-riscos-do-banco-do-brasil-bbsa3/
+  title: "A\xE7\xE3o em foco: as oportunidades e riscos do Banco do Brasil\_(BBSA3)"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -53,8 +62,7 @@
   title: "Lula inclui regula\xE7\xE3o da IA entre as prioridades do Brasil na presid\xEA\
     ncia do G-20"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-09-19T21:40:57+00:00'
   description: "O d\xF3lar comercial chegou a cair abaixo de R$ 5,40 no melhor momento\
     \ do dia. E encerrou o dia valendo R$ 5,42, queda de 0,70%"
@@ -62,15 +70,6 @@
   path: https://investnews.com.br/financas/real-ganha-forca-em-relacao-ao-dolar-reagindo-ao-tom-mais-duro-do-copom/
   title: "Real ganha for\xE7a em rela\xE7\xE3o ao d\xF3lar reagindo ao tom mais duro\
     \ do Copom"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-09-18T17:55:33+00:00'
-  description: "Chamado de Intelligent Livermore ETF, o fundo \xE9 alimentado por\
-    \ ChatGPT, Gemini e Claude"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fundo-usa-inteligencia-artificial-para-imitar-estrategias-de-warren-buffett/
-  title: "Fundo usa intelig\xEAncia artificial para imitar estrat\xE9gias de Warren\
-    \ Buffett"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-09-16T04:01:29+00:00'
