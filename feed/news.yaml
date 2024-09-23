@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-09-23T13:55:25+00:00'
+  description: "Em menos de 10 meses, dep\xF3sitos subiram de US$ 16,5 bilh\xF5es\
+    \ para mais de US$ 24 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/depositos-em-dolares-na-argentina-aumentam-mais-de-48-com-milei/
+  title: "Dep\xF3sitos em d\xF3lares na Argentina  aumentam mais de 48% com Milei"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/financas/acao-em-foco-as-oportunidades-e-riscos-do-banco-do-brasil-bbsa3/
   title: "A\xE7\xE3o em foco: as oportunidades e riscos do Banco do Brasil\_(BBSA3)"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-09-23T10:00:00+00:00'
   description: "Em 2022, Pol\xEDcia Rodovi\xE1ria Federal fez opera\xE7\xF5es pelo\
     \ pa\xEDs que prejudicaram acesso dos eleitores \xE0s zonas eleitorais"
@@ -60,15 +68,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1fnbv65/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-09-22T16:42:39+00:00'
-  description: "Presidente busca participar das discuss\xF5es regulat\xF3rias que\
-    \ est\xE3o em curso ao redor do mundo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/lula-inclui-regulacao-da-ia-entre-as-prioridades-do-brasil-na-presidencia-do-g-20/
-  title: "Lula inclui regula\xE7\xE3o da IA entre as prioridades do Brasil na presid\xEA\
-    ncia do G-20"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-09-16T04:01:29+00:00'
