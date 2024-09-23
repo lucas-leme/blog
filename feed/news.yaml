@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-09-23T12:19:52+00:00'
+  description: "Emiss\xE3o est\xE1 dividida em dos lotes de R$ 500 milh\xF5es cada"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/mercado-pago-faz-primeira-emissao-de-letras-financeiras-e-capta-r-1-bilhao/
+  title: "Mercado Pago faz primeira emiss\xE3o de letras financeiras e capta R$ 1\
+    \ bilh\xE3o"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-09-23T12:01:41+00:00'
   description: "ROE saud\xE1vel e dividendos generosos garantem o papel entre os mais\
     \ indicados por analistas. Mas h\xE1 pontos de aten\xE7\xE3o, claro. Veja quais."
@@ -8,7 +16,7 @@
   path: https://investnews.com.br/financas/acao-em-foco-as-oportunidades-e-riscos-do-banco-do-brasil-bbsa3/
   title: "A\xE7\xE3o em foco: as oportunidades e riscos do Banco do Brasil\_(BBSA3)"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-09-23T10:00:00+00:00'
   description: "Em 2022, Pol\xEDcia Rodovi\xE1ria Federal fez opera\xE7\xF5es pelo\
@@ -53,7 +61,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fnbv65/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-09-22T16:42:39+00:00'
   description: "Presidente busca participar das discuss\xF5es regulat\xF3rias que\
     \ est\xE3o em curso ao redor do mundo"
@@ -61,15 +69,6 @@
   path: https://investnews.com.br/economia/lula-inclui-regulacao-da-ia-entre-as-prioridades-do-brasil-na-presidencia-do-g-20/
   title: "Lula inclui regula\xE7\xE3o da IA entre as prioridades do Brasil na presid\xEA\
     ncia do G-20"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-09-19T21:40:57+00:00'
-  description: "O d\xF3lar comercial chegou a cair abaixo de R$ 5,40 no melhor momento\
-    \ do dia. E encerrou o dia valendo R$ 5,42, queda de 0,70%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/real-ganha-forca-em-relacao-ao-dolar-reagindo-ao-tom-mais-duro-do-copom/
-  title: "Real ganha for\xE7a em rela\xE7\xE3o ao d\xF3lar reagindo ao tom mais duro\
-    \ do Copom"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-09-16T04:01:29+00:00'
