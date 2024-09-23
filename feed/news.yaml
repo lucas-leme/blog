@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-09-23T10:00:00+00:00'
+  description: "Em 2022, Pol\xEDcia Rodovi\xE1ria Federal fez opera\xE7\xF5es pelo\
+    \ pa\xEDs que prejudicaram acesso dos eleitores \xE0s zonas eleitorais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-2024-posso-ter-meu-veiculo-apreendido-no-dia-da-votacao/
+  title: "Elei\xE7\xF5es 2024: posso ter meu ve\xEDculo apreendido no dia da vota\xE7\
+    \xE3o?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fnbv65/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-09-22T16:42:39+00:00'
   description: "Presidente busca participar das discuss\xF5es regulat\xF3rias que\
     \ est\xE3o em curso ao redor do mundo"
@@ -43,14 +52,6 @@
   path: https://investnews.com.br/economia/lula-inclui-regulacao-da-ia-entre-as-prioridades-do-brasil-na-presidencia-do-g-20/
   title: "Lula inclui regula\xE7\xE3o da IA entre as prioridades do Brasil na presid\xEA\
     ncia do G-20"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-09-22T10:00:00+00:00'
-  description: "Do t\xEDtulo \xE0 urna: veja todas as regras para cumprir a obriga\xE7\
-    \xE3o eleitoral sem erros"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eleicoes-2024-o-que-voce-precisa-saber-para-votar-no-1o-turno/
-  title: "Elei\xE7\xF5es 2024: o que voc\xEA precisa saber para votar no 1\xBA turno"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
