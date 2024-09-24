@@ -1,3 +1,49 @@
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2024-09-23T23:23:20+00:00'
+  description: 'iPhone 16 is here. Job finished? Job ain''t finished.
+
+
+    Find a new wallpaper with the Panels app! https://get.panels.art/
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Intro/Panels!!
+
+    2:52 What''s Actually New
+
+    7:15 Camera Control
+
+    11:14 New Cameras
+
+    14:24 Barely Reviewable
+
+    18:35 So... Buy It?'
+  image: https://i2.ytimg.com/vi/MRtg6A1f2Ko/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=MRtg6A1f2Ko
+  title: 'iPhone 16/16 Pro Review: Times Have Changed!'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -61,7 +107,7 @@
   path: https://braziljournal.com/juros-abrem-de-novo-com-quadro-fiscal-pressionando-o-bc/
   title: Juros abrem de novo com quadro fiscal pressionando o BC
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -147,7 +193,7 @@
   title: "The Fed Kicks off an Easing Cycle: What\u2019s Next for the Economy and\
     \ Financial Markets?"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-09-19T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
@@ -302,9 +348,7 @@
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2024-09-18T12:01:27+00:00'
   description: "iPhone 16 and 16 Pro have 1 change to the boxes. Goodbye, stickers.\n\
     \nProtect your smartphone\u2019s screen perfectly and effortlessly at https://dbrand.com/store/prism\n\
@@ -316,7 +360,7 @@
   path: https://www.youtube.com/watch?v=h3BKjZMGoIw
   title: 'iPhone 16/16 Pro Unboxing: End of an Era!'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-09-18T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XO\
@@ -346,7 +390,7 @@
   path: https://open.spotify.com/episode/2r6qTyRlG4TUhWcFWG3RDn
   title: "Por que o Brasil SEMPRE ter\xE1 um PROBLEMA FISCAL | Corte EP #128"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-09-17T13:33:55+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -355,44 +399,6 @@
   image: https://i2.ytimg.com/vi/-FA4Hc7c4ek/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Under the Hood | Live Code Review
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-09-17T12:03:18+00:00'
-  description: 'So... this is the big "redesign," eh?
-
-
-    Get $350 off the EightSleep Pod 4 Ultra or $200 off the Pod 4 at https://eightsleep.com/MKBHD
-
-
-    Apple Watch Series 10: https://geni.us/LBuel0
-
-    Apple Watch Ultra 2: https://geni.us/yoji7
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Watch provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/Ir1xi2zeuug/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Ir1xi2zeuug
-  title: 'Apple Watch Series 10 Review: This is It?'
 - author: CFA Institute Enterprising Investor
   categories: *id006
   date: '2024-09-17T11:17:39+00:00'
