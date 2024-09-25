@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2024-09-25T12:19:23+00:00'
+  description: We rely on autopilots in investing. Stephen Foerster draws on lessons
+    from aviation to demonstrate that we often don't understand how they work and
+    their limitations.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/09/25/book-excerpt-trailblazers-heroes-and-crooks/
+  title: 'Book Excerpt: Trailblazers, Heroes, and Crooks'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -345,7 +355,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-09-24T00:00:00+00:00'
   description: "Dedini tamb\xE9m abordou algumas de suas teses de investimento que\
@@ -376,7 +386,7 @@
   path: https://open.spotify.com/episode/3xG3AUOvAOfeRpQYsSFL0t
   title: Red Lobster's New CEO Plots Its Comeback
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-09-23T23:23:20+00:00'
@@ -467,7 +477,7 @@
   path: https://braziljournal.com/juros-abrem-de-novo-com-quadro-fiscal-pressionando-o-bc/
   title: Juros abrem de novo com quadro fiscal pressionando o BC
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -502,8 +512,7 @@
   path: https://www.youtube.com/watch?v=WI6CqykFbDc
   title: How to Design an AWESOME Function Signature in Python
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id003
   date: '2024-09-20T12:20:32+00:00'
   description: "Lukasz Pomorski adeptly discusses the good, the bad, and the unknown\
     \ of sustainable investing while acknowledging that the answer to some of the\
@@ -538,7 +547,7 @@
   title: "The Fed Kicks off an Easing Cycle: What\u2019s Next for the Economy and\
     \ Financial Markets?"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-09-19T00:00:00+00:00'
   description: "Com o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira\
     \ compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\
@@ -692,7 +701,7 @@
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-09-18T12:01:27+00:00'
   description: "iPhone 16 and 16 Pro have 1 change to the boxes. Goodbye, stickers.\n\
     \nProtect your smartphone\u2019s screen perfectly and effortlessly at https://dbrand.com/store/prism\n\
@@ -704,7 +713,7 @@
   path: https://www.youtube.com/watch?v=h3BKjZMGoIw
   title: 'iPhone 16/16 Pro Unboxing: End of an Era!'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2024-09-17T13:33:55+00:00'
   description: "In this live stream, I'll dive into the code and design of an open-source\
     \ project together with you. This is going to be completely unscripted, so you'll\
@@ -713,15 +722,6 @@
   image: https://i2.ytimg.com/vi/-FA4Hc7c4ek/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Under the Hood | Live Code Review
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2024-09-17T11:17:39+00:00'
-  description: By minimizing exposure to severe market downturns, investors can achieve
-    higher risk-adjusted returns, preserve capital, and avoid the psychological toll
-    of significant losses.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/09/17/identifying-crises-and-the-economic-significance-of-avoiding-them/
-  title: Identifying Crises and the Economic Significance of Avoiding Them
 - author: Outliers
   categories: &id007
   - Podcasts
