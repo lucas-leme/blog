@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-09-25T16:23:54+00:00'
+  description: "Pre\xE7o do a\xE7\xFAcar em Nova York chegou ao maior patamar desde\
+    \ fevereiro com a apreens\xE3o sobre o resultado da safra"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/com-seca-e-queimadas-acucar-do-brasil-perde-espaco-para-tailandia-e-india/
+  title: "Com seca e queimadas, a\xE7\xFAcar do Brasil perde espa\xE7o para Tail\xE2\
+    ndia e \xCDndia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,23 +18,13 @@
   path: https://investnews.com.br/financas/btg-adquire-gestora-de-fortuna-americana-greytown/
   title: BTG adquire gestora de fortuna americana Greytown
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-09-25T12:33:23+00:00'
   description: "Corte foi o maior desde que a autoridade monet\xE1ria come\xE7ou a\
     \ usar essa taxa como refer\xEAncia em 2016"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/bc-da-china-faz-corte-de-juros-recorde/
   title: BC da China faz corte de juros recorde
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-09-25T10:00:00+00:00'
-  description: "Ela vem de fazendas solares que mandam energia para o sistema \u2013\
-    \ e criam subs\xEDdios para os associados. Entenda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/energia-solar-por-assinatura-diminui-a-conta-de-luz-em-ate-20-e-causa-polemica/
-  title: "Energia solar \u2018por assinatura\u2019 diminui a conta de luz em at\xE9\
-    \ 20%. E causa pol\xEAmica"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-09-25T10:00:00+00:00'
