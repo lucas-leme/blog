@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-09-26T12:01:42+00:00'
+  description: Investment consulting is continually evolving. As technology evolves,
+    so will our approaches, yet the core of consulting -- relationship-driven, strategic
+    advice -- will remain steadfast..
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/09/26/so-you-want-to-be-an-investment-consultant/
+  title: So, You Want to be an Investment Consultant?
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
@@ -16,8 +26,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-09-25T12:19:23+00:00'
   description: We rely on autopilots in investing. Stephen Foerster draws on lessons
     from aviation to demonstrate that we often don't understand how they work and
@@ -51,7 +60,7 @@
   title: "Flood\_Risk Outside Flood Zones \u2014 A Look at Mortgage Lending in Risky\
     \ Areas"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-09-25T00:00:00+00:00'
   description: "SMALL CAPS MASTERS 2024 | As a\xE7\xF5es com maior potencial de crescimento.\
@@ -83,7 +92,7 @@
   title: "O MALABARISMO FISCAL que o governo N\xC3O QUER que voc\xEA saiba! | Corte\
     \ EP #132"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-25T00:00:00+00:00'
   description: "Former president Donald Trump wants to be the crypto president. With\
@@ -420,7 +429,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-09-24T00:00:00+00:00'
   description: "Dedini tamb\xE9m abordou algumas de suas teses de investimento que\
     \ deram certo e que n\xE3o deram certo, como por exemplo: Fras-le (FRAS3), Valid\
@@ -435,7 +444,7 @@
   path: https://open.spotify.com/episode/78sGHfOjDAVn4eQu6fIUe8
   title: "#133 | SMALL CAPS: como lucrar com as a\xE7\xF5es esquecidas pelo mercado"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-09-24T00:00:00+00:00'
   description: "This month, Red Lobster emerged from bankruptcy. At the helm of the\
     \ restaurant chain is its new CEO, 35-year-old Damola Adamolekun. Ryan Knutson\
@@ -497,7 +506,7 @@
   path: https://www.youtube.com/watch?v=MRtg6A1f2Ko
   title: 'iPhone 16/16 Pro Review: Times Have Changed!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-09-22T02:39:24+00:00'
   description: "<p>Se o futuro presidente do Banco Central pedisse um conselho a Henrique\
@@ -514,7 +523,7 @@
   title: "Os momentos em que o Brasil chamou o Meirelles. (\xC9ramos felizes. E sab\xED\
     amos)"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-09-20T21:49:16+00:00'
   description: "<p>As taxas longas de juros abriram hoje pelo segundo dia consecutivo,\
     \ refletindo a vis\xE3o cada vez mais pacificada no mercado de que o Banco Central\
@@ -562,15 +571,6 @@
   image: https://i4.ytimg.com/vi/WI6CqykFbDc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=WI6CqykFbDc
   title: Things (Almost) No One Thinks About When Designing Functions in Python
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-09-20T12:20:32+00:00'
-  description: "Lukasz Pomorski adeptly discusses the good, the bad, and the unknown\
-    \ of sustainable investing while acknowledging that the answer to some of the\
-    \ critical questions is the dreaded \u201Cit depends.\u201D"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/09/20/book-review-the-puzzle-of-sustainable-investment/
-  title: 'Book Review: The Puzzle of Sustainable Investment'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
