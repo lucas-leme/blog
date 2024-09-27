@@ -1,3 +1,19 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-09-27T00:00:00+00:00'
+  description: "After two big economic speeches this week, Ryan Knutson and Molly\
+    \ Ball discuss the candidates\u2019 different economic strategies. Plus, voting\
+    \ has begun! We explore mail in voting and its impact on this election!  Further\
+    \ Listening:  - Red, White and Who? Playlist\_ - Red, White and Who? Why Ohio\
+    \ Could Decide the Senate\_ - Red, White and Who? A Swing-State Debate\_  Further\
+    \ Reading: - Harris Puts Government Intervention at Heart of Economic Policy\_\
+    \ - Trump Says Plan Will Convince Foreign Companies to Shift Jobs to U.S.\_ -\
+    \ Voters Love the Policies That Economists Love to Hate\_   Learn more about your\
+    \ ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a4d7980fcd794200d51e5f347
+  path: https://open.spotify.com/episode/5VtNPfUcsqpMH0BdPYwzWC
+  title: "Red, White and Who? It\u2019s Always the Economy!"
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -38,7 +54,7 @@
   path: https://www.youtube.com/watch?v=nK9zxuXa3OA
   title: "Google Pixel 9 Pro Fold Is So Good! But\u2026"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-09-26T12:01:42+00:00'
   description: Investment consulting is continually evolving. As technology evolves,
@@ -65,7 +81,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-26T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a repetir os mesmos erros econ\xF4micos\
@@ -93,8 +109,7 @@
   path: https://open.spotify.com/episode/4GfgysmktBZ3JKo02G1knc
   title: "#134 | Por que o Brasil est\xE1 CONDENADO a um ciclo INFINITO de CRISES?"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-09-26T00:00:00+00:00'
   description: "Milton Magnus, an Alabama businessman who runs one of the last makers\
     \ of wire hangers in the U.S., has waged a decades-long tariff battle against\
@@ -127,7 +142,7 @@
   path: https://open.spotify.com/episode/6OpnKbSCbGODzejDPjbuxH
   title: 'Ballot box bets: What America''s election means for investors'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-09-25T12:19:23+00:00'
   description: We rely on autopilots in investing. Stephen Foerster draws on lessons
     from aviation to demonstrate that we often don't understand how they work and
@@ -161,7 +176,7 @@
   title: "Flood\_Risk Outside Flood Zones \u2014 A Look at Mortgage Lending in Risky\
     \ Areas"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-09-25T00:00:00+00:00'
   description: "SMALL CAPS MASTERS 2024 | As a\xE7\xF5es com maior potencial de crescimento.\
     \ Retire seu ingresso gratuito para o evento 100% online e gratuito aqui: https://lp.moneytimes.com.br/small-caps-masters-mmk11-a/?xpromo=XE-ME-EMP-MMK11-SUBMMK-NTVYT-MM-XEstamos\
@@ -191,21 +206,6 @@
   path: https://open.spotify.com/episode/1wNx8wejNOk54eRln49lqZ
   title: "O MALABARISMO FISCAL que o governo N\xC3O QUER que voc\xEA saiba! | Corte\
     \ EP #132"
-- author: The Journal.
-  categories: *id003
-  date: '2024-09-25T00:00:00+00:00'
-  description: "Former president Donald Trump wants to be the crypto president. With\
-    \ stops at a bitcoin conference and a bitcoin-themed bar, Trump is tapping into\
-    \ an industry that\u2019s eager to support a crypto-friendly candidate. WSJ\u2019\
-    s Vicky Huang explains how Trump and the crypto industry have cozied up ahead\
-    \ of the 2024 election.  Further Reading: - Trump Hitches His Campaign to the\
-    \ Crypto Crowd\_ - That Time Donald Trump Walked Into a Bar and Bought a Round\
-    \ Using Bitcoin\_ - The Crypto Industry Is Trying to Elect Political Allies. The\
-    \ Stakes Couldn\u2019t Be Higher.\_  Further Listening: - Elon Musk and Silicon\
-    \ Valley Turn Towards Trump\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0ay1T2q6reNWaiPIzv2IBE
-  title: Inside the Trump Crypto Bromance
 - author: Atas do Copom
   categories:
   - Bacen
@@ -638,7 +638,7 @@
     \ my channel so I can continue to provide you with free content each week!"
   image: https://i4.ytimg.com/vi/WI6CqykFbDc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=WI6CqykFbDc
-  title: Things (Almost) No One Thinks About When Designing Functions in Python
+  title: How to Design an AWESOME Function Signature in Python
 - author: RSS - Feeds do BC
   categories:
   - Bacen
