@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id005
+  - Economia
+  date: '2024-09-29T03:57:06+00:00'
+  description: "<p>Num Pa\xEDs viciado em reclamar dos pol\xEDticos, S\xE3o Paulo\
+    \ tem a oportunidade rara de eleger um candidato com conte\xFAdo e integridade\
+    \ \u2013 e dar uma chance \xE0 renova\xE7\xE3o que todos juram desejar. Os paulistanos\
+    \ deveriam eleger Tabata Amaral prefeita, sob pena de n\xE3o poderem mais reclamar\
+    \ da pol\xEDtica. Poucas vezes na hist\xF3ria recente houve um [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/editorial-tabata-amaral-para-prefeita-de-sao-paulo/\"\
+    \ rel=\"nofollow\">EDITORIAL. Tabata Amaral para prefeita de S\xE3o Paulo</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-tabata-amaral-para-prefeita-de-sao-paulo/
+  title: "EDITORIAL. Tabata Amaral para prefeita de S\xE3o Paulo"
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -607,8 +623,7 @@
   path: https://www.youtube.com/watch?v=MRtg6A1f2Ko
   title: 'iPhone 16/16 Pro Review: Times Have Changed!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id005
   date: '2024-09-22T02:39:24+00:00'
   description: "<p>Se o futuro presidente do Banco Central pedisse um conselho a Henrique\
     \ Meirelles, a resposta certamente seria: \u201CMuita calma nessa hora.\u201D\
@@ -623,20 +638,6 @@
   path: https://braziljournal.com/os-momentos-em-que-o-brasil-chamou-o-meirelles-eramos-felizes-e-sabiamos/
   title: "Os momentos em que o Brasil chamou o Meirelles. (\xC9ramos felizes. E sab\xED\
     amos)"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-09-20T21:49:16+00:00'
-  description: "<p>As taxas longas de juros abriram hoje pelo segundo dia consecutivo,\
-    \ refletindo a vis\xE3o cada vez mais pacificada no mercado de que o Banco Central\
-    \ precisar\xE1 atuar de forma mais dura para atingir a meta de infla\xE7\xE3o.\_\
-    \ A NTN-B com vencimento em 2033, que ontem fechou em IPCA + 6,46%, subiu hoje\
-    \ para IPCA + [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/juros-abrem-de-novo-com-quadro-fiscal-pressionando-o-bc/\"\
-    \ rel=\"nofollow\">Juros abrem de novo com quadro fiscal pressionando o BC</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/juros-abrem-de-novo-com-quadro-fiscal-pressionando-o-bc/
-  title: Juros abrem de novo com quadro fiscal pressionando o BC
 - author: ArjanCodes
   categories: *id006
   date: '2024-09-20T15:00:28+00:00'
@@ -668,7 +669,7 @@
     \ my channel so I can continue to provide you with free content each week!"
   image: https://i4.ytimg.com/vi/WI6CqykFbDc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=WI6CqykFbDc
-  title: Things (Almost) No One Thinks About When Designing Functions in Python
+  title: How to Design an AWESOME Function Signature in Python
 - author: RSS - Feeds do BC
   categories:
   - Bacen
