@@ -1,5 +1,34 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-09-30T15:00:18+00:00'
+  description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
+    \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
+    \n\U0001F4E8 The Friday Loop by ArjanCodes Newsletter: https://thefridayloop.com\n\
+    \n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\n\U0001F393 Courses:\n\
+    The Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\nThe Software\
+    \ Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext Level Python:\
+    \ Become a Python Expert: https://www.arjancodes.com/courses/nlp\nThe 30-Day Design\
+    \ Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D If you enjoyed\
+    \ this content, give this video a like. If you want to watch more of my upcoming\
+    \ videos, consider subscribing to my channel!\n\nSocial channels:\n\U0001F4AC\
+    \ Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
+    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
+    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
+    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F3A5 Video edited by\
+    \ Mark Bacskai: https://www.instagram.com/bacskaimark\n\n\U0001F6D2 GEAR & RECOMMENDED\
+    \ BOOKS: https://kit.co/arjancodes\n\n#arjancodes #softwaredesign #python\n\n\
+    DISCLAIMER - The links in this description might be affiliate links. If you purchase\
+    \ a product or service through one of those links, I may receive a small commission.\
+    \ There is no additional charge to you. Thanks for supporting my channel so I\
+    \ can continue to provide you with free content each week!"
+  image: https://i4.ytimg.com/vi/Cuel2RNW6pU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Cuel2RNW6pU
+  title: Design Patterns Love Composition
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2024-09-30T12:21:39+00:00'
   description: Here are some tips to bring your "rusty relationships" back to life.
@@ -28,7 +57,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/09/the-central-banking-beauty-contest/
   title: The Central Banking Beauty Contest
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2024-09-29T03:57:06+00:00'
   description: "<p>Num Pa\xEDs viciado em reclamar dos pol\xEDticos, S\xE3o Paulo\
@@ -44,10 +73,7 @@
   path: https://braziljournal.com/editorial-tabata-amaral-para-prefeita-de-sao-paulo/
   title: "EDITORIAL. Tabata Amaral para prefeita de S\xE3o Paulo"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-09-27T15:00:27+00:00'
   description: "In this video, I explore 7 powerful and lesser-known databases that\
     \ could be game-changers for your next project. I\u2019ll cover what makes each\
@@ -79,7 +105,7 @@
   path: https://www.youtube.com/watch?v=HAv5t2Gq-yU
   title: 7 Powerful Databases Python Developers Should Know
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-09-27T12:01:41+00:00'
   description: Plan sponsors would be wise to focus on investment vehicle choice and
     fee structure. Share class choice impacts fees and investment performance.
@@ -101,7 +127,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27092024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/09/2024"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-09-27T00:00:00+00:00'
   description: "The mayor of America\u2019s largest city likes to say he\u2019s been\
@@ -115,7 +141,7 @@
   path: https://open.spotify.com/episode/6MJ96pKDGpI1xjDKEq5Dcg
   title: "How Eric Adams Became New York City\u2019s First Indicted Mayor"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-09-27T00:00:00+00:00'
   description: "After two big economic speeches this week, Ryan Knutson and Molly\
     \ Ball discuss the candidates\u2019 different economic strategies. Plus, voting\
@@ -130,7 +156,7 @@
   path: https://open.spotify.com/episode/5VtNPfUcsqpMH0BdPYwzWC
   title: "Red, White and Who? It\u2019s Always the Economy!"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-09-26T22:29:28+00:00'
@@ -186,7 +212,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-09-26T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a repetir os mesmos erros econ\xF4micos\
@@ -233,7 +259,7 @@
   path: https://open.spotify.com/episode/6OpnKbSCbGODzejDPjbuxH
   title: 'Ballot box bets: What America''s election means for investors'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-09-25T00:00:00+00:00'
   description: "SMALL CAPS MASTERS 2024 | As a\xE7\xF5es com maior potencial de crescimento.\
     \ Retire seu ingresso gratuito para o evento 100% online e gratuito aqui: https://lp.moneytimes.com.br/small-caps-masters-mmk11-a/?xpromo=XE-ME-EMP-MMK11-SUBMMK-NTVYT-MM-XEstamos\
@@ -585,7 +611,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-09-23T23:23:20+00:00'
   description: 'iPhone 16 is here. Job finished? Job ain''t finished.
 
@@ -631,7 +657,7 @@
   path: https://www.youtube.com/watch?v=MRtg6A1f2Ko
   title: 'iPhone 16/16 Pro Review: Times Have Changed!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2024-09-22T02:39:24+00:00'
   description: "<p>Se o futuro presidente do Banco Central pedisse um conselho a Henrique\
     \ Meirelles, a resposta certamente seria: \u201CMuita calma nessa hora.\u201D\
@@ -646,38 +672,6 @@
   path: https://braziljournal.com/os-momentos-em-que-o-brasil-chamou-o-meirelles-eramos-felizes-e-sabiamos/
   title: "Os momentos em que o Brasil chamou o Meirelles. (\xC9ramos felizes. E sab\xED\
     amos)"
-- author: ArjanCodes
-  categories: *id006
-  date: '2024-09-20T15:00:28+00:00'
-  description: "In this video, I'll show you how to design a great function header\
-    \ in Python. I\u2019ll mention things you probably haven\u2019t considered but\
-    \ that can make or break your code.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/func_design\n\
-    \n\U0001F4A1 Get my FREE 7-step guide to help you consistently design great software:\
-    \ https://arjancodes.com/designguide.\n\n\U0001F4E8 The Friday Loop by ArjanCodes\
-    \ Newsletter: https://thefridayloop.com\n\n\U0001F4BB ArjanCodes Blog: https://www.arjancodes.com/blog\n\
-    \n\u270D\U0001F3FB Take a quiz on this topic: https://www.learntail.com/quiz/awnpbx\n\
-    \n\U0001F393 Courses:\nThe Software Designer Mindset: https://www.arjancodes.com/courses/tsdm\n\
-    The Software Architect Mindset: https://www.arjancodes.com/courses/tsam\nNext\
-    \ Level Python: Become a Python Expert: https://www.arjancodes.com/courses/nlp\n\
-    The 30-Day Design Challenge: https://www.arjancodes.com/courses/30ddc\n\n\U0001F44D\
-    \ If you enjoyed this content, give this video a like. If you want to watch more\
-    \ of my upcoming videos, consider subscribing to my channel!\n\nSocial channels:\n\
-    \U0001F4AC Discord: https://discord.arjan.codes\n\U0001F426 X: https://x.com/arjancodes\n\
-    \U0001F30D LinkedIn: https://www.linkedin.com/company/arjancodes\n\U0001F575 Facebook:\
-    \ https://www.facebook.com/arjancodes\n\U0001F4F1 Instagram: https://www.instagram.com/arjancodes\n\
-    \u266A Tiktok: https://www.tiktok.com/@arjancodes\n\n\U0001F3A5 Video edited by\
-    \ Mark Bacskai: https://www.instagram.com/bacskaimark\n\n\U0001F6D2 GEAR & RECOMMENDED\
-    \ BOOKS: https://kit.co/arjancodes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:20 Function\
-    \ Naming\n5:17 Function Arguments\n8:01 Function Default Arguments\n13:17 Args\
-    \ and Kwargs arguments\n15:56 Options object\n21:05 Return Type\n22:34 Making\
-    \ your function more generic\n27:41 Final thoughts\n\n#arjancodes #softwaredesign\
-    \ #python\n\nDISCLAIMER - The links in this description might be affiliate links.\
-    \ If you purchase a product or service through one of those links, I may receive\
-    \ a small commission. There is no additional charge to you. Thanks for supporting\
-    \ my channel so I can continue to provide you with free content each week!"
-  image: https://i4.ytimg.com/vi/WI6CqykFbDc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=WI6CqykFbDc
-  title: How to Design an AWESOME Function Signature in Python
 - author: The View From Apollo
   categories:
   - Podcasts
