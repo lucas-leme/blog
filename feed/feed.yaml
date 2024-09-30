@@ -1,3 +1,11 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-09-30T12:21:39+00:00'
+  description: Here are some tips to bring your "rusty relationships" back to life.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/09/30/supercharge-your-network-5-tips-to-jumpstart-old-connections/
+  title: 'Supercharge Your Network: 5 Tips to Jumpstart Old Connections'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -71,8 +79,7 @@
   path: https://www.youtube.com/watch?v=HAv5t2Gq-yU
   title: 7 Powerful Databases Python Developers Should Know
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2024-09-27T12:01:41+00:00'
   description: Plan sponsors would be wise to focus on investment vehicle choice and
     fee structure. Share class choice impacts fees and investment performance.
@@ -94,7 +101,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27092024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/09/2024"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-09-27T00:00:00+00:00'
   description: "The mayor of America\u2019s largest city likes to say he\u2019s been\
@@ -108,7 +115,7 @@
   path: https://open.spotify.com/episode/6MJ96pKDGpI1xjDKEq5Dcg
   title: "How Eric Adams Became New York City\u2019s First Indicted Mayor"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-09-27T00:00:00+00:00'
   description: "After two big economic speeches this week, Ryan Knutson and Molly\
     \ Ball discuss the candidates\u2019 different economic strategies. Plus, voting\
@@ -161,15 +168,6 @@
   image: https://i3.ytimg.com/vi/nK9zxuXa3OA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=nK9zxuXa3OA
   title: "Google Pixel 9 Pro Fold Is So Good! But\u2026"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2024-09-26T12:01:42+00:00'
-  description: Investment consulting is continually evolving. As technology evolves,
-    so will our approaches, yet the core of consulting -- relationship-driven, strategic
-    advice -- will remain steadfast..
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/09/26/so-you-want-to-be-an-investment-consultant/
-  title: So, You Want to be an Investment Consultant?
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
