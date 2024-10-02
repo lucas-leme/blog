@@ -1,3 +1,13 @@
+- author: Apricitas Economics
+  categories: &id009
+  - Macro
+  - Newsletters
+  date: '2024-10-02T16:47:11+00:00'
+  description: Trump's Plan for Aggressively High Universal Tariffs Would be Horrible
+    for the US Economy
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5148df76-1202-4eea-8889-acc335431618_2886x1843.png
+  path: https://www.apricitas.io/p/universal-tariffs-are-universally
+  title: Universal Tariffs are Universally Bad
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -841,9 +851,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/An-August-of-Discontent
   title: An August of Discontent
 - author: Apricitas Economics
-  categories: &id010
-  - Macro
-  - Newsletters
+  categories: *id009
   date: '2024-09-04T17:13:25+00:00'
   description: A Detailed Look at How Investments in Clean Energy, Semiconductors,
     & Infrastructure are Reshaping American Economic Geography
@@ -874,7 +882,7 @@
   title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
     Things (S7E11)
 - author: CFA Institute Research and Policy Center
-  categories: &id009
+  categories: &id010
   - CFA
   date: '2024-08-29T00:00:00+00:00'
   description: Common methods of using machine learning to predict stock returns can
@@ -883,21 +891,13 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/choices-matter-when-training-machine-learning-models-for-return-prediction
   title: Choices Matter When Training Machine Learning Models for Return Prediction
 - author: CFA Institute Research and Policy Center
-  categories: *id009
+  categories: *id010
   date: '2024-08-28T00:00:00+00:00'
   description: For decades, lifecycle finance models and mean-variance optimization
     models remained separate, but recent breakthroughs have produced combined models.
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
   title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
-- author: Apricitas Economics
-  categories: *id010
-  date: '2024-08-11T13:30:11+00:00'
-  description: China's Semiconductor Buildout Continues Despite Global Sanctions&#8212;While
-    the US Tries to Catch Up
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdad12b44-7e78-4629-97b4-c9b7adf6fd26_2886x1843.png
-  path: https://www.apricitas.io/p/america-and-chinas-chip-race
-  title: America & China's Chip Race
 - author: AQR
   categories: *id011
   date: '2024-07-30T00:00:00'
