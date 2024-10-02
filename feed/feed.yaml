@@ -1,3 +1,16 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-02T03:32:57+00:00'
+  description: "In this live stream, I'll dive into the code and design of an open-source\
+    \ project together with you. This is going to be completely unscripted, so you'll\
+    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
+    \ a surprise which project I'm going to be reviewing (also for me! :) )."
+  image: https://i4.ytimg.com/vi/CTeydWepUUg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CTeydWepUUg
+  title: Live Code Review | Boto3
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -15,7 +28,7 @@
   path: https://braziljournal.com/lobby-de-lula-funciona-e-brasil-fica-a-um-passo-do-investment-grade/
   title: "Lobby de Lula funciona e Brasil fica a um passo do \u2018investment grade\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-01T14:41:14+00:00'
   description: Are the traditional indicators of consumer sentiment and business confidence
@@ -44,7 +57,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/are-nonbank-financial-institutions-systemic/
   title: Are Nonbank Financial Institutions Systemic?
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-01T00:00:00+00:00'
   description: "Por que o pessimismo extremo est\xE1 criando uma das maiores oportunidades\
@@ -76,7 +89,7 @@
   title: '#135 | CRISES E INCERTEZAS: como aproveitar o pessimismo do mercado para
     lucrar'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-10-01T00:00:00+00:00'
   description: "In less than two years, OpenAI\u2014the company behind ChatGPT\u2014\
@@ -118,10 +131,7 @@
   path: https://braziljournal.com/china-acelera-incentivos-e-xangai-tem-maior-rali-desde-2008/
   title: China acelera incentivos e Xangai tem maior rali desde 2008
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-09-30T15:00:18+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
@@ -147,14 +157,14 @@
   path: https://www.youtube.com/watch?v=Cuel2RNW6pU
   title: "\U0001F49A Design Patterns Love Composition"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-09-30T12:21:39+00:00'
   description: Here are some tips to bring your "rusty relationships" back to life.
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/09/30/supercharge-your-network-5-tips-to-jumpstart-old-connections/
   title: 'Supercharge Your Network: 5 Tips to Jumpstart Old Connections'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-09-30T00:00:00+00:00'
   description: "The Department of Justice is taking Visa, the largest card network\
     \ in the U.S., to court, accusing the company of illegally monopolizing the debit\
@@ -183,7 +193,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27092024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/09/2024"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-09-26T22:29:28+00:00'
@@ -239,7 +249,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-09-26T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a repetir os mesmos erros econ\xF4micos\
     \ do passado? No epis\xF3dio 134 do Market Makers, recebemos Marcos Lisboa (doutor\
@@ -606,7 +616,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-09-23T23:23:20+00:00'
   description: 'iPhone 16 is here. Job finished? Job ain''t finished.
 
@@ -753,16 +763,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20325
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
-- author: ArjanCodes
-  categories: *id006
-  date: '2024-09-17T13:32:41+00:00'
-  description: "In this live stream, I'll dive into the code and design of an open-source\
-    \ project together with you. This is going to be completely unscripted, so you'll\
-    \ see my real-time reactions to the code and how it\u2019s been designed. It's\
-    \ a surprise which project I'm going to be reviewing (also for me! :) )."
-  image: https://i4.ytimg.com/vi/CTeydWepUUg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=CTeydWepUUg
-  title: Live Code Review | Boto3
 - author: Outliers
   categories: &id008
   - Podcasts
