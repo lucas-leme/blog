@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -11,8 +11,43 @@
   image: https://i4.ytimg.com/vi/CTeydWepUUg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CTeydWepUUg
   title: Live Code Review | Boto3
-- author: "Economia \u2013 Brazil Journal"
+- author: Market Makers
   categories: &id001
+  - Podcasts
+  date: '2024-10-02T00:00:00+00:00'
+  description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
+    \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
+    s grandes ganhadores de dinheiro com small caps. Retire esse combo aqui: https://lp.mmakers.com.br/small-caps-masters-mmk11-titas-do-mercado?xpromo=XE-ME-EMP-MMK11-SUBMMK-YT-NTVYT-XAssine\
+    \ a CompoundLetter, a melhor newsletter gratuita do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XPor\
+    \ que o Brasil est\xE1 falhando em resolver a crise habitacional, mesmo com programas\
+    \ como o Minha Casa Minha Vida?No Brasil, programas habitacionais como o Minha\
+    \ Casa Minha Vida sempre foram alvo de discuss\xF5es e debates. Enquanto muitos\
+    \ criticam os gastos p\xFAblicos, outros apontam que o Brasil investe apenas 9,7%\
+    \ do PIB em cr\xE9dito imobili\xE1rio. Mas qual \xE9 a raiz do problema? E quais\
+    \ s\xE3o as solu\xE7\xF5es?\_Marcos Lisboa traz uma an\xE1lise sobre as verdadeiras\
+    \ causas do d\xE9ficit habitacional no pa\xEDs, a influ\xEAncia dos lobbies, e\
+    \ por que pol\xEDticas p\xFAblicas como essas n\xE3o conseguem gerar cidades mais\
+    \ modernas e sustent\xE1veis. Ser\xE1 que estamos olhando para as refer\xEAncias\
+    \ certas quando pensamos em urbanismo e infraestrutura?\_Marcos Lisboa comenta\
+    \ por que cidades como Nova York, Lisboa e Barcelona t\xEAm sucesso, enquanto\
+    \ o Brasil parece estar preso em uma regula\xE7\xE3o urbana ultrapassada e na\
+    \ resist\xEAncia das elites.O que voc\xEA acha que est\xE1 faltando para o Brasil\
+    \ ter cidades mais modernas e habit\xE1veis?Se voc\xEA gostou do conte\xFAdo,\
+    \ n\xE3o esque\xE7a de deixar o seu like e se inscrever no canal para mais an\xE1\
+    lises sobre economia e mercado financeiro.\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO\
+    \ NO YOUTUBE:\_https://youtu.be/rwAu355xtFcCom o cupom MARKETMAKERS15, voc\xEA\
+    \ garante 15% OFF na sua primeira compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers-\
+    \ - - - - - - - -\_A VERDADEIRA RAZ\xC3O por tr\xE1s da crise habitacional no\
+    \ Brasil | Market Makers #134Apresenta\xE7\xE3o: Thiago Salom\xE3o (@_salomoney)\
+    \ e Arthur Doracio Rezende (Presidente do N\xFAcleo de Finan\xE7as do Insper)Convidado:\
+    \ Marcos Lisboa, doutor em economia e presidente do InsperEdi\xE7\xE3o: Bianca\
+    \ Barsotti e Lucas ZanardoBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a9ad654b746996453ae6dfea3
+  path: https://open.spotify.com/episode/3gIac5YifC2ihxBEYmSFVu
+  title: "A VERDADEIRA RAZ\xC3O por tr\xE1s da CRISE HABITACIONAL no Brasil | Corte\
+    \ EP #134"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2024-10-01T23:55:58+00:00'
   description: "<p>Em sua recente viagem a Nova York, o Presidente Lula pediu para\
@@ -28,7 +63,7 @@
   path: https://braziljournal.com/lobby-de-lula-funciona-e-brasil-fica-a-um-passo-do-investment-grade/
   title: "Lobby de Lula funciona e Brasil fica a um passo do \u2018investment grade\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-10-01T14:41:14+00:00'
   description: Are the traditional indicators of consumer sentiment and business confidence
@@ -57,8 +92,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/are-nonbank-financial-institutions-systemic/
   title: Are Nonbank Financial Institutions Systemic?
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2024-10-01T00:00:00+00:00'
   description: "Por que o pessimismo extremo est\xE1 criando uma das maiores oportunidades\
     \ para investir na Bolsa?Em meio a crises e incertezas econ\xF4micas, do impeachment\
@@ -89,7 +123,7 @@
   title: '#135 | CRISES E INCERTEZAS: como aproveitar o pessimismo do mercado para
     lucrar'
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-01T00:00:00+00:00'
   description: "In less than two years, OpenAI\u2014the company behind ChatGPT\u2014\
@@ -117,7 +151,7 @@
   path: https://theovershoot.co/p/us-inflation-is-still-hotter-than
   title: U.S. Inflation Is Still Hotter than Pre-Pandemic. And that's Okay.
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-09-30T16:36:46+00:00'
   description: "<p>Em uma nova rodada de a\xE7\xF5es de incentivos para a economia,\
     \ a China flexibilizou regras para a compra de im\xF3veis em tr\xEAs das maiores\
@@ -131,7 +165,7 @@
   path: https://braziljournal.com/china-acelera-incentivos-e-xangai-tem-maior-rali-desde-2008/
   title: China acelera incentivos e Xangai tem maior rali desde 2008
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-09-30T15:00:18+00:00'
   description: "\U0001F477 Join the FREE Code Diagnosis Workshop to help you review\
     \ code more effectively using my 3-Factor Diagnosis Framework: https://www.arjancodes.com/diagnosis.\n\
@@ -157,14 +191,14 @@
   path: https://www.youtube.com/watch?v=Cuel2RNW6pU
   title: "\U0001F49A Design Patterns Love Composition"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-09-30T12:21:39+00:00'
   description: Here are some tips to bring your "rusty relationships" back to life.
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/09/30/supercharge-your-network-5-tips-to-jumpstart-old-connections/
   title: 'Supercharge Your Network: 5 Tips to Jumpstart Old Connections'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-09-30T00:00:00+00:00'
   description: "The Department of Justice is taking Visa, the largest card network\
     \ in the U.S., to court, accusing the company of illegally monopolizing the debit\
@@ -248,33 +282,6 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
-- author: Market Makers
-  categories: *id005
-  date: '2024-09-26T00:00:00+00:00'
-  description: "O Brasil est\xE1 condenado a repetir os mesmos erros econ\xF4micos\
-    \ do passado? No epis\xF3dio 134 do Market Makers, recebemos Marcos Lisboa (doutor\
-    \ em economia e presidente do Insper) para falar sobre a situa\xE7\xE3o atual\
-    \ brasileira, em um papo para o N\xFAcleo de Finan\xE7as do Insper onde analisamos\
-    \ a trajet\xF3ria econ\xF4mica brasileira e discutimos temas cruciais como a tradi\xE7\
-    \xE3o autorit\xE1ria, inseguran\xE7a jur\xEDdica, e como isso afeta o crescimento\
-    \ econ\xF4mico do pa\xEDs.Lisboa exp\xF5e o desafio da d\xEDvida p\xFAblica, a\
-    \ natureza c\xEDclica das crises no Brasil e o papel de atores pol\xEDticos de\
-    \ esquerda e direita, que muitas vezes parecem estar mais pr\xF3ximos do que imaginamos.\
-    \ Debatemos tamb\xE9m sobre o artigo recente de Marcos Mendes, a volta da corrup\xE7\
-    \xE3o no cen\xE1rio brasileiro e a luta constante para evitar as armadilhas do\
-    \ passado.\_O que realmente impede o Brasil de avan\xE7ar? E por que temos dificuldade\
-    \ em seguir exemplos internacionais de sucesso? Voc\xEA acredita que o Brasil\
-    \ ainda tem chance de mudar seu destino econ\xF4mico ou estamos presos em um ciclo\
-    \ vicioso e desastroso?Agradecimento especial para: Vitor Silveira Cabana, Henrique\
-    \ Kenzo Ishizaki, Ricardo de Souza Coutinho, Felipe Keutenedjian Zimmermann, Arthur\
-    \ Doracio Rezende, Lorenzzo Orletti, Jo\xE3o Pinheiro e Gabriel Crippa.Apresenta\xE7\
-    \xE3o: Thiago Salom\xE3o (@_salomoney) e Arthur Doracio Rezende (Presidente do\
-    \ N\xFAcleo de Finan\xE7as do Insper)Convidado: Marcos Lisboa, doutor em economia\
-    \ e presidente do InsperEdi\xE7\xE3o: Bianca Barsotti e Lucas ZanardoBecome a\
-    \ supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a60ec89652a47dc6942e1724b
-  path: https://open.spotify.com/episode/4GfgysmktBZ3JKo02G1knc
-  title: "#134 | Por que o Brasil est\xE1 CONDENADO a um ciclo INFINITO de CRISES?"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
