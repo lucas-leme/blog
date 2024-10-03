@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-10-03T00:00:00+00:00'
+  description: "Under CEO John Donahoe, Nike pulled away from retailers and ramped\
+    \ up production of its classic sneaker lines. Now sales have plummeted, the company\
+    \ has lost market share to competitors and Donahoe is stepping down. WSJ's Inti\
+    \ Pacheco discusses what went wrong.  Further Reading: -Nike CEO John Donahoe\
+    \ Stepping Down After Rocky Tenure\_ -How Nike Missed the Boom in Running Culture\_\
+    \ -Nike Reverses Course as Innovation Stalls and Rivals Gain Ground\_  Further\
+    \ Listening: -Nike\u2019s Sneaky Sneaker Thieves\_ -How Allbirds Lost Its Footing\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1547viNseZOTuey8TbGIPY
+  title: The Missteps That Led Nike Off Course
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -70,7 +85,7 @@
   path: https://www.youtube.com/watch?v=CTeydWepUUg
   title: Live Code Review | Boto3
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-02T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
@@ -105,8 +120,7 @@
   title: "A VERDADEIRA RAZ\xC3O por tr\xE1s da CRISE HABITACIONAL no Brasil | Corte\
     \ EP #134"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2024-10-02T00:00:00+00:00'
   description: "Israel is now fighting on multiple fronts, after clashing with Hezbollah\
     \ in Lebanon and sustaining Iranian strikes yesterday. WSJ\u2019s Michael Amon\
@@ -169,7 +183,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/01/what-determines-consumer-sentiment-and-business-confidence/
   title: What Determines Consumer Sentiment and Business Confidence?
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-10-01T00:00:00+00:00'
   description: "Por que o pessimismo extremo est\xE1 criando uma das maiores oportunidades\
     \ para investir na Bolsa?Em meio a crises e incertezas econ\xF4micas, do impeachment\
@@ -199,22 +213,6 @@
   path: https://open.spotify.com/episode/6Xhp6DXdbGtXU13goDU7z0
   title: '#135 | CRISES E INCERTEZAS: como aproveitar o pessimismo do mercado para
     lucrar'
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-01T00:00:00+00:00'
-  description: "In less than two years, OpenAI\u2014the company behind ChatGPT\u2014\
-    has gone from a little-known nonprofit lab to a world-famous organization at the\
-    \ forefront of an artificial intelligence revolution. But the company has faced\
-    \ a series of challenges, culminating last week in another high-profile departure\
-    \ and the decision to become a for-profit corporation. WSJ\u2019s Deepa Seetharaman\
-    \ discusses the permanent change to OpenAI's ethos and what it could mean for\
-    \ the AI industry.  Further Listening:  - Artificial: The OpenAI Story\_ - Artificial:\
-    \ Episode 1, The Dream\_  Further Reading: - Turning OpenAI Into a Real Business\
-    \ Is Tearing It Apart\_ - OpenAI\u2019s Complex Path to Becoming a For-Profit\
-    \ Company\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1TEBsqcThoxU0dKqt5YCfy
-  title: The Big Changes Tearing OpenAI Apart
 - author: The Overshoot
   categories: &id008
   - Macro
