@@ -1,5 +1,19 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-04T00:00:00+00:00'
+  description: "The vice-presidential candidates took center stage at a debate this\
+    \ week. Ryan Knutson talks with Molly Ball about the important takeaways, and\
+    \ Rachel Humphreys speaks to a listener about why she\u2019s thinking about climate\
+    \ change this election.\_  Further Listening:  - Red, White and Who? Playlist\_\
+    \ - Red, White and Who? It's Always the Economy!\_ - Red, White and Who? Why Ohio\
+    \ Could Decide the Senate\_  Further Reading: - JD Vance\u2019s Version of Trump\
+    \ Is Better Than the Real Thing\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a9c247cc961514904408c3097
+  path: https://open.spotify.com/episode/5K5X5d8DHDOYik1gq25Ejm
+  title: Red, White and Who? Veep! Veep! All Eyes On Vance and Walz
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-03T00:00:00+00:00'
   description: "EBOOK GRATUITO (Li Lu: a hist\xF3ria do Warren Buffett Chin\xEAs):\
@@ -20,8 +34,7 @@
   path: https://open.spotify.com/episode/72aDxle4TUc7ifH3JvtEYw
   title: "#136 | 37 anos de experi\xEAncia de mercado em 2 horas e 22 minutos"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-10-03T00:00:00+00:00'
   description: "Under CEO John Donahoe, Nike pulled away from retailers and ramped\
     \ up production of its classic sneaker lines. Now sales have plummeted, the company\
@@ -65,7 +78,7 @@
   path: https://www.apricitas.io/p/universal-tariffs-are-universally
   title: Universal Tariffs are Universally Bad
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -95,7 +108,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/exposure-to-generative-ai-and-expectations-about-inequality/
   title: Exposure to Generative AI and Expectations About Inequality
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-10-02T03:32:57+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this live stream, I'll dive into the code and design of an open-source project\
@@ -106,7 +119,7 @@
   path: https://www.youtube.com/watch?v=CTeydWepUUg
   title: Live Code Review | Boto3
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-10-02T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
     \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
@@ -139,20 +152,6 @@
   path: https://open.spotify.com/episode/3gIac5YifC2ihxBEYmSFVu
   title: "A VERDADEIRA RAZ\xC3O por tr\xE1s da CRISE HABITACIONAL no Brasil | Corte\
     \ EP #134"
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-02T00:00:00+00:00'
-  description: "Israel is now fighting on multiple fronts, after clashing with Hezbollah\
-    \ in Lebanon and sustaining Iranian strikes yesterday. WSJ\u2019s Michael Amon\
-    \ explains the growing risk of an all-out regional war.\_\_  Further Reading:\
-    \ - Israel Clashes With Hezbollah in Lebanon\_ - Israeli Response to Iran\u2019\
-    s Attack to Set Course of Widening War\_ - Israeli Review Shows Minor Damage From\
-    \ Iran\u2019s Missile Barrage\_  Further Listening: - Exploding Pagers and the\
-    \ Risk of a Spreading War\_ - The Brutal Calculation of Hamas\u2019s Leader\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1Hyu4hXKXnAr4jPVCUsCnW
-  title: The Risk of an All-Out War in the Middle East
 - author: Outliers
   categories: &id007
   - Podcasts
