@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id004
+  - CFA
+  date: '2024-10-04T12:23:12+00:00'
+  description: These research results should give investors greater confidence in
+    the robustness of factor premiums, reinforcing their utility in crafting effective
+    investment strategies.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/04/factor-premiums-an-eternal-feature-of-financial-markets/
+  title: 'Factor Premiums: An Eternal Feature of Financial Markets'
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -177,7 +187,7 @@
   path: https://open.spotify.com/episode/2xC0AB8cfMtN1SdOIFY5UO
   title: "#138 - \u201DA Salva\xE7\xE3o e\u0301 pelo risco\u201D - Duda Rocha da Occam"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-10-01T23:55:58+00:00'
   description: "<p>Em sua recente viagem a Nova York, o Presidente Lula pediu para\
@@ -193,8 +203,7 @@
   path: https://braziljournal.com/lobby-de-lula-funciona-e-brasil-fica-a-um-passo-do-investment-grade/
   title: "Lobby de Lula funciona e Brasil fica a um passo do \u2018investment grade\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id004
   date: '2024-10-01T14:41:14+00:00'
   description: Are the traditional indicators of consumer sentiment and business confidence
     relevant anymore?
@@ -213,7 +222,7 @@
   path: https://theovershoot.co/p/us-inflation-is-still-hotter-than
   title: U.S. Inflation Is Still Hotter than Pre-Pandemic. And that's Okay.
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-09-30T16:36:46+00:00'
   description: "<p>Em uma nova rodada de a\xE7\xF5es de incentivos para a economia,\
     \ a China flexibilizou regras para a compra de im\xF3veis em tr\xEAs das maiores\
@@ -226,13 +235,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/china-acelera-incentivos-e-xangai-tem-maior-rali-desde-2008/
   title: China acelera incentivos e Xangai tem maior rali desde 2008
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-09-30T12:21:39+00:00'
-  description: Here are some tips to bring your "rusty relationships" back to life.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/09/30/supercharge-your-network-5-tips-to-jumpstart-old-connections/
-  title: 'Supercharge Your Network: 5 Tips to Jumpstart Old Connections'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
