@@ -1,8 +1,19 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-10-05T15:00:31+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F44D If you enjoyed this content, give this video a like. If you want\
+    \ to watch more of my upcoming videos, consider subscribing to my channel!\n\n\
+    \U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i1.ytimg.com/vi/P-N01AeMoX8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=P-N01AeMoX8
+  title: Understanding Composition Over Inheritance
+- author: ArjanCodes
+  categories: *id001
   date: '2024-10-04T15:00:47+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I\u2019ll cover 10 things about Git you probably don\u2019t know.\
@@ -44,7 +55,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/04/factor-premiums-an-eternal-feature-of-financial-markets/
   title: 'Factor Premiums: An Eternal Feature of Financial Markets'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-04T00:00:00+00:00'
   description: "Last month, Microsoft and Constellation Energy announced a deal to\
@@ -59,7 +70,7 @@
   path: https://open.spotify.com/episode/4XqVGsDt6zpmeeB77J9F3P
   title: Why Microsoft Wants Three Mile Island's Nuclear Power
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-04T00:00:00+00:00'
   description: "The vice-presidential candidates took center stage at a debate this\
     \ week. Ryan Knutson talks with Molly Ball about the important takeaways, and\
@@ -122,17 +133,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5148df76-1202-4eea-8889-acc335431618_2886x1843.png
   path: https://www.apricitas.io/p/universal-tariffs-are-universally
   title: Universal Tariffs are Universally Bad
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-10-02T15:00:32+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F44D If you enjoyed this content, give this video a like. If you want\
-    \ to watch more of my upcoming videos, consider subscribing to my channel!\n\n\
-    \U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i2.ytimg.com/vi/M9S0wqiTtcg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=M9S0wqiTtcg
-  title: "Things Senior Developers Can\u2019t Stand"
 - author: Liberty Street Economics
   categories:
   - Macro
