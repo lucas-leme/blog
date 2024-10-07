@@ -1,3 +1,34 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-10-07T10:27:42+00:00'
+  description: With its large youth sector, thriving startup and fintech ecosystems,
+    and a close relationship with the United States, Mexico represents a significant
+    investment destination for those looking to diversify their portfolios and capitalize
+    on the myriad of opportunities.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/07/investment-opportunities-in-mexico/
+  title: Investment Opportunities in Mexico
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2024-10-07T00:00:00+00:00'
+  description: "In this episode, I speak with Farouk Jivraj, Portfolio Manager and\
+    \ Head of Alternative Risk Premia at Fidelity Investments\u2019 Asset Management\
+    \ Solutions division.After spending nearly a decade on the sell side, Farouk joined\
+    \ Fidelity in 2021 with the goal of building out an alternative risk premium platform,\
+    \ tapping into the best of what both the sell-side QIS desks have to offer and\
+    \ what can be built in-house.We spend the majority of the conversation peeling\
+    \ apart the layers of Farouk\u2019s 5-step process for implementing alternative\
+    \ risk premia strategies.  He shares his thoughts on how to classify different\
+    \ premia, why thoughtfully-constructed peer groups are an important evaluation\
+    \ tool, how to go about selecting specific strategies, how to construct portfolios\
+    \ of alternative risk premia, and the actual rubber-meets-road implementation\
+    \ practicalities.Please enjoy my conversation with Farouk Jivraj."
+  image: https://i.scdn.co/image/ab6765630000ba8a6c00ca55fc6c959fd6093f8f
+  path: https://open.spotify.com/episode/77Iel7u4jtQQm5JX0dhdTB
+  title: Farouk Jivraj - The Art & Science of Using Alternative Risk Premia (S7E12)
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -45,8 +76,7 @@
   path: https://www.youtube.com/watch?v=bVnsBnnW3Tw
   title: "10 Git Features You DON\u2019T Want to Miss Out On"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-10-04T12:23:12+00:00'
   description: These research results should give investors greater confidence in
     the robustness of factor premiums, reinforcing their utility in crafting effective
@@ -55,7 +85,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/04/factor-premiums-an-eternal-feature-of-financial-markets/
   title: 'Factor Premiums: An Eternal Feature of Financial Markets'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-04T00:00:00+00:00'
   description: "Last month, Microsoft and Constellation Energy announced a deal to\
@@ -70,7 +100,7 @@
   path: https://open.spotify.com/episode/4XqVGsDt6zpmeeB77J9F3P
   title: Why Microsoft Wants Three Mile Island's Nuclear Power
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-10-04T00:00:00+00:00'
   description: "The vice-presidential candidates took center stage at a debate this\
     \ week. Ryan Knutson talks with Molly Ball about the important takeaways, and\
@@ -83,7 +113,7 @@
   path: https://open.spotify.com/episode/5K5X5d8DHDOYik1gq25Ejm
   title: Red, White and Who? Veep! Veep! All Eyes On Vance and Walz
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-10-03T00:00:00+00:00'
   description: "EBOOK GRATUITO (Li Lu: a hist\xF3ria do Warren Buffett Chin\xEAs):\
@@ -150,7 +180,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/exposure-to-generative-ai-and-expectations-about-inequality/
   title: Exposure to Generative AI and Expectations About Inequality
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-10-02T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
     \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
@@ -223,14 +253,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/lobby-de-lula-funciona-e-brasil-fica-a-um-passo-do-investment-grade/
   title: "Lobby de Lula funciona e Brasil fica a um passo do \u2018investment grade\u2019"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-10-01T14:41:14+00:00'
-  description: Are the traditional indicators of consumer sentiment and business confidence
-    relevant anymore?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/01/what-determines-consumer-sentiment-and-business-confidence/
-  title: What Determines Consumer Sentiment and Business Confidence?
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -853,29 +875,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b6cf9f0-e6ef-4df6-9c82-7c29fe8b352f_2886x1843.png
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2024-09-02T00:00:00+00:00'
-  description: "In this episode I chat with Giuseppe Paleologo \u2013\_or Gappy as\
-    \ he likes to be called.  Currently on garden leave, Gappy has previously worked\
-    \ in Risk & Quantitative Analytics at Citadel, as Head of Enterprise Risk at Millennium,\
-    \ and most recently as Head of Risk Management at HRT.We begin the conversation\
-    \ with a discussion as to what a quant researcher actually does at a multi-manager\
-    \ hedge fund.  As a semi-support role to the fundamental PMs, Gappy explains how\
-    \ portfolio manager coverage, factor hedging, and internal alpha capture can all\
-    \ work together to help maximize firm P&amp;L.We then discuss the broad field\
-    \ of factor research and portfolio construction, where Gappy shares some of his\
-    \ strongly held views, both on how factors should be constructed as well as how\
-    \ they should be utilized.  Topics include returns versus characteristics, mixing\
-    \ versus integrating alpha signals, single- versus multi-period optimization,\
-    \ and linear- versus non-linear models.Please enjoy my conversation with Giuseppe\
-    \ Paleologo."
-  image: https://i.scdn.co/image/ab6765630000ba8afba7bcfde9325e55f61cb8c3
-  path: https://open.spotify.com/episode/6NbQI7GFMUU0e8x1njTcP8
-  title: Giuseppe Paleologo - Multi-Manager Hedge Funds & Thinking Deeply About Simple
-    Things (S7E11)
 - author: CFA Institute Research and Policy Center
   categories: &id010
   - CFA
