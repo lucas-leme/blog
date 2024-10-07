@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-07T12:50:00+00:00'
+  description: "Disputa ser\xE1 no dia 27 de outubro, e a campanha eleitoral j\xE1\
+    \ come\xE7a nesta segunda-feira"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/em-quais-cidades-havera-segundo-turno-nas-eleicoes-2024/
+  title: "Em quais cidades haver\xE1 segundo turno nas elei\xE7\xF5es 2024?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fxz25l/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-07T00:44:00+00:00'
   description: "Ambos obtiveram 29% dos votos v\xE1lidos e cerca de 30 mil votos de\
     \ diferen\xE7a"
@@ -43,15 +51,6 @@
   path: https://investnews.com.br/economia/em-eleicao-acirrada-nunes-e-boulos-superam-marcal-e-vao-ao-2o-turno-em-sp/
   title: "Em elei\xE7\xE3o acirrada, Nunes e Boulos superam Mar\xE7al e v\xE3o ao\
     \ 2\xBA turno em SP"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-06T20:32:00+00:00'
-  description: "Alta procura neste domingo (6) causou lentid\xE3o e fila virtual na\
-    \ ferramenta da Justi\xE7a Eleitoral"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ficou-sem-justificar-voto-no-1o-turno-por-falhas-no-e-titulo-veja-como-fazer/
-  title: "Ficou sem justificar voto no 1\xBA turno por falhas no e-T\xEDtulo? Veja\
-    \ como fazer"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
