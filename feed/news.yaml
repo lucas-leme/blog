@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-10-08T17:39:53+00:00'
+  description: "Mesmo com crescimento econ\xF4mico no 3\xBA trimestre, pesquisa mostra\
+    \ d\xFAvidas com riscos geopol\xEDticos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/apos-boom-olimpico-franca-sofre-ressaca-com-alta-da-incerteza-economica/
+  title: "Ap\xF3s boom-ol\xEDmpico, Fran\xE7a sofre ressaca com alta da incerteza\
+    \ econ\xF4mica"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-10-08T12:05:01+00:00'
   description: "Legisla\xE7\xE3o pretende evitar emiss\xF5es de 705 milh\xF5es de\
     \ toneladas de di\xF3xido de carbono at\xE9 2037"
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/economia/lei-do-combustivel-do-futuro-pode-destravar-r-260-bilhoes-em-investimentos/
   title: "Lei do combust\xEDvel do futuro pode destravar R$ 260 bilh\xF5es em investimentos"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -29,7 +38,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fyw5pt/official_august_2024_level_1_results_megathread/
   title: Official August 2024 Level 1 Results Megathread
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2024-10-08T05:04:36+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>They will be removed. Use the\
     \ megathread. It\u2019s scheduled to go live in a few hours.</p> <p>Good luck\
@@ -40,14 +49,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1fys76m/psa_do_not_submit_separate_results_posts/
   title: 'PSA: Do Not Submit Separate Results Posts'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-07T17:55:52+00:00'
-  description: "Candidatos com ideologia pr\xF3-mercado avan\xE7am na parte das prefeituras\
-    \ \u2013 e d\xE3o o tom das elei\xE7\xF5es 2026."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eleicoes-2024-um-1o-turno-amigo-da-faria-lima/
-  title: "Elei\xE7\xF5es 2024: um 1\xBA turno amigo da Faria Lima"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"

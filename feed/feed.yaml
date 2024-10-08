@@ -648,6 +648,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
+- author: CFA Institute Research and Policy Center
+  categories: &id010
+  - CFA
+  date: '2024-09-24T00:00:00+00:00'
+  description: New evidence indicates that different types of subjective expectations
+    have time-varying roles in explaining stock price variations.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/time-varying-drivers-of-stock-prices
+  title: Time-Varying Drivers of Stock Prices
 - author: Marques Brownlee
   categories: *id006
   date: '2024-09-23T23:23:20+00:00'
@@ -855,22 +864,13 @@
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
 - author: CFA Institute Research and Policy Center
-  categories: &id010
-  - CFA
+  categories: *id010
   date: '2024-08-29T00:00:00+00:00'
   description: Common methods of using machine learning to predict stock returns can
     be suboptimal. This study proposes new strategies that offer improvements
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/choices-matter-when-training-machine-learning-models-for-return-prediction
   title: Choices Matter When Training Machine Learning Models for Return Prediction
-- author: CFA Institute Research and Policy Center
-  categories: *id010
-  date: '2024-08-28T00:00:00+00:00'
-  description: For decades, lifecycle finance models and mean-variance optimization
-    models remained separate, but recent breakthroughs have produced combined models.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/importance-of-joining-lifecycle-models-with-mean-variance-optimization
-  title: The Importance of Joining Lifecycle Models with Mean-Variance Optimization
 - author: AQR
   categories: *id011
   date: '2024-07-30T00:00:00'
