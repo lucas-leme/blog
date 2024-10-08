@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-08T20:21:55+00:00'
+  description: "Com 66 votos a favor e 5 contra, Gal\xEDpolo vai assumir o cargo em\
+    \ 2025"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/senado-aprova-gabriel-galipolo-para-a-presidencia-do-banco-central/
+  title: "Senado aprova Gabriel Gal\xEDpolo para a presid\xEAncia do Banco Central"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-10-08T19:20:02+00:00'
   description: Em 2024 e 2025, pesquisa vai coletar dados de despesas com apostas
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/economia/ibge-inclui-gastos-com-bets-em-nova-pesquisa-do-orcamento-familiar/
   title: "IBGE inclui gastos com bets em nova pesquisa do or\xE7amento familiar"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-08T18:32:37+00:00'
   description: "Sabatina foi tranquila e teve quase quatro horas de dura\xE7\xE3o."
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -17,7 +25,7 @@
   title: "Gal\xEDpolo \xE9 aprovado em comiss\xE3o do Senado para presid\xEAncia do\
     \ BC"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-10-08T17:39:53+00:00'
   description: "Mesmo com crescimento econ\xF4mico no 3\xBA trimestre, pesquisa mostra\
     \ d\xFAvidas com riscos geopol\xEDticos"
@@ -26,7 +34,7 @@
   title: "Ap\xF3s boom-ol\xEDmpico, Fran\xE7a sofre ressaca com alta da incerteza\
     \ econ\xF4mica"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -47,7 +55,7 @@
   path: https://www.reddit.com/r/CFA/comments/1fyw5pt/official_august_2024_level_1_results_megathread/
   title: Official August 2024 Level 1 Results Megathread
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2024-10-08T05:04:36+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>They will be removed. Use the\
     \ megathread. It\u2019s scheduled to go live in a few hours.</p> <p>Good luck\
@@ -58,12 +66,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1fys76m/psa_do_not_submit_separate_results_posts/
   title: 'PSA: Do Not Submit Separate Results Posts'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2024-10-04T15:04:43+00:00'
-  description: "N\xFAmeros do payroll divulgados nesta sexta-feira superaram em muito\
-    \ as estimativas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ex-ceo-da-pimco-alerta-fed-apos-payroll-inflacao-nao-esta-morta/
-  title: "Ex-CEO da Pimco alerta o Fed ap\xF3s payroll surpreendente: \u2018A infla\xE7\
-    \xE3o n\xE3o est\xE1 morta\u2019"

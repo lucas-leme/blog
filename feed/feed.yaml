@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-08T00:00:00+00:00'
+  description: "WSJ reporting has revealed a major cyberattack from a group tied to\
+    \ the Chinese government. Hackers penetrated the networks of several broadband\
+    \ providers and gained access to the U.S. domestic wiretapping system. Dustin\
+    \ Volz unpacks what the attack could mean for national security.  Further Listening:\
+    \  - \u2018Hack Me If You Can\u2019\_ - Hacking the Hackers\_  Further Reading:\
+    \ - U.S. Wiretap Systems Targeted in China-Linked Hack\_ - Chinese-Linked Hackers\
+    \ Breach U.S. Internet Providers in New \u2018Salt Typhoon\u2019 Cyberattack\_\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5phhmuoknY2QXXQFovMaKz
+  title: The Chinese Hackers Spying on U.S. Internet Traffic
 - author: "Economia \u2013 Brazil Journal"
   categories: &id005
   - Economia
@@ -16,7 +31,7 @@
   title: "A China quer fabricar um bull market, diz a Gavekal. (\u2018Compre\u2019\
     \ anyway)"
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -45,7 +60,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/what-do-climate-risk-indices-measure/
   title: What Do Climate Risk Indices Measure?
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-07T10:27:42+00:00'
   description: With its large youth sector, thriving startup and fintech ecosystems,
@@ -56,8 +71,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/07/investment-opportunities-in-mexico/
   title: Investment Opportunities in Mexico
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-10-07T00:00:00+00:00'
   description: "Asheville, North Carolina, was thriving until floodwaters and heavy\
     \ wind from Hurricane Helene ripped through the region and destroyed large parts\
@@ -91,7 +105,7 @@
   path: https://open.spotify.com/episode/77Iel7u4jtQQm5JX0dhdTB
   title: Farouk Jivraj - The Art & Science of Using Alternative Risk Premia (S7E12)
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-10-05T15:00:31+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -100,7 +114,7 @@
   path: https://www.youtube.com/watch?v=P-N01AeMoX8
   title: "\u2696\uFE0F Understanding Composition Over Inheritance"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-04T12:23:12+00:00'
   description: These research results should give investors greater confidence in
     the robustness of factor premiums, reinforcing their utility in crafting effective
@@ -122,20 +136,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/04102024
   title: "BC - Focus - Relat\xF3rio de Mercado - 04/10/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-04T00:00:00+00:00'
-  description: "Last month, Microsoft and Constellation Energy announced a deal to\
-    \ restart Pennsylvania\u2019s Three Mile Island, the site of the country\u2019\
-    s worst nuclear power accident. WSJ\u2019s Jennifer Hiller reports that the goal\
-    \ is to power the tech giant\u2019s growing artificial intelligence ambitions.\
-    \  Further Listening:  - Artificial: The OpenAI Story\_ - Microsoft CEO Satya\
-    \ Nadella's Big Bet on AI\_  Further Reading: - Three Mile Island\u2019s Nuclear\
-    \ Plant to Reopen, Help Power Microsoft\u2019s AI Centers\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/4XqVGsDt6zpmeeB77J9F3P
-  title: Why Microsoft Wants Three Mile Island's Nuclear Power
 - author: Market Makers
   categories: &id004
   - Podcasts
