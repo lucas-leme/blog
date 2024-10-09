@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-10-09T11:22:50+00:00'
+  description: "Insitutional investors who have doggedly pursued active management\
+    \ should head the advice of tennis great Bill Tilden: \u201CNever change a winning\
+    \ game; always change a losing one.\u201D"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/09/are-institutional-investors-meeting-their-goals-spotlight-on-earnings-objectives/
+  title: Are Institutional Investors Meeting Their Goals? Spotlight on Earnings Objectives
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -26,7 +36,7 @@
   path: https://open.spotify.com/episode/1FMwvHq6KYMmfScBOmbyT6
   title: "#137 | ISRAEL E IR\xC3: estamos \xE0 beira de uma GUERRA TOTAL?"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-08T00:00:00+00:00'
   description: "WSJ reporting has revealed a major cyberattack from a group tied to\
@@ -58,7 +68,7 @@
   title: "A China quer fabricar um bull market, diz a Gavekal. (\u2018Compre\u2019\
     \ anyway)"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -87,8 +97,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/what-do-climate-risk-indices-measure/
   title: What Do Climate Risk Indices Measure?
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-10-07T10:27:42+00:00'
   description: With its large youth sector, thriving startup and fintech ecosystems,
     and a close relationship with the United States, Mexico represents a significant
@@ -98,7 +107,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/07/investment-opportunities-in-mexico/
   title: Investment Opportunities in Mexico
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-07T00:00:00+00:00'
   description: "Asheville, North Carolina, was thriving until floodwaters and heavy\
     \ wind from Hurricane Helene ripped through the region and destroyed large parts\
@@ -132,7 +141,7 @@
   path: https://open.spotify.com/episode/77Iel7u4jtQQm5JX0dhdTB
   title: Farouk Jivraj - The Art & Science of Using Alternative Risk Premia (S7E12)
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-10-05T15:00:31+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -140,15 +149,6 @@
   image: https://i1.ytimg.com/vi/P-N01AeMoX8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=P-N01AeMoX8
   title: "\u2696\uFE0F Understanding Composition Over Inheritance"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-10-04T12:23:12+00:00'
-  description: These research results should give investors greater confidence in
-    the robustness of factor premiums, reinforcing their utility in crafting effective
-    investment strategies.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/04/factor-premiums-an-eternal-feature-of-financial-markets/
-  title: 'Factor Premiums: An Eternal Feature of Financial Markets'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
