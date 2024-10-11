@@ -1,6 +1,23 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-10-11T11:12:56+00:00'
+  description: "Participa\xE7\xE3o no banco norte-americano caiu para menos de 10%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/berkshire-de-warren-buffett-reduz-ainda-mais-participacao-no-bofa-para-menos-de-10/
+  title: "Berkshire, de Warren Buffett, reduz ainda mais participa\xE7\xE3o no BofA\
+    \ para menos de 10%"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-10-11T11:09:28+00:00'
+  description: "Governo tem manifestado preocupa\xE7\xE3o com os gastos dos brasileiros\
+    \ com as apostas on-line"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/haddad-cita-excessos-nas-bets-e-diz-que-governo-esta-atento/
+  title: "Haddad cita excessos nas bets e diz que governo est\xE1 atento"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-10-11T10:05:00+00:00'
   description: "\xC9 raro, mas acontece: entenda desempate no caso de 2 candidatos\
     \ com mesmo n\xFAmero de votos"
@@ -9,8 +26,7 @@
   title: "O que acontece se elei\xE7\xE3o para prefeito terminar empatada no 2\xBA\
     \ turno?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-10-11T10:00:00+00:00'
   description: "Com os juros no patamar de hoje, quem tem 35 anos garantiria isso\
     \ por 20 anos com um aporte \xFAnico de R$ 105 mil."
@@ -18,19 +34,6 @@
   path: https://investnews.com.br/financas/o-preco-do-amanha-quanto-colocar-no-tesouro-renda-para-receber-r-5-mil-por-mes-de-aposentadoria-extra/
   title: "O pre\xE7o do amanh\xE3: quanto colocar no Tesouro Renda+ para receber R$\
     \ 5 mil por m\xEAs de aposentadoria extra"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-10T21:33:59+00:00'
-  description: "O ministro da Fazenda, Fernando Haddad, disse nesta quinta-feira que\
-    \ a tributa\xE7\xE3o de milion\xE1rios \xE9 uma das alternativas em avalia\xE7\
-    \xE3o no governo para compensar perdas na arrecada\xE7\xE3o com corre\xE7\xF5\
-    es adicionais da tabela do imposto de renda visando aumentar a faixa de isen\xE7\
-    \xE3o. Segundo Haddad, o presidente Luiz In\xE1cio Lula da Silva est\xE1 avaliando\
-    \ os cen\xE1rios [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/taxacao-de-milionarios-e-uma-das-alternativas-para-compensar-reajuste-de-tabela-do-ir-diz-haddad/
-  title: "Taxa\xE7\xE3o de milion\xE1rios \xE9 uma das alternativas para compensar\
-    \ reajuste de tabela do IR, diz Haddad"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -52,15 +55,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1g0fb7i/official_august_2024_level_2_results_megathread/
   title: Official August 2024 Level 2 Results Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-09T18:10:36+00:00'
-  description: "Document\xE1rio da HBO apontou o desenvolvedor de software Peter Todd\
-    \ como poss\xEDvel criador da criptomoeda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/eu-nao-sou-o-satoshi-nakamoto-diz-homem-que-a-hbo-sugere-ter-criado-o-bitcoin/
-  title: "\u2018Eu n\xE3o sou o Satoshi Nakamoto\u2019, diz homem que a HBO sugere\
-    \ ter criado o Bitcoin"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-10-08T10:01:47+00:00'
