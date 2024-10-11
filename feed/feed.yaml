@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-10-11T12:13:24+00:00'
+  description: The Index Industry Association's 2024 asset manager survey reveals
+    a much deeper set of challenges, opportunities, hopes, and concerns.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/11/an-industry-in-transition-ai-top-of-mind-in-2024-asset-manager-survey/
+  title: 'An Industry in Transition: AI Top of Mind in 2024 Asset Manager Survey'
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -37,7 +46,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/international-stock-markets-reactions-to-eu-climate-policy-shocks/
   title: "International Stock Markets\u2019 Reactions to EU Climate Policy Shocks"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-10T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO?Num evento online e gratuito,\
@@ -103,7 +112,7 @@
   path: https://open.spotify.com/episode/6lsN7SLbY1l9cBBE5vv03y
   title: 'Centres of attention: building for the global data boom'
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -115,8 +124,7 @@
   path: https://www.youtube.com/watch?v=bgwg-dTIdMs
   title: Time Management Tips for Developers
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-10-09T11:22:50+00:00'
   description: "Insitutional investors who have doggedly pursued active management\
     \ should heed the advice of tennis great Bill Tilden: \u201CNever change a winning\
@@ -125,7 +133,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/09/are-institutional-investors-meeting-their-goals-spotlight-on-earnings-objectives/
   title: Are Institutional Investors Meeting Their Goals? Spotlight on Earnings Objectives
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-10-09T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
     \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
@@ -186,7 +194,7 @@
   title: "A China quer fabricar um bull market, diz a Gavekal. (\u2018Compre\u2019\
     \ anyway)"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-10-07T15:00:57+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -194,16 +202,6 @@
   image: https://i2.ytimg.com/vi/ul8CgHyCa9k/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ul8CgHyCa9k
   title: Tips to Instantly Improve Your Code
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-10-07T10:27:42+00:00'
-  description: With its large youth sector, thriving startup and fintech ecosystems,
-    and a close relationship with the United States, Mexico represents a significant
-    investment destination for those looking to diversify their portfolios and capitalize
-    on the myriad of opportunities.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/07/investment-opportunities-in-mexico/
-  title: Investment Opportunities in Mexico
 - author: Flirting with Models
   categories:
   - Podcasts
