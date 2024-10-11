@@ -66,6 +66,15 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/10/11/an-industry-in-transition-ai-top-of-mind-in-2024-asset-manager-survey/
   title: 'An Industry in Transition: AI Top of Mind in 2024 Asset Manager Survey'
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2024-10-11T00:00:00+00:00'
+  description: Applying a novel model to a proprietary dataset, this study evaluates
+    the impact of financial intermediation costs on investor returns.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
+  title: 'Accessing Private Markets: What Does It Cost?'
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -221,7 +230,7 @@
   title: "O GRANDE RISCO POR TR\xC1S DO MERCADO DE CR\xC9DITO BRASILEIRO | Corte EP\
     \ #135"
 - author: AQR
-  categories: &id009
+  categories: &id010
   - Quant
   - Papers
   date: '2024-10-08T00:00:00'
@@ -284,7 +293,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/04102024
   title: "BC - Focus - Relat\xF3rio de Mercado - 04/10/2024"
 - author: Apricitas Economics
-  categories: &id010
+  categories: &id011
   - Macro
   - Newsletters
   date: '2024-10-02T16:47:11+00:00'
@@ -294,7 +303,7 @@
   path: https://www.apricitas.io/p/universal-tariffs-are-universally
   title: Universal Tariffs are Universally Bad
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-10-02T00:00:00+00:00'
   description: "No epis\xF3dio 138\xBA do Outliers, Clara Sodr\xE9 e Rodrigo Sgavioli\
@@ -333,7 +342,7 @@
   path: https://braziljournal.com/lobby-de-lula-funciona-e-brasil-fica-a-um-passo-do-investment-grade/
   title: "Lobby de Lula funciona e Brasil fica a um passo do \u2018investment grade\u2019"
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-09-30T20:54:53+00:00'
@@ -719,8 +728,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: CFA Institute Research and Policy Center
-  categories: &id011
-  - CFA
+  categories: *id007
   date: '2024-09-24T00:00:00+00:00'
   description: New evidence indicates that different types of subjective expectations
     have time-varying roles in explaining stock price variations.
@@ -830,7 +838,7 @@
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-09-17T00:00:00+00:00'
   description: "No epis\xF3dio 137\xB0 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
     \ receber\xE3o Brunno Bagnariolli s\xF3cio-s\xEAnior da JiveMaua e CIO dos fundos\
@@ -857,7 +865,7 @@
   path: https://open.spotify.com/episode/5ES7i79TDQgFskKC0YDUPF
   title: A Few Little Ideas And Short Stories
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2024-09-11T05:44:50+00:00'
   description: The goal should be getting to "neutral" as quickly as possible. Since
     no one knows where that is, optimal policy should consist of moving down quickly
@@ -866,7 +874,7 @@
   path: https://theovershoot.co/p/the-case-for-huge-fed-rate-cuts-up
   title: The Case for Huge Fed Rate Cuts Up Front (And Maybe Some Hikes Later)
 - author: AQR
-  categories: *id009
+  categories: *id010
   date: '2024-09-05T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        September\
     \ 5, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
@@ -878,18 +886,10 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/An-August-of-Discontent
   title: An August of Discontent
 - author: Apricitas Economics
-  categories: *id010
+  categories: *id011
   date: '2024-09-04T17:13:25+00:00'
   description: A Detailed Look at How Investments in Clean Energy, Semiconductors,
     & Infrastructure are Reshaping American Economic Geography
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b6cf9f0-e6ef-4df6-9c82-7c29fe8b352f_2886x1843.png
   path: https://www.apricitas.io/p/the-regional-impacts-of-americas
   title: The Regional Impacts of America's Investment Boom
-- author: CFA Institute Research and Policy Center
-  categories: *id011
-  date: '2024-08-29T00:00:00+00:00'
-  description: Common methods of using machine learning to predict stock returns can
-    be suboptimal. This study proposes new strategies that offer improvements
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/choices-matter-when-training-machine-learning-models-for-return-prediction
-  title: Choices Matter When Training Machine Learning Models for Return Prediction
