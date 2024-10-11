@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-10-11T12:08:17+00:00'
+  description: "O maior gestor de ativos do mundo registrou US$ 160 bilh\xF5es em\
+    \ fluxos l\xEDquidos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/blackrock-atinge-recorde-de-us-115-trilhoes-em-ativos-sob-gestao/
+  title: "BlackRock atinge recorde de US$ 11,5 trilh\xF5es em ativos sob gest\xE3o"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-10-11T11:12:56+00:00'
   description: "Participa\xE7\xE3o no banco norte-americano caiu para menos de 10%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +16,7 @@
   title: "Berkshire, de Warren Buffett, reduz ainda mais participa\xE7\xE3o no BofA\
     \ para menos de 10%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-10-11T11:09:28+00:00'
   description: "Governo tem manifestado preocupa\xE7\xE3o com os gastos dos brasileiros\
@@ -17,7 +25,7 @@
   path: https://investnews.com.br/economia/haddad-cita-excessos-nas-bets-e-diz-que-governo-esta-atento/
   title: "Haddad cita excessos nas bets e diz que governo est\xE1 atento"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-10-11T10:05:00+00:00'
   description: "\xC9 raro, mas acontece: entenda desempate no caso de 2 candidatos\
     \ com mesmo n\xFAmero de votos"
@@ -25,15 +33,6 @@
   path: https://investnews.com.br/economia/o-que-acontece-se-eleicao-para-prefeito-terminar-empatada-no-2o-turno/
   title: "O que acontece se elei\xE7\xE3o para prefeito terminar empatada no 2\xBA\
     \ turno?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-11T10:00:00+00:00'
-  description: "Com os juros no patamar de hoje, quem tem 35 anos garantiria isso\
-    \ por 20 anos com um aporte \xFAnico de R$ 105 mil."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/o-preco-do-amanha-quanto-colocar-no-tesouro-renda-para-receber-r-5-mil-por-mes-de-aposentadoria-extra/
-  title: "O pre\xE7o do amanh\xE3: quanto colocar no Tesouro Renda+ para receber R$\
-    \ 5 mil por m\xEAs de aposentadoria extra"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
