@@ -1,15 +1,23 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2024-10-11T12:48:18+00:00'
-  description: "Propostas incluem desenvolvimento de uma rede de bancos capazes de\
-    \ realizar transa\xE7\xF5es em moedas locais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/russia-propoe-que-brics-desenvolvam-sistema-proprio-de-pagamentos-como-forma-de-driblar-sancoes-internacionais/
-  title: "R\xFAssia prop\xF5e que BRICS desenvolvam sistema de pagamentos, como forma\
-    \ de driblar san\xE7\xF5es internacionais"
-- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-11T17:57:16+00:00'
+  description: "Coment\xE1rios do presidente reavivaram os temores dos investidores\
+    \ de gastos mais frouxos e piora das contas p\xFAblicas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/efeito-lula-real-tem-pior-desempenho-dentre-moedas-globais/
+  title: 'Efeito Lula: Real tem pior desempenho dentre moedas globais'
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2024-10-11T17:32:03+00:00'
+  description: "Lista com 2.027 sites foi divulgada na noite de quinta-feira (10);\
+    \ bloqueio come\xE7a nesta sexta"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/bloqueio-de-bets-sites-de-apostas-online-pela-anatel/
+  title: 2.027 sites de apostas devem ser bloqueados a partir desta sexta; veja lista
+    completa
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-10-11T12:08:17+00:00'
   description: "O maior gestor de ativos do mundo registrou US$ 160 bilh\xF5es em\
@@ -18,21 +26,13 @@
   path: https://investnews.com.br/financas/blackrock-atinge-recorde-de-us-115-trilhoes-em-ativos-sob-gestao/
   title: "BlackRock atinge recorde de US$ 11,5 trilh\xF5es em ativos sob gest\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-10-11T11:12:56+00:00'
   description: "Participa\xE7\xE3o no banco norte-americano caiu para menos de 10%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/berkshire-de-warren-buffett-reduz-ainda-mais-participacao-no-bofa-para-menos-de-10/
   title: "Berkshire, de Warren Buffett, reduz ainda mais participa\xE7\xE3o no BofA\
     \ para menos de 10%"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-11T11:09:28+00:00'
-  description: "Governo tem manifestado preocupa\xE7\xE3o com os gastos dos brasileiros\
-    \ com as apostas on-line"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/haddad-cita-excessos-nas-bets-e-diz-que-governo-esta-atento/
-  title: "Haddad cita excessos nas bets e diz que governo est\xE1 atento"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
