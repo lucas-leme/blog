@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-11T00:00:00+00:00'
+  description: "Ryan Knutson and Molly Ball explore what we know about both candidates\u2019\
+    \ approach to foreign policy. Plus, Molly shares what she learned about the future\
+    \ of MAGA from an interview with Donald Trump Jr. and JD Vance.  Further Listening:\
+    \  - Red, White and Who? Playlist\_ - Red, White and Who? Veep Veep! All Eyes\
+    \ on Vance and Walz\_ - Red, White and Who? It's Always the Economy!\_  Further\
+    \ Reading: - How Donald Trump Jr. Became the Crown Prince of MAGA World\_ - JD\
+    \ Vance\u2019s Version of Trump Is Better Than the Real Thing\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5bbYP9HxSJEe2xDjfPmIHc
+  title: Red, White and Who? Foreign Policy and the Rise of Donald Trump Jr.
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -22,7 +37,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/international-stock-markets-reactions-to-eu-climate-policy-shocks/
   title: "International Stock Markets\u2019 Reactions to EU Climate Policy Shocks"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-10T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO?Num evento online e gratuito,\
@@ -52,8 +67,7 @@
   title: "#138 | A estrat\xE9gia de investimento que lhe rendeu 29% ao ano (nos \xFA\
     ltimos 9 anos)"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-10-10T00:00:00+00:00'
   description: "The U.S. budget deficit topped $1.8 trillion in the last fiscal year.\
     \ Meanwhile, both candidates for president are proposing plans that would increase\
@@ -111,7 +125,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/09/are-institutional-investors-meeting-their-goals-spotlight-on-earnings-objectives/
   title: Are Institutional Investors Meeting Their Goals? Spotlight on Earnings Objectives
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-10-09T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
     \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
@@ -142,20 +156,6 @@
   path: https://open.spotify.com/episode/2awclHhcGJWV1Eaz74p5jU
   title: "O GRANDE RISCO POR TR\xC1S DO MERCADO DE CR\xC9DITO BRASILEIRO | Corte EP\
     \ #135"
-- author: The Journal.
-  categories: *id002
-  date: '2024-10-09T00:00:00+00:00'
-  description: "Elon Musk's financial support for Republican causes has been much\
-    \ more extensive and started earlier than previously known. WSJ\u2019s Dana Mattioli\
-    \ reports on Musk\u2019s rightward political shift and explains how he hid his\
-    \ donations.\_  Further Listening: - Elon Musk and Silicon Valley Turn Towards\
-    \ Trump\_  Further Reading: - Elon Musk Gave Tens of Millions to Republican Causes\
-    \ Far Earlier Than Previously Known\_ - Inside Elon Musk\u2019s Hands-On Push\
-    \ to Win 800,000 Voters for Trump\_ - How Elon Musk Broke With Biden and the Democrats\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1xstwd04pfwNOILprnTarA
-  title: Uncovering Elon Musk's Secret Political Donations
 - author: AQR
   categories: &id009
   - Quant

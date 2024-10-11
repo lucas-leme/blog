@@ -1,6 +1,25 @@
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-10-11T10:05:00+00:00'
+  description: "\xC9 raro, mas acontece: entenda desempate no caso de 2 candidatos\
+    \ com mesmo n\xFAmero de votos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/o-que-acontece-se-eleicao-para-prefeito-terminar-empatada-no-2o-turno/
+  title: "O que acontece se elei\xE7\xE3o para prefeito terminar empatada no 2\xBA\
+    \ turno?"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-10-11T10:00:00+00:00'
+  description: "Com os juros no patamar de hoje, quem tem 35 anos garantiria isso\
+    \ por 20 anos com um aporte \xFAnico de R$ 105 mil."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/o-preco-do-amanha-quanto-colocar-no-tesouro-renda-para-receber-r-5-mil-por-mes-de-aposentadoria-extra/
+  title: "O pre\xE7o do amanh\xE3: quanto colocar no Tesouro Renda+ para receber R$\
+    \ 5 mil por m\xEAs de aposentadoria extra"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-10-10T21:33:59+00:00'
   description: "O ministro da Fazenda, Fernando Haddad, disse nesta quinta-feira que\
     \ a tributa\xE7\xE3o de milion\xE1rios \xE9 uma das alternativas em avalia\xE7\
@@ -12,14 +31,6 @@
   path: https://investnews.com.br/economia/taxacao-de-milionarios-e-uma-das-alternativas-para-compensar-reajuste-de-tabela-do-ir-diz-haddad/
   title: "Taxa\xE7\xE3o de milion\xE1rios \xE9 uma das alternativas para compensar\
     \ reajuste de tabela do IR, diz Haddad"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-10T15:08:38+00:00'
-  description: "SP respondeu por 18% da exporta\xE7\xE3o nacional e MT por 17,3%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/sao-paulo-supera-mato-grosso-na-exportacao-do-agro-e-vira-lider-do-ranking-no-brasil/
-  title: "S\xE3o Paulo supera Mato Grosso na exporta\xE7\xE3o do agro e vira l\xED\
-    der do ranking no Brasil"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -42,8 +53,7 @@
   path: https://www.reddit.com/r/CFA/comments/1g0fb7i/official_august_2024_level_2_results_megathread/
   title: Official August 2024 Level 2 Results Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-10-09T18:10:36+00:00'
   description: "Document\xE1rio da HBO apontou o desenvolvedor de software Peter Todd\
     \ como poss\xEDvel criador da criptomoeda"
@@ -51,14 +61,6 @@
   path: https://investnews.com.br/financas/investimentos/eu-nao-sou-o-satoshi-nakamoto-diz-homem-que-a-hbo-sugere-ter-criado-o-bitcoin/
   title: "\u2018Eu n\xE3o sou o Satoshi Nakamoto\u2019, diz homem que a HBO sugere\
     \ ter criado o Bitcoin"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-08T20:21:55+00:00'
-  description: "Com 66 votos a favor e 5 contra, Gal\xEDpolo vai assumir o cargo em\
-    \ 2025"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/senado-aprova-gabriel-galipolo-para-a-presidencia-do-banco-central/
-  title: "Senado aprova Gabriel Gal\xEDpolo para a presid\xEAncia do Banco Central"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-10-08T10:01:47+00:00'
