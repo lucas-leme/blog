@@ -1,5 +1,26 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-11T15:00:51+00:00'
+  description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
+    \ https://arjan.codes/diagnosis.\n\nPython 3.13 is here with exciting updates!\
+    \ In this video, I\u2019ll dive into the key new features, including the game-changing\
+    \ option to disable the Global Interpreter Lock (GIL). \n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2024/python_3_13\n\nArticle Explaining Python 3.13:\
+    \ https://docs.python.org/3.13/whatsnew/3.13.html\n\n\u27A1\uFE0F Benchmarks:\
+    \ https://github.com/lip234/python_313_benchmark\n\n\U0001F393 ArjanCodes Courses:\
+    \ https://www.arjancodes.com/courses/\n\n\U0001F516 Chapters:\n0:00 Intro\n0:26\
+    \ Improved Interactive Interpreter\n3:33 Packages and modules\n8:02 Deprecated\
+    \ decorator\n8:46 _static_attributes_\n10:34 Incremental Garbage Collection\n\
+    14:13 Experimental JIT compiler\n16:34 Support For iOS\n16:56 Free-threaded Cpython\n\
+    20:02 Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/eUDGlxu_-ic/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eUDGlxu_-ic
+  title: The New Python 3.13 Is FINALLY Here!
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-10-11T12:13:24+00:00'
   description: The Index Industry Association's 2024 asset manager survey reveals
@@ -46,7 +67,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/international-stock-markets-reactions-to-eu-climate-policy-shocks/
   title: "International Stock Markets\u2019 Reactions to EU Climate Policy Shocks"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-10-10T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO?Num evento online e gratuito,\
@@ -112,10 +133,7 @@
   path: https://open.spotify.com/episode/6lsN7SLbY1l9cBBE5vv03y
   title: 'Centres of attention: building for the global data boom'
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-10-09T15:00:43+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -124,7 +142,7 @@
   path: https://www.youtube.com/watch?v=bgwg-dTIdMs
   title: Time Management Tips for Developers
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-09T11:22:50+00:00'
   description: "Insitutional investors who have doggedly pursued active management\
     \ should heed the advice of tennis great Bill Tilden: \u201CNever change a winning\
@@ -133,7 +151,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/09/are-institutional-investors-meeting-their-goals-spotlight-on-earnings-objectives/
   title: Are Institutional Investors Meeting Their Goals? Spotlight on Earnings Objectives
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-10-09T00:00:00+00:00'
   description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
     \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
@@ -193,15 +211,6 @@
   path: https://braziljournal.com/a-china-quer-fabricar-um-bull-market-diz-a-gavekal-compre-anyway/
   title: "A China quer fabricar um bull market, diz a Gavekal. (\u2018Compre\u2019\
     \ anyway)"
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-10-07T15:00:57+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/ul8CgHyCa9k/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ul8CgHyCa9k
-  title: Tips to Instantly Improve Your Code
 - author: Flirting with Models
   categories:
   - Podcasts
