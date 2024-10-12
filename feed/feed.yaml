@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-12T15:00:47+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/kdWgmxxVDd0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=kdWgmxxVDd0
+  title: Aligning Refactoring with Business Needs
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -47,10 +59,7 @@
   path: https://www.youtube.com/watch?v=65ciAONXv0M
   title: Let's Talk About Panels
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-10-11T15:00:51+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nPython 3.13 is here with exciting updates!\
@@ -86,7 +95,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
   title: 'Accessing Private Markets: What Does It Cost?'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-11T00:00:00+00:00'
   description: "TD Bank\u2019s U.S. entity pleaded guilty and agreed to pay more than\
@@ -101,7 +110,7 @@
   path: https://open.spotify.com/episode/1C9Kl7YlagLivgcJKav4vn
   title: "The Money Laundering Behind TD Bank\u2019s $3 Billion Fine"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-11T00:00:00+00:00'
   description: "Ryan Knutson and Molly Ball explore what we know about both candidates\u2019\
     \ approach to foreign policy. Plus, Molly shares what she learned about the future\
@@ -189,15 +198,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/6lsN7SLbY1l9cBBE5vv03y
   title: 'Centres of attention: building for the global data boom'
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-10-09T15:00:43+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/bgwg-dTIdMs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=bgwg-dTIdMs
-  title: Time Management Tips for Developers
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2024-10-09T11:22:50+00:00'
