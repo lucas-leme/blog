@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-15T18:59:54+00:00'
+  description: "S\xE3o mais de R$ 8,56 bilh\xF5es dispon\xEDveis; veja como solicitar"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dinheiro-esquecido-como-resgatar/
+  title: "\u2018Dinheiro esquecido\u2019: termina na quarta (16) prazo para resgatar\
+    \ valores em bancos"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-10-15T15:39:43+00:00'
   description: "Crit\xE9rios foram propostos para o novo formato de contrato de concess\xE3\
@@ -9,8 +18,7 @@
   title: "Distribuidoras de energia ter\xE3o de encerrar disputas judiciais com governo\
     \ e pagar multas se quiserem renovar concess\xF5es"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-15T15:34:11+00:00'
   description: "H\xEDbrido leve, h\xEDbrido pleno, h\xEDbrido plug-in; entenda as\
     \ vantagens e desvantagens de cada tipo."
@@ -18,7 +26,7 @@
   path: https://investnews.com.br/financas/o-que-saber-antes-de-comprar-um-carro-hibrido/
   title: "O que saber antes de comprar um carro h\xEDbrido el\xE9trico"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-10-15T13:49:09+00:00'
   description: "Pessoas convocadas est\xE3o enfrentando cobran\xE7as de at\xE9 20%\
     \ sobre os ganhos"
@@ -39,15 +47,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1g47zem/l3_exam_results_go_in_megathread/
   title: L3 - Exam Results go in Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-14T14:00:00+00:00'
-  description: "Analistas acreditam que companhia vai superar desafios e mostrar bons\
-    \ resultados - e continuar\xE1 pagando dividendos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acao-em-foco-sob-nova-direcao-vale-reage-a-pacote-da-china-e-acordo-sobre-mariana-em-outubro/
-  title: "A\xE7\xE3o em foco: sob nova dire\xE7\xE3o, Vale reage a pacote da China\
-    \ e acordo sobre Mariana em outubro"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-10-10T10:02:13+00:00'
