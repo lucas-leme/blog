@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-10-16T13:34:32+00:00'
+  description: "Excesso de suprimento de combust\xEDveis f\xF3sseis provavelmente\
+    \ levaria a pre\xE7os mais baixos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/era-da-eletricidade-vira-apos-pico-iminente-dos-combustiveis-fosseis-diz-iea/
+  title: "\u2018Era da eletricidade\u2019 vir\xE1 ap\xF3s pico iminente dos combust\xED\
+    veis f\xF3sseis, diz IEA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +26,7 @@
   title: "Caixa reduz teto de financiamento habitacional para 70% do valor do im\xF3\
     vel"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-10-15T15:39:43+00:00'
   description: "Crit\xE9rios foram propostos para o novo formato de contrato de concess\xE3\
     o de distribui\xE7\xE3o no Brasil"
@@ -25,14 +34,6 @@
   path: https://investnews.com.br/economia/distribuidoras-de-energia-terao-de-encerrar-disputas-judiciais-com-governo-e-pagar-multas-se-quiserem-renovar-concessoes/
   title: "Distribuidoras de energia ter\xE3o de encerrar disputas judiciais com governo\
     \ e pagar multas se quiserem renovar concess\xF5es"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-15T13:49:09+00:00'
-  description: "Pessoas convocadas est\xE3o enfrentando cobran\xE7as de at\xE9 20%\
-    \ sobre os ganhos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/china-passa-a-taxar-investimentos-de-ultra-ricos-no-exterior/
-  title: China passa a taxar investimentos de ultrarricos no exterior
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
