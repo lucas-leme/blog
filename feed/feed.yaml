@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-16T15:00:53+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/lX_G0l9jU94/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=lX_G0l9jU94
+  title: FastAPI in 30 Seconds
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -145,10 +157,7 @@
   title: "Acemoglu, Robinson e Johnson falaram ao Brazil Journal sobre o sucesso e\
     \ o fracasso das na\xE7\xF5es"
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-10-14T15:00:19+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -156,15 +165,6 @@
   image: https://i3.ytimg.com/vi/J_iTz2C1c-Y/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J_iTz2C1c-Y
   title: "\U0001F4B2 Choosing the Best Data Type for Monetary Values"
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-10-12T15:00:47+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/kdWgmxxVDd0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=kdWgmxxVDd0
-  title: Aligning Refactoring with Business Needs
 - author: The Overshoot
   categories: *id003
   date: '2024-10-12T00:34:39+00:00'
