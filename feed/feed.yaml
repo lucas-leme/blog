@@ -1,5 +1,15 @@
+- author: The Overshoot
+  categories: &id002
+  - Macro
+  - Newsletters
+  date: '2024-10-15T23:34:34+00:00'
+  description: A few lines from his most recent speech and subsequent Q&amp;A that
+    caught my attention.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95265bac-2221-4be8-ac62-e8f196380d7d_5000x4618.png
+  path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
+  title: Christopher Waller on Wages, Productivity, and Inflation
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-10-15T17:40:57+00:00'
   description: The CAPM has its critics. Yet, the model, introduced by Bill Sharpe
@@ -7,8 +17,32 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/10/15/happy-60th-anniversary-capm-why-the-capital-asset-pricing-model-still-matters/
   title: Happy 60th Anniversary CAPM! Why the Capital Asset Pricing Model Still Matters
+- author: Market Makers
+  categories: &id006
+  - Podcasts
+  date: '2024-10-15T00:00:00+00:00'
+  description: "Conhe\xE7a a Uber para Empresas, a plataforma corporativa gratuita\
+    \ que permite a gest\xE3o e controle das viagens de colaboradores e convidados\
+    \ para otimiza\xE7\xE3o de tempo e recursos.\U0001F449 Saiba mais em: https://businesses.uber.com/uberparaempresas/?utm_campaign=CM2457937-radio-podcast_25_-99_BR-National_u4business-ds_all_bra_cpm_pt-BR_WK-MM_GCR24L315_U4B-BR_PO570689&amp;utm_medium=Radio&amp;utm_source=Podcast&amp;utm_term=Market+MakersTRUMP\
+    \ X KAMALA: QUAIS OS IMPACTOS NO MUNDO? | Inscreva-se de gra\xE7a: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XNa\
+    \ live de hoje, vamos explorar os impactos da recente decis\xE3o do COPOM em manter\
+    \ a SELIC ALTA enquanto outros pa\xEDses est\xE3o reduzindo suas taxas de juros\
+    \ e discutir como isso afeta diretamente o seu bolso, os investimentos no Brasil,\
+    \ e as perspectivas para o futuro econ\xF4mico. At\xE9 onde a Selic vai chegar?\
+    \ Ser\xE1 que as tais medidas de conten\xE7\xE3o e reestrutura\xE7\xE3o de gastos,\
+    \ sinalizadas por Fernando Haddad, ser\xE3o o suficiente para animar o mercado?\_\
+    Estamos pr\xF3ximos de um rali da bolsa nos pr\xF3ximos dias?Al\xE9m disso, mergulhamos\
+    \ nas consequ\xEAncias da crise no Oriente M\xE9dio, as elei\xE7\xF5es americanas\
+    \ e tamb\xE9m sobre o pacote de est\xEDmulos a economia chinesa e seus impactos\
+    \ na economia global e tamb\xE9m nas empresas brasileiras.Apresentadores: Thiago\
+    \ Salom\xE3o (@_salomoney), Matheus Soares (@maatssoares) e Josu\xE9 Guedes (@josueguedes__)\_\
+    Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8ada8fcc0e54ecf282b7ccdf2b
+  path: https://open.spotify.com/episode/0RSNjDrSbodpig8ZecZO8D
+  title: "#139 | A verdade por tr\xE1s do novo plano de Haddad e o futuro do Brasil\
+    \ em jogo"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-15T00:00:00+00:00'
   description: "Over the summer, an outbreak of listeria in Boar\u2019s Head products\
@@ -24,7 +58,7 @@
   path: https://open.spotify.com/episode/2flpD3wg7cBzgUBriHCQfr
   title: Listeria, Liverwurst and the Family Feud at Boar's Head
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-10-14T23:37:50+00:00'
@@ -63,7 +97,7 @@
   path: https://www.youtube.com/watch?v=fgm5uZaS3-E
   title: The Tesla Robotaxi is Confusing...
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id007
   - Economia
   date: '2024-10-14T16:56:58+00:00'
   description: "<p>H\xE1 s\xE9culos os pensadores e cientistas sociais procuram desvendar\
@@ -101,9 +135,7 @@
   path: https://www.youtube.com/watch?v=kdWgmxxVDd0
   title: "\U0001F4C8 Aligning Refactoring with Business Needs"
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id002
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -111,7 +143,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-not-slowing-down
   title: The U.S. Economy Is Not Slowing Down
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-10-11T16:12:14+00:00'
   description: 'Let''s talk about the Panels app.
 
@@ -147,7 +179,7 @@
   path: https://www.youtube.com/watch?v=65ciAONXv0M
   title: Let's Talk About Panels
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-10-11T12:13:24+00:00'
   description: The Index Industry Association's 2024 asset manager survey reveals
     a much deeper set of challenges, opportunities, hopes, and concerns.
@@ -178,7 +210,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
   title: 'Accessing Private Markets: What Does It Cost?'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-10-11T00:00:00+00:00'
   description: "TD Bank\u2019s U.S. entity pleaded guilty and agreed to pay more than\
     \ $3 billion in penalties, acknowledging it failed to properly monitor money laundering\
@@ -215,8 +247,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/international-stock-markets-reactions-to-eu-climate-policy-shocks/
   title: "International Stock Markets\u2019 Reactions to EU Climate Policy Shocks"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id006
   date: '2024-10-10T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO?Num evento online e gratuito,\
     \ vamos falar sobre as tens\xF5es com a China, guerras, reflexos no Brasil e oportunidades/riscos\
@@ -266,38 +297,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/6lsN7SLbY1l9cBBE5vv03y
   title: 'Centres of attention: building for the global data boom'
-- author: Market Makers
-  categories: *id005
-  date: '2024-10-09T00:00:00+00:00'
-  description: "[TUDO SOBRE A\xC7\xD5ES SMALL CAPS] Liberamos de gra\xE7a quase 4\
-    \ HORAS de conte\xFAdo sobre as a\xE7\xF5es mais promissoras na vis\xE3o de tr\xEA\
-    s grandes ganhadores de dinheiro com small caps. Retire esse combo aqui: https://lp.mmakers.com.br/small-caps-masters-mmk11-titas-do-mercado?xpromo=XE-ME-EMP-MMK11-SUBMMK-YT-NTVYT-XAssine\
-    \ a CompoundLetter, a melhor newsletter gratuita do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
-    \ ainda acredita que os fundos de cr\xE9dito de alta liquidez s\xE3o uma boa aposta\
-    \ em tempos de incerteza?Neste v\xEDdeo, discutimos a crescente preocupa\xE7\xE3\
-    o com os fundos de cr\xE9dito de alta liquidez, que atraem investimentos mesmo\
-    \ em um cen\xE1rio de valuations altos e riscos elevados. Exploramos como a capta\xE7\
-    \xE3o excessiva de recursos pode levar a corre\xE7\xF5es indesejadas. Abordamos\
-    \ a falta de transpar\xEAncia nas demonstra\xE7\xF5es financeiras das empresas,\
-    \ onde pr\xE1ticas como o desconto de receb\xEDveis s\xE3o frequentemente mascaradas,\
-    \ gerando uma falsa impress\xE3o de solidez. Analisamos tamb\xE9m a alavancagem\
-    \ preocupante de muitas empresas em um ambiente de juros altos e como isso pode\
-    \ impactar negativamente a atividade econ\xF4mica no futuro.Qual \xE9 a sua opini\xE3\
-    o sobre o futuro dos fundos de cr\xE9dito em um cen\xE1rio t\xE3o vol\xE1til?\
-    \ Voc\xEA investe ou pretende investir neles?Se voc\xEA gostou do conte\xFAdo,\
-    \ n\xE3o esque\xE7a de deixar o seu like e se inscrever no canal para mais an\xE1\
-    lises sobre economia e investimentos!\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO\
-    \ YOUTUBE:\_https://youtu.be/rwAu355xtFcCom o cupom MARKETMAKERS15, voc\xEA garante\
-    \ 15% OFF na sua primeira compra no site: https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers-\
-    \ - - - - - - - -CRISES E INCERTEZAS: como aproveitar o pessimismo do mercado\
-    \ para lucrar | Market Makers #135\_Apresenta\xE7\xE3o: Thiago Salom\xE3o (@salomoney),\
-    \ Josu\xE9 Guedes (@josueguedes) e Matheus Soares (@maatssoares)Convidado: Pedro\
-    \ Chermont, \_s\xF3cio fundador e CIO da Leblon EquitiesEdi\xE7\xE3o: Bianca Barsotti\
-    \ e Lucas ZanardoBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8acc274481b6291c83da11dd4c
-  path: https://open.spotify.com/episode/2awclHhcGJWV1Eaz74p5jU
-  title: "O GRANDE RISCO POR TR\xC1S DO MERCADO DE CR\xC9DITO BRASILEIRO | Corte EP\
-    \ #135"
 - author: AQR
   categories: &id010
   - Quant
@@ -311,7 +310,7 @@
   path: https://www.aqr.com/Insights/Research/Tax-Aware-Investing/Tax-Aware-Investing-Separating-the-Wheat-from-the-Chaff
   title: 'Tax-Aware Investing: Separating the Wheat  from the Chaff'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id007
   date: '2024-10-07T21:52:22+00:00'
   description: "<p>As bolsas chinesas, que haviam ca\xEDdo ao seu n\xEDvel mais baixo\
     \ em cinco anos, come\xE7aram um rali poderoso desde que o governo apresentou\
@@ -380,15 +379,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af8aefcb1484b07b48f2629c7
   path: https://open.spotify.com/episode/2xC0AB8cfMtN1SdOIFY5UO
   title: "#138 - \u201DA Salva\xE7\xE3o e\u0301 pelo risco\u201D - Duda Rocha da Occam"
-- author: The Overshoot
-  categories: *id007
-  date: '2024-09-30T20:54:53+00:00'
-  description: Underlying measures of prices are still rising about one percentage
-    point or so faster than they were in 2017-2019. But there is nothing wrong with
-    this new normal, even if may not be fully priced in.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5843a5ed-14b7-4902-a3f6-30820a016196_5000x4509.png
-  path: https://theovershoot.co/p/us-inflation-is-still-hotter-than
-  title: U.S. Inflation Is Still Hotter than Pre-Pandemic. And that's Okay.
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
