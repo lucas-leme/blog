@@ -1,5 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-10-17T12:43:28+00:00'
+  description: What are women's favorite alternative investments? What marketing strategies
+    resonate with women, and which one's don't?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/17/the-alternative-investment-gender-gap-marketing-to-female-clients/
+  title: 'The Alternative Investment Gender Gap: Marketing to Female Clients'
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -11,7 +20,7 @@
   path: https://www.youtube.com/watch?v=lX_G0l9jU94
   title: FastAPI in 30 Seconds
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-16T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? (EVENTO GRATUITO): https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XAssine\
@@ -43,7 +52,7 @@
   title: "CONFLITO NO ORIENTE M\xC9DIO: o que REALMENTE est\xE1 acontecendo? | Corte\
     \ EP #137"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-16T00:00:00+00:00'
   description: "Investigators say that Arion Kurtaj\u2019s life in cybercrime began\
@@ -59,7 +68,7 @@
   path: https://open.spotify.com/episode/7gxgSIS7Z5n3TYAOluLkA3
   title: How One Teenager Became a Legendary Hacker
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-10-15T23:34:34+00:00'
@@ -69,8 +78,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id001
   date: '2024-10-15T17:40:57+00:00'
   description: The CAPM has its critics. Yet, the model, introduced by Bill Sharpe
     in 1964, remains front and center in academia and in practice.
@@ -78,7 +86,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/15/happy-60th-anniversary-capm-why-the-capital-asset-pricing-model-still-matters/
   title: Happy 60th Anniversary CAPM! Why the Capital Asset Pricing Model Still Matters
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-10-15T00:00:00+00:00'
   description: "Conhe\xE7a a Uber para Empresas, a plataforma corporativa gratuita\
     \ que permite a gest\xE3o e controle das viagens de colaboradores e convidados\
@@ -101,7 +109,7 @@
   title: "#139 | A verdade por tr\xE1s do novo plano de Haddad e o futuro do Brasil\
     \ em jogo"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-10-15T00:00:00+00:00'
   description: "Over the summer, an outbreak of listeria in Boar\u2019s Head products\
     \ killed 10 people and sickened dozens more. In the months after the crisis, the\
@@ -116,7 +124,7 @@
   path: https://open.spotify.com/episode/2flpD3wg7cBzgUBriHCQfr
   title: Listeria, Liverwurst and the Family Feud at Boar's Head
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-10-14T23:37:50+00:00'
@@ -172,7 +180,7 @@
   title: "Acemoglu, Robinson e Johnson falaram ao Brazil Journal sobre o sucesso e\
     \ o fracasso das na\xE7\xF5es"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-10-14T15:00:19+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -181,7 +189,7 @@
   path: https://www.youtube.com/watch?v=J_iTz2C1c-Y
   title: "\U0001F4B2 Choosing the Best Data Type for Monetary Values"
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -189,7 +197,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-not-slowing-down
   title: The U.S. Economy Is Not Slowing Down
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-10-11T16:12:14+00:00'
   description: 'Let''s talk about the Panels app.
 
@@ -224,14 +232,6 @@
   image: https://i3.ytimg.com/vi/65ciAONXv0M/hqdefault.jpg
   path: https://www.youtube.com/watch?v=65ciAONXv0M
   title: Let's Talk About Panels
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2024-10-11T12:13:24+00:00'
-  description: The Index Industry Association's 2024 asset manager survey reveals
-    a much deeper set of challenges, opportunities, hopes, and concerns.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/11/an-industry-in-transition-ai-top-of-mind-in-2024-asset-manager-survey/
-  title: 'An Industry in Transition: AI Top of Mind in 2024 Asset Manager Survey'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
