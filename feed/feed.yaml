@@ -22,7 +22,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/tracking-reserve-ampleness-in-real-time-using-reserve-demand-elasticity/
   title: Tracking Reserve Ampleness in Real Time Using Reserve Demand Elasticity
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-10-17T12:43:28+00:00'
   description: What are women's favorite alternative investments? What marketing strategies
@@ -30,6 +30,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/10/17/the-alternative-investment-gender-gap-marketing-to-female-clients/
   title: 'The Alternative Investment Gender Gap: Marketing to Female Clients'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-17T00:00:00+00:00'
+  description: "Lilly Ledbetter, equal pay trailblazer, died on Saturday. WSJ\u2019\
+    s Joseph De Avila reports on how Ledbetter faced pay discrimination at her job\
+    \ and sued her employer, taking her case all the way to the Supreme Court. And\
+    \ WSJ\u2019s Lauren Weber discusses the persistence of the gender pay gap.\_ \
+    \ Further Reading: -Fair-Wage Advocate Lilly Ledbetter Dies at 86\_ -Data Show\
+    \ Gender Pay Gap Opens Early\_  Further Listening: -The TikTok That Changed College\
+    \ Hoops\_ -What Corporate America Can Learn From Coke\u2019s Reckoning With Race\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5bxIeSCQoK5hJMCeNP4fsl
+  title: 'Lilly Ledbetter: The Woman Who Fought the Pay Gap'
 - author: Outliers
   categories: &id008
   - Podcasts
@@ -56,6 +71,39 @@
   image: https://i.scdn.co/image/ab6765630000ba8a13c0a510fa03163e1db4e0fa
   path: https://open.spotify.com/episode/4LZG9yltTeKIcmg1KAg573
   title: '#139 - Ano de ouro para os investimentos em infraestrutura com a AZ Quest'
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2024-10-17T00:00:00+00:00'
+  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k and Jess Lipsey,\
+    \ a Partner in the Real Assets Group at Apollo, discuss their views on what might\
+    \ come next for real estate in general and real estate equity in particular, in\
+    \ the wake of an aggressive rate cut by the US Federal Reserve."
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/2M7KAFx4f2dynvYcaHFh7z
+  title: "Real Estate: Is This the Entry Point We\u2019ve All Been Waiting For?"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2024-10-17T00:00:00+00:00'
+  description: "Why do some countries become rich, while others remain impoverished?\
+    \ It\u2019s a question that inspired three academics awarded this year\u2019s\
+    \ Nobel prize in economics\u2014Daron Acemoglu and Simon Johnson of MIT, and James\
+    \ Robinson of the University of Chicago. We speak to the three laureates about\
+    \ their seminal work on the economic legacy of colonialism, why they think institutions\
+    \ such as private property rights and democracy deliver long-term prosperity,\
+    \ and what they make of the resurgence of authoritarianism.Hosts: Alice Fulwood,\
+    \ Mike Bird and Tom Lee-Devlin. Guests: Daron Acemoglu of the Massachusetts Institute\
+    \ of Technology; Simon Johnson of the MIT Sloan School of Management; James Robinson\
+    \ of The Pearson Institute for the Study and Resolution of Global Conflicts at\
+    \ the University of Chicago; and The Economist\u2019s Gavin Jackson.Transcripts\
+    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
+    \ most, from global politics and business to science and technology\u2014subscribe\
+    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
+    \ please visit our FAQs page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
+  path: https://open.spotify.com/episode/62669aiJhHFqU6tG8o5BMQ
+  title: 'Democratic dividend: the winners of the 2024 Nobel prize in economics'
 - author: ArjanCodes
   categories: &id004
   - Tech
@@ -69,7 +117,7 @@
   path: https://www.youtube.com/watch?v=lX_G0l9jU94
   title: FastAPI in 30 Seconds
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-16T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? (EVENTO GRATUITO): https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XAssine\
@@ -101,8 +149,7 @@
   title: "CONFLITO NO ORIENTE M\xC9DIO: o que REALMENTE est\xE1 acontecendo? | Corte\
     \ EP #137"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-10-16T00:00:00+00:00'
   description: "Investigators say that Arion Kurtaj\u2019s life in cybercrime began\
     \ at age 11, and ultimately led to his participation in the hacks of major companies\
@@ -127,7 +174,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-10-15T17:40:57+00:00'
   description: The CAPM has its critics. Yet, the model, introduced by Bill Sharpe
     in 1964, remains front and center in academia and in practice.
@@ -135,7 +182,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/15/happy-60th-anniversary-capm-why-the-capital-asset-pricing-model-still-matters/
   title: Happy 60th Anniversary CAPM! Why the Capital Asset Pricing Model Still Matters
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-10-15T00:00:00+00:00'
   description: "Conhe\xE7a a Uber para Empresas, a plataforma corporativa gratuita\
     \ que permite a gest\xE3o e controle das viagens de colaboradores e convidados\
@@ -157,21 +204,6 @@
   path: https://open.spotify.com/episode/0RSNjDrSbodpig8ZecZO8D
   title: "#139 | A verdade por tr\xE1s do novo plano de Haddad e o futuro do Brasil\
     \ em jogo"
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-15T00:00:00+00:00'
-  description: "Over the summer, an outbreak of listeria in Boar\u2019s Head products\
-    \ killed 10 people and sickened dozens more. In the months after the crisis, the\
-    \ family that runs the company has said little. WSJ\u2019s Sarah Nassauer dug\
-    \ through court documents to piece together a decades-long story of a family fighting\
-    \ over ownership of a deli meat empire.  Further Reading:  - Inside the Half-Century\
-    \ Feud Dividing the Boar\u2019s Head Family\_ - Boar\u2019s Head Closing Virginia\
-    \ Factory Tied to Deadly Listeria Outbreak\_  Further Listening:  - Farm-to-Table\
-    \ Pioneer on Why We Still Need Better Food\_ - Food Fight: PepsiCo vs. Carrefour\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2flpD3wg7cBzgUBriHCQfr
-  title: Listeria, Liverwurst and the Family Feud at Boar's Head
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -304,28 +336,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
   title: 'Accessing Private Markets: What Does It Cost?'
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2024-10-10T00:00:00+00:00'
-  description: "For everything that happens online, there is a server in a room somewhere\
-    \ doing the work. The physical underpinning of everything that happens online\
-    \ has become big business. Demand for server capacity is growing rapidly with\
-    \ the development of cloud computing and AI, and so is the need for the massive,\
-    \ energy-hungry data centres that support it. The location of those digital warehouses\
-    \ is now crucial, not just for speed and proximity, but for the new tussles over\
-    \ data protectionism. So how will economic and geopolitical considerations shape\
-    \ the data-centre industry?Hosts: Mike Bird, Alice Fulwood and Tom Lee-Devlin.\
-    \ Guests: The Economist\u2019s Ethan Wu; Cheam Tat Inn, managing director of Equinix\
-    \ Malaysia; and Waldemar Szlezak, global head of digital infrastructure at investment\
-    \ firm KKR.Transcripts of our podcasts are available via economist.com/podcasts.Listen\
-    \ to what matters most, from global politics and business to science and technology\u2014\
-    subscribe to Economist Podcasts+.For more information about how to access Economist\
-    \ Podcasts+, please visit our FAQs page or watch our video explaining how to link\
-    \ your account."
-  image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
-  path: https://open.spotify.com/episode/6lsN7SLbY1l9cBBE5vv03y
-  title: 'Centres of attention: building for the global data boom'
 - author: AQR
   categories: &id010
   - Quant
@@ -753,18 +763,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/time-varying-drivers-of-stock-prices
   title: Time-Varying Drivers of Stock Prices
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2024-09-20T00:00:00+00:00'
-  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k discuss his views\
-    \ on what the recent rate cut by the US Federal Reserve means for the future of\
-    \ US growth and inflation. Also: What impact will lower rates have on financial\
-    \ markets?"
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/40I8F39Dquh7BJ144wn8Pp
-  title: "The Fed Kicks off an Easing Cycle: What\u2019s Next for the Economy and\
-    \ Financial Markets?"
 - author: Comunicados Copom
   categories:
   - Bacen
