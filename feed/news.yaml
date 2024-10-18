@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-18T10:00:00+00:00'
+  description: "Quando Lula subiu a rampa do Planalto para come\xE7ar seu terceiro\
+    \ mandato, em janeiro de 2023, a d\xEDvida do governo estava em R$ 7,2 trilh\xF5\
+    es. Hoje, ela soma R$ 8,9 trilh\xF5es, um salto de 23,6%. Mais detalhes adiante,\
+    \ porque a ideia aqui n\xE3o \xE9 discutir macroeconomia a fundo. \xC9 mostrar\
+    \ o que uma d\xEDvida p\xFAblica [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/como-a-questao-fiscal-bomba-os-juros-e-de-que-forma-isso-afeta-os-seus-investimentos/
+  title: "Como a quest\xE3o fiscal bomba os juros;\_e de que forma isso afeta os seus\
+    \ investimentos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,23 +21,13 @@
   path: https://investnews.com.br/financas/fundo-verde-de-stuhlberger-enfrenta-rara-crise-e-corre-para-estancar-resgates/
   title: Fundo Verde, de Stuhlberger, enfrenta rara crise e corre para estancar resgates
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-17T11:56:30+00:00'
   description: "Promessas de mais financiamento a incorporadoras se juntam a outras\
     \ medidas j\xE1 anunciadas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/china-vai-aumentar-para-us-560-bilhoes-emprestimos-a-projetos-habitacionais/
   title: "China vai aumentar para US$ 560 bilh\xF5es empr\xE9stimos a projetos habitacionais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-17T11:30:03+00:00'
-  description: "Acordo envolve a amortiza\xE7\xE3o extraordin\xE1ria obrigat\xF3ria\
-    \ de cerca de R$ 160 milh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cvc-brasil-consegue-reperfilamento-de-debentures-apos-acordo-de-r-160-milhoes/
-  title: "CVC Brasil consegue reestruturar d\xEDvida em deb\xEAntures ap\xF3s acordo\
-    \ de R$ 160 milh\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
