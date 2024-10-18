@@ -1,5 +1,14 @@
-- author: The Journal.
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2024-10-18T13:33:39+00:00'
+  description: Should I add bitcoin to my portfolio? If not, why not? This book will
+    help advisors answer these tough client questions.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/18/book-review-resistance-money-a-philosophical-case-for-bitcoin/
+  title: 'Book Review: Resistance Money: A Philosophical Case for Bitcoin'
+- author: The Journal.
+  categories: &id002
   - Podcasts
   date: '2024-10-18T00:00:00+00:00'
   description: "With millions of votes already cast, the race is on for each campaign\
@@ -38,8 +47,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/tracking-reserve-ampleness-in-real-time-using-reserve-demand-elasticity/
   title: Tracking Reserve Ampleness in Real Time Using Reserve Demand Elasticity
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-10-17T12:43:28+00:00'
   description: What are women's favorite alternative investments? What marketing strategies
     resonate with women, and which one's don't?
@@ -47,7 +55,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/17/the-alternative-investment-gender-gap-marketing-to-female-clients/
   title: 'The Alternative Investment Gender Gap: Marketing to Female Clients'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-17T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento? Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
@@ -77,7 +85,7 @@
   title: "#140 | O que NINGU\xC9M te contou sobre COMO LUCRAR com as ELEI\xC7\xD5\
     ES AMERICANAS"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-17T00:00:00+00:00'
   description: "Lilly Ledbetter, equal pay trailblazer, died on Saturday. WSJ\u2019\
     s Joseph De Avila reports on how Ledbetter faced pay discrimination at her job\
@@ -162,7 +170,7 @@
   path: https://www.youtube.com/watch?v=lX_G0l9jU94
   title: "\u26A1 FastAPI in 30 Seconds"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-10-16T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? (EVENTO GRATUITO): https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XAssine\
     \ a CompoundLetter, a melhor newsletter gratuita do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
@@ -202,14 +210,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95265bac-2221-4be8-ac62-e8f196380d7d_5000x4618.png
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-10-15T17:40:57+00:00'
-  description: The CAPM has its critics. Yet, the model, introduced by Bill Sharpe
-    in 1964, remains front and center in academia and in practice.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/15/happy-60th-anniversary-capm-why-the-capital-asset-pricing-model-still-matters/
-  title: Happy 60th Anniversary CAPM! Why the Capital Asset Pricing Model Still Matters
 - author: Marques Brownlee
   categories: &id006
   - Tech
