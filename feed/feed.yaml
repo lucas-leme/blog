@@ -1,3 +1,19 @@
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-18T00:00:00+00:00'
+  description: "With millions of votes already cast, the race is on for each campaign\
+    \ to get their supporters to the polls. Ryan Knutson talks with Molly Ball about\
+    \ the different strategies Trump and Harris are taking, and why election denial\
+    \ is such a big issue in Arizona. Plus, Rachel Humphreys speaks to a Gen Z Voter.\
+    \  Further Listening:\_ - Red, White and Who? Playlist\_ - Red, White and Who?\
+    \ Foreign Policy and the Rise of Donald Trump Jr.\_ - Red, White and Who? Veep\
+    \ Veep! All Eyes on Vance and Walz\_  Further Reading: - Republicans Rush to Bolster\
+    \ Trump\u2019s Ground Game\_ - Kari Lake\u2019s 2022 Fraud Claims Are Costing\
+    \ Her in 2024\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a90dc9f2636c9cbf88fefd159
+  path: https://open.spotify.com/episode/5jxrm8iR5VOtGciACqSyBS
+  title: Red, White and Who? The Desperation Stage
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -31,7 +47,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/17/the-alternative-investment-gender-gap-marketing-to-female-clients/
   title: 'The Alternative Investment Gender Gap: Marketing to Female Clients'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-17T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento? Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
@@ -61,8 +77,7 @@
   title: "#140 | O que NINGU\xC9M te contou sobre COMO LUCRAR com as ELEI\xC7\xD5\
     ES AMERICANAS"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-10-17T00:00:00+00:00'
   description: "Lilly Ledbetter, equal pay trailblazer, died on Saturday. WSJ\u2019\
     s Joseph De Avila reports on how Ledbetter faced pay discrimination at her job\
@@ -145,9 +160,9 @@
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/lX_G0l9jU94/hqdefault.jpg
   path: https://www.youtube.com/watch?v=lX_G0l9jU94
-  title: FastAPI in 30 Seconds
+  title: "\u26A1 FastAPI in 30 Seconds"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-10-16T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? (EVENTO GRATUITO): https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XAssine\
     \ a CompoundLetter, a melhor newsletter gratuita do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
@@ -177,21 +192,6 @@
   path: https://open.spotify.com/episode/5xl3lpUlw0aH8xUXmqwxnW
   title: "CONFLITO NO ORIENTE M\xC9DIO: o que REALMENTE est\xE1 acontecendo? | Corte\
     \ EP #137"
-- author: The Journal.
-  categories: *id002
-  date: '2024-10-16T00:00:00+00:00'
-  description: "Investigators say that Arion Kurtaj\u2019s life in cybercrime began\
-    \ at age 11, and ultimately led to his participation in the hacks of major companies\
-    \ like Nvidia, Microsoft, and Uber. WSJ\u2019s Robert McMillan explains how Kurtaj\u2019\
-    s case has brought worries about a new breed of fearless young hackers.  Further\
-    \ Reading:  -This Teenage Hacker Became a Legend Attacking Companies. Then His\
-    \ Rivals Attacked Him.\_ -Hackers Leaked \u2018Grand Theft Auto\u2019 Footage,\
-    \ Rockstar Games Says\_  Further Listening:   -Hack Me If You Can, Part 1: The\
-    \ Making of a Russian Hacker\_ -How North Korea\u2019s Hacker Army Stole $3 Billion\
-    \ in Crypto\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7gxgSIS7Z5n3TYAOluLkA3
-  title: How One Teenager Became a Legendary Hacker
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -274,7 +274,7 @@
     \ #softwaredesign #python"
   image: https://i3.ytimg.com/vi/J_iTz2C1c-Y/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J_iTz2C1c-Y
-  title: "\U0001F4B2 Choosing the Best Data Type for Monetary Values"
+  title: Choosing the Best Data Type for Monetary Values
 - author: The Overshoot
   categories: *id005
   date: '2024-10-12T00:34:39+00:00'
