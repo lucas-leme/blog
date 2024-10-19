@@ -1,8 +1,17 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-10-19T15:00:52+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/meeA-bFOcuk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=meeA-bFOcuk
+  title: 3 Essential Testing Tips Every Developer Needs
+- author: ArjanCodes
+  categories: *id001
   date: '2024-10-18T15:00:23+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I'll show you 15 really cool Python libraries that you should\
@@ -18,7 +27,7 @@
   path: https://www.youtube.com/watch?v=OiLgG4CabPo
   title: 15 POWERFUL Python Libraries You Should Be Using
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-18T13:33:39+00:00'
   description: Should I add bitcoin to my portfolio? If not, why not? This book will
@@ -27,7 +36,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/18/book-review-resistance-money-a-philosophical-case-for-bitcoin/
   title: 'Book Review: Resistance Money: A Philosophical Case for Bitcoin'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-18T00:00:00+00:00'
   description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
@@ -39,7 +48,7 @@
   path: https://open.spotify.com/episode/33SKkqfXPCjvieNwBPxSpJ
   title: 'The Missing Minister, Episode 1: The Vanishing of Qin Gang'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-18T00:00:00+00:00'
   description: "In the second episode of our investigation, we examine the life and\
     \ career of Fu Xiaotian: the prominent Chinese TV host who had an affair with\
@@ -73,7 +82,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/tracking-reserve-ampleness-in-real-time-using-reserve-demand-elasticity/
   title: Tracking Reserve Ampleness in Real Time Using Reserve Demand Elasticity
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-17T12:43:28+00:00'
   description: What are women's favorite alternative investments? What marketing strategies
     resonate with women, and which one's don't?
@@ -169,15 +178,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/62669aiJhHFqU6tG8o5BMQ
   title: 'Democratic dividend: the winners of the 2024 Nobel prize in economics'
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-10-16T15:00:53+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/lX_G0l9jU94/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=lX_G0l9jU94
-  title: "\u26A1 FastAPI in 30 Seconds"
 - author: Market Makers
   categories: *id004
   date: '2024-10-16T00:00:00+00:00'
