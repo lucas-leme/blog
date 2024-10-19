@@ -1,6 +1,23 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-10-19T12:50:23+00:00'
+  description: "SEC concedeu \"aprova\xE7\xE3o acelerada\" a 11 fundos negociados\
+    \ em bolsa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/regulador-americano-aprova-etfs-de-opcoes-de-bitcoin-na-bolsa-de-ny/
+  title: "Regulador americano aprova ETFs de op\xE7\xF5es de bitcoin na bolsa de NY"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2024-10-19T10:06:00+00:00'
+  description: "Em 51 dos 5.569 munic\xEDpios a defini\xE7\xE3o das elei\xE7\xF5es\
+    \ s\xF3 sair\xE1 no segundo turno"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-2024-quando-os-prefeitos-eleitos-vao-tomar-posse/
+  title: "Elei\xE7\xF5es 2024: Quando os prefeitos eleitos v\xE3o tomar posse?"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-10-18T17:48:51+00:00'
   description: "Ganhos compensam parcialmente uma semana dif\xEDcil para as moedas\
     \ do mundo em desenvolvimento"
@@ -8,18 +25,8 @@
   path: https://investnews.com.br/economia/em-semana-ruim-para-o-real-moedas-de-emergentes-se-recuperam-frente-ao-dolar/
   title: "Em semana ruim para o real, moedas de emergentes se recuperam frente ao\
     \ d\xF3lar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-18T17:06:26+00:00'
-  description: "Um \xFAnico apostador elevou o candidato, que nas pesquisas segue\
-    \ empatado com Kamala. Por aqui, o STF baniu a pr\xE1tica em setembro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-virou-lider-isolado-numa-grande-bet-americana-por-obra-de-um-unico-apostador/
-  title: "Trump virou l\xEDder isolado numa bet popular dos EUA; isso explica por\
-    \ que apostar em elei\xE7\xF5es \xE9 proibido no Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-10-17T12:43:34+00:00'
   description: "Os clientes est\xE3o sacando dinheiro, levando a um encolhimento dos\
     \ ativos sob gest\xE3o"
@@ -47,14 +54,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1g5ncy8/official_august_2024_level_3_results_megathread/
   title: Official August 2024 Level 3 Results Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-16T10:00:00+00:00'
-  description: "Regra da CVM traz transpar\xEAncia a mercado de investimentos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/esta-chegando-em-duas-semanas-voce-vai-saber-quanto-seu-assessor-ganha-com-sua-aplicacao/
-  title: "Est\xE1 chegando: em duas semanas, voc\xEA vai saber quanto seu assessor\
-    \ ganha com sua aplica\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2024-10-15T13:41:04+00:00'
