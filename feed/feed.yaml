@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-21T15:00:07+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/awqWiYUJy9k/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=awqWiYUJy9k
+  title: What I Learnt as a Business Owner
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -74,10 +86,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-10-19T15:00:52+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -85,22 +94,6 @@
   image: https://i2.ytimg.com/vi/meeA-bFOcuk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=meeA-bFOcuk
   title: 3 Essential Testing Tips Every Developer Needs
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-10-18T15:00:23+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I'll show you 15 really cool Python libraries that you should\
-    \ know about. Whether you\u2019re a data scientist or backend developer some,\
-    \ of these packages are going to be very useful to you.\n\n\U0001F525 GitHub Repository:\
-    \ https://git.arjan.codes/2024/python15\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses/\n\
-    \n\U0001F516 Chapters:\n0:14 #1 SQLAlchemy\n2:55 #2 BeautifulSoup\n4:47 #3 SymPy\n\
-    5:59 #4 Cookiecutter\n8:23 #5 Pickle\n10:07 #6 Pygame\n11:21 #7 Missingno\n12:22\
-    \ #8 Jinja2\n13:12 #9 Watchdog\n14:27 #10 Returns\n16:24 #11 Numerizer\n17:16\
-    \ #12 Box\n19:07 #13 Pipe \n20:10 #14 Nicegui\n21:16 #15 Screenshot-to-code\n\
-    22:15 Outro\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/OiLgG4CabPo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OiLgG4CabPo
-  title: 15 POWERFUL Python Libraries You Should Be Using
 - author: CFA Institute Enterprising Investor
   categories: *id002
   date: '2024-10-18T13:33:39+00:00'
