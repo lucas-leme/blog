@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-21T11:56:18+00:00'
+  description: "Bolsa brasileira est\xE1 atr\xE1s da maioria dos seus pares, prejudicada\
+    \ pelo aumento do gasto fiscal"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/a-bolsa-tinha-tudo-para-decolar-em-2024-mas-a-selic-estragou-a-festa/
+  title: A bolsa tinha tudo para decolar em 2024, mas a Selic estragou a festa
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-10-20T12:39:42+00:00'
   description: "FMI alertou governos mundiais a reduzir a d\xEDvida e reconstruir\
@@ -9,8 +18,7 @@
   title: "A bomba-rel\xF3gio global de US$ 100 trilh\xF5es continua em contagem regressiva,\
     \ alerta FMI"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-19T12:50:23+00:00'
   description: "SEC concedeu \"aprova\xE7\xE3o acelerada\" a 11 fundos negociados\
     \ em bolsa"
@@ -18,21 +26,13 @@
   path: https://investnews.com.br/financas/regulador-americano-aprova-etfs-de-opcoes-de-bitcoin-na-bolsa-de-ny/
   title: "Regulador americano aprova ETFs de op\xE7\xF5es de bitcoin na bolsa de NY"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-10-19T10:06:00+00:00'
   description: "Em 51 dos 5.569 munic\xEDpios a defini\xE7\xE3o das elei\xE7\xF5es\
     \ s\xF3 sair\xE1 no segundo turno"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/eleicoes-2024-quando-os-prefeitos-eleitos-vao-tomar-posse/
   title: "Elei\xE7\xF5es 2024: Quando os prefeitos eleitos v\xE3o tomar posse?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-10-17T12:43:34+00:00'
-  description: "Os clientes est\xE3o sacando dinheiro, levando a um encolhimento dos\
-    \ ativos sob gest\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fundo-verde-de-stuhlberger-enfrenta-rara-crise-e-corre-para-estancar-resgates/
-  title: Fundo Verde, de Stuhlberger, enfrenta rara crise e corre para estancar resgates
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
