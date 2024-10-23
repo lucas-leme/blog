@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-10-23T14:19:57+00:00'
+  description: By learning to appreciate positive skew and its associated tail events,
+    investors can unlock the full potential of stock market gains.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/23/unlocking-stock-market-success-why-you-should-embrace-the-skew/
+  title: 'Unlocking Stock Market Success: Why You Should Embrace the Skew'
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -69,7 +78,7 @@
   path: https://open.spotify.com/episode/5jrr1tD7uxRkGMp6Ru4G9d
   title: "#141 | A VERDADE CHOCANTE SOBRE INVESTIR EM A\xC7\xD5ES DA BOLSA BRASILEIRA"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-22T00:00:00+00:00'
   description: "For 17 days last year, unidentified drones swarmed an area in Virginia\
@@ -83,7 +92,7 @@
   path: https://open.spotify.com/episode/5B5IBztifn3lzJzCCWagYn
   title: The Mysterious Drones Flying Over U.S. Military Bases
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -95,8 +104,7 @@
   path: https://www.youtube.com/watch?v=awqWiYUJy9k
   title: What I Learnt as a Business Owner
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-10-21T12:06:13+00:00'
   description: As regulators continue to refine their understanding of AI and big
     data, financial institutions have an opportunity to shape the regulatory landscape
@@ -127,7 +135,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-10-21T00:00:00+00:00'
   description: "Clouds are gathering over the Sunshine State\u2019s housing market.\
     \ Especially along the state\u2019s Gulf Coast, housing inventory is up and buyer\
@@ -185,7 +193,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-10-19T15:00:52+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -193,14 +201,6 @@
   image: https://i2.ytimg.com/vi/meeA-bFOcuk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=meeA-bFOcuk
   title: 3 Essential Testing Tips Every Developer Needs
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-10-18T13:33:39+00:00'
-  description: Should I add bitcoin to my portfolio? If not, why not? This book will
-    help advisors field these tough client questions.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/18/book-review-resistance-money-a-philosophical-case-for-bitcoin/
-  title: 'Book Review: Resistance Money: A Philosophical Case for Bitcoin'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
