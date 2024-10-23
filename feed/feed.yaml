@@ -1,5 +1,54 @@
-- author: ArjanCodes
+- author: Market Makers
+  categories: &id004
+  - Podcasts
+  date: '2024-10-22T00:00:00+00:00'
+  description: "Ser\xE1 que investir na bolsa brasileira foi um erro nos \xFAltimos\
+    \ 10 anos?\_No epis\xF3dio de hoje recebemos Mauricio Bittencourt (s\xF3cio e\
+    \ gestor da Velt Partners), para uma conversa honesta sobre a dura realidade da\
+    \ chamada \"d\xE9cada perdida\" dos investimentos em a\xE7\xF5es no Brasil. Com\
+    \ uma an\xE1lise profunda, discutimos por que o mercado de a\xE7\xF5es brasileiro\
+    \ decepcionou tantos investidores ao longo da \xFAltima d\xE9cada, os fatores\
+    \ econ\xF4micos e pol\xEDticos que contribu\xEDram para esse cen\xE1rio, e como\
+    \ as expectativas do mercado foram frustradas.\_Exploramos os principais setores\
+    \ que sofreram perdas, as empresas que n\xE3o entregaram os resultados esperados\
+    \ e o que isso significa para quem deseja continuar investindo no Brasil. Tamb\xE9\
+    m discutimos a mentalidade dos grandes investidores e as li\xE7\xF5es que podemos\
+    \ aprender com esse per\xEDodo turbulento, al\xE9m de debater se h\xE1 esperan\xE7\
+    a de recupera\xE7\xE3o nos pr\xF3ximos anos. Exploramos tamb\xE9m o impacto da\
+    \ pandemia e suas consequ\xEAncias para o setor de sa\xFAde, com empresas como\
+    \ a Hapvida (HAPV3) e a Rede D\u2019Or (RDOR3) enfrentando grandes desafios, e\
+    \ como a recupera\xE7\xE3o desses setores pode estar mais pr\xF3xima do que se\
+    \ imagina.Em seguida, falamos sobre o desempenho das fintechs, com a queda dram\xE1\
+    tica nos valuations globais e o dilema enfrentado pelas startups no Brasil. Tamb\xE9\
+    m abordamos o setor banc\xE1rio, destacando o Ita\xFA (ITUB4) como exemplo de\
+    \ gest\xE3o eficiente e sua estrat\xE9gia de adapta\xE7\xE3o ao mercado digital,\
+    \ al\xE9m da Eneva (ENEV3), que se destaca pela execu\xE7\xE3o de projetos complexos\
+    \ em regi\xF5es remotas.Para encerrar, discutimos o caso da Localiza (RENT3),\
+    \ que ainda enfrenta os desafios do p\xF3s-pandemia e do aumento dos pre\xE7os\
+    \ dos carros. Voc\xEA acredita que a bolsa brasileira ainda oferece boas oportunidades\
+    \ de investimento, ou o mercado est\xE1 condenado a mais uma d\xE9cada de frustra\xE7\
+    \xF5es?Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
+    \ Mauricio Bittencourt (s\xF3cio e gestor da Velt Partners)Become a supporter\
+    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8aeeb43fff9ad03e824e858b38
+  path: https://open.spotify.com/episode/5jrr1tD7uxRkGMp6Ru4G9d
+  title: "#141 | A VERDADE CHOCANTE SOBRE INVESTIR EM A\xC7\xD5ES DA BOLSA BRASILEIRA"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-10-22T00:00:00+00:00'
+  description: "For 17 days last year, unidentified drones swarmed an area in Virginia\
+    \ that is home to a military base and other sensitive intelligence sites. WSJ\u2019\
+    s Gordon Lubold looked into why it was so difficult for U.S. officials to stop\
+    \ them.\_  Further Reading:  -Mystery Drones Swarmed a U.S. Military Base for\
+    \ 17 Days. The Pentagon Is Stumped.\_  Further Listening:  -How Ukraine Built\
+    \ a Weapon to Control the Black Sea\_ -Cheap Drones Are Transforming the Battlefield\_\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5B5IBztifn3lzJzCCWagYn
+  title: The Mysterious Drones Flying Over U.S. Military Bases
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -11,7 +60,7 @@
   path: https://www.youtube.com/watch?v=awqWiYUJy9k
   title: What I Learnt as a Business Owner
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-21T12:06:13+00:00'
   description: As regulators continue to refine their understanding of AI and big
@@ -43,8 +92,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-10-21T00:00:00+00:00'
   description: "Clouds are gathering over the Sunshine State\u2019s housing market.\
     \ Especially along the state\u2019s Gulf Coast, housing inventory is up and buyer\
@@ -102,7 +150,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-10-19T15:00:52+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -111,7 +159,7 @@
   path: https://www.youtube.com/watch?v=meeA-bFOcuk
   title: 3 Essential Testing Tips Every Developer Needs
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-18T13:33:39+00:00'
   description: Should I add bitcoin to my portfolio? If not, why not? This book will
     help advisors field these tough client questions.
@@ -132,20 +180,8 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/18102024
   title: "BC - Focus - Relat\xF3rio de Mercado - 18/10/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-18T00:00:00+00:00'
-  description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
-    \ Qin was a rising star in Chinese politics and a proteg\xE9 of China\u2019s strongman\
-    \ leader, Xi Jinping. In the first episode of our three-part investigation, we\
-    \ chart Qin\u2019s rise and begin to untangle the mystery of his disappearance.\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a006a6076de775f6fccbeef99
-  path: https://open.spotify.com/episode/33SKkqfXPCjvieNwBPxSpJ
-  title: 'The Missing Minister, Episode 1: The Vanishing of Qin Gang'
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id004
   date: '2024-10-17T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento? Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
     \ Neste epis\xF3dio ao vivo do Market Makers, vamos receber Andrew Reider (CIO\
@@ -232,37 +268,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/62669aiJhHFqU6tG8o5BMQ
   title: 'Democratic dividend: the winners of the 2024 Nobel prize in economics'
-- author: Market Makers
-  categories: *id004
-  date: '2024-10-16T00:00:00+00:00'
-  description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? (EVENTO GRATUITO): https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-XAssine\
-    \ a CompoundLetter, a melhor newsletter gratuita do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
-    \ acredita que estamos \xE0 beira de uma guerra total no Oriente M\xE9dio?Neste\
-    \ v\xEDdeo, analisamos a escalada do conflito e as complexas rela\xE7\xF5es que\
-    \ envolvem o Ir\xE3, o Hezbollah e o Hamas. Exploramos como as expectativas do\
-    \ Hamas em 7 de outubro n\xE3o se concretizam, mas desencadeiam uma s\xE9rie de\
-    \ eventos que culminam em ataques do Hezbollah no dia seguinte. Discutimos a import\xE2\
-    ncia das identidades \xE9tnicas e religiosas no Oriente M\xE9dio, como essas divis\xF5\
-    es hist\xF3ricas moldam os conflitos atuais, e a resposta militar de Israel, que\
-    \ se intensifica conforme a situa\xE7\xE3o se deteriora. A narrativa revela a\
-    \ estrat\xE9gia de Israel para recuperar a seguran\xE7a e como o Ir\xE3, atrav\xE9\
-    s do Hezbollah, continua a influenciar os conflitos na regi\xE3o.Al\xE9m disso,\
-    \ abordamos as implica\xE7\xF5es geopol\xEDticas e o papel dos Estados Unidos\
-    \ nessa din\xE2mica.E voc\xEA, como v\xEA a possibilidade de um conflito maior\
-    \ no Oriente M\xE9dio? Deixe sua opini\xE3o nos coment\xE1rios!Se voc\xEA gostou\
-    \ do v\xEDdeo, n\xE3o esque\xE7a de deixar o seu like e se inscrever no canal\
-    \ para mais an\xE1lises profundas sobre economia, pol\xEDtica e seguran\xE7a!\U0001F4FD\
-    \ VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE: https://youtube.com/live/N6OtNmfflB0Com\
-    \ o cupom MARKETMAKERS15, voc\xEA garante 15% OFF na sua primeira compra no site:\
-    \ https://www.shop2gether.com.br/masculino?utm_source=mktinfluencia&amp;utm_medium=ig&amp;utm_content=marketmakers&amp;utm_campaign=junho_mktinfluencia_ig_marketmakers\_\
-    \_- - - - - - - -\_CONFLITO NO ORIENTE M\xC9DIO: o que REALMENTE est\xE1 acontecendo?Apresentador:\
-    \ Josu\xE9 Guedes (@josueguedes__)\_Convidados: Andr\xE9 Lajst (cientista pol\xED\
-    tico e presidente executivo da StandWithUs no Brasil) e Samuel Feldberg (cientista\
-    \ pol\xEDtico)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ac4d142b3e93954a3833ed9c6
-  path: https://open.spotify.com/episode/5xl3lpUlw0aH8xUXmqwxnW
-  title: "CONFLITO NO ORIENTE M\xC9DIO: o que REALMENTE est\xE1 acontecendo? | Corte\
-    \ EP #137"
 - author: The Overshoot
   categories: &id006
   - Macro

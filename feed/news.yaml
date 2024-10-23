@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-22T21:47:21+00:00'
+  description: "Importa\xE7\xF5es de GNL do Brasil t\xEAm aumentado desde agosto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/com-seca-persistente-brasil-avalia-mais-importacoes-de-gas-natural-para-termeletricas-no-inicio-de-2025/
+  title: "Com seca persistente, Brasil avalia mais importa\xE7\xF5es de g\xE1s natural\
+    \ para termel\xE9tricas no in\xEDcio de 2025"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Quase 40% dos brasileiros n\xE3o pisam numa ag\xEAncia banc\xE1ria h\xE1\
     \ mais de seis meses"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-22T13:48:00+00:00'
   description: "Pela primeira vez, elei\xE7\xF5es municipais seguem hor\xE1rio oficial\
     \ de Bras\xEDlia em todo o pa\xEDs"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/eleicoes-2024-qual-e-o-horario-de-votacao-no-segundo-turno/
   title: "Elei\xE7\xF5es 2024: Qual \xE9 o hor\xE1rio de vota\xE7\xE3o no segundo\
     \ turno?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-22T13:01:00+00:00'
-  description: Felipe Salto, economista-chefe da Warren Investimentos, coloca ajuste
-    fiscal em perspectiva
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/copo-meio-cheio-ou-meio-vazio-especialista-explica-a-situacao-fiscal-do-brasil/
-  title: "Copo meio cheio ou meio vazio? Especialista explica a situa\xE7\xE3o fiscal\
-    \ do Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-10-21T11:56:18+00:00'
