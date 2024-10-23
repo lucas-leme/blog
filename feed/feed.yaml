@@ -1,5 +1,17 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-23T15:00:10+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/A5I45e0CDbI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=A5I45e0CDbI
+  title: 'Deploying FastAPI: Start With the End in Mind'
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-10-23T14:19:57+00:00'
   description: By learning to appreciate positive skew and its associated tail events,
@@ -78,7 +90,7 @@
   path: https://open.spotify.com/episode/5jrr1tD7uxRkGMp6Ru4G9d
   title: "#141 | A VERDADE CHOCANTE SOBRE INVESTIR EM A\xC7\xD5ES DA BOLSA BRASILEIRA"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-10-22T00:00:00+00:00'
   description: "For 17 days last year, unidentified drones swarmed an area in Virginia\
@@ -92,10 +104,7 @@
   path: https://open.spotify.com/episode/5B5IBztifn3lzJzCCWagYn
   title: The Mysterious Drones Flying Over U.S. Military Bases
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-10-21T15:00:07+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -104,7 +113,7 @@
   path: https://www.youtube.com/watch?v=awqWiYUJy9k
   title: What I Learnt as a Business Owner
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-21T12:06:13+00:00'
   description: As regulators continue to refine their understanding of AI and big
     data, financial institutions have an opportunity to shape the regulatory landscape
@@ -135,7 +144,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-10-21T00:00:00+00:00'
   description: "Clouds are gathering over the Sunshine State\u2019s housing market.\
     \ Especially along the state\u2019s Gulf Coast, housing inventory is up and buyer\
@@ -192,29 +201,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5612c0b3-6bf4-44ba-b573-95ac968f3d4b_2886x1843.png
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-10-19T15:00:52+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/meeA-bFOcuk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=meeA-bFOcuk
-  title: 3 Essential Testing Tips Every Developer Needs
-- author: RSS - Feeds do BC
-  categories:
-  - Bacen
-  - BC
-  date: '2024-10-18T00:00:00-03:00'
-  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
-    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
-    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
-    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
-    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
-    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
-  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/18102024
-  title: "BC - Focus - Relat\xF3rio de Mercado - 18/10/2024"
 - author: Outliers
   categories: &id009
   - Podcasts
