@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -11,7 +11,7 @@
   path: https://www.youtube.com/watch?v=A5I45e0CDbI
   title: 'Deploying FastAPI: Start With the End in Mind'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-10-23T14:19:57+00:00'
   description: By learning to appreciate positive skew and its associated tail events,
@@ -55,6 +55,23 @@
   path: https://open.spotify.com/episode/2qFVZZMSUZfga6rMfXnNu8
   title: "TRUMP X KAMALA: ESPECIALISTA REVELA QUEM \xC9 MELHOR PARA O BRASIL (A RESPOSTA\
     \ VAI TE SURPREENDER) | Corte EP #140"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-10-23T00:00:00+00:00'
+  description: "Across the country, elections officials are bracing for a potentially\
+    \ contentious election day. At the same time, a network of conservative election\
+    \ integrity groups are preparing to challenge the result. WSJ's Rebecca Ballhaus\
+    \ reports on the billionaire-funded effort to contest the election, and WSJ's\
+    \ Jim Carlton reports how Maricopa County, Arizona is preparing for the worst.\
+    \  Further Reading: -The Secretive Billionaire Network Funding \u2018Stop the\
+    \ Steal\u2019 2.0\_ -\u2018It Feels Very Dystopian.\u2019 Republican County Officials\
+    \ Brace for Election Deniers\u2014Again\_  Further Listening: -Red, White and\
+    \ Who? The Desperation Stage\_\_ -Uncovering Elon Musk's Secret Political Donations\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2HMCoQXAhG1BOqod3wvzou
+  title: Stop the Steal 2.0
 - author: Market Makers
   categories: *id001
   date: '2024-10-22T00:00:00+00:00'
@@ -90,8 +107,7 @@
   path: https://open.spotify.com/episode/5jrr1tD7uxRkGMp6Ru4G9d
   title: "#141 | A VERDADE CHOCANTE SOBRE INVESTIR EM A\xC7\xD5ES DA BOLSA BRASILEIRA"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-10-22T00:00:00+00:00'
   description: "For 17 days last year, unidentified drones swarmed an area in Virginia\
     \ that is home to a military base and other sensitive intelligence sites. WSJ\u2019\
@@ -104,7 +120,7 @@
   path: https://open.spotify.com/episode/5B5IBztifn3lzJzCCWagYn
   title: The Mysterious Drones Flying Over U.S. Military Bases
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-10-21T15:00:07+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -113,7 +129,7 @@
   path: https://www.youtube.com/watch?v=awqWiYUJy9k
   title: What I Learnt as a Business Owner
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-10-21T12:06:13+00:00'
   description: As regulators continue to refine their understanding of AI and big
     data, financial institutions have an opportunity to shape the regulatory landscape
@@ -143,21 +159,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
-- author: The Journal.
-  categories: *id004
-  date: '2024-10-21T00:00:00+00:00'
-  description: "Clouds are gathering over the Sunshine State\u2019s housing market.\
-    \ Especially along the state\u2019s Gulf Coast, housing inventory is up and buyer\
-    \ interest is slowing. WSJ\u2019s Deborah Acosta talks through the cooling-off\
-    \ of one of America\u2019s biggest housing booms and what it says about what it\
-    \ means to live in Florida now.  Further Listening:  - Is Asheville No Longer\
-    \ a 'Climate Haven?\_ - Years After Surfside Collapse, Florida Condos Are In Crisis\_\
-    \  Further Reading: - The Great Florida Migration Is Coming Undone\_ - Why the\
-    \ Tampa Area Is So Vulnerable to a Hurricane\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5iFTat7j9TgJAQRYsMX8d5
-  title: Why People Are Thinking Twice About Living in Florida
 - author: Marques Brownlee
   categories: &id005
   - Tech
