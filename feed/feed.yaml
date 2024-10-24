@@ -1,5 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-10-24T13:00:38+00:00'
+  description: Private credit is a treacherous swamp full of opportunists. Is your
+    consultant capable of defying the formidable odds of success?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/24/wall-streets-latest-flood-private-credit/
+  title: "Wall Street\u2019s Latest Flood: Private Credit"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -11,8 +20,7 @@
   path: https://www.youtube.com/watch?v=A5I45e0CDbI
   title: 'Deploying FastAPI: Start With the End in Mind'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2024-10-23T14:19:57+00:00'
   description: By learning to appreciate positive skew and its associated tail events,
     investors can unlock the full potential of stock market gains.
@@ -20,7 +28,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/23/unlocking-stock-market-success-why-you-should-embrace-the-skew/
   title: 'Unlocking Stock Market Success: Why You Should Embrace the Skew'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-23T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? | Num evento online e\
@@ -56,7 +64,7 @@
   title: "TRUMP X KAMALA: ESPECIALISTA REVELA QUEM \xC9 MELHOR PARA O BRASIL (A RESPOSTA\
     \ VAI TE SURPREENDER) | Corte EP #140"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-10-23T00:00:00+00:00'
   description: "Across the country, elections officials are bracing for a potentially\
@@ -73,7 +81,7 @@
   path: https://open.spotify.com/episode/2HMCoQXAhG1BOqod3wvzou
   title: Stop the Steal 2.0
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-10-22T00:00:00+00:00'
   description: "Ser\xE1 que investir na bolsa brasileira foi um erro nos \xFAltimos\
     \ 10 anos?\_No epis\xF3dio de hoje recebemos Mauricio Bittencourt (s\xF3cio e\
@@ -107,7 +115,7 @@
   path: https://open.spotify.com/episode/5jrr1tD7uxRkGMp6Ru4G9d
   title: "#141 | A VERDADE CHOCANTE SOBRE INVESTIR EM A\xC7\xD5ES DA BOLSA BRASILEIRA"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-10-22T00:00:00+00:00'
   description: "For 17 days last year, unidentified drones swarmed an area in Virginia\
     \ that is home to a military base and other sensitive intelligence sites. WSJ\u2019\
@@ -120,7 +128,7 @@
   path: https://open.spotify.com/episode/5B5IBztifn3lzJzCCWagYn
   title: The Mysterious Drones Flying Over U.S. Military Bases
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-10-21T15:00:07+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -128,16 +136,6 @@
   image: https://i2.ytimg.com/vi/awqWiYUJy9k/hqdefault.jpg
   path: https://www.youtube.com/watch?v=awqWiYUJy9k
   title: What I Learnt as a Business Owner
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-10-21T12:06:13+00:00'
-  description: As regulators continue to refine their understanding of AI and big
-    data, financial institutions have an opportunity to shape the regulatory landscape
-    by participating in discussions and implementing responsible practices.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/21/6-steps-to-navigate-the-regulatory-risks-of-ai-in-banking/
-  title: "AI\u2019s Game-Changing Potential in Banking: Are You Ready for the Regulatory\
-    \ Risks?"
 - author: Liberty Street Economics
   categories:
   - Macro
