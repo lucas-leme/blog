@@ -1,3 +1,22 @@
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-25T15:00:06+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I'll refactor some tricky, hard-to-detect code duplication, show\
+    \ you an example of when it's best to leave duplicated code as is, and share a\
+    \ few tips on how to avoid duplication altogether.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2024/duplication.\n\nBragir Repository: https://github.com/ArjanCodes/bragir.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:19 Obvious code duplication\n1:48 Why duplicate code needs to be\
+    \ avoided\n3:19 Duplicated code with different order\n7:26 Duplicate code in different\
+    \ locations\n9:41 When code duplication is okay\n17:12 Some tips for avoiding\
+    \ code duplication\n19:15 Outro\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/6AGDnJ_26uw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=6AGDnJ_26uw
+  title: Be CAREFUL With Removing Code Duplication
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -45,7 +64,7 @@
   title: "\u201CBatemos no pico da piora\u201D.  RCN fala em \u2018pessimismo exagerado\u2019\
     \ e mercado vira"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-10-24T13:00:38+00:00'
   description: Private credit is a treacherous swamp full of opportunists. Is your
@@ -54,7 +73,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/24/wall-streets-latest-flood-private-credit/
   title: "Wall Street\u2019s Latest Flood: Private Credit"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-24T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
@@ -117,10 +136,7 @@
   path: https://open.spotify.com/episode/29cAhQGThX31dOxd9NSaXd
   title: 'Robotaxis: how close is a driverless future?'
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2024-10-23T15:00:10+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -129,7 +145,7 @@
   path: https://www.youtube.com/watch?v=A5I45e0CDbI
   title: 'Deploying FastAPI: Start With the End in Mind'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-10-23T14:19:57+00:00'
   description: By learning to appreciate positive skew and its associated tail events,
     investors can unlock the full potential of stock market gains.
@@ -137,7 +153,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/23/unlocking-stock-market-success-why-you-should-embrace-the-skew/
   title: 'Unlocking Stock Market Success: Why You Should Embrace the Skew'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-10-23T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? | Num evento online e\
     \ gratuito, vamos falar sobre as tens\xF5es com a China, guerras, reflexos no\
@@ -171,15 +187,6 @@
   path: https://open.spotify.com/episode/2qFVZZMSUZfga6rMfXnNu8
   title: "TRUMP X KAMALA: ESPECIALISTA REVELA QUEM \xC9 MELHOR PARA O BRASIL (A RESPOSTA\
     \ VAI TE SURPREENDER) | Corte EP #140"
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-10-21T15:00:07+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/awqWiYUJy9k/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=awqWiYUJy9k
-  title: What I Learnt as a Business Owner
 - author: Liberty Street Economics
   categories:
   - Macro
