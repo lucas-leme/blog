@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-10-25T00:00:00+00:00'
+  description: "Five undecided voters in swing states speak to Rachel Humphreys about\
+    \ how they're feeling as election day looms. Ryan Knutson and Molly Ball unpack\
+    \ the stakes. Plus, will betting markets predict the winner?  Further Listening:\
+    \  - Red, White and Who? Playlist\_ - Red, White and Who? The Desperation Stage\_\
+    \ - How Betting on U.S. Politics Is Getting Big\_  Further Reading: - Trump Takes\
+    \ Narrow Lead Over Harris in Closing Weeks of Race\_ - Meet the Traders Making\
+    \ Money Off the Trump Shooting and Biden\u2019s Stumbles\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8ac52038152d52119cb9c5a1db
+  path: https://open.spotify.com/episode/0LJ8tCuApW61ASpjqlfk2w
+  title: Red, White and Who? The Undecided Voters Who Could Decide the Election
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -30,7 +45,7 @@
   title: "\u201CBatemos no pico da piora\u201D.  RCN fala em \u2018pessimismo exagerado\u2019\
     \ e mercado vira"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-24T13:00:38+00:00'
   description: Private credit is a treacherous swamp full of opportunists. Is your
@@ -39,7 +54,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/24/wall-streets-latest-flood-private-credit/
   title: "Wall Street\u2019s Latest Flood: Private Credit"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-10-24T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
@@ -69,8 +84,7 @@
   title: "#142 | COMO VENCER A MAIOR CRISE DO S\xC9CULO E SE TORNAR UMA L\xCDDER DE\
     \ MERCADO"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-10-24T00:00:00+00:00'
   description: "Mike Jeffries, former CEO of Abercrombie & Fitch, was arrested and\
     \ charged with running an international sex-trafficking ring. WSJ\u2019s Khadeeja\
@@ -115,7 +129,7 @@
   path: https://www.youtube.com/watch?v=A5I45e0CDbI
   title: 'Deploying FastAPI: Start With the End in Mind'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-23T14:19:57+00:00'
   description: By learning to appreciate positive skew and its associated tail events,
     investors can unlock the full potential of stock market gains.
@@ -123,7 +137,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/23/unlocking-stock-market-success-why-you-should-embrace-the-skew/
   title: 'Unlocking Stock Market Success: Why You Should Embrace the Skew'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-10-23T00:00:00+00:00'
   description: "TRUMP X KAMALA: QUAIS OS IMPACTOS NO MUNDO? | Num evento online e\
     \ gratuito, vamos falar sobre as tens\xF5es com a China, guerras, reflexos no\
@@ -157,22 +171,6 @@
   path: https://open.spotify.com/episode/2qFVZZMSUZfga6rMfXnNu8
   title: "TRUMP X KAMALA: ESPECIALISTA REVELA QUEM \xC9 MELHOR PARA O BRASIL (A RESPOSTA\
     \ VAI TE SURPREENDER) | Corte EP #140"
-- author: The Journal.
-  categories: *id004
-  date: '2024-10-23T00:00:00+00:00'
-  description: "Across the country, elections officials are bracing for a potentially\
-    \ contentious election day. At the same time, a network of conservative election\
-    \ integrity groups are preparing to challenge the result. WSJ's Rebecca Ballhaus\
-    \ reports on the billionaire-funded effort to contest the election, and WSJ's\
-    \ Jim Carlton reports how Maricopa County, Arizona is preparing for the worst.\
-    \  Further Reading: -The Secretive Billionaire Network Funding \u2018Stop the\
-    \ Steal\u2019 2.0\_ -\u2018It Feels Very Dystopian.\u2019 Republican County Officials\
-    \ Brace for Election Deniers\u2014Again\_  Further Listening: -Red, White and\
-    \ Who? The Desperation Stage\_\_ -Uncovering Elon Musk's Secret Political Donations\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2HMCoQXAhG1BOqod3wvzou
-  title: Stop the Steal 2.0
 - author: ArjanCodes
   categories: *id005
   date: '2024-10-21T15:00:07+00:00'
