@@ -18,8 +18,20 @@
   path: https://www.youtube.com/watch?v=6AGDnJ_26uw
   title: Be CAREFUL With Removing Code Duplication
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-10-25T00:00:00+00:00'
+  description: "Hans Zimmer, Academy Award-winning composer, and Golnar Khosrowshahi,\
+    \ CEO of Reservoir Media, discuss AI in the music industry, why human creation\
+    \ is still unique and whether or not Zimmer approves of \u201CThe Journal\u201D\
+    \ theme music.Further Listening:-Artificial: The OpenAI Story-When AI Comes for\
+    \ Your ArtFurther Reading:-Hans Zimmer, Movie Maestro-Music Labels Take On AI\
+    \ Startups With New Lawsuits Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6e5jCvUN24GYI1oYxY1Wej
+  title: "Hans Zimmer Isn\u2019t Scared of AI"
+- author: The Journal.
+  categories: *id001
   date: '2024-10-25T00:00:00+00:00'
   description: "Five undecided voters in swing states speak to Rachel Humphreys about\
     \ how they're feeling as election day looms. Ryan Knutson and Molly Ball unpack\
@@ -33,7 +45,7 @@
   path: https://open.spotify.com/episode/0LJ8tCuApW61ASpjqlfk2w
   title: Red, White and Who? The Undecided Voters Who Could Decide the Election
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-10-24T22:38:46+00:00'
   description: "<p>H\xE1 a \u201Cdestrui\xE7\xE3o criativa\u201D que move a inova\xE7\
@@ -49,7 +61,7 @@
   path: https://braziljournal.com/bets-sao-prejuizo-liquido-para-a-sociedade-diz-santander/
   title: "Bets s\xE3o preju\xEDzo l\xEDquido para a sociedade, diz Santander"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-10-24T22:22:15+00:00'
   description: "<p>Num sinal inequ\xEDvoco ao Planalto de que basta um pouco de bom\
     \ senso para melhorar as expectativas de investidores e reduzir a taxa de juros,\
@@ -102,19 +114,6 @@
   path: https://open.spotify.com/episode/2ma0Uol1n7H3Qu0E2VUZpZ
   title: "#142 | COMO VENCER A MAIOR CRISE DO S\xC9CULO E SE TORNAR UMA L\xCDDER DE\
     \ MERCADO"
-- author: The Journal.
-  categories: *id002
-  date: '2024-10-24T00:00:00+00:00'
-  description: "Mike Jeffries, former CEO of Abercrombie & Fitch, was arrested and\
-    \ charged with running an international sex-trafficking ring. WSJ\u2019s Khadeeja\
-    \ Safdar describes the alleged crimes and the potential fallout for the company.\
-    \  Further Reading:  -Former Abercrombie CEO Mike Jeffries Is Arrested, Charged\
-    \ in Sex-Trafficking Case\_  Further Listening:  -The Resurrection of Abercrombie\
-    \ & Fitch\_ -JPMorgan's $75 Million Jeffrey Epstein Settlement\_   Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1aa5RpSSBcbyZdqveQaAHb
-  title: Sex-Trafficking Charges for Former Abercrombie CEO
 - author: Money Talks from The Economist
   categories:
   - Podcasts
