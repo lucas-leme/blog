@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-26T19:00:00+00:00'
+  description: "Vota\xE7\xE3o ser\xE1 das 8h \xE0s 17h deste domingo, no hor\xE1rio\
+    \ de Bras\xEDlia, em 51 munic\xEDpios"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-2024-veja-tudo-o-que-voce-precisa-saber-para-votar-no-2o-turno/
+  title: "Elei\xE7\xF5es 2024: Veja tudo o que voc\xEA precisa saber para votar no\
+    \ 2\xBA turno"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   path: https://www.reddit.com/r/CFA/comments/1gcpfbe/claimed_another_victim/
   title: Claimed another victim
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-26T13:34:35+00:00'
   description: "A pedido dos EUA, instala\xE7\xF5es importantes no Ir\xE3 foram evitadas\
     \ no ataque"
@@ -26,15 +35,6 @@
   path: https://investnews.com.br/economia/ataque-contido-de-israel-ao-ira-pode-limitar-regiao-de-conflito-dizem-analistas/
   title: "Ataque \u2018contido\u2019 de Israel ao Ir\xE3 pode limitar regi\xE3o de\
     \ conflito, dizem analistas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-26T10:15:00+00:00'
-  description: "Eleitores fora do hor\xE1rio de Bras\xEDlia precisam se organizar\
-    \ para n\xE3o perder vota\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ate-que-horas-posso-votar-veja-horario-de-sua-sua-secao-eleitoral/
-  title: "At\xE9 que horas posso votar no 2\xBA turno? Veja hor\xE1rio de sua se\xE7\
-    \xE3o eleitoral"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id002
   date: '2024-10-25T04:01:27+00:00'
