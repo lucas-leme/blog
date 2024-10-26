@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id006
+  - Tech
+  - Youtube
+  date: '2024-10-26T00:02:50+00:00'
+  description: ''
+  image: https://i4.ytimg.com/vi/Smz-gtyI8gg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Smz-gtyI8gg
+  title: Taking 1000 Steps with Every Type of Wearable!
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -208,9 +217,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id006
   date: '2024-10-20T20:48:21+00:00'
   description: 'Huawei Mate XT is the tri-fold phone, a concept come to life
 
@@ -311,43 +318,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95265bac-2221-4be8-ac62-e8f196380d7d_5000x4618.png
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-10-14T23:37:50+00:00'
-  description: 'The Robotaxi event was a lot. These are my thoughts, plus a test ride
-    and some extras.
-
-
-    Full unedited Cybercab ride: https://youtu.be/ypLwacbff3s?si=uJ_7efJQb6dUAAp_
-
-
-    Tesla Optimus humanoid robot: https://youtu.be/Wk1oClYJE58?si=vDUmOJLdnaDQWM4W
-
-
-    Disney video: https://youtu.be/1KEtxTQUzxY?si=_Tz2GVHyijShwh5T
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: Jordyn Edmonds
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/fgm5uZaS3-E/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=fgm5uZaS3-E
-  title: The Tesla Robotaxi is Confusing...
 - author: The Overshoot
   categories: *id007
   date: '2024-10-12T00:34:39+00:00'
