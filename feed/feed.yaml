@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-10-26T15:00:02+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/37fDArEgOI8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=37fDArEgOI8
+  title: The Innovation Misstep
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -8,10 +20,7 @@
   path: https://www.youtube.com/watch?v=Smz-gtyI8gg
   title: Taking 1000 Steps with Every Type of Wearable!
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-10-25T15:00:06+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I'll refactor some tricky, hard-to-detect code duplication, show\
@@ -27,7 +36,7 @@
   path: https://www.youtube.com/watch?v=6AGDnJ_26uw
   title: Be CAREFUL With Removing Code Duplication
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-10-25T00:00:00+00:00'
   description: "Hans Zimmer, Academy Award-winning composer, and Golnar Khosrowshahi,\
@@ -40,7 +49,7 @@
   path: https://open.spotify.com/episode/6e5jCvUN24GYI1oYxY1Wej
   title: "Hans Zimmer Isn\u2019t Scared of AI"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-25T00:00:00+00:00'
   description: "Five undecided voters in swing states speak to Rachel Humphreys about\
     \ how they're feeling as election day looms. Ryan Knutson and Molly Ball unpack\
@@ -54,7 +63,7 @@
   path: https://open.spotify.com/episode/0LJ8tCuApW61ASpjqlfk2w
   title: Red, White and Who? The Undecided Voters Who Could Decide the Election
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-10-24T22:38:46+00:00'
   description: "<p>H\xE1 a \u201Cdestrui\xE7\xE3o criativa\u201D que move a inova\xE7\
@@ -70,7 +79,7 @@
   path: https://braziljournal.com/bets-sao-prejuizo-liquido-para-a-sociedade-diz-santander/
   title: "Bets s\xE3o preju\xEDzo l\xEDquido para a sociedade, diz Santander"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-10-24T22:22:15+00:00'
   description: "<p>Num sinal inequ\xEDvoco ao Planalto de que basta um pouco de bom\
     \ senso para melhorar as expectativas de investidores e reduzir a taxa de juros,\
@@ -143,15 +152,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/29cAhQGThX31dOxd9NSaXd
   title: 'Robotaxis: how close is a driverless future?'
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-10-23T15:00:10+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/A5I45e0CDbI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=A5I45e0CDbI
-  title: 'Deploying FastAPI: Start With the End in Mind'
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-10-23T14:19:57+00:00'
