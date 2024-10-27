@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-27T18:54:59+00:00'
+  description: "Aplicativo Boletim na M\xE3o, desenvolvido pela Justi\xE7a Eleitoral,\
+    \ ajuda a fiscalizar a vota\xE7\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-2024-acompanhe-os-resultados-do-2o-turno-pelo-celular/
+  title: "Elei\xE7\xF5es 2024: acompanhe os resultados do 2\xBA turno pelo celular"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -23,8 +32,7 @@
   path: https://www.reddit.com/r/CFA/comments/1gda3yi/am_i_crazy/
   title: Am I crazy?
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-26T19:00:00+00:00'
   description: "Vota\xE7\xE3o ser\xE1 das 8h \xE0s 17h deste domingo, no hor\xE1rio\
     \ de Bras\xEDlia, em 51 munic\xEDpios"
@@ -32,15 +40,6 @@
   path: https://investnews.com.br/economia/eleicoes-2024-veja-tudo-o-que-voce-precisa-saber-para-votar-no-2o-turno/
   title: "Elei\xE7\xF5es 2024: Tudo o que voc\xEA precisa saber para votar no 2\xBA\
     \ turno"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-26T13:34:35+00:00'
-  description: "A pedido dos EUA, instala\xE7\xF5es importantes no Ir\xE3 foram evitadas\
-    \ no ataque"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ataque-contido-de-israel-ao-ira-pode-limitar-regiao-de-conflito-dizem-analistas/
-  title: "Ataque \u2018contido\u2019 de Israel ao Ir\xE3 pode limitar regi\xE3o de\
-    \ conflito, dizem analistas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id002
   date: '2024-10-25T04:01:27+00:00'
