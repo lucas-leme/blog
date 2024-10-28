@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-28T13:25:34+00:00'
+  description: "Em meio \xE0 escolha presidencial, Uruguaios rejeitam adiantar previd\xEA\
+    ncia para trabalhadores com mais de 60 anos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/liberal-na-economia-e-nos-costumes-uruguai-afasta-reforma-da-previdencia-de-us-225-bilhoes/
+  title: "Liberal na economia e nos costumes, Uruguai afasta reforma da previd\xEA\
+    ncia de US$ 22,5 bilh\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -39,8 +49,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-27T23:56:49+00:00'
   description: "Veja os munic\xEDpios onde venceu o candidato que ficou em segundo\
     \ lugar no primeiro turno"
@@ -48,14 +57,6 @@
   path: https://investnews.com.br/economia/eleicoes-2024-em-12-das-51-cidades-do-segundo-turno-houve-virada-veja-lista/
   title: "Elei\xE7\xF5es 2024: Em 12 das 51 cidades do segundo turno houve \u2018\
     virada\u2019; veja lista"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-27T22:12:26+00:00'
-  description: "Atual prefeito derrotou Bruno Engler no neste domingo (27) ap\xF3\
-    s ficar atr\xE1s no primeiro turno"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fuad-noman-psd-e-reeleito-prefeito-de-belo-horizonte/
-  title: "Fuad Noman (PSD) \xE9 reeleito prefeito de Belo Horizonte"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id002
   date: '2024-10-25T04:01:27+00:00'
