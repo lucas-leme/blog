@@ -1,3 +1,22 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id004
+  - CFA
+  date: '2024-10-29T13:29:10+00:00'
+  description: Are you able to step outside the confines of social media echo chambers
+    to make informed investment decisions?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/10/29/from-tweets-to-trades-the-hidden-risks-of-social-media-in-investing/
+  title: 'From Tweets to Trades: The Hidden Risks of Social Media in Investing'
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2024-10-29T12:29:54+00:00'
+  description: The EU is Imposing Historically Large Tariffs on Chinese EVs in an
+    Effort to Protect Its Car Industry. Will it Work?
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26612dec-7613-4100-ae49-5b3cd524a281_2886x1843.png
+  path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
+  title: The EU Joins the EV Trade War
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -60,7 +79,7 @@
   path: https://www.youtube.com/watch?v=Smz-gtyI8gg
   title: Taking 1000 Steps with Every Type of Wearable!
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-26T00:00:00+00:00'
   description: "N\xC3O ACOMPANHOU OS OUTROS PAIN\xC9IS? ASSISTA AQUI:https://lp.moneytimes.com.br/small-caps-masters-mmk11-a/?xpromo=XE-ME-EMP-MMK11-SUBMMK-NTVYT-MM-X\
@@ -127,8 +146,7 @@
   path: https://braziljournal.com/bets-sao-prejuizo-liquido-para-a-sociedade-diz-santander/
   title: "Bets s\xE3o preju\xEDzo l\xEDquido para a sociedade, diz Santander"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id004
   date: '2024-10-24T13:00:38+00:00'
   description: Private credit is a treacherous swamp full of opportunists. Is your
     consultant capable of defying the formidable odds of success?
@@ -136,7 +154,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/24/wall-streets-latest-flood-private-credit/
   title: "Wall Street\u2019s Latest Flood: Private Credit"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-10-24T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-X\
@@ -184,14 +202,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/29cAhQGThX31dOxd9NSaXd
   title: 'Robotaxis: how close is a driverless future?'
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-10-23T14:19:57+00:00'
-  description: By learning to appreciate positive skew and its associated tail events,
-    investors can unlock the full potential of stock market gains.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/23/unlocking-stock-market-success-why-you-should-embrace-the-skew/
-  title: 'Unlocking Stock Market Success: Why You Should Embrace the Skew'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -245,9 +255,7 @@
   path: https://www.youtube.com/watch?v=Yv_S7KrOlfk
   title: The Tri Folding Phone Impressions!
 - author: Apricitas Economics
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
@@ -292,7 +300,7 @@
   path: https://open.spotify.com/episode/2M7KAFx4f2dynvYcaHFh7z
   title: "Real Estate: Is This the Entry Point We\u2019ve All Been Waiting For?"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-10-15T23:34:34+00:00'
@@ -302,7 +310,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -350,14 +358,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6c00ca55fc6c959fd6093f8f
   path: https://open.spotify.com/episode/77Iel7u4jtQQm5JX0dhdTB
   title: Farouk Jivraj - The Art & Science of Using Alternative Risk Premia (S7E12)
-- author: Apricitas Economics
-  categories: *id008
-  date: '2024-10-02T16:47:11+00:00'
-  description: Trump's Plan for Aggressively High Universal Tariffs Would be Horrible
-    for the US Economy
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5148df76-1202-4eea-8889-acc335431618_2886x1843.png
-  path: https://www.apricitas.io/p/universal-tariffs-are-universally
-  title: Universal Tariffs are Universally Bad
 - author: Outliers
   categories: *id009
   date: '2024-10-02T00:00:00+00:00'
