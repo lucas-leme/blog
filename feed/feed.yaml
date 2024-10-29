@@ -17,8 +17,23 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26612dec-7613-4100-ae49-5b3cd524a281_2886x1843.png
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
-- author: ArjanCodes
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-10-29T00:00:00+00:00'
+  description: "During the Trump administration, Chris Krebs was the top cybersecurity\
+    \ official at the Department of Homeland Security. He spoke with WSJ\u2019s Rolfe\
+    \ Winkler at WSJ Tech Live about the upcoming U.S. election and growing cyber\
+    \ threats from foreign governments.  Further Listening:  -The Chinese Hackers\
+    \ Spying on U.S. Internet Traffic\_ -Red, White and Who? Playlist\_  Further Reading:\
+    \ -China-Linked Hackers Breach U.S. Internet Providers in New \u2018Salt Typhoon\u2019\
+    \ Cyberattack\_ -U.S. Wiretap Systems Targeted in China-Linked Hack\_  Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5j37Fpn6aCLqriqzCH0Jox
+  title: "Former Election Security Head on America\u2019s Biggest Threats"
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -30,8 +45,7 @@
   path: https://www.youtube.com/watch?v=hn_0mjT5zTA
   title: Why Rushing into Legacy Code Changes is a Mistake
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2024-10-28T00:00:00+00:00'
   description: "For the past two years, tech billionaire Elon Musk has been having\
     \ regular contact with Russian President Vladimir Putin. WSJ\u2019s Thomas Grove\
@@ -61,7 +75,7 @@
   path: https://braziljournal.com/opiniao-e-hora-de-virar-o-jogo-das-expectativas/
   title: "OPINI\xC3O.\_ \xC9 hora de virar o jogo das expectativas"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-10-26T15:00:02+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -118,18 +132,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/25102024
   title: "BC - Focus - Relat\xF3rio de Mercado - 25/10/2024"
-- author: The Journal.
-  categories: *id002
-  date: '2024-10-25T00:00:00+00:00'
-  description: "Hans Zimmer, Academy Award-winning composer, and Golnar Khosrowshahi,\
-    \ CEO of Reservoir Media, discuss AI in the music industry, why human creation\
-    \ is still unique and whether or not Zimmer approves of \u201CThe Journal\u201D\
-    \ theme music.Further Listening:-Artificial: The OpenAI Story-When AI Comes for\
-    \ Your ArtFurther Reading:-Hans Zimmer, Movie Maestro-Music Labels Take On AI\
-    \ Startups With New Lawsuits Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6e5jCvUN24GYI1oYxY1Wej
-  title: "Hans Zimmer Isn\u2019t Scared of AI"
 - author: "Economia \u2013 Brazil Journal"
   categories: *id003
   date: '2024-10-24T22:38:46+00:00'
