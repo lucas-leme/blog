@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2024-10-29T14:12:18+00:00'
+  description: "Entre os fatores que impulsionam criptomoedas est\xE3o as especula\xE7\
+    \xF5es sobre o resultado das elei\xE7\xF5es americanas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/preco-do-bitcoin-ultrapassa-us-71-mil-e-se-volta-a-rondar-a-maxima-historica/
+  title: "Pre\xE7o do Bitcoin ultrapassa US$ 71 mil e volta a rondar m\xE1xima hist\xF3\
+    rica"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -96,8 +106,7 @@
   path: https://www.reddit.com/r/CFA/comments/1gblmq9/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2024-10-23T15:04:07+00:00'
   description: "Novo Nordisk, fabricante do Ozempic e Wegovy, ser\xE1 uma das primeiras\
     \ a usar m\xE1quina de 30 toneladas"
@@ -105,12 +114,3 @@
   path: https://investnews.com.br/financas/supercomputador-da-nvidia-acelera-descoberta-de-novos-remedios-na-dinamarca-com-ia/
   title: "Supercomputador da Nvidia acelera descoberta de novos rem\xE9dios na Dinamarca\
     \ com IA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2024-10-22T15:09:48+00:00'
-  description: "Segundo pesquisa da Ipsos, 26% dos jovens adultos nunca fez dep\xF3\
-    sito de dinheiro f\xEDsico no caixa eletr\xF4nico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/quase-40-dos-brasileiros-nao-pisam-em-agencia-bancaria-ha-mais-de-seis-meses/
-  title: "Quase 40% dos brasileiros n\xE3o pisam numa ag\xEAncia banc\xE1ria h\xE1\
-    \ mais de seis meses"
