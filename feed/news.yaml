@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-29T20:47:05+00:00'
+  description: "Haddad desconversou sobre possibilidade de corte de despesas entre\
+    \ R$ 30 bilh\xF5es e R$ 50 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/dolar-fecha-no-maior-patamar-em-mais-de-3-anos-com-incertezas-sobre-corte-de-gastos-do-governo/
+  title: "D\xF3lar fecha no maior valor em mais de 3 anos com incertezas sobre corte\
+    \ de gastos do governo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Pre\xE7o do Bitcoin ultrapassa US$ 71 mil e volta a rondar m\xE1xima hist\xF3\
     rica"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-29T13:07:45+00:00'
   description: "O pa\xEDs continua a ver recupera\xE7\xE3o econ\xF4mica moderada,\
     \ mas corta perspectiva para ind\xFAstria"
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/economia/japao-vive-desafio-de-recuperar-economia-com-novo-governo-e-afastar-transtornos-regionais/
   title: "Jap\xE3o vive desafio de recuperar economia com novo governo e afastar transtornos\
     \ regionais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-29T10:00:00+00:00'
-  description: "No total, 115 mil pessoas que tiram mais de R$ 1 milh\xE3o por ano\
-    \ apenas com dividendos seriam os mais afetados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/imposto-para-milionarios-atingiria-15-mil-pequenas-empresas-adeptas-do-simples/
-  title: "\u2018Imposto para milion\xE1rios\u2019 atingiria 15 mil pequenas empresas\
-    \ adeptas do Simples"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
