@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-10-31T10:00:00+00:00'
+  description: "Nos EUA, John Paulson se coloca como futuro secret\xE1rio do Tesouro;\
+    \ no Brasil, governo prepara pacote"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/corte-de-gastos-la-e-ca-bilionario-diz-que-ele-e-musk-vao-cortar-trilhoes-se-trump-for-eleito/
+  title: "Corte de gastos l\xE1 e c\xE1: bilion\xE1rio diz que ele e Musk v\xE3o cortar\
+    \ trilh\xF5es se Trump for eleito"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -38,23 +48,13 @@
   path: https://www.reddit.com/r/CFA/comments/1gg5z9m/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-10-30T18:47:00+00:00'
   description: "Benef\xEDcio tem calend\xE1rio de pagamento e valor m\xE1ximo de um\
     \ sal\xE1rio-m\xEDnimo"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/como-consultar-seu-numero-do-pis-ou-nis-veja-em-5-passos/
   title: "Como consultar o n\xFAmero do PIS: passo a passo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-10-30T14:35:10+00:00'
-  description: "Consumo das fam\xEDlias cresceu 3,7% no maior ritmo desde in\xEDcio\
-    \ de 2023"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pib-dos-eua-cresce-28-no-3o-trimestre-impulsionado-por-gastos-de-defesa-e-consumo/
-  title: "PIB dos EUA cresce 2,8% no 3\xBA trimestre impulsionado por gastos de defesa\
-    \ e consumo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
