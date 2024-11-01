@@ -1,5 +1,16 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-11-01T12:32:37+00:00'
+  description: The secret sauce of Canadian pension plan returns lies in their ability
+    to attract top talent, carefully design compensation frameworks, and adapt to
+    market conditions.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/01/retaining-top-investment-talent-lessons-learned-by-large-canadian-pension-plans/
+  title: 'Retaining Top Investment Talent: Lessons Learned by Large Canadian Pension
+    Plans'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-01T02:12:58+00:00'
   description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
@@ -16,7 +27,7 @@
   title: "Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou. A a\xE7\xE3o\
     \ mais velha da Justi\xE7a"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-01T00:00:00+00:00'
   description: "Rachel Humphreys and Molly Ball share dispatches from two major campaign\
@@ -32,8 +43,7 @@
   path: https://open.spotify.com/episode/6LRYwatPOstP4KN3LcHiVi
   title: Red, White and Who? An Electoral College Blowout?
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2024-10-31T12:41:36+00:00'
   description: Big tech is spending big on AI technologies. Training and operating
     them has raised concerns about environmental impact. What disclosures should sustainable
@@ -65,7 +75,7 @@
   path: https://open.spotify.com/episode/407oEFxBI96cyqBLyBiICN
   title: "#145 | O QUE NINGU\xC9M TE CONTA SOBRE O FUTURO DA RENDA FIXA NO BRASIL"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-10-31T00:00:00+00:00'
   description: "After a rocky start, self-driving car company Waymo seems to have\
     \ won over riders in San Francisco. WSJ\u2019s Meghan Bobrowsky talks about the\
@@ -97,7 +107,7 @@
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-10-30T16:25:46+00:00'
   description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
     \xE3o &#8212; com algumas emiss\xF5es n\xE3o conseguindo levantar o volume desejado\
@@ -160,14 +170,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2024-10-29T13:29:10+00:00'
-  description: Are you able to step outside the confines of social media echo chambers
-    to make informed investment decisions?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/10/29/from-tweets-to-trades-the-hidden-risks-of-social-media-in-investing/
-  title: 'From Tweets to Trades: The Risks of Social Media in Investing'
 - author: Apricitas Economics
   categories: &id007
   - Macro
