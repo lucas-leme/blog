@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-10-31T12:41:36+00:00'
   description: Big tech is spending big on AI technologies. Training and operating
@@ -8,6 +8,43 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/10/31/the-hidden-environmental-costs-of-tech-giants-ai-investments/
   title: "The Hidden Environmental Costs of Tech Giants\u2019 AI Investments"
+- author: Market Makers
+  categories: &id004
+  - Podcasts
+  date: '2024-10-31T00:00:00+00:00'
+  description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
+    \ e atual: o explosivo crescimento do mercado de cr\xE9dito no Brasil e o futuro\
+    \ dos fundos de investimento em direitos credit\xF3rios (FIDICs) e fundos imobili\xE1\
+    rios.Para entender a fundo esse cen\xE1rio, recebemos M\xE1rio Okazuka, CEO da\
+    \ GCB Capital, um especialista em cr\xE9dito com mais de 20 anos de experi\xEA\
+    ncia. M\xE1rio explica como os fundos de investimentos em direitos credit\xF3\
+    rios (FIDICs) est\xE3o ganhando popularidade entre investidores de varejo e como\
+    \ esse mercado se entrela\xE7a com a realidade econ\xF4mica brasileira.Exploramos\
+    \ o impacto das altas taxas de juros, a demanda crescente por produtos de cr\xE9\
+    dito, e os fatores que tornam o cen\xE1rio complexo e imprevis\xEDvel. Com hist\xF3\
+    rias fascinantes, como o FIDIC do Palmeiras e insights sobre a seguran\xE7a dos\
+    \ investimentos em fundos de cr\xE9dito, o papo aborda as oportunidades e riscos\
+    \ desse mercado para quem quer entender o contexto atual e se posicionar bem para\
+    \ o futuro.Voc\xEA acha que o mercado de cr\xE9dito \xE9 uma aposta segura ou\
+    \ est\xE1 arriscado demais?\_Apresentador: Thiago Salom\xE3o (@_salomoney)Convidado:\
+    \ Mario Okazuka, CEO da GCB Capital\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a6e15496b02065a34c7c8c303
+  path: https://open.spotify.com/episode/407oEFxBI96cyqBLyBiICN
+  title: "#145 | O QUE NINGU\xC9M TE CONTA SOBRE O FUTURO DA RENDA FIXA NO BRASIL"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-10-31T00:00:00+00:00'
+  description: "After a rocky start, self-driving car company Waymo seems to have\
+    \ won over riders in San Francisco. WSJ\u2019s Meghan Bobrowsky talks about the\
+    \ company\u2019s push to convince the public its robotaxis are safe and the challenges\
+    \ of replicating that progress elsewhere.  Further Reading: -How San Francisco\
+    \ Learned to Love Self-Driving Cars\_ -America\u2019s Most Tech-Forward City Has\
+    \ Doubts About Self-Driving Cars\_  Further Listening: -The Future of Self-Driving\
+    \ Cars Is Here\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2lDvgfS7N8PD0vnVLAoHZR
+  title: How Waymo Won Over San Francisco
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -28,7 +65,7 @@
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-10-30T16:25:46+00:00'
   description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
@@ -44,7 +81,7 @@
   path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
   title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -56,8 +93,7 @@
   path: https://www.youtube.com/watch?v=-N9O5IkQEWg
   title: Why Failing Fast is Good
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-10-30T00:00:00+00:00'
   description: "For four generations, the Merwin family has worked in Boeing\u2019\
     s factories in Washington state. But for the last six weeks, Tony Merwin and his\
@@ -96,7 +132,7 @@
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-10-29T16:06:51+00:00'
   description: "<p>No come\xE7o deste m\xEAs, os cafezais do Sul de Minas Gerais foram\
     \ tomados por pequenas flores brancas. A florada \xE9 um espet\xE1culo que dura\
@@ -110,7 +146,7 @@
   path: https://braziljournal.com/mais-um-cafezinho-por-favor-melhor-nao/
   title: "\u201CMais um cafezinho, por favor.\u201D Melhor n\xE3o"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-10-29T13:29:10+00:00'
   description: Are you able to step outside the confines of social media echo chambers
     to make informed investment decisions?
@@ -128,8 +164,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id004
   date: '2024-10-29T00:00:00+00:00'
   description: "EUA x CHINA: quem realmente liderar\xE1 o mundo ap\xF3s as elei\xE7\
     \xF5es americanas de 2024? As elei\xE7\xF5es americanas de 2024 colocam frente\
@@ -152,22 +187,8 @@
   path: https://open.spotify.com/episode/4R0qM9wYmHKXkIhjzVBCIO
   title: "#144 | EUA x CHINA: O QUE N\xC3O TE CONTARAM SOBRE O FUTURO DO MUNDO P\xD3\
     S-ELEI\xC7\xD5ES"
-- author: The Journal.
-  categories: *id003
-  date: '2024-10-29T00:00:00+00:00'
-  description: "During the Trump administration, Chris Krebs was the top cybersecurity\
-    \ official at the Department of Homeland Security. He spoke with WSJ\u2019s Rolfe\
-    \ Winkler at WSJ Tech Live about the upcoming U.S. election and growing cyber\
-    \ threats from foreign governments.  Further Listening:  -The Chinese Hackers\
-    \ Spying on U.S. Internet Traffic\_ -Red, White and Who? Playlist\_  Further Reading:\
-    \ -China-Linked Hackers Breach U.S. Internet Providers in New \u2018Salt Typhoon\u2019\
-    \ Cyberattack\_ -U.S. Wiretap Systems Targeted in China-Linked Hack\_  Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5j37Fpn6aCLqriqzCH0Jox
-  title: "Former Election Security Head on America\u2019s Biggest Threats"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-10-28T16:00:44+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -184,31 +205,6 @@
   image: https://i4.ytimg.com/vi/Smz-gtyI8gg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Smz-gtyI8gg
   title: Taking 1000 Steps with Every Type of Wearable!
-- author: Market Makers
-  categories: *id005
-  date: '2024-10-26T00:00:00+00:00'
-  description: "N\xC3O ACOMPANHOU OS OUTROS PAIN\xC9IS? ASSISTA AQUI:https://lp.moneytimes.com.br/small-caps-masters-mmk11-a/?xpromo=XE-ME-EMP-MMK11-SUBMMK-NTVYT-MM-X\
-    \ Por que os fundos de investimento ignoram as a\xE7\xF5es small caps e deixam\
-    \ dinheiro na mesa? Neste epis\xF3dio, trouxemos Werner Roger (CIO da Tr\xEDgono\
-    \ Capital), um dos gestores mais influentes do Brasil, para revelar as estrat\xE9\
-    gias que lhe renderam mais de 177% de retorno nos \xFAltimos 5 anos investindo\
-    \ em a\xE7\xF5es Small Caps.Com um olhar \xFAnico, Werner explica como avalia\
-    \ empresas, priorizando convic\xE7\xE3o e concentra\xE7\xE3o em vez de diversifica\xE7\
-    \xE3o, e por que acredita que investir em poucas e boas empresas \xE9 o segredo\
-    \ para proteger riscos e multiplicar lucros.Exploramos as principais teses dele,\
-    \ como a filosofia de investimento bottom-up e a an\xE1lise de valor econ\xF4\
-    mico adicionado, al\xE9m de discutir a trajet\xF3ria das a\xE7\xF5es small caps\
-    \ no Brasil e o papel dos conselheiros na governan\xE7a corporativa.\_Werner ainda\
-    \ compartilhou insights exclusivos sobre as empresas mais promissoras no radar\
-    \ da Tr\xEDgono e desmistificou os mitos sobre o perfil de risco dessas a\xE7\xF5\
-    es. Qual sua opini\xE3o sobre investir em small caps? Voc\xEA j\xE1 teve uma experi\xEA\
-    ncia de sucesso ou susto com essas a\xE7\xF5es?Apresentadores: Thiago Salom\xE3\
-    o (@_salomoney) e Matheus Soares (@maatssoares) Convidados: Werner Roger (CIO\
-    \ da Tr\xEDgono Capital)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a54f69a62412f16b860c3c61a
-  path: https://open.spotify.com/episode/3J6zE9zzg83dDY2ymynhXL
-  title: "#143 | COMO INVESTE UM DOS MAIORES GANHADORES DA BOLSA BRASILEIRA NOS \xDA\
-    LTIMOS ANOS"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
