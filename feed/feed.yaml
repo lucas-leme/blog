@@ -1,5 +1,5 @@
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-01T19:30:02+00:00'
@@ -29,7 +29,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -60,6 +60,23 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/01/retaining-top-investment-talent-lessons-learned-by-large-canadian-pension-plans/
   title: 'Retaining Top Investment Talent: Lessons Learned by Large Canadian Pension
     Plans'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-11-01T02:12:58+00:00'
+  description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
+    vamos que as a\xE7\xF5es contra a privatiza\xE7\xE3o da Vale, que demoraram 27\
+    \ anos para ser resolvidas, eram a not\xEDcia mais espetacularmente bizarra sobre\
+    \ o assunto, descobrimos que ela foi superada por outra no ranking das a\xE7\xF5\
+    es mais longevas do Pa\xEDs &#8212; ironicamente uma que envolve a [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/getulio-estatizou-e-o-brasil-ainda-nao-pagou-a-acao-mais-velha-da-justica/\"\
+    \ rel=\"nofollow\">Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou.\
+    \ A a\xE7\xE3o mais velha da Justi\xE7a</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/getulio-estatizou-e-o-brasil-ainda-nao-pagou-a-acao-mais-velha-da-justica/
+  title: "Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou. A a\xE7\xE3o\
+    \ mais velha da Justi\xE7a"
 - author: The Journal.
   categories: &id002
   - Podcasts
@@ -86,7 +103,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/31/the-hidden-environmental-costs-of-tech-giants-ai-investments/
   title: "The Hidden Environmental Costs of Tech Giants\u2019 AI Investments"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-31T00:00:00+00:00'
   description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
@@ -140,8 +157,23 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: *id003
+  date: '2024-10-30T16:25:46+00:00'
+  description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
+    \xE3o &#8212; com algumas emiss\xF5es n\xE3o conseguindo levantar o volume desejado\
+    \ e outras tendo que ser postergadas por falta de demanda.\_ Nas \xFAltimas semanas,\
+    \ pelo menos seis emiss\xF5es passaram por situa\xE7\xF5es como essa.\_ A mais\
+    \ recente foi a da Tigre, que buscava levantar R$ 651 [&#8230;]</p>\n<p>The post\
+    \ <a href=\"https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/\"\
+    \ rel=\"nofollow\">Spreads comprimem demais, e cr\xE9dito privado come\xE7a a\
+    \ corrigir</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
+  title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
+- author: ArjanCodes
+  categories: *id004
   date: '2024-10-30T16:00:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -150,7 +182,7 @@
   path: https://www.youtube.com/watch?v=-N9O5IkQEWg
   title: "\U0001F4A3 Why Failing Fast is Good"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-10-30T00:00:00+00:00'
   description: "Participantes:Clara Sodr\xE9 | Analista de fundo da XPRodrigo Sgavioli,\
@@ -173,7 +205,7 @@
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: AQR
-  categories: &id009
+  categories: &id010
   - Quant
   - Papers
   date: '2024-10-30T00:00:00'
@@ -187,7 +219,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-10-29T12:29:54+00:00'
@@ -197,7 +229,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-10-29T00:00:00+00:00'
   description: "EUA x CHINA: quem realmente liderar\xE1 o mundo ap\xF3s as elei\xE7\
     \xF5es americanas de 2024? As elei\xE7\xF5es americanas de 2024 colocam frente\
@@ -221,7 +253,7 @@
   title: "#144 | EUA x CHINA: O QUE N\xC3O TE CONTARAM SOBRE O FUTURO DO MUNDO P\xD3\
     S-ELEI\xC7\xD5ES"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-10-26T00:02:50+00:00'
   description: ''
   image: https://i4.ytimg.com/vi/Smz-gtyI8gg/hqdefault.jpg
@@ -263,7 +295,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
@@ -271,7 +303,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-10-17T00:00:00+00:00'
   description: "No epis\xF3dio 139\xB0 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
     \ receberam Samuel Santos, Gestor de Infraestrutura da Az Quest, e Giancarlo Gentiluomo\
@@ -307,7 +339,7 @@
   path: https://open.spotify.com/episode/2M7KAFx4f2dynvYcaHFh7z
   title: "Real Estate: Is This the Entry Point We\u2019ve All Been Waiting For?"
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-10-15T23:34:34+00:00'
@@ -317,7 +349,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -325,7 +357,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-not-slowing-down
   title: The U.S. Economy Is Not Slowing Down
 - author: CFA Institute Research and Policy Center
-  categories: &id010
+  categories: &id011
   - CFA
   date: '2024-10-11T00:00:00+00:00'
   description: Applying a novel model to a proprietary dataset, this study evaluates
@@ -334,7 +366,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
   title: 'Accessing Private Markets: What Does It Cost?'
 - author: AQR
-  categories: *id009
+  categories: *id010
   date: '2024-10-08T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 8, 2024<span class=\"article__author\">\n</span>\n                    </p><br\
@@ -702,7 +734,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: CFA Institute Research and Policy Center
-  categories: *id010
+  categories: *id011
   date: '2024-09-24T00:00:00+00:00'
   description: New evidence indicates that different types of subjective expectations
     have time-varying roles in explaining stock price variations.
