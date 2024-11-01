@@ -1,3 +1,24 @@
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-01T16:00:31+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nPublishing a Python package doesn't have to be overwhelming! In this video,\
+    \ I\u2019ll walk you through the entire deployment process step-by-step. You'll\
+    \ learn how to automate releases with GitHub Actions and how to successfully publish\
+    \ your package on PyPi.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/publish_pypi.\n\
+    \n\u270D\U0001F3FB Bragir Repository: https://github.com/ArjanCodes/bragir.\n\n\
+    \U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:30 Overall\n1:40 Prerequisites\n2:13 Authentication With PyPi\n\
+    2:53 Setting up authentication: Trusted Publisher\n4:20 When To Run The GitHub\
+    \ Action\n5:27 Tagging\n6:11 Nice To Have\n8:19 Checking PyPi\n10:02 Setup And\
+    \ Build\n11:20 Publish To PyPI - Trusted Publisher\n12:16 Publish To GitHub\n\
+    16:42 BONUS: Homebrew\n19:27 Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/NMQwzI9hprg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=NMQwzI9hprg
+  title: Step-by-Step Python Package Deployment with GitHub Actions
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -52,7 +73,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/31/the-hidden-environmental-costs-of-tech-giants-ai-investments/
   title: "The Hidden Environmental Costs of Tech Giants\u2019 AI Investments"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-10-31T00:00:00+00:00'
   description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
@@ -122,10 +143,7 @@
   path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
   title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2024-10-30T16:00:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -181,7 +199,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-10-29T00:00:00+00:00'
   description: "EUA x CHINA: quem realmente liderar\xE1 o mundo ap\xF3s as elei\xE7\
     \xF5es americanas de 2024? As elei\xE7\xF5es americanas de 2024 colocam frente\
@@ -204,15 +222,6 @@
   path: https://open.spotify.com/episode/4R0qM9wYmHKXkIhjzVBCIO
   title: "#144 | EUA x CHINA: O QUE N\xC3O TE CONTARAM SOBRE O FUTURO DO MUNDO P\xD3\
     S-ELEI\xC7\xD5ES"
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-10-28T16:00:44+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/hn_0mjT5zTA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=hn_0mjT5zTA
-  title: Why Rushing into Legacy Code Changes is a Mistake
 - author: Marques Brownlee
   categories: &id006
   - Tech
