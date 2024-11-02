@@ -50,7 +50,7 @@
   path: https://www.youtube.com/watch?v=NMQwzI9hprg
   title: Step-by-Step Python Package Deployment with GitHub Actions
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-11-01T12:32:37+00:00'
   description: The secret sauce of Canadian pension plan returns lies in their ability
@@ -78,8 +78,23 @@
   title: "Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou. A a\xE7\xE3o\
     \ mais velha da Justi\xE7a"
 - author: The Journal.
-  categories: &id002
+  categories: &id001
   - Podcasts
+  date: '2024-11-01T00:00:00+00:00'
+  description: "For decades, activists and lawmakers have tried to change the way\
+    \ child care works in the U.S. But they haven\u2019t had much success. More recently,\
+    \ a fight has been brewing at the local level. This Tuesday, several places around\
+    \ the country will vote on whether to subsidize childcare. WSJ\u2019s Harriet\
+    \ Torry explains what that could mean for one county in Texas.  Further Reading:\
+    \  -Are American Taxpayers Ready to Foot the Bill for Child Care?\_ -Child Care,\
+    \ Rent, Insurance: Where Inflation Hits Hardest Now\_  Further Listening:  -How\
+    \ Employer-Funded Child Care Can Work\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/3Mi8HSHgyRCealZkadbAL5
+  title: Child Care Is on the Ballot in One Texas County
+- author: The Journal.
+  categories: *id001
   date: '2024-11-01T00:00:00+00:00'
   description: "Rachel Humphreys and Molly Ball share dispatches from two major campaign\
     \ events with Ryan Knutson. Molly analyzes the closing arguments and outlines\
@@ -94,7 +109,7 @@
   path: https://open.spotify.com/episode/6LRYwatPOstP4KN3LcHiVi
   title: Red, White and Who? An Electoral College Blowout?
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-10-31T12:41:36+00:00'
   description: Big tech is spending big on AI technologies. Training and operating
     them has raised concerns about environmental impact. What disclosures should sustainable
@@ -125,19 +140,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a6e15496b02065a34c7c8c303
   path: https://open.spotify.com/episode/407oEFxBI96cyqBLyBiICN
   title: "#145 | O QUE NINGU\xC9M TE CONTA SOBRE O FUTURO DA RENDA FIXA NO BRASIL"
-- author: The Journal.
-  categories: *id002
-  date: '2024-10-31T00:00:00+00:00'
-  description: "After a rocky start, self-driving car company Waymo seems to have\
-    \ won over riders in San Francisco. WSJ\u2019s Meghan Bobrowsky talks about the\
-    \ company\u2019s push to convince the public its robotaxis are safe and the challenges\
-    \ of replicating that progress elsewhere.  Further Reading: -How San Francisco\
-    \ Learned to Love Self-Driving Cars\_ -America\u2019s Most Tech-Forward City Has\
-    \ Doubts About Self-Driving Cars\_  Further Listening: -The Future of Self-Driving\
-    \ Cars Is Here\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2lDvgfS7N8PD0vnVLAoHZR
-  title: How Waymo Won Over San Francisco
 - author: Money Talks from The Economist
   categories:
   - Podcasts
