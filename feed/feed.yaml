@@ -1,7 +1,26 @@
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id001
   - Tech
   - Youtube
+  date: '2024-11-02T16:23:00+00:00'
+  description: ''
+  image: https://i1.ytimg.com/vi/DyEgh-kkkAA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=DyEgh-kkkAA
+  title: I Reuploaded This Short 1000 Times!
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-02T16:00:20+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/OdTLI5DV4Vw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OdTLI5DV4Vw
+  title: Celebrating Small Wins in Refactoring
+- author: Marques Brownlee
+  categories: *id001
   date: '2024-11-01T19:30:02+00:00'
   description: 'Trying the only real working Augmented Reality glasses in the world!
     Are they the future?
@@ -32,10 +51,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-11-01T16:00:31+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPublishing a Python package doesn't have to be overwhelming! In this video,\
@@ -53,7 +69,7 @@
   path: https://www.youtube.com/watch?v=NMQwzI9hprg
   title: Step-by-Step Python Package Deployment with GitHub Actions
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id004
   - CFA
   date: '2024-11-01T12:32:37+00:00'
   description: The secret sauce of Canadian pension plan returns lies in their ability
@@ -64,7 +80,7 @@
   title: 'Retaining Top Investment Talent: Lessons Learned by Large Canadian Pension
     Plans'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id005
   - Economia
   date: '2024-11-01T02:12:58+00:00'
   description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
@@ -81,7 +97,7 @@
   title: "Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou. A a\xE7\xE3o\
     \ mais velha da Justi\xE7a"
 - author: The Journal.
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-11-01T00:00:00+00:00'
   description: "For decades, activists and lawmakers have tried to change the way\
@@ -97,7 +113,7 @@
   path: https://open.spotify.com/episode/3Mi8HSHgyRCealZkadbAL5
   title: Child Care Is on the Ballot in One Texas County
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2024-11-01T00:00:00+00:00'
   description: "Rachel Humphreys and Molly Ball share dispatches from two major campaign\
     \ events with Ryan Knutson. Molly analyzes the closing arguments and outlines\
@@ -112,7 +128,7 @@
   path: https://open.spotify.com/episode/6LRYwatPOstP4KN3LcHiVi
   title: Red, White and Who? An Electoral College Blowout?
 - author: AQR
-  categories: &id005
+  categories: &id006
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -127,7 +143,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id004
   date: '2024-10-31T12:41:36+00:00'
   description: Big tech is spending big on AI technologies. Training and operating
     them has raised concerns about environmental impact. What disclosures should sustainable
@@ -136,7 +152,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/10/31/the-hidden-environmental-costs-of-tech-giants-ai-investments/
   title: "The Hidden Environmental Costs of Tech Giants\u2019 AI Investments"
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2024-10-31T00:00:00+00:00'
   description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
@@ -178,7 +194,7 @@
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id005
   date: '2024-10-30T16:25:46+00:00'
   description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
     \xE3o &#8212; com algumas emiss\xF5es n\xE3o conseguindo levantar o volume desejado\
@@ -192,15 +208,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
   title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-10-30T16:00:00+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/-N9O5IkQEWg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=-N9O5IkQEWg
-  title: Why Failing Fast is Good
 - author: Outliers
   categories: &id009
   - Podcasts
@@ -225,7 +232,7 @@
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: AQR
-  categories: *id005
+  categories: *id006
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -247,7 +254,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2024-10-29T00:00:00+00:00'
   description: "EUA x CHINA: quem realmente liderar\xE1 o mundo ap\xF3s as elei\xE7\
     \xF5es americanas de 2024? As elei\xE7\xF5es americanas de 2024 colocam frente\
@@ -270,13 +277,6 @@
   path: https://open.spotify.com/episode/4R0qM9wYmHKXkIhjzVBCIO
   title: "#144 | EUA x CHINA: O QUE N\xC3O TE CONTARAM SOBRE O FUTURO DO MUNDO P\xD3\
     S-ELEI\xC7\xD5ES"
-- author: Marques Brownlee
-  categories: *id007
-  date: '2024-10-26T00:02:50+00:00'
-  description: ''
-  image: https://i4.ytimg.com/vi/Smz-gtyI8gg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Smz-gtyI8gg
-  title: Taking 1000 Steps with Every Type of Wearable!
 - author: RSS - Feeds do BC
   categories:
   - Bacen
