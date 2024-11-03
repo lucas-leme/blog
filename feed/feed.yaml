@@ -147,21 +147,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a3164d9610d403902c1f9a1f3
   path: https://open.spotify.com/episode/6LRYwatPOstP4KN3LcHiVi
   title: Red, White and Who? An Electoral College Blowout?
-- author: AQR
-  categories: &id007
-  - Quant
-  - Papers
-  date: '2024-11-01T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        November\
-    \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
-    \                <a class=\"cta cta--dark \">Thomas Maloney</a>\n            \
-    \    <a class=\"cta cta--dark \">Elliott Coleman</a>\n</span>\n              \
-    \      </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated\
-    \ with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
-  title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
-    \ Alternatives"
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-10-31T12:41:36+00:00'
@@ -228,7 +213,7 @@
   path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
   title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
 - author: Outliers
-  categories: &id009
+  categories: &id008
   - Podcasts
   date: '2024-10-30T00:00:00+00:00'
   description: "Participantes:Clara Sodr\xE9 | Analista de fundo da XPRodrigo Sgavioli,\
@@ -250,20 +235,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
-- author: AQR
-  categories: *id007
-  date: '2024-10-30T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        October\
-    \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
-    >-</span>\n                <a class=\"cta cta--dark \">Rocky Bryant</a>\n    \
-    \            <a class=\"cta cta--dark \">Michael Schwert</a>\n</span>\n      \
-    \              </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed\
-    \ generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
-  title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-10-29T12:29:54+00:00'
@@ -308,7 +281,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id007
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
@@ -316,7 +289,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: Outliers
-  categories: *id009
+  categories: *id008
   date: '2024-10-17T00:00:00+00:00'
   description: "No epis\xF3dio 139\xB0 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
     \ receberam Samuel Santos, Gestor de Infraestrutura da Az Quest, e Giancarlo Gentiluomo\
@@ -352,7 +325,7 @@
   path: https://open.spotify.com/episode/2M7KAFx4f2dynvYcaHFh7z
   title: "Real Estate: Is This the Entry Point We\u2019ve All Been Waiting For?"
 - author: The Overshoot
-  categories: &id010
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-10-15T23:34:34+00:00'
@@ -362,7 +335,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: The Overshoot
-  categories: *id010
+  categories: *id009
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -370,7 +343,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-not-slowing-down
   title: The U.S. Economy Is Not Slowing Down
 - author: CFA Institute Research and Policy Center
-  categories: &id011
+  categories: &id010
   - CFA
   date: '2024-10-11T00:00:00+00:00'
   description: Applying a novel model to a proprietary dataset, this study evaluates
@@ -737,7 +710,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: CFA Institute Research and Policy Center
-  categories: *id011
+  categories: *id010
   date: '2024-09-24T00:00:00+00:00'
   description: New evidence indicates that different types of subjective expectations
     have time-varying roles in explaining stock price variations.
