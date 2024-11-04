@@ -1,5 +1,17 @@
-- author: Marques Brownlee
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-04T16:00:02+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/1vHR5sJPuKY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=1vHR5sJPuKY
+  title: Building a Test-Driven Safety Net
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-11-02T16:23:00+00:00'
@@ -8,10 +20,7 @@
   path: https://www.youtube.com/watch?v=DyEgh-kkkAA
   title: I Reuploaded This Short 1000 Times!
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-02T16:00:20+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -40,7 +49,7 @@
   path: https://open.spotify.com/episode/120Bmt6BXCRCpEiulqmEZJ
   title: "#146 | O QUE ESPERAR PARA O FUTURO DAS CRIPTOS? \xC9 A HORA DE COMPRAR?"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-11-01T19:30:02+00:00'
   description: 'Trying the only real working Augmented Reality glasses in the world!
     Are they the future?
@@ -70,24 +79,6 @@
   image: https://i4.ytimg.com/vi/G0eKzU_fV00/hqdefault.jpg
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-11-01T16:00:31+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nPublishing a Python package doesn't have to be overwhelming! In this video,\
-    \ I\u2019ll walk you through the entire deployment process step-by-step. You'll\
-    \ learn how to automate releases with GitHub Actions and how to successfully publish\
-    \ your package on PyPi.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/publish_pypi.\n\
-    \n\u270D\U0001F3FB Bragir Repository: https://github.com/ArjanCodes/bragir.\n\n\
-    \U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:30 Overall\n1:40 Prerequisites\n2:13 Authentication With PyPi\n\
-    2:53 Setting up authentication: Trusted Publisher\n4:20 When To Run The GitHub\
-    \ Action\n5:27 Tagging\n6:11 Nice To Have\n8:19 Checking PyPi\n10:02 Setup And\
-    \ Build\n11:20 Publish To PyPI - Trusted Publisher\n12:16 Publish To GitHub\n\
-    16:42 BONUS: Homebrew\n19:27 Final thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/NMQwzI9hprg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=NMQwzI9hprg
-  title: Step-by-Step Python Package Deployment with GitHub Actions
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
