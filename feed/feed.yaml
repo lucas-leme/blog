@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id002
   - CFA
   date: '2024-11-05T13:29:16+00:00'
   description: The problem within finance is its philosophical core; that is, the
@@ -8,7 +8,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/05/from-darwin-to-wall-street-a-rebuttal/
   title: 'From Darwin to Wall Street: A Rebuttal'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id011
   - Tech
   - Code
   - Youtube
@@ -20,7 +20,7 @@
   path: https://www.youtube.com/watch?v=1vHR5sJPuKY
   title: Building a Test-Driven Safety Net
 - author: The Journal.
-  categories: &id004
+  categories: &id003
   - Podcasts
   date: '2024-11-04T00:00:00+00:00'
   description: "Tomorrow is Election Day, and both Vice President Kamala Harris and\
@@ -44,7 +44,7 @@
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id001
   - Tech
   - Youtube
   date: '2024-11-02T16:23:00+00:00'
@@ -52,17 +52,8 @@
   image: https://i1.ytimg.com/vi/DyEgh-kkkAA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DyEgh-kkkAA
   title: I Reuploaded This Short 1000 Times!
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-11-02T16:00:20+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/OdTLI5DV4Vw/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OdTLI5DV4Vw
-  title: "\U0001F973 Celebrating Small Wins in Refactoring"
 - author: Market Makers
-  categories: &id005
+  categories: &id004
   - Podcasts
   date: '2024-11-02T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento?Clique aqui:https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
@@ -82,7 +73,7 @@
   path: https://open.spotify.com/episode/120Bmt6BXCRCpEiulqmEZJ
   title: "#146 | O QUE ESPERAR PARA O FUTURO DAS CRIPTOS? \xC9 A HORA DE COMPRAR?"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id001
   date: '2024-11-01T19:30:02+00:00'
   description: 'Trying the only real working Augmented Reality glasses in the world!
     Are they the future?
@@ -113,7 +104,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id002
   date: '2024-11-01T12:32:37+00:00'
   description: The secret sauce of Canadian pension plan returns lies in their ability
     to attract top talent, carefully design compensation frameworks, and adapt to
@@ -123,7 +114,7 @@
   title: 'Retaining Top Investment Talent: Lessons Learned by Large Canadian Pension
     Plans'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id005
   - Economia
   date: '2024-11-01T02:12:58+00:00'
   description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
@@ -154,7 +145,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/01112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/11/2024"
 - author: The Journal.
-  categories: *id004
+  categories: *id003
   date: '2024-11-01T00:00:00+00:00'
   description: "For decades, activists and lawmakers have tried to change the way\
     \ child care works in the U.S. But they haven\u2019t had much success. More recently,\
@@ -169,7 +160,7 @@
   path: https://open.spotify.com/episode/3Mi8HSHgyRCealZkadbAL5
   title: Child Care Is on the Ballot in One Texas County
 - author: AQR
-  categories: &id007
+  categories: &id006
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -184,7 +175,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: Market Makers
-  categories: *id005
+  categories: *id004
   date: '2024-10-31T00:00:00+00:00'
   description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
     \ e atual: o explosivo crescimento do mercado de cr\xE9dito no Brasil e o futuro\
@@ -225,7 +216,7 @@
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id005
   date: '2024-10-30T16:25:46+00:00'
   description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
     \xE3o &#8212; com algumas emiss\xF5es n\xE3o conseguindo levantar o volume desejado\
@@ -240,7 +231,7 @@
   path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
   title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
 - author: Outliers
-  categories: &id009
+  categories: &id008
   - Podcasts
   date: '2024-10-30T00:00:00+00:00'
   description: "Participantes:Clara Sodr\xE9 | Analista de fundo da XPRodrigo Sgavioli,\
@@ -263,7 +254,7 @@
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: AQR
-  categories: *id007
+  categories: *id006
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -275,7 +266,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-10-29T12:29:54+00:00'
@@ -306,7 +297,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/10/the-dueling-intraday-demands-on-reserves/
   title: The Dueling Intraday Demands on Reserves
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id007
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
@@ -314,7 +305,7 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: Outliers
-  categories: *id009
+  categories: *id008
   date: '2024-10-17T00:00:00+00:00'
   description: "No epis\xF3dio 139\xB0 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
     \ receberam Samuel Santos, Gestor de Infraestrutura da Az Quest, e Giancarlo Gentiluomo\
@@ -350,7 +341,7 @@
   path: https://open.spotify.com/episode/2M7KAFx4f2dynvYcaHFh7z
   title: "Real Estate: Is This the Entry Point We\u2019ve All Been Waiting For?"
 - author: The Overshoot
-  categories: &id010
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-10-15T23:34:34+00:00'
@@ -360,7 +351,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: The Overshoot
-  categories: *id010
+  categories: *id009
   date: '2024-10-12T00:34:39+00:00'
   description: 'That is not a problem, but it has implications for inflation and interest
     rates. Plus: inside the September 2024 NIPA revisions.'
@@ -368,7 +359,7 @@
   path: https://theovershoot.co/p/the-us-economy-is-not-slowing-down
   title: The U.S. Economy Is Not Slowing Down
 - author: CFA Institute Research and Policy Center
-  categories: &id011
+  categories: &id010
   - CFA
   date: '2024-10-11T00:00:00+00:00'
   description: Applying a novel model to a proprietary dataset, this study evaluates
@@ -735,7 +726,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18092024
   title: "BC - Copom Ata - 265\xAA Reuni\xE3o - 17-18 setembro, 2024"
 - author: CFA Institute Research and Policy Center
-  categories: *id011
+  categories: *id010
   date: '2024-09-24T00:00:00+00:00'
   description: New evidence indicates that different types of subjective expectations
     have time-varying roles in explaining stock price variations.
@@ -832,3 +823,15 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20325
   title: "BC - Copom Comunicado - 265\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 10,75% a.a."
+- author: ArjanCodes
+  categories: *id011
+  date: '2024-09-17T13:33:13+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this live stream, I'll dive into the code and design of an open-source project\
+    \ together with you. This is going to be completely unscripted, so you'll see\
+    \ my real-time reactions to the code and how it\u2019s been designed. It's a surprise\
+    \ which project I'm going to be reviewing (also for me! :) ).\n\n\U0001F393 Check\
+    \ out my courses: https://arjan.codes/courses\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/QANzqo1D8w8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=QANzqo1D8w8
+  title: Under the Hood | Live Code Review
