@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-11-05T13:29:16+00:00'
   description: The problem within finance is its philosophical core; that is, the
@@ -7,6 +7,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/05/from-darwin-to-wall-street-a-rebuttal/
   title: 'From Darwin to Wall Street: A Rebuttal'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-11-05T00:00:00+00:00'
+  description: "Election night is here, and the U.S.\u2013and the world\u2013is watching\
+    \ as the votes come in. WSJ's Politics Editor Ben Pershing walks us through what\
+    \ he's keeping a close eye on, and how long it might take before a winner is called.\
+    \  Further Reading:  -Election Day 2024 Live: It's Kamala Harris vs. Donald Trump\
+    \ as America Votes\_ -A (Don\u2019t Hold Us to It) Hour-by-Hour Guide to Election\
+    \ Night\_  Further Listening:\_ -Harris, Trump and the Inflation Election\_ -Red,\
+    \ White and Who? An Electoral College Blowout?\_  Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7bZXKPCCG7HhxbJ1y8DKUQ
+  title: What We're Watching for Tonight
 - author: ArjanCodes
   categories: &id011
   - Tech
@@ -20,8 +35,7 @@
   path: https://www.youtube.com/watch?v=1vHR5sJPuKY
   title: Building a Test-Driven Safety Net
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-11-04T00:00:00+00:00'
   description: "Tomorrow is Election Day, and both Vice President Kamala Harris and\
     \ former president Donald Trump have campaigned on bringing down inflation. WSJ\u2019\
@@ -44,7 +58,7 @@
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-11-02T16:23:00+00:00'
@@ -73,7 +87,7 @@
   path: https://open.spotify.com/episode/120Bmt6BXCRCpEiulqmEZJ
   title: "#146 | O QUE ESPERAR PARA O FUTURO DAS CRIPTOS? \xC9 A HORA DE COMPRAR?"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-11-01T19:30:02+00:00'
   description: 'Trying the only real working Augmented Reality glasses in the world!
     Are they the future?
@@ -104,7 +118,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-11-01T12:32:37+00:00'
   description: The secret sauce of Canadian pension plan returns lies in their ability
     to attract top talent, carefully design compensation frameworks, and adapt to
@@ -144,21 +158,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/01112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 01/11/2024"
-- author: The Journal.
-  categories: *id003
-  date: '2024-11-01T00:00:00+00:00'
-  description: "For decades, activists and lawmakers have tried to change the way\
-    \ child care works in the U.S. But they haven\u2019t had much success. More recently,\
-    \ a fight has been brewing at the local level. This Tuesday, several places around\
-    \ the country will vote on whether to subsidize childcare. WSJ\u2019s Harriet\
-    \ Torry explains what that could mean for one county in Texas.  Further Reading:\
-    \  -Are American Taxpayers Ready to Foot the Bill for Child Care?\_ -Child Care,\
-    \ Rent, Insurance: Where Inflation Hits Hardest Now\_  Further Listening:  -How\
-    \ Employer-Funded Child Care Can Work\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3Mi8HSHgyRCealZkadbAL5
-  title: Child Care Is on the Ballot in One Texas County
 - author: AQR
   categories: &id006
   - Quant
