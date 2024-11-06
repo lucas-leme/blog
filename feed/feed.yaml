@@ -1,5 +1,32 @@
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id006
+  - Economia
+  date: '2024-11-06T17:31:38+00:00'
+  description: "<p>Para al\xE9m de suas implica\xE7\xF5es geopol\xEDticas, a vit\xF3\
+    ria avassaladora de Donald Trump deveria servir como ultimato ao Governo Lula\
+    \ sobre a necessidade de uma mudan\xE7a de rota na condu\xE7\xE3o da pol\xEDtica\
+    \ econ\xF4mica em meio a uma transforma\xE7\xE3o dos anseios do eleitor m\xE9\
+    dio.\_ Desde que assumiu o Governo, h\xE1 dois anos \u2013 numa volta ao Poder\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/editorial-lula-na-era-trump/\"\
+    \ rel=\"nofollow\">EDITORIAL. Lula na era Trump</a> appeared first on <a href=\"\
+    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-lula-na-era-trump/
+  title: EDITORIAL. Lula na era Trump
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-06T16:00:17+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/LI_QnHRf3jU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=LI_QnHRf3jU
+  title: Dependency Inversion Principle (DIP)
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-11-06T11:44:46+00:00'
   description: Is it time to eschew the benchmark trap in favor of Warren Buffett's
@@ -8,10 +35,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/06/escaping-the-benchmark-trap-a-guide-for-smarter-investing/
   title: 'Escaping the Benchmark Trap: A Guide for Smarter Investing'
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-06T04:20:40+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nBe sure to check out the channel of Manim's creator, @3blue1brown.\n\nIn this\
@@ -24,7 +48,7 @@
   path: https://www.youtube.com/watch?v=QANzqo1D8w8
   title: Live Code Review | Manim
 - author: Market Makers
-  categories: &id002
+  categories: &id004
   - Podcasts
   date: '2024-11-06T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
@@ -51,8 +75,20 @@
   title: "CRISE A CAMINHO: O QUE NINGU\xC9M EST\xC1 FALANDO SOBRE O MERCADO DE CR\xC9\
     DITO | Corte EP #145"
 - author: The Journal.
-  categories: &id003
+  categories: &id002
   - Podcasts
+  date: '2024-11-06T00:00:00+00:00'
+  description: "Republican former president Donald Trump defeats Democratic Vice President\
+    \ Kamala Harris, reclaiming the White House. WSJ\u2019s Alex Leary reports on\
+    \ Trump\u2019s winning strategy and the campaign that fueled it.  Further Listening:\
+    \  -Red, White and Who? Playlist\_  Further Reading: -Trump Defeats Harris, Marking\
+    \ Historic Comeback\_ -How Donald Trump Won\u2014by Being Donald Trump\_   Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/7pmUQq3uWGBJlIbDC0pNTt
+  title: How Donald Trump Pulled Off a Historic Comeback
+- author: The Journal.
+  categories: *id002
   date: '2024-11-06T00:00:00+00:00'
   description: "After flipping Georgia, Wisconsin and Pennsylvania, Donald Trump will\
     \ become the 47th President of the United States. In the early hours of the morning,\
@@ -65,7 +101,7 @@
   path: https://open.spotify.com/episode/3xFJZgXvvyro5WadMyVgKP
   title: Red, White and Who? It's Trump.
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id003
   date: '2024-11-05T13:29:16+00:00'
   description: The problem within finance is its philosophical core; that is, the
     worldview upon which our analytical frameworks are based.
@@ -73,7 +109,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/05/from-darwin-to-wall-street-a-rebuttal/
   title: 'From Darwin to Wall Street: A Rebuttal'
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2024-11-05T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento?Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
     \ As elei\xE7\xF5es americanas v\xE3o mudar o equil\xEDbrio de poder mundial?\
@@ -105,29 +141,6 @@
   path: https://open.spotify.com/episode/6U3A801O1gT3vAwuyWC1Mz
   title: "#147 | GUERRAS, ECONOMIA E ALIAN\xC7AS: O QUE EST\xC1 EM JOGO NAS ELEI\xC7\
     \xD5ES DOS EUA?"
-- author: The Journal.
-  categories: *id003
-  date: '2024-11-05T00:00:00+00:00'
-  description: "Election night is here, and the U.S.\u2013and the world\u2013is watching\
-    \ as the votes come in. WSJ's Politics Editor Ben Pershing walks us through what\
-    \ he's keeping a close eye on, and how long it might take before a winner is called.\
-    \  Further Reading:  -Election Day 2024 Live: It's Kamala Harris vs. Donald Trump\
-    \ as America Votes\_ -A (Don\u2019t Hold Us to It) Hour-by-Hour Guide to Election\
-    \ Night\_  Further Listening:\_ -Harris, Trump and the Inflation Election\_ -Red,\
-    \ White and Who? An Electoral College Blowout?\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7bZXKPCCG7HhxbJ1y8DKUQ
-  title: What We're Watching for Tonight
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-11-04T16:00:02+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/1vHR5sJPuKY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=1vHR5sJPuKY
-  title: "\U0001F9BA Building a Test-Driven Safety Net"
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -178,8 +191,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
-  - Economia
+  categories: *id006
   date: '2024-11-01T02:12:58+00:00'
   description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
     vamos que as a\xE7\xF5es contra a privatiza\xE7\xE3o da Vale, que demoraram 27\
@@ -242,21 +254,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/6v1S57ZsmZJBFiI77CF0ar
   title: 'All that glitters: the new gold rush'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id006
-  date: '2024-10-30T16:25:46+00:00'
-  description: "<p>O mercado de cr\xE9dito privado est\xE1 iniciando um ciclo de corre\xE7\
-    \xE3o &#8212; com algumas emiss\xF5es n\xE3o conseguindo levantar o volume desejado\
-    \ e outras tendo que ser postergadas por falta de demanda.\_ Nas \xFAltimas semanas,\
-    \ pelo menos seis emiss\xF5es passaram por situa\xE7\xF5es como essa.\_ A mais\
-    \ recente foi a da Tigre, que buscava levantar R$ 651 [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/\"\
-    \ rel=\"nofollow\">Spreads comprimem demais, e cr\xE9dito privado come\xE7a a\
-    \ corrigir</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/spreads-comprimem-demais-e-credito-privado-comeca-a-corrigir/
-  title: "Spreads comprimem demais, e cr\xE9dito privado come\xE7a a corrigir"
 - author: Outliers
   categories: &id009
   - Podcasts
