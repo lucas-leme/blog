@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-11-05T13:29:16+00:00'
   description: The problem within finance is its philosophical core; that is, the
@@ -7,6 +7,40 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/05/from-darwin-to-wall-street-a-rebuttal/
   title: 'From Darwin to Wall Street: A Rebuttal'
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-05T00:00:00+00:00'
+  description: "Quer assistir todos os pain\xE9is do evento?Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
+    \ As elei\xE7\xF5es americanas v\xE3o mudar o equil\xEDbrio de poder mundial?\
+    \ Recebemos o economista e especialista em geopol\xEDtica, Professor Roberto Dumas,\
+    \ para discutirmos o impacto global das agendas de Donald Trump e Kamala Harris.\
+    \ Com \xEAnfase nas rela\xE7\xF5es dos EUA com pot\xEAncias como China, R\xFA\
+    ssia e pa\xEDses do Oriente M\xE9dio, Dumas vai explorar como cada candidato pode\
+    \ redefinir alian\xE7as, criar novas tens\xF5es e influenciar conflitos globais.Ele\
+    \ vai analisar as propostas econ\xF4micas e comerciais que afetam diretamente\
+    \ o cen\xE1rio internacional, abordando o aumento das tarifas, a pol\xEDtica de\
+    \ expans\xE3o militar e as rea\xE7\xF5es de aliados e rivais. Al\xE9m disso, Dumas\
+    \ analisar\xE1 como as agendas dos candidatos v\xE3o impactar a economia e o com\xE9\
+    rcio mundial.Com foco nas pol\xEDticas expansionistas de ambos os candidatos,\
+    \ Dumas vai explorar como cortes de impostos, controle de pre\xE7os e tarifas\
+    \ comerciais devem influenciar os mercados, especialmente no que se refere \xE0\
+    \ infla\xE7\xE3o e aos juros globais.Al\xE9m disso, ele vai comentar as tens\xF5\
+    es geopol\xEDticas e a crescente complexidade das rela\xE7\xF5es comerciais que\
+    \ podem afetar diretamente investidores e consumidores ao redor do mundo. Ele\
+    \ explicar\xE1 as poss\xEDveis consequ\xEAncias para o Brasil e outros mercados\
+    \ emergentes, com previs\xF5es sobre o futuro dos juros globais e a infla\xE7\xE3\
+    o, o professor destaca como o resultado das elei\xE7\xF5es pode impactar diretamente\
+    \ o bolso dos investidores brasileiros.Este v\xEDdeo oferece uma vis\xE3o \xFA\
+    nica de como o resultado das elei\xE7\xF5es pode transformar o equil\xEDbrio de\
+    \ poder mundial e as din\xE2micas geopol\xEDticas nos pr\xF3ximos anos.Qual voc\xEA\
+    \ acha que ser\xE1 o impacto global da vit\xF3ria de Trump ou Kamala?\_Apresentador:\
+    \ Thiago Salom\xE3o (@_salomoney) Convidados: Roberto Dumas Damas, economista\
+    \ e professor do Insper.\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a9193a75c0aa8bf9f8613929d
+  path: https://open.spotify.com/episode/6U3A801O1gT3vAwuyWC1Mz
+  title: "#147 | GUERRAS, ECONOMIA E ALIAN\xC7AS: O QUE EST\xC1 EM JOGO NAS ELEI\xC7\
+    \xD5ES DOS EUA?"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -58,7 +92,7 @@
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2024-11-02T16:23:00+00:00'
@@ -67,8 +101,7 @@
   path: https://www.youtube.com/watch?v=DyEgh-kkkAA
   title: I Reuploaded This Short 1000 Times!
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-11-02T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento?Clique aqui:https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
     \ As elei\xE7\xF5es americanas podem mudar o destino das criptomoedas para sempre!\
@@ -87,7 +120,7 @@
   path: https://open.spotify.com/episode/120Bmt6BXCRCpEiulqmEZJ
   title: "#146 | O QUE ESPERAR PARA O FUTURO DAS CRIPTOS? \xC9 A HORA DE COMPRAR?"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2024-11-01T19:30:02+00:00'
   description: 'Trying the only real working Augmented Reality glasses in the world!
     Are they the future?
@@ -118,7 +151,7 @@
   path: https://www.youtube.com/watch?v=G0eKzU_fV00
   title: I Tried Real Augmented Reality Glasses!
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-11-01T12:32:37+00:00'
   description: The secret sauce of Canadian pension plan returns lies in their ability
     to attract top talent, carefully design compensation frameworks, and adapt to
@@ -173,28 +206,6 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
-- author: Market Makers
-  categories: *id004
-  date: '2024-10-31T00:00:00+00:00'
-  description: "No epis\xF3dio 145 do Market Makers, mergulhamos em um tema quente\
-    \ e atual: o explosivo crescimento do mercado de cr\xE9dito no Brasil e o futuro\
-    \ dos fundos de investimento em direitos credit\xF3rios (FIDICs) e fundos imobili\xE1\
-    rios.Para entender a fundo esse cen\xE1rio, recebemos M\xE1rio Okazuka, CEO da\
-    \ GCB Capital, um especialista em cr\xE9dito com mais de 20 anos de experi\xEA\
-    ncia. M\xE1rio explica como os fundos de investimentos em direitos credit\xF3\
-    rios (FIDICs) est\xE3o ganhando popularidade entre investidores de varejo e como\
-    \ esse mercado se entrela\xE7a com a realidade econ\xF4mica brasileira.Exploramos\
-    \ o impacto das altas taxas de juros, a demanda crescente por produtos de cr\xE9\
-    dito, e os fatores que tornam o cen\xE1rio complexo e imprevis\xEDvel. Com hist\xF3\
-    rias fascinantes, como o FIDIC do Palmeiras e insights sobre a seguran\xE7a dos\
-    \ investimentos em fundos de cr\xE9dito, o papo aborda as oportunidades e riscos\
-    \ desse mercado para quem quer entender o contexto atual e se posicionar bem para\
-    \ o futuro.Voc\xEA acha que o mercado de cr\xE9dito \xE9 uma aposta segura ou\
-    \ est\xE1 arriscado demais?\_Apresentador: Thiago Salom\xE3o (@_salomoney)Convidado:\
-    \ Mario Okazuka, CEO da GCB Capital\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a6e15496b02065a34c7c8c303
-  path: https://open.spotify.com/episode/407oEFxBI96cyqBLyBiICN
-  title: "#145 | O QUE NINGU\xC9M TE CONTA SOBRE O FUTURO DA RENDA FIXA NO BRASIL"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
