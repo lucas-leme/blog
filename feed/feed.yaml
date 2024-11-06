@@ -8,7 +8,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/06/escaping-the-benchmark-trap-a-guide-for-smarter-investing/
   title: 'Escaping the Benchmark Trap: A Guide for Smarter Investing'
 - author: ArjanCodes
-  categories: &id002
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -23,6 +23,47 @@
   image: https://i2.ytimg.com/vi/QANzqo1D8w8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=QANzqo1D8w8
   title: Live Code Review | Manim
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-06T00:00:00+00:00'
+  description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
+    \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
+    \ realmente confia no mercado de cr\xE9dito atualmente?Neste v\xEDdeo, discutimos\
+    \ o que est\xE1 acontecendo no mercado de cr\xE9dito e como a euforia pode estar\
+    \ mascarando riscos significativos. Analisamos a crescente demanda por produtos\
+    \ de renda fixa e cr\xE9dito corporativo, que leva \xE0 diminui\xE7\xE3o dos spreads,\
+    \ mesmo em um cen\xE1rio econ\xF4mico onde os juros est\xE3o em alta. O aumento\
+    \ dos pedidos de recupera\xE7\xE3o judicial destaca a tens\xE3o no mercado, enquanto\
+    \ alguns investidores parecem ignorar os sinais de alerta. Tamb\xE9m abordamos\
+    \ como o comportamento do investidor pode afetar a sa\xFAde do mercado e a import\xE2\
+    ncia da an\xE1lise cuidadosa antes de tomar decis\xF5es de investimento.O que\
+    \ voc\xEA acha: a euforia atual no mercado de cr\xE9dito \xE9 um sinal de oportunidades\
+    \ ou um risco iminente?Se voc\xEA gostou deste conte\xFAdo, n\xE3o esque\xE7a\
+    \ de deixar seu like e se inscrever no canal para mais an\xE1lises e insights\
+    \ sobre economia e investimentos!\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\_\
+    https://youtu.be/XRvFNTikaq0- - - - - - - - -A VERDADE QUE NINGU\xC9M TE CONTA\
+    \ SOBRE O MERCADO DE CR\xC9DITO | Market Makers #145Apresentador: Thiago Salom\xE3\
+    o (@_salomoney)Convidados: Mario Okazuka, CEO da GCB CapitalBecome a supporter\
+    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8ad3d3c862f3fd312b0aec27a5
+  path: https://open.spotify.com/episode/5DpLr9sId10QiPGAtkau00
+  title: "CRISE A CAMINHO: O QUE NINGU\xC9M EST\xC1 FALANDO SOBRE O MERCADO DE CR\xC9\
+    DITO | Corte EP #145"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-11-06T00:00:00+00:00'
+  description: "After flipping Georgia, Wisconsin and Pennsylvania, Donald Trump will\
+    \ become the 47th President of the United States. In the early hours of the morning,\
+    \ Molly Ball and Ryan Knutson discuss election night and Trump's victory.  Further\
+    \ Listening:  - Red, White and Who? Playlist\_ - Red, White and Who? An Electoral\
+    \ College Blowout?\_ - Red, White and Who? The Undecided Voters Who Could Decide\
+    \ The Election\_  Further Reading: - Live Coverage from WSJ\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a220a8b785100815f5455bd01
+  path: https://open.spotify.com/episode/3xFJZgXvvyro5WadMyVgKP
+  title: Red, White and Who? It's Trump.
 - author: CFA Institute Enterprising Investor
   categories: *id001
   date: '2024-11-05T13:29:16+00:00'
@@ -32,8 +73,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/05/from-darwin-to-wall-street-a-rebuttal/
   title: 'From Darwin to Wall Street: A Rebuttal'
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-11-05T00:00:00+00:00'
   description: "Quer assistir todos os pain\xE9is do evento?Clique aqui: https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
     \ As elei\xE7\xF5es americanas v\xE3o mudar o equil\xEDbrio de poder mundial?\
@@ -66,8 +106,7 @@
   title: "#147 | GUERRAS, ECONOMIA E ALIAN\xC7AS: O QUE EST\xC1 EM JOGO NAS ELEI\xC7\
     \xD5ES DOS EUA?"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2024-11-05T00:00:00+00:00'
   description: "Election night is here, and the U.S.\u2013and the world\u2013is watching\
     \ as the votes come in. WSJ's Politics Editor Ben Pershing walks us through what\
@@ -81,7 +120,7 @@
   path: https://open.spotify.com/episode/7bZXKPCCG7HhxbJ1y8DKUQ
   title: What We're Watching for Tonight
 - author: ArjanCodes
-  categories: *id002
+  categories: *id004
   date: '2024-11-04T16:00:02+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -89,20 +128,6 @@
   image: https://i2.ytimg.com/vi/1vHR5sJPuKY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=1vHR5sJPuKY
   title: "\U0001F9BA Building a Test-Driven Safety Net"
-- author: The Journal.
-  categories: *id003
-  date: '2024-11-04T00:00:00+00:00'
-  description: "Tomorrow is Election Day, and both Vice President Kamala Harris and\
-    \ former president Donald Trump have campaigned on bringing down inflation. WSJ\u2019\
-    s Nick Timiraos breaks down how both candidates\u2019 plans will impact everyday\
-    \ costs.  Further Listening:  -Why Trump and Harris Aren\u2019t Talking About\
-    \ the $1.8 Trillion Deficit\_ -Red, White and Who? Playlist\_  Further Reading:\
-    \  -Economists Warn of New Inflation Hazards After Election\_ -Inflation Continues\
-    \ Its Bumpy Decline With Mixed September Reading\_   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/3fc6l3C38QpS5jG2iT9bbR
-  title: Harris, Trump and the Inflation Election
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -121,25 +146,6 @@
   image: https://i1.ytimg.com/vi/DyEgh-kkkAA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DyEgh-kkkAA
   title: I Reuploaded This Short 1000 Times!
-- author: Market Makers
-  categories: *id004
-  date: '2024-11-02T00:00:00+00:00'
-  description: "Quer assistir todos os pain\xE9is do evento?Clique aqui:https://lp.seudinheiro.com/eleicoes-americanas-2024-mmk12-a/?xpromo=XE-MELH-WE-MMK12-YT-NTVYT-MM-X\
-    \ As elei\xE7\xF5es americanas podem mudar o destino das criptomoedas para sempre!\
-    \ Neste epis\xF3dio, exploramos os riscos e as oportunidades para o Bitcoin e\
-    \ outras criptos, dependendo do vencedor: Trump ou Kamala. Neste epis\xF3dio recebemos\
-    \ Lucas Josa (Especialista em criptoativos da Mynt), Bernardo Bonjean (Founder\
-    \ & Chief Growth Officer da Metrix) para discutir as diferen\xE7as nas vis\xF5\
-    es pol\xEDticas, o impacto na regulamenta\xE7\xE3o e as chances dos EUA se tornarem\
-    \ o centro da inova\xE7\xE3o em blockchain. Voc\xEA n\xE3o pode perder essa conversa\
-    \ sobre o futuro das criptos e o que est\xE1 em jogo para os investidores. Aonde\
-    \ voc\xEA acredita que o Bitcoin e as criptomoedas podem chegar nos pr\xF3ximos\
-    \ anos?Apresentador: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
-    \ Lucas Josa (Especialista em criptoativos da Mynt), Bernardo Bonjean (Founder\
-    \ & Chief Growth Officer da Metrix)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a1093e156850f2ae0d1931b47
-  path: https://open.spotify.com/episode/120Bmt6BXCRCpEiulqmEZJ
-  title: "#146 | O QUE ESPERAR PARA O FUTURO DAS CRIPTOS? \xC9 A HORA DE COMPRAR?"
 - author: Marques Brownlee
   categories: *id005
   date: '2024-11-01T19:30:02+00:00'
