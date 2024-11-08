@@ -1,5 +1,5 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-11-08T09:50:05+00:00'
   description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
@@ -24,6 +24,20 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F154eb02e-f988-469e-ba39-2f6efadd75ed_5000x4461.png
   path: https://theovershoot.co/p/will-trumps-win-eventually-lead-to
   title: Will Trump's Win (Eventually) Lead to *Lower* Long-Term Interest Rates?
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-11-08T00:00:00+00:00'
+  description: "The race is over! Molly Ball and Ryan Knutson dive into the election\
+    \ results to understand what the electorate is feeling. Plus, where did it all\
+    \ go wrong for Democrats and what will day one of a Trump presidency look like?\
+    \  Further Listening:  - Red, White and Who? Playlist\_ - Red, White and Who?\
+    \ It\u2019s Trump.\_ - Red, White and Who? An Electoral College Blowout?\_  Further\
+    \ Reading: - How Trump Won the Economy-Is-Everything Election\_ - Trump Win Marks\
+    \ a Blow to Biden\u2019s Legacy\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a6a84b8cbecf5e245926b676c
+  path: https://open.spotify.com/episode/2cNrALOrCtYn5fl2AT7rbq
+  title: Red, White and Who? Why Trump Won and Where Democrats Go Next
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -60,7 +74,7 @@
   path: https://www.youtube.com/watch?v=z19HM7ANZlo
   title: The M4 Mac Mini is Incredible!
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-07T00:00:00+00:00'
   description: "Por que o mercado de cr\xE9dito est\xE1 roubando a cena e deixando\
@@ -87,8 +101,7 @@
   title: "#148 | A\xC7\xD5ES vs RENDA FIXA: COMO E POR QUE O CR\xC9DITO EST\xC1 SUPERANDO\
     \ A BOLSA?"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-11-07T00:00:00+00:00'
   description: "Former president Donald Trump is now president-elect. But that wasn\u2019\
     t the only win this week for the GOP. Republicans have also secured a majority\
@@ -213,7 +226,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-11-06T17:31:38+00:00'
   description: "<p>Para al\xE9m de suas implica\xE7\xF5es geopol\xEDticas, a vit\xF3\
     ria avassaladora de Donald Trump deveria servir como ultimato ao Governo Lula\
@@ -227,7 +240,7 @@
   path: https://braziljournal.com/editorial-lula-na-era-trump/
   title: EDITORIAL. Lula na era Trump
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -248,7 +261,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/06/escaping-the-benchmark-trap-a-guide-for-smarter-investing/
   title: 'Escaping the Benchmark Trap: A Guide for Smarter Investing'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-11-06T04:20:40+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nBe sure to check out the channel of Manim's creator, @3blue1brown.\n\nIn this\
@@ -261,7 +274,7 @@
   path: https://www.youtube.com/watch?v=QANzqo1D8w8
   title: Live Code Review | Manim
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-11-06T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
@@ -286,18 +299,6 @@
   path: https://open.spotify.com/episode/5DpLr9sId10QiPGAtkau00
   title: "CRISE A CAMINHO: O QUE NINGU\xC9M EST\xC1 FALANDO SOBRE O MERCADO DE CR\xC9\
     DITO | Corte EP #145"
-- author: The Journal.
-  categories: *id004
-  date: '2024-11-06T00:00:00+00:00'
-  description: "Republican former president Donald Trump defeats Democratic Vice President\
-    \ Kamala Harris, reclaiming the White House. WSJ\u2019s Alex Leary reports on\
-    \ Trump\u2019s winning strategy and the campaign that fueled it.  Further Listening:\
-    \  -Red, White and Who? Playlist\_  Further Reading: -Trump Defeats Harris, Marking\
-    \ Historic Comeback\_ -How Donald Trump Won\u2014by Being Donald Trump\_   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/7pmUQq3uWGBJlIbDC0pNTt
-  title: How Donald Trump Pulled Off a Historic Comeback
 - author: CFA Institute Enterprising Investor
   categories: *id005
   date: '2024-11-05T13:29:16+00:00'
