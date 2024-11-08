@@ -1,3 +1,18 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-11-08T09:50:05+00:00'
+  description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
+    mico interessante, com uma agenda grande de choques j\xE1 pr\xE9-contratados que\
+    \ poder\xE3o ser parcialmente compensados por alguns fatores, mas dificilmente\
+    \ evitados. O que \xE9 praticamente certo: a) aumento de tarifas de importa\xE7\
+    \xE3o de produtos da China e do resto do mundo, esse em magnitude menor; b) [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/o-experimento-economico-de-donald-trump/\"\
+    \ rel=\"nofollow\">O experimento econ\xF4mico de Donald Trump</a> appeared first\
+    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-experimento-economico-de-donald-trump/
+  title: "O experimento econ\xF4mico de Donald Trump"
 - author: The Overshoot
   categories: &id010
   - Macro
@@ -10,7 +25,7 @@
   path: https://theovershoot.co/p/will-trumps-win-eventually-lead-to
   title: Will Trump's Win (Eventually) Lead to *Lower* Long-Term Interest Rates?
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-07T14:00:39+00:00'
@@ -45,7 +60,7 @@
   path: https://www.youtube.com/watch?v=z19HM7ANZlo
   title: The M4 Mac Mini is Incredible!
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-11-07T00:00:00+00:00'
   description: "Por que o mercado de cr\xE9dito est\xE1 roubando a cena e deixando\
@@ -72,7 +87,7 @@
   title: "#148 | A\xC7\xD5ES vs RENDA FIXA: COMO E POR QUE O CR\xC9DITO EST\xC1 SUPERANDO\
     \ A BOLSA?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-07T00:00:00+00:00'
   description: "Former president Donald Trump is now president-elect. But that wasn\u2019\
@@ -198,8 +213,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
-  - Economia
+  categories: *id001
   date: '2024-11-06T17:31:38+00:00'
   description: "<p>Para al\xE9m de suas implica\xE7\xF5es geopol\xEDticas, a vit\xF3\
     ria avassaladora de Donald Trump deveria servir como ultimato ao Governo Lula\
@@ -213,7 +227,7 @@
   path: https://braziljournal.com/editorial-lula-na-era-trump/
   title: EDITORIAL. Lula na era Trump
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -223,9 +237,9 @@
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/LI_QnHRf3jU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=LI_QnHRf3jU
-  title: Dependency Inversion Principle (DIP)
+  title: "\U0001F4A1 Dependency Inversion Principle (DIP)"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-11-06T11:44:46+00:00'
   description: Is it time to eschew the benchmark trap in favor of Warren Buffett's
@@ -234,7 +248,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/06/escaping-the-benchmark-trap-a-guide-for-smarter-investing/
   title: 'Escaping the Benchmark Trap: A Guide for Smarter Investing'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-11-06T04:20:40+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nBe sure to check out the channel of Manim's creator, @3blue1brown.\n\nIn this\
@@ -247,7 +261,7 @@
   path: https://www.youtube.com/watch?v=QANzqo1D8w8
   title: Live Code Review | Manim
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-11-06T00:00:00+00:00'
   description: "Assine a CompoundLetter, a newsletter gratuita mais bem relacionada\
     \ do mercado financeiro:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-XVoc\xEA\
@@ -273,7 +287,7 @@
   title: "CRISE A CAMINHO: O QUE NINGU\xC9M EST\xC1 FALANDO SOBRE O MERCADO DE CR\xC9\
     DITO | Corte EP #145"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-11-06T00:00:00+00:00'
   description: "Republican former president Donald Trump defeats Democratic Vice President\
     \ Kamala Harris, reclaiming the White House. WSJ\u2019s Alex Leary reports on\
@@ -285,7 +299,7 @@
   path: https://open.spotify.com/episode/7pmUQq3uWGBJlIbDC0pNTt
   title: How Donald Trump Pulled Off a Historic Comeback
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-11-05T13:29:16+00:00'
   description: The problem within finance is its philosophical core; that is, the
     worldview upon which our analytical frameworks are based.
@@ -302,28 +316,12 @@
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-11-02T16:23:00+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/DyEgh-kkkAA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DyEgh-kkkAA
   title: I Reuploaded This Short 1000 Times!
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id006
-  date: '2024-11-01T02:12:58+00:00'
-  description: "<p>A morosidade da Justi\xE7a nunca cessa de surpreender. Quando ach\xE1\
-    vamos que as a\xE7\xF5es contra a privatiza\xE7\xE3o da Vale, que demoraram 27\
-    \ anos para ser resolvidas, eram a not\xEDcia mais espetacularmente bizarra sobre\
-    \ o assunto, descobrimos que ela foi superada por outra no ranking das a\xE7\xF5\
-    es mais longevas do Pa\xEDs &#8212; ironicamente uma que envolve a [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/getulio-estatizou-e-o-brasil-ainda-nao-pagou-a-acao-mais-velha-da-justica/\"\
-    \ rel=\"nofollow\">Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou.\
-    \ A a\xE7\xE3o mais velha da Justi\xE7a</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/getulio-estatizou-e-o-brasil-ainda-nao-pagou-a-acao-mais-velha-da-justica/
-  title: "Get\xFAlio estatizou \u2013 e o Brasil ainda n\xE3o pagou. A a\xE7\xE3o\
-    \ mais velha da Justi\xE7a"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
