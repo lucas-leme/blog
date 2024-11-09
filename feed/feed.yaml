@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-09T16:00:24+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/GMzMlDQf_6A/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=GMzMlDQf_6A
+  title: What are SSH Keys?
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
@@ -10,10 +22,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
   title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-08T16:00:28+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nShutting down a SaaS product is tougher than\
@@ -31,7 +40,7 @@
   path: https://www.youtube.com/watch?v=KrJCVqtwOMk
   title: Killing off a SaaS Product is Harder Than You Think
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-08T09:50:05+00:00'
   description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
@@ -57,7 +66,7 @@
   path: https://theovershoot.co/p/will-trumps-win-eventually-lead-to
   title: Will Trump's Win (Eventually) Lead to *Lower* Long-Term Interest Rates?
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-08T00:00:00+00:00'
   description: "The incoming Trump administration has just named its White House chief\
@@ -73,7 +82,7 @@
   path: https://open.spotify.com/episode/76Qzy5WYBkPlJUr3heoVSa
   title: "The Scramble Is on to Fill Trump\u2019s Cabinet"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-11-08T00:00:00+00:00'
   description: "The race is over! Molly Ball and Ryan Knutson dive into the election\
     \ results to understand what the electorate is feeling. Plus, where did it all\
@@ -259,7 +268,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-06T17:31:38+00:00'
   description: "<p>Para al\xE9m de suas implica\xE7\xF5es geopol\xEDticas, a vit\xF3\
     ria avassaladora de Donald Trump deveria servir como ultimato ao Governo Lula\
@@ -272,15 +281,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/editorial-lula-na-era-trump/
   title: EDITORIAL. Lula na era Trump
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-11-06T16:00:17+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/LI_QnHRf3jU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=LI_QnHRf3jU
-  title: Dependency Inversion Principle (DIP)
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-11-06T11:44:46+00:00'
