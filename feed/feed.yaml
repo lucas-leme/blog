@@ -1,3 +1,16 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2024-11-11T18:47:07+00:00'
+  description: "I want to shoot more videos in more places...\n\nThanks DJI for sponsoring\
+    \ today\u2019s video! Check out the DJI Osmo Action Camera 5 Pro at https://geni.us/vdUSBR\n\
+    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i4.ytimg.com/vi/S6qznDLlHRQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=S6qznDLlHRQ
+  title: How My Video Gear is Changing!
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -29,7 +42,7 @@
   path: https://www.youtube.com/watch?v=GMzMlDQf_6A
   title: "\U0001F5DD\uFE0F What are SSH Keys?"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-09T00:00:00+00:00'
   description: "Por que alguns dos maiores gestores de a\xE7\xF5es do Brasil preferem\
@@ -62,7 +75,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
   title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2024-11-08T09:50:05+00:00'
   description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
@@ -131,9 +144,7 @@
   path: https://open.spotify.com/episode/2cNrALOrCtYn5fl2AT7rbq
   title: Red, White and Who? Why Trump Won and Where Democrats Go Next
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-11-07T14:00:39+00:00'
   description: 'The new $599 M4 Mac Mini is really good. In more than one way.
 
@@ -166,7 +177,7 @@
   path: https://www.youtube.com/watch?v=z19HM7ANZlo
   title: The M4 Mac Mini is Incredible!
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-11-07T00:00:00+00:00'
   description: "Por que o mercado de cr\xE9dito est\xE1 roubando a cena e deixando\
     \ a bolsa para tr\xE1s?No epis\xF3dio 148 do Market Makers, Tiago Salom\xE3o,\
@@ -303,7 +314,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2024-11-06T17:31:38+00:00'
   description: "<p>Para al\xE9m de suas implica\xE7\xF5es geopol\xEDticas, a vit\xF3\
     ria avassaladora de Donald Trump deveria servir como ultimato ao Governo Lula\
@@ -325,13 +336,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-11-02T16:23:00+00:00'
-  description: ''
-  image: https://i1.ytimg.com/vi/DyEgh-kkkAA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=DyEgh-kkkAA
-  title: I Reuploaded This Short 1000 Times!
 - author: AQR
   categories: &id007
   - Quant
