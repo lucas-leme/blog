@@ -1,5 +1,17 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-11T16:00:44+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/nNOvX7Ajscs/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=nNOvX7Ajscs
+  title: 'Regex Risks: What Every Developer Should Know'
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2024-11-11T11:58:13+00:00'
   description: Massive M&#038;A deals make headlines but too rarely make money for
@@ -8,10 +20,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/11/book-review-the-ma-failure-trap/
   title: 'Book Review: The M&A Failure Trap'
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-09T16:00:24+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -43,7 +52,7 @@
   title: "#149 | SEGREDOS POR TR\xC1S DA ESTRAT\xC9GIA QUE RENDEU O DOBRO DO CDI INVESTINDO\
     \ NA BOLSA"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-11-08T16:45:59+00:00'
   description: "What makes most investors believe that private capital funds are such\
     \ clear outperformers? The use of since-inception internal rate of return (IRR)\
@@ -52,24 +61,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
   title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-11-08T16:00:28+00:00'
-  description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
-    \ https://arjan.codes/diagnosis.\n\nShutting down a SaaS product is tougher than\
-    \ it seems\u2014especially if you want to do it the right way. In this video,\
-    \ I\u2019ll share 5 crucial lessons I learned from killing off my own SaaS product,\
-    \ including the must-dos and the mistakes to avoid.\n\nQuarterfall open source:\
-    \ https://github.com/quarterfall/quarterfall-open\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:46 Why We Need\
-    \ to Talk About This\n3:04 Why I shut down the product\n6:35 Lesson 1: Disabling\
-    \ Features Gradually\n8:58 Lesson 2: Managing Your Infrastructure\n10:00 Lesson\
-    \ 3: Communication with Users\n11:40 Lesson 4: Handling Data Migration and Export\n\
-    13:30 Lesson 5: Security and Compliance During Shutdown\n16:22 Mindset shift\n\
-    18:01 Final thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/KrJCVqtwOMk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=KrJCVqtwOMk
-  title: The Right Way to Shut Down a SaaS Product
 - author: "Economia \u2013 Brazil Journal"
   categories: &id005
   - Economia
