@@ -1,3 +1,36 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-13T16:00:21+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/Oq8Pp3M7CUQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
+  title: 'FastAPI: Move Operations for Cleaner Code'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2024-11-13T16:00:00+00:00'
+  description: "U.S. household debt balances grew by $147 billion (0.8 percent) over\
+    \ the third quarter, according to the latest <em>Quarterly Report on Household\
+    \ Debt and Credit</em> from the New York Fed\u2019s\u202FCenter for Microeconomic\
+    \ Data. Balances on all loan products recorded moderate increases, led by mortgages\
+    \ (up $75 billion), credit cards (up $24 billion), and auto loans (up $18 billion).\
+    \ Meanwhile, delinquency rates have also risen over the past two years, returning\
+    \ to roughly pre-pandemic levels (and exceeding them in the case of credit cards\
+    \ and auto loans), though there are some signs of stabilization this quarter.\
+    \ Are rising aggregate debt burdens sustainable? Or is this expansion to be expected\
+    \ given increases in aggregate income and population size? In this post, we take\
+    \ a look at debt balances scaled by income, tracking the evolution of this ratio\
+    \ over the past twenty-five years."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2024/11/income-growth-outpaces-household-borrowing/
+  title: Income Growth Outpaces Household Borrowing
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -32,21 +65,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae81429ad6492310514c8c39d
   path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
   title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2024-11-12T12:00:00+00:00'
-  description: After a period of relative stability, a series of bank failures in
-    2023 renewed questions about the fragility of the banking system. As in previous
-    years, we provide in this post an update of four analytical models aimed at capturing
-    different aspects of the vulnerability of the U.S. banking system using data through
-    2024:Q2 and discuss how these measures have changed since <a href="https://libertystreeteconomics.newyorkfed.org/2023/11/banking-system-vulnerability-2023-update/"
-    rel="noreferrer noopener" target="_blank">last year</a>.
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2024/11/banking-system-vulnerability-2024-update/
-  title: 'Banking System Vulnerability: 2024 Update'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -421,10 +439,7 @@
   path: https://www.youtube.com/watch?v=S6qznDLlHRQ
   title: How My Video Gear is Changing!
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-11-11T16:00:44+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -441,15 +456,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/11/book-review-the-ma-failure-trap/
   title: 'Book Review: The M&A Failure Trap'
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-11-09T16:00:24+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GMzMlDQf_6A/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GMzMlDQf_6A
-  title: "\U0001F5DD\uFE0F What are SSH Keys?"
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2024-11-08T16:45:59+00:00'
