@@ -14,7 +14,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/banking-system-vulnerability-2024-update/
   title: 'Banking System Vulnerability: 2024 Update'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-11-12T11:00:33+00:00'
   description: "<p>O mercado de capitais no Brasil evoluiu significativamente nas\
@@ -329,8 +329,31 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-12T00:00:00+00:00'
+  description: "A falta de clareza do governo em rela\xE7\xE3o ao pacote de cortes\
+    \ de gastos est\xE1 causando uma verdadeira turbul\xEAncia. O d\xF3lar j\xE1 atingiu\
+    \ R$ 5,81 e o Ibovespa est\xE1 em queda, refletindo a preocupa\xE7\xE3o dos investidores.\
+    \ Neste epis\xF3dio ao vivo do Market Makers, vamos receber Felipe Miranda (Empiricus)\
+    \ e Bruno Garcia (Truxt Investimentos) para discutir o atual momento da economia\
+    \ brasileira e da bolsa de valores: ser\xE1 que ainda teremos um rali da bolsa\
+    \ em 2024? Em meio a um d\xE9ficit p\xFAblico crescente, debatemos as perspectivas\
+    \ para o mercado e os riscos de uma nova crise econ\xF4mica. O que investidores\
+    \ e especialistas preveem para os pr\xF3ximos meses e quais setores est\xE3o mais\
+    \ vulner\xE1veis \xE0s mudan\xE7as no mercado.E voc\xEA? Acha que o governo tomar\xE1\
+    \ as medidas necess\xE1rias para conter a alta do d\xF3lar? Deixe seu coment\xE1\
+    rio abaixo! Aproveite para deixar as suas perguntas prontas para enviar para os\
+    \ nossos convidados.Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9\
+    \ Guedes (@josueguedes__)Convidados: Felipe Miranda (Empiricus) e Bruno Garcia\
+    \ (Truxt Investimentos)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a02d30a745b76dff9edd6e9b1
+  path: https://open.spotify.com/episode/0hyhuNStQENY6VJjBZNVln
+  title: "#150 | BOLSA EM QUEDA E D\xD3LAR EM ALTA: D\xC1 PARA CONTAR COM O GOVERNO\
+    \ PARA SALVAR O ANO?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-12T00:00:00+00:00'
   description: "After abortion access wins in 2022, Democrats made a bet that voters\
@@ -343,8 +366,16 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/0DuReVqvxIVI7C2WynX0de
   title: "Abortion Was A Winning Issue \u2013 Just Not for Kamala Harris"
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-11-12T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a5b809f2c001d84b7f16c21c5
+  path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
+  title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-11T18:47:07+00:00'
@@ -369,7 +400,7 @@
   path: https://www.youtube.com/watch?v=nNOvX7Ajscs
   title: 'Regex Risks: What Every Developer Should Know'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-11-11T11:58:13+00:00'
   description: Massive M&#038;A deals make headlines but too rarely make money for
@@ -387,8 +418,7 @@
   path: https://www.youtube.com/watch?v=GMzMlDQf_6A
   title: What are SSH Keys?
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id002
   date: '2024-11-09T00:00:00+00:00'
   description: "Por que alguns dos maiores gestores de a\xE7\xF5es do Brasil preferem\
     \ investir em Small Caps?\_Descubra os segredos por tr\xE1s da estrat\xE9gia que\
@@ -410,7 +440,7 @@
   title: "#149 | SEGREDOS POR TR\xC1S DA ESTRAT\xC9GIA QUE RENDEU O DOBRO DO CDI INVESTINDO\
     \ NA BOLSA"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-11-08T16:45:59+00:00'
   description: "What makes most investors believe that private capital funds are such\
     \ clear outperformers? The use of since-inception internal rate of return (IRR)\
@@ -420,7 +450,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
   title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-11-08T09:50:05+00:00'
   description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
     mico interessante, com uma agenda grande de choques j\xE1 pr\xE9-contratados que\
@@ -459,7 +489,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/08112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/11/2024"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-11-08T00:00:00+00:00'
   description: "The incoming Trump administration has just named its White House chief\
     \ of staff and more appointments will be coming soon. WSJ\u2019s Andrew Restuccia\
@@ -474,7 +504,7 @@
   path: https://open.spotify.com/episode/76Qzy5WYBkPlJUr3heoVSa
   title: "The Scramble Is on to Fill Trump\u2019s Cabinet"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-11-07T14:00:39+00:00'
   description: 'The new $599 M4 Mac Mini is really good. In more than one way.
 
@@ -506,32 +536,6 @@
   image: https://i3.ytimg.com/vi/z19HM7ANZlo/hqdefault.jpg
   path: https://www.youtube.com/watch?v=z19HM7ANZlo
   title: The M4 Mac Mini is Incredible!
-- author: Market Makers
-  categories: *id006
-  date: '2024-11-07T00:00:00+00:00'
-  description: "Por que o mercado de cr\xE9dito est\xE1 roubando a cena e deixando\
-    \ a bolsa para tr\xE1s?No epis\xF3dio 148 do Market Makers, Tiago Salom\xE3o,\
-    \ diretamente do est\xFAdio da SPX Capital, entrevista Albano Franco, s\xF3cio\
-    \ e gestor de cr\xE9dito da SPX Capital. Albano comanda o fundo Seahawk, que j\xE1\
-    \ acumula 62% de rentabilidade vs 48,7% do CDI, e hoje revela o que torna o mercado\
-    \ de cr\xE9dito uma alternativa cada vez mais atrativa em tempos de incerteza\
-    \ econ\xF4mica. Saindo do tradicional mercado de a\xE7\xF5es, Albano mostra como\
-    \ ele e sua equipe avaliam empresas e monitoram riscos para alcan\xE7ar retornos\
-    \ extraordin\xE1rios, superando desafios como altas taxas de juros, spreads apertados\
-    \ e o cen\xE1rio global de incerteza.Neste epis\xF3dio, voc\xEA vai entender:Como\
-    \ o fundo Seahawk atinge resultados t\xE3o superiores ao CDI;\_Por que investidores\
-    \ est\xE3o trocando a\xE7\xF5es por cr\xE9dito high grade;\_O papel dos juros\
-    \ altos e como o fechamento do spread pode criar oportunidades e riscos;\_As estrat\xE9\
-    gias que fazem o mercado de cr\xE9dito ser a nova aposta entre grandes investidores.\_\
-    Ser\xE1 que o mercado de cr\xE9dito \xE9 a nova aposta do investidor? Descubra\
-    \ todos os detalhes dessa mudan\xE7a de paradigma com insights diretos de um dos\
-    \ maiores especialistas do mercado de cr\xE9dito!Apresentador: Thiago Salom\xE3\
-    o (@_salomoney) Convidados: Albano Franco, s\xF3cio e gestor dos fundos de cr\xE9\
-    dito da SPX\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a3460c3eebe471ed3f9636c45
-  path: https://open.spotify.com/episode/5bn02524zwAI2PWBRsSIvq
-  title: "#148 | A\xC7\xD5ES vs RENDA FIXA: COMO E POR QUE O CR\xC9DITO EST\xC1 SUPERANDO\
-    \ A BOLSA?"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -653,7 +657,7 @@
   path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
   title: Rare and Powerful Skills
 - author: AQR
-  categories: &id007
+  categories: &id008
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -668,8 +672,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id007
   date: '2024-10-30T00:00:00+00:00'
   description: "Participantes:Clara Sodr\xE9 | Analista de fundo da XPRodrigo Sgavioli,\
     \ CFP \xAE | Head de aloca\xE7\xE3o da XPJos\xE9 Rocha | S\xF3cio e CIO da Dahlia\
@@ -691,7 +694,7 @@
   path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
   title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: AQR
-  categories: *id007
+  categories: *id008
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -703,7 +706,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-10-29T12:29:54+00:00'
@@ -713,38 +716,13 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5612c0b3-6bf4-44ba-b573-95ac968f3d4b_2886x1843.png
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
-- author: Outliers
-  categories: *id009
-  date: '2024-10-17T00:00:00+00:00'
-  description: "No epis\xF3dio 139\xB0 do Outliers, Clara Sodr\xE9 e Guilherme Anversa\
-    \ receberam Samuel Santos, Gestor de Infraestrutura da Az Quest, e Giancarlo Gentiluomo\
-    \ Head de Fundos Alternativos da Az Quest para falar sobre o momento atual da\
-    \ franquia de Alternativos, com foco nos investimentos em infraestrutura.O setor\
-    \ de infraestrutura, al\xE9m de muito diverso, est\xE1 apresentando um crescimento\
-    \ consistente no Brasil, e nesse epis\xF3dio vamos abordar como a Az Quest \xE9\
-    \ uma das maiores gestoras do Brasil, de desde o lan\xE7amento da franquia de\
-    \ alternativos em dezembro de 2022, j\xE1 acumula R$ 2,3 bilh\xF5es sob gest\xE3\
-    o somando as estrat\xE9gias Agro, Infraestrutura e Imobili\xE1rios. Quais oportunidades\
-    \ est\xE3o sendo encontradas? Desafios? O que esperar para o cen\xE1rio adiante?\
-    \ Conhe\xE7a mais sobre a vertical de alternativos com destaque para n\xFAcleo\
-    \ de infraestrutura neste epis\xF3dio do Outliers.-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a13c0a510fa03163e1db4e0fa
-  path: https://open.spotify.com/episode/4LZG9yltTeKIcmg1KAg573
-  title: '#139 - Ano de ouro para os investimentos em infraestrutura com a AZ Quest'
 - author: The View From Apollo
   categories:
   - Podcasts
