@@ -1,5 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-11-13T23:19:22+00:00'
+  description: "<p>Sob o risco de parecer o proverbial menino que acabou de ganhar\
+    \ um martelo e trata tudo como se fosse um prego, proponho uma explica\xE7\xE3\
+    o simples para o surpreendente resultado das elei\xE7\xF5es americanas: a perda\
+    \ de poder de compra do americano m\xE9dio durante o mandato de Joe Biden. Os\
+    \ n\xFAmeros das elei\xE7\xF5es \u2013 seja pela [&#8230;]</p>\n<p>The post <a\
+    \ href=\"https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/\" rel=\"\
+    nofollow\">OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui</a> appeared first on\
+    \ <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/
+  title: "OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -32,7 +47,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/income-growth-outpaces-household-borrowing/
   title: Income Growth Outpaces Household Borrowing
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-13T00:00:00+00:00'
   description: "No cen\xE1rio atual, o mundo enfrenta uma s\xE9rie de tens\xF5es geopol\xED\
@@ -65,6 +80,20 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae81429ad6492310514c8c39d
   path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
   title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-11-13T00:00:00+00:00'
+  description: "The famous investor and muti-billionaire CEO of Berkshire Hathaway\
+    \ is doing something unusual: selling stocks and hoarding cash. WSJ\u2019s Spencer\
+    \ Jakab breaks down possible reasons why and what everyday investors can learn\
+    \ from his choices.  Further Reading:  - Does Warren Buffett Know Something That\
+    \ We Don\u2019t?\_ - A $150 Billion Question: What Will Warren Buffett Do With\
+    \ All That Cash?\_  Further Listening:  - Charlie Munger: Curmudgeon, Sage and\
+    \ Investing Legend\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2Chj2riQ7EbN4ZLFXs7cKx
+  title: "Does Warren Buffett Know Something We Don\u2019t?"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -77,8 +106,7 @@
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2024-11-12T11:00:33+00:00'
   description: "<p>O mercado de capitais no Brasil evoluiu significativamente nas\
     \ \xFAltimas d\xE9cadas, mas a burocracia e as regulamenta\xE7\xF5es ultrapassadas\
@@ -393,7 +421,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-11-12T00:00:00+00:00'
   description: "A falta de clareza do governo em rela\xE7\xE3o ao pacote de cortes\
     \ de gastos est\xE1 causando uma verdadeira turbul\xEAncia. O d\xF3lar j\xE1 atingiu\
@@ -415,8 +443,7 @@
   title: "#150 | BOLSA EM QUEDA E D\xD3LAR EM ALTA: D\xC1 PARA CONTAR COM O GOVERNO\
     \ PARA SALVAR O ANO?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2024-11-12T00:00:00+00:00'
   description: "After abortion access wins in 2022, Democrats made a bet that voters\
     \ backing abortion on states\u2019 ballot measures would also back Democratic\
@@ -450,7 +477,7 @@
   path: https://www.youtube.com/watch?v=S6qznDLlHRQ
   title: How My Video Gear is Changing!
 - author: ArjanCodes
-  categories: *id002
+  categories: *id004
   date: '2024-11-11T16:00:44+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -459,7 +486,7 @@
   path: https://www.youtube.com/watch?v=nNOvX7Ajscs
   title: "\U0001F623 Regex Risks: What Every Developer Should Know"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id005
   - CFA
   date: '2024-11-11T11:58:13+00:00'
   description: Massive M&#038;A deals make headlines but too rarely make money for
@@ -468,7 +495,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/11/book-review-the-ma-failure-trap/
   title: 'Book Review: The M&A Failure Trap'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id005
   date: '2024-11-08T16:45:59+00:00'
   description: "What makes most investors believe that private capital funds are such\
     \ clear outperformers? The use of since-inception internal rate of return (IRR)\
@@ -477,20 +504,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
   title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2024-11-08T09:50:05+00:00'
-  description: "<p>Nos pr\xF3ximos 4 anos os EUA ter\xE3o um experimento econ\xF4\
-    mico interessante, com uma agenda grande de choques j\xE1 pr\xE9-contratados que\
-    \ poder\xE3o ser parcialmente compensados por alguns fatores, mas dificilmente\
-    \ evitados. O que \xE9 praticamente certo: a) aumento de tarifas de importa\xE7\
-    \xE3o de produtos da China e do resto do mundo, esse em magnitude menor; b) [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/o-experimento-economico-de-donald-trump/\"\
-    \ rel=\"nofollow\">O experimento econ\xF4mico de Donald Trump</a> appeared first\
-    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-experimento-economico-de-donald-trump/
-  title: "O experimento econ\xF4mico de Donald Trump"
 - author: The Overshoot
   categories: &id010
   - Macro
@@ -516,21 +529,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/08112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/11/2024"
-- author: The Journal.
-  categories: *id005
-  date: '2024-11-08T00:00:00+00:00'
-  description: "The incoming Trump administration has just named its White House chief\
-    \ of staff and more appointments will be coming soon. WSJ\u2019s Andrew Restuccia\
-    \ on who is in the running and how this transition could be different from 2016.\
-    \  Further Reading: -The Scramble Is On to Fill Out Trump\u2019s Cabinet\_\_ -Lutnick\
-    \ Consults With Musk, Kushner, Wall Street in Rush to Staff Trump White House\_\
-    \_ -Meet the Wall Street Bigwig Who Has Become Trump\u2019s Headhunter in Chief\_\
-    \_  Further Listening: -Red, White and Who? Why Trump Won and Where Democrats\
-    \ Go Next\_ -What a Republican Congress Could Mean for Trump\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/76Qzy5WYBkPlJUr3heoVSa
-  title: "The Scramble Is on to Fill Trump\u2019s Cabinet"
 - author: Marques Brownlee
   categories: *id006
   date: '2024-11-07T14:00:39+00:00'
