@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id005
+  - CFA
+  date: '2024-11-14T20:09:47+00:00'
+  description: Interested in working with older historical data? Pitfalls lurk for
+    the unwary.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/14/a-guide-for-investment-analysts-working-with-historical-market-data/
+  title: 'A Guide for Investment Analysts: Working with Historical Market Data'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -507,24 +516,13 @@
   path: https://www.youtube.com/watch?v=nNOvX7Ajscs
   title: 'Regex Risks: What Every Developer Should Know'
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id005
   date: '2024-11-11T11:58:13+00:00'
   description: Massive M&#038;A deals make headlines but too rarely make money for
     stockholders.
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/11/book-review-the-ma-failure-trap/
   title: 'Book Review: The M&A Failure Trap'
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-11-08T16:45:59+00:00'
-  description: "What makes most investors believe that private capital funds are such\
-    \ clear outperformers? The use of since-inception internal rate of return (IRR)\
-    \ as the industry\u2019s preferred performance metric and the media\u2019s coverage\
-    \ of the sector are to blame."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/08/the-tyranny-of-irr-a-reality-check-on-private-market-returns/
-  title: 'The Tyranny of IRR: A Reality Check on Private Market Returns'
 - author: The Overshoot
   categories: &id010
   - Macro
