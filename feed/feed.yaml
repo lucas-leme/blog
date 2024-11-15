@@ -346,6 +346,56 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/sete-anos-depois-a-reforma-trabalhista-esta-em-corner/
   title: "Sete anos depois, a Reforma Trabalhista est\xE1 em c\xF3rner"
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-14T00:00:00+00:00'
+  description: "No epis\xF3dio 151 do Market Makers, Thiago Salom\xE3o, Josu\xE9 Guedes\
+    \ e Walter Maciel (entrevistador convidado e CEO da AZ Quest) intermediaram uma\
+    \ construtiva conversa sobre o Brasil com quatro grandes economistas e estudiosos\
+    \ da situa\xE7\xE3o do nosso fiscal: Marcos Lisboa (ex-presidente do Insper),\
+    \ Marcos Mendes (pesquisador do Insper), Alexandre Manoel (economista-chefe da\
+    \ AZ Quest) e Samuel Pess\xF4a (pesquisador da FGV).No papo de quase 2h30, eles\
+    \ expuseram fissuras pol\xEDticas, econ\xF4micas e sociais do pa\xEDs. \xC9 um\
+    \ consenso que o Brasil enfrenta um desafio econ\xF4mico complexo: a maneira como\
+    \ os recursos p\xFAblicos s\xE3o gastos n\xE3o s\xF3 revela inefici\xEAncias e\
+    \ corrup\xE7\xE3o, mas tamb\xE9m uma gest\xE3o p\xFAblica incapaz de alocar o\
+    \ or\xE7amento de forma eficaz.Mesmo com investimentos, o dinheiro n\xE3o chega\
+    \ aos lugares que mais precisam, deixando um pa\xEDs vulner\xE1vel a crises fiscais\
+    \ e exposto \xE0 volatilidade econ\xF4mica. Debatemos a interven\xE7\xE3o do Banco\
+    \ Central, a deteriora\xE7\xE3o das expectativas econ\xF4micas e as implica\xE7\
+    \xF5es das pol\xEDticas fiscais para o futuro do pa\xEDs. Eles tamb\xE9m abordaram\
+    \ quest\xF5es pol\xEAmicas como a rela\xE7\xE3o entre o governo e o setor privado,\
+    \ a efici\xEAncia de programas sociais, e a influ\xEAncia das pol\xEDticas econ\xF4\
+    micas nas vidas dos brasileiros.\xC9 uma an\xE1lise completa sobre as complexidades\
+    \ econ\xF4micas e pol\xEDticas que moldam o Brasil hoje, incluindo perspectivas\
+    \ hist\xF3ricas e reflex\xF5es sobre poss\xEDveis solu\xE7\xF5es. Este epis\xF3\
+    dio est\xE1 imperd\xEDvel! Simplesmente uma aula sobre a economia brasileira.Convidados:\
+    \ Marcos Lisboa (Doutor em economia e ex-presidente do Insper), Marcos Mendes\
+    \ (Doutor em economia e pesquisador do Insper), Samuel Pess\xF4a (Doutor em economia)\
+    \ e Alexandre Manoel (Economista-Chefe da AZ Quest)Apresentador: Thiago Salom\xE3\
+    o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__) e Walter Maciel (CEO da AZQuest)Become\
+    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8ac774788b62d4628b9b9c5ec4
+  path: https://open.spotify.com/episode/54W6ydWB9YT28QKfMIKELt
+  title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
+    A MALDITA DO BRASIL"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-11-14T00:00:00+00:00'
+  description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
+    s COP29 climate conference. With Donald Trump\u2019s recent election victory looming\
+    \ over the event, the U.S.\u2019s role will be diminished. WSJ\u2019s Matthew\
+    \ Dalton explains why this moment might be China\u2019s chance to shine.  Further\
+    \ Listening:  -The Oil Giant Hosting This Year\u2019s U.N. Climate Summit\_ -The\
+    \ Fight Over Climate Change's Price Tag\_  Further Reading:  -Trump Victory Leaves\
+    \ China Calling the Shots at COP29 Climate Negotiations\_ -Welcome to Baku, a\
+    \ City Built on Oil Hosting the World\u2019s Climate Conference\_   Learn more\
+    \ about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/16d0MClYzhRv8NPrRHxSxd
+  title: How the U.S. Fell Behind China on Climate Diplomacy
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -392,8 +442,7 @@
   path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
   title: 'FastAPI: Move Operations for Cleaner Code'
 - author: Market Makers
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2024-11-13T00:00:00+00:00'
   description: "No cen\xE1rio atual, o mundo enfrenta uma s\xE9rie de tens\xF5es geopol\xED\
     ticas que podem afetar diretamente a economia global. A Venezuela, agora com apoio\
@@ -426,8 +475,7 @@
   path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
   title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id003
   date: '2024-11-13T00:00:00+00:00'
   description: "The famous investor and muti-billionaire CEO of Berkshire Hathaway\
     \ is doing something unusual: selling stocks and hoarding cash. WSJ\u2019s Spencer\
@@ -450,41 +498,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
-- author: Market Makers
-  categories: *id002
-  date: '2024-11-12T00:00:00+00:00'
-  description: "A falta de clareza do governo em rela\xE7\xE3o ao pacote de cortes\
-    \ de gastos est\xE1 causando uma verdadeira turbul\xEAncia. O d\xF3lar j\xE1 atingiu\
-    \ R$ 5,81 e o Ibovespa est\xE1 em queda, refletindo a preocupa\xE7\xE3o dos investidores.\
-    \ Neste epis\xF3dio ao vivo do Market Makers, vamos receber Felipe Miranda (Empiricus)\
-    \ e Bruno Garcia (Truxt Investimentos) para discutir o atual momento da economia\
-    \ brasileira e da bolsa de valores: ser\xE1 que ainda teremos um rali da bolsa\
-    \ em 2024? Em meio a um d\xE9ficit p\xFAblico crescente, debatemos as perspectivas\
-    \ para o mercado e os riscos de uma nova crise econ\xF4mica. O que investidores\
-    \ e especialistas preveem para os pr\xF3ximos meses e quais setores est\xE3o mais\
-    \ vulner\xE1veis \xE0s mudan\xE7as no mercado.E voc\xEA? Acha que o governo tomar\xE1\
-    \ as medidas necess\xE1rias para conter a alta do d\xF3lar? Deixe seu coment\xE1\
-    rio abaixo! Aproveite para deixar as suas perguntas prontas para enviar para os\
-    \ nossos convidados.Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9\
-    \ Guedes (@josueguedes__)Convidados: Felipe Miranda (Empiricus) e Bruno Garcia\
-    \ (Truxt Investimentos)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a02d30a745b76dff9edd6e9b1
-  path: https://open.spotify.com/episode/0hyhuNStQENY6VJjBZNVln
-  title: "#150 | BOLSA EM QUEDA E D\xD3LAR EM ALTA: D\xC1 PARA CONTAR COM O GOVERNO\
-    \ PARA SALVAR O ANO?"
-- author: The Journal.
-  categories: *id003
-  date: '2024-11-12T00:00:00+00:00'
-  description: "After abortion access wins in 2022, Democrats made a bet that voters\
-    \ backing abortion on states\u2019 ballot measures would also back Democratic\
-    \ candidates. WSJ\u2019s Laura Kusisto explains why that bet turned out to be\
-    \ wrong.  Further Listening: The Scramble Is on to Fill Trump\u2019s Cabinet\_\
-    \ What a Republican Congress Could Mean for Trump\_  Further Reading: Voters Continued\
-    \ to Back Abortion Rights. It Didn\u2019t Help Democrats.\_ A State-by-State Guide\
-    \ to Abortion Access in the U.S.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0DuReVqvxIVI7C2WynX0de
-  title: "Abortion Was A Winning Issue \u2013 Just Not for Kamala Harris"
 - author: Outliers
   categories: &id007
   - Podcasts
