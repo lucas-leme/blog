@@ -1,3 +1,22 @@
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-15T16:00:14+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nWhen you develop an API, you might feel like you\u2019re writing a lot of boilerplate\
+    \ code: routes, database schemas, the API interface, and so on. In this video,\
+    \ I\u2019ll show you how to drastically reduce that boilerplate with SQLModel\
+    \ and FastAPI.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/sqlmodel\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:30 SQLAlchemy Overview and Limitations\n5:41 SQLModel Basics\n\
+    12:23 Advanced Example with Relationships\n15:46 Additional SQLModel Features\n\
+    16:24 When to Use SQLModel and When to Stick with SQLAlchemy\n17:18 One caveat\
+    \ with SQLModel\n19:06 Outro\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/GONyd0CUrPc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=GONyd0CUrPc
+  title: Why You Should Switch to SQLModel for FastAPI Projects
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -358,7 +377,7 @@
   path: https://braziljournal.com/sete-anos-depois-a-reforma-trabalhista-esta-em-corner/
   title: "Sete anos depois, a Reforma Trabalhista est\xE1 em c\xF3rner"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-14T00:00:00+00:00'
   description: "No epis\xF3dio 151 do Market Makers, Thiago Salom\xE3o, Josu\xE9 Guedes\
@@ -392,7 +411,7 @@
   title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
     A MALDITA DO BRASIL"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-14T00:00:00+00:00'
   description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
@@ -441,10 +460,7 @@
   path: https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/
   title: "OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2024-11-13T16:00:21+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -453,7 +469,7 @@
   path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
   title: "\u26A1 FastAPI: Move Operations for Cleaner Code"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-11-13T00:00:00+00:00'
   description: "No cen\xE1rio atual, o mundo enfrenta uma s\xE9rie de tens\xF5es geopol\xED\
     ticas que podem afetar diretamente a economia global. A Venezuela, agora com apoio\
@@ -486,7 +502,7 @@
   path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
   title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-11-13T00:00:00+00:00'
   description: "The famous investor and muti-billionaire CEO of Berkshire Hathaway\
     \ is doing something unusual: selling stocks and hoarding cash. WSJ\u2019s Spencer\
@@ -530,15 +546,6 @@
   image: https://i4.ytimg.com/vi/S6qznDLlHRQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=S6qznDLlHRQ
   title: How My Video Gear is Changing!
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-11-11T16:00:44+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/nNOvX7Ajscs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=nNOvX7Ajscs
-  title: "\U0001F623 Regex Risks: What Every Developer Should Know"
 - author: The Overshoot
   categories: &id010
   - Macro
