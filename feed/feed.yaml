@@ -1,3 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-11-16T10:55:49+00:00'
+  description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
+    \ para os EUA, e a tend\xEAncia do nearshoring, que pode ser fortalecida por Donald\
+    \ Trump, ajuda a economia mexicana. Mas o M\xE9xico tamb\xE9m precisa se ajudar.\
+    \ A Moody\u2019s acaba de rebaixar o outlook para o risco soberano do M\xE9xico\
+    \ de \u2018est\xE1vel\u2019 para \u2018negativo\u2019 \u2013 [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/\"\
+    \ rel=\"nofollow\">Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando\
+    \ amea\xE7as aos \u2018checks and balances\u2019</a> appeared first on <a href=\"\
+    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/
+  title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
+    \ \u2018checks and balances\u2019"
 - author: ArjanCodes
   categories: &id004
   - Tech
@@ -49,7 +66,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/to-whom-it-may-concern-demographic-differences-in-letters-of-recommendation/
   title: 'To Whom It May Concern: Demographic Differences in Letters of Recommendation'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-11-15T00:00:00+00:00'
   description: "The Onion, the satirical news outlet, wants to buy Infowars, the platform\
@@ -388,8 +405,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2024-11-14T10:22:54+00:00'
   description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
     \ julho de 2017 \u2013 um dos grandes avan\xE7os recentes na economia \u2013 est\xE1\
@@ -438,7 +454,7 @@
   title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
     A MALDITA DO BRASIL"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-11-14T00:00:00+00:00'
   description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
     s COP29 climate conference. With Donald Trump\u2019s recent election victory looming\
@@ -471,20 +487,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/3KkMimtiJQ1xpfTRXZHJZ3
   title: 'Green money: how much is the energy transition really going to cost?'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-11-13T23:19:22+00:00'
-  description: "<p>Sob o risco de parecer o proverbial menino que acabou de ganhar\
-    \ um martelo e trata tudo como se fosse um prego, proponho uma explica\xE7\xE3\
-    o simples para o surpreendente resultado das elei\xE7\xF5es americanas: a perda\
-    \ de poder de compra do americano m\xE9dio durante o mandato de Joe Biden. Os\
-    \ n\xFAmeros das elei\xE7\xF5es \u2013 seja pela [&#8230;]</p>\n<p>The post <a\
-    \ href=\"https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/\" rel=\"\
-    nofollow\">OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui</a> appeared first on\
-    \ <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/
-  title: "OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui"
 - author: ArjanCodes
   categories: *id004
   date: '2024-11-13T16:00:21+00:00'
@@ -493,7 +495,7 @@
     \ #softwaredesign #python"
   image: https://i4.ytimg.com/vi/Oq8Pp3M7CUQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
-  title: "\u26A1 FastAPI: Move Operations for Cleaner Code"
+  title: 'FastAPI: Move Operations for Cleaner Code'
 - author: Market Makers
   categories: *id005
   date: '2024-11-13T00:00:00+00:00'
