@@ -1,5 +1,26 @@
+- author: Marques Brownlee
+  categories: &id006
+  - Tech
+  - Youtube
+  date: '2024-11-16T17:17:15+00:00'
+  description: ''
+  image: https://i1.ytimg.com/vi/XXPjZwYY4z4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=XXPjZwYY4z4
+  title: "The Harry Potter phone comes with a WAND \U0001FA84"
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-16T16:00:16+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/M8myswQlF1M/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=M8myswQlF1M
+  title: The Real Problem with Inheritance
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-16T10:55:49+00:00'
   description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
@@ -16,10 +37,7 @@
   title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
     \ \u2018checks and balances\u2019"
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-15T16:00:14+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWhen you develop an API, you might feel like you\u2019re writing a lot of boilerplate\
@@ -35,7 +53,7 @@
   path: https://www.youtube.com/watch?v=GONyd0CUrPc
   title: Why You Should Switch to SQLModel for FastAPI Projects
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-11-15T12:20:14+00:00'
   description: How does the internal rate of return (IRR) work and why do investors
@@ -66,7 +84,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/to-whom-it-may-concern-demographic-differences-in-letters-of-recommendation/
   title: 'To Whom It May Concern: Demographic Differences in Letters of Recommendation'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-15T00:00:00+00:00'
   description: "The Onion, the satirical news outlet, wants to buy Infowars, the platform\
@@ -93,7 +111,7 @@
   path: https://open.spotify.com/episode/2lqBPtQDJOdSd9BuSKAeXa
   title: Why Pessimism Sounds So Smart
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-11-14T20:09:47+00:00'
   description: Interested in working with older historical data? Pitfalls lurk for
     the unwary.
@@ -405,7 +423,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-14T10:22:54+00:00'
   description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
     \ julho de 2017 \u2013 um dos grandes avan\xE7os recentes na economia \u2013 est\xE1\
@@ -454,7 +472,7 @@
   title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
     A MALDITA DO BRASIL"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-11-14T00:00:00+00:00'
   description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
     s COP29 climate conference. With Donald Trump\u2019s recent election victory looming\
@@ -487,15 +505,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/3KkMimtiJQ1xpfTRXZHJZ3
   title: 'Green money: how much is the energy transition really going to cost?'
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-11-13T16:00:21+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/Oq8Pp3M7CUQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
-  title: 'FastAPI: Move Operations for Cleaner Code'
 - author: Market Makers
   categories: *id005
   date: '2024-11-13T00:00:00+00:00'
@@ -549,9 +558,7 @@
   path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
   title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id006
   date: '2024-11-11T18:47:07+00:00'
   description: "I want to shoot more videos in more places...\n\nThanks DJI for sponsoring\
     \ today\u2019s video! Check out the DJI Osmo Action Camera 5 Pro at https://geni.us/vdUSBR\n\
@@ -586,39 +593,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/08112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 08/11/2024"
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-11-07T14:00:39+00:00'
-  description: 'The new $599 M4 Mac Mini is really good. In more than one way.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Apple Mac Mini M4: https://geni.us/XAWA0
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-    That wallpaper: https://geni.us/aWrWc
-
-
-    Computer provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/z19HM7ANZlo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=z19HM7ANZlo
-  title: The M4 Mac Mini is Incredible!
 - author: Comunicados Copom
   categories:
   - Bacen
