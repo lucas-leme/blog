@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -48,6 +48,33 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/to-whom-it-may-concern-demographic-differences-in-letters-of-recommendation/
   title: 'To Whom It May Concern: Demographic Differences in Letters of Recommendation'
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-11-15T00:00:00+00:00'
+  description: "The Onion, the satirical news outlet, wants to buy Infowars, the platform\
+    \ conspiracy theorist Alex Jones used to defame families of the Sandy Hook massacre.\
+    \ Onion CEO Ben Collins shares why and John Feinblatt, president of Everytown\
+    \ for Gun Safety, explains what it means to Sandy Hook families and the fight\
+    \ against disinformation.  Further Reading:  -The Onion Is Buying Alex Jones\u2019\
+    s Infowars Site\_ -Alex Jones Files for Bankruptcy Following Sandy Hook Trial\
+    \ Losses\_  Further Listening: -How Much Will Alex Jones Pay for his Sandy Hook\
+    \ Lie?\_ -What One School District Is Doing About Rising Gun Violence\_  Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6bS561iKRwn4S7n73oGzUi
+  title: The Onion Is Buying Infowars. No Joke.
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-11-15T00:00:00+00:00'
+  description: "If you're a student of history, you know that most things have gotten\
+    \ better for most people over time. But read the news and what do you hear? Pessimism,\
+    \ pessimism, pessimism.\_There are several reasons why.\_Special thanks to my\
+    \ friends at Readwise -- check out Readwise.IO/morgan."
+  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
+  path: https://open.spotify.com/episode/2lqBPtQDJOdSd9BuSKAeXa
+  title: Why Pessimism Sounds So Smart
 - author: CFA Institute Enterprising Investor
   categories: *id001
   date: '2024-11-14T20:09:47+00:00'
@@ -361,7 +388,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-14T10:22:54+00:00'
   description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
@@ -377,7 +404,7 @@
   path: https://braziljournal.com/sete-anos-depois-a-reforma-trabalhista-esta-em-corner/
   title: "Sete anos depois, a Reforma Trabalhista est\xE1 em c\xF3rner"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-14T00:00:00+00:00'
   description: "No epis\xF3dio 151 do Market Makers, Thiago Salom\xE3o, Josu\xE9 Guedes\
@@ -411,8 +438,7 @@
   title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
     A MALDITA DO BRASIL"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2024-11-14T00:00:00+00:00'
   description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
     s COP29 climate conference. With Donald Trump\u2019s recent election victory looming\
@@ -446,7 +472,7 @@
   path: https://open.spotify.com/episode/3KkMimtiJQ1xpfTRXZHJZ3
   title: 'Green money: how much is the energy transition really going to cost?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-13T23:19:22+00:00'
   description: "<p>Sob o risco de parecer o proverbial menino que acabou de ganhar\
     \ um martelo e trata tudo como se fosse um prego, proponho uma explica\xE7\xE3\
@@ -460,7 +486,7 @@
   path: https://braziljournal.com/opiniao-o-voto-economico-la-e-aqui/
   title: "OPINI\xC3O. O voto econ\xF4mico, l\xE1 e aqui"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-11-13T16:00:21+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -469,7 +495,7 @@
   path: https://www.youtube.com/watch?v=Oq8Pp3M7CUQ
   title: "\u26A1 FastAPI: Move Operations for Cleaner Code"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-11-13T00:00:00+00:00'
   description: "No cen\xE1rio atual, o mundo enfrenta uma s\xE9rie de tens\xF5es geopol\xED\
     ticas que podem afetar diretamente a economia global. A Venezuela, agora com apoio\
@@ -501,19 +527,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae81429ad6492310514c8c39d
   path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
   title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
-- author: The Journal.
-  categories: *id005
-  date: '2024-11-13T00:00:00+00:00'
-  description: "The famous investor and muti-billionaire CEO of Berkshire Hathaway\
-    \ is doing something unusual: selling stocks and hoarding cash. WSJ\u2019s Spencer\
-    \ Jakab breaks down possible reasons why and what everyday investors can learn\
-    \ from his choices.  Further Reading:  - Does Warren Buffett Know Something That\
-    \ We Don\u2019t?\_ - A $150 Billion Question: What Will Warren Buffett Do With\
-    \ All That Cash?\_  Further Listening:  - Charlie Munger: Curmudgeon, Sage and\
-    \ Investing Legend\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2Chj2riQ7EbN4ZLFXs7cKx
-  title: "Does Warren Buffett Know Something We Don\u2019t?"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -694,15 +707,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20393
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-11-04T00:00:00+00:00'
-  description: "A few easy-to-overlook skills that are so vital in today's world.\_\
-    Brought to you my friends at Readwise -- visit Readwise.io/morgan."
-  image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
-  path: https://open.spotify.com/episode/5UJzHZvPRqqAX9GHF0gFmX
-  title: Rare and Powerful Skills
 - author: AQR
   categories: &id008
   - Quant
