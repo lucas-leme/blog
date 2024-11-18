@@ -1,3 +1,13 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-11-18T13:23:22+00:00'
+  description: Multi-asset managers need a reliable, data-driven foundation for constructing
+    portfolios that are not only diversified but also aligned with global economic
+    trends.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/18/from-equities-to-real-assets-key-trends-shaping-multi-asset-investment/
+  title: 'From Equities to Real Assets: Key Trends Shaping Multi-Asset Investment'
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -53,8 +63,7 @@
   path: https://www.youtube.com/watch?v=GONyd0CUrPc
   title: 'SQLModel + FastAPI: Say Goodbye to Repetitive Database Code'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2024-11-15T12:20:14+00:00'
   description: How does the internal rate of return (IRR) work and why do investors
     need to be careful not to view the metric as an equivalent measure to a rate of
@@ -110,14 +119,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/2lqBPtQDJOdSd9BuSKAeXa
   title: Why Pessimism Sounds So Smart
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2024-11-14T20:09:47+00:00'
-  description: Interested in working with older historical data? Pitfalls lurk for
-    the unwary.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/14/a-guide-for-investment-analysts-working-with-historical-market-data/
-  title: 'A Guide for Investment Analysts: Working with Historical Market Data'
 - author: Atas do Copom
   categories:
   - Bacen
