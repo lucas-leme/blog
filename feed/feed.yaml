@@ -1,5 +1,54 @@
-- author: CFA Institute Enterprising Investor
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-11-18T17:30:04+00:00'
+  description: 'M4 generation has created a gap from M1. This laptop is great.
+
+
+    Get a dbrand skin for your MacBook Pro at http://dbrand.com/macbook
+
+    The wallpaper! https://panels.art/w/YWc
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: https://youtube.com/20syl
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Laptop provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/9HQx5pgUoiY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=9HQx5pgUoiY
+  title: 'M4 Max MacBook Pro: I''m Convinced!'
+- author: ArjanCodes
   categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-18T16:00:15+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/CEaWanW-7cM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CEaWanW-7cM
+  title: Stop Using This Git Command
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-11-18T13:23:22+00:00'
   description: Multi-asset managers need a reliable, data-driven foundation for constructing
@@ -8,20 +57,42 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/18/from-equities-to-real-assets-key-trends-shaping-multi-asset-investment/
   title: 'From Equities to Real Assets: Key Trends Shaping Multi-Asset Investment'
+- author: Market Makers
+  categories: &id005
+  - Podcasts
+  date: '2024-11-18T00:00:00+00:00'
+  description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
+    \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
+    \ Habib, presidente da JAC Motors Brasil, exp\xF5e as verdades e pol\xEAmicas\
+    \ por tr\xE1s do mercado de carros el\xE9tricos.Ele explica por que o Brasil ainda\
+    \ est\xE1 longe de adotar esses ve\xEDculos em massa, os desafios das baterias,\
+    \ a falta de infraestrutura e as limita\xE7\xF5es tecnol\xF3gicas que a ind\xFA\
+    stria enfrenta. Habib tamb\xE9m aborda as dificuldades de pa\xEDses como os EUA\
+    \ e Europa para consolidar o mercado de ve\xEDculos el\xE9tricos, al\xE9m de explorar\
+    \ como a China est\xE1 moldando o futuro dessa tecnologia.Descubra por que muitas\
+    \ montadoras est\xE3o repensando suas estrat\xE9gias e como isso pode impactar\
+    \ os consumidores e o planeta. Ele revela os segredos e desafios da ind\xFAstria\
+    \ automotiva no Brasil, explica a alta tributa\xE7\xE3o sobre carros, a luta das\
+    \ montadoras para sobreviver em um mercado t\xE3o complexo.Al\xE9m disso, tamb\xE9\
+    m compartilha insights sobre sua experi\xEAncia ao trazer marcas como Citro\xEB\
+    n e JAC Motors ao pa\xEDs Voc\xEA acredita que os carros el\xE9tricos ser\xE3\
+    o acess\xEDveis para a maioria dos brasileiros nos pr\xF3ximos anos?Assine a CompoundLetter,\
+    \ a newsletter gratuita mais bem relacionada do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-X\
+    \ Convidado: Sergio Habib (fundador do grupo SHC e presidente da Jac Motors Brasil)\
+    \ Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)\_\
+    Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8afc1b167172cf3b02ee2cc7aa
+  path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
+  title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-11-16T17:17:15+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/XXPjZwYY4z4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=XXPjZwYY4z4
   title: "The Harry Potter phone comes with a WAND \U0001FA84"
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-11-16T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -30,7 +101,7 @@
   path: https://www.youtube.com/watch?v=M8myswQlF1M
   title: The Real Problem with Inheritance
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-11-16T10:55:49+00:00'
   description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
@@ -46,24 +117,8 @@
   path: https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/
   title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
     \ \u2018checks and balances\u2019"
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-11-15T16:00:14+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nWhen you develop an API, you might feel like you\u2019re writing a lot of boilerplate\
-    \ code: routes, database schemas, the API interface, and so on. In this video,\
-    \ I\u2019ll show you how to drastically reduce that boilerplate with SQLModel\
-    \ and FastAPI.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/sqlmodel\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:30 SQLAlchemy Overview and Limitations\n5:41 SQLModel Basics\n\
-    12:23 Advanced Example with Relationships\n15:46 Additional SQLModel Features\n\
-    16:24 When to Use SQLModel and When to Stick with SQLAlchemy\n17:18 One caveat\
-    \ with SQLModel\n19:06 Outro\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GONyd0CUrPc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GONyd0CUrPc
-  title: 'SQLModel + FastAPI: Say Goodbye to Repetitive Database Code'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-11-15T12:20:14+00:00'
   description: How does the internal rate of return (IRR) work and why do investors
     need to be careful not to view the metric as an equivalent measure to a rate of
@@ -93,7 +148,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/to-whom-it-may-concern-demographic-differences-in-letters-of-recommendation/
   title: 'To Whom It May Concern: Demographic Differences in Letters of Recommendation'
 - author: The Journal.
-  categories: &id004
+  categories: &id006
   - Podcasts
   date: '2024-11-15T00:00:00+00:00'
   description: "The Onion, the satirical news outlet, wants to buy Infowars, the platform\
@@ -424,7 +479,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-11-14T10:22:54+00:00'
   description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
     \ julho de 2017 \u2013 um dos grandes avan\xE7os recentes na economia \u2013 est\xE1\
@@ -453,8 +508,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/14112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 14/11/2024"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id005
   date: '2024-11-14T00:00:00+00:00'
   description: "No epis\xF3dio 151 do Market Makers, Thiago Salom\xE3o, Josu\xE9 Guedes\
     \ e Walter Maciel (entrevistador convidado e CEO da AZ Quest) intermediaram uma\
@@ -487,7 +541,7 @@
   title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
     A MALDITA DO BRASIL"
 - author: The Journal.
-  categories: *id004
+  categories: *id006
   date: '2024-11-14T00:00:00+00:00'
   description: "Leaders from around the world are meeting in Azerbaijan for the U.N.\u2019\
     s COP29 climate conference. With Donald Trump\u2019s recent election victory looming\
@@ -520,39 +574,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/3KkMimtiJQ1xpfTRXZHJZ3
   title: 'Green money: how much is the energy transition really going to cost?'
-- author: Market Makers
-  categories: *id005
-  date: '2024-11-13T00:00:00+00:00'
-  description: "No cen\xE1rio atual, o mundo enfrenta uma s\xE9rie de tens\xF5es geopol\xED\
-    ticas que podem afetar diretamente a economia global. A Venezuela, agora com apoio\
-    \ da China e R\xFAssia, est\xE1 deixando de lado as negocia\xE7\xF5es com o Brasil\
-    \ e outras pot\xEAncias, enquanto o Canal do Panam\xE1, essencial para o com\xE9\
-    rcio global, enfrenta dificuldades operacionais e at\xE9 amea\xE7as geopol\xED\
-    ticas. J\xE1 o Oriente M\xE9dio vive uma escalada de tens\xF5es, com o Ir\xE3\
-    \ se posicionando cada vez mais como uma pot\xEAncia desestabilizadora na regi\xE3\
-    o.Al\xE9m disso, a guerra na Ucr\xE2nia segue sem uma solu\xE7\xE3o clara, com\
-    \ os EUA e aliados da OTAN fazendo enormes investimentos, mas sem conseguir reverter\
-    \ a situa\xE7\xE3o. Em paralelo, a R\xFAssia est\xE1 se saindo muito melhor do\
-    \ que muitos previam, com um crescimento robusto mesmo em meio a san\xE7\xF5es\
-    \ internacionais. As tens\xF5es entre EUA e China tamb\xE9m continuam, com Donald\
-    \ Trump adotando uma postura mais agressiva em rela\xE7\xE3o ao Oriente M\xE9\
-    dio e outros conflitos globais. E, no meio disso tudo, a infla\xE7\xE3o mundial\
-    \ segue em alta, com os custos de energia e alimentos pressionando ainda mais\
-    \ as economias.E o impacto disso tudo? A combina\xE7\xE3o desses fatores geopol\xED\
-    ticos est\xE1 fazendo a infla\xE7\xE3o subir e as taxas de juros no mundo inteiro\
-    \ aumentarem. Isso afeta diretamente o poder de compra dos consumidores, o com\xE9\
-    rcio internacional e at\xE9 a d\xEDvida p\xFAblica dos pa\xEDses. A pergunta \xE9\
-    : at\xE9 onde isso vai escalar e como as grandes pot\xEAncias, como os EUA e a\
-    \ Europa, v\xE3o lidar com isso?Se gostou do conte\xFAdo, deixe seu like e inscreva-se\
-    \ no canal para ficar por dentro das principais an\xE1lises econ\xF4micas e geopol\xED\
-    ticas que impactam seu bolso!\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO YOUTUBE:\_\
-    https://youtu.be/s1ESswhQE7s- - - - - - - - -TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS\
-    \ PELO MUNDO?Apresentador: Thiago Salom\xE3o (@_salomoney)Convidados: Roberto\
-    \ Dumas Damas, economista e professor do Insper.Become a supporter of this podcast:\
-    \ https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ae81429ad6492310514c8c39d
-  path: https://open.spotify.com/episode/4hiH8YYjtw0Fx56faYUdYP
-  title: 'TRUMP ELEITO: O QUE ESPERAR DAS GUERRAS PELO MUNDO? | Corte EP #147'
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -572,17 +593,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5b809f2c001d84b7f16c21c5
   path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
   title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-11-11T18:47:07+00:00'
-  description: "I want to shoot more videos in more places...\n\nThanks DJI for sponsoring\
-    \ today\u2019s video! Check out the DJI Osmo Action Camera 5 Pro at https://geni.us/vdUSBR\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nTech I'm using right now: https://www.amazon.com/shop/MKBHD\n\
-    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i4.ytimg.com/vi/S6qznDLlHRQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=S6qznDLlHRQ
-  title: How My Video Gear is Changing!
 - author: The Overshoot
   categories: &id010
   - Macro
