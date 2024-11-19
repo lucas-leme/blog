@@ -60,6 +60,16 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/18/from-equities-to-real-assets-key-trends-shaping-multi-asset-investment/
   title: 'From Equities to Real Assets: Key Trends Shaping Multi-Asset Investment'
+- author: CFA Institute Research and Policy Center
+  categories: &id011
+  - CFA
+  date: '2024-11-18T00:00:00+00:00'
+  description: "We highlight the importance of cash flow reinvestment and introduce\
+    \ \u201Csustainable return\u201D as the rate of withdrawal consistent capital\
+    \ preservation."
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
+  title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
 - author: Market Makers
   categories: &id006
   - Podcasts
@@ -771,8 +781,7 @@
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
 - author: CFA Institute Research and Policy Center
-  categories: &id011
-  - CFA
+  categories: *id011
   date: '2024-10-11T00:00:00+00:00'
   description: Applying a novel model to a proprietary dataset, this study evaluates
     the impact of financial intermediation costs on investor returns.
@@ -816,11 +825,3 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
-- author: CFA Institute Research and Policy Center
-  categories: *id011
-  date: '2024-09-24T00:00:00+00:00'
-  description: New evidence indicates that different types of subjective expectations
-    have time-varying roles in explaining stock price variations.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/time-varying-drivers-of-stock-prices
-  title: Time-Varying Drivers of Stock Prices
