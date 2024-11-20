@@ -1,3 +1,15 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-11-20T10:39:08+00:00'
+  description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
+    \ in 850,000 from a distance of 150 yards &#8211; practically a statistical anomaly.\
+    \ Yet, the 2023 LPGA tour recorded 20 such occurrences. How can this be? Simple:\
+    \ a low probability doesn\u2019t necessarily translate to low frequency. Hold\
+    \ on to that thought for a [&#8230;]"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
+  title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -8,7 +20,7 @@
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
@@ -37,7 +49,7 @@
   path: https://open.spotify.com/episode/7xds21C9Wf0kQS51BeLY4H
   title: "#153 | AT\xC9 ONDE VAI O BITCOIN NESSE CICLO DE ALTA?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: "Earlier this year, Canadian convenience store company Alimentation\
@@ -99,7 +111,7 @@
   path: https://www.youtube.com/watch?v=9HQx5pgUoiY
   title: 'M4 Max MacBook Pro: I''m Convinced!'
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -109,10 +121,9 @@
     \ #softwaredesign #python"
   image: https://i4.ytimg.com/vi/CEaWanW-7cM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CEaWanW-7cM
-  title: Stop Using This Git Command
+  title: "\u270B\U0001F3FB Stop Using This Git Command"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id002
   date: '2024-11-18T13:23:22+00:00'
   description: Multi-asset managers need a reliable, data-driven foundation for constructing
     portfolios that are not only diversified but also aligned with global economic
@@ -131,7 +142,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-11-18T00:00:00+00:00'
   description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
     \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
@@ -157,7 +168,7 @@
   path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
   title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-11-18T00:00:00+00:00'
   description: "Grocery bills are going up for a lot of reasons. One has to do with\
     \ how food gets on grocery store shelves. WSJ\u2019s Jesse Newman explains a hidden\
@@ -170,14 +181,14 @@
   path: https://open.spotify.com/episode/5i4kEV6VY5TAVNMIRYCZ4p
   title: The Mysterious Fees Inflating Your Grocery Bill
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-11-16T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
     \ #softwaredesign #python"
   image: https://i2.ytimg.com/vi/M8myswQlF1M/hqdefault.jpg
   path: https://www.youtube.com/watch?v=M8myswQlF1M
-  title: "\U0001F914 The Real Problem with Inheritance"
+  title: The Real Problem with Inheritance
 - author: "Economia \u2013 Brazil Journal"
   categories: &id006
   - Economia
@@ -195,15 +206,6 @@
   path: https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/
   title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
     \ \u2018checks and balances\u2019"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-11-15T12:20:14+00:00'
-  description: How does the internal rate of return (IRR) work and why do investors
-    need to be careful not to view the metric as an equivalent measure to a rate of
-    return on investments?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/15/a-reality-check-on-private-markets-part-ii/
-  title: 'A Reality Check on Private Markets: Part II'
 - author: Liberty Street Economics
   categories:
   - Macro
