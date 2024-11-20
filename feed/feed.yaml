@@ -1,5 +1,43 @@
-- author: The Journal.
+- author: Marques Brownlee
   categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-11-19T22:00:19+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/ZvgZWqaranw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ZvgZWqaranw
+  title: Gaming on the BACK of the phone!
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-19T00:00:00+00:00'
+  description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
+    lise Setorial da Mynt: https://www.mynt.com.br/research/relatorios/relatorios-setoriais/analise-setorial-introducao-as-teses-do-mercado-crypto/Fique\
+    \ ainda mais inteligente com os 20 livros que moldaram a vida de Charlie Munger,\
+    \ um dos maiores investidores de a\xE7\xF5es da hist\xF3ria: https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-X\
+    \ Rumo aos US$100k?Neste epis\xF3dio ao vivo, exploramos um tema quente: o futuro\
+    \ do mercado cripto. A pergunta que n\xE3o quer calar: o Bitcoin vai alcan\xE7\
+    ar a marca dos US$100k? Se sim, ser\xE1 ainda em 2024? Para responder a essas\
+    \ perguntas, \xE9 preciso olhar para o efeito Trump nos mercado financeiro e de\
+    \ criptoativos, que tem influenciado as decis\xF5es de investidores e regula\xE7\
+    \xF5es.Neste cen\xE1rio, estamos no meio de um ciclo que pode estar prestes a\
+    \ mudar. Ser\xE1 que o mercado de criptomoedas vai amadurecer ou vai enfrentar\
+    \ mais desafios? A regula\xE7\xE3o \xE9 um tema crucial, e o que podemos esperar\
+    \ para o futuro? N\xE3o podemos deixar de falar das memecoins e seu impacto nas\
+    \ decis\xF5es de investimento, e o quanto a ado\xE7\xE3o institucional est\xE1\
+    \ ajudando a legitimar o setor. Afinal, como grandes players como est\xE3o entrando\
+    \ no mercado cripto?Vamos analisar a hist\xF3ria desse movimento e as perspectivas\
+    \ para os pr\xF3ximos anos. O que voc\xEA acha sobre o futuro das criptos? Acha\
+    \ que a regula\xE7\xE3o vai ajudar ou prejudicar o mercado? Deixe seu like e inscreva-se\
+    \ no canal para n\xE3o perder nenhum v\xEDdeo sobre o universo financeiro!Apresentadores:\
+    \ Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
+    \ Andr\xE9 Portilho (s\xF3cio do BTG Pactual e head da Mynt), e Alexandre Vasarhelyi,\
+    \ (s\xF3cio e gestor da B2V Crypto).\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a49ec41334f07850ea7c5e769
+  path: https://open.spotify.com/episode/7xds21C9Wf0kQS51BeLY4H
+  title: "#153 | AT\xC9 ONDE VAI O BITCOIN NESSE CICLO DE ALTA?"
+- author: The Journal.
+  categories: &id003
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: "Earlier this year, Canadian convenience store company Alimentation\
@@ -14,10 +52,16 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/3QcNKVBUMD5W1KO4H1mJMX
   title: The Fight for 7-Eleven
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-11-19T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a0d5d03d7f79dca001e27f39f
+  path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
+  title: '#142 - O futuro do Venture Capital no Brasil'
 - author: Marques Brownlee
-  categories: &id002
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-11-18T17:30:04+00:00'
   description: 'M4 generation has created a gap from M1. This laptop is great.
 
@@ -55,7 +99,7 @@
   path: https://www.youtube.com/watch?v=9HQx5pgUoiY
   title: 'M4 Max MacBook Pro: I''m Convinced!'
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -67,7 +111,7 @@
   path: https://www.youtube.com/watch?v=CEaWanW-7cM
   title: Stop Using This Git Command
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-11-18T13:23:22+00:00'
   description: Multi-asset managers need a reliable, data-driven foundation for constructing
@@ -87,8 +131,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id002
   date: '2024-11-18T00:00:00+00:00'
   description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
     \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
@@ -114,7 +157,7 @@
   path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
   title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2024-11-18T00:00:00+00:00'
   description: "Grocery bills are going up for a lot of reasons. One has to do with\
     \ how food gets on grocery store shelves. WSJ\u2019s Jesse Newman explains a hidden\
@@ -126,15 +169,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
   path: https://open.spotify.com/episode/5i4kEV6VY5TAVNMIRYCZ4p
   title: The Mysterious Fees Inflating Your Grocery Bill
-- author: Marques Brownlee
-  categories: *id002
-  date: '2024-11-16T17:17:15+00:00'
-  description: ''
-  image: https://i1.ytimg.com/vi/XXPjZwYY4z4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=XXPjZwYY4z4
-  title: "The Harry Potter phone comes with a WAND \U0001FA84"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-11-16T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -143,7 +179,7 @@
   path: https://www.youtube.com/watch?v=M8myswQlF1M
   title: "\U0001F914 The Real Problem with Inheritance"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2024-11-16T10:55:49+00:00'
   description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
@@ -160,7 +196,7 @@
   title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
     \ \u2018checks and balances\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-11-15T12:20:14+00:00'
   description: How does the internal rate of return (IRR) work and why do investors
     need to be careful not to view the metric as an equivalent measure to a rate of
@@ -505,7 +541,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2024-11-14T10:22:54+00:00'
   description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
     \ julho de 2017 \u2013 um dos grandes avan\xE7os recentes na economia \u2013 est\xE1\
@@ -533,39 +569,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/14112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 14/11/2024"
-- author: Market Makers
-  categories: *id006
-  date: '2024-11-14T00:00:00+00:00'
-  description: "No epis\xF3dio 151 do Market Makers, Thiago Salom\xE3o, Josu\xE9 Guedes\
-    \ e Walter Maciel (entrevistador convidado e CEO da AZ Quest) intermediaram uma\
-    \ construtiva conversa sobre o Brasil com quatro grandes economistas e estudiosos\
-    \ da situa\xE7\xE3o do nosso fiscal: Marcos Lisboa (ex-presidente do Insper),\
-    \ Marcos Mendes (pesquisador do Insper), Alexandre Manoel (economista-chefe da\
-    \ AZ Quest) e Samuel Pess\xF4a (pesquisador da FGV).No papo de quase 2h30, eles\
-    \ expuseram fissuras pol\xEDticas, econ\xF4micas e sociais do pa\xEDs. \xC9 um\
-    \ consenso que o Brasil enfrenta um desafio econ\xF4mico complexo: a maneira como\
-    \ os recursos p\xFAblicos s\xE3o gastos n\xE3o s\xF3 revela inefici\xEAncias e\
-    \ corrup\xE7\xE3o, mas tamb\xE9m uma gest\xE3o p\xFAblica incapaz de alocar o\
-    \ or\xE7amento de forma eficaz.Mesmo com investimentos, o dinheiro n\xE3o chega\
-    \ aos lugares que mais precisam, deixando um pa\xEDs vulner\xE1vel a crises fiscais\
-    \ e exposto \xE0 volatilidade econ\xF4mica. Debatemos a interven\xE7\xE3o do Banco\
-    \ Central, a deteriora\xE7\xE3o das expectativas econ\xF4micas e as implica\xE7\
-    \xF5es das pol\xEDticas fiscais para o futuro do pa\xEDs. Eles tamb\xE9m abordaram\
-    \ quest\xF5es pol\xEAmicas como a rela\xE7\xE3o entre o governo e o setor privado,\
-    \ a efici\xEAncia de programas sociais, e a influ\xEAncia das pol\xEDticas econ\xF4\
-    micas nas vidas dos brasileiros.\xC9 uma an\xE1lise completa sobre as complexidades\
-    \ econ\xF4micas e pol\xEDticas que moldam o Brasil hoje, incluindo perspectivas\
-    \ hist\xF3ricas e reflex\xF5es sobre poss\xEDveis solu\xE7\xF5es. Este epis\xF3\
-    dio est\xE1 imperd\xEDvel! Simplesmente uma aula sobre a economia brasileira.Convidados:\
-    \ Marcos Lisboa (Doutor em economia e ex-presidente do Insper), Marcos Mendes\
-    \ (Doutor em economia e pesquisador do Insper), Samuel Pess\xF4a (Doutor em economia)\
-    \ e Alexandre Manoel (Economista-Chefe da AZ Quest)Apresentador: Thiago Salom\xE3\
-    o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__) e Walter Maciel (CEO da AZQuest)Become\
-    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ac774788b62d4628b9b9c5ec4
-  path: https://open.spotify.com/episode/54W6ydWB9YT28QKfMIKELt
-  title: "#151 | GASTOS OCULTOS, MANOBRAS FISCAIS E UMA D\xCDVIDA EXPLOSIVA: A HERAN\xC7\
-    A MALDITA DO BRASIL"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -597,8 +600,7 @@
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
 - author: Outliers
-  categories: &id007
-  - Podcasts
+  categories: *id007
   date: '2024-11-12T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a5b809f2c001d84b7f16c21c5
@@ -720,28 +722,6 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
-- author: Outliers
-  categories: *id007
-  date: '2024-10-30T00:00:00+00:00'
-  description: "Participantes:Clara Sodr\xE9 | Analista de fundo da XPRodrigo Sgavioli,\
-    \ CFP \xAE | Head de aloca\xE7\xE3o da XPJos\xE9 Rocha | S\xF3cio e CIO da Dahlia\
-    \ CapitalSara Delfim | S\xF3cia e analista da Dahlia CapitalFundada em 2018, a\
-    \ Dahlia Capital \xE9 uma gestora que tem se consolidado na ind\xFAstria de fundos,\
-    \ com a cria\xE7\xE3o de um hist\xF3rico consistente e o trabalho de uma equipe\
-    \ de profissionais com experi\xEAncia no mercado.E no epis\xF3dio do Outliers\
-    \ 140, receberemos Jos\xE9 Rocha e Sara Delfim para falar como os acontecimentos\
-    \ globais est\xE3o impactando a bolsa brasileira e o que esperar para os meses\
-    \ \xE0 frente.-----------------------------------------------------------------------------------------------------Investir\
-    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
-    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
-    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
-    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
-    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
-    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
-    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
-  image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
-  path: https://open.spotify.com/episode/5SPgvePFinLZVtLvJOxomg
-  title: '#140 - China, EUA e o que esperar para a Bolsa'
 - author: AQR
   categories: *id008
   date: '2024-10-30T00:00:00'
