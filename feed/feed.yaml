@@ -1,3 +1,18 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-11-21T21:03:50+00:00'
+  description: "<p>Quando foi indicada por Joe Biden em 2021 para presidir o \xF3\
+    rg\xE3o antitruste americano \u2013 a Federal Trade Commission (FTC) \u2013 Lina\
+    \ Khan foi recebida com j\xFAbilo, por parte de profissionais da \xE1rea, cr\xED\
+    ticos \xE0 leniente aplica\xE7\xE3o da doutrina antitruste; espanto, por parte\
+    \ do p\xFAblico, em vista da sua pouca idade, 34 anos, e por [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/opiniao-o-legado-de-lina-khan/\" rel=\"\
+    nofollow\">OPINI\xC3O. O legado de Lina Khan</a> appeared first on <a href=\"\
+    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-legado-de-lina-khan/
+  title: "OPINI\xC3O. O legado de Lina Khan"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -15,9 +30,49 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-three-facts-about-failing-banks/
   title: Why Do Banks Fail? Three Facts About Failing Banks
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-21T00:00:00+00:00'
+  description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
+    \ na casa dos dois d\xEDgitos em 2025. Baixe um relat\xF3rio gratuito agora: https://lp.mmakers.com.br/lp-vulcabras-compoundletter?xpromo=XE-ME-COMP-VULCABRAS-SUBMMK-20241121-NTYT-EPISODIO154-XNeste\
+    \ v\xEDdeo, contamos a hist\xF3ria incr\xEDvel da Vulcabras, desde sua funda\xE7\
+    \xE3o at\xE9 os desafios enfrentados pela empresa no competitivo setor cal\xE7\
+    adista.Acompanhamos a trajet\xF3ria de Pedro Bartelle e sua vis\xE3o estrat\xE9\
+    gica para transformar a marca.\_A conversa aborda o impacto das marcas gigantes\
+    \ como Mizuno, Olympikus e Under Armour no Brasil, os desafios com a concorr\xEA\
+    ncia asi\xE1tica e a necessidade de inova\xE7\xE3o constante. Al\xE9m disso, exploramos\
+    \ como a Vulcabrass superou crises, adquiriu marcas como a Azaleia e se reestruturou\
+    \ para alcan\xE7ar o valor de mercado de 5 bilh\xF5es de reais. Como voc\xEA v\xEA\
+    \ o futuro das marcas brasileiras no mercado global?Se voc\xEA curtiu este conte\xFA\
+    do, n\xE3o se esque\xE7a de deixar o seu like e se inscrever no nosso canal para\
+    \ acompanhar mais v\xEDdeos sobre economia e estrat\xE9gias de neg\xF3cios de\
+    \ sucesso! Convidado: Pedro Bartelle (CEO da Vulcabras) Apresentadores: Thiago\
+    \ Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares) #MARKETMAKERS #THIAGOSALOMAO\
+    \ #MIZUNO #UNDERARMOUR #OLYMPIKUSBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8ad753a93c89a4d6a803617786
+  path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
+  title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2024-11-21T00:00:00+00:00'
+  description: "For decades, western companies looked to Asia for growth. They saw\
+    \ an opportunity to establish their brands with a rapidly-expanding middle class.\
+    \ But now, in many parts of Asia, the growth of that aspirational class is slowing.\
+    \ So, what happened to Asia\u2019s middle classes?Hosts: Mike Bird and Alice Fulwood.\
+    \ Guests: The Economist\u2019s Ethan Wu; Wolfgang Fengler, CEO of research firm\
+    \ World Data Lab; and Ibrahim \u201CBen\u201D Suffian of the Merdeka Centre for\
+    \ Opinion Research.Transcripts of our podcasts are available via economist.com/podcasts.Listen\
+    \ to what matters most, from global politics and business to science and technology\u2014\
+    subscribe to Economist Podcasts+.For more information about how to access Economist\
+    \ Podcasts+, please visit our FAQs page or watch our video explaining how to link\
+    \ your account."
+  image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
+  path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
+  title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
-  - Economia
+  categories: *id001
   date: '2024-11-20T22:31:33+00:00'
   description: "<p>Os mercados emergentes tiveram um desempenho substancialmente inferior\
     \ aos mercados desenvolvidos, especialmente os Estados Unidos, desde a crise financeira\
@@ -32,7 +87,7 @@
   path: https://braziljournal.com/opiniao-nos-mercados-emergentes-razoes-para-um-otimismo-crescente/
   title: "OPINI\xC3O. Nos mercados emergentes, raz\xF5es para um otimismo crescente"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -44,7 +99,7 @@
   path: https://www.youtube.com/watch?v=FcIEWBSLnJk
   title: "\U0001F4BE Data Formats in Data Science: Choose Wisely"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id006
   - CFA
   date: '2024-11-20T10:39:08+00:00'
   description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
@@ -56,7 +111,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
   title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
 - author: The Journal.
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-11-20T00:00:00+00:00'
   description: "For years, Spirit Airlines soared with a low-cost, no-frills business\
@@ -71,7 +126,7 @@
   path: https://open.spotify.com/episode/1DYObikm6q9aOv2exu7dXV
   title: How Spirit Airlines Landed in Bankruptcy
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-11-19T22:00:19+00:00'
@@ -80,8 +135,7 @@
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id002
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
     lise Setorial da Mynt: https://www.mynt.com.br/research/relatorios/relatorios-setoriais/analise-setorial-introducao-as-teses-do-mercado-crypto/Fique\
@@ -109,7 +163,7 @@
   path: https://open.spotify.com/episode/7xds21C9Wf0kQS51BeLY4H
   title: "#153 | AT\xC9 ONDE VAI O BITCOIN NESSE CICLO DE ALTA?"
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2024-11-19T00:00:00+00:00'
   description: "Earlier this year, Canadian convenience store company Alimentation\
     \ Couche-Tard put in a bid to acquire 7-Eleven. Then, management from inside 7-Eleven\u2019\
@@ -132,7 +186,7 @@
   path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
   title: '#142 - O futuro do Venture Capital no Brasil'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id004
   date: '2024-11-18T17:30:04+00:00'
   description: 'M4 generation has created a gap from M1. This laptop is great.
 
@@ -170,7 +224,7 @@
   path: https://www.youtube.com/watch?v=9HQx5pgUoiY
   title: 'M4 Max MacBook Pro: I''m Convinced!'
 - author: ArjanCodes
-  categories: *id003
+  categories: *id005
   date: '2024-11-18T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -179,7 +233,7 @@
   path: https://www.youtube.com/watch?v=CEaWanW-7cM
   title: "\u270B\U0001F3FB Stop Using This Git Command"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id006
   date: '2024-11-18T13:23:22+00:00'
   description: Multi-asset managers need a reliable, data-driven foundation for constructing
     portfolios that are not only diversified but also aligned with global economic
@@ -188,7 +242,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/18/from-equities-to-real-assets-key-trends-shaping-multi-asset-investment/
   title: 'From Equities to Real Assets: Key Trends Shaping Multi-Asset Investment'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id007
   - CFA
   date: '2024-11-18T00:00:00+00:00'
   description: "We highlight the importance of cash flow reinvestment and introduce\
@@ -198,55 +252,13 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id007
   date: '2024-11-18T00:00:00+00:00'
   description: Analyzing finance applications of large language models (LLMs), this
     study identifies tradeoffs that can guide academics and practitioners.
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-much-does-chatgpt-know-about-finance
   title: How Much Does ChatGPT Know about Finance?
-- author: Market Makers
-  categories: *id006
-  date: '2024-11-18T00:00:00+00:00'
-  description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
-    \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
-    \ Habib, presidente da JAC Motors Brasil, exp\xF5e as verdades e pol\xEAmicas\
-    \ por tr\xE1s do mercado de carros el\xE9tricos.Ele explica por que o Brasil ainda\
-    \ est\xE1 longe de adotar esses ve\xEDculos em massa, os desafios das baterias,\
-    \ a falta de infraestrutura e as limita\xE7\xF5es tecnol\xF3gicas que a ind\xFA\
-    stria enfrenta. Habib tamb\xE9m aborda as dificuldades de pa\xEDses como os EUA\
-    \ e Europa para consolidar o mercado de ve\xEDculos el\xE9tricos, al\xE9m de explorar\
-    \ como a China est\xE1 moldando o futuro dessa tecnologia.Descubra por que muitas\
-    \ montadoras est\xE3o repensando suas estrat\xE9gias e como isso pode impactar\
-    \ os consumidores e o planeta. Ele revela os segredos e desafios da ind\xFAstria\
-    \ automotiva no Brasil, explica a alta tributa\xE7\xE3o sobre carros, a luta das\
-    \ montadoras para sobreviver em um mercado t\xE3o complexo.Al\xE9m disso, tamb\xE9\
-    m compartilha insights sobre sua experi\xEAncia ao trazer marcas como Citro\xEB\
-    n e JAC Motors ao pa\xEDs Voc\xEA acredita que os carros el\xE9tricos ser\xE3\
-    o acess\xEDveis para a maioria dos brasileiros nos pr\xF3ximos anos?Assine a CompoundLetter,\
-    \ a newsletter gratuita mais bem relacionada do mercado financeiro: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-NTVYT-YOUTUBE-X\
-    \ Convidado: Sergio Habib (fundador do grupo SHC e presidente da Jac Motors Brasil)\
-    \ Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)\_\
-    Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8afc1b167172cf3b02ee2cc7aa
-  path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
-  title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id007
-  date: '2024-11-16T10:55:49+00:00'
-  description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
-    \ para os EUA, e a tend\xEAncia do nearshoring, que pode ser fortalecida por Donald\
-    \ Trump, ajuda a economia mexicana. Mas o M\xE9xico tamb\xE9m precisa se ajudar.\
-    \ A Moody\u2019s acaba de rebaixar o outlook para o risco soberano do M\xE9xico\
-    \ de \u2018est\xE1vel\u2019 para \u2018negativo\u2019 \u2013 [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/\"\
-    \ rel=\"nofollow\">Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando\
-    \ amea\xE7as aos \u2018checks and balances\u2019</a> appeared first on <a href=\"\
-    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/moodys-corta-outlook-do-mexico-citando-ameacas-aos-checks-and-balances/
-  title: "Moody\u2019s corta \u2018outlook\u2019 do M\xE9xico citando amea\xE7as aos\
-    \ \u2018checks and balances\u2019"
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
@@ -576,25 +588,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/14112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 14/11/2024"
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2024-11-14T00:00:00+00:00'
-  description: "Countries around the world finally agreed on the need to transition\
-    \ away from fossil fuels at last year's COP summit. The latest climate conference\
-    \ is now underway in Baku, Azerbaijan. But how much is the immense transition\
-    \ to clean and green energy really going to cost? And who is going to pay for\
-    \ it?Hosts: Mike Bird and Alice Fulwood. Guests: The Economist\u2019s Gavin Jackson;\
-    \ and Adair Turner, Chair of the Energy Transition Commission.For more on COP29,\
-    \ check out the latest episode of our \u201CBabbage\u201D podcast, in which our\
-    \ correspondent travels to South Africa for lessons on how to end coal.Transcripts\
-    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
-    \ most, from global politics and business to science and technology\u2014subscribe\
-    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
-    \ please visit our FAQs page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
-  path: https://open.spotify.com/episode/3KkMimtiJQ1xpfTRXZHJZ3
-  title: 'Green money: how much is the energy transition really going to cost?'
 - author: The View From Apollo
   categories:
   - Podcasts
