@@ -1,5 +1,21 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id006
+  - Economia
+  date: '2024-11-20T22:31:33+00:00'
+  description: "<p>Os mercados emergentes tiveram um desempenho substancialmente inferior\
+    \ aos mercados desenvolvidos, especialmente os Estados Unidos, desde a crise financeira\
+    \ global de 2008. No entanto, acreditamos que essa subperformance pode estar mudando,\
+    \ e que investir nos emergentes pode oferecer importantes benef\xEDcios de diversifica\xE7\
+    \xE3o e oportunidades de retorno. O desempenho inferior hist\xF3rico reflete v\xE1\
+    rios fatores, incluindo disparidades [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-nos-mercados-emergentes-razoes-para-um-otimismo-crescente/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Nos mercados emergentes, raz\xF5es para um otimismo\
+    \ crescente</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-nos-mercados-emergentes-razoes-para-um-otimismo-crescente/
+  title: "OPINI\xC3O. Nos mercados emergentes, raz\xF5es para um otimismo crescente"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -11,7 +27,7 @@
   path: https://www.youtube.com/watch?v=FcIEWBSLnJk
   title: 'Data Formats in Data Science: Choose Wisely'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-11-20T10:39:08+00:00'
   description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
@@ -22,8 +38,23 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
   title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
-- author: Marques Brownlee
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2024-11-20T00:00:00+00:00'
+  description: "For years, Spirit Airlines soared with a low-cost, no-frills business\
+    \ model. This week, it came in for a bumpy landing. WSJ's Alison Sider explains\
+    \ how the big airlines learned to compete with Spirit\u2013\u2013and helped put\
+    \ the carrier in bankruptcy.  Further Listening: -The Love Triangle Over Spirit\
+    \ Airlines\_ -Frontier, Spirit and the Future of Low-Cost Airlines\_  Further\
+    \ Reading:  -How Spirit Airlines Went From Industry Maverick to Chapter 11 Bankruptcy\_\
+    \ -Discount Airline Spirit Files for Bankruptcy\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/1DYObikm6q9aOv2exu7dXV
+  title: How Spirit Airlines Landed in Bankruptcy
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-11-19T22:00:19+00:00'
@@ -32,7 +63,7 @@
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
@@ -61,8 +92,7 @@
   path: https://open.spotify.com/episode/7xds21C9Wf0kQS51BeLY4H
   title: "#153 | AT\xC9 ONDE VAI O BITCOIN NESSE CICLO DE ALTA?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2024-11-19T00:00:00+00:00'
   description: "Earlier this year, Canadian convenience store company Alimentation\
     \ Couche-Tard put in a bid to acquire 7-Eleven. Then, management from inside 7-Eleven\u2019\
@@ -85,7 +115,7 @@
   path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
   title: '#142 - O futuro do Venture Capital no Brasil'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-11-18T17:30:04+00:00'
   description: 'M4 generation has created a gap from M1. This laptop is great.
 
@@ -123,7 +153,7 @@
   path: https://www.youtube.com/watch?v=9HQx5pgUoiY
   title: 'M4 Max MacBook Pro: I''m Convinced!'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-11-18T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -132,7 +162,7 @@
   path: https://www.youtube.com/watch?v=CEaWanW-7cM
   title: "\u270B\U0001F3FB Stop Using This Git Command"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-11-18T13:23:22+00:00'
   description: Multi-asset managers need a reliable, data-driven foundation for constructing
     portfolios that are not only diversified but also aligned with global economic
@@ -151,7 +181,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-11-18T00:00:00+00:00'
   description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
     \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
@@ -176,22 +206,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc1b167172cf3b02ee2cc7aa
   path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
   title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
-- author: The Journal.
-  categories: *id005
-  date: '2024-11-18T00:00:00+00:00'
-  description: "Grocery bills are going up for a lot of reasons. One has to do with\
-    \ how food gets on grocery store shelves. WSJ\u2019s Jesse Newman explains a hidden\
-    \ layer of fees that are getting passed down to the consumer.\_  Further Reading:\
-    \  - The Mysterious Fees Inflating Your Grocery Bill\_ - After Years of Raising\
-    \ Prices, Food Companies Hit Consumers\u2019 Limits\_  Further Listening:  - The\
-    \ Twinkie: From Bankruptcy to Billions\_ - Food Fight: PepsiCo vs. Carrefour\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/5i4kEV6VY5TAVNMIRYCZ4p
-  title: The Mysterious Fees Inflating Your Grocery Bill
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
-  - Economia
+  categories: *id006
   date: '2024-11-16T10:55:49+00:00'
   description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
     \ para os EUA, e a tend\xEAncia do nearshoring, que pode ser fortalecida por Donald\
@@ -542,21 +558,6 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/06112024
   title: "BC - Copom Ata - 266\xAA Reuni\xE3o - 5-6 novembro, 2024"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id006
-  date: '2024-11-14T10:22:54+00:00'
-  description: "<p>A reforma trabalhista sancionada pelo Presidente Michel Temer em\
-    \ julho de 2017 \u2013 um dos grandes avan\xE7os recentes na economia \u2013 est\xE1\
-    \ em c\xF3rner. Alguns de seus principais pilares \u2013 como a terceiriza\xE7\
-    \xE3o irrestrita e a preval\xEAncia do negociado sobre o legislado \u2013 est\xE3\
-    o sendo derrubados por ju\xEDzes do trabalho Brasil afora. Como consequ\xEAncia,\
-    \ o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/sete-anos-depois-a-reforma-trabalhista-esta-em-corner/\"\
-    \ rel=\"nofollow\">Sete anos depois, a Reforma Trabalhista est\xE1 em c\xF3rner</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/sete-anos-depois-a-reforma-trabalhista-esta-em-corner/
-  title: "Sete anos depois, a Reforma Trabalhista est\xE1 em c\xF3rner"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
