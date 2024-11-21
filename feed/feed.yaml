@@ -16,7 +16,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-three-facts-about-failing-banks/
   title: Why Do Banks Fail? Three Facts About Failing Banks
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id007
   - Economia
   date: '2024-11-20T22:31:33+00:00'
   description: "<p>Os mercados emergentes tiveram um desempenho substancialmente inferior\
@@ -80,7 +80,7 @@
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
@@ -124,7 +124,7 @@
   path: https://open.spotify.com/episode/3QcNKVBUMD5W1KO4H1mJMX
   title: The Fight for 7-Eleven
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-11-19T00:00:00+00:00'
   description: ''
@@ -188,7 +188,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/18/from-equities-to-real-assets-key-trends-shaping-multi-asset-investment/
   title: 'From Equities to Real Assets: Key Trends Shaping Multi-Asset Investment'
 - author: CFA Institute Research and Policy Center
-  categories: &id011
+  categories: &id005
   - CFA
   date: '2024-11-18T00:00:00+00:00'
   description: "We highlight the importance of cash flow reinvestment and introduce\
@@ -197,8 +197,16 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
-- author: Market Makers
+- author: CFA Institute Research and Policy Center
   categories: *id005
+  date: '2024-11-18T00:00:00+00:00'
+  description: Analyzing finance applications of large language models (LLMs), this
+    study identifies tradeoffs that can guide academics and practitioners.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-much-does-chatgpt-know-about-finance
+  title: How Much Does ChatGPT Know about Finance?
+- author: Market Makers
+  categories: *id006
   date: '2024-11-18T00:00:00+00:00'
   description: "Carros el\xE9tricos s\xE3o realmente o futuro ou apenas mais uma grande\
     \ mentira da ind\xFAstria automotiva? Neste epis\xF3dio do Market Makers, Sergio\
@@ -224,7 +232,7 @@
   path: https://open.spotify.com/episode/1euVPvm1uIsL72jtPrOq9P
   title: "#152 | O QUE N\xC3O TE CONTAM SOBRE O MERCADO DE CARROS NO MUNDO"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id007
   date: '2024-11-16T10:55:49+00:00'
   description: "<p>O M\xE9xico ultrapassou a China como o pa\xEDs que mais exporta\
     \ para os EUA, e a tend\xEAncia do nearshoring, que pode ser fortalecida por Donald\
@@ -599,14 +607,14 @@
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-11-12T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a5b809f2c001d84b7f16c21c5
   path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
   title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
 - author: The Overshoot
-  categories: &id010
+  categories: &id011
   - Macro
   - Newsletters
   date: '2024-11-08T01:12:00+00:00'
@@ -707,7 +715,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: AQR
-  categories: &id008
+  categories: &id009
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -722,7 +730,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: AQR
-  categories: *id008
+  categories: *id009
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -734,7 +742,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: &id009
+  categories: &id010
   - Macro
   - Newsletters
   date: '2024-10-29T12:29:54+00:00'
@@ -744,7 +752,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: Apricitas Economics
-  categories: *id009
+  categories: *id010
   date: '2024-10-20T14:15:27+00:00'
   description: AI Demand is Driving Skyrocketing US Investment in Computers, Data
     Centers, and Other Physical Infrastructure
@@ -752,21 +760,13 @@
   path: https://www.apricitas.io/p/the-ai-investment-boom
   title: The AI Investment Boom
 - author: The Overshoot
-  categories: *id010
+  categories: *id011
   date: '2024-10-15T23:34:34+00:00'
   description: A few lines from his most recent speech and subsequent Q&amp;A that
     caught my attention.
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95265bac-2221-4be8-ac62-e8f196380d7d_5000x4618.png
   path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
   title: Christopher Waller on Wages, Productivity, and Inflation
-- author: CFA Institute Research and Policy Center
-  categories: *id011
-  date: '2024-10-11T00:00:00+00:00'
-  description: Applying a novel model to a proprietary dataset, this study evaluates
-    the impact of financial intermediation costs on investor returns.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/accessing-private-markets-what-does-it-cost
-  title: 'Accessing Private Markets: What Does It Cost?'
 - author: Flirting with Models
   categories:
   - Podcasts
