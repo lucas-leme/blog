@@ -1,5 +1,25 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-22T16:00:20+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nSetting up VSCode for Python development doesn't have to be a headache! In this\
+    \ video, I walk you through a complete and practical VSCode setup that tackles\
+    \ common pain points\u2014like missing imports, mismatched Python versions, and\
+    \ pytest issues with finding tests. \n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/vscode_python\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:42 Prerequisites\n2:29 Extensions\n6:35 Create The Project\n7:04\
+    \ Setting The Structure Of The Project\n9:58 Must Have Dependencies and Tools\n\
+    10:33 Example Python Code With Tests\n13:24 Nice VSCode settings\n21:39 Fixing\
+    \ the source path for Pylance\n23:05 Bonus Extensions\n25:31 Final thoughts\n\n\
+    #arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/PwGKhvqJCQM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=PwGKhvqJCQM
+  title: COMPLETE No-Nonsense VSCode Setup for Python Devs
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
@@ -55,7 +75,7 @@
   path: https://braziljournal.com/opiniao-o-legado-de-lina-khan/
   title: "OPINI\xC3O. O legado de Lina Khan"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-21T00:00:00+00:00'
   description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
@@ -78,7 +98,7 @@
   path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
   title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-21T00:00:00+00:00'
   description: "When TNT lost the rights to broadcast NBA games this year, fans worried\
@@ -111,10 +131,7 @@
   path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
   title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-11-20T16:00:11+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -123,7 +140,7 @@
   path: https://www.youtube.com/watch?v=FcIEWBSLnJk
   title: "\U0001F4BE Data Formats in Data Science: Choose Wisely"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-11-20T10:39:08+00:00'
   description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
     \ in 850,000 from a distance of 150 yards &#8211; practically a statistical anomaly.\
@@ -134,7 +151,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
   title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-11-20T00:00:00+00:00'
   description: "For years, Spirit Airlines soared with a low-cost, no-frills business\
     \ model. This week, it came in for a bumpy landing. WSJ's Alison Sider explains\
@@ -148,7 +165,7 @@
   path: https://open.spotify.com/episode/1DYObikm6q9aOv2exu7dXV
   title: How Spirit Airlines Landed in Bankruptcy
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-19T22:00:19+00:00'
@@ -157,7 +174,7 @@
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
     lise Setorial da Mynt: https://www.mynt.com.br/research/relatorios/relatorios-setoriais/analise-setorial-introducao-as-teses-do-mercado-crypto/Fique\
@@ -193,7 +210,7 @@
   path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
   title: '#142 - O futuro do Venture Capital no Brasil'
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-11-18T17:30:04+00:00'
   description: 'M4 generation has created a gap from M1. This laptop is great.
 
@@ -230,15 +247,6 @@
   image: https://i2.ytimg.com/vi/9HQx5pgUoiY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=9HQx5pgUoiY
   title: 'M4 Max MacBook Pro: I''m Convinced!'
-- author: ArjanCodes
-  categories: *id006
-  date: '2024-11-18T16:00:15+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/CEaWanW-7cM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=CEaWanW-7cM
-  title: Stop Using This Git Command
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
