@@ -10,8 +10,28 @@
   image: https://i1.ytimg.com/vi/hbOrQ0UMq3Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
   title: The Self-Explanatory Code
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-11-23T00:00:00+00:00'
+  description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
+    \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
+    \ https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-X\
+    \ Como a cultua das BETs impacta a educa\xE7\xE3o financeira no Brasil? Neste\
+    \ v\xEDdeo, abordamos temas cruciais sobre o impacto da educa\xE7\xE3o financeira\
+    \ no nosso pa\xEDs e na vida das pessoas.Discutimos a realidade do mercado financeiro,\
+    \ o papel da educa\xE7\xE3o financeira e o impacto das apostas (bets) na economia\
+    \ e no comportamento dos brasileiros.A educa\xE7\xE3o financeira surge como solu\xE7\
+    \xE3o para muitos, mas ser\xE1 que apenas ela \xE9 suficiente? Qual \xE9 o papel\
+    \ dos profissionais de finan\xE7as e como a especializa\xE7\xE3o na \xE1rea pode\
+    \ transformar a vida das pessoas?Convidados: Eduardo Feldbebrg e Fabio Louzada\
+    \ Apresentadores: Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)\_\
+    Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a4350a1b39d45eb1b4a3e45ea
+  path: https://open.spotify.com/episode/00GfkYqkQEEg0IB8TQ8IXY
+  title: "#155 | BETS E POBREZA: VERDADES INCONTEST\xC1VEIS SOBRE O BRASIL"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-22T22:38:00+00:00'
@@ -67,7 +87,7 @@
   path: https://www.youtube.com/watch?v=PwGKhvqJCQM
   title: COMPLETE No-Nonsense VSCode Setup for Python Devs
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
@@ -109,7 +129,7 @@
   path: https://braziljournal.com/o-plano-de-minas-para-privatizar-a-cemig-e-a-copasa/
   title: O plano de Minas para privatizar a Cemig e a Copasa
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-22T00:00:00+00:00'
   description: "After recognizing his nomination was facing an uphill battle, former\
@@ -140,8 +160,7 @@
   path: https://braziljournal.com/opiniao-o-legado-de-lina-khan/
   title: "OPINI\xC3O. O legado de Lina Khan"
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id003
   date: '2024-11-21T00:00:00+00:00'
   description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
     \ na casa dos dois d\xEDgitos em 2025. Baixe um relat\xF3rio gratuito agora: https://lp.mmakers.com.br/lp-vulcabras-compoundletter?xpromo=XE-ME-COMP-VULCABRAS-SUBMMK-20241121-NTYT-EPISODIO154-XNeste\
@@ -163,7 +182,7 @@
   path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
   title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-11-21T00:00:00+00:00'
   description: "When TNT lost the rights to broadcast NBA games this year, fans worried\
     \ that the network\u2019s long-running popular show \u201CInside the NBA\u201D\
@@ -195,7 +214,7 @@
   path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
   title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-11-20T10:39:08+00:00'
   description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
     \ in 850,000 from a distance of 150 yards &#8211; practically a statistical anomaly.\
@@ -206,40 +225,12 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
   title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-11-19T22:00:19+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/ZvgZWqaranw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
-- author: Market Makers
-  categories: *id006
-  date: '2024-11-19T00:00:00+00:00'
-  description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
-    lise Setorial da Mynt: https://www.mynt.com.br/research/relatorios/relatorios-setoriais/analise-setorial-introducao-as-teses-do-mercado-crypto/Fique\
-    \ ainda mais inteligente com os 20 livros que moldaram a vida de Charlie Munger,\
-    \ um dos maiores investidores de a\xE7\xF5es da hist\xF3ria: https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-X\
-    \ Rumo aos US$100k?Neste epis\xF3dio ao vivo, exploramos um tema quente: o futuro\
-    \ do mercado cripto. A pergunta que n\xE3o quer calar: o Bitcoin vai alcan\xE7\
-    ar a marca dos US$100k? Se sim, ser\xE1 ainda em 2024? Para responder a essas\
-    \ perguntas, \xE9 preciso olhar para o efeito Trump nos mercado financeiro e de\
-    \ criptoativos, que tem influenciado as decis\xF5es de investidores e regula\xE7\
-    \xF5es.Neste cen\xE1rio, estamos no meio de um ciclo que pode estar prestes a\
-    \ mudar. Ser\xE1 que o mercado de criptomoedas vai amadurecer ou vai enfrentar\
-    \ mais desafios? A regula\xE7\xE3o \xE9 um tema crucial, e o que podemos esperar\
-    \ para o futuro? N\xE3o podemos deixar de falar das memecoins e seu impacto nas\
-    \ decis\xF5es de investimento, e o quanto a ado\xE7\xE3o institucional est\xE1\
-    \ ajudando a legitimar o setor. Afinal, como grandes players como est\xE3o entrando\
-    \ no mercado cripto?Vamos analisar a hist\xF3ria desse movimento e as perspectivas\
-    \ para os pr\xF3ximos anos. O que voc\xEA acha sobre o futuro das criptos? Acha\
-    \ que a regula\xE7\xE3o vai ajudar ou prejudicar o mercado? Deixe seu like e inscreva-se\
-    \ no canal para n\xE3o perder nenhum v\xEDdeo sobre o universo financeiro!Apresentadores:\
-    \ Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Convidados:\
-    \ Andr\xE9 Portilho (s\xF3cio do BTG Pactual e head da Mynt), e Alexandre Vasarhelyi,\
-    \ (s\xF3cio e gestor da B2V Crypto).\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a49ec41334f07850ea7c5e769
-  path: https://open.spotify.com/episode/7xds21C9Wf0kQS51BeLY4H
-  title: "#153 | AT\xC9 ONDE VAI O BITCOIN NESSE CICLO DE ALTA?"
 - author: Outliers
   categories: &id008
   - Podcasts
