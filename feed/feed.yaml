@@ -1,5 +1,44 @@
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2024-11-22T22:38:00+00:00'
+  description: 'Reviewing every Apple Intelligence feature that''s come out so far...
+
+
+    Get both the MKBHD Carry-on & Commuter backpack together at http://ridge.com/MKBHD
+    for 30% off
+
+
+    That Wallpaper! From outrunyouth: https://geni.us/lER207
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Jordyn Edmonds http://smarturl.it/jordynedmonds
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    iOS 18.2 features shown here are in developer beta, so not completely finalized.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/haDjmBT9tu4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=haDjmBT9tu4
+  title: An Honest Review of Apple Intelligence... So Far
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -19,7 +58,7 @@
   path: https://www.youtube.com/watch?v=PwGKhvqJCQM
   title: COMPLETE No-Nonsense VSCode Setup for Python Devs
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
@@ -60,6 +99,23 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-plano-de-minas-para-privatizar-a-cemig-e-a-copasa/
   title: O plano de Minas para privatizar a Cemig e a Copasa
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-11-22T00:00:00+00:00'
+  description: "After recognizing his nomination was facing an uphill battle, former\
+    \ Republican congressman Matt Gaetz withdrew from consideration for U.S. Attorney\
+    \ General. WSJ's Sadie Gurman describes how president-elect Donald Trump's first\
+    \ pick unraveled and why he chose former Florida Attorney General Pam Bondi for\
+    \ the role instead.  Further Reading: -Trump Picks Pam Bondi for Attorney General\
+    \ After Gaetz Withdraws\_ -Matt Gaetz Withdraws From Consideration as Trump's\
+    \ Attorney General\_ -Matt Gaetz Had Sex With 17-Year-Old, Witness Told House\
+    \ Ethics Committee\_  Further Listening: -The Scramble Is on to Fill Trump\u2019\
+    s Cabinet -What a Republican Congress Could Mean for Trump\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/0x8OfSzBJIEK7wZyVUZGV2
+  title: Gaetz, Bondi and Trump's Department of Justice
 - author: "Economia \u2013 Brazil Journal"
   categories: *id001
   date: '2024-11-21T21:03:50+00:00'
@@ -75,7 +131,7 @@
   path: https://braziljournal.com/opiniao-o-legado-de-lina-khan/
   title: "OPINI\xC3O. O legado de Lina Khan"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-11-21T00:00:00+00:00'
   description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
@@ -98,8 +154,7 @@
   path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
   title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-11-21T00:00:00+00:00'
   description: "When TNT lost the rights to broadcast NBA games this year, fans worried\
     \ that the network\u2019s long-running popular show \u201CInside the NBA\u201D\
@@ -131,7 +186,7 @@
   path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
   title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-11-20T16:00:11+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -140,7 +195,7 @@
   path: https://www.youtube.com/watch?v=FcIEWBSLnJk
   title: "\U0001F4BE Data Formats in Data Science: Choose Wisely"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-11-20T10:39:08+00:00'
   description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
     \ in 850,000 from a distance of 150 yards &#8211; practically a statistical anomaly.\
@@ -150,31 +205,15 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
   title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
-- author: The Journal.
-  categories: *id004
-  date: '2024-11-20T00:00:00+00:00'
-  description: "For years, Spirit Airlines soared with a low-cost, no-frills business\
-    \ model. This week, it came in for a bumpy landing. WSJ's Alison Sider explains\
-    \ how the big airlines learned to compete with Spirit\u2013\u2013and helped put\
-    \ the carrier in bankruptcy.  Further Listening: -The Love Triangle Over Spirit\
-    \ Airlines\_ -Frontier, Spirit and the Future of Low-Cost Airlines\_  Further\
-    \ Reading:  -How Spirit Airlines Went From Industry Maverick to Chapter 11 Bankruptcy\_\
-    \ -Discount Airline Spirit Files for Bankruptcy\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/1DYObikm6q9aOv2exu7dXV
-  title: How Spirit Airlines Landed in Bankruptcy
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2024-11-19T22:00:19+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/ZvgZWqaranw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-11-19T00:00:00+00:00'
   description: "Explore as principais teses do mercado crypto com o relat\xF3rio An\xE1\
     lise Setorial da Mynt: https://www.mynt.com.br/research/relatorios/relatorios-setoriais/analise-setorial-introducao-as-teses-do-mercado-crypto/Fique\
@@ -209,44 +248,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a0d5d03d7f79dca001e27f39f
   path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
   title: '#142 - O futuro do Venture Capital no Brasil'
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-11-18T17:30:04+00:00'
-  description: 'M4 generation has created a gap from M1. This laptop is great.
-
-
-    Get a dbrand skin for your MacBook Pro at http://dbrand.com/macbook
-
-    The wallpaper! https://panels.art/w/YWc
-
-
-    Tyler Stalman''s video: https://youtu.be/julah2zp4dY?si=-0qkewZVLDiN0ytk
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro Track: https://youtube.com/20syl
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Laptop provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/9HQx5pgUoiY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=9HQx5pgUoiY
-  title: 'M4 Max MacBook Pro: I''m Convinced!'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
