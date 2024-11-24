@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2024-11-23T12:34:41+00:00'
+  description: "Bessent j\xE1 criticou presidente do Fed e defendeu aumento de tarifas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/quem-e-o-que-pensa-scott-bessent-secretario-do-tesouro-anunciado-por-trump/
+  title: "Quem \xE9 o que pensa Scott Bessent, secret\xE1rio do Tesouro anunciado\
+    \ por Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Bitcoin mant\xE9m \u2018rali Trump\u2019 e pode alcan\xE7ar os US$ 100 mil\
     \ em breve"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-11-21T11:58:27+00:00'
   description: "Para alcan\xE7ar este n\xFAmero, ser\xE1 preciso um est\xEDmulo econ\xF4\
     mico mais forte do governo chin\xEAs"
@@ -27,14 +35,6 @@
   path: https://investnews.com.br/economia/para-contonar-tarifas-de-trump-conselheiros-da-china-pedem-crescimento-de-5-em-2025/
   title: Para contonar tarifas de Trump, conselheiros da China pedem crescimento de
     5% em 2025
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-11-20T18:07:28+00:00'
-  description: "Os l\xEDderes assinaram cerca de 40 acordos de coopera\xE7\xE3o para\
-    \ fortalecer os la\xE7os entre as duas economias"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/apos-g20-lula-e-xi-jinping-estreitam-lacos-entre-brasil-e-china/
-  title: "Ap\xF3s G20, Lula e Xi Jinping estreitam la\xE7os entre Brasil e China"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
