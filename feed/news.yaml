@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2024-11-25T11:45:40+00:00'
+  description: "Yamand\xFA Orsi garantiu 49,81% dos votos contra 45,90% do conservador\
+    \ \xC1lvaro Delgado"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/no-uruguai-esquerda-volta-a-presidencia-com-orsi-atual-governo-promete-transicao-amigavel/
+  title: "No Uruguai, esquerda volta \xE0 Presid\xEAncia com Orsi; atual governo promete\
+    \ transi\xE7\xE3o amig\xE1vel"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2024-11-23T12:34:41+00:00'
   description: "Bessent j\xE1 criticou presidente do Fed e defendeu aumento de tarifas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +17,7 @@
   title: "Quem \xE9 \u2013 e o que pensa \u2013 Scott Bessent, secret\xE1rio do Tesouro\
     \ anunciado por Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-11-22T13:06:53+00:00'
   description: "Impulso veio ap\xF3s Gary Gensler, presidente da SEC, anunciar que\
@@ -18,7 +27,7 @@
   title: "Passou raspando: Bitcoin chega muito perto dos US$ 100 mil, mas alta perde\
     \ for\xE7a"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-11-21T12:52:08+00:00'
   description: "Bitcoin segue renovando m\xE1ximas hist\xF3ricas e se aproxima cada\
     \ vez mais dos US$ 100 mil"
@@ -26,12 +35,3 @@
   path: https://investnews.com.br/financas/bitcoin-mantem-rali-trump-e-pode-alcancar-os-us-100-mil-em-breve/
   title: "Bitcoin mant\xE9m \u2018rali Trump\u2019 e pode alcan\xE7ar os US$ 100 mil\
     \ em breve"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2024-11-21T11:58:27+00:00'
-  description: "Para alcan\xE7ar este n\xFAmero, ser\xE1 preciso um est\xEDmulo econ\xF4\
-    mico mais forte do governo chin\xEAs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/para-contonar-tarifas-de-trump-conselheiros-da-china-pedem-crescimento-de-5-em-2025/
-  title: Para contonar tarifas de Trump, conselheiros da China pedem crescimento de
-    5% em 2025
