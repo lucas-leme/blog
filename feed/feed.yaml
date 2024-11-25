@@ -11,7 +11,7 @@
   path: https://www.youtube.com/watch?v=sK7PCCHMaBg
   title: Keep It Simple, Developer
 - author: Apricitas Economics
-  categories: &id009
+  categories: &id010
   - Macro
   - Newsletters
   date: '2024-11-25T13:01:05+00:00'
@@ -254,6 +254,14 @@
   image: https://i3.ytimg.com/vi/ZvgZWqaranw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ZvgZWqaranw
   title: Gaming on the BACK of the phone?
+- author: Outliers
+  categories: &id008
+  - Podcasts
+  date: '2024-11-19T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a0d5d03d7f79dca001e27f39f
+  path: https://open.spotify.com/episode/5YnZBL51FGak242P4Pks5f
+  title: '#142 - O futuro do Venture Capital no Brasil'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
@@ -598,8 +606,15 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
+- author: Outliers
+  categories: *id008
+  date: '2024-11-12T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a5b809f2c001d84b7f16c21c5
+  path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
+  title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
 - author: The Overshoot
-  categories: &id010
+  categories: &id011
   - Macro
   - Newsletters
   date: '2024-11-08T01:12:00+00:00'
@@ -700,7 +715,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: AQR
-  categories: &id008
+  categories: &id009
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -715,7 +730,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: AQR
-  categories: *id008
+  categories: *id009
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -727,7 +742,7 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: *id009
+  categories: *id010
   date: '2024-10-29T12:29:54+00:00'
   description: The EU is Imposing Historically Large Tariffs on Chinese EVs in an
     Effort to Protect Its Car Industry. Will it Work?
@@ -735,7 +750,7 @@
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
 - author: The Overshoot
-  categories: *id010
+  categories: *id011
   date: '2024-10-15T23:34:34+00:00'
   description: A few lines from his most recent speech and subsequent Q&amp;A that
     caught my attention.
