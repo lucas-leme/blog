@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-25T16:00:51+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/sK7PCCHMaBg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=sK7PCCHMaBg
+  title: Keep It Simple, Developer
 - author: Apricitas Economics
   categories: &id010
   - Macro
@@ -57,10 +69,7 @@
   title: "OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a seguran\xE7\
     a p\xFAblica"
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-23T16:00:39+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -130,23 +139,6 @@
   image: https://i1.ytimg.com/vi/haDjmBT9tu4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=haDjmBT9tu4
   title: An Honest Review of Apple Intelligence... So Far
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-11-22T16:00:20+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nSetting up VSCode for Python development doesn't have to be a headache! In this\
-    \ video, I walk you through a complete and practical VSCode setup that tackles\
-    \ common pain points\u2014like missing imports, mismatched Python versions, and\
-    \ pytest issues with finding tests. \n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/vscode_python\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:42 Prerequisites\n2:29 Extensions\n6:35 Create The Project\n7:04\
-    \ Setting The Structure Of The Project\n9:58 Must Have Dependencies and Tools\n\
-    10:33 Example Python Code With Tests\n13:24 Nice VSCode settings\n21:39 Fixing\
-    \ the source path for Pylance\n23:05 Bonus Extensions\n25:31 Final thoughts\n\n\
-    #arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/PwGKhvqJCQM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=PwGKhvqJCQM
-  title: The BEST No-Nonsense VSCode Setup for Python Devs
 - author: CFA Institute Enterprising Investor
   categories: *id002
   date: '2024-11-22T13:07:06+00:00'
