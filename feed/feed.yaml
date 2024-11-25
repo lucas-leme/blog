@@ -1,5 +1,18 @@
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2024-11-25T11:03:49+00:00'
+  description: 'Women are reshaping the world of alternative investments, driven by
+    growing wealth, increased financial fluency, and expanding access to new platforms.
+    From healthcare innovations to blockchain-powered opportunities, women are not
+    only investing more but also redefining what success looks like in alts. The future
+    is clear: women are transforming the alternative investment landscape. This post
+    [&#8230;]'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/25/healthtech-access-and-financial-fluency-the-future-of-women-and-alts/
+  title: 'HealthTech, Access, and Financial Fluency: The Future of Women and Alts'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
   - Economia
   date: '2024-11-24T09:50:46+00:00'
   description: "<p>A preocupa\xE7\xE3o com seguran\xE7a p\xFAblica nunca foi t\xE3\
@@ -28,7 +41,7 @@
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
   title: The Self-Explanatory Code
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-23T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -102,10 +115,9 @@
     #arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/PwGKhvqJCQM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=PwGKhvqJCQM
-  title: COMPLETE No-Nonsense VSCode Setup for Python Devs
+  title: The BEST No-Nonsense VSCode Setup for Python Devs
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id002
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
     measures and how solutions like NAV-to-NAV IRR can offer a clearer view of private
@@ -131,7 +143,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-the-predictability-of-bank-failures/
   title: Why Do Banks Fail? The Predictability of Bank Failures
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-22T09:50:35+00:00'
   description: "<p>A dificuldade em fechar as contas e uma mudan\xE7a de mentalidade\
     \ antes impens\xE1vel podem mudar o futuro das duas vacas sagradas da economia\
@@ -145,7 +157,7 @@
   path: https://braziljournal.com/o-plano-de-minas-para-privatizar-a-cemig-e-a-copasa/
   title: O plano de Minas para privatizar a Cemig e a Copasa
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-22T00:00:00+00:00'
   description: "After recognizing his nomination was facing an uphill battle, former\
@@ -162,7 +174,7 @@
   path: https://open.spotify.com/episode/0x8OfSzBJIEK7wZyVUZGV2
   title: Gaetz, Bondi and Trump's Department of Justice
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-11-21T00:00:00+00:00'
   description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
     \ na casa dos dois d\xEDgitos em 2025. Baixe um relat\xF3rio gratuito agora: https://lp.mmakers.com.br/lp-vulcabras-compoundletter?xpromo=XE-ME-COMP-VULCABRAS-SUBMMK-20241121-NTYT-EPISODIO154-XNeste\
@@ -184,7 +196,7 @@
   path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
   title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-11-21T00:00:00+00:00'
   description: "When TNT lost the rights to broadcast NBA games this year, fans worried\
     \ that the network\u2019s long-running popular show \u201CInside the NBA\u201D\
@@ -215,17 +227,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
   title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-11-20T10:39:08+00:00'
-  description: "In golf, a hole-in-one is a remarkable feat. The odds? Roughly one\
-    \ in 850,000 from a distance of 150 yards &#8211; practically a statistical anomaly.\
-    \ Yet, the 2023 LPGA tour recorded 20 such occurrences. How can this be? Simple:\
-    \ a low probability doesn\u2019t necessarily translate to low frequency. Hold\
-    \ on to that thought for a [&#8230;]"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/20/low-probability-of-loss-why-it-doesnt-equal-low-risk-in-investing/
-  title: "Low Probability of Loss: Why It Doesn\u2019t Equal Low Risk in Investing"
 - author: Marques Brownlee
   categories: *id006
   date: '2024-11-19T22:00:19+00:00'
