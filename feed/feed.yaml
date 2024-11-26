@@ -1,5 +1,20 @@
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2024-11-26T09:50:52+00:00'
+  description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
+    rio Nagamine mostra tudo que est\xE1 errado com a Previd\xEAncia no Brasil \u2013\
+    \ e lista as medidas necess\xE1rias para consert\xE1-la. O artigo mostra que o\
+    \ Brasil tem jeito. O que falta \xE9 uma lideran\xE7a pol\xEDtica que pense n\xE3\
+    o na pr\xF3xima elei\xE7\xE3o, mas nos pr\xF3ximos 30 anos. A [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/opiniao-previdencia-como-consertar/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Previd\xEAncia: como consertar</a> appeared first\
+    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-previdencia-como-consertar/
+  title: "OPINI\xC3O. Previd\xEAncia: como consertar"
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -39,7 +54,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-bank-runs-versus-solvency/
   title: Why Do Banks Fail? Bank Runs Versus Solvency
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-11-25T11:03:49+00:00'
   description: 'Women are reshaping the world of alternative investments, driven by
@@ -68,8 +83,7 @@
   path: https://open.spotify.com/episode/4UvdmP5I6DWb0kl3CZDo17
   title: "Why Hollywood Is Betting Big on \u2018Wicked\u2019"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id001
   date: '2024-11-24T09:50:46+00:00'
   description: "<p>A preocupa\xE7\xE3o com seguran\xE7a p\xFAblica nunca foi t\xE3\
     o alta no Brasil. Crime e viol\xEAncia s\xE3o apontados como o maior problema\
@@ -85,14 +99,14 @@
   title: "OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a seguran\xE7\
     a p\xFAblica"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-11-23T16:00:39+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/hbOrQ0UMq3Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
-  title: The Self-Explanatory Code
+  title: "\U0001F4C4 The Self-Explanatory Code"
 - author: Market Makers
   categories: &id005
   - Podcasts
@@ -156,7 +170,7 @@
   path: https://www.youtube.com/watch?v=haDjmBT9tu4
   title: An Honest Review of Apple Intelligence... So Far
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
     measures and how solutions like NAV-to-NAV IRR can offer a clearer view of private
@@ -164,20 +178,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/22/a-reality-check-on-private-markets-part-iii/
   title: 'A Reality Check on Private Markets: Part III'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-11-22T09:50:35+00:00'
-  description: "<p>A dificuldade em fechar as contas e uma mudan\xE7a de mentalidade\
-    \ antes impens\xE1vel podem mudar o futuro das duas vacas sagradas da economia\
-    \ de Minas Gerais: a empresa de saneamento Copasa e Cemig, a gigante de energia.\_\
-    \ Na semana passada, o Governo Romeu Zema protocolou dois projetos de lei que,\
-    \ se aprovados, levar\xE3o \xE0 privatiza\xE7\xE3o [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/o-plano-de-minas-para-privatizar-a-cemig-e-a-copasa/\"\
-    \ rel=\"nofollow\">O plano de Minas para privatizar a Cemig e a Copasa</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-plano-de-minas-para-privatizar-a-cemig-e-a-copasa/
-  title: O plano de Minas para privatizar a Cemig e a Copasa
 - author: RSS - Feeds do BC
   categories:
   - Bacen
