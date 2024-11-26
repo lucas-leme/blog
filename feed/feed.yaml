@@ -1,3 +1,23 @@
+- author: The Overshoot
+  categories: &id009
+  - Macro
+  - Newsletters
+  date: '2024-11-26T18:00:46+00:00'
+  description: An exclusive interview with the president of Federal Reserve Bank of
+    Chicago, who will be a voting member of the FOMC in 2025.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0951d654-5282-40a2-b17c-c86fe281ece3_5000x4492.png
+  path: https://theovershoot.co/p/the-chicago-feds-austan-goolsbee
+  title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
+    the "Field Guide to R-Star", Managing Supply Shocks, and More
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2024-11-26T16:21:26+00:00'
+  description: Li Auto Mega is not sold in the US, but... what if it was?
+  image: https://i1.ytimg.com/vi/l3_nECzo_EA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=l3_nECzo_EA
+  title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -26,7 +46,7 @@
   path: https://www.youtube.com/watch?v=sK7PCCHMaBg
   title: Keep It Simple, Developer
 - author: Apricitas Economics
-  categories: &id010
+  categories: &id011
   - Macro
   - Newsletters
   date: '2024-11-25T13:01:05+00:00'
@@ -54,7 +74,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-bank-runs-versus-solvency/
   title: Why Do Banks Fail? Bank Runs Versus Solvency
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-11-25T11:03:49+00:00'
   description: 'Women are reshaping the world of alternative investments, driven by
@@ -67,7 +87,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/25/healthtech-access-and-financial-fluency-the-future-of-women-and-alts/
   title: 'HealthTech, Access, and Financial Fluency: The Future of Women and Alts'
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-25T00:00:00+00:00'
   description: "The movie musical \u201CWicked\u201D collected a blockbuster $114\
@@ -108,7 +128,7 @@
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
   title: "\U0001F4C4 The Self-Explanatory Code"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-11-23T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -128,9 +148,7 @@
   path: https://open.spotify.com/episode/00GfkYqkQEEg0IB8TQ8IXY
   title: "#155 | BETS E POBREZA: VERDADES INCONTEST\xC1VEIS SOBRE O BRASIL"
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2024-11-22T22:38:00+00:00'
   description: 'Reviewing the Apple Intelligence features out so far. Not included
     in this video: Natural language search in Photos, memory movies, Siri product
@@ -170,7 +188,7 @@
   path: https://www.youtube.com/watch?v=haDjmBT9tu4
   title: An Honest Review of Apple Intelligence... So Far
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
     measures and how solutions like NAV-to-NAV IRR can offer a clearer view of private
@@ -193,7 +211,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/22112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 22/11/2024"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-11-22T00:00:00+00:00'
   description: "After recognizing his nomination was facing an uphill battle, former\
     \ Republican congressman Matt Gaetz withdrew from consideration for U.S. Attorney\
@@ -209,7 +227,7 @@
   path: https://open.spotify.com/episode/0x8OfSzBJIEK7wZyVUZGV2
   title: Gaetz, Bondi and Trump's Department of Justice
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-11-21T00:00:00+00:00'
   description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
     \ na casa dos dois d\xEDgitos em 2025. Baixe um relat\xF3rio gratuito agora: https://lp.mmakers.com.br/lp-vulcabras-compoundletter?xpromo=XE-ME-COMP-VULCABRAS-SUBMMK-20241121-NTYT-EPISODIO154-XNeste\
@@ -248,13 +266,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/7H47NO9uZvaMRs6aegVCfo
   title: "Middle-class wilt: what\u2019s happened to Asia\u2019s middle-earners?"
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-11-19T22:00:19+00:00'
-  description: ''
-  image: https://i3.ytimg.com/vi/ZvgZWqaranw/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZvgZWqaranw
-  title: Gaming on the BACK of the phone?
 - author: Outliers
   categories: &id008
   - Podcasts
@@ -615,9 +626,7 @@
   path: https://open.spotify.com/episode/7tb36hpSstTARPQJGRFAR6
   title: "#141 - A maneira Artesanal de fazer Gest\xE3o de Cr\xE9dito"
 - author: The Overshoot
-  categories: &id011
-  - Macro
-  - Newsletters
+  categories: *id009
   date: '2024-11-08T01:12:00+00:00'
   description: The U.S. macro response to the pandemic preserved living standards
     better than in other economies. Voters responded more to the impact on inflation,
@@ -716,7 +725,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: AQR
-  categories: &id009
+  categories: &id010
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -731,7 +740,7 @@
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
 - author: AQR
-  categories: *id009
+  categories: *id010
   date: '2024-10-30T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        October\
     \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
@@ -743,21 +752,13 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
   title: Are SPACs Still Alive?
 - author: Apricitas Economics
-  categories: *id010
+  categories: *id011
   date: '2024-10-29T12:29:54+00:00'
   description: The EU is Imposing Historically Large Tariffs on Chinese EVs in an
     Effort to Protect Its Car Industry. Will it Work?
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26612dec-7613-4100-ae49-5b3cd524a281_2886x1843.png
   path: https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war
   title: The EU Joins the EV Trade War
-- author: The Overshoot
-  categories: *id011
-  date: '2024-10-15T23:34:34+00:00'
-  description: A few lines from his most recent speech and subsequent Q&amp;A that
-    caught my attention.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95265bac-2221-4be8-ac62-e8f196380d7d_5000x4618.png
-  path: https://theovershoot.co/p/christopher-waller-on-wages-productivity
-  title: Christopher Waller on Wages, Productivity, and Inflation
 - author: Flirting with Models
   categories:
   - Podcasts
