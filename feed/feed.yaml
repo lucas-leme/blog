@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-11-27T13:00:00+00:00'
+  description: What makes infrastructure debt a compelling asset class?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/11/27/infrastructure-debt-unlocking-investment-opportunities-in-a-transforming-economy/
+  title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
+    Economy'
 - author: The Overshoot
   categories: &id009
   - Macro
@@ -10,7 +19,7 @@
   title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
     the "Field Guide to R-Star", Managing Supply Shocks, and More
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-11-26T16:21:26+00:00'
@@ -19,7 +28,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
@@ -34,7 +43,7 @@
   path: https://braziljournal.com/opiniao-previdencia-como-consertar/
   title: "OPINI\xC3O. Previd\xEAncia: como consertar"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-11-26T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -52,7 +61,7 @@
   path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
   title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-26T00:00:00+00:00'
   description: "After two weeks of uncertainty, Donald Trump nominated Scott Bessent,\
@@ -69,7 +78,7 @@
   path: https://open.spotify.com/episode/34Hrc6zSa5hullI5hN0i12
   title: Inside Trump's Pick for Treasury Secretary
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -109,8 +118,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-bank-runs-versus-solvency/
   title: Why Do Banks Fail? Bank Runs Versus Solvency
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id001
   date: '2024-11-25T11:03:49+00:00'
   description: 'Women are reshaping the world of alternative investments, driven by
     growing wealth, increased financial fluency, and expanding access to new platforms.
@@ -122,7 +130,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/25/healthtech-access-and-financial-fluency-the-future-of-women-and-alts/
   title: 'HealthTech, Access, and Financial Fluency: The Future of Women and Alts'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-11-25T00:00:00+00:00'
   description: "The movie musical \u201CWicked\u201D collected a blockbuster $114\
     \ million in its opening weekend. Over the past year, Universal and its parent\
@@ -137,7 +145,7 @@
   path: https://open.spotify.com/episode/4UvdmP5I6DWb0kl3CZDo17
   title: "Why Hollywood Is Betting Big on \u2018Wicked\u2019"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-24T09:50:46+00:00'
   description: "<p>A preocupa\xE7\xE3o com seguran\xE7a p\xFAblica nunca foi t\xE3\
     o alta no Brasil. Crime e viol\xEAncia s\xE3o apontados como o maior problema\
@@ -153,7 +161,7 @@
   title: "OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a seguran\xE7\
     a p\xFAblica"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-11-23T16:00:39+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -162,7 +170,7 @@
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
   title: The Self-Explanatory Code
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-11-23T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -181,7 +189,7 @@
   path: https://open.spotify.com/episode/00GfkYqkQEEg0IB8TQ8IXY
   title: "#155 | BETS E POBREZA: VERDADES INCONTEST\xC1VEIS SOBRE O BRASIL"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-11-22T22:38:00+00:00'
   description: 'Reviewing the Apple Intelligence features out so far. Not included
     in this video: Natural language search in Photos, memory movies, Siri product
@@ -220,15 +228,6 @@
   image: https://i1.ytimg.com/vi/haDjmBT9tu4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=haDjmBT9tu4
   title: An Honest Review of Apple Intelligence... So Far
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2024-11-22T13:07:06+00:00'
-  description: Is IRR misleading investors? Discover the flaws in traditional performance
-    measures and how solutions like NAV-to-NAV IRR can offer a clearer view of private
-    market returns.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/22/a-reality-check-on-private-markets-part-iii/
-  title: 'A Reality Check on Private Markets: Part III'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
