@@ -10,7 +10,7 @@
   title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
     the "Field Guide to R-Star", Managing Supply Shocks, and More
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-11-26T16:21:26+00:00'
@@ -19,7 +19,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
@@ -33,8 +33,43 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-previdencia-como-consertar/
   title: "OPINI\xC3O. Previd\xEAncia: como consertar"
+- author: Market Makers
+  categories: &id004
+  - Podcasts
+  date: '2024-11-26T00:00:00+00:00'
+  description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
+    \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
+    \ https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-X\
+    \ Ap\xF3s uma s\xE9rie de quedas e turbul\xEAncias, muitos investidores est\xE3\
+    o questionando se ainda vale a pena investir na Bolsa de Valores. O que est\xE1\
+    \ acontecendo com as a\xE7\xF5es das grandes empresas? Como a infla\xE7\xE3o,\
+    \ as taxas de juros altas e os impactos das crises internacionais est\xE3o afetando\
+    \ o desempenho do mercado?E mais: ser\xE1 que a recupera\xE7\xE3o da economia\
+    \ global \xE9 realmente uma realidade, ou estamos apenas esperando um milagre?\_\
+    Apresentador: Thiago Salom\xE3o (@_salomoney)Convidado: Christian Keleti\_Become\
+    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a5888b2cb455e30c34cf6cad2
+  path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
+  title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-11-26T00:00:00+00:00'
+  description: "After two weeks of uncertainty, Donald Trump nominated Scott Bessent,\
+    \ a longtime Wall Street investor, as his next Treasury secretary. The pick capped\
+    \ a behind-the-scenes battle one advisor called a \u201Cknife fight.\u201D WSJ\u2019\
+    s Andrew Restuccia takes us inside the decision, explores why Bessent triumphed\
+    \ and unpacks what his tenure could mean for the U.S. economy.  Further Reading:\
+    \ -How Scott Bessent Won the \u2018Knife Fight\u2019 to Be Trump\u2019s Treasury\
+    \ Secretary\_ -Scott Bessent Sees a Coming \u2018Global Economic Reordering.\u2019\
+    \ He Wants to Be Part of It.\_  Further Listening: -Gaetz, Bondi and Trump's Department\
+    \ of Justice\_ -The Scramble Is on to Fill Trump's Cabinet\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/34Hrc6zSa5hullI5hN0i12
+  title: Inside Trump's Pick for Treasury Secretary
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -74,7 +109,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-bank-runs-versus-solvency/
   title: Why Do Banks Fail? Bank Runs Versus Solvency
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id006
   - CFA
   date: '2024-11-25T11:03:49+00:00'
   description: 'Women are reshaping the world of alternative investments, driven by
@@ -87,8 +122,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/11/25/healthtech-access-and-financial-fluency-the-future-of-women-and-alts/
   title: 'HealthTech, Access, and Financial Fluency: The Future of Women and Alts'
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id001
   date: '2024-11-25T00:00:00+00:00'
   description: "The movie musical \u201CWicked\u201D collected a blockbuster $114\
     \ million in its opening weekend. Over the past year, Universal and its parent\
@@ -103,7 +137,7 @@
   path: https://open.spotify.com/episode/4UvdmP5I6DWb0kl3CZDo17
   title: "Why Hollywood Is Betting Big on \u2018Wicked\u2019"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-11-24T09:50:46+00:00'
   description: "<p>A preocupa\xE7\xE3o com seguran\xE7a p\xFAblica nunca foi t\xE3\
     o alta no Brasil. Crime e viol\xEAncia s\xE3o apontados como o maior problema\
@@ -119,7 +153,7 @@
   title: "OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a seguran\xE7\
     a p\xFAblica"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-11-23T16:00:39+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -128,8 +162,7 @@
   path: https://www.youtube.com/watch?v=hbOrQ0UMq3Q
   title: "\U0001F4C4 The Self-Explanatory Code"
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id004
   date: '2024-11-23T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -148,7 +181,7 @@
   path: https://open.spotify.com/episode/00GfkYqkQEEg0IB8TQ8IXY
   title: "#155 | BETS E POBREZA: VERDADES INCONTEST\xC1VEIS SOBRE O BRASIL"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id005
   date: '2024-11-22T22:38:00+00:00'
   description: 'Reviewing the Apple Intelligence features out so far. Not included
     in this video: Natural language search in Photos, memory movies, Siri product
@@ -188,7 +221,7 @@
   path: https://www.youtube.com/watch?v=haDjmBT9tu4
   title: An Honest Review of Apple Intelligence... So Far
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id006
   date: '2024-11-22T13:07:06+00:00'
   description: Is IRR misleading investors? Discover the flaws in traditional performance
     measures and how solutions like NAV-to-NAV IRR can offer a clearer view of private
@@ -210,44 +243,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/22112024
   title: "BC - Focus - Relat\xF3rio de Mercado - 22/11/2024"
-- author: The Journal.
-  categories: *id005
-  date: '2024-11-22T00:00:00+00:00'
-  description: "After recognizing his nomination was facing an uphill battle, former\
-    \ Republican congressman Matt Gaetz withdrew from consideration for U.S. Attorney\
-    \ General. WSJ's Sadie Gurman describes how president-elect Donald Trump's first\
-    \ pick unraveled and why he chose former Florida Attorney General Pam Bondi for\
-    \ the role instead.  Further Reading: -Trump Picks Pam Bondi for Attorney General\
-    \ After Gaetz Withdraws\_ -Matt Gaetz Withdraws From Consideration as Trump's\
-    \ Attorney General\_ -Matt Gaetz Had Sex With 17-Year-Old, Witness Told House\
-    \ Ethics Committee\_  Further Listening: -The Scramble Is on to Fill Trump\u2019\
-    s Cabinet -What a Republican Congress Could Mean for Trump\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/0x8OfSzBJIEK7wZyVUZGV2
-  title: Gaetz, Bondi and Trump's Department of Justice
-- author: Market Makers
-  categories: *id006
-  date: '2024-11-21T00:00:00+00:00'
-  description: "VULCABRAS, uma m\xE1quina de dividendos mensais que pode pagar proventos\
-    \ na casa dos dois d\xEDgitos em 2025. Baixe um relat\xF3rio gratuito agora: https://lp.mmakers.com.br/lp-vulcabras-compoundletter?xpromo=XE-ME-COMP-VULCABRAS-SUBMMK-20241121-NTYT-EPISODIO154-XNeste\
-    \ v\xEDdeo, contamos a hist\xF3ria incr\xEDvel da Vulcabras, desde sua funda\xE7\
-    \xE3o at\xE9 os desafios enfrentados pela empresa no competitivo setor cal\xE7\
-    adista.Acompanhamos a trajet\xF3ria de Pedro Bartelle e sua vis\xE3o estrat\xE9\
-    gica para transformar a marca.\_A conversa aborda o impacto das marcas gigantes\
-    \ como Mizuno, Olympikus e Under Armour no Brasil, os desafios com a concorr\xEA\
-    ncia asi\xE1tica e a necessidade de inova\xE7\xE3o constante. Al\xE9m disso, exploramos\
-    \ como a Vulcabrass superou crises, adquiriu marcas como a Azaleia e se reestruturou\
-    \ para alcan\xE7ar o valor de mercado de 5 bilh\xF5es de reais. Como voc\xEA v\xEA\
-    \ o futuro das marcas brasileiras no mercado global?Se voc\xEA curtiu este conte\xFA\
-    do, n\xE3o se esque\xE7a de deixar o seu like e se inscrever no nosso canal para\
-    \ acompanhar mais v\xEDdeos sobre economia e estrat\xE9gias de neg\xF3cios de\
-    \ sucesso! Convidado: Pedro Bartelle (CEO da Vulcabras) Apresentadores: Thiago\
-    \ Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares) #MARKETMAKERS #THIAGOSALOMAO\
-    \ #MIZUNO #UNDERARMOUR #OLYMPIKUSBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ad753a93c89a4d6a803617786
-  path: https://open.spotify.com/episode/2p1NokNHR7YhIdPOY2MfZ2
-  title: "#154 | O SEGREDO DA GIGANTE DE CAL\xC7ADOS QUE CONCORRE COM A \xC1SIA (VULC3)"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
