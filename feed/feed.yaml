@@ -1,5 +1,21 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-11-28T18:36:44+00:00'
+  description: "<p>A barra era relativamente baixa \u2013 mas o Governo n\xE3o entregou\
+    \ \xE0 altura. E dada a rea\xE7\xE3o aguda dos mercados e suas implica\xE7\xF5\
+    es para a economia real, a pergunta \xE9 se o Congresso n\xE3o vai tomar a lideran\xE7\
+    a de impor um ajuste real e mais profundo do que o tiro de festim disparado ontem\
+    \ pela [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/um-mes-inteiro-pra-isso-como-o-governo-contratou-uma-crise-com-o-pacote-fiscal/\"\
+    \ rel=\"nofollow\">Um m\xEAs inteiro pra isso? Como o Governo contratou uma crise\
+    \ com o pacote fiscal</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/um-mes-inteiro-pra-isso-como-o-governo-contratou-uma-crise-com-o-pacote-fiscal/
+  title: "Um m\xEAs inteiro pra isso? Como o Governo contratou uma crise com o pacote\
+    \ fiscal"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -11,7 +27,7 @@
   path: https://www.youtube.com/watch?v=xvsitNaBG1k
   title: 'Secrets in Code: The Least Privilege Principle'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-11-27T13:00:00+00:00'
   description: What makes infrastructure debt a compelling asset class?
@@ -20,7 +36,7 @@
   title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
     Economy'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-27T00:00:00+00:00'
   description: "Israel and Lebanon have reached a ceasefire agreement that ends more\
@@ -63,8 +79,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
     rio Nagamine mostra tudo que est\xE1 errado com a Previd\xEAncia no Brasil \u2013\
@@ -96,7 +111,7 @@
   path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
   title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-11-26T00:00:00+00:00'
   description: "After two weeks of uncertainty, Donald Trump nominated Scott Bessent,\
     \ a longtime Wall Street investor, as his next Treasury secretary. The pick capped\
@@ -112,7 +127,7 @@
   path: https://open.spotify.com/episode/34Hrc6zSa5hullI5hN0i12
   title: Inside Trump's Pick for Treasury Secretary
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-11-25T16:00:51+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -149,7 +164,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/11/why-do-banks-fail-bank-runs-versus-solvency/
   title: Why Do Banks Fail? Bank Runs Versus Solvency
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-11-25T11:03:49+00:00'
   description: 'Women are reshaping the world of alternative investments, driven by
     growing wealth, increased financial fluency, and expanding access to new platforms.
@@ -160,22 +175,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/25/healthtech-access-and-financial-fluency-the-future-of-women-and-alts/
   title: 'HealthTech, Access, and Financial Fluency: The Future of Women and Alts'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2024-11-24T09:50:46+00:00'
-  description: "<p>A preocupa\xE7\xE3o com seguran\xE7a p\xFAblica nunca foi t\xE3\
-    o alta no Brasil. Crime e viol\xEAncia s\xE3o apontados como o maior problema\
-    \ do Pa\xEDs, e a seguran\xE7a p\xFAblica \xE9 a \xE1rea em que o governo federal\
-    \ tem a pior avalia\xE7\xE3o segundo as pesquisas de opini\xE3o.\_ Em resposta\
-    \ \xE0 crescente press\xE3o p\xFAblica, o Governo apresentou uma Proposta de [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-nao-precisamos-de-uma-pec-para-transformar-a-seguranca-publica/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a\
-    \ seguran\xE7a p\xFAblica</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-nao-precisamos-de-uma-pec-para-transformar-a-seguranca-publica/
-  title: "OPINI\xC3O. N\xE3o precisamos de uma PEC para transformar a seguran\xE7\
-    a p\xFAblica"
 - author: Market Makers
   categories: *id005
   date: '2024-11-23T00:00:00+00:00'
