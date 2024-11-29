@@ -1,5 +1,5 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-11-28T18:36:44+00:00'
   description: "<p>A barra era relativamente baixa \u2013 mas o Governo n\xE3o entregou\
@@ -15,7 +15,7 @@
   title: "Um m\xEAs inteiro pra isso? Como o Governo contratou uma crise com o pacote\
     \ fiscal"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-11-28T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -40,6 +40,24 @@
   image: https://i.scdn.co/image/ab6765630000ba8a22ea1b9fd30b58dcc41427ac
   path: https://open.spotify.com/episode/3orV1ulJJOhyZZE2iVCEwU
   title: "#157 | COMO AS TENS\xD5ES GLOBAIS EST\xC3O AFETANDO A ECONOMIA BRASILEIRA"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-11-28T00:00:00+00:00'
+  description: "Happy Thanksgiving! This episode was originally published in November\
+    \ 2023. Ocean Spray\u2019s farmers are responsible for 65% of the world\u2019\
+    s cranberries. It\u2019s not a publicly traded company. It\u2019s not a traditional\
+    \ private company, either. It\u2019s a cooperative founded nearly a century ago\
+    \ and owned by roughly 700 families. WSJ\u2019s Ben Cohen tells the story of how\
+    \ the cranberry got into the can and how the company is planning for a future\
+    \ beyond your Thanksgiving table.\_Further Reading:-These People Are Responsible\
+    \ for the Cranberry Sauce You Love to Hate\_Further Listening:-Are Rotisserie\
+    \ Chickens 'Inflation-Proof'?\_-The Twinkie: From Bankruptcy to Billions\_ Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5GSFxHu4ACi3vZqIG63Elz
+  title: "Canned or Homemade? America\u2019s Biggest Cranberry Company Wins Either\
+    \ Way"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -82,8 +100,7 @@
   title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
     Economy'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2024-11-27T00:00:00+00:00'
   description: "Israel and Lebanon have reached a ceasefire agreement that ends more\
     \ than a year of fighting between Israel and the Iran-backed militant group, Hezbollah.\
@@ -125,7 +142,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
     rio Nagamine mostra tudo que est\xE1 errado com a Previd\xEAncia no Brasil \u2013\
@@ -139,7 +156,7 @@
   path: https://braziljournal.com/opiniao-previdencia-como-consertar/
   title: "OPINI\xC3O. Previd\xEAncia: como consertar"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-11-26T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -155,22 +172,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5888b2cb455e30c34cf6cad2
   path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
   title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
-- author: The Journal.
-  categories: *id003
-  date: '2024-11-26T00:00:00+00:00'
-  description: "After two weeks of uncertainty, Donald Trump nominated Scott Bessent,\
-    \ a longtime Wall Street investor, as his next Treasury secretary. The pick capped\
-    \ a behind-the-scenes battle one advisor called a \u201Cknife fight.\u201D WSJ\u2019\
-    s Andrew Restuccia takes us inside the decision, explores why Bessent triumphed\
-    \ and unpacks what his tenure could mean for the U.S. economy.  Further Reading:\
-    \ -How Scott Bessent Won the \u2018Knife Fight\u2019 to Be Trump\u2019s Treasury\
-    \ Secretary\_ -Scott Bessent Sees a Coming \u2018Global Economic Reordering.\u2019\
-    \ He Wants to Be Part of It.\_  Further Listening: -Gaetz, Bondi and Trump's Department\
-    \ of Justice\_ -The Scramble Is on to Fill Trump's Cabinet\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/34Hrc6zSa5hullI5hN0i12
-  title: Inside Trump's Pick for Treasury Secretary
 - author: ArjanCodes
   categories: *id004
   date: '2024-11-25T16:00:51+00:00'
