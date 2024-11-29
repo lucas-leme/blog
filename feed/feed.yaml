@@ -1,5 +1,25 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-29T16:00:33+00:00'
+  description: "\u2705 Learn how to build robust and scalable software architecture:\
+    \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m exploring gRPC, a\
+    \ compelling alternative to REST that\u2019s gaining traction in distributed systems.\
+    \ Watch until the end of the video to find out if it\u2019s worth ditching REST\
+    \ for it.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/grpc_rest\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:25 What is REST?\n4:16 Disclaimer\n4:51 RPC in short\n5:37 Back\
+    \ to gRPC\n6:44 Showing A Basic Example of gRPC\n11:08 How Does This Affect Your\
+    \ Design?\n13:02 Pros & Caveats with gRPC\n15:20 Pros & Caveats with REST\n17:05\
+    \ So, Should you Use gRPC?\n18:40 Final thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i4.ytimg.com/vi/WpXs7e7kEoI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=WpXs7e7kEoI
+  title: Should You Use gRPC Instead of REST?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-11-28T18:36:44+00:00'
   description: "<p>A barra era relativamente baixa \u2013 mas o Governo n\xE3o entregou\
@@ -15,7 +35,7 @@
   title: "Um m\xEAs inteiro pra isso? Como o Governo contratou uma crise com o pacote\
     \ fiscal"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-11-28T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -41,7 +61,7 @@
   path: https://open.spotify.com/episode/3orV1ulJJOhyZZE2iVCEwU
   title: "#157 | COMO AS TENS\xD5ES GLOBAIS EST\xC3O AFETANDO A ECONOMIA BRASILEIRA"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-11-28T00:00:00+00:00'
   description: "Happy Thanksgiving! This episode was originally published in November\
@@ -79,10 +99,7 @@
   path: https://open.spotify.com/episode/2KrIfkVroy60gYjgSoJP0D
   title: "Indian capitalists: What\u2019s behind India\u2019s stock market rally?"
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-27T16:00:51+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -100,7 +117,7 @@
   title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
     Economy'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-11-27T00:00:00+00:00'
   description: "Israel and Lebanon have reached a ceasefire agreement that ends more\
     \ than a year of fighting between Israel and the Iran-backed militant group, Hezbollah.\
@@ -142,7 +159,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
     rio Nagamine mostra tudo que est\xE1 errado com a Previd\xEAncia no Brasil \u2013\
@@ -156,7 +173,7 @@
   path: https://braziljournal.com/opiniao-previdencia-como-consertar/
   title: "OPINI\xC3O. Previd\xEAncia: como consertar"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-11-26T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -172,15 +189,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5888b2cb455e30c34cf6cad2
   path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
   title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-11-25T16:00:51+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/sK7PCCHMaBg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=sK7PCCHMaBg
-  title: "Keep It Simple, Developer\u2757"
 - author: Apricitas Economics
   categories: &id011
   - Macro
