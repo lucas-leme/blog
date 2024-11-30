@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-11-30T16:00:54+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/ttWVbQF7yfI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ttWVbQF7yfI
+  title: Your First Line of Defense Against Credential Leaks
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -54,10 +66,7 @@
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-11-29T16:00:33+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m exploring gRPC, a\
@@ -153,15 +162,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/2KrIfkVroy60gYjgSoJP0D
   title: "Indian capitalists: What\u2019s behind India\u2019s stock market rally?"
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-11-27T16:00:51+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/xvsitNaBG1k/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=xvsitNaBG1k
-  title: "\U0001F510 Secrets in Code: The Least Privilege Principle"
 - author: CFA Institute Enterprising Investor
   categories: &id006
   - CFA
