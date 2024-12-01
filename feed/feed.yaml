@@ -10,8 +10,31 @@
   image: https://i1.ytimg.com/vi/ttWVbQF7yfI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ttWVbQF7yfI
   title: Your First Line of Defense Against Credential Leaks
+- author: Market Makers
+  categories: &id002
+  - Podcasts
+  date: '2024-11-30T00:00:00+00:00'
+  description: "DOSSI\xCA BRASIL: vamos enviar em breve um documento completo sobre\
+    \ as mazelas do Brasil e os impactos no mercado financeiro para todos assinantes\
+    \ da nossa newsletter.Assine e receba tamb\xE9m:\_https://lp.mmakers.com.br/newsletter_gratuita?xpromo=XE-ME-COMP-MMK-SUBMMK-COMPOUND-YT-DESCRICAO-DOSSIEBRASIL-XSer\xE1\
+    \ que a economia brasileira j\xE1 est\xE1 no seu limite? O Brasil enfrenta um\
+    \ cen\xE1rio econ\xF4mico desafiador, e as \xFAltimas an\xE1lises sugerem que\
+    \ estamos diante de um esgotamento. Neste v\xEDdeo, discutimos as implica\xE7\xF5\
+    es do novo pacote econ\xF4mico, a interven\xE7\xE3o do Banco Central e as expectativas\
+    \ do governo para o futuro. Al\xE9m disso, analisamos o impacto das pol\xEDticas\
+    \ econ\xF4micas, a situa\xE7\xE3o da previd\xEAncia, e as consequ\xEAncias de\
+    \ longo prazo das escolhas feitas pelos governantes. O que fazer diante desse\
+    \ cen\xE1rio? Fernando Urich e [Paulo Guedini](https://www.instagram.com/paulo_ghedini/)\
+    \ apontam os poss\xEDveis rumos da economia, mas ser\xE1 que temos espa\xE7o para\
+    \ uma recupera\xE7\xE3o real? Ou estamos, de fato, caminhando para um ponto sem\
+    \ volta?\_Apresentador: Thiago Salom\xE3o (@_salomoney)Convidados: Fernando Ulrich\
+    \ e Paulo Guedini\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8aea1043e1fc919f4d4cb35d98
+  path: https://open.spotify.com/episode/1fZAUGvfrcVdRVcETy4SEo
+  title: "#158 | PACOTE ECON\xD4MICO LEVAR\xC1 AO COLAPSO? O QUE ESPERAR DO FUTURO\
+    \ DO BRASIL"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-11-29T20:32:43+00:00'
@@ -83,7 +106,7 @@
   path: https://www.youtube.com/watch?v=WpXs7e7kEoI
   title: Should You Use gRPC Instead of REST?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2024-11-28T18:36:44+00:00'
   description: "<p>A barra era relativamente baixa \u2013 mas o Governo n\xE3o entregou\
@@ -99,8 +122,7 @@
   title: "Um m\xEAs inteiro pra isso? Como o Governo contratou uma crise com o pacote\
     \ fiscal"
 - author: Market Makers
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2024-11-28T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -125,7 +147,7 @@
   path: https://open.spotify.com/episode/3orV1ulJJOhyZZE2iVCEwU
   title: "#157 | COMO AS TENS\xD5ES GLOBAIS EST\xC3O AFETANDO A ECONOMIA BRASILEIRA"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-11-28T00:00:00+00:00'
   description: "Happy Thanksgiving! This episode was originally published in November\
@@ -172,7 +194,7 @@
   title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
     Economy'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-11-27T00:00:00+00:00'
   description: "Israel and Lebanon have reached a ceasefire agreement that ends more\
     \ than a year of fighting between Israel and the Iran-backed militant group, Hezbollah.\
@@ -205,14 +227,14 @@
   title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
     the "Field Guide to R-Star", Managing Supply Shocks, and More
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2024-11-26T16:21:26+00:00'
   description: Li Auto Mega is not sold in the US, but... what if it was?
   image: https://i1.ytimg.com/vi/l3_nECzo_EA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2024-11-26T09:50:52+00:00'
   description: "<p>NOTA DO EDITOR: Este artigo extremamente did\xE1tico de Rog\xE9\
     rio Nagamine mostra tudo que est\xE1 errado com a Previd\xEAncia no Brasil \u2013\
@@ -225,23 +247,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-previdencia-como-consertar/
   title: "OPINI\xC3O. Previd\xEAncia: como consertar"
-- author: Market Makers
-  categories: *id005
-  date: '2024-11-26T00:00:00+00:00'
-  description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
-    \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
-    \ https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-X\
-    \ Ap\xF3s uma s\xE9rie de quedas e turbul\xEAncias, muitos investidores est\xE3\
-    o questionando se ainda vale a pena investir na Bolsa de Valores. O que est\xE1\
-    \ acontecendo com as a\xE7\xF5es das grandes empresas? Como a infla\xE7\xE3o,\
-    \ as taxas de juros altas e os impactos das crises internacionais est\xE3o afetando\
-    \ o desempenho do mercado?E mais: ser\xE1 que a recupera\xE7\xE3o da economia\
-    \ global \xE9 realmente uma realidade, ou estamos apenas esperando um milagre?\_\
-    Apresentador: Thiago Salom\xE3o (@_salomoney)Convidado: Christian Keleti\_Become\
-    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a5888b2cb455e30c34cf6cad2
-  path: https://open.spotify.com/episode/1GBkedzbQfpSE6FnoMLecf
-  title: '#156 | CHEGOU A HORA DE DESISTIR DA BOLSA DE VALORES?'
 - author: Apricitas Economics
   categories: &id011
   - Macro
