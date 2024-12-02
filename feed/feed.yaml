@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-02T16:00:40+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/jSfDIQ5re8Y/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=jSfDIQ5re8Y
+  title: The Result Monad Demystified
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
@@ -49,10 +61,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-11-30T16:00:54+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -138,23 +147,6 @@
   image: https://i2.ytimg.com/vi/EFiHm6WjhNA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-11-29T16:00:33+00:00'
-  description: "\u2705 Learn how to build robust and scalable software architecture:\
-    \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m exploring gRPC, a\
-    \ compelling alternative to REST that\u2019s gaining traction in distributed systems.\
-    \ Watch until the end of the video to find out if it\u2019s worth ditching REST\
-    \ for it.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/grpc_rest\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:25 What is REST?\n4:16 Disclaimer\n4:51 RPC in short\n5:37 Back\
-    \ to gRPC\n6:44 Showing A Basic Example of gRPC\n11:08 How Does This Affect Your\
-    \ Design?\n13:02 Pros & Caveats with gRPC\n15:20 Pros & Caveats with REST\n17:05\
-    \ So, Should you Use gRPC?\n18:40 Final thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i4.ytimg.com/vi/WpXs7e7kEoI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=WpXs7e7kEoI
-  title: Should You Use gRPC Instead of REST?
 - author: RSS - Feeds do BC
   categories:
   - Bacen
