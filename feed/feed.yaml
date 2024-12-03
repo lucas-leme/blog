@@ -31,7 +31,7 @@
   title: "OPINI\xC3O. Gastos eleitorais e desestrutura\xE7\xE3o fiscal em governos\
     \ recentes"
 - author: ArjanCodes
-  categories: &id011
+  categories: &id010
   - Tech
   - Code
   - Youtube
@@ -729,7 +729,7 @@
   title: "BC - Copom Comunicado - 266\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 11,25% a.a."
 - author: AQR
-  categories: &id010
+  categories: &id011
   - Quant
   - Papers
   date: '2024-11-01T00:00:00'
@@ -743,18 +743,6 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
-- author: AQR
-  categories: *id010
-  date: '2024-10-30T00:00:00'
-  description: "<p class=\"article__date text--small\">\n                        October\
-    \ 30, 2024<span class=\"article__author\">\n        <span class=\"separator\"\
-    >-</span>\n                <a class=\"cta cta--dark \">Rocky Bryant</a>\n    \
-    \            <a class=\"cta cta--dark \">Michael Schwert</a>\n</span>\n      \
-    \              </p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed\
-    \ generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://www.aqr.com/Insights/Research/White-Papers/Are-SPACs-Still-Alive
-  title: Are SPACs Still Alive?
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -793,7 +781,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202409
   title: 'BC - RI: setembro/2024'
 - author: ArjanCodes
-  categories: *id011
+  categories: *id010
   date: '2024-09-17T13:33:55+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this live stream, I'll dive into the code and design of an open-source project\
@@ -812,3 +800,14 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad417936ef071ac4f164dd72a
   path: https://open.spotify.com/episode/5ES7i79TDQgFskKC0YDUPF
   title: A Few Little Ideas And Short Stories
+- author: AQR
+  categories: *id011
+  date: '2024-09-01T00:00:00'
+  description: "<p class=\"article__date text--small\">\n                        September\
+    \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
+    \                <a class=\"cta cta--dark \">Cliff Asness</a>\n</span>\n     \
+    \               </p><br /><br /><span style=\"font-size: 12px; color: gray;\"\
+    >(Feed generated with <a href=\"https://fetchrss.com\" target=\"_blank\">FetchRSS</a>)</span>"
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://www.aqr.com/Insights/Research/Journal-Article/CIO-Perspectives-An-Interview-with-Cliff-Asness
+  title: 'CIO Perspectives: An Interview with Cliff Asness'
