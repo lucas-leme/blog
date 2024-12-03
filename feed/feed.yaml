@@ -1,3 +1,20 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2024-12-03T03:53:27+00:00'
+  description: "<p>Nos sistemas democr\xE1ticos, os pol\xEDticos t\xEAm incentivos\
+    \ para expandir os gastos e manipular a taxa de c\xE2mbio para gerar uma sensa\xE7\
+    \xE3o de bem-estar nos eleitores \xE0s v\xE9speras das elei\xE7\xF5es. Depois\
+    \ vem a ressaca, com o crescimento da d\xEDvida p\xFAblica e o impacto inflacion\xE1\
+    rio da corre\xE7\xE3o do c\xE2mbio. Democracias maduras desenvolveram institui\xE7\
+    \xF5es para coibir este comportamento [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-gastos-eleitorais-e-desestruturacao-fiscal-em-governos-recentes/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Gastos eleitorais e desestrutura\xE7\xE3o fiscal\
+    \ em governos recentes</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-gastos-eleitorais-e-desestruturacao-fiscal-em-governos-recentes/
+  title: "OPINI\xC3O. Gastos eleitorais e desestrutura\xE7\xE3o fiscal em governos\
+    \ recentes"
 - author: ArjanCodes
   categories: &id002
   - Tech
@@ -21,8 +38,7 @@
   title: 'Navigating Troubled Waters: What the Surge in Bankruptcy Filings Means for
     the Economy'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2024-12-02T09:50:38+00:00'
   description: "<p>O debate econ\xF4mico nacional tem sido amplamente mobilizado em\
     \ torno do objetivo de equilibrar as contas p\xFAblicas. Isso \xE9 positivo, pois\
@@ -37,19 +53,6 @@
   path: https://braziljournal.com/opiniao-a-pec-da-reforma-estrutural-para-o-equilibrio-das-contas-publicas/
   title: "OPINI\xC3O. A PEC da reforma estrutural para o equil\xEDbrio das contas\
     \ p\xFAblicas"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2024-12-02T09:50:16+00:00'
-  description: "<p>Se deputados e senadores estiverem satisfeitos com o d\xF3lar a\
-    \ R$ 6 e juros futuros projetando 15%, n\xE3o \xE9 preciso fazer nada. Basta tirar\
-    \ f\xE9rias em dezembro e deixar o Brasil se ferrar. Mas se quiserem ajudar o\
-    \ Pa\xEDs a limpar a lamban\xE7a feita pelo Governo na semana passada, o melhor\
-    \ caminho \xE9 abra\xE7ar a [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-pec-que-pode-derrubar-o-dolar-e-os-juros/\"\
-    \ rel=\"nofollow\">A PEC que pode derrubar o d\xF3lar e os juros</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-pec-que-pode-derrubar-o-dolar-e-os-juros/
-  title: "A PEC que pode derrubar o d\xF3lar e os juros"
 - author: The Journal.
   categories: &id004
   - Podcasts
@@ -83,7 +86,7 @@
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/ttWVbQF7yfI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ttWVbQF7yfI
-  title: Your First Line of Defense Against Credential Leaks
+  title: "\U0001F6E1\uFE0F Your First Line of Defense Against Credential Leaks"
 - author: Market Makers
   categories: &id003
   - Podcasts
