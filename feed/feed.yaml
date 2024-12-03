@@ -11,7 +11,7 @@
   path: https://www.youtube.com/watch?v=jSfDIQ5re8Y
   title: The Result Monad Demystified
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-12-02T10:09:07+00:00'
   description: Bankruptcy filings are surging. As we brace for what lies ahead, it's
@@ -50,6 +50,21 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/a-pec-que-pode-derrubar-o-dolar-e-os-juros/
   title: "A PEC que pode derrubar o d\xF3lar e os juros"
+- author: The Journal.
+  categories: &id004
+  - Podcasts
+  date: '2024-12-02T00:00:00+00:00'
+  description: "To ease flight delays and staffing shortages in the New York City\
+    \ area, the FAA shifted oversight of Newark Airport\u2019s airspace to Philadelphia\
+    \ earlier this year. But WSJ\u2019s Andrew Tangel reports that problems remain\
+    \ and new risks have surfaced.\_  Further Listening: -How Spirit Airlines Landed\
+    \ in Bankruptcy\_ -How Southwest Airlines Melted Down\_  Further Reading: -Why\
+    \ Fixing New York Air Traffic Has Been a Bumpy Ride\_ -To Ease Newark Flight Delays,\
+    \ the FAA Turned to Philly. Here\u2019s Why.\_  Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/2OxNKXSzCFMu9QbrPvaPOL
+  title: Your Flight Delay Is Probably New York's Fault
 - author: Apricitas Economics
   categories: &id007
   - Macro
@@ -187,8 +202,7 @@
   path: https://open.spotify.com/episode/3orV1ulJJOhyZZE2iVCEwU
   title: "#157 | COMO AS TENS\xD5ES GLOBAIS EST\xC3O AFETANDO A ECONOMIA BRASILEIRA"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id004
   date: '2024-11-28T00:00:00+00:00'
   description: "Happy Thanksgiving! This episode was originally published in November\
     \ 2023. Ocean Spray\u2019s farmers are responsible for 65% of the world\u2019\
@@ -225,27 +239,13 @@
   path: https://open.spotify.com/episode/2KrIfkVroy60gYjgSoJP0D
   title: "Indian capitalists: What\u2019s behind India\u2019s stock market rally?"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-11-27T13:00:00+00:00'
   description: What makes infrastructure debt a compelling asset class?
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/11/27/infrastructure-debt-unlocking-investment-opportunities-in-a-transforming-economy/
   title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
     Economy'
-- author: The Journal.
-  categories: *id005
-  date: '2024-11-27T00:00:00+00:00'
-  description: "Israel and Lebanon have reached a ceasefire agreement that ends more\
-    \ than a year of fighting between Israel and the Iran-backed militant group, Hezbollah.\
-    \ WSJ\u2019s Jared Malsin takes us inside the deal and explores what it could\
-    \ mean for the region.  Further Reading: -Israel Says Cease-Fire Takes Effect\
-    \ in Lebanon\_ -Israel Approves Cease-Fire With Lebanon Aimed at Ending Hezbollah\
-    \ Conflict\_  Further Listening: -The Risk of an All-Out War in the Middle East\_\
-    \ -Exploding Pagers and the Risk of a Spreading War\_   Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2nqijtrXnHS2UQfczXerhx
-  title: What the Ceasefire in Lebanon Means for the Middle East
 - author: Outliers
   categories: &id008
   - Podcasts
