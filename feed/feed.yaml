@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-04T16:01:00+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/wuohAHj5PG4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=wuohAHj5PG4
+  title: Best Practices for SSH Key Usage
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -35,10 +47,7 @@
   title: Using Stock Returns to Assess the Aggregate Effect of the U.S.&#8209;China
     Trade War
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-04T04:02:33+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this live stream, I'll dive into the code and design of an open-source project\
@@ -141,15 +150,6 @@
   path: https://open.spotify.com/episode/3NPCoy1bpgM3Cp9zpEKM5b
   title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
     \ a YVY Capital"
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-12-02T16:00:40+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/jSfDIQ5re8Y/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=jSfDIQ5re8Y
-  title: "\U0001F52E The Result Monad Demystified"
 - author: CFA Institute Enterprising Investor
   categories: *id002
   date: '2024-12-02T10:09:07+00:00'
