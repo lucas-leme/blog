@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-12-04T12:12:11+00:00'
+  description: Endowments have long been considered elite investors, but outdated
+    strategies and skyrocketing costs are eroding their edge
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/04/the-endowment-syndrome-why-elite-funds-are-falling-behind/
+  title: 'The Endowment Syndrome: Why Elite Funds Are Falling Behind'
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -14,7 +23,7 @@
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Live Code Review | FastAPI
 - author: Apricitas Economics
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2024-12-03T21:42:48+00:00'
@@ -39,7 +48,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/documenting-lender-specialization/
   title: Documenting Lender Specialization
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-12-03T03:53:27+00:00'
   description: "<p>Nos sistemas democr\xE1ticos, os pol\xEDticos t\xEAm incentivos\
@@ -56,7 +65,7 @@
   title: "OPINI\xC3O. Gastos eleitorais e desestrutura\xE7\xE3o fiscal em governos\
     \ recentes"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-12-03T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
@@ -87,7 +96,7 @@
   path: https://open.spotify.com/episode/2N1Svqali8fsbQRP0gBCp1
   title: "#159 | A DURA VERDADE POR TR\xC1S DO ATRASO BRASILEIRO QUE NINGU\xC9M FALA"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-03T00:00:00+00:00'
   description: "As President-elect Donald Trump lays out his plan for increasing tariffs\
@@ -121,8 +130,7 @@
   path: https://www.youtube.com/watch?v=jSfDIQ5re8Y
   title: "\U0001F52E The Result Monad Demystified"
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id002
   date: '2024-12-02T10:09:07+00:00'
   description: Bankruptcy filings are surging. As we brace for what lies ahead, it's
     essential to recognize the potential for a repeat of past crises and prepare accordingly.
@@ -131,7 +139,7 @@
   title: 'Navigating Troubled Waters: What the Surge in Bankruptcy Filings Means for
     the Economy'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-12-02T09:50:38+00:00'
   description: "<p>O debate econ\xF4mico nacional tem sido amplamente mobilizado em\
     \ torno do objetivo de equilibrar as contas p\xFAblicas. Isso \xE9 positivo, pois\
@@ -147,7 +155,7 @@
   title: "OPINI\xC3O. A PEC da reforma estrutural para o equil\xEDbrio das contas\
     \ p\xFAblicas"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-02T00:00:00+00:00'
   description: "To ease flight delays and staffing shortages in the New York City\
     \ area, the FAA shifted oversight of Newark Airport\u2019s airspace to Philadelphia\
@@ -161,7 +169,7 @@
   path: https://open.spotify.com/episode/2OxNKXSzCFMu9QbrPvaPOL
   title: Your Flight Delay Is Probably New York's Fault
 - author: Apricitas Economics
-  categories: *id004
+  categories: *id005
   date: '2024-12-01T15:26:03+00:00'
   description: Exports of GLP-1 Drugs like Ozempic & Wegovy are Driving the Majority
     of Danish GDP Growth
@@ -169,7 +177,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-11-30T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: vamos enviar em breve um documento completo sobre\
     \ as mazelas do Brasil e os impactos no mercado financeiro para todos assinantes\
@@ -279,14 +287,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac832bf57f22039c735d4d573
   path: https://open.spotify.com/episode/2KrIfkVroy60gYjgSoJP0D
   title: "Indian capitalists: What\u2019s behind India\u2019s stock market rally?"
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2024-11-27T13:00:00+00:00'
-  description: What makes infrastructure debt a compelling asset class?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/11/27/infrastructure-debt-unlocking-investment-opportunities-in-a-transforming-economy/
-  title: 'Infrastructure Debt: Unlocking Investment Opportunities in a Transforming
-    Economy'
 - author: Outliers
   categories: *id007
   date: '2024-11-27T00:00:00+00:00'
