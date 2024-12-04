@@ -7,6 +7,33 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/04/the-endowment-syndrome-why-elite-funds-are-falling-behind/
   title: 'The Endowment Syndrome: Why Elite Funds Are Falling Behind'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2024-12-04T12:00:00+00:00'
+  description: During 2018-19, the U.S. levied import tariffs of 10 to 50 percent
+    on more than $300 billion of imports from China, and in response China retaliated
+    with high tariffs of its own on U.S. exports. Estimating the aggregate impact
+    of the trade war on the U.S. economy is challenging because tariffs can affect
+    the economy through many different channels. In addition to changing relative
+    prices, tariffs can impact productivity and economic uncertainty. Moreover, these
+    effects can take years to become apparent in the data, and it is difficult to
+    know what the future implications of a tariff are likely to be. In a <a href="https://www.nber.org/papers/w28758">recent
+    paper</a>, we argue that financial market data can be very useful in this context
+    because market participants have strong incentives to carefully analyze the implications
+    of a tariff announcement on firm profitability through various channels. We show
+    that researchers can use movements in asset prices on days in which tariffs are
+    announced to obtain estimates of market expectations of the present discounted
+    value of firm cash flows, which then can be used to assess the welfare impact
+    of tariffs. These estimates suggest that the trade war between the U.S. and China
+    between 2018 and 2019 had a negative effect on the U.S. economy that is substantially
+    larger than past estimates.
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2024/12/using-stock-returns-to-assess-the-aggregate-effect-of-the-u-s-china-trade-war/
+  title: Using Stock Returns to Assess the Aggregate Effect of the U.S.&#8209;China
+    Trade War
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -32,21 +59,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bf302e-34a9-449f-a7d2-def53067989f_2886x1843.png
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2024-12-03T12:00:00+00:00'
-  description: Robust banks are a cornerstone of a healthy financial system. To ensure
-    their stability, it is desirable for banks to hold a diverse portfolio of loans
-    originating from various borrowers and sectors so that idiosyncratic shocks to
-    any one borrower or fluctuations in a particular sector would be unlikely to cause
-    the entire bank to go under. With this long-held wisdom in mind, how diversified
-    are banks in reality?
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2024/12/documenting-lender-specialization/
-  title: Documenting Lender Specialization
 - author: "Economia \u2013 Brazil Journal"
   categories: &id003
   - Economia
@@ -64,6 +76,15 @@
   path: https://braziljournal.com/opiniao-gastos-eleitorais-e-desestruturacao-fiscal-em-governos-recentes/
   title: "OPINI\xC3O. Gastos eleitorais e desestrutura\xE7\xE3o fiscal em governos\
     \ recentes"
+- author: CFA Institute Research and Policy Center
+  categories: &id009
+  - CFA
+  date: '2024-12-03T00:00:00+00:00'
+  description: Recommendations of Seeking Alpha authors can affect trading activity.
+    Tentative evidence suggests that profitable strategies can be based on these factors.
+  image: null
+  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/influence-and-predictive-value-seeking-alpha-articles
+  title: Influence and Predictive Value of Seeking Alpha Articles
 - author: Market Makers
   categories: &id006
   - Podcasts
@@ -313,8 +334,7 @@
   path: https://www.youtube.com/watch?v=l3_nECzo_EA
   title: This EV has a LOT of Tech
 - author: CFA Institute Research and Policy Center
-  categories: &id009
-  - CFA
+  categories: *id009
   date: '2024-11-18T00:00:00+00:00'
   description: "We highlight the importance of cash flow reinvestment and introduce\
     \ \u201Csustainable return\u201D as the rate of withdrawal consistent capital\
@@ -322,14 +342,6 @@
   image: null
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-should-investors-long-term-returns-be-measured
   title: "How Should Investors\u2019 Long-Term Returns Be Measured?"
-- author: CFA Institute Research and Policy Center
-  categories: *id009
-  date: '2024-11-18T00:00:00+00:00'
-  description: Analyzing finance applications of large language models (LLMs), this
-    study identifies tradeoffs that can guide academics and practitioners.
-  image: null
-  path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/how-much-does-chatgpt-know-about-finance
-  title: How Much Does ChatGPT Know about Finance?
 - author: Atas do Copom
   categories:
   - Bacen
