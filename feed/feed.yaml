@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-12-04T21:50:48+00:00'
+  description: "<p>O Cofecon &#8212; o Conselho Federal dos Economistas &#8212; est\xE1\
+    \ pressionando o Congresso para aprovar um projeto de lei que, na pr\xE1tica,\
+    \ criaria uma reserva de mercado, restringindo a concorr\xEAncia em diversas atividades.\
+    \ O PL 3178/2024, de autoria do deputado federal Reginaldo Lopes (PT-MG), estipula\
+    \ que in\xFAmeras atividades tenham que ser desempenhadas exclusivamente por economistas.\_\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/\"\
+    \ rel=\"nofollow\">No Cofecon, economistas buscam um cart\xF3rio pra chamar de\
+    \ seu</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
+  title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -11,7 +27,7 @@
   path: https://www.youtube.com/watch?v=wuohAHj5PG4
   title: Best Practices for SSH Key Usage
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id004
   - CFA
   date: '2024-12-04T15:09:05+00:00'
   description: Endowments have long been considered elite investors, but outdated
@@ -58,6 +74,39 @@
   image: https://i2.ytimg.com/vi/-FA4Hc7c4ek/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Live Code Review | FastAPI
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-12-04T00:00:00+00:00'
+  description: "President-elect Donald Trump has proposed radically downsizing the\
+    \ federal government, and two of his allies are going to be in charge: Elon Musk\
+    \ and Vivek Ramaswamy. WSJ\u2019s John McCormick walks us through the plans for\
+    \ DOGE, or the Department of Government Efficiency.  Further Reading:  - Musk,\
+    \ Ramaswamy Want Federal Workers in the Office Full Time. There\u2019s a Hitch.\_\
+    \ - Vivek Ramaswamy\u2019s Marching Orders: Cut Trillions for Trump\_  Further\
+    \ Listening:  - Uncovering Elon Musk's Secret Political Donations\_ - The Scramble\
+    \ Is on to Fill Trump\u2019s Cabinet\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/6S9dE08PbaSUnTAQ6besy8
+  title: 'DOGE: The Plan to Downsize the Government'
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2024-12-04T00:00:00+00:00'
+  description: "In this episode of the Get StackedInvestment Podcast, Corey and Rodrigo\
+    \ have an insightful conversation withJonathan Glidden, Chief Investment Officer\
+    \ of the Delta Airlines Pension Plan.Since joining in 2011, Jonathan has been\
+    \ pivotal in elevating Delta\u2019s pensionplan funded status from 38% to over\
+    \ 100%. They delve into Jonathan'sunconventional career journey, his implementation\
+    \ of portable alpha strategies,and share valuable lessons learned from turbulent\
+    \ financial periods such as2008 and 2020. Whether you're a seasoned investor or\
+    \ new to the concept ofportable alpha, this episode provides a masterclass on\
+    \ optimizing pension planmanagement through innovative investment strategies."
+  image: https://i.scdn.co/image/ab6765630000ba8ad8ebade1c031f6f1f1eceb7b
+  path: https://open.spotify.com/episode/0O0bpniJOszUuJHeOHJzDH
+  title: Jonathan Glidden - Saving Delta's Pension with Portable Alpha
 - author: Apricitas Economics
   categories: &id005
   - Macro
@@ -69,8 +118,7 @@
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2024-12-03T03:53:27+00:00'
   description: "<p>Nos sistemas democr\xE1ticos, os pol\xEDticos t\xEAm incentivos\
     \ para expandir os gastos e manipular a taxa de c\xE2mbio para gerar uma sensa\xE7\
@@ -126,8 +174,7 @@
   path: https://open.spotify.com/episode/2N1Svqali8fsbQRP0gBCp1
   title: "#159 | A DURA VERDADE POR TR\xC1S DO ATRASO BRASILEIRO QUE NINGU\xC9M FALA"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id003
   date: '2024-12-03T00:00:00+00:00'
   description: "As President-elect Donald Trump lays out his plan for increasing tariffs\
     \ on goods made in China and Mexico, some U.S. businesses are stockpiling. Small\
@@ -151,7 +198,7 @@
   title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
     \ a YVY Capital"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id004
   date: '2024-12-02T10:09:07+00:00'
   description: Bankruptcy filings are surging. As we brace for what lies ahead, it's
     essential to recognize the potential for a repeat of past crises and prepare accordingly.
@@ -159,36 +206,6 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/02/navigating-troubled-waters-what-the-surge-in-bankruptcy-filings-means-for-the-economy/
   title: 'Navigating Troubled Waters: What the Surge in Bankruptcy Filings Means for
     the Economy'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-12-02T09:50:38+00:00'
-  description: "<p>O debate econ\xF4mico nacional tem sido amplamente mobilizado em\
-    \ torno do objetivo de equilibrar as contas p\xFAblicas. Isso \xE9 positivo, pois\
-    \ interessa a toda a sociedade ter a economia em ordem. N\xE3o h\xE1 quem goste\
-    \ de infla\xE7\xE3o elevada, e a maioria da popula\xE7\xE3o quer se ver longe\
-    \ de juros altos. Todos sabem que quem se [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/opiniao-a-pec-da-reforma-estrutural-para-o-equilibrio-das-contas-publicas/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. A PEC da reforma estrutural para o equil\xEDbrio\
-    \ das contas p\xFAblicas</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-a-pec-da-reforma-estrutural-para-o-equilibrio-das-contas-publicas/
-  title: "OPINI\xC3O. A PEC da reforma estrutural para o equil\xEDbrio das contas\
-    \ p\xFAblicas"
-- author: The Journal.
-  categories: *id004
-  date: '2024-12-02T00:00:00+00:00'
-  description: "To ease flight delays and staffing shortages in the New York City\
-    \ area, the FAA shifted oversight of Newark Airport\u2019s airspace to Philadelphia\
-    \ earlier this year. But WSJ\u2019s Andrew Tangel reports that problems remain\
-    \ and new risks have surfaced.\_  Further Listening: -How Spirit Airlines Landed\
-    \ in Bankruptcy\_ -How Southwest Airlines Melted Down\_  Further Reading: -Why\
-    \ Fixing New York Air Traffic Has Been a Bumpy Ride\_ -To Ease Newark Flight Delays,\
-    \ the FAA Turned to Philly. Here\u2019s Why.\_  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/2OxNKXSzCFMu9QbrPvaPOL
-  title: Your Flight Delay Is Probably New York's Fault
 - author: Apricitas Economics
   categories: *id005
   date: '2024-12-01T15:26:03+00:00'
@@ -238,6 +255,9 @@
     NWM Open Back Headphones: https://geni.us/75Hoj1
 
     Movengine UM-600: https://geni.us/fzifyEN
+
+
+    Note: The Bose DO support multipoint bluetooth!
 
 
     MKBHD Merch: http://shop.MKBHD.com
@@ -771,26 +791,6 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2024-10-07T00:00:00+00:00'
-  description: "In this episode, I speak with Farouk Jivraj, Portfolio Manager and\
-    \ Head of Alternative Risk Premia at Fidelity Investments\u2019 Asset Management\
-    \ Solutions division.After spending nearly a decade on the sell side, Farouk joined\
-    \ Fidelity in 2021 with the goal of building out an alternative risk premium platform,\
-    \ tapping into the best of what both the sell-side QIS desks have to offer and\
-    \ what can be built in-house.We spend the majority of the conversation peeling\
-    \ apart the layers of Farouk\u2019s 5-step process for implementing alternative\
-    \ risk premia strategies.  He shares his thoughts on how to classify different\
-    \ premia, why thoughtfully-constructed peer groups are an important evaluation\
-    \ tool, how to go about selecting specific strategies, how to construct portfolios\
-    \ of alternative risk premia, and the actual rubber-meets-road implementation\
-    \ practicalities.Please enjoy my conversation with Farouk Jivraj."
-  image: https://i.scdn.co/image/ab6765630000ba8a6c00ca55fc6c959fd6093f8f
-  path: https://open.spotify.com/episode/77Iel7u4jtQQm5JX0dhdTB
-  title: Farouk Jivraj - The Art & Science of Using Alternative Risk Premia (S7E12)
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen

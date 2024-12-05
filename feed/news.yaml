@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-12-04T18:44:55+00:00'
+  description: "Tanto na SEC como no setor privado, Atkins esteve envolvido em algumas\
+    \ das maiores e mais controversas quest\xF5es de pol\xEDtica financeira"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/trump-escolhe-paul-atkins-para-chefiar-a-sec-e-mercado-cripto-celebra/
+  title: "Trump escolhe Paul Atkins para chefiar a SEC \u2014 e mercado cripto celebra"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Donald Trump e Javier Milei est\xE3o a mundos de dist\xE2ncia em rela\xE7\
     \xE3o \xE0 austeridade"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-12-04T14:37:37+00:00'
   description: "Em compara\xE7\xE3o, o limite pr\xE9-estabelecido pelo Banco Central\
     \ para saque de pessoas f\xEDsicas via Pix \xE9 de R$ 3 mil"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/financas/pix-americano-amplia-limite-de-transacoes-instantaneas-para-us-10-milhoes/
   title: "\u2018Pix americano\u2019 amplia limite de transa\xE7\xF5es instant\xE2\
     neas para US$ 10 milh\xF5es"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2024-12-04T12:27:53+00:00'
-  description: "Ap\xF3s an\xFAncio de lei marcial no pa\xEDs, o Bitcoin chegou a cair\
-    \ para US$ 71.815 nas bolsas locais, enquanto \xE9 negociado acima de US% 93 mil\
-    \ no resto do mundo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-chega-a-cair-20-na-coreia-do-sul-em-meio-ao-caos-politico/
-  title: "Bitcoin chega a cair 20% na Coreia do Sul em meio ao caos pol\xEDtico"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2024-12-03T20:23:36+00:00'
