@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2024-12-06T11:41:45+00:00'
+  description: "Promotions require more than just hard work and results. By mastering\
+    \ the PIE framework, you\u2019ll position yourself for long-term career success."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/06/climbing-the-ladder-in-finance-the-pie-framework-for-investment-professionals/
+  title: 'Climbing the Ladder in Finance: The PIE Framework for Investment Professionals'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -20,7 +29,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/do-import-tariffs-protect-u-s-firms/
   title: Do Import Tariffs Protect U.S. Firms?
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-05T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
@@ -50,7 +59,7 @@
   title: "#160 | TRANSI\xC7\xC3O ENERG\xC9TICA, BNDES E A OPORTUNIDADE BILION\xC1\
     RIA DOS PR\xD3XIMOS 10 ANOS"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-12-05T00:00:00+00:00'
   description: "Target used to be a cheap and chic place to shop, but now the retailer\
@@ -82,7 +91,7 @@
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-12-04T21:50:48+00:00'
   description: "<p>O Cofecon &#8212; o Conselho Federal dos Economistas &#8212; est\xE1\
@@ -98,7 +107,7 @@
   path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
   title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -110,8 +119,7 @@
   path: https://www.youtube.com/watch?v=wuohAHj5PG4
   title: Best Practices for SSH Key Usage
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id001
   date: '2024-12-04T15:09:05+00:00'
   description: Endowments have long been considered elite investors, but outdated
     strategies and skyrocketing costs are eroding their edge
@@ -119,7 +127,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/04/the-endowment-syndrome-why-elite-funds-are-falling-behind/
   title: 'The Endowment Syndrome: Why Elite Funds Are Falling Behind'
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-12-04T04:02:33+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this live stream, I'll dive into the code and design of an open-source project\
@@ -131,7 +139,7 @@
   path: https://www.youtube.com/watch?v=-FA4Hc7c4ek
   title: Live Code Review | FastAPI
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-12-04T00:00:00+00:00'
   description: "President-elect Donald Trump has proposed radically downsizing the\
     \ federal government, and two of his allies are going to be in charge: Elon Musk\
@@ -173,7 +181,7 @@
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-12-03T03:53:27+00:00'
   description: "<p>Nos sistemas democr\xE1ticos, os pol\xEDticos t\xEAm incentivos\
     \ para expandir os gastos e manipular a taxa de c\xE2mbio para gerar uma sensa\xE7\
@@ -198,7 +206,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/influence-and-predictive-value-seeking-alpha-articles
   title: Influence and Predictive Value of Seeking Alpha Articles
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-12-03T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -236,15 +244,6 @@
   path: https://open.spotify.com/episode/3NPCoy1bpgM3Cp9zpEKM5b
   title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
     \ a YVY Capital"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-12-02T10:09:07+00:00'
-  description: Bankruptcy filings are surging. As we brace for what lies ahead, it's
-    essential to recognize the potential for a repeat of past crises and prepare accordingly.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/02/navigating-troubled-waters-what-the-surge-in-bankruptcy-filings-means-for-the-economy/
-  title: 'Navigating Troubled Waters: What the Surge in Bankruptcy Filings Means for
-    the Economy'
 - author: Apricitas Economics
   categories: *id006
   date: '2024-12-01T15:26:03+00:00'
