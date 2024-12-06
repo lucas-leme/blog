@@ -1,5 +1,5 @@
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2024-12-06T16:51:28+00:00'
   description: "<p>Foram 25 anos de negocia\xE7\xF5es, guerras diplom\xE1ticas, ataques\
@@ -15,7 +15,7 @@
   path: https://braziljournal.com/ue-e-mercosul-fecham-acordo-o-problema-sao-os-detalhes/
   title: "UE e Mercosul fecham acordo. O problema s\xE3o os detalhes"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -37,7 +37,7 @@
   path: https://www.youtube.com/watch?v=qkxf583t4Vc
   title: "Try This if You Don\u2019t Like Python\u2019s Exception Handling"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-06T11:41:45+00:00'
   description: "Promotions require more than just hard work and results. By mastering\
@@ -45,6 +45,22 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/06/climbing-the-ladder-in-finance-the-pie-framework-for-investment-professionals/
   title: 'Climbing the Ladder in Finance: The PIE Framework for Investment Professionals'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2024-12-06T00:00:00+00:00'
+  description: "Last month, Maurizio Cattelan\u2019s \u201CComedian,\u201D a piece\
+    \ of conceptual art that consists of a banana duct taped to a wall, sold at a\
+    \ Sotheby\u2019s auction for $6.2 million. WSJ\u2019s Kelly Crow traces the banana\u2019\
+    s origins from Art Basel Miami in 2019 to the top of the art market this year.\
+    \  Further Listening: - A Russian Billionaire, an Art Dealer and an Epic Feud\_\
+    \ - The Basquiat Sisters on Managing One of Art's Hottest Brands  Further Reading:\
+    \  - A $6.2 Million Banana and the Unexpected Return of the Art Market\_ - Someone\
+    \ Just Paid $6.2 Million for a Banana Duct-Taped to a Wall\_  Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
+  path: https://open.spotify.com/episode/5w1PrUdSNKkAeZQsgQYHCF
+  title: "The $6 Million Banana\u2019s Appeal"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -97,8 +113,7 @@
   title: "#160 | TRANSI\xC7\xC3O ENERG\xC9TICA, BNDES E A OPORTUNIDADE BILION\xC1\
     RIA DOS PR\xD3XIMOS 10 ANOS"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-12-05T00:00:00+00:00'
   description: "Target used to be a cheap and chic place to shop, but now the retailer\
     \ is in a sales funk, losing market share to competitors like Walmart, Costco,\
@@ -129,7 +144,7 @@
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2024-12-04T21:50:48+00:00'
   description: "<p>O Cofecon &#8212; o Conselho Federal dos Economistas &#8212; est\xE1\
     \ pressionando o Congresso para aprovar um projeto de lei que, na pr\xE1tica,\
@@ -144,7 +159,7 @@
   path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
   title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-12-04T16:01:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -153,28 +168,13 @@
   path: https://www.youtube.com/watch?v=wuohAHj5PG4
   title: Best Practices for SSH Key Usage
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-04T15:09:05+00:00'
   description: Endowments have long been considered elite investors, but outdated
     strategies and skyrocketing costs are eroding their edge
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/04/the-endowment-syndrome-why-elite-funds-are-falling-behind/
   title: 'The Endowment Syndrome: Why Elite Funds Are Falling Behind'
-- author: The Journal.
-  categories: *id004
-  date: '2024-12-04T00:00:00+00:00'
-  description: "President-elect Donald Trump has proposed radically downsizing the\
-    \ federal government, and two of his allies are going to be in charge: Elon Musk\
-    \ and Vivek Ramaswamy. WSJ\u2019s John McCormick walks us through the plans for\
-    \ DOGE, or the Department of Government Efficiency.  Further Reading:  - Musk,\
-    \ Ramaswamy Want Federal Workers in the Office Full Time. There\u2019s a Hitch.\_\
-    \ - Vivek Ramaswamy\u2019s Marching Orders: Cut Trillions for Trump\_  Further\
-    \ Listening:  - Uncovering Elon Musk's Secret Political Donations\_ - The Scramble\
-    \ Is on to Fill Trump\u2019s Cabinet\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a8987f4533ff88ee624f81a5d
-  path: https://open.spotify.com/episode/6S9dE08PbaSUnTAQ6besy8
-  title: 'DOGE: The Plan to Downsize the Government'
 - author: Flirting with Models
   categories:
   - Podcasts
