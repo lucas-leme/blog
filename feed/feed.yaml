@@ -1,3 +1,15 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-12-09T11:51:29+00:00'
+  description: If there was a Wild West in Private Equity (PE), it would be the Lower
+    Middle Market (LMM) &#8212; the ecosystem of companies with revenues between $5
+    million and $50 million. The LMM offers lucrative opportunities but comes with
+    unique risks that can derail even the most promising deals. For investment professionals,
+    navigating this space [&#8230;]
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/09/agency-risk-in-the-lower-middle-market-a-guide-for-pe-professionals/
+  title: 'Agency Risk in the Lower Middle Market: A Guide for PE Professionals'
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -11,7 +23,7 @@
   path: https://www.youtube.com/watch?v=V703bl-8QRc
   title: Building a CLI with Python
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2024-12-06T16:51:28+00:00'
   description: "<p>Foram 25 anos de negocia\xE7\xF5es, guerras diplom\xE1ticas, ataques\
@@ -46,16 +58,29 @@
   path: https://www.youtube.com/watch?v=qkxf583t4Vc
   title: "Try This if You Don\u2019t Like Python\u2019s Exception Handling"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-12-06T11:41:45+00:00'
   description: "Promotions require more than just hard work and results. By mastering\
     \ the PIE framework, you\u2019ll position yourself for long-term career success."
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/06/climbing-the-ladder-in-finance-the-pie-framework-for-investment-professionals/
   title: 'Climbing the Ladder in Finance: The PIE Framework for Investment Professionals'
+- author: RSS - Feeds do BC
+  categories:
+  - Bacen
+  - BC
+  date: '2024-12-06T00:00:00-03:00'
+  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
+    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
+    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
+    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
+    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
+    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
+  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
+  path: https://www.bcb.gov.br/publicacoes/focus/06122024
+  title: "BC - Focus - Relat\xF3rio de Mercado - 06/12/2024"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-12-06T00:00:00+00:00'
   description: "Last month, Maurizio Cattelan\u2019s \u201CComedian,\u201D a piece\
@@ -122,7 +147,7 @@
   title: "#160 | TRANSI\xC7\xC3O ENERG\xC9TICA, BNDES E A OPORTUNIDADE BILION\xC1\
     RIA DOS PR\xD3XIMOS 10 ANOS"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-12-05T00:00:00+00:00'
   description: "Target used to be a cheap and chic place to shop, but now the retailer\
     \ is in a sales funk, losing market share to competitors like Walmart, Costco,\
@@ -153,7 +178,7 @@
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2024-12-04T21:50:48+00:00'
   description: "<p>O Cofecon &#8212; o Conselho Federal dos Economistas &#8212; est\xE1\
     \ pressionando o Congresso para aprovar um projeto de lei que, na pr\xE1tica,\
@@ -167,14 +192,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
   title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-12-04T15:09:05+00:00'
-  description: Endowments have long been considered elite investors, but outdated
-    strategies and skyrocketing costs are eroding their edge
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/04/the-endowment-syndrome-why-elite-funds-are-falling-behind/
-  title: 'The Endowment Syndrome: Why Elite Funds Are Falling Behind'
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -316,20 +333,6 @@
   image: https://i2.ytimg.com/vi/EFiHm6WjhNA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
-- author: RSS - Feeds do BC
-  categories:
-  - Bacen
-  - BC
-  date: '2024-11-29T00:00:00-03:00'
-  description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
-    \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
-    \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
-    \ a evolu\xE7\xE3o gr\xE1fica e o comportamento semanal das proje\xE7\xF5es para\
-    \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
-    \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
-  image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/29112024
-  title: "BC - Focus - Relat\xF3rio de Mercado - 29/11/2024"
 - author: Outliers
   categories: *id007
   date: '2024-11-27T00:00:00+00:00'
