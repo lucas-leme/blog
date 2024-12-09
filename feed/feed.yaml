@@ -1,3 +1,61 @@
+- author: Marques Brownlee
+  categories: &id007
+  - Tech
+  - Youtube
+  date: '2024-12-09T16:02:33+00:00'
+  description: 'SORA generates videos. This is the first review.
+
+
+    Get up to 40% off on last minute gifts at https://ridge.com/MKBHD
+
+
+    The (real) birding video: https://youtu.be/FjUEHdWU2Vw?si=KncheffCaMT6hK5k
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Pop Quiz
+
+    0:44 Using SORA Features
+
+    6:07 Things it''s bad at
+
+    9:39 Turning pictures into videos
+
+    11:16 Things it''s really good at
+
+    13:30 The other side of the coin'
+  image: https://i4.ytimg.com/vi/OY2x0TyKzIQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OY2x0TyKzIQ
+  title: This Video is AI Generated! SORA Review
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-09T16:00:54+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/unaEcKvT4lQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=unaEcKvT4lQ
+  title: "Rust\u2019s Ownership Model Explained in 35 Seconds"
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -10,11 +68,27 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/09/agency-risk-in-the-lower-middle-market-a-guide-for-pe-professionals/
   title: 'Agency Risk in the Lower Middle Market: A Guide for PE Professionals'
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2024-12-09T00:00:00+00:00'
+  description: "My guest today is Victor Haghani, founder of Elm Wealth.Victor is,\
+    \ in many ways, one of the last tactical asset allocators standing after the 2010s.\
+    \  That might be because Victor wouldn\u2019t categorize himself as such.  Rather,\
+    \ he sees his dynamic index investing approach not as a tactical alternative to\
+    \ traditional static portfolios, but as the rational approach for anyone starting\
+    \ from first principles.  This conversation dances between theory and implementation.\
+    \  Victor is just as comfortable sharing his thoughts on where equity market risk\
+    \ comes from as he is defending payout-adjusted CAPE as a metric for forecasting\
+    \ long-run returns.  If you\u2019re passionate about asset allocation, you\u2019\
+    ll find lots to think about in this one.Please enjoy my conversation with Victor\
+    \ Haghani."
+  image: https://i.scdn.co/image/ab6765630000ba8a999a54f276fd44ac0bc10f2a
+  path: https://open.spotify.com/episode/24X93Iszbwc6Kf3bwkUafv
+  title: "Victor Haghani \u2013 The Last of the Tactical Allocators (S7E13)"
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-07T16:00:24+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -38,25 +112,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ue-e-mercosul-fecham-acordo-o-problema-sao-os-detalhes/
   title: "UE e Mercosul fecham acordo. O problema s\xE3o os detalhes"
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-12-06T16:00:54+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nStruggling with Python's unpredictable errors and None checks? In this video,\
-    \ I share a unique approach to making your code cleaner and more reliable using\
-    \ the returns package\u2014no complicated try-except nests required.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2024/returns.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:32 Why\
-    \ do we need a package like this?\n3:02 Introduction to the Returns Package\n\
-    3:18 What Are Containers?\n3:55 The Maybe Container: Handling Missing Data Elegantly\n\
-    6:40 Using Structural Pattern Matching with Maybe\n8:01 Railway-Oriented Programming\
-    \ in Python\n11:01 Mapping Exceptions to Railway-Oriented Programming\n12:36 Using\
-    \ the @safe Decorator for Automatic Error Handling\n14:12 The IO Container: Managing\
-    \ Side Effects\n17:53 Should You Use the returns Package?\n20:57 Final thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/qkxf583t4Vc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=qkxf583t4Vc
-  title: "Try This if You Don\u2019t Like Python\u2019s Exception Handling"
 - author: CFA Institute Enterprising Investor
   categories: *id002
   date: '2024-12-06T11:41:45+00:00'
@@ -192,23 +247,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
   title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2024-12-04T00:00:00+00:00'
-  description: "In this episode of the Get StackedInvestment Podcast, Corey and Rodrigo\
-    \ have an insightful conversation withJonathan Glidden, Chief Investment Officer\
-    \ of the Delta Airlines Pension Plan.Since joining in 2011, Jonathan has been\
-    \ pivotal in elevating Delta\u2019s pensionplan funded status from 38% to over\
-    \ 100%. They delve into Jonathan'sunconventional career journey, his implementation\
-    \ of portable alpha strategies,and share valuable lessons learned from turbulent\
-    \ financial periods such as2008 and 2020. Whether you're a seasoned investor or\
-    \ new to the concept ofportable alpha, this episode provides a masterclass on\
-    \ optimizing pension planmanagement through innovative investment strategies."
-  image: https://i.scdn.co/image/ab6765630000ba8ad8ebade1c031f6f1f1eceb7b
-  path: https://open.spotify.com/episode/0O0bpniJOszUuJHeOHJzDH
-  title: Jonathan Glidden - Saving Delta's Pension with Portable Alpha
 - author: Apricitas Economics
   categories: &id006
   - Macro
@@ -259,7 +297,7 @@
   path: https://open.spotify.com/episode/2N1Svqali8fsbQRP0gBCp1
   title: "#159 | A DURA VERDADE POR TR\xC1S DO ATRASO BRASILEIRO QUE NINGU\xC9M FALA"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-12-03T00:00:00+00:00'
   description: ''
@@ -276,9 +314,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: Marques Brownlee
-  categories: &id008
-  - Tech
-  - Youtube
+  categories: *id007
   date: '2024-11-29T20:32:43+00:00'
   description: 'Transparency mode... in real life
 
@@ -334,7 +370,7 @@
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-11-27T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a9980b751d4548c0b05b483c3
@@ -351,13 +387,6 @@
   path: https://theovershoot.co/p/the-chicago-feds-austan-goolsbee
   title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
     the "Field Guide to R-Star", Managing Supply Shocks, and More
-- author: Marques Brownlee
-  categories: *id008
-  date: '2024-11-26T16:21:26+00:00'
-  description: Li Auto Mega is not sold in the US, but... what if it was?
-  image: https://i1.ytimg.com/vi/l3_nECzo_EA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=l3_nECzo_EA
-  title: This EV has a LOT of Tech
 - author: CFA Institute Research and Policy Center
   categories: *id009
   date: '2024-11-18T00:00:00+00:00'
