@@ -1,5 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-12-11T15:44:28+00:00'
+  description: Tariff threats are sending analysts' heads spinning. What will be the
+    consequences for stocks, bonds, and volatility?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/11/when-tariffs-hit-stocks-bonds-and-volatility/
+  title: 'When Tariffs Hit: Stocks, Bonds, and Volatility'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id005
   - Economia
   date: '2024-12-11T13:56:21+00:00'
   description: "<p>A for\xE7a da economia americana \u2013 agora impulsionada pela\
@@ -16,8 +25,36 @@
   title: "Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve mudar t\xE3\
     o cedo, diz o UBS"
 - author: Market Makers
-  categories: &id005
+  categories: &id001
   - Podcasts
+  date: '2024-12-11T00:00:00+00:00'
+  description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
+    \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
+    \ Link \U0001F449 https://lp.mmakers.com.br/lp-dossie-brasil-compoundletter?xpromo=XE-ME-COMP-DOSSIE-SUBMMK-YT-CORTES-XPor\
+    \ que o BNDES precisou se reinventar para sobreviver em um Brasil em transforma\xE7\
+    \xE3o?O BNDES enfrentou uma verdadeira revolu\xE7\xE3o nos \xFAltimos anos, saindo\
+    \ de uma crise reputacional para se tornar um exemplo de efici\xEAncia e sustentabilidade.\
+    \ Neste v\xEDdeo, mergulhamos na vis\xE3o estrat\xE9gica que reposicionou o banco\
+    \ no cen\xE1rio nacional, com destaque para a implementa\xE7\xE3o de projetos\
+    \ de impacto social e ambiental. Exploramos os bastidores das decis\xF5es que\
+    \ levaram \xE0 venda de R$ 120 bilh\xF5es em a\xE7\xF5es, a cria\xE7\xE3o do maior\
+    \ fundo garantidor da hist\xF3ria do Brasil, e o desafio de transformar a cultura\
+    \ interna de uma das institui\xE7\xF5es mais importantes do pa\xEDs. Com autonomia\
+    \ pol\xEDtica e lideran\xE7a t\xE9cnica, como o BNDES equilibrou a preserva\xE7\
+    \xE3o de seu patrim\xF4nio intelectual com o reposicionamento estrat\xE9gico para\
+    \ atender \xE0s demandas do futuro?Voc\xEA acredita que o BNDES est\xE1 no caminho\
+    \ certo ao priorizar sustentabilidade e impacto social?Deixe seu like, inscreva-se\
+    \ no canal e ative o sininho para n\xE3o perder mais an\xE1lises como esta!- -\
+    \ - - - - - - -EX-PRESIDENTE DO BNDES REVELA COMO SALVARAM O BANCO DA CRISEConvidado:\
+    \ Gustavo Montezano, ex-presidente do BNDES e s\xF3cio-fundador da YvY CapitalApresentadores:\
+    \ Thiago Salom\xE3o (@_salomoney) e Josu\xE9 Guedes (@josueguedes__)Become a supporter\
+    \ of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a2bc117a97abfde7c1665faf6
+  path: https://open.spotify.com/episode/0vglUCJ34Tv8athYs5mOQG
+  title: 'EX-PRESIDENTE DO BNDES REVELA COMO SALVARAM O BANCO DA CRISE | Corte EP
+    #160'
+- author: Market Makers
+  categories: *id001
   date: '2024-12-11T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -51,8 +88,16 @@
   path: https://open.spotify.com/episode/6PB0tKph79Y9EjsIARj4pJ
   title: "#161 | O QUE EST\xC1 ACONTECENDO COM A ARGENTINA AP\xD3S UM ANO DE JAVIER\
     \ MILEI?"
+- author: Outliers
+  categories: &id006
+  - Podcasts
+  date: '2024-12-11T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a9257c93051a1cedc653a3448
+  path: https://open.spotify.com/episode/0sniVZLdHD3iuXEhG0iDkX
+  title: "#145 - O futuro dos multimercados e do cr\xE9dito com a Novus Capital"
 - author: The Journal.
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2024-12-10T00:00:00+00:00'
   description: "After a manhunt lasting nearly a week, authorities have arrested and\
@@ -69,7 +114,7 @@
   path: https://open.spotify.com/episode/156NE7KlB1kMOAaCTlviHB
   title: The Suspect in the UnitedHealth Killing
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id008
   - Tech
   - Youtube
   date: '2024-12-09T16:02:33+00:00'
@@ -115,7 +160,7 @@
   path: https://www.youtube.com/watch?v=OY2x0TyKzIQ
   title: This Video is AI Generated! SORA Review
 - author: ArjanCodes
-  categories: &id002
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -127,8 +172,7 @@
   path: https://www.youtube.com/watch?v=unaEcKvT4lQ
   title: "\u26D3\uFE0F Rust\u2019s Ownership Model Explained in 35 Seconds"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2024-12-09T11:51:29+00:00'
   description: If there was a Wild West in Private Equity (PE), it would be the Lower
     Middle Market (LMM) &#8212; the ecosystem of companies with revenues between $5
@@ -139,7 +183,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/09/agency-risk-in-the-lower-middle-market-a-guide-for-pe-professionals/
   title: 'Agency Risk in the Lower Middle Market: A Guide for PE Professionals'
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2024-12-09T00:00:00+00:00'
   description: "After decades of brutal dictatorship in Syria, the regime of Bashar\
     \ al-Assad fell in a matter of days. WSJ\u2019s Yaroslav Trofimov reports on the\
@@ -173,7 +217,7 @@
   path: https://open.spotify.com/episode/24X93Iszbwc6Kf3bwkUafv
   title: "Victor Haghani \u2013 The Last of the Tactical Allocators (S7E13)"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id004
   date: '2024-12-07T16:00:24+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -182,7 +226,7 @@
   path: https://www.youtube.com/watch?v=V703bl-8QRc
   title: Building a CLI with Python
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id005
   date: '2024-12-06T16:51:28+00:00'
   description: "<p>Foram 25 anos de negocia\xE7\xF5es, guerras diplom\xE1ticas, ataques\
     \ populistas de ambos os lados \u2013 mas finalmente aconteceu. A Uni\xE3o Europeia\
@@ -196,14 +240,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ue-e-mercosul-fecham-acordo-o-problema-sao-os-detalhes/
   title: "UE e Mercosul fecham acordo. O problema s\xE3o os detalhes"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2024-12-06T11:41:45+00:00'
-  description: "Promotions require more than just hard work and results. By mastering\
-    \ the PIE framework, you\u2019ll position yourself for long-term career success."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/06/climbing-the-ladder-in-finance-the-pie-framework-for-investment-professionals/
-  title: 'Climbing the Ladder in Finance: The PIE Framework for Investment Professionals'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
@@ -239,35 +275,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/do-import-tariffs-protect-u-s-firms/
   title: Do Import Tariffs Protect U.S. Firms?
-- author: Market Makers
-  categories: *id005
-  date: '2024-12-05T00:00:00+00:00'
-  description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
-    \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
-    \ https://lp.mmakers.com.br/20-livros-charlie-munger/?xpromo=XE-ME-COMP-MUNGER-SUBMMK-X-DESCRICAOYOUTUBE-X-XNo\
-    \ epis\xF3dio 160 do Market Makers, recebemos Gustavo Montezano, ex-presidente\
-    \ do BNDES e atual fundador da YvY Capital.\_Em uma conversa inspiradora, Gustavo\
-    \ compartilhou hist\xF3rias in\xE9ditas de sua carreira no mercado financeiro,\
-    \ desde o in\xEDcio no Opportunity at\xE9 a presid\xEAncia no BNDES, onde conduziu\
-    \ privatiza\xE7\xF5es e transformou a cultura da institui\xE7\xE3o.Durante o papo,\
-    \ ele revelou sua vis\xE3o transformadora sobre sustentabilidade, transi\xE7\xE3\
-    o energ\xE9tica e a posi\xE7\xE3o estrat\xE9gica do Brasil no cen\xE1rio global.\
-    \ Montezano tamb\xE9m explicou o processo de cria\xE7\xE3o da YvY Capital, destacando\
-    \ a import\xE2ncia da transi\xE7\xE3o para um modelo sustent\xE1vel e a necessidade\
-    \ de investimentos focados em cadeias produtivas de longo prazo.Com nomes de peso\
-    \ como Paulo Guedes e Joaquim Leite em seu time, a YvY busca ser refer\xEAncia\
-    \ na capta\xE7\xE3o de recursos e implementa\xE7\xE3o de projetos que combinem\
-    \ lucratividade e impacto positivo. N\xE3o se esque\xE7a de curtir este v\xED\
-    deo, inscrever-se no canal e ativar as notifica\xE7\xF5es para n\xE3o perder nenhum\
-    \ v\xEDdeo.\_DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
-    \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\_\
-    \ https://lp.mmakers.com.br/lp-dossie-brasil-compoundletter?xpromo=XE-ME-COMP-DOSSIE-SUBMMK-YT-DESCRICAO-XConvidado:\
-    \ Gustavo Montezano, ex-presidente do BNDESApresentadores: Thiago Salom\xE3o (@_salomoney)\
-    \ e Josu\xE9 Guedes (@josueguedes__)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a74a7f1d4a006c12b1a611728
-  path: https://open.spotify.com/episode/6xH9ecq2AHYSnCLa5t1MhM
-  title: "#160 | TRANSI\xC7\xC3O ENERG\xC9TICA, BNDES E A OPORTUNIDADE BILION\xC1\
-    RIA DOS PR\xD3XIMOS 10 ANOS"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -286,7 +293,7 @@
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2024-12-03T21:42:48+00:00'
@@ -305,8 +312,7 @@
   path: https://rpc.cfainstitute.org/en/research/financial-analysts-journal/2024/influence-and-predictive-value-seeking-alpha-articles
   title: Influence and Predictive Value of Seeking Alpha Articles
 - author: Outliers
-  categories: &id008
-  - Podcasts
+  categories: *id006
   date: '2024-12-03T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8ac2ac2d3a651ee391e9a1222b
@@ -314,7 +320,7 @@
   title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
     \ a YVY Capital"
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2024-12-01T15:26:03+00:00'
   description: Exports of GLP-1 Drugs like Ozempic & Wegovy are Driving the Majority
     of Danish GDP Growth
@@ -322,7 +328,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: Marques Brownlee
-  categories: *id007
+  categories: *id008
   date: '2024-11-29T20:32:43+00:00'
   description: 'Transparency mode... in real life
 
@@ -377,13 +383,6 @@
   image: https://i2.ytimg.com/vi/EFiHm6WjhNA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
-- author: Outliers
-  categories: *id008
-  date: '2024-11-27T00:00:00+00:00'
-  description: ''
-  image: https://i.scdn.co/image/ab6765630000ba8a9980b751d4548c0b05b483c3
-  path: https://open.spotify.com/episode/2SMIHujmrDXmKqovYeYZn7
-  title: '#143 - FIDCs com a Solis: o que esperar para 2025?'
 - author: The Overshoot
   categories: &id010
   - Macro
