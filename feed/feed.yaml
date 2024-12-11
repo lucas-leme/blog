@@ -1,5 +1,17 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-11T16:00:26+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/M3lOr8216EU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=M3lOr8216EU
+  title: Follow These Standards for Better APIs
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2024-12-11T15:44:28+00:00'
   description: Tariff threats are sending analysts' heads spinning. What will be the
@@ -97,7 +109,7 @@
   path: https://open.spotify.com/episode/0sniVZLdHD3iuXEhG0iDkX
   title: "#145 - O futuro dos multimercados e do cr\xE9dito com a Novus Capital"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-10T00:00:00+00:00'
   description: "After a manhunt lasting nearly a week, authorities have arrested and\
@@ -160,10 +172,7 @@
   path: https://www.youtube.com/watch?v=OY2x0TyKzIQ
   title: This Video is AI Generated! SORA Review
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-12-09T16:00:54+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -172,7 +181,7 @@
   path: https://www.youtube.com/watch?v=unaEcKvT4lQ
   title: "\u26D3\uFE0F Rust\u2019s Ownership Model Explained in 35 Seconds"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-12-09T11:51:29+00:00'
   description: If there was a Wild West in Private Equity (PE), it would be the Lower
     Middle Market (LMM) &#8212; the ecosystem of companies with revenues between $5
@@ -183,7 +192,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/09/agency-risk-in-the-lower-middle-market-a-guide-for-pe-professionals/
   title: 'Agency Risk in the Lower Middle Market: A Guide for PE Professionals'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-09T00:00:00+00:00'
   description: "After decades of brutal dictatorship in Syria, the regime of Bashar\
     \ al-Assad fell in a matter of days. WSJ\u2019s Yaroslav Trofimov reports on the\
@@ -216,15 +225,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a999a54f276fd44ac0bc10f2a
   path: https://open.spotify.com/episode/24X93Iszbwc6Kf3bwkUafv
   title: "Victor Haghani \u2013 The Last of the Tactical Allocators (S7E13)"
-- author: ArjanCodes
-  categories: *id004
-  date: '2024-12-07T16:00:24+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/V703bl-8QRc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=V703bl-8QRc
-  title: Building a CLI with Python
 - author: "Economia \u2013 Brazil Journal"
   categories: *id005
   date: '2024-12-06T16:51:28+00:00'
