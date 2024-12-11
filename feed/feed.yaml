@@ -1,5 +1,22 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2024-12-11T13:56:21+00:00'
+  description: "<p>A for\xE7a da economia americana \u2013 agora impulsionada pela\
+    \ agenda de incentivo aos investimentos do pr\xF3ximo Governo Trump \u2013 deve\
+    \ manter a tend\xEAncia internacional de alta do d\xF3lar. Enquanto isso, no Brasil\
+    \ o mercado continuar\xE1 pedindo mais juros at\xE9 que a cota\xE7\xE3o do d\xF3\
+    lar se estabilize e as expectativas de infla\xE7\xE3o parem de se distanciar [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/momento-e-do-dolar-e-pos-fixados-e-nao-deve-mudar-tao-cedo-diz-o-ubs/\"\
+    \ rel=\"nofollow\">Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve\
+    \ mudar t\xE3o cedo, diz o UBS</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/momento-e-do-dolar-e-pos-fixados-e-nao-deve-mudar-tao-cedo-diz-o-ubs/
+  title: "Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve mudar t\xE3\
+    o cedo, diz o UBS"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-11T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
@@ -110,7 +127,7 @@
   path: https://www.youtube.com/watch?v=unaEcKvT4lQ
   title: "\u26D3\uFE0F Rust\u2019s Ownership Model Explained in 35 Seconds"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-09T11:51:29+00:00'
   description: If there was a Wild West in Private Equity (PE), it would be the Lower
@@ -165,8 +182,7 @@
   path: https://www.youtube.com/watch?v=V703bl-8QRc
   title: Building a CLI with Python
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id003
   date: '2024-12-06T16:51:28+00:00'
   description: "<p>Foram 25 anos de negocia\xE7\xF5es, guerras diplom\xE1ticas, ataques\
     \ populistas de ambos os lados \u2013 mas finalmente aconteceu. A Uni\xE3o Europeia\
@@ -181,7 +197,7 @@
   path: https://braziljournal.com/ue-e-mercosul-fecham-acordo-o-problema-sao-os-detalhes/
   title: "UE e Mercosul fecham acordo. O problema s\xE3o os detalhes"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-06T11:41:45+00:00'
   description: "Promotions require more than just hard work and results. By mastering\
     \ the PIE framework, you\u2019ll position yourself for long-term career success."
@@ -224,7 +240,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/do-import-tariffs-protect-u-s-firms/
   title: Do Import Tariffs Protect U.S. Firms?
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-12-05T00:00:00+00:00'
   description: "Fique ainda mais inteligente com os 20 livros que moldaram a vida\
     \ de Charlie Munger, um dos maiores investidores de a\xE7\xF5es da hist\xF3ria:\
@@ -269,21 +285,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2024-12-04T21:50:48+00:00'
-  description: "<p>O Cofecon &#8212; o Conselho Federal dos Economistas &#8212; est\xE1\
-    \ pressionando o Congresso para aprovar um projeto de lei que, na pr\xE1tica,\
-    \ criaria uma reserva de mercado, restringindo a concorr\xEAncia em diversas atividades.\
-    \ O PL 3178/2024, de autoria do deputado federal Reginaldo Lopes (PT-MG), estipula\
-    \ que in\xFAmeras atividades tenham que ser desempenhadas exclusivamente por economistas.\_\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/\"\
-    \ rel=\"nofollow\">No Cofecon, economistas buscam um cart\xF3rio pra chamar de\
-    \ seu</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/no-cofecon-economistas-buscam-um-cartorio-pra-chamar-de-seu/
-  title: "No Cofecon, economistas buscam um cart\xF3rio pra chamar de seu"
 - author: Apricitas Economics
   categories: &id006
   - Macro
