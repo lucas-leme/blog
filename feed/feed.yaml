@@ -104,7 +104,7 @@
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -116,7 +116,7 @@
   path: https://www.youtube.com/watch?v=M3lOr8216EU
   title: "\U0001F449\U0001F3FB Follow These Standards for Better APIs"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2024-12-11T15:44:28+00:00'
   description: Tariff threats are sending analysts' heads spinning. What will be the
@@ -140,8 +140,23 @@
   path: https://braziljournal.com/momento-e-do-dolar-e-pos-fixados-e-nao-deve-mudar-tao-cedo-diz-o-ubs/
   title: "Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve mudar t\xE3\
     o cedo, diz o UBS"
-- author: Market Makers
+- author: CFA Institute Research and Policy Center
   categories: &id002
+  - CFA
+  date: '2024-12-11T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2024/green-and-transition-finance-on-the-municipal-level
+  title: 'Green and Transition Finance on the Municipal Level: Case of Huzhou City'
+- author: CFA Institute Research and Policy Center
+  categories: *id002
+  date: '2024-12-11T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2024/attribution-of-portfolios-with-climate-related-signals
+  title: Attribution of Portfolios with Climate-Related Signals
+- author: Market Makers
+  categories: &id003
   - Podcasts
   date: '2024-12-11T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
@@ -170,7 +185,7 @@
   title: 'EX-PRESIDENTE DO BNDES REVELA COMO SALVARAM O BANCO DA CRISE | Corte EP
     #160'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-12-11T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -205,7 +220,7 @@
   title: "#161 | O QUE EST\xC1 ACONTECENDO COM A ARGENTINA AP\xD3S UM ANO DE JAVIER\
     \ MILEI?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-11T00:00:00+00:00'
   description: "Last week, the price of Bitcoin reached $100,000 per coin, an all-time-high\
@@ -219,7 +234,7 @@
   path: https://open.spotify.com/episode/6rum8FQsiY7ndHc8aIJi4J
   title: Bitcoin Hit $100k. What's Next?
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2024-12-11T00:00:00+00:00'
   description: ''
@@ -227,7 +242,7 @@
   path: https://open.spotify.com/episode/0sniVZLdHD3iuXEhG0iDkX
   title: "#145 - O futuro dos multimercados e do cr\xE9dito com a Novus Capital"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-10T00:00:00+00:00'
   description: "After a manhunt lasting nearly a week, authorities have arrested and\
     \ charged a suspect in the killing of UnitedHealth executive Brian Thompson. WSJ\u2019\
@@ -243,7 +258,7 @@
   path: https://open.spotify.com/episode/156NE7KlB1kMOAaCTlviHB
   title: The Suspect in the UnitedHealth Killing
 - author: Marques Brownlee
-  categories: &id008
+  categories: &id009
   - Tech
   - Youtube
   date: '2024-12-09T16:02:33+00:00'
@@ -289,7 +304,7 @@
   path: https://www.youtube.com/watch?v=OY2x0TyKzIQ
   title: This Video is AI Generated! SORA Review
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-12-09T16:00:54+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -298,7 +313,7 @@
   path: https://www.youtube.com/watch?v=unaEcKvT4lQ
   title: "\u26D3\uFE0F Rust\u2019s Ownership Model Explained in 35 Seconds"
 - author: CFA Institute Enterprising Investor
-  categories: *id005
+  categories: *id006
   date: '2024-12-09T11:51:29+00:00'
   description: If there was a Wild West in Private Equity (PE), it would be the Lower
     Middle Market (LMM) &#8212; the ecosystem of companies with revenues between $5
@@ -380,7 +395,7 @@
   path: https://open.spotify.com/episode/4uCD5WNFbDlrZkuRI74Fmc
   title: 'Gambling on America: how the US got hooked on sports betting'
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2024-12-03T21:42:48+00:00'
@@ -390,7 +405,7 @@
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2024-12-03T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8ac2ac2d3a651ee391e9a1222b
@@ -398,7 +413,7 @@
   title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
     \ a YVY Capital"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2024-12-01T15:26:03+00:00'
   description: Exports of GLP-1 Drugs like Ozempic & Wegovy are Driving the Majority
     of Danish GDP Growth
@@ -406,7 +421,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: Marques Brownlee
-  categories: *id008
+  categories: *id009
   date: '2024-11-29T20:32:43+00:00'
   description: 'Transparency mode... in real life
 
@@ -462,7 +477,7 @@
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
 - author: The Overshoot
-  categories: &id009
+  categories: &id010
   - Macro
   - Newsletters
   date: '2024-11-26T18:00:46+00:00'
@@ -788,7 +803,7 @@
   path: https://open.spotify.com/episode/3vuLlR0neMg4EeiAgoykhI
   title: Private Credit Investing in a Post-Fed Rate Cut World
 - author: The Overshoot
-  categories: *id009
+  categories: *id010
   date: '2024-11-08T01:12:00+00:00'
   description: The U.S. macro response to the pandemic preserved living standards
     better than in other economies. Voters responded more to the impact on inflation,
@@ -797,7 +812,7 @@
   path: https://theovershoot.co/p/will-trumps-win-eventually-lead-to
   title: Will Trump's Win (Eventually) Lead to *Lower* Long-Term Interest Rates?
 - author: AQR
-  categories: &id010
+  categories: &id011
   - Quant
   - Papers
   date: '2024-11-06T00:00:00'
@@ -811,7 +826,7 @@
   path: https://www.aqr.com/Insights/Research/Working-Paper/A-Brief-Guide-to-Pricing-and-Taxation-of-Variable-Prepaid-Forwards
   title: A Brief Guide to Pricing and Taxation of Variable Prepaid Forwards
 - author: AQR
-  categories: *id010
+  categories: *id011
   date: '2024-11-01T00:00:00'
   description: "<p class=\"article__date text--small\">\n                        November\
     \ 1, 2024<span class=\"article__author\">\n        <span class=\"separator\">-</span>\n\
