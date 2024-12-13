@@ -1,5 +1,22 @@
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2024-12-13T14:34:12+00:00'
+  description: "<p>Nos \xFAltimos dias, surgiram cr\xEDticas infundadas sobre o Projeto\
+    \ de Lei n\xBA 3178/2024, que busca atualizar a regulamenta\xE7\xE3o da profiss\xE3\
+    o de economista. Publicado originalmente em 1951, o marco regulat\xF3rio atual\
+    \ j\xE1 n\xE3o acompanha as demandas contempor\xE2neas do mercado e das atividades\
+    \ econ\xF4micas. A proposta, de autoria dos deputados Reginaldo Lopes (PT-MG)\
+    \ e Mauro Benevides (PDT-CE) [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-modernizacao-da-profissao-de-economista-e-os-objetivos-do-pl-3178-2024/\"\
+    \ rel=\"nofollow\">A moderniza\xE7\xE3o da profiss\xE3o de economista e os objetivos\
+    \ do PL 3178/2024</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-modernizacao-da-profissao-de-economista-e-os-objetivos-do-pl-3178-2024/
+  title: "A moderniza\xE7\xE3o da profiss\xE3o de economista e os objetivos do PL\
+    \ 3178/2024"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2024-12-13T11:19:53+00:00'
   description: "Understanding the historical context of financial markets is crucial\
@@ -83,8 +100,7 @@
   title: "Argentina\u2019s chainsaw economics: is Javier Milei\u2019s campaign to\
     \ smash the state working?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2024-12-11T23:41:46+00:00'
   description: "<p>Em dois dias, tudo mudou no mercado. O imponder\xE1vel da sa\xFA\
     de do Presidente Lula e um Banco Central mais duro do que o previsto est\xE3o\
@@ -200,29 +216,13 @@
   path: https://www.youtube.com/watch?v=M3lOr8216EU
   title: Follow These Standards for Better APIs
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2024-12-11T15:44:28+00:00'
   description: Tariff threats are sending analysts' heads spinning. What will be the
     consequences for stocks, bonds, and volatility?
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/11/when-tariffs-hit-stocks-bonds-and-volatility/
   title: 'When Tariffs Hit: Stocks, Bonds, and Volatility'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-12-11T13:56:21+00:00'
-  description: "<p>A for\xE7a da economia americana \u2013 agora impulsionada pela\
-    \ agenda de incentivo aos investimentos do pr\xF3ximo Governo Trump \u2013 deve\
-    \ manter a tend\xEAncia internacional de alta do d\xF3lar. Enquanto isso, no Brasil\
-    \ o mercado continuar\xE1 pedindo mais juros at\xE9 que a cota\xE7\xE3o do d\xF3\
-    lar se estabilize e as expectativas de infla\xE7\xE3o parem de se distanciar [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/momento-e-do-dolar-e-pos-fixados-e-nao-deve-mudar-tao-cedo-diz-o-ubs/\"\
-    \ rel=\"nofollow\">Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve\
-    \ mudar t\xE3o cedo, diz o UBS</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/momento-e-do-dolar-e-pos-fixados-e-nao-deve-mudar-tao-cedo-diz-o-ubs/
-  title: "Momento \xE9 do d\xF3lar e p\xF3s-fixados \u2013 e n\xE3o deve mudar t\xE3\
-    o cedo, diz o UBS"
 - author: CFA Institute Research and Policy Center
   categories: &id003
   - CFA
