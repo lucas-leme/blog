@@ -1,8 +1,17 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-12-14T16:00:16+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CvGpqiCrdfE
+  title: "Shutting Down a Product? Here\u2019s What You Need to Know"
+- author: ArjanCodes
+  categories: *id001
   date: '2024-12-13T16:00:57+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I explore uv, a lightning-fast Python package installer and resolver\
@@ -18,7 +27,7 @@
   path: https://www.youtube.com/watch?v=qh98qOND6MI
   title: "I\u2019ve Switched to UV for Python, and So Should You"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2024-12-13T14:34:12+00:00'
   description: "<p>Nos \xFAltimos dias, surgiram cr\xEDticas infundadas sobre o Projeto\
@@ -48,7 +57,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/13/a-guide-for-investment-analysts-toward-a-longer-view-of-us-financial-markets/
   title: 'A Guide for Investment Analysts: Toward a Longer View of US Financial Markets'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2024-12-13T00:00:00+00:00'
   description: "Since the war in Ukraine began, strange attacks have been happening\
@@ -98,7 +107,7 @@
   title: "#162 | COMO IDENTIFICAR EMPRESAS EXTRAORDIN\xC1RIAS E QUE DOMINAR\xC3O O\
     \ FUTURO?"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2024-12-12T00:00:00+00:00'
   description: "This week, a federal judge blocked a proposed $20-billion merger between\
     \ the U.S.\u2019s two largest supermarket chains, Kroger and Albertsons. WSJ\u2019\
@@ -134,7 +143,7 @@
   title: "Argentina\u2019s chainsaw economics: is Javier Milei\u2019s campaign to\
     \ smash the state working?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2024-12-11T23:41:46+00:00'
   description: "<p>Em dois dias, tudo mudou no mercado. O imponder\xE1vel da sa\xFA\
     de do Presidente Lula e um Banco Central mais duro do que o previsto est\xE3o\
@@ -237,15 +246,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20457
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-12-11T16:00:26+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/M3lOr8216EU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=M3lOr8216EU
-  title: "\U0001F449\U0001F3FB Follow These Standards for Better APIs"
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-12-11T15:44:28+00:00'
