@@ -1,3 +1,19 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-12-15T22:48:19+00:00'
+  description: "<p>Com o cen\xE1rio dif\xEDcil para os fundos multimercado, alguns\
+    \ alocadores t\xEAm pressionado os gestores a aumentar o n\xEDvel de risco dos\
+    \ fundos. \xC9 uma tentativa de mostrar aos clientes que vale a pena investir\
+    \ nesses produtos, mesmo quando a atra\xE7\xE3o da renda fixa \xE9 quase irresist\xED\
+    vel. N\xE3o \xE9 essa a sa\xEDda, diz Luis Stuhlberger, fundador [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/stuhlberger-nao-da-para-estar-no-game-sempre/\"\
+    \ rel=\"nofollow\">Stuhlberger: \u201CN\xE3o d\xE1 para estar no game sempre\u201D\
+    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/stuhlberger-nao-da-para-estar-no-game-sempre/
+  title: "Stuhlberger: \u201CN\xE3o d\xE1 para estar no game sempre\u201D"
 - author: The Overshoot
   categories: &id010
   - Macro
@@ -37,8 +53,7 @@
   path: https://www.youtube.com/watch?v=qh98qOND6MI
   title: "I\u2019ve Switched to UV for Python, and So Should You"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2024-12-13T14:34:12+00:00'
   description: "<p>Nos \xFAltimos dias, surgiram cr\xEDticas infundadas sobre o Projeto\
     \ de Lei n\xBA 3178/2024, que busca atualizar a regulamenta\xE7\xE3o da profiss\xE3\
@@ -67,12 +82,12 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/13/a-guide-for-investment-analysts-toward-a-longer-view-of-us-financial-markets/
   title: 'A Guide for Investment Analysts: Toward a Longer View of US Financial Markets'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-12-13T00:00:00+00:00'
   description: "Since the war in Ukraine began, strange attacks have been happening\
     \ across Europe, including a plot to set DHL packages on fire. WSJ\u2019s Bojan\
-    \ Pancevski on Russia\u2019s escalating shadow war in Europe.\_ \_ Further Reading:\
+    \ Pancevski on Russia\u2019s escalating shadow war in Europe.\_\_ \_ Further Reading:\
     \  -Chinese Ship\u2019s Crew Suspected of Deliberately Dragging Anchor for 100\
     \ Miles to Cut Baltic Cables\_ -Russia Suspected of Plotting to Send Incendiary\
     \ Devices on U.S.-Bound Planes\_ -The Misfits Russia Is Recruiting to Spy on the\
@@ -117,7 +132,7 @@
   title: "#162 | COMO IDENTIFICAR EMPRESAS EXTRAORDIN\xC1RIAS E QUE DOMINAR\xC3O O\
     \ FUTURO?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-12-12T00:00:00+00:00'
   description: "This week, a federal judge blocked a proposed $20-billion merger between\
     \ the U.S.\u2019s two largest supermarket chains, Kroger and Albertsons. WSJ\u2019\
@@ -152,20 +167,6 @@
   path: https://open.spotify.com/episode/3uKuU1Jnoutags3cvhJvRH
   title: "Argentina\u2019s chainsaw economics: is Javier Milei\u2019s campaign to\
     \ smash the state working?"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-12-11T23:41:46+00:00'
-  description: "<p>Em dois dias, tudo mudou no mercado. O imponder\xE1vel da sa\xFA\
-    de do Presidente Lula e um Banco Central mais duro do que o previsto est\xE3o\
-    \ furando \u201Ca bolha do pessimismo exagerado\u201D, acelerando o movimento\
-    \ de descompress\xE3o que come\xE7ou na segunda-feira.\_ Como se j\xE1 n\xE3o\
-    \ sobrassem incertezas, a sa\xFAde do Presidente e as consequ\xEAncias pol\xED\
-    ticas de [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/furaram-a-bolha-do-pessimismo/\"\
-    \ rel=\"nofollow\">\u2018Furaram a bolha do pessimismo\u2019\_</a> appeared first\
-    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/furaram-a-bolha-do-pessimismo/
-  title: "\u2018Furaram a bolha do pessimismo\u2019"
 - author: Comunicados Copom
   categories:
   - Bacen
