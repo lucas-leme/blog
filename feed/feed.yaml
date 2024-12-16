@@ -1,3 +1,15 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-16T16:00:15+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/GZ3lxU6Ee-w/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
+  title: Stop Using Bad Names in Your Code
 - author: CFA Institute Enterprising Investor
   categories: &id003
   - CFA
@@ -34,10 +46,7 @@
   path: https://theovershoot.co/p/inflation-and-the-job-market-are
   title: Inflation and the Job Market are Sending Conflicting Signals
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-14T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -45,22 +54,6 @@
   image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CvGpqiCrdfE
   title: "Shutting Down a Product? Here\u2019s What You Need to Know"
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-12-13T16:00:57+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I explore uv, a lightning-fast Python package installer and resolver\
-    \ that could revolutionize the way you manage dependencies. From handling virtual\
-    \ environments and Python versions to simplifying package management, uv does\
-    \ it all with incredible speed and efficiency.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:23 What is uv?\n\
-    1:10 How To Install uv\n2:24 Setting Up The Project\n5:31 What was uv called before\n\
-    6:06 Dependency Management\n7:53 Workspaces\n10:16 Tools\n11:52 Python Versioning\n\
-    13:54 Thoughts and caveats\n15:18 Python Project\n17:11 Outro\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i2.ytimg.com/vi/qh98qOND6MI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=qh98qOND6MI
-  title: "I\u2019ve Switched to UV for Python, and So Should You"
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2024-12-13T14:34:12+00:00'
