@@ -1,3 +1,11 @@
+- author: CFA Institute Research and Policy Center
+  categories: &id005
+  - CFA
+  date: '2024-12-17T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2024/pensions-in-the-age-of-ai
+  title: Pensions in the Age of Artificial Intelligence
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -283,20 +291,12 @@
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
 - author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
+  categories: *id005
   date: '2024-12-11T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2024/green-and-transition-finance-on-the-municipal-level
   title: 'Green and Transition Finance on the Municipal Level: Case of Huzhou City'
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2024-12-11T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2024/attribution-of-portfolios-with-climate-related-signals
-  title: Attribution of Portfolios with Climate-Related Signals
 - author: Market Makers
   categories: *id006
   date: '2024-12-11T00:00:00+00:00'
