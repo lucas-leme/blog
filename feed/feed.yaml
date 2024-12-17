@@ -6,8 +6,23 @@
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2024/pensions-in-the-age-of-ai
   title: Pensions in the Age of Artificial Intelligence
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2024-12-17T00:42:56+00:00'
+  description: "<p>Nesta gradual, incessante e desnecess\xE1ria destrui\xE7\xE3o de\
+    \ riqueza por que passa o Brasil do Governo Lula, duas coisas chamam a aten\xE7\
+    \xE3o. Primeiro, a suposta incapacidade do Planalto de entender que sua pol\xED\
+    tica fiscal \xE9 um tiro na cara, pois vai gerar apenas infla\xE7\xE3o e juros\
+    \ altos na segunda metade do mandato presidencial. At\xE9 agora, a [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/\"\
+    \ rel=\"nofollow\">EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/
+  title: "EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica"
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -27,6 +42,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
+- author: The Journal.
+  categories: &id004
+  - Podcasts
+  date: '2024-12-16T00:00:00+00:00'
+  description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
+    90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
+    \ things around is suddenly out. WSJ\u2019s Asa Fitch explains how the once-dominant\
+    \ chip brand lost its edge.  Further Reading: - He Was Going to Save Intel. He\
+    \ Destroyed $150 Billion of Value Instead.\_ - Intel Co-CEOs Outline Strategy\
+    \ Following Pat Gelsinger\u2019s Ouster\_  Further Listening: - America\u2019\
+    s Answer to the Chip Shortage\_ - Why Washington Went to Wall Street to Revive\
+    \ the Chips Industry\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/1dN8MbGBtZ4AgaJQrOgoPs
+  title: "The Chip Business Is Booming. Why Isn\u2019t Intel?"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -38,8 +68,7 @@
   path: https://open.spotify.com/episode/5jb65BD3KVO91DvfTccwUr
   title: '2025 Economic Outlook: Firing on All Cylinders'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2024-12-15T22:48:19+00:00'
   description: "<p>Com o cen\xE1rio dif\xEDcil para os fundos multimercado, alguns\
     \ alocadores t\xEAm pressionado os gestores a aumentar o n\xEDvel de risco dos\
@@ -64,7 +93,7 @@
   path: https://theovershoot.co/p/inflation-and-the-job-market-are
   title: Inflation and the Job Market are Sending Conflicting Signals
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-12-14T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -72,22 +101,6 @@
   image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CvGpqiCrdfE
   title: "Shutting Down a Product? Here\u2019s What You Need to Know"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2024-12-13T14:34:12+00:00'
-  description: "<p>Nos \xFAltimos dias, surgiram cr\xEDticas infundadas sobre o Projeto\
-    \ de Lei n\xBA 3178/2024, que busca atualizar a regulamenta\xE7\xE3o da profiss\xE3\
-    o de economista. Publicado originalmente em 1951, o marco regulat\xF3rio atual\
-    \ j\xE1 n\xE3o acompanha as demandas contempor\xE2neas do mercado e das atividades\
-    \ econ\xF4micas. A proposta, de autoria dos deputados Reginaldo Lopes (PT-MG)\
-    \ e Mauro Benevides (PDT-CE) [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-modernizacao-da-profissao-de-economista-e-os-objetivos-do-pl-3178-2024/\"\
-    \ rel=\"nofollow\">A moderniza\xE7\xE3o da profiss\xE3o de economista e os objetivos\
-    \ do PL 3178/2024</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-modernizacao-da-profissao-de-economista-e-os-objetivos-do-pl-3178-2024/
-  title: "A moderniza\xE7\xE3o da profiss\xE3o de economista e os objetivos do PL\
-    \ 3178/2024"
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2024-12-13T11:19:53+00:00'
@@ -115,8 +128,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/13122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 13/12/2024"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id004
   date: '2024-12-13T00:00:00+00:00'
   description: "Since the war in Ukraine began, strange attacks have been happening\
     \ across Europe, including a plot to set DHL packages on fire. WSJ\u2019s Bojan\
@@ -164,21 +176,6 @@
   path: https://open.spotify.com/episode/6NKlbwlhrvyRKmdgTeR2Ey
   title: "#162 | COMO IDENTIFICAR EMPRESAS EXTRAORDIN\xC1RIAS E QUE DOMINAR\xC3O O\
     \ FUTURO?"
-- author: The Journal.
-  categories: *id004
-  date: '2024-12-12T00:00:00+00:00'
-  description: "This week, a federal judge blocked a proposed $20-billion merger between\
-    \ the U.S.\u2019s two largest supermarket chains, Kroger and Albertsons. WSJ\u2019\
-    s Patrick Thomas reports on what happened in the trial, why the two chains turned\
-    \ on one another and what\u2019s next for the grocery business.  Further Listening:\
-    \  - The Fight for 7-Eleven\_ - Why the FTC is Challenging a $25 Billion Supermarket\
-    \ Merger\_  Further Reading:  - Albertsons Sues Kroger, Terminates Merger After\
-    \ Judge Blocks Supermarket Megadeal\_ - Kroger-Albertsons Merger Blocked by Court,\
-    \ Handing Victory to Biden Antitrust Enforcers\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0ZJ2ZhEQNHrAFWgDdvqNi8
-  title: "The Biggest Supermarket Merger That Wasn\u2019t"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
