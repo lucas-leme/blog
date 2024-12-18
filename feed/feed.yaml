@@ -1,6 +1,13 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id001
   - CFA
+  date: '2024-12-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2024/mind-the-gender-gap-edition-2
+  title: Mind the Gender Gap Edition 2
+- author: CFA Institute Research and Policy Center
+  categories: *id001
   date: '2024-12-17T12:00:00+00:00'
   description: ''
   image: null
@@ -326,7 +333,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/11122024
   title: "BC - Copom Ata - 267\xAA Reuni\xE3o - 10-11 dezembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id003
   - Economia
   date: '2024-12-17T00:42:56+00:00'
   description: "<p>Nesta gradual, incessante e desnecess\xE1ria destrui\xE7\xE3o de\
@@ -341,7 +348,7 @@
   path: https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/
   title: "EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-12-17T00:00:00+00:00'
   description: "MBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com DOSSI\xCA\
@@ -370,8 +377,21 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae13172dba7f6d0ab8d33f6d7
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
-- author: ArjanCodes
+- author: The Journal.
   categories: &id002
+  - Podcasts
+  date: '2024-12-17T00:00:00+00:00'
+  description: "After nearly a decade and $10 billion in development, General Motors\
+    \ is ending its robotaxi program. WSJ\u2019s Christopher Otts explains why Cruise\
+    \ wasn\u2019t working for the legacy car company.  Further Reading:  -General\
+    \ Motors Scraps Cruise Robotaxi Program\_ -GM\u2019s Self-Driving Car Unit Skids\
+    \ Off Course\_  Further Listening:  -How Waymo Won Over San Francisco\_   Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/38woLEb50zuiR7h6PDWpYn
+  title: Why GM Is Giving Up on Cruise Robotaxis
+- author: ArjanCodes
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -383,7 +403,7 @@
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: Stop Using Bad Names in Your Code
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id005
   - CFA
   date: '2024-12-16T12:08:25+00:00'
   description: What is an enterprise approach to investment management, and why should
@@ -392,8 +412,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2024-12-16T00:00:00+00:00'
   description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
     90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
@@ -417,7 +436,7 @@
   path: https://open.spotify.com/episode/5jb65BD3KVO91DvfTccwUr
   title: '2025 Economic Outlook: Firing on All Cylinders'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id003
   date: '2024-12-15T22:48:19+00:00'
   description: "<p>Com o cen\xE1rio dif\xEDcil para os fundos multimercado, alguns\
     \ alocadores t\xEAm pressionado os gestores a aumentar o n\xEDvel de risco dos\
@@ -442,7 +461,7 @@
   path: https://theovershoot.co/p/inflation-and-the-job-market-are
   title: Inflation and the Job Market are Sending Conflicting Signals
 - author: ArjanCodes
-  categories: *id002
+  categories: *id004
   date: '2024-12-14T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -451,7 +470,7 @@
   path: https://www.youtube.com/watch?v=CvGpqiCrdfE
   title: "Shutting Down a Product? Here\u2019s What You Need to Know"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id005
   date: '2024-12-13T11:19:53+00:00'
   description: "Understanding the historical context of financial markets is crucial\
     \ for investment professionals seeking to make informed decisions in today\u2019\
@@ -476,23 +495,8 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/13122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 13/12/2024"
-- author: The Journal.
-  categories: *id004
-  date: '2024-12-13T00:00:00+00:00'
-  description: "Since the war in Ukraine began, strange attacks have been happening\
-    \ across Europe, including a plot to set DHL packages on fire. WSJ\u2019s Bojan\
-    \ Pancevski on Russia\u2019s escalating shadow war in Europe.\_\_ \_ Further Reading:\
-    \  -Chinese Ship\u2019s Crew Suspected of Deliberately Dragging Anchor for 100\
-    \ Miles to Cut Baltic Cables\_ -Russia Suspected of Plotting to Send Incendiary\
-    \ Devices on U.S.-Bound Planes\_ -The Misfits Russia Is Recruiting to Spy on the\
-    \ West\_  Further Listening:  -Elon Musk\u2019s Secret Conversations with Vladimir\
-    \ Putin\_ -How Ukraine Built a Weapon to Control the Black Sea\_   Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/5VBon2JtaPcrxl1yPO6N7U
-  title: The Suspected Russian Plot to Set Airplanes on Fire
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-12-12T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -635,13 +639,6 @@
   path: https://www.bcb.gov.br/controleinflacao/comunicadoscopom/20457
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
-- author: CFA Institute Research and Policy Center
-  categories: *id006
-  date: '2024-12-11T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2024/green-and-transition-finance-on-the-municipal-level
-  title: 'Green and Transition Finance on the Municipal Level: Case of Huzhou City'
 - author: Outliers
   categories: &id007
   - Podcasts
