@@ -1,5 +1,17 @@
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-18T16:00:07+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/8tf-9ekVD-s/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8tf-9ekVD-s
+  title: 'Mojo vs. Rust: Which Should You Pick?'
+- author: CFA Institute Enterprising Investor
+  categories: &id004
   - CFA
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
@@ -404,7 +416,7 @@
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-17T00:00:00+00:00'
   description: "After nearly a decade and $10 billion in development, General Motors\
@@ -417,10 +429,7 @@
   path: https://open.spotify.com/episode/38woLEb50zuiR7h6PDWpYn
   title: Why GM Is Giving Up on Cruise Robotaxis
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2024-12-16T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -429,7 +438,7 @@
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: "\u274C Stop Using Bad Names in Your Code"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-16T12:08:25+00:00'
   description: What is an enterprise approach to investment management, and why should
     it be a staple on any institutional investor's task list?
@@ -437,7 +446,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-12-16T00:00:00+00:00'
   description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
     90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
@@ -470,15 +479,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8722ce03-88d7-46f1-8cc4-a1a8191c67ee_5000x4313.png
   path: https://theovershoot.co/p/inflation-and-the-job-market-are
   title: Inflation and the Job Market are Sending Conflicting Signals
-- author: ArjanCodes
-  categories: *id005
-  date: '2024-12-14T16:00:16+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=CvGpqiCrdfE
-  title: "\U0001F440 Shutting Down a Product? Here\u2019s What You Need to Know"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
