@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -11,7 +11,7 @@
   path: https://www.youtube.com/watch?v=8tf-9ekVD-s
   title: 'Mojo vs. Rust: Which Should You Pick?'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
@@ -52,6 +52,52 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
   title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-12-18T00:00:00+00:00'
+  description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
+    \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
+    \ Link \U0001F449 https://lp.mmakers.com.br/lp-dossie-brasil-compoundletter?xpromo=XE-ME-COMP-DOSSIE-SUBMMK-YT-CORTES-EP162O\
+    \ pre\xE7o realmente importa para decidir se devemos comprar ou vender a\xE7\xF5\
+    es?No v\xEDdeo de hoje, discutimos a complexidade do pre\xE7o no mercado financeiro,\
+    \ especialmente quando se trata de empresas com grande potencial de crescimento,\
+    \ mas cujas m\xE9tricas tradicionais de valuation nem sempre refletem seu verdadeiro\
+    \ valor. O conceito de discounted cash flow (DCF) \xE9 analisado e questionado,\
+    \ j\xE1 que prever o futuro financeiro de uma empresa com precis\xE3o \xE9 uma\
+    \ tarefa praticamente imposs\xEDvel. O corte tamb\xE9m aborda a estrat\xE9gia\
+    \ de longo prazo, a import\xE2ncia de n\xE3o focar apenas no pre\xE7o de uma a\xE7\
+    \xE3o, e a relev\xE2ncia das perguntas feitas pelos analistas financeiros, como\
+    \ o \"sell side\". Al\xE9m disso, exploramos o impacto da paci\xEAncia e da consist\xEA\
+    ncia em um portf\xF3lio de investimentos, com exemplos de empresas como Google\
+    \ e Facebook, que priorizam reinvestimentos em vez de focar em margens de lucro\
+    \ no curto prazo.E voc\xEA, acredita que o pre\xE7o pode realmente definir uma\
+    \ boa oportunidade de investimento ou o foco deve estar no longo prazo?Se gostou\
+    \ do conte\xFAdo, deixe seu like e n\xE3o se esque\xE7a de se inscrever no canal\
+    \ para n\xE3o perder nenhum v\xEDdeo!\U0001F4FD VEJA O EPIS\xD3DIO COMPLETO NO\
+    \ YOUTUBE:\_https://youtu.be/pmK1-guitc4- - - - - - - - -O QUE N\xC3O TE CONTAM\
+    \ SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE IMPORTA?Apresentador: Thiago\
+    \ Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Convidado: Adriano Almeida,\
+    \ gestor da VII LLCBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a37fa64f8e6563cbb79d3bf32
+  path: https://open.spotify.com/episode/234Kgkj5uhHllrF7BrGuT3
+  title: "O QUE N\xC3O TE CONTAM SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE\
+    \ IMPORTA?"
+- author: Outliers
+  categories: &id007
+  - Podcasts
+  date: '2024-12-18T00:00:00+00:00'
+  description: "-----------------------------------------------------------Investir\
+    \ com a XP Investimentos \xE9 f\xE1cil, basta criar o seu cadastro e em minutos\
+    \ voc\xEA j\xE1 pode come\xE7ar a investir: https://t2m.io/youtube-aqsAcompanhe\
+    \ todos os conte\xFAdos da XP em https://t2m.io/8cxPp6xInscreva-se para receber\
+    \ nossa newsletter Expert Drops - https://bit.ly/3uODi6lSiga nosso canal no WhatsApp:\
+    \ https://bit.ly/48njYL6Veja os relat\xF3rios tamb\xE9m pelo Facebook: http://facebook.com.br/expertxp2Participe\
+    \ do canal do Telegram: https://t.me/xp_investimentosConfira nosso Instagram:\
+    \ https://www.instagram.com/expertxp/Gloss\xE1rio financeiro: https://conteudos.xpi.com.br/conteudos-gerais/glossario-financeiro/"
+  image: https://i.scdn.co/image/ab6765630000ba8aa79126ceb0711a86447d0842
+  path: https://open.spotify.com/episode/0FyzOQFm67DYyambzeAI9g
+  title: "#146 - Retrospectiva de 2024 e cr\xE9dito privado em 2025 com a JiveMaua\u0301"
 - author: Atas do Copom
   categories:
   - Bacen
@@ -386,8 +432,7 @@
   path: https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/
   title: "EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica"
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id003
   date: '2024-12-17T00:00:00+00:00'
   description: "MBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com DOSSI\xCA\
     \ BRASIL: baixe agora o documento in\xE9dito com todas as mazelas, inefici\xEA\
@@ -416,7 +461,7 @@
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
 - author: The Journal.
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-12-17T00:00:00+00:00'
   description: "After nearly a decade and $10 billion in development, General Motors\
@@ -429,7 +474,7 @@
   path: https://open.spotify.com/episode/38woLEb50zuiR7h6PDWpYn
   title: Why GM Is Giving Up on Cruise Robotaxis
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2024-12-16T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -438,7 +483,7 @@
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: "\u274C Stop Using Bad Names in Your Code"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-12-16T12:08:25+00:00'
   description: What is an enterprise approach to investment management, and why should
     it be a staple on any institutional investor's task list?
@@ -446,7 +491,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
 - author: The Journal.
-  categories: *id005
+  categories: *id006
   date: '2024-12-16T00:00:00+00:00'
   description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
     90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
@@ -493,39 +538,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/13122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 13/12/2024"
-- author: Market Makers
-  categories: *id006
-  date: '2024-12-12T00:00:00+00:00'
-  description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
-    \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
-    \ Link \U0001F449 https://lp.mmakers.com.br/lp-dossie-brasil-compoundletter?xpromo=XE-ME-COMP-DOSSIE-SUBMMK-YT-DESCRICAO-XQual\
-    \ \xE9 o segredo por tr\xE1s das empresas que transformam R$ 1 milh\xE3o em R$\
-    \ 100 milh\xF5es e como voc\xEA pode aplicar isso aos seus investimentos?\_Neste\
-    \ epis\xF3dio, Adriano Almeida, gestor da VII LLC, compartilha sua filosofia \xFA\
-    nica de investimento e como ele identifica as empresas com maior potencial de\
-    \ crescimento e resili\xEAncia. Inspirado pela met\xE1fora das col\xF4nias de\
-    \ formigas, Adriano explica como o prop\xF3sito claro, a intelig\xEAncia coletiva\
-    \ e o crescimento secular s\xE3o os pilares que sustentam neg\xF3cios duradouros.\
-    \ Vamos explorar como ele analisa os mercados globais, desde os Estados Unidos\
-    \ at\xE9 o Brasil, para encontrar a\xE7\xF5es que valem a pena segurar por d\xE9\
-    cadas.Adriano tamb\xE9m falou sobre as caracter\xEDsticas essenciais das empresas\
-    \ que prosperam em meio a crises e como essas li\xE7\xF5es podem ser aplicadas\
-    \ ao mercado brasileiro, conhecido por sua volatilidade. Ele compartilha exemplos\
-    \ pr\xE1ticos de empresas que seguiram esse modelo, os erros que os investidores\
-    \ mais cometem ao avaliar a\xE7\xF5es e o papel transformador da cultura empresarial.\
-    \ Ao longo da conversa, discutimos tamb\xE9m o impacto do prop\xF3sito nas organiza\xE7\
-    \xF5es, o papel da lideran\xE7a na constru\xE7\xE3o de valor e como as empresas\
-    \ podem ser mais do que n\xFAmeros em um balan\xE7o. Adriano compartilha insights\
-    \ valiosos para quem busca investir de forma consciente e estrat\xE9gica, mostrando\
-    \ como a paci\xEAncia e a vis\xE3o de longo prazo podem gerar retornos extraordin\xE1\
-    rios.Neste epis\xF3dio voc\xEA vai aprender como evitar armadilhas comuns, identificar\
-    \ neg\xF3cios com vantagens competitivas reais e investir com foco no longo prazo.Apresentadores:\
-    \ Thiago Salom\xE3o (@_salomoney) e Matheus Soares (@maatssoares)Convidado: Adriano\
-    \ Almeida, gestor da VII LLCBecome a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8abd308461bfc006bfa798f37d
-  path: https://open.spotify.com/episode/6NKlbwlhrvyRKmdgTeR2Ey
-  title: "#162 | COMO IDENTIFICAR EMPRESAS EXTRAORDIN\xC1RIAS E QUE DOMINAR\xC3O O\
-    \ FUTURO?"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -638,8 +650,7 @@
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
 - author: Outliers
-  categories: &id007
-  - Podcasts
+  categories: *id007
   date: '2024-12-11T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a9257c93051a1cedc653a3448
@@ -741,14 +752,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8bf302e-34a9-449f-a7d2-def53067989f_2886x1843.png
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
-- author: Outliers
-  categories: *id007
-  date: '2024-12-03T00:00:00+00:00'
-  description: ''
-  image: https://i.scdn.co/image/ab6765630000ba8ac2ac2d3a651ee391e9a1222b
-  path: https://open.spotify.com/episode/3NPCoy1bpgM3Cp9zpEKM5b
-  title: "#144 - O CR\xC9DITO na TRANSFORMA\xC7\xC3O da INFRAESTRUTURA no BRASIL com\
-    \ a YVY Capital"
 - author: Apricitas Economics
   categories: *id008
   date: '2024-12-01T15:26:03+00:00'
