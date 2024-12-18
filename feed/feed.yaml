@@ -1,3 +1,14 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2024-12-18T12:46:36+00:00'
+  description: Net-zero investing will continue growing as emissions-reduction plans
+    and programs take hold, climate change solution opportunities increase, and the
+    industry develops better tools and skills to measure and manage climate change
+    risk.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/18/navigating-net-zero-investing-benchmarks-incentives-and-time-horizons/
+  title: Navigating Net-Zero Investing Benchmarks, Incentives, and Time Horizons
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
@@ -393,7 +404,7 @@
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-17T00:00:00+00:00'
   description: "After nearly a decade and $10 billion in development, General Motors\
@@ -406,7 +417,7 @@
   path: https://open.spotify.com/episode/38woLEb50zuiR7h6PDWpYn
   title: Why GM Is Giving Up on Cruise Robotaxis
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -418,8 +429,7 @@
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: "\u274C Stop Using Bad Names in Your Code"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2024-12-16T12:08:25+00:00'
   description: What is an enterprise approach to investment management, and why should
     it be a staple on any institutional investor's task list?
@@ -427,7 +437,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-16T00:00:00+00:00'
   description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
     90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
@@ -461,7 +471,7 @@
   path: https://theovershoot.co/p/inflation-and-the-job-market-are
   title: Inflation and the Job Market are Sending Conflicting Signals
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-12-14T16:00:16+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -469,18 +479,6 @@
   image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CvGpqiCrdfE
   title: "\U0001F440 Shutting Down a Product? Here\u2019s What You Need to Know"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-12-13T11:19:53+00:00'
-  description: "Understanding the historical context of financial markets is crucial\
-    \ for investment professionals seeking to make informed decisions in today\u2019\
-    s complex landscape. This exploration of historical data stretching back more\
-    \ than 230 years reveals how markets have evolved and how continuity and change\
-    \ shape investment opportunities. From the dominance of railroads in the 19th\
-    \ century to [&#8230;]"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/13/a-guide-for-investment-analysts-toward-a-longer-view-of-us-financial-markets/
-  title: 'A Guide for Investment Analysts: Toward a Longer View of US Financial Markets'
 - author: RSS - Feeds do BC
   categories:
   - Bacen
