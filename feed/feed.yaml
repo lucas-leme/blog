@@ -6,6 +6,22 @@
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2024/mind-the-gender-gap-edition-2
   title: Mind the Gender Gap Edition 2
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2024-12-18T03:15:05+00:00'
+  description: "<p>Voc\xEAs est\xE3o a\xED sofrendo com o d\xF3lar e os juros em patamares\
+    \ pand\xEAmicos &#8212; tudo porque o Governo n\xE3o consegue fechar as contas\
+    \ apesar de cobrar a maior carga tribut\xE1ria do hemisf\xE9rio ocidental.\_ Mas\
+    \ pelo menos um contribuinte est\xE1 rindo \xE0 toa: o Grupo Atem, a refinaria\
+    \ que domina o mercado de combust\xEDveis no Norte [&#8230;]</p>\n<p>The post\
+    \ <a href=\"https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/\"\
+    \ rel=\"nofollow\">O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da\
+    \ Atem no Congresso</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
+  title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2024-12-17T12:00:00+00:00'
@@ -333,8 +349,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/11122024
   title: "BC - Copom Ata - 267\xAA Reuni\xE3o - 10-11 dezembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2024-12-17T00:42:56+00:00'
   description: "<p>Nesta gradual, incessante e desnecess\xE1ria destrui\xE7\xE3o de\
     \ riqueza por que passa o Brasil do Governo Lula, duas coisas chamam a aten\xE7\
@@ -378,7 +393,7 @@
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-12-17T00:00:00+00:00'
   description: "After nearly a decade and $10 billion in development, General Motors\
@@ -401,7 +416,7 @@
     \ #softwaredesign #python"
   image: https://i4.ytimg.com/vi/GZ3lxU6Ee-w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
-  title: Stop Using Bad Names in Your Code
+  title: "\u274C Stop Using Bad Names in Your Code"
 - author: CFA Institute Enterprising Investor
   categories: &id005
   - CFA
@@ -412,7 +427,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-12-16T00:00:00+00:00'
   description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
     90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
@@ -435,21 +450,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/5jb65BD3KVO91DvfTccwUr
   title: '2025 Economic Outlook: Firing on All Cylinders'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2024-12-15T22:48:19+00:00'
-  description: "<p>Com o cen\xE1rio dif\xEDcil para os fundos multimercado, alguns\
-    \ alocadores t\xEAm pressionado os gestores a aumentar o n\xEDvel de risco dos\
-    \ fundos. \xC9 uma tentativa de mostrar aos clientes que vale a pena investir\
-    \ nesses produtos, mesmo quando a atra\xE7\xE3o da renda fixa \xE9 quase irresist\xED\
-    vel. N\xE3o \xE9 essa a sa\xEDda, diz Luis Stuhlberger, fundador [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/stuhlberger-nao-da-para-estar-no-game-sempre/\"\
-    \ rel=\"nofollow\">Stuhlberger: \u201CN\xE3o d\xE1 para estar no game sempre\u201D\
-    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/stuhlberger-nao-da-para-estar-no-game-sempre/
-  title: "Stuhlberger: \u201CN\xE3o d\xE1 para estar no game sempre\u201D"
 - author: The Overshoot
   categories: &id010
   - Macro
@@ -468,7 +468,7 @@
     \ #softwaredesign #python"
   image: https://i4.ytimg.com/vi/CvGpqiCrdfE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CvGpqiCrdfE
-  title: "Shutting Down a Product? Here\u2019s What You Need to Know"
+  title: "\U0001F440 Shutting Down a Product? Here\u2019s What You Need to Know"
 - author: CFA Institute Enterprising Investor
   categories: *id005
   date: '2024-12-13T11:19:53+00:00'
