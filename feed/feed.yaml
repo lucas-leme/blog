@@ -1,3 +1,30 @@
+- author: The Overshoot
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2024-12-19T06:52:47+00:00'
+  description: Just compare what they were willing to accept back in June to what
+    they hope will happen now.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4459c299-2ff6-490a-ba71-4de8ee1867fe_4996x4413.png
+  path: https://theovershoot.co/p/fed-officials-really-dont-want-a
+  title: Fed Officials Really Don't Want a Downturn
+- author: "Relat\xF3rio de Infla\xE7\xE3o"
+  categories:
+  - Bacen
+  - BC
+  date: '2024-12-19T00:00:00-03:00'
+  description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
+    ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
+    \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
+    \xF5es s\xE3o apresentadas em cen\xE1rios com condicionantes para algumas vari\xE1\
+    veis econ\xF4micas. O Copom utiliza um conjunto amplo de modelos e cen\xE1rios\
+    \ para orientar suas decis\xF5es de pol\xEDtica monet\xE1ria. Ao expor alguns\
+    \ desses cen\xE1rios, o Copom procura dar maior transpar\xEAncia \xE0s decis\xF5\
+    es de pol\xEDtica monet\xE1ria, contribuindo para sua efic\xE1cia no controle\
+    \ da infla\xE7\xE3o, que \xE9 seu objetivo prec\xEDpuo."
+  image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
+  path: https://www.bcb.gov.br/publicacoes/ri/202412
+  title: 'BC - RI: dezembro/2024'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -100,7 +127,7 @@
   path: https://open.spotify.com/episode/6qVnn8IdoyS2mcv0VqzgvG
   title: "Readers Can\u2019t Get Enough of BookTok. Publishers Are Cashing In."
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2024-12-18T00:00:00+00:00'
   description: "-----------------------------------------------------------Investir\
@@ -496,7 +523,7 @@
     \ #softwaredesign #python"
   image: https://i4.ytimg.com/vi/GZ3lxU6Ee-w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
-  title: "\u274C Stop Using Bad Names in Your Code"
+  title: Stop Using Bad Names in Your Code
 - author: CFA Institute Enterprising Investor
   categories: *id006
   date: '2024-12-16T12:08:25+00:00'
@@ -516,9 +543,7 @@
   path: https://open.spotify.com/episode/5jb65BD3KVO91DvfTccwUr
   title: '2025 Economic Outlook: Firing on All Cylinders'
 - author: The Overshoot
-  categories: &id010
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2024-12-15T18:52:27+00:00'
   description: While income growth and inflation remain stubbornly faster than pre-pandemic,
     measures of joblessness and employment may be deteriorating.
@@ -651,14 +676,14 @@
   title: "BC - Copom Comunicado - 267\xAA Reuni\xE3o - Copom eleva a taxa Selic para\
     \ 12,25% a.a."
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2024-12-11T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a9257c93051a1cedc653a3448
   path: https://open.spotify.com/episode/0sniVZLdHD3iuXEhG0iDkX
   title: "#145 - O futuro dos multimercados e do cr\xE9dito com a Novus Capital"
 - author: Marques Brownlee
-  categories: &id009
+  categories: &id010
   - Tech
   - Youtube
   date: '2024-12-09T16:02:33+00:00'
@@ -744,7 +769,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/do-import-tariffs-protect-u-s-firms/
   title: Do Import Tariffs Protect U.S. Firms?
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2024-12-03T21:42:48+00:00'
@@ -754,7 +779,7 @@
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2024-12-01T15:26:03+00:00'
   description: Exports of GLP-1 Drugs like Ozempic & Wegovy are Driving the Majority
     of Danish GDP Growth
@@ -762,7 +787,7 @@
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
 - author: Marques Brownlee
-  categories: *id009
+  categories: *id010
   date: '2024-11-29T20:32:43+00:00'
   description: 'Transparency mode... in real life
 
@@ -817,15 +842,6 @@
   image: https://i2.ytimg.com/vi/EFiHm6WjhNA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EFiHm6WjhNA
   title: "I Tried the Weirdest \u201COpen\u201D Headphones"
-- author: The Overshoot
-  categories: *id010
-  date: '2024-11-26T18:00:46+00:00'
-  description: An exclusive interview with the president of Federal Reserve Bank of
-    Chicago, who will be a voting member of the FOMC in 2025.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0951d654-5282-40a2-b17c-c86fe281ece3_5000x4492.png
-  path: https://theovershoot.co/p/the-chicago-feds-austan-goolsbee
-  title: The Chicago Fed's Austan Goolsbee on Inflation, the Stance of Monetary Policy,
-    the "Field Guide to R-Star", Managing Supply Shocks, and More
 - author: AQR
   categories: &id011
   - Quant
@@ -853,23 +869,6 @@
   path: https://www.aqr.com/Insights/Research/White-Papers/Seeking-Resilient-Growth-Why-Its-Time-for-the-LGPS-to-Consider-Liquid-Alternatives
   title: "Seeking Resilient Growth: Why It\u2019s Time for the LGPS to Consider Liquid\
     \ Alternatives"
-- author: "Relat\xF3rio de Infla\xE7\xE3o"
-  categories:
-  - Bacen
-  - BC
-  date: '2024-09-26T00:00:00-03:00'
-  description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
-    ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
-    \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
-    \xF5es s\xE3o apresentadas em cen\xE1rios com condicionantes para algumas vari\xE1\
-    veis econ\xF4micas. O Copom utiliza um conjunto amplo de modelos e cen\xE1rios\
-    \ para orientar suas decis\xF5es de pol\xEDtica monet\xE1ria. Ao expor alguns\
-    \ desses cen\xE1rios, o Copom procura dar maior transpar\xEAncia \xE0s decis\xF5\
-    es de pol\xEDtica monet\xE1ria, contribuindo para sua efic\xE1cia no controle\
-    \ da infla\xE7\xE3o, que \xE9 seu objetivo prec\xEDpuo."
-  image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
-  path: https://www.bcb.gov.br/publicacoes/ri/202409
-  title: 'BC - RI: setembro/2024'
 - author: The Morgan Housel Podcast
   categories:
   - Podcasts
