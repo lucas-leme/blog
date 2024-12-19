@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id009
+  - Tech
+  - Youtube
+  date: '2024-12-19T17:25:27+00:00'
+  description: The AI Generated Video Wars have already begun
+  image: https://i4.ytimg.com/vi/74J0uiZk29k/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=74J0uiZk29k
+  title: SORA vs VEO 2 - AI Generated Videos
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -25,6 +34,21 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2024-12-19T00:00:00+00:00'
+  description: "It\u2019s the time of the year when the Money Talks hosts kick back\
+    \ with a glass of cheap sparkling wine and test their knowledge of the year\u2019\
+    s business and economics stories in our annual festive quiz. But can you beat\
+    \ them?Hosts: Mike Bird, Alice Fulwood, Tom Lee-Devlin and Ethan Wu.Transcripts\
+    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
+    \ most, from global politics and business to science and technology\u2014subscribe\
+    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
+    \ please visit our FAQs page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
+  path: https://open.spotify.com/episode/1Bb9sI8xEx40hGspCLDKfz
+  title: 'Quizmas time: are you smarter than the Money Talks hosts?'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -564,27 +588,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/13122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 13/12/2024"
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2024-12-12T00:00:00+00:00'
-  description: "Argentina has become famous for its repeated defaults and rampant\
-    \ inflation. Successive governments have promised to get the country out of its\
-    \ economic mess, but have failed. Argentina\u2019s current president Javier Milei\
-    \ is a self-described anarcho-capitalist, who came to power with a mandate to\
-    \ slash public spending and end the country's triple-digit inflation. After a\
-    \ year in the job, what impact have his drastic measures had?Hosts: Mike Bird,\
-    \ Ethan Wu, and Alice Fulwood. Guests: The Economist\u2019s Kinley Salmon; Santiago\
-    \ Bulat, director of the Argentinian economic consultancy Invecq; and Brad Setser\
-    \ of the Council on Foreign Relations.Transcripts of our podcasts are available\
-    \ via economist.com/podcasts.Listen to what matters most, from global politics\
-    \ and business to science and technology\u2014subscribe to Economist Podcasts+.For\
-    \ more information about how to access Economist Podcasts+, please visit our FAQs\
-    \ page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
-  path: https://open.spotify.com/episode/3uKuU1Jnoutags3cvhJvRH
-  title: "Argentina\u2019s chainsaw economics: is Javier Milei\u2019s campaign to\
-    \ smash the state working?"
 - author: Comunicados Copom
   categories:
   - Bacen
@@ -683,9 +686,7 @@
   path: https://open.spotify.com/episode/0sniVZLdHD3iuXEhG0iDkX
   title: "#145 - O futuro dos multimercados e do cr\xE9dito com a Novus Capital"
 - author: Marques Brownlee
-  categories: &id010
-  - Tech
-  - Youtube
+  categories: *id009
   date: '2024-12-09T16:02:33+00:00'
   description: 'SORA generates videos. This is the first review.
 
@@ -769,7 +770,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/do-import-tariffs-protect-u-s-firms/
   title: Do Import Tariffs Protect U.S. Firms?
 - author: Apricitas Economics
-  categories: &id009
+  categories: &id010
   - Macro
   - Newsletters
   date: '2024-12-03T21:42:48+00:00'
@@ -779,69 +780,13 @@
   path: https://www.apricitas.io/p/low-income-countries-are-falling
   title: Low-Income Countries are Falling Behind
 - author: Apricitas Economics
-  categories: *id009
+  categories: *id010
   date: '2024-12-01T15:26:03+00:00'
   description: Exports of GLP-1 Drugs like Ozempic & Wegovy are Driving the Majority
     of Danish GDP Growth
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe081761e-ec32-4ea4-b1c8-e051139c24bf_2886x1843.png
   path: https://www.apricitas.io/p/weight-loss-drugs-continue-to-power
   title: Weight Loss Drugs Continue to Power Denmark's Economy
-- author: Marques Brownlee
-  categories: *id010
-  date: '2024-11-29T20:32:43+00:00'
-  description: 'Transparency mode... in real life
-
-
-    Sennheiser HD650: https://geni.us/1nlHAU
-
-    Sony Linkbuds Open: https://geni.us/s3rW7
-
-    Bose Ultra Open: https://geni.us/aAnyN
-
-    Nothing Ear Open: https://geni.us/KGInx
-
-    NWM Open Back Headphones: https://geni.us/75Hoj1
-
-    Movengine UM-600: https://geni.us/fzifyEN
-
-
-    Note: The Bose DO support multipoint bluetooth!
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD
-
-
-    0:00 Intro
-
-    1:00 Hole style buds (Sony Linkbuds)
-
-    3:00 Clip style buds (Bose Ultra Open)
-
-    5:23 Hook style (Nothing Ear Open)
-
-    8:09 Fully Open Headphones (NWM One)
-
-    10:46 Headphone hole (Prototype)
-
-    12:55 But... Modern Headphones'
-  image: https://i2.ytimg.com/vi/EFiHm6WjhNA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=EFiHm6WjhNA
-  title: "I Tried the Weirdest \u201COpen\u201D Headphones"
 - author: AQR
   categories: &id011
   - Quant
