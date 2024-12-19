@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -11,7 +11,7 @@
   path: https://www.youtube.com/watch?v=8tf-9ekVD-s
   title: 'Mojo vs. Rust: Which Should You Pick?'
 - author: CFA Institute Enterprising Investor
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
@@ -83,6 +83,22 @@
   path: https://open.spotify.com/episode/234Kgkj5uhHllrF7BrGuT3
   title: "O QUE N\xC3O TE CONTAM SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE\
     \ IMPORTA?"
+- author: The Journal.
+  categories: &id004
+  - Podcasts
+  date: '2024-12-18T00:00:00+00:00'
+  description: "BookTok, the corner of TikTok that\u2019s all about books, has shaken\
+    \ up the publishing world. Over the last few years, the platform has pulled in\
+    \ new readers, especially in the romance and fantasy genres. And now some of the\
+    \ largest publishers in the U.S. are finding new talent and rethinking their strategies\
+    \ because of TikTok. We hear from an author, a bookstore owner and a publisher\
+    \ about how TikTok has transformed the book industry.  Further Listening: -The\
+    \ Rise of the Tween Shopper\_ -Inside One Publisher\u2019s Fight Against Book\
+    \ Bans\_ -Scholastic's Succession Drama\_  Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/6qVnn8IdoyS2mcv0VqzgvG
+  title: "Readers Can\u2019t Get Enough of BookTok. Publishers Are Cashing In."
 - author: Outliers
   categories: &id007
   - Podcasts
@@ -461,8 +477,7 @@
   path: https://open.spotify.com/episode/1KVcqhgtHsT890AeZKjtpQ
   title: "#163 | D\xD3LAR A R$6, SELIC A 16% E INFLA\xC7\xC3O DESCONTROLADA: E AGORA?"
 - author: The Journal.
-  categories: &id006
-  - Podcasts
+  categories: *id004
   date: '2024-12-17T00:00:00+00:00'
   description: "After nearly a decade and $10 billion in development, General Motors\
     \ is ending its robotaxi program. WSJ\u2019s Christopher Otts explains why Cruise\
@@ -474,7 +489,7 @@
   path: https://open.spotify.com/episode/38woLEb50zuiR7h6PDWpYn
   title: Why GM Is Giving Up on Cruise Robotaxis
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2024-12-16T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -483,27 +498,13 @@
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: "\u274C Stop Using Bad Names in Your Code"
 - author: CFA Institute Enterprising Investor
-  categories: *id005
+  categories: *id006
   date: '2024-12-16T12:08:25+00:00'
   description: What is an enterprise approach to investment management, and why should
     it be a staple on any institutional investor's task list?
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
   title: The Enterprise Approach for Institutional Investors
-- author: The Journal.
-  categories: *id006
-  date: '2024-12-16T00:00:00+00:00'
-  description: "Intel\u2014the company whose chips were \u201Cinside\u201D your \u2018\
-    90s desktops\u2014has fallen behind in recent years. Now, the CEO hired to turn\
-    \ things around is suddenly out. WSJ\u2019s Asa Fitch explains how the once-dominant\
-    \ chip brand lost its edge.  Further Reading: - He Was Going to Save Intel. He\
-    \ Destroyed $150 Billion of Value Instead.\_ - Intel Co-CEOs Outline Strategy\
-    \ Following Pat Gelsinger\u2019s Ouster\_  Further Listening: - America\u2019\
-    s Answer to the Chip Shortage\_ - Why Washington Went to Wall Street to Revive\
-    \ the Chips Industry\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/1dN8MbGBtZ4AgaJQrOgoPs
-  title: "The Chip Business Is Booming. Why Isn\u2019t Intel?"
 - author: The View From Apollo
   categories:
   - Podcasts
