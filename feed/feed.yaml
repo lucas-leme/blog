@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2024-12-20T13:00:00+00:00'
+  description: What books reviewed in 2024 stand out for their applicability to practical
+    issues confronting investment decision-makers?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2024/12/20/editors-picks-top-3-book-reviews-of-2024-and-a-sneak-peek-at-2025/
+  title: "Editor\u2019s Picks: Top 3 Book Reviews of 2024 and a Sneak Peek at 2025"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -117,7 +126,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-19T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com Seu\
@@ -145,7 +154,7 @@
   path: https://open.spotify.com/episode/6URCgUFl9cHwPoOLSpKdoU
   title: '#164 | AS IDEIAS DE PEDRO CERIZE E O DESTINO DA SUPERNOVA BRASILEIRA'
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-19T00:00:00+00:00'
   description: "The killing of a top health insurance executive outside a Midtown\
@@ -175,7 +184,7 @@
   path: https://open.spotify.com/episode/1Bb9sI8xEx40hGspCLDKfz
   title: 'Quizmas time: are you smarter than the Money Talks hosts?'
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -187,8 +196,7 @@
   path: https://www.youtube.com/watch?v=8tf-9ekVD-s
   title: "\U0001F914 Mojo vs. Rust: Which Should You Pick?"
 - author: CFA Institute Enterprising Investor
-  categories: &id007
-  - CFA
+  categories: *id002
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
     and programs take hold, climate change solution opportunities increase, and the
@@ -198,7 +206,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/18/navigating-net-zero-investing-benchmarks-incentives-and-time-horizons/
   title: Navigating Net-Zero Investing Benchmarks, Incentives, and Time Horizons
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-12-18T12:00:00+00:00'
   description: ''
@@ -206,14 +214,14 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/mind-the-gender-gap-edition-2
   title: Mind the Gender Gap Edition 2
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2024-12-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2020-2024/hmts-financial-services-growth-competitiveness-strategy
   title: "HMT\u2019s Financial Services Growth and Competitiveness Strategy"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2024-12-18T03:15:05+00:00'
   description: "<p>Voc\xEAs est\xE3o a\xED sofrendo com o d\xF3lar e os juros em patamares\
@@ -229,7 +237,7 @@
   path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
   title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-12-18T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -259,7 +267,7 @@
   title: "O QUE N\xC3O TE CONTAM SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE\
     \ IMPORTA?"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-12-18T00:00:00+00:00'
   description: "BookTok, the corner of TikTok that\u2019s all about books, has shaken\
     \ up the publishing world. Over the last few years, the platform has pulled in\
@@ -608,7 +616,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/11122024
   title: "BC - Copom Ata - 267\xAA Reuni\xE3o - 10-11 dezembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2024-12-17T00:42:56+00:00'
   description: "<p>Nesta gradual, incessante e desnecess\xE1ria destrui\xE7\xE3o de\
     \ riqueza por que passa o Brasil do Governo Lula, duas coisas chamam a aten\xE7\
@@ -622,7 +630,7 @@
   path: https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/
   title: "EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2024-12-16T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -630,14 +638,6 @@
   image: https://i4.ytimg.com/vi/GZ3lxU6Ee-w/hqdefault.jpg
   path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
   title: Stop Using Bad Names in Your Code
-- author: CFA Institute Enterprising Investor
-  categories: *id007
-  date: '2024-12-16T12:08:25+00:00'
-  description: What is an enterprise approach to investment management, and why should
-    it be a staple on any institutional investor's task list?
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/16/the-enterprise-approach-for-institutional-investors/
-  title: The Enterprise Approach for Institutional Investors
 - author: The View From Apollo
   categories:
   - Podcasts
