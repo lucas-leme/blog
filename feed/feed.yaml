@@ -1,3 +1,23 @@
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-20T16:00:30+00:00'
+  description: "\U0001F449\_Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
+    \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
+    \nIn this video, I\u2019m going to take a look at a project called Data Validator\
+    \ CLI. I\u2019ll do a review of the code and then refactor it to hopefully improve\
+    \ a few things. Thanks to Tom Donahue for submitting his code!\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2024/dataroast.\n\n\U0001F4A1 Learn how\
+    \ to design great software in 7 steps: https://arjan.codes/designguide.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n\
+    0:18 Running the code \n4:24 Code review\n14:43 Sponsored section\n16:14 Refactoring\n\
+    42:39 Ideas for improvement\n45:24 Final thoughts\n\nThis video was sponsored\
+    \ by Brilliant.\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/YWKd-S0m9YA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=YWKd-S0m9YA
+  title: Refactoring a Python Data Validation Interactive Shell
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -18,7 +38,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/the-new-york-fed-dsge-model-forecast-december-2024/
   title: "The New York Fed DSGE Model Forecast\u2014December 2024"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-12-20T13:00:00+00:00'
   description: What books reviewed in 2024 stand out for their applicability to practical
@@ -126,7 +146,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-19T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com Seu\
@@ -154,7 +174,7 @@
   path: https://open.spotify.com/episode/6URCgUFl9cHwPoOLSpKdoU
   title: '#164 | AS IDEIAS DE PEDRO CERIZE E O DESTINO DA SUPERNOVA BRASILEIRA'
 - author: The Journal.
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-12-19T00:00:00+00:00'
   description: "The killing of a top health insurance executive outside a Midtown\
@@ -184,10 +204,7 @@
   path: https://open.spotify.com/episode/1Bb9sI8xEx40hGspCLDKfz
   title: 'Quizmas time: are you smarter than the Money Talks hosts?'
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2024-12-18T16:00:07+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -196,7 +213,7 @@
   path: https://www.youtube.com/watch?v=8tf-9ekVD-s
   title: "\U0001F914 Mojo vs. Rust: Which Should You Pick?"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
     and programs take hold, climate change solution opportunities increase, and the
@@ -206,7 +223,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/18/navigating-net-zero-investing-benchmarks-incentives-and-time-horizons/
   title: Navigating Net-Zero Investing Benchmarks, Incentives, and Time Horizons
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-18T12:00:00+00:00'
   description: ''
@@ -214,14 +231,14 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/mind-the-gender-gap-edition-2
   title: Mind the Gender Gap Edition 2
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2024-12-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2020-2024/hmts-financial-services-growth-competitiveness-strategy
   title: "HMT\u2019s Financial Services Growth and Competitiveness Strategy"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id007
   - Economia
   date: '2024-12-18T03:15:05+00:00'
   description: "<p>Voc\xEAs est\xE3o a\xED sofrendo com o d\xF3lar e os juros em patamares\
@@ -237,7 +254,7 @@
   path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
   title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-12-18T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -267,7 +284,7 @@
   title: "O QUE N\xC3O TE CONTAM SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE\
     \ IMPORTA?"
 - author: The Journal.
-  categories: *id005
+  categories: *id006
   date: '2024-12-18T00:00:00+00:00'
   description: "BookTok, the corner of TikTok that\u2019s all about books, has shaken\
     \ up the publishing world. Over the last few years, the platform has pulled in\
@@ -616,7 +633,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/11122024
   title: "BC - Copom Ata - 267\xAA Reuni\xE3o - 10-11 dezembro, 2024"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id007
   date: '2024-12-17T00:42:56+00:00'
   description: "<p>Nesta gradual, incessante e desnecess\xE1ria destrui\xE7\xE3o de\
     \ riqueza por que passa o Brasil do Governo Lula, duas coisas chamam a aten\xE7\
@@ -629,15 +646,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/editorial-esta-crise-e-uma-escolha-politica/
   title: "EDITORIAL. Esta crise \xE9 uma escolha pol\xEDtica"
-- author: ArjanCodes
-  categories: *id007
-  date: '2024-12-16T16:00:15+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GZ3lxU6Ee-w/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GZ3lxU6Ee-w
-  title: Stop Using Bad Names in Your Code
 - author: The View From Apollo
   categories:
   - Podcasts
