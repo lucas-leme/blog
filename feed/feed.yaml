@@ -1,5 +1,5 @@
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -38,7 +38,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/the-new-york-fed-dsge-model-forecast-december-2024/
   title: "The New York Fed DSGE Model Forecast\u2014December 2024"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-20T13:00:00+00:00'
   description: What books reviewed in 2024 stand out for their applicability to practical
@@ -46,6 +46,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2024/12/20/editors-picks-top-3-book-reviews-of-2024-and-a-sneak-peek-at-2025/
   title: "Editor\u2019s Picks: Top 3 Book Reviews of 2024 and a Sneak Peek at 2025"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2024-12-20T00:00:00+00:00'
+  description: "James Bond This could be James Bond is one of Hollywood's most famous\
+    \ characters. So when Amazon bought the rights to distribute Bond, executives\
+    \ had big plans for the brand\u2019s intellectual property. But so far, Amazon\
+    \ hasn't made a single Bond movie. WSJ\u2019s Erich Schwartzel takes us inside\
+    \ the feud that\u2019s tying up the franchise.\_  Further Reading:  -Where Is\
+    \ James Bond? Trapped in an Ugly Stalemate With Amazon\_  Further Listening: \
+    \ -Why Hollywood Is Betting Big on 'Wicked' -Why 'Yellowstone' Is One of TV's\
+    \ Most Expensive Shows\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/4sPVoS5rJLzhIXpKBurYio
+  title: James Bond Is Missing. He's Trapped in a Fight With Amazon.
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -146,7 +161,7 @@
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2024-12-19T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com Seu\
@@ -174,8 +189,7 @@
   path: https://open.spotify.com/episode/6URCgUFl9cHwPoOLSpKdoU
   title: '#164 | AS IDEIAS DE PEDRO CERIZE E O DESTINO DA SUPERNOVA BRASILEIRA'
 - author: The Journal.
-  categories: &id006
-  - Podcasts
+  categories: *id002
   date: '2024-12-19T00:00:00+00:00'
   description: "The killing of a top health insurance executive outside a Midtown\
     \ Manhattan hotel this month triggered an outpouring of public anger at private\
@@ -204,7 +218,7 @@
   path: https://open.spotify.com/episode/1Bb9sI8xEx40hGspCLDKfz
   title: 'Quizmas time: are you smarter than the Money Talks hosts?'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-12-18T16:00:07+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
@@ -213,7 +227,7 @@
   path: https://www.youtube.com/watch?v=8tf-9ekVD-s
   title: "\U0001F914 Mojo vs. Rust: Which Should You Pick?"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-18T12:46:36+00:00'
   description: Net-zero investing will continue growing as emissions-reduction plans
     and programs take hold, climate change solution opportunities increase, and the
@@ -223,7 +237,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/18/navigating-net-zero-investing-benchmarks-incentives-and-time-horizons/
   title: Navigating Net-Zero Investing Benchmarks, Incentives, and Time Horizons
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-12-18T12:00:00+00:00'
   description: ''
@@ -231,7 +245,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/mind-the-gender-gap-edition-2
   title: Mind the Gender Gap Edition 2
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2024-12-18T12:00:00+00:00'
   description: ''
   image: null
@@ -254,7 +268,7 @@
   path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
   title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2024-12-18T00:00:00+00:00'
   description: "DOSSI\xCA BRASIL: baixe agora o documento in\xE9dito com todas as\
     \ mazelas, inefici\xEAncias, maus gastos e outros problemas que atrasam o Brasil.\
@@ -283,21 +297,6 @@
   path: https://open.spotify.com/episode/234Kgkj5uhHllrF7BrGuT3
   title: "O QUE N\xC3O TE CONTAM SOBRE INVESTIR EM A\xC7\xD5ES: PRE\xC7O REALMENTE\
     \ IMPORTA?"
-- author: The Journal.
-  categories: *id006
-  date: '2024-12-18T00:00:00+00:00'
-  description: "BookTok, the corner of TikTok that\u2019s all about books, has shaken\
-    \ up the publishing world. Over the last few years, the platform has pulled in\
-    \ new readers, especially in the romance and fantasy genres. And now some of the\
-    \ largest publishers in the U.S. are finding new talent and rethinking their strategies\
-    \ because of TikTok. We hear from an author, a bookstore owner and a publisher\
-    \ about how TikTok has transformed the book industry.  Further Listening: -The\
-    \ Rise of the Tween Shopper\_ -Inside One Publisher\u2019s Fight Against Book\
-    \ Bans\_ -Scholastic's Succession Drama\_  Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/6qVnn8IdoyS2mcv0VqzgvG
-  title: "Readers Can\u2019t Get Enough of BookTok. Publishers Are Cashing In."
 - author: Outliers
   categories: &id009
   - Podcasts
