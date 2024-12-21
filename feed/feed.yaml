@@ -1,8 +1,17 @@
 - author: ArjanCodes
-  categories: &id003
+  categories: &id001
   - Tech
   - Code
   - Youtube
+  date: '2024-12-20T23:00:35+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/gWS4VHUJbe0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=gWS4VHUJbe0
+  title: One Function, One Job!
+- author: ArjanCodes
+  categories: *id001
   date: '2024-12-20T16:00:30+00:00'
   description: "\U0001F449\_Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
     \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
@@ -47,7 +56,7 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/20/editors-picks-top-3-book-reviews-of-2024-and-a-sneak-peek-at-2025/
   title: "Editor\u2019s Picks: Top 3 Book Reviews of 2024 and a Sneak Peek at 2025"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2024-12-20T00:00:00+00:00'
   description: "James Bond This could be James Bond is one of Hollywood's most famous\
@@ -62,7 +71,7 @@
   path: https://open.spotify.com/episode/4sPVoS5rJLzhIXpKBurYio
   title: James Bond Is Missing. He's Trapped in a Fight With Amazon.
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-12-19T23:35:02+00:00'
@@ -127,7 +136,7 @@
   path: https://www.youtube.com/watch?v=E76CUtSHMrU
   title: Smartphone Awards 2024!
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-12-19T17:25:27+00:00'
   description: The AI Generated Video Wars have already begun
   image: https://i4.ytimg.com/vi/74J0uiZk29k/hqdefault.jpg
@@ -189,7 +198,7 @@
   path: https://open.spotify.com/episode/6URCgUFl9cHwPoOLSpKdoU
   title: '#164 | AS IDEIAS DE PEDRO CERIZE E O DESTINO DA SUPERNOVA BRASILEIRA'
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2024-12-19T00:00:00+00:00'
   description: "The killing of a top health insurance executive outside a Midtown\
     \ Manhattan hotel this month triggered an outpouring of public anger at private\
@@ -217,15 +226,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/1Bb9sI8xEx40hGspCLDKfz
   title: 'Quizmas time: are you smarter than the Money Talks hosts?'
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-12-18T16:00:07+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/8tf-9ekVD-s/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=8tf-9ekVD-s
-  title: "\U0001F914 Mojo vs. Rust: Which Should You Pick?"
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2024-12-18T12:46:36+00:00'
