@@ -1,5 +1,23 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2024-12-21T10:03:00+00:00'
+  description: "Ferramenta da B3 e do Fisco engloba c\xE1lculos sobre a\xE7\xF5es,\
+    \ BDRs e fundos, como FIIs e fiagros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/tchau-excel-calculadora-aponta-ir-que-incide-sobre-investimentos-veja-como-usar/
+  title: 'Tchau, Excel: calculadora aponta IR que incide sobre investimentos; veja
+    como usar'
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2024-12-20T21:32:00+00:00'
+  description: "H\xE1 diversos tipos de juros e taxas que variam a depender da institui\xE7\
+    \xE3o financeira. Conhe\xE7a quais s\xE3o eles e como calcul\xE1-los."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/como-sao-cobrados-os-juros-do-cartao-de-credito/
+  title: "Como s\xE3o cobrados os juros do cart\xE3o de cr\xE9dito?"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2024-12-20T17:34:48+00:00'
   description: "O novo governo Trump planeja utilizar recursos de todo o governo federal\
@@ -9,7 +27,7 @@
   title: "Deporta\xE7\xF5es nos EUA atingiram n\xEDvel mais alto da d\xE9cada no ano\
     \ fiscal de 2024, superando os anos Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2024-12-20T16:42:08+00:00'
   description: "Autoridade come\xE7ou a intervir no mercado na semana passada em meio\
     \ \xE0 forte desvaloriza\xE7\xE3o do real"
@@ -17,22 +35,3 @@
   path: https://investnews.com.br/economia/bc-faz-oitava-intervencao-no-cambio-e-injeta-us-28-bilhoes-em-10-dias-no-mercado/
   title: "BC faz oitava interven\xE7\xE3o no c\xE2mbio e injeta US$ 28 bilh\xF5es\
     \ em 10 dias no mercado"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2024-12-20T10:02:00+00:00'
-  description: "Mecanismo busca coibir fraudes ligadas \xE0 dedu\xE7\xE3o de servi\xE7\
-    os de sa\xFAde no Imposto de Renda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/vila-do-ir-despesa-medica-tera-emissao-online-obrigatoria-a-partir-de-2025-veja-como-sera/
-  title: "Vil\xE3 do IR, despesa m\xE9dica ter\xE1 emiss\xE3o online obrigat\xF3ria\
-    \ a partir de 2025; veja como ser\xE1"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-12-20T10:00:00+00:00'
-  description: "Sem falar no custo de oportunidade. O d\xF3lar j\xE1 fez \u201CIPCA+22%\u201D\
-    \ neste ano."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/tem-ipca-na-carteira-cuide-da-saude-talvez-voce-precise-de-uma-vida-longa-para-nao-perder-dinheiro/
-  title: "Tem IPCA+ na carteira? Cuide da sa\xFAde; talvez voc\xEA precise de uma\
-    \ vida longa para n\xE3o perder dinheiro"
