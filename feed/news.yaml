@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-12-24T17:00:09+00:00'
+  description: "Seria o maior valor j\xE1 registrado, \xE0 medida que Pequim aumenta\
+    \ o est\xEDmulo fiscal para reanimar a economia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-planeja-estimulo-recorde-em-2025-com-emissao-de-us-411-bi-em-titulos-publicos/
+  title: "China planeja est\xEDmulo recorde em 2025 com emiss\xE3o de US$ 411 bi em\
+    \ t\xEDtulos p\xFAblicos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -48,8 +58,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2024-12-23T20:17:28+00:00'
   description: "\"\xC9 como enxugar gelo\", dizem economistas sobre interven\xE7\xF5\
     es do BC no c\xE2mbio"
@@ -57,14 +66,6 @@
   path: https://investnews.com.br/economia/por-que-o-gasto-de-us-17-bi-de-reservas-cambiais-parece-fazer-o-dolar-a-subir-ainda-mais/
   title: "Por que o gasto de US$ 17 bi em reservas cambiais parece fazer o d\xF3lar\
     \ a subir ainda mais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-12-23T19:40:00+00:00'
-  description: Trabalhadores tinham longas jornadas e eram mantidos em alojamentos
-    insalubres
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mpt-localiza-trabalhadores-em-condicoes-analogas-a-escravidao-em-obras-da-byd-na-ba/
-  title: "MPT alega irregularidades nas condi\xE7\xF5es de trabalho da BYD na Bahia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2024-12-21T10:03:00+00:00'
