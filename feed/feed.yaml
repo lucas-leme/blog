@@ -1,3 +1,14 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-25T16:00:19+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
+    \ Check out my courses: https://arjan.codes/courses"
+  image: https://i1.ytimg.com/vi/DMIjwpRW1Fk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=DMIjwpRW1Fk
+  title: Immutability Makes Life Easier
 - author: Market Makers
   categories: &id006
   - Podcasts
@@ -34,10 +45,7 @@
   path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
   title: Happy Holidays! An Interview with the Christmas Queen
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-23T16:01:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses"
@@ -57,7 +65,7 @@
   title: 'Top 10 Posts from 2024: Private Markets, Stocks for the Long Run, Cap Rates,
     and Howard Marks'
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2024-12-23T12:00:00+00:00'
   description: ''
@@ -65,7 +73,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2024-12-23T12:00:00+00:00'
   description: Measuring carbon emissions is vital for net-zero goals. This paper
     defines corporate emissions types, highlights sector differences &amp; reliable
@@ -91,15 +99,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/every-dollar-counts-the-top-5-liberty-street-economics-posts-of-2024/
   title: 'Every Dollar Counts: The Top 5 Liberty Street Economics Posts of 2024'
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-12-20T23:00:35+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/gWS4VHUJbe0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=gWS4VHUJbe0
-  title: One Function, One Job!
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2024-12-20T13:00:00+00:00'
