@@ -1,3 +1,25 @@
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2024-12-26T00:00:00+00:00'
+  description: "Seu patrim\xF4nio rendendo at\xE9 21% ao ano em uma renda fixa regulada\
+    \ pelo BACEN. FA\xC7A SUA SIMULA\xC7\xC3O: https://allugatorinvest.com/oportunidade-renda-fixa-20-calculadora-de-investimentos/O\
+    \ Brasil est\xE1 preparado para enfrentar as 7 grandes tend\xEAncias econ\xF4\
+    micas de 2025? Neste epis\xF3dio especial de fim de ano, trouxemos Marcos Troyjo,\
+    \ ex-presidente do Banco dos BRICS e renomado economista, para discutir as 7 tend\xEA\
+    ncias que moldar\xE3o o cen\xE1rio global em 2025.Desde a \"trumpl\xEAncia\" na\
+    \ economia americana at\xE9 as transforma\xE7\xF5es no Brasil diante de tens\xF5\
+    es geopol\xEDticas e inova\xE7\xF5es tecnol\xF3gicas, analisamos cada tend\xEA\
+    ncia minuciosamente. Descubra como o Brasil pode se posicionar diante de desafios\
+    \ como a reindustrializa\xE7\xE3o dos EUA, o impacto das tens\xF5es entre China\
+    \ e EUA no agro brasileiro e a crescente import\xE2ncia da Intelig\xEAncia Artificial\
+    \ nos mercados globais.O que podemos esperar do pr\xF3ximo ano? Qual das 7 tend\xEA\
+    ncias apresentadas voc\xEA acha que ter\xE1 o maior impacto no Brasil?\_Apresentador:\
+    \ Thiago Salom\xE3o (@_salomoney)\_Convidado: Marcos Troyjo (ex-presidente do\
+    \ Banco do BRICS)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a142984660dfc28d9622842c6
+  path: https://open.spotify.com/episode/1DDHxcEcL6yBXNZovSLGfu
+  title: "#166 | AS 7 TEND\xCANCIAS QUE V\xC3O TRANSFORMAR O MUNDO EM 2025"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -23,7 +45,7 @@
   path: https://open.spotify.com/episode/6lM05u6LaML1bS4g2U6FEa
   title: 'From our archive: Taylor''s version (part two)'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -34,8 +56,7 @@
   path: https://www.youtube.com/watch?v=DMIjwpRW1Fk
   title: Immutability Makes Life Easier
 - author: Market Makers
-  categories: &id006
-  - Podcasts
+  categories: *id001
   date: '2024-12-24T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.comO Brasil\
     \ est\xE1 \xE0 beira de um colapso econ\xF4mico ou ainda h\xE1 tempo para evitar\
@@ -57,7 +78,7 @@
   path: https://open.spotify.com/episode/0zXZSLdfR678fVaDv2AqvL
   title: "#165 | BRASIL EM ALERTA M\xC1XIMO: 2025 SER\xC1 O PIOR ANO DE TODOS OS TEMPOS?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-24T00:00:00+00:00'
   description: Mariah Carey released "All I Want for Christmas Is You" in 1994 to
@@ -69,7 +90,7 @@
   path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
   title: Happy Holidays! An Interview with the Christmas Queen
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-12-23T16:01:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses"
@@ -77,7 +98,7 @@
   path: https://www.youtube.com/watch?v=ybaLf6mJ8y8
   title: Too Many Arguments? Use This Trick
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-23T13:00:00+00:00'
   description: Discover the most-read financial insights of 2024, covering a range
@@ -89,7 +110,7 @@
   title: 'Top 10 Posts from 2024: Private Markets, Stocks for the Long Run, Cap Rates,
     and Howard Marks'
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2024-12-23T12:00:00+00:00'
   description: ''
@@ -97,7 +118,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2024-12-23T12:00:00+00:00'
   description: Measuring carbon emissions is vital for net-zero goals. This paper
     defines corporate emissions types, highlights sector differences &amp; reliable
@@ -124,7 +145,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/every-dollar-counts-the-top-5-liberty-street-economics-posts-of-2024/
   title: 'Every Dollar Counts: The Top 5 Liberty Street Economics Posts of 2024'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-20T13:00:00+00:00'
   description: What books reviewed in 2024 stand out for their applicability to practical
     issues confronting investment decision-makers?
@@ -146,7 +167,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/20122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 20/12/2024"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-12-20T00:00:00+00:00'
   description: "James Bond is one of Hollywood's most famous characters. So when Amazon\
     \ bought the rights to distribute Bond, executives had big plans for the brand\u2019\
@@ -160,7 +181,7 @@
   path: https://open.spotify.com/episode/4sPVoS5rJLzhIXpKBurYio
   title: James Bond Is Missing. He's Trapped in a Fight With Amazon.
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2024-12-19T23:35:02+00:00'
@@ -225,7 +246,7 @@
   path: https://www.youtube.com/watch?v=E76CUtSHMrU
   title: Smartphone Awards 2024!
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2024-12-19T17:25:27+00:00'
   description: The AI Generated Video Wars have already begun
   image: https://i4.ytimg.com/vi/74J0uiZk29k/hqdefault.jpg
@@ -258,33 +279,6 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
-- author: Market Makers
-  categories: *id006
-  date: '2024-12-19T00:00:00+00:00'
-  description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com Seu\
-    \ patrim\xF4nio rendendo at\xE9 21% ao ano em uma renda fixa regulada pelo BACEN.\
-    \ FA\xC7A SUA SIMULA\xC7\xC3O: https://allugatorinvest.com/oportunidade-renda-fixa-20-calculadora-de-investimentos/\
-    \ O Brasil est\xE1 prestes a viver um novo milagre econ\xF4mico ou enfrenta mais\
-    \ uma d\xE9cada perdida? Neste epis\xF3dio exclusivo do Market Makers, Pedro Cerize,\
-    \ um dos investidores mais respeitados do Brasil, revelou por que o Brasil enfrenta\
-    \ uma das d\xE9cadas mais desafiadoras de sua hist\xF3ria e o que pode ser feito\
-    \ para virar o jogo.Com juros altos, uma crise fiscal sem precedentes e uma bolsa\
-    \ desvalorizada, ser\xE1 que o Brasil tem o que \xE9 necess\xE1rio para se recuperar?\
-    \ Discutimos os ciclos hist\xF3ricos da bolsa, as estrat\xE9gias que investidores\
-    \ podem usar para aproveitar esse momento \xFAnico e as solu\xE7\xF5es que poderiam\
-    \ transformar o pa\xEDs.Voc\xEA tamb\xE9m vai entender por que a bolsa brasileira\
-    \ pode ser uma das maiores oportunidades de investimento da d\xE9cada, como o\
-    \ mercado reage \xE0s decis\xF5es pol\xEDticas e econ\xF4micas, e o que esperar\
-    \ para os pr\xF3ximos anos. Pedro aborda temas como domin\xE2ncia fiscal, infla\xE7\
-    \xE3o e os desafios do Banco Central.Deixe seu like, inscreva-se no canal e ative\
-    \ o sininho para n\xE3o perder nenhumepis\xF3dio. Compartilhe este epis\xF3dio\
-    \ com seus amigos que querem entender o mercado e investir melhor!Apresentador:\
-    \ Thiago Salom\xE3o (@_salomoney), Josu\xE9 Guedes (@josueguedes__) e Matheus\
-    \ Soares (@maatssoares)Convidado: Pedro Cerize, empres\xE1rio e investidor\_Become\
-    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8ae9618e77a6fe6bf8e602be41
-  path: https://open.spotify.com/episode/6URCgUFl9cHwPoOLSpKdoU
-  title: '#164 | AS IDEIAS DE PEDRO CERIZE E O DESTINO DA SUPERNOVA BRASILEIRA'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id007
   - Economia
