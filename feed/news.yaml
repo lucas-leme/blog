@@ -1,6 +1,24 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2024-12-27T19:30:41+00:00'
+  description: "Melhoria das condi\xE7\xF5es para gera\xE7\xE3o de energia com volta\
+    \ das chuvas permite manuten\xE7\xE3o da bandeira verde"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-tera-bandeira-tarifaria-verde-em-janeiro-sem-cobranca-extra-na-conta-de-luz/
+  title: "Brasil ter\xE1 bandeira tarif\xE1ria verde em janeiro, sem cobran\xE7a extra\
+    \ na conta de luz"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2024-12-27T18:05:00+00:00'
+  description: "Valor ser\xE1 oficializado em decreto assinado pelo presidente Luiz\
+    \ In\xE1cio Lula da Silva"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/salario-minimo-em-2025-veja-novo-valor-e-como-o-calculo-e-feito/
+  title: "Sal\xE1rio-m\xEDnimo em 2025: veja novo valor e como o c\xE1lculo \xE9 feito"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2024-12-27T15:29:44+00:00'
   description: "B3, BTG Pactual, Cosan e Ambev est\xE3o entre as empresas que anunciaram\
     \ recompra de a\xE7\xF5es"
@@ -9,30 +27,13 @@
   title: "Recompras de a\xE7\xF5es disparam com bolsa \u2018drenada\u2019 por juro\
     \ alto"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2024-12-27T15:14:16+00:00'
   description: "LVMH, L\u2019Or\xE9al e Kering est\xE3o entre os maiores perdedores\
     \ na bolsa de valores francesa"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/fortuna-de-bilionarios-franceses-cai-com-menor-demanda-por-luxo/
   title: "Fortuna de bilion\xE1rios franceses cai com menor demanda por luxo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2024-12-27T14:58:10+00:00'
-  description: "Banco central argentino anunciou que vendeu US$ 599 milh\xF5es em\
-    \ reservas cambiais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/argentina-vende-maior-volume-de-reservas-cambiais-desde-2019/
-  title: Argentina vende maior volume de reservas cambiais desde 2019
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2024-12-27T14:44:04+00:00'
-  description: "Mercado se prepara para o vencimento de uma quantidade substancial\
-    \ de contratos de op\xE7\xF5es de bitcoin e ether"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/rali-final-do-bitcoin-falha-em-ano-de-recorde-para-o-token/
-  title: Rali final do bitcoin falha em ano de recorde para o token
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
