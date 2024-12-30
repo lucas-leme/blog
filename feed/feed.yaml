@@ -1,3 +1,18 @@
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2024-12-30T00:00:00+00:00'
+  description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
+    \ Qin was a rising star in Chinese politics and a proteg\xE9 of China\u2019s strongman\
+    \ leader, Xi Jinping. In the first episode of our three-part investigation, we\
+    \ chart Qin\u2019s rise and begin to untangle the mystery of his disappearance.\
+    \ This series was originally published in October. Further Listening:- Episode\
+    \ 2: The Affair - Apple | Spotify - Episode 3: The Downfall - Apple | Spotify\
+    \ We'll be back with something new on January 2.  Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
+  title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -51,7 +66,7 @@
   path: https://www.youtube.com/watch?v=kYL8fpUQx94
   title: The Skill Every Senior Developer Needs
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2024-12-27T13:00:00+00:00'
   description: Discover the trends and ideas shaping the future of finance with the
@@ -136,8 +151,7 @@
   path: https://open.spotify.com/episode/0zXZSLdfR678fVaDv2AqvL
   title: "#165 | BRASIL EM ALERTA M\xC1XIMO: 2025 SER\xC1 O PIOR ANO DE TODOS OS TEMPOS?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2024-12-24T00:00:00+00:00'
   description: Mariah Carey released "All I Want for Christmas Is You" in 1994 to
     moderate success. Today, the song is a megahit and Christmas playlist staple.
@@ -148,7 +162,7 @@
   path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
   title: Happy Holidays! An Interview with the Christmas Queen
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2024-12-23T13:00:00+00:00'
   description: Discover the most-read financial insights of 2024, covering a range
     of topics including private markets, investment risks, and generational wealth.
@@ -159,7 +173,7 @@
   title: 'Top 10 Posts from 2024: Private Markets, Stocks for the Long Run, Cap Rates,
     and Howard Marks'
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-12-23T12:00:00+00:00'
   description: ''
@@ -167,7 +181,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2024-12-23T12:00:00+00:00'
   description: Measuring carbon emissions is vital for net-zero goals. This paper
     defines corporate emissions types, highlights sector differences &amp; reliable
@@ -207,20 +221,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/20122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 20/12/2024"
-- author: The Journal.
-  categories: *id005
-  date: '2024-12-20T00:00:00+00:00'
-  description: "James Bond is one of Hollywood's most famous characters. So when Amazon\
-    \ bought the rights to distribute Bond, executives had big plans for the brand\u2019\
-    s intellectual property. But so far, Amazon hasn't made a single Bond movie. WSJ\u2019\
-    s Erich Schwartzel takes us inside the feud that\u2019s tying up the franchise.\_\
-    \  Further Reading:  -Where Is James Bond? Trapped in an Ugly Stalemate With Amazon\_\
-    \  Further Listening:  -Why Hollywood Is Betting Big on 'Wicked' -Why 'Yellowstone'\
-    \ Is One of TV's Most Expensive Shows\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/4sPVoS5rJLzhIXpKBurYio
-  title: James Bond Is Missing. He's Trapped in a Fight With Amazon.
 - author: Marques Brownlee
   categories: *id006
   date: '2024-12-19T23:35:02+00:00'
