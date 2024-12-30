@@ -1,3 +1,14 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2024-12-30T16:00:35+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses."
+  image: https://i3.ytimg.com/vi/ZBt7tMrzhP8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
+  title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
   categories: &id003
   - Podcasts
@@ -55,10 +66,7 @@
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-28T16:00:40+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses"
@@ -134,14 +142,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af6f265376d71259118f068eb
   path: https://open.spotify.com/episode/6lM05u6LaML1bS4g2U6FEa
   title: 'From our archive: Taylor''s version (part two)'
-- author: ArjanCodes
-  categories: *id001
-  date: '2024-12-25T16:00:19+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
-    \ Check out my courses: https://arjan.codes/courses"
-  image: https://i1.ytimg.com/vi/DMIjwpRW1Fk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=DMIjwpRW1Fk
-  title: Immutability Makes Life Easier
 - author: Market Makers
   categories: *id002
   date: '2024-12-24T00:00:00+00:00'
