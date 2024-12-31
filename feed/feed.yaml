@@ -1,3 +1,35 @@
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2024-12-31T20:17:18+00:00'
+  description: 'Don''t. Use. Honey.
+
+
+    The MegaLag video: https://youtu.be/vc4yL3YTwWk?si=cKlsmSIeyfjDENqH
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
+
+
+    Intro Track: Hocus Pocus
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/EAx_RtMKPm8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=EAx_RtMKPm8
+  title: 'The Honey Scam: Explained'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id007
   - Economia
@@ -12,8 +44,31 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/editorial-feliz-cavalo-de-pau/
   title: EDITORIAL. Feliz Cavalo-de-Pau
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2024-12-31T00:00:00+00:00'
+  description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
+    \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
+    \ deveria investir em a\xE7\xF5es!No nosso \xFAltimo epis\xF3dio de 2024, recebemos\
+    \ Rodrigo Glatt e Maur\xEDcio Rahmani, para falar sobre o atual momento do mercado\
+    \ de a\xE7\xF5es no Brasil.Eles explicam por que as crises criam as maiores oportunidades\
+    \ e como identificar empresas subestimadas, como Randon, Mills e Banco Inter.\
+    \ Tamb\xE9m falamos sobre o impacto das taxas de juros, estrat\xE9gias para atravessar\
+    \ momentos de incerteza e por que investir em a\xE7\xF5es no Brasil pode ser a\
+    \ melhor decis\xE3o para 2025.Confira esse epis\xF3dio e descubra os setores pouco\
+    \ explorados, a import\xE2ncia de um olhar de longo prazo e como crises podem\
+    \ transformar investidores comuns em grandes vencedores.\_Voc\xEA acredita que\
+    \ investir em a\xE7\xF5es em 2025 \xE9 um bom neg\xF3cio? Ou prefere alocar o\
+    \ seu capital em outros ativos?\_Apresentador: Josu\xE9 Guedes (@josueguedes__)\
+    \ e Matheus Soares (@maatssoares)Convidado: Mauricio Rahmani (gestor do Reach\
+    \ Small Caps BDR) e Rodrigo Glatt (s\xF3cio e chefe de an\xE1lise da GTI administra\xE7\
+    \xE3o de recursos)\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8a7a8f636352cf5ccec8d3b078
+  path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
+  title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -24,7 +79,7 @@
   path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
   title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-30T00:00:00+00:00'
   description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
@@ -39,9 +94,7 @@
   path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
   title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2024-12-28T20:58:22+00:00'
   description: 'Longest year of my life. It''s rewind time.
 
@@ -80,7 +133,7 @@
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-12-28T16:00:40+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses"
@@ -88,7 +141,7 @@
   path: https://www.youtube.com/watch?v=kYL8fpUQx94
   title: The Skill Every Senior Developer Needs
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2024-12-27T13:00:00+00:00'
   description: Discover the trends and ideas shaping the future of finance with the
@@ -111,8 +164,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/12/2024"
 - author: Market Makers
-  categories: &id002
-  - Podcasts
+  categories: *id003
   date: '2024-12-26T00:00:00+00:00'
   description: "Seu patrim\xF4nio rendendo at\xE9 21% ao ano em uma renda fixa regulada\
     \ pelo BACEN. FA\xC7A SUA SIMULA\xC7\xC3O: https://allugatorinvest.com/oportunidade-renda-fixa-20-calculadora-de-investimentos/O\
@@ -156,30 +208,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8af6f265376d71259118f068eb
   path: https://open.spotify.com/episode/6lM05u6LaML1bS4g2U6FEa
   title: 'From our archive: Taylor''s version (part two)'
-- author: Market Makers
-  categories: *id002
-  date: '2024-12-24T00:00:00+00:00'
-  description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.comO Brasil\
-    \ est\xE1 \xE0 beira de um colapso econ\xF4mico ou ainda h\xE1 tempo para evitar\
-    \ o pior?No epis\xF3dio 165 do Market Makers, recebemos Matheus Spiess e Raymundo\
-    \ Faria Junior para discutir o estado atual da economia brasileira. Abordamos\
-    \ o aumento da desconfian\xE7a no governo, a crise fiscal, o impacto da troca\
-    \ de comando do Banco Central, e o que esperar da infla\xE7\xE3o, taxa Selic e\
-    \ do d\xF3lar at\xE9 a pr\xF3xima elei\xE7\xE3o em 2026.Al\xE9m disso, analisamos\
-    \ como a pol\xEDtica econ\xF4mica do governo pode influenciar os mercados de a\xE7\
-    \xF5es, a renda fixa e as oportunidades para investidores em 2025.Voc\xEA acredita\
-    \ que o Brasil pode evitar um desastre econ\xF4mico ou estamos caminhando para\
-    \ um cen\xE1rio inevit\xE1vel? Deixe seu like, inscreva-se no canal e compartilhe\
-    \ este epis\xF3dio com algu\xE9m que precisa entender o que est\xE1 acontecendo\
-    \ na economia brasileira!Apresentador: Josu\xE9 Guedes (@josueguedes__) e Matheus\
-    \ Soares (@maatssoares)Convidado: Matheus Spiess (analista da Empiricus Research)\
-    \ e Raymundo Faria Junior (S\xF3cio e analista da Wagner Investimentos)\_Become\
-    \ a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a078e05192b632b66b2b72708
-  path: https://open.spotify.com/episode/0zXZSLdfR678fVaDv2AqvL
-  title: "#165 | BRASIL EM ALERTA M\xC1XIMO: 2025 SER\xC1 O PIOR ANO DE TODOS OS TEMPOS?"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-24T00:00:00+00:00'
   description: Mariah Carey released "All I Want for Christmas Is You" in 1994 to
     moderate success. Today, the song is a megahit and Christmas playlist staple.
@@ -190,7 +220,7 @@
   path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
   title: Happy Holidays! An Interview with the Christmas Queen
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2024-12-23T13:00:00+00:00'
   description: Discover the most-read financial insights of 2024, covering a range
     of topics including private markets, investment risks, and generational wealth.
@@ -201,7 +231,7 @@
   title: 'Top 10 Posts from 2024: Private Markets, Stocks for the Long Run, Cap Rates,
     and Howard Marks'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2024-12-23T12:00:00+00:00'
   description: ''
@@ -209,7 +239,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2024-12-23T12:00:00+00:00'
   description: Measuring carbon emissions is vital for net-zero goals. This paper
     defines corporate emissions types, highlights sector differences &amp; reliable
@@ -235,69 +265,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2024/12/every-dollar-counts-the-top-5-liberty-street-economics-posts-of-2024/
   title: 'Every Dollar Counts: The Top 5 Liberty Street Economics Posts of 2024'
-- author: Marques Brownlee
-  categories: *id006
-  date: '2024-12-19T23:35:02+00:00'
-  description: 'The best (and worst) smartphones of 2024!
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Apple iPhone 16: https://geni.us/QOmf6
-
-    Samsung Galaxy S24 Ultra: https://geni.us/F4ARvL6
-
-    Google Pixel 9 Pro Fold: https://geni.us/BBBAI
-
-    RedMagic 10 Pro: https://geni.us/ztqMtDY
-
-    Apple iPhone 16 Pro: https://geni.us/ng6Fhth
-
-    Nothing Phone 2A: https://geni.us/mAhw
-
-    ASUS Zenfone 11 Ultra: https://geni.us/nLtr
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD
-
-
-    0:00 Intro
-
-    1:08 Best Big Phone
-
-    3:02 Best Small Phone
-
-    5:10 Best Camera
-
-    8:11 Best Value
-
-    10:57 Best Battery
-
-    14:07 Best Design
-
-    16:34 Best Foldable
-
-    18:33 Most Improved
-
-    20:54 Bust of the Year
-
-    22:44 Phone of the Year'
-  image: https://i2.ytimg.com/vi/E76CUtSHMrU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=E76CUtSHMrU
-  title: Smartphone Awards 2024!
 - author: The Overshoot
   categories: &id008
   - Macro
