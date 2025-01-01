@@ -1,5 +1,16 @@
-- author: Marques Brownlee
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-01-01T16:00:35+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
+    \ Check out my courses: https://arjan.codes/courses."
+  image: https://i3.ytimg.com/vi/jSQZ5u-JBVM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=jSQZ5u-JBVM
+  title: Must-Have VSCode Extensions for Backend Dev
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2024-12-31T20:17:18+00:00'
@@ -68,10 +79,7 @@
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
 - author: ArjanCodes
-  categories: &id002
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2024-12-30T16:00:35+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses."
@@ -94,7 +102,7 @@
   path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
   title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2024-12-28T20:58:22+00:00'
   description: 'Longest year of my life. It''s rewind time.
 
@@ -132,14 +140,6 @@
   image: https://i1.ytimg.com/vi/LCpm7cNQ5Vo/hqdefault.jpg
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
-- author: ArjanCodes
-  categories: *id002
-  date: '2024-12-28T16:00:40+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
-    \ Check out my courses: https://arjan.codes/courses"
-  image: https://i4.ytimg.com/vi/kYL8fpUQx94/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=kYL8fpUQx94
-  title: The Skill Every Senior Developer Needs
 - author: CFA Institute Enterprising Investor
   categories: &id005
   - CFA
