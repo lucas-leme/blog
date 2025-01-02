@@ -1,3 +1,12 @@
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-01-02T10:15:19+00:00'
+  description: The world is aging at a much faster rate than we previously anticipated,
+    even 10 years ago. Are we prepared?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
+  title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -56,7 +65,7 @@
   path: https://braziljournal.com/editorial-feliz-cavalo-de-pau/
   title: EDITORIAL. Feliz Cavalo-de-Pau
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
@@ -87,7 +96,7 @@
   path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
   title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2024-12-30T00:00:00+00:00'
   description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
@@ -141,8 +150,7 @@
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2024-12-27T13:00:00+00:00'
   description: Discover the trends and ideas shaping the future of finance with the
     Research and Policy Center's Top 10 List.
@@ -164,7 +172,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/12/2024"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-12-26T00:00:00+00:00'
   description: "Seu patrim\xF4nio rendendo at\xE9 21% ao ano em uma renda fixa regulada\
     \ pelo BACEN. FA\xC7A SUA SIMULA\xC7\xC3O: https://allugatorinvest.com/oportunidade-renda-fixa-20-calculadora-de-investimentos/O\
@@ -209,7 +217,7 @@
   path: https://open.spotify.com/episode/6lM05u6LaML1bS4g2U6FEa
   title: 'From our archive: Taylor''s version (part two)'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2024-12-24T00:00:00+00:00'
   description: Mariah Carey released "All I Want for Christmas Is You" in 1994 to
     moderate success. Today, the song is a megahit and Christmas playlist staple.
@@ -219,17 +227,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
   title: Happy Holidays! An Interview with the Christmas Queen
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2024-12-23T13:00:00+00:00'
-  description: Discover the most-read financial insights of 2024, covering a range
-    of topics including private markets, investment risks, and generational wealth.
-    These popular articles showcase key trends and expert perspectives that captivated
-    readers this year.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2024/12/23/top-10-posts-from-2024-private-markets-stocks-for-the-long-run-cap-rates-and-howard-marks/
-  title: 'Top 10 Posts from 2024: Private Markets, Stocks for the Long Run, Cap Rates,
-    and Howard Marks'
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA
