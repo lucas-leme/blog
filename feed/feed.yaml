@@ -1,6 +1,42 @@
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
+  date: '2025-01-03T17:03:36+00:00'
+  description: "<p>A jornada da moderniza\xE7\xE3o da economia chinesa enfrentar\xE1\
+    \ \u201C\xE1guas agitadas e at\xE9 mesmo tempestades perigosas,\u201D Xi Jinping\
+    \ disse no \xFAltimo dia de 2024. E 2025 j\xE1 come\xE7ou agitado. O ano iniciou\
+    \ com um tombo das a\xE7\xF5es locais e queda do renminbi ante o d\xF3lar, enquanto\
+    \ os juros longos dos t\xEDtulos p\xFAblicos mergulharam aos patamares mais [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/com-juros-nas-minimas-historicas-china-luta-contra-japanizacao/\"\
+    \ rel=\"nofollow\">Com juros nas m\xEDnimas hist\xF3ricas, China luta contra \u2018\
+    japaniza\xE7\xE3o\u2019</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/com-juros-nas-minimas-historicas-china-luta-contra-japanizacao/
+  title: "Com juros nas m\xEDnimas hist\xF3ricas, China luta contra \u2018japaniza\xE7\
+    \xE3o\u2019"
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-01-03T16:00:08+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nDebugging a FastAPI app in VSCode is tricky because the code is run via a tool\
+    \ like `uvicorn` , and you typically interact with the API via curl statements\
+    \ or a browser. In this video, I\u2019ll show you how to setup debugging for your\
+    \ FastAPI app.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/debug_fastapi.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:20 Code Explanation\n2:22 What is Debugging?\n3:36 Debugging A\
+    \ FastAPI Application\n6:38 Starting The Debugging\n7:25  Components Of The Debugger\n\
+    11:41 Example of Debugging\n17:42 Breakpoints and Logpoints\n20:19 General Debugging\
+    \ Tips\n21:48 Automatically Open Up a Browser\n22:35 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/C-bie4ZY_o0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=C-bie4ZY_o0
+  title: How to Easily Debug a FastAPI App in VSCode
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2025-01-03T15:34:42+00:00'
   description: "<p>A Receita Federal publicou uma portaria que diminui os valores\
     \ para um brasileiro ser considerado um \u2018grande contribuinte\u2019, sinalizando\
@@ -25,7 +61,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
   title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-01-02T00:00:00+00:00'
   description: "O Brasil corre o risco de perder o valor da sua moeda em 2025? No\
@@ -87,10 +123,7 @@
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2025-01-01T16:00:35+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses."
@@ -129,21 +162,8 @@
   image: https://i2.ytimg.com/vi/EAx_RtMKPm8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EAx_RtMKPm8
   title: 'The Honey Scam: Explained'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2024-12-31T18:24:27+00:00'
-  description: "<p>Raras vezes em sua hist\xF3ria recente o Brasil chegou a um final\
-    \ de ano num clima de tamanha incerteza sobre o que est\xE1 por vir. A ang\xFA\
-    stia na garganta dos mercados ainda parece desconectada da economia real &#8212;\
-    \ mas \xE9 apenas quest\xE3o de tempo para que o c\xE2mbio e a curva de juros\
-    \ atuais turbinem [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/editorial-feliz-cavalo-de-pau/\"\
-    \ rel=\"nofollow\">EDITORIAL. Feliz Cavalo-de-Pau</a> appeared first on <a href=\"\
-    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/editorial-feliz-cavalo-de-pau/
-  title: EDITORIAL. Feliz Cavalo-de-Pau
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
     \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
@@ -164,14 +184,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7a8f636352cf5ccec8d3b078
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
-- author: ArjanCodes
-  categories: *id003
-  date: '2024-12-30T16:00:35+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses."
-  image: https://i3.ytimg.com/vi/ZBt7tMrzhP8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
-  title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
   categories: *id004
   date: '2024-12-30T00:00:00+00:00'
