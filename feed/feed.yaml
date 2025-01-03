@@ -1,5 +1,22 @@
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-01-03T15:34:42+00:00'
+  description: "<p>A Receita Federal publicou uma portaria que diminui os valores\
+    \ para um brasileiro ser considerado um \u2018grande contribuinte\u2019, sinalizando\
+    \ um recrudescimento da fiscaliza\xE7\xE3o do \xF3rg\xE3o. A portaria 505/2024\
+    \ \u2014 publicada no apagar das luzes de 2024 no Di\xE1rio Oficial \u2014 determina\
+    \ que um \u2018grande contribuinte\u2019 \xE9 uma pessoa f\xEDsica com rendimentos\
+    \ maiores ou iguais a [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/receita-muda-definicao-de-grande-contribuinte-e-sinaliza-maior-fiscalizacao/\"\
+    \ rel=\"nofollow\">Receita muda defini\xE7\xE3o de \u2018grande contribuinte\u2019\
+    \ e sinaliza maior fiscaliza\xE7\xE3o</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/receita-muda-definicao-de-grande-contribuinte-e-sinaliza-maior-fiscalizacao/
+  title: "Receita muda defini\xE7\xE3o de \u2018grande contribuinte\u2019 e sinaliza\
+    \ maior fiscaliza\xE7\xE3o"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-01-02T10:15:19+00:00'
   description: The world is aging at a much faster rate than we previously anticipated,
@@ -8,7 +25,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
   title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-01-02T00:00:00+00:00'
   description: "O Brasil corre o risco de perder o valor da sua moeda em 2025? No\
@@ -35,7 +52,7 @@
   title: "#168 | O QUE ESPERAR DA ECONOMIA BRASILEIRA EM 2025: COLAPSO TOTAL OU RECUPERA\xC7\
     \xC3O?"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-01-02T00:00:00+00:00'
   description: "Gunmen of the Gulf Clan, a drug-trafficking militia in Colombia, are\
@@ -70,7 +87,7 @@
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -81,7 +98,7 @@
   path: https://www.youtube.com/watch?v=jSQZ5u-JBVM
   title: Must-Have VSCode Extensions for Backend Dev
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2024-12-31T20:17:18+00:00'
@@ -113,8 +130,7 @@
   path: https://www.youtube.com/watch?v=EAx_RtMKPm8
   title: 'The Honey Scam: Explained'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
-  - Economia
+  categories: *id001
   date: '2024-12-31T18:24:27+00:00'
   description: "<p>Raras vezes em sua hist\xF3ria recente o Brasil chegou a um final\
     \ de ano num clima de tamanha incerteza sobre o que est\xE1 por vir. A ang\xFA\
@@ -127,7 +143,7 @@
   path: https://braziljournal.com/editorial-feliz-cavalo-de-pau/
   title: EDITORIAL. Feliz Cavalo-de-Pau
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
     \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
@@ -149,7 +165,7 @@
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2024-12-30T16:00:35+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses."
@@ -157,7 +173,7 @@
   path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
   title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2024-12-30T00:00:00+00:00'
   description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
     \ Qin was a rising star in Chinese politics and a proteg\xE9 of China\u2019s strongman\
@@ -171,7 +187,7 @@
   path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
   title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2024-12-28T20:58:22+00:00'
   description: 'Longest year of my life. It''s rewind time.
 
@@ -210,7 +226,7 @@
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
 - author: CFA Institute Enterprising Investor
-  categories: *id005
+  categories: *id006
   date: '2024-12-27T13:00:00+00:00'
   description: Discover the trends and ideas shaping the future of finance with the
     Research and Policy Center's Top 10 List.
@@ -232,7 +248,7 @@
   path: https://www.bcb.gov.br/publicacoes/focus/27122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/12/2024"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2024-12-23T12:00:00+00:00'
   description: ''
@@ -240,7 +256,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2024-12-23T12:00:00+00:00'
   description: Measuring carbon emissions is vital for net-zero goals. This paper
     defines corporate emissions types, highlights sector differences &amp; reliable
@@ -293,21 +309,6 @@
   image: https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp
   path: https://www.bcb.gov.br/publicacoes/ri/202412
   title: 'BC - RI: dezembro/2024'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id007
-  date: '2024-12-18T03:15:05+00:00'
-  description: "<p>Voc\xEAs est\xE3o a\xED sofrendo com o d\xF3lar e os juros em patamares\
-    \ pand\xEAmicos &#8212; tudo porque o Governo n\xE3o consegue fechar as contas\
-    \ apesar de cobrar a maior carga tribut\xE1ria do hemisf\xE9rio ocidental.\_ Mas\
-    \ pelo menos um contribuinte est\xE1 rindo \xE0 toa: o Grupo Atem, a refinaria\
-    \ que domina o mercado de combust\xEDveis no Norte [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/\"\
-    \ rel=\"nofollow\">O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da\
-    \ Atem no Congresso</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-duty-free-dos-combustiveis-a-forca-da-atem-no-congresso/
-  title: "O \u2018duty-free dos combust\xEDveis\u2019: a for\xE7a da Atem no Congresso"
 - author: Outliers
   categories: &id009
   - Podcasts
