@@ -16,7 +16,7 @@
   title: "Com juros nas m\xEDnimas hist\xF3ricas, China luta contra \u2018japaniza\xE7\
     \xE3o\u2019"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -51,6 +51,20 @@
   path: https://braziljournal.com/receita-muda-definicao-de-grande-contribuinte-e-sinaliza-maior-fiscalizacao/
   title: "Receita muda defini\xE7\xE3o de \u2018grande contribuinte\u2019 e sinaliza\
     \ maior fiscaliza\xE7\xE3o"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-01-03T00:00:00+00:00'
+  description: "After decades of manufacturing in the United States moving overseas,\
+    \ there are calls to bring it back. But doing that is not straightforward. WSJ\u2019\
+    s Suzanne Kapner and the founder of American Giant explain how that company produced\
+    \ inexpensive T-shirts in the U.S.    Further Reading:   -How a $12.98 T-Shirt\
+    \ Is Made in America\u2014at a Profit\_\_    Further Listening:   -How One Business\
+    \ Owner Is Getting Ahead of Trump's Tariffs\_  -China, an Alabama Business and\
+    \ a 20-Year Battle\_    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
+  path: https://open.spotify.com/episode/4r7PZxRz0YNoepuus9NuUp
+  title: How to Make a $12.98 T-Shirt... in the U.S.
 - author: CFA Institute Enterprising Investor
   categories: &id006
   - CFA
@@ -61,7 +75,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
   title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-01-02T00:00:00+00:00'
   description: "O Brasil corre o risco de perder o valor da sua moeda em 2025? No\
@@ -88,8 +102,7 @@
   title: "#168 | O QUE ESPERAR DA ECONOMIA BRASILEIRA EM 2025: COLAPSO TOTAL OU RECUPERA\xC7\
     \xC3O?"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-01-02T00:00:00+00:00'
   description: "Gunmen of the Gulf Clan, a drug-trafficking militia in Colombia, are\
     \ seizing tunnels inside one of the largest gold motherlodes in Latin America.\
@@ -123,7 +136,7 @@
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2025-01-01T16:00:35+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses."
@@ -163,7 +176,7 @@
   path: https://www.youtube.com/watch?v=EAx_RtMKPm8
   title: 'The Honey Scam: Explained'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
     \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
@@ -184,20 +197,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7a8f636352cf5ccec8d3b078
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
-- author: The Journal.
-  categories: *id004
-  date: '2024-12-30T00:00:00+00:00'
-  description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
-    \ Qin was a rising star in Chinese politics and a proteg\xE9 of China\u2019s strongman\
-    \ leader, Xi Jinping. In the first episode of our three-part investigation, we\
-    \ chart Qin\u2019s rise and begin to untangle the mystery of his disappearance.\
-    \ This series was originally published in October.  Further Listening:- Episode\
-    \ 2: The Affair - Apple | Spotify - Episode 3: The Downfall - Apple | Spotify\
-    \ We'll be back with something new on January 2.  Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
-  path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
-  title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
   categories: *id005
   date: '2024-12-28T20:58:22+00:00'
