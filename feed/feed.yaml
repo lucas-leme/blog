@@ -1,5 +1,5 @@
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id005
   - CFA
   date: '2025-01-02T10:15:19+00:00'
   description: The world is aging at a much faster rate than we previously anticipated,
@@ -7,6 +7,49 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
   title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
+- author: Market Makers
+  categories: &id001
+  - Podcasts
+  date: '2025-01-02T00:00:00+00:00'
+  description: "O Brasil corre o risco de perder o valor da sua moeda em 2025? No\
+    \ primeiro epis\xF3dio do ano, exploramos os grandes desafios e riscos que o Brasil\
+    \ pode enfrentar em 2025.Recebemos Daniel Leichsenring, economista com mais de\
+    \ 20 anos de experi\xEAncia no mercado financeiro, para falar sobre os problemas\
+    \ estruturais que amea\xE7am a economia brasileira e tamb\xE9m analisar se o Real\
+    \ pode estar \xE0 beira de uma grande desvaloriza\xE7\xE3o.Discutimos como a crise\
+    \ fiscal, os juros altos e as incertezas pol\xEDticas podem impactar os investimentos\
+    \ e a vida dos brasileiros. Ser\xE1 que estamos caminhando para repetir os erros\
+    \ de outros pa\xEDses, como a Turquia, onde a moeda local perdeu drasticamente\
+    \ seu poder de compra? E o que dizer da lideran\xE7a pol\xEDtica no Brasil? Ser\xE1\
+    \ que falta coragem para encarar os problemas de frente e implementar mudan\xE7\
+    as significativas?Al\xE9m disso, aprofundamos a discuss\xE3o sobre o papel do\
+    \ Banco Central, sob a lideran\xE7a de Gal\xEDpolo, e os desafios de conduzir\
+    \ uma pol\xEDtica monet\xE1ria em um contexto de press\xF5es fiscais e pol\xED\
+    ticas. Ser\xE1 que o Brasil conseguir\xE1 encontrar um caminho para o crescimento\
+    \ sustent\xE1vel ou estamos em um ciclo intermin\xE1vel de crises?Se voc\xEA busca\
+    \ clareza sobre o que esperar em 2025, este v\xEDdeo \xE9 obrigat\xF3rio!Apresentador:\
+    \ Josu\xE9 Guedes (@josueguedes__) e Thiago Salom\xE3o (@_salomoney)Convidado:\
+    \ Daniel Leichsenring (Economista)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
+  image: https://i.scdn.co/image/ab6765630000ba8aa0bad286cf8b40e469a2d829
+  path: https://open.spotify.com/episode/3BvjAp8PcK2pv1Uo39VH9Y
+  title: "#168 | O QUE ESPERAR DA ECONOMIA BRASILEIRA EM 2025: COLAPSO TOTAL OU RECUPERA\xC7\
+    \xC3O?"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2025-01-02T00:00:00+00:00'
+  description: "Gunmen of the Gulf Clan, a drug-trafficking militia in Colombia, are\
+    \ seizing tunnels inside one of the largest gold motherlodes in Latin America.\
+    \ The mine belongs to Zijin Mining Group, a Chinese company, which says it has\
+    \ surrendered nearly two-thirds of its tunnels and lost an estimated $200 million\
+    \ worth of gold in 2023. WSJ's Juan Forero reports.    Further Reading:   -A Drug\
+    \ Gang Stole 3 Tons of Gold in a Scam So Perfect It\u2019s Still Going\_    Further\
+    \ Listening:  -Smuggling Migrants Toward the U.S. Is a Booming Business\_  -Why\
+    \ Black Lung Is Rising in Coal Country\_  Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
+  path: https://open.spotify.com/episode/1hwjikpOUCwbhgiTItgk8c
+  title: The Underground Battle for Colombia's Richest Gold Mine
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -27,7 +70,7 @@
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
 - author: ArjanCodes
-  categories: &id001
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -38,7 +81,7 @@
   path: https://www.youtube.com/watch?v=jSQZ5u-JBVM
   title: Must-Have VSCode Extensions for Backend Dev
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id004
   - Tech
   - Youtube
   date: '2024-12-31T20:17:18+00:00'
@@ -84,8 +127,7 @@
   path: https://braziljournal.com/editorial-feliz-cavalo-de-pau/
   title: EDITORIAL. Feliz Cavalo-de-Pau
 - author: Market Makers
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
     \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
@@ -107,7 +149,7 @@
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2024-12-30T16:00:35+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses."
@@ -115,8 +157,7 @@
   path: https://www.youtube.com/watch?v=ZBt7tMrzhP8
   title: 'Recursion: Powerful or Problematic?'
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2024-12-30T00:00:00+00:00'
   description: "Last year, China\u2019s foreign minister, Qin Gang, suddenly disappeared.\
     \ Qin was a rising star in Chinese politics and a proteg\xE9 of China\u2019s strongman\
@@ -130,7 +171,7 @@
   path: https://open.spotify.com/episode/3rddf8SDl6Odrn4P41O3dE
   title: 'The Missing Minister: The Vanishing of Qin Gang'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id004
   date: '2024-12-28T20:58:22+00:00'
   description: 'Longest year of my life. It''s rewind time.
 
@@ -169,7 +210,7 @@
   path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
   title: WTF Happened in 2024?!
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id005
   date: '2024-12-27T13:00:00+00:00'
   description: Discover the trends and ideas shaping the future of finance with the
     Research and Policy Center's Top 10 List.
@@ -190,38 +231,6 @@
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
   path: https://www.bcb.gov.br/publicacoes/focus/27122024
   title: "BC - Focus - Relat\xF3rio de Mercado - 27/12/2024"
-- author: Market Makers
-  categories: *id004
-  date: '2024-12-26T00:00:00+00:00'
-  description: "Seu patrim\xF4nio rendendo at\xE9 21% ao ano em uma renda fixa regulada\
-    \ pelo BACEN. FA\xC7A SUA SIMULA\xC7\xC3O: https://allugatorinvest.com/oportunidade-renda-fixa-20-calculadora-de-investimentos/O\
-    \ Brasil est\xE1 preparado para enfrentar as 7 grandes tend\xEAncias econ\xF4\
-    micas de 2025? Neste epis\xF3dio especial de fim de ano, trouxemos Marcos Troyjo,\
-    \ ex-presidente do Banco dos BRICS e renomado economista, para discutir as 7 tend\xEA\
-    ncias que moldar\xE3o o cen\xE1rio global em 2025.Desde a \"trumpl\xEAncia\" na\
-    \ economia americana at\xE9 as transforma\xE7\xF5es no Brasil diante de tens\xF5\
-    es geopol\xEDticas e inova\xE7\xF5es tecnol\xF3gicas, analisamos cada tend\xEA\
-    ncia minuciosamente. Descubra como o Brasil pode se posicionar diante de desafios\
-    \ como a reindustrializa\xE7\xE3o dos EUA, o impacto das tens\xF5es entre China\
-    \ e EUA no agro brasileiro e a crescente import\xE2ncia da Intelig\xEAncia Artificial\
-    \ nos mercados globais.O que podemos esperar do pr\xF3ximo ano? Qual das 7 tend\xEA\
-    ncias apresentadas voc\xEA acha que ter\xE1 o maior impacto no Brasil?\_Apresentador:\
-    \ Thiago Salom\xE3o (@_salomoney)\_Convidado: Marcos Troyjo (ex-presidente do\
-    \ Banco do BRICS)Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a142984660dfc28d9622842c6
-  path: https://open.spotify.com/episode/1DDHxcEcL6yBXNZovSLGfu
-  title: "#166 | AS 7 TEND\xCANCIAS QUE V\xC3O TRANSFORMAR O MUNDO EM 2025"
-- author: The Journal.
-  categories: *id005
-  date: '2024-12-24T00:00:00+00:00'
-  description: Mariah Carey released "All I Want for Christmas Is You" in 1994 to
-    moderate success. Today, the song is a megahit and Christmas playlist staple.
-    What happened? WSJ's John Jurgensen called up the "Queen of Christmas" to find
-    out. This episode was originally published on December 11, 2020.We'll return with
-    something new on January 2.  Learn more about your ad choices. Visit megaphone.fm/adchoices
-  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
-  path: https://open.spotify.com/episode/407iX5Ep2ZSpE9YwCVGm0u
-  title: Happy Holidays! An Interview with the Christmas Queen
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA
