@@ -1,33 +1,35 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-01-02T20:23:00+00:00'
+  description: "Moeda americana chegou a bater R$ 6,228 no in\xEDcio do preg\xE3o,\
+    \ mas fechou em queda no fim do dia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-sobe-ante-o-real-com-aversao-ao-risco-na-primeira-sessao-de-2025/
+  title: "Ap\xF3s abrir em alta, d\xF3lar recua na primeira sess\xE3o de 2025 com\
+    \ ajustes t\xE9cnicos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-01-02T17:58:26+00:00'
   description: Desempenho do Ibov em moeda americana fica na rabeira do mundo
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/investimentos/bolsa-argentina-subiu-114-em-dolar-no-ano-passado-enquanto-a-brasileira-tombou-30/
   title: "Bolsa argentina subiu 114% em d\xF3lar enquanto a brasileira despencou 30%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-01-02T15:54:15+00:00'
   description: "Compras deve aumentar de 10 milh\xF5es para at\xE9 1,27 bilh\xE3o\
     \ de toneladas, segundo analistas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/china-deve-importar-recorde-de-minerio-de-ferro-em-2025-apesar-de-reducao-da-demanda-por-aco/
-  title: "China deve importar recorde de min\xE9rio de ferro em 2025 apesar de redu\xE7\
-    \xE3o da demanda por a\xE7o"
+  title: "Compras de min\xE9rio de ferro na China devem bater recorde em 2025, apesar\
+    \ da redu\xE7\xE3o na demanda por a\xE7o"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-01-02T14:38:36+00:00'
   description: "Homem avan\xE7ou sobre p\xFAblico em New Orleans deixando ao menos\
     \ 15 mortos."
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/ataque-em-nova-orleans-e-explosao-de-tesla-ampliam-temor-nos-eua-as-vesperas-da-posse-de-trump/
   title: "Ataque em Nova Orleans e explos\xE3o de Cibertruck ampliam temor nos EUA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-01-02T13:23:48+00:00'
-  description: Moeda norte-americana abriu o ano cotada a R$ 6,22
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dolar-sobe-ante-o-real-com-aversao-ao-risco-na-primeira-sessao-de-2025/
-  title: "D\xF3lar sobe com avers\xE3o ao risco na primeira sess\xE3o de 2025"
