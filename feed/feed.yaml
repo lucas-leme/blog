@@ -1,5 +1,16 @@
-- author: "Economia \u2013 Brazil Journal"
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-01-04T16:00:20+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
+    \ Check out my courses: https://arjan.codes/courses."
+  image: https://i2.ytimg.com/vi/QihjFTSdzqM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=QihjFTSdzqM
+  title: "Stop Wasting Time on Formatting \u2013 Try Ruff!"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-01-03T17:03:36+00:00'
   description: "<p>A jornada da moderniza\xE7\xE3o da economia chinesa enfrentar\xE1\
@@ -16,10 +27,7 @@
   title: "Com juros nas m\xEDnimas hist\xF3ricas, China luta contra \u2018japaniza\xE7\
     \xE3o\u2019"
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-01-03T16:00:08+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nDebugging a FastAPI app in VSCode is tricky because the code is run via a tool\
@@ -36,7 +44,7 @@
   path: https://www.youtube.com/watch?v=C-bie4ZY_o0
   title: How to Easily Debug a FastAPI App in VSCode
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-01-03T15:34:42+00:00'
   description: "<p>A Receita Federal publicou uma portaria que diminui os valores\
     \ para um brasileiro ser considerado um \u2018grande contribuinte\u2019, sinalizando\
@@ -52,7 +60,7 @@
   title: "Receita muda defini\xE7\xE3o de \u2018grande contribuinte\u2019 e sinaliza\
     \ maior fiscaliza\xE7\xE3o"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-01-03T00:00:00+00:00'
   description: "After decades of manufacturing in the United States moving overseas,\
@@ -102,7 +110,7 @@
   title: "#168 | O QUE ESPERAR DA ECONOMIA BRASILEIRA EM 2025: COLAPSO TOTAL OU RECUPERA\xC7\
     \xC3O?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-01-02T00:00:00+00:00'
   description: "Gunmen of the Gulf Clan, a drug-trafficking militia in Colombia, are\
     \ seizing tunnels inside one of the largest gold motherlodes in Latin America.\
@@ -135,14 +143,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
-- author: ArjanCodes
-  categories: *id003
-  date: '2025-01-01T16:00:35+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
-    \ Check out my courses: https://arjan.codes/courses."
-  image: https://i3.ytimg.com/vi/jSQZ5u-JBVM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=jSQZ5u-JBVM
-  title: Must-Have VSCode Extensions for Backend Dev
 - author: Marques Brownlee
   categories: &id005
   - Tech
