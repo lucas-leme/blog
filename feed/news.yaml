@@ -1,3 +1,37 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-01-04T20:10:38+00:00'
+  description: "O governo da Argentina anunciou um acordo de empr\xE9stimo com garantia\
+    \ de recompra (conhecido como \u201Crepo\u201D em espanhol) de US$ 1 bilh\xE3\
+    o com cinco bancos internacionais, o que ajudar\xE1 a refor\xE7ar as reservas\
+    \ internacionais do banco central do pa\xEDs. A avalia\xE7\xE3o \xE9 de que isso\
+    \ representa uma vit\xF3ria importante para o presidente Javier Milei em [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-milei-reforca-reservas-internacionais-da-argentina-com-acordo-de-us-1-bilhao/
+  title: "Governo Milei refor\xE7a reservas internacionais da Argentina com acordo\
+    \ de US$ 1 bilh\xE3o"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-01-04T20:06:37+00:00'
+  description: "Joe Biden, vivendo os estertores de seu mandato, est\xE1 prestes deixar\
+    \ uma bomba no colo de Trump: proibir plataformas de \xF3leo e g\xE1s em 2,6 milh\xF5\
+    es de quil\xF4metros quadrados da costa americana, incluindo \xE1guas do Atl\xE2\
+    ntico e do Pac\xEDfico. Para visualizar: isso d\xE1 o equivalente em mar \xE0\
+    \ \xE1rea somada dos Estados da Amaz\xF4nia e [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/biden-proibira-extracao-de-petroleo-em-boa-parte-da-costa-americana/
+  title: "Biden proibir\xE1 extra\xE7\xE3o de petr\xF3leo em boa parte da costa americana"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-01-03T20:45:01+00:00'
+  description: Moeda encerrou a sexta em alta de 0,29%; na semana, a perda foi de
+    0,2%
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-fecha-com-leve-alta-em-sessao-marcada-por-baixa-liquidez-e-foco-no-exterior/
+  title: "D\xF3lar fecha a semana a R$ 6,18, ap\xF3s o m\xEAs com a maior fuga de\
+    \ moeda americana na hist\xF3ria"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +74,7 @@
   path: https://www.reddit.com/r/CFA/comments/1hseouu/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-01-02T20:23:00+00:00'
   description: "Moeda americana chegou a bater R$ 6,228 no in\xEDcio do preg\xE3o,\
     \ mas fechou em queda no fim do dia"
@@ -49,31 +82,6 @@
   path: https://investnews.com.br/financas/dolar-sobe-ante-o-real-com-aversao-ao-risco-na-primeira-sessao-de-2025/
   title: "Ap\xF3s abrir em alta, d\xF3lar recua na primeira sess\xE3o de 2025 com\
     \ ajustes t\xE9cnicos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-01-02T17:58:26+00:00'
-  description: Desempenho do Ibov em moeda americana fica na rabeira do mundo
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/bolsa-argentina-subiu-114-em-dolar-no-ano-passado-enquanto-a-brasileira-tombou-30/
-  title: "Bolsa argentina subiu 114% em d\xF3lar enquanto a brasileira despencou 30%"
-- author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-01-02T15:54:15+00:00'
-  description: "Compras deve aumentar de 10 milh\xF5es para at\xE9 1,27 bilh\xE3o\
-    \ de toneladas, segundo analistas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/china-deve-importar-recorde-de-minerio-de-ferro-em-2025-apesar-de-reducao-da-demanda-por-aco/
-  title: "Compras de min\xE9rio de ferro na China devem bater recorde em 2025, apesar\
-    \ da redu\xE7\xE3o na demanda por a\xE7o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-01-02T14:38:36+00:00'
-  description: "Homem avan\xE7ou sobre p\xFAblico em New Orleans deixando ao menos\
-    \ 15 mortos."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ataque-em-nova-orleans-e-explosao-de-tesla-ampliam-temor-nos-eua-as-vesperas-da-posse-de-trump/
-  title: "Ataque em Nova Orleans e explos\xE3o de Cibertruck ampliam temor nos EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
