@@ -1,3 +1,12 @@
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-01-05T19:02:08+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/nffJx51swVQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=nffJx51swVQ
+  title: The World's Largest Golf Simulator
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -83,7 +92,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/01/02/aging-populations-demand-urgent-pension-reforms-are-we-prepared/
   title: 'Aging Populations Demand Urgent Pension Reforms: Are We Prepared?'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-01-02T00:00:00+00:00'
   description: "O Brasil corre o risco de perder o valor da sua moeda em 2025? No\
@@ -144,9 +153,7 @@
   path: https://open.spotify.com/episode/50Xb7aG12SvR62lKkyqD1J
   title: 'Buying happiness: how to invest if you want to be cheerful'
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2024-12-31T20:17:18+00:00'
   description: 'Don''t. Use. Honey.
 
@@ -176,7 +183,7 @@
   path: https://www.youtube.com/watch?v=EAx_RtMKPm8
   title: 'The Honey Scam: Explained'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2024-12-31T00:00:00+00:00'
   description: "AMBIPAR: A L\xCDDER EM GEST\xC3O AMBIENTAL: https://ambipar.com O\
     \ Brasil n\xE3o vai bem economicamente e \xE9 exatamente por isso que voc\xEA\
@@ -197,45 +204,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7a8f636352cf5ccec8d3b078
   path: https://open.spotify.com/episode/166FcVeoD4Q6j9ikIUN8cP
   title: "#167 | A\xC7\xD5ES EM 2025: A MAIOR OPORTUNIDADE DA D\xC9CADA?"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2024-12-28T20:58:22+00:00'
-  description: 'Longest year of my life. It''s rewind time.
-
-
-    Panels: https://panels.art
-
-
-    251 Low: https://atoms.com/products/atoms-mkbhd-m251-low-gray-black
-
-
-    Ridge: https://ridge.com/MKBHD
-
-
-    Ultimate frisbee clips: http://instagram.com/nkolakovic
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Tech I''m using right now: https://www.amazon.com/shop/MKBHD
-
-
-    Intro/Outro Track: Tankjunkie
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i1.ytimg.com/vi/LCpm7cNQ5Vo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=LCpm7cNQ5Vo
-  title: WTF Happened in 2024?!
 - author: CFA Institute Enterprising Investor
   categories: *id006
   date: '2024-12-27T13:00:00+00:00'
