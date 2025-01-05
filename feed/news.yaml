@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-01-05T12:36:54+00:00'
+  description: "Pa\xEDs anuncia medidas para estimular mercado de a\xE7\xF5es e atrair\
+    \ capital estrangeiro; tens\xE3o comercial com EUA preocupa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-sinaliza-mais-injecao-de-recursos-para-reaquecer-economia/
+  title: "China sinaliza mais inje\xE7\xE3o de recursos para reaquecer economia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Ripple (XRP): a criptomoeda \u201Cempresarial\u201D que subiu mais de 300%\
     \ em 2024"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-01-04T20:10:38+00:00'
   description: "O governo da Argentina anunciou um acordo de empr\xE9stimo com garantia\
     \ de recompra (conhecido como \u201Crepo\u201D em espanhol) de US$ 1 bilh\xE3\
@@ -21,18 +29,6 @@
   path: https://investnews.com.br/economia/governo-milei-reforca-reservas-internacionais-da-argentina-com-acordo-de-us-1-bilhao/
   title: "Governo Milei refor\xE7a reservas internacionais da Argentina com acordo\
     \ de US$ 1 bilh\xE3o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-01-04T20:06:37+00:00'
-  description: "Joe Biden, vivendo os estertores de seu mandato, est\xE1 prestes deixar\
-    \ uma bomba no colo de Trump: proibir plataformas de \xF3leo e g\xE1s em 2,6 milh\xF5\
-    es de quil\xF4metros quadrados da costa americana, incluindo \xE1guas do Atl\xE2\
-    ntico e do Pac\xEDfico. Para visualizar: isso d\xE1 o equivalente em mar \xE0\
-    \ \xE1rea somada dos Estados da Amaz\xF4nia e [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/biden-proibira-extracao-de-petroleo-em-boa-parte-da-costa-americana/
-  title: "Biden vai proibir novas plataformas de petr\xF3leo em boa parte da costa\
-    \ americana"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-01-03T20:45:01+00:00'
