@@ -1,12 +1,3 @@
-- author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
-  date: '2025-01-06T09:30:00+00:00'
-  description: "Norma foi feita sob medida para proteger montadoras que produzem no\
-    \ Estado. Mas h\xE1 uma brecha"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/por-que-sao-paulo-so-isentou-de-ipva-os-hibridos-da-toyota/
-  title: "Por que S\xE3o Paulo s\xF3 isentou de IPVA os h\xEDbridos da Toyota"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -43,7 +34,8 @@
   path: https://www.reddit.com/r/CFA/comments/1hurdfa/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: &id001
+  - "Not\xEDcias"
   date: '2025-01-05T12:36:54+00:00'
   description: "Pa\xEDs anuncia medidas para estimular mercado de a\xE7\xF5es e atrair\
     \ capital estrangeiro; tens\xE3o comercial com EUA preocupa"
@@ -60,6 +52,18 @@
   path: https://investnews.com.br/financas/ripple-xrp-a-criptomoeda-empresarial-que-subiu-mais-de-300-em-2024/
   title: "Ripple (XRP): a criptomoeda \u201Cempresarial\u201D que subiu mais de 300%\
     \ em 2024"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-01-04T20:10:38+00:00'
+  description: "O governo da Argentina anunciou um acordo de empr\xE9stimo com garantia\
+    \ de recompra (conhecido como \u201Crepo\u201D em espanhol) de US$ 1 bilh\xE3\
+    o com cinco bancos internacionais, o que ajudar\xE1 a refor\xE7ar as reservas\
+    \ internacionais do banco central do pa\xEDs. A avalia\xE7\xE3o \xE9 de que isso\
+    \ representa uma vit\xF3ria importante para o presidente Javier Milei em [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-milei-reforca-reservas-internacionais-da-argentina-com-acordo-de-us-1-bilhao/
+  title: "Governo Milei refor\xE7a reservas internacionais da Argentina com acordo\
+    \ de US$ 1 bilh\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-01-03T20:45:01+00:00'
