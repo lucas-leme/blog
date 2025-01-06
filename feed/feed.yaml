@@ -1,3 +1,14 @@
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-01-06T16:00:47+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
+    \ Check out my courses: https://arjan.codes/courses."
+  image: https://i2.ytimg.com/vi/qBbmhIs_Tgo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=qBbmhIs_Tgo
+  title: Use Yourself as a Yardstick
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -27,10 +38,7 @@
   path: https://www.youtube.com/watch?v=nffJx51swVQ
   title: The World's Largest Golf Simulator
 - author: ArjanCodes
-  categories: &id001
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-01-04T16:00:20+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\U0001F393\
     \ Check out my courses: https://arjan.codes/courses."
@@ -54,23 +62,6 @@
   path: https://braziljournal.com/com-juros-nas-minimas-historicas-china-luta-contra-japanizacao/
   title: "Com juros nas m\xEDnimas hist\xF3ricas, China luta contra \u2018japaniza\xE7\
     \xE3o\u2019"
-- author: ArjanCodes
-  categories: *id001
-  date: '2025-01-03T16:00:08+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nDebugging a FastAPI app in VSCode is tricky because the code is run via a tool\
-    \ like `uvicorn` , and you typically interact with the API via curl statements\
-    \ or a browser. In this video, I\u2019ll show you how to setup debugging for your\
-    \ FastAPI app.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2024/debug_fastapi.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:20 Code Explanation\n2:22 What is Debugging?\n3:36 Debugging A\
-    \ FastAPI Application\n6:38 Starting The Debugging\n7:25  Components Of The Debugger\n\
-    11:41 Example of Debugging\n17:42 Breakpoints and Logpoints\n20:19 General Debugging\
-    \ Tips\n21:48 Automatically Open Up a Browser\n22:35 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/C-bie4ZY_o0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=C-bie4ZY_o0
-  title: Debugging FastAPI in VSCode Is Easier Than You Think
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2025-01-03T15:34:42+00:00'
@@ -108,11 +99,11 @@
   description: "After decades of manufacturing in the United States moving overseas,\
     \ there are calls to bring it back. But doing that is not straightforward. WSJ\u2019\
     s Suzanne Kapner and the founder of American Giant explain how that company produced\
-    \ inexpensive T-shirts in the U.S.    Further Reading:   -How a $12.98 T-Shirt\
-    \ Is Made in America\u2014at a Profit\_\_    Further Listening:   -How One Business\
-    \ Owner Is Getting Ahead of Trump's Tariffs\_  -China, an Alabama Business and\
-    \ a 20-Year Battle\_    Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
+    \ inexpensive T-shirts in the U.S.  Further Reading:  -How a $12.98 T-Shirt Is\
+    \ Made in America\u2014at a Profit\_\_  Further Listening:  -How One Business\
+    \ Owner Is Getting Ahead of Trump's Tariffs\_ -China, an Alabama Business and\
+    \ a 20-Year Battle\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/4r7PZxRz0YNoepuus9NuUp
   title: How to Make a $12.98 T-Shirt... in the U.S.
 - author: CFA Institute Enterprising Investor
@@ -158,12 +149,12 @@
     \ seizing tunnels inside one of the largest gold motherlodes in Latin America.\
     \ The mine belongs to Zijin Mining Group, a Chinese company, which says it has\
     \ surrendered nearly two-thirds of its tunnels and lost an estimated $200 million\
-    \ worth of gold in 2023. WSJ's Juan Forero reports.    This episode has been updated\
-    \ to include comment from the Gulf Clan.  Further Reading:   -A Drug Gang Stole\
-    \ 3 Tons of Gold in a Scam So Perfect It\u2019s Still Going\_    Further Listening:\
-    \  -Smuggling Migrants Toward the U.S. Is a Booming Business\_  -Why Black Lung\
+    \ worth of gold in 2023. WSJ's Juan Forero reports.  This episode has been updated\
+    \ to include comment from the Gulf Clan. Further Reading:  -A Drug Gang Stole\
+    \ 3 Tons of Gold in a Scam So Perfect It\u2019s Still Going\_  Further Listening:\
+    \ -Smuggling Migrants Toward the U.S. Is a Booming Business\_ -Why Black Lung\
     \ Is Rising in Coal Country\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8a1c116f523d0cb1ce64b396ea
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/1hwjikpOUCwbhgiTItgk8c
   title: The Underground Battle for Colombia's Richest Gold Mine
 - author: Money Talks from The Economist
