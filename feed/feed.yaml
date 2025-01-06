@@ -206,6 +206,15 @@
   image: https://i2.ytimg.com/vi/EAx_RtMKPm8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EAx_RtMKPm8
   title: 'The Honey Scam: Explained'
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2024-12-31T12:00:00+00:00'
+  description: CFA Institute comments on the SEC filing of the PCAOB Rulemaking Docket
+    Matter No. 055, Firm Reporting Metrics final rule.
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2020-2024/sec-filing-of-the-pcaob-firm-reporting-metrics-final-rule
+  title: SEC Filing of the PCAOB Firm Reporting Metrics Final Rule
 - author: Market Makers
   categories: *id005
   date: '2024-12-31T00:00:00+00:00'
@@ -237,23 +246,12 @@
   path: https://blogs.cfainstitute.org/investor/2024/12/27/research-and-policy-center-top-10-articles-from-2024/
   title: Research and Policy Center Top 10 Articles from 2024
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id007
   date: '2024-12-23T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2024/net-zero-investing-harnessing-the-power-of-unstructured-data
   title: 'Net-Zero Investing: Harnessing the Power of Unstructured Data'
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2024-12-23T12:00:00+00:00'
-  description: Measuring carbon emissions is vital for net-zero goals. This paper
-    defines corporate emissions types, highlights sector differences &amp; reliable
-    metrics.
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2024/scope-of-net-zero
-  title: 'The Scope of Net Zero: The Use of Carbon Emission Data to Achieve Portfolio
-    Goals'
 - author: The Overshoot
   categories: &id008
   - Macro
