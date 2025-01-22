@@ -193,7 +193,7 @@ def get_feed_info(feed_url):
             'link': entry.link,
             'description': entry.description,
             'summary': entry.summary,
-            'published': entry.published if hasattr(entry, 'published') else entry.updated,
+            'published': entry.published if hasattr(entry, 'published') else None,
             'image': image,
         })
 
