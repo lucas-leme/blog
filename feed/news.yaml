@@ -1,6 +1,14 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-02-05T11:41:13+00:00'
+  description: "A joint-venture com a Amil \xE9 a segunda maior rede de hospitais\
+    \ do pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/dasa-reduz-divida-liquida-da-rede-impar-em-r-700-milhoes/
+  title: "Dasa reduz d\xEDvida l\xEDquida da rede \xCDmpar em R$ 700 milh\xF5es"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-02-05T11:02:36+00:00'
   description: "A China imp\xF4s tarifas espec\xEDficas sobre as importa\xE7\xF5es\
     \ dos EUA e colocou empresas em alerta para poss\xEDveis san\xE7\xF5es"
@@ -9,7 +17,7 @@
   title: "Trump n\xE3o tem pressa para falar com Xi e frear uma nova guerra tarif\xE1\
     ria"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-05T10:03:00+00:00'
   description: "Voc\xEA tem plano de sa\xFAde pago pela empresa onde trabalha? Ela\
@@ -22,22 +30,13 @@
   title: "Imposto de renda 2025: Como declarar plano de sa\xFAde com coparticipa\xE7\
     \xE3o?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-05T09:00:00+00:00'
   description: "Entenda como uma separa\xE7\xE3o realmente mexe com o seu patrim\xF4\
     nio \u2013 e veja como se precaver"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/calculadora-de-divorcio-como-uma-separacao-pode-baguncar-seu-patrimonio/
   title: "Calculadora de div\xF3rcio: como proteger o bolso"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-04T20:45:30+00:00'
-  description: "Em apenas sete dias, a alta no pre\xE7o do caf\xE9 ar\xE1bica foi\
-    \ de 7%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cafe-arabica-atinge-maxima-historica-no-mercado-brasileiro-apos-recorde-em-ny/
-  title: "Caf\xE9 ar\xE1bica atinge m\xE1xima hist\xF3rica no mercado brasileiro ap\xF3\
-    s recorde em NY"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
