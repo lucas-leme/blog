@@ -231,7 +231,7 @@ def _convert_date_to_isoformat(date: str):
         date: datetime = dateutil.parser.parse(date) 
         return date.isoformat()
     else:
-        return None
+        return datetime.now().isoformat()
 
 
 def get_most_recent_post():
