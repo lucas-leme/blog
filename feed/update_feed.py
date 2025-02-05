@@ -227,7 +227,7 @@ def get_feed_data():
 
 
 def _convert_date_to_isoformat(date: str):
-    if date is not None
+    if date is not None:
         date: datetime = dateutil.parser.parse(date) 
         return date.isoformat()
     else:
