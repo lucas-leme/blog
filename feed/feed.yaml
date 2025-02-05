@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-05T15:48:28.408830'
+  date: '2025-02-05T18:31:03.024947'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T15:48:28.407111'
+  date: '2025-02-05T18:31:03.023212'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T15:48:28.407107'
+  date: '2025-02-05T18:31:03.023208'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T15:48:28.407102'
+  date: '2025-02-05T18:31:03.023197'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T15:48:28.407092'
+  date: '2025-02-05T18:31:03.023187'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-05T16:00:57+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/x3BRSUwJnPM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=x3BRSUwJnPM
+  title: "Rust\u2019s Stack vs. Heap Memory Model"
 - author: CFA Institute Enterprising Investor
   categories: &id003
   - CFA
@@ -563,7 +575,7 @@
   path: https://braziljournal.com/as-muitas-razoes-para-a-queda-do-dolar/
   title: "As (muitas) raz\xF5es para a queda do d\xF3lar"
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-02-04T12:00:00+00:00'
   description: ''
@@ -581,7 +593,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/04/for-investment-leaders-why-you-should-learn-to-love-losing/
   title: 'For Investment Leaders: Why You Should Learn to Love Losing'
 - author: The Journal.
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-02-04T00:00:00+00:00'
   description: "Today, Robert F. Kennedy Jr. cleared a major hurdle to becoming the\
@@ -605,10 +617,7 @@
   title: '#150 - GIGANTES do MERCADO: KAPITALO e IBIUNA dividem perspectivas de Brasil
     e de Mundo'
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-02-03T16:00:09+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -617,7 +626,7 @@
   path: https://www.youtube.com/watch?v=ChZdeA4a6_I
   title: "\u2620\uFE0F Why Overengineering Can Kill Your Project"
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-02-03T12:00:00+00:00'
   description: ''
   image: null
@@ -640,7 +649,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/02/are-first-time-home-buyers-facing-desperate-times/
   title: Are First&#8209;Time Home Buyers Facing Desperate Times?
 - author: The Journal.
-  categories: *id005
+  categories: *id006
   date: '2025-02-03T00:00:00+00:00'
   description: "The White House announced wide-ranging tariffs against the U.S.'s\
     \ biggest trading partners: Mexico, Canada and China. At the last minute, both\
@@ -675,15 +684,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a06a2648e29e16b0bb9cfcd21
   path: https://open.spotify.com/episode/6h2CKdL6YFAXIecDwlEwxm
   title: "Thao Tran \u2013 Market Making Illiquid, Non-Fungible Assets (S7E14)"
-- author: ArjanCodes
-  categories: *id006
-  date: '2025-02-01T16:00:00+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/0xA7WoCzf3s/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=0xA7WoCzf3s
-  title: "SQLAlchemy: Python + Databases = \u2764\uFE0F"
 - author: The Overshoot
   categories: &id009
   - Macro
