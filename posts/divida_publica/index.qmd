@@ -224,7 +224,7 @@ Portanto, ao eliminar a dívida externa a dívida pública do Brasil ficou mais 
 # | output: false
 import yfinance as yf
 
-dolar = yf.download('USDBRL=X', start='1994-07-01', end='2021-12-31')
+dolar = yf.download('BRL=X', start='1994-07-01', end='2021-12-31')
 dolar = dolar['Adj Close'].resample('Y').last().dropna()
 ```
 
