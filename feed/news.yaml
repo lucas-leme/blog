@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-02-05T12:18:35+00:00'
+  description: "David Sacks disse que os trabalhos ainda est\xE3o no in\xEDcio, mas\
+    \ que a reserva de bitcoin ser\xE1 um dos primeiros itens avaliados"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/estudo-sobre-reserva-nacional-de-bitcoin-sera-prioridade-diz-czar-cripto-de-trump/
+  title: "Estudo sobre reserva nacional de bitcoin ser\xE1 prioridade, diz czar cripto\
+    \ de Trump"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   title: "Trump n\xE3o tem pressa para falar com Xi e frear uma nova guerra tarif\xE1\
     ria"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-02-05T10:03:00+00:00'
   description: "Voc\xEA tem plano de sa\xFAde pago pela empresa onde trabalha? Ela\
     \ paga 100% ou voc\xEA paga uma parte? \xC9 no sistema de coparticipa\xE7\xE3\
@@ -29,14 +38,6 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-plano-de-saude-com-coparticipacao/
   title: "Imposto de renda 2025: Como declarar plano de sa\xFAde com coparticipa\xE7\
     \xE3o?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-05T09:00:00+00:00'
-  description: "Entenda como uma separa\xE7\xE3o realmente mexe com o seu patrim\xF4\
-    nio \u2013 e veja como se precaver"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/calculadora-de-divorcio-como-uma-separacao-pode-baguncar-seu-patrimonio/
-  title: "Calculadora de div\xF3rcio: como proteger o bolso"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
