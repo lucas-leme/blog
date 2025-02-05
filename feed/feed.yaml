@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-05T18:31:03.024947'
+  date: '2025-02-05T20:27:37.789709'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T18:31:03.023212'
+  date: '2025-02-05T20:27:37.787956'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T18:31:03.023208'
+  date: '2025-02-05T20:27:37.787952'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T18:31:03.023197'
+  date: '2025-02-05T20:27:37.787948'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-05T18:31:03.023187'
+  date: '2025-02-05T20:27:37.787938'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -462,7 +462,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -474,7 +474,7 @@
   path: https://www.youtube.com/watch?v=x3BRSUwJnPM
   title: "Rust\u2019s Stack vs. Heap Memory Model"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-02-05T12:36:51+00:00'
   description: Skill and alpha are scarce and difficult to obtain in the hedge fund
@@ -482,6 +482,14 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/02/05/beyond-the-hype-do-hedge-funds-deliver-value/
   title: 'Beyond the Hype: Do Hedge Funds Deliver Value?'
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2025-02-05T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/green-finance-policy-evolution-in-china
+  title: Green Finance Policy Evolution in China and the Impact of Pilot Zones
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -575,15 +583,14 @@
   path: https://braziljournal.com/as-muitas-razoes-para-a-queda-do-dolar/
   title: "As (muitas) raz\xF5es para a queda do d\xF3lar"
 - author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2025-02-04T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-uk-pension-reform-consultation
   title: CFA Institute/CFA UK Response to UK Pension Reform Consultation
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-02-04T10:50:26+00:00'
   description: "S\xE9bastien Page, CFA, shares the story of a grueling handball match\
     \ that reshaped a competitor\u2019s mindset and reveals how investment leaders\
@@ -617,7 +624,7 @@
   title: '#150 - GIGANTES do MERCADO: KAPITALO e IBIUNA dividem perspectivas de Brasil
     e de Mundo'
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-02-03T16:00:09+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -625,13 +632,6 @@
   image: https://i4.ytimg.com/vi/ChZdeA4a6_I/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ChZdeA4a6_I
   title: "\u2620\uFE0F Why Overengineering Can Kill Your Project"
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-02-03T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/positions/position-paper-investment-governance-swiss-pension-funds
-  title: Position Paper on Investment Governance at Swiss Pension Funds
 - author: Liberty Street Economics
   categories:
   - Macro
