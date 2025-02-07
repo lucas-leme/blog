@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-07T15:48:14.595085'
+  date: '2025-02-07T18:30:59.505777'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-07T15:48:14.593338'
+  date: '2025-02-07T18:30:59.504010'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-07T15:48:14.593334'
+  date: '2025-02-07T18:30:59.504006'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-07T15:48:14.593322'
+  date: '2025-02-07T18:30:59.504002'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-07T15:48:14.593312'
+  date: '2025-02-07T18:30:59.503991'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-07T16:00:08+00:00'
+  description: "\u27A1\uFE0F Try Convex here: https://convex.link/arjancodes.\n\n\
+    In this video, I\u2019ll talk about the power of DuckDB, a lightweight, embedded\
+    \ database that lets you run SQL queries directly on Pandas DataFrames\u2014no\
+    \ servers, no hassle. I\u2019ll show you how it simplifies analytics, from in-memory\
+    \ operations to persistent storage and Jupyter integrations.\n\n\U0001F477 Review\
+    \ code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/duckdb.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:37  What is DuckDB\n1:18 Backing of the project\n2:09 Running SQL\
+    \ on DataFrames\n7:49 In-memory storage\n9:09 Persistent storage\n10:50 Jupyter\
+    \ Notebooks\n11:50 Multithreading and multiprocessing\n15:12 Extended SQL\n18:52\
+    \ Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/8SYQtpSk_OI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8SYQtpSk_OI
+  title: 'DuckDB: SQL and DataFrames Just Got Married'
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-02-07T15:33:30+00:00'
+  description: Built into the iPhone viewfinder. And Google Lens.
+  image: https://i2.ytimg.com/vi/m0SNHvT6ybQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=m0SNHvT6ybQ
+  title: Copy and Paste from Real Life!
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -477,7 +507,7 @@
   path: https://open.spotify.com/episode/33Qpd4XMw8n9ZpHUINa91f
   title: 'Trump 2.0: Less Foreign Aid, More Tariffs'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id004
   - CFA
   date: '2025-02-06T09:52:01+00:00'
   description: Real assets' first test in modern times started in 2021. Did they perform
@@ -486,7 +516,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/06/did-real-assets-provide-an-inflation-hedge-when-investors-needed-it-most/
   title: Did Real Assets Provide an Inflation Hedge When Investors Needed it Most?
 - author: Market Makers
-  categories: &id003
+  categories: &id005
   - Podcasts
   date: '2025-02-06T00:00:00+00:00'
   description: "Apoie o Market Makers e ajude a fortalecer o mercado de capitais no\
@@ -566,9 +596,7 @@
   path: https://open.spotify.com/episode/5jTfP6jVZzE2Sqn4kpfHo2
   title: 'Catastrophes and capitalism: can capital markets protect people from disasters?'
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-02-05T22:18:18+00:00'
   description: 'Part review part rant. It''s still a good phone though.
 
@@ -604,10 +632,7 @@
   path: https://www.youtube.com/watch?v=a4NJNdHqs_I
   title: 'Samsung Galaxy S25 Ultra Review: The Tables Have Turned!'
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2025-02-05T16:00:57+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -616,7 +641,7 @@
   path: https://www.youtube.com/watch?v=x3BRSUwJnPM
   title: "\U0001F440 Rust\u2019s Stack vs. Heap Memory Model"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id004
   date: '2025-02-05T12:36:51+00:00'
   description: Skill and alpha are scarce and difficult to obtain in the hedge fund
     market.
@@ -624,7 +649,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/05/beyond-the-hype-do-hedge-funds-deliver-value/
   title: 'Beyond the Hype: Do Hedge Funds Deliver Value?'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id007
   - CFA
   date: '2025-02-05T12:00:00+00:00'
   description: ''
@@ -632,7 +657,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/green-finance-policy-evolution-in-china
   title: Green Finance Policy Evolution in China and the Impact of Pilot Zones
 - author: Market Makers
-  categories: *id003
+  categories: *id005
   date: '2025-02-05T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pela Investo, maior gestora independente de\
     \ ETFs do Brasil: https://www.investoetf.comO ETF LFTS11 prometia revolucionar\
@@ -662,7 +687,7 @@
   title: "LFTS11: A VERDADE POR TR\xC1S DA POL\xCAMICA DO ETF DE RENDA FIXA | Corte\
     \ EP #177"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id006
   - Economia
   date: '2025-02-04T23:32:11+00:00'
   description: "<p>Lan\xE7ado pelo Tesouro em 2023 como uma estrat\xE9gia de complemento\
@@ -679,7 +704,7 @@
   title: "\u2018Melhor que NTN-B!\u2019. Tesouro RendA+ \xE9 o \u2018play\u2019 de\
     \ juros mais falado do mercado"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id006
   date: '2025-02-04T23:07:17+00:00'
   description: "<p>Em meio ao p\xE2nico na virada de ano, parecia que havia um sentido\
     \ \xFAnico para o d\xF3lar no Brasil \u2013 mas nas duas \xFAltimas semanas, a\
@@ -692,7 +717,7 @@
   path: https://braziljournal.com/as-muitas-razoes-para-a-queda-do-dolar/
   title: "As (muitas) raz\xF5es para a queda do d\xF3lar"
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id007
   date: '2025-02-04T12:00:00+00:00'
   description: ''
   image: null
@@ -707,15 +732,6 @@
   path: https://open.spotify.com/episode/4sGf2zNdgPnuIk5tPBSpO8
   title: '#150 - GIGANTES do MERCADO: KAPITALO e IBIUNA dividem perspectivas de Brasil
     e de Mundo'
-- author: ArjanCodes
-  categories: *id006
-  date: '2025-02-03T16:00:09+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/ChZdeA4a6_I/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ChZdeA4a6_I
-  title: Why Overengineering Can Kill Your Project
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -763,35 +779,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35f1bd58-630d-43c9-8a7e-5de34dc36a07_3400x3240.png
   path: https://theovershoot.co/p/thinking-about-the-financial-implications
   title: Thinking About the Financial Implications of the U.S. Fiscal Position
-- author: Marques Brownlee
-  categories: *id007
-  date: '2025-01-27T23:37:14+00:00'
-  description: 'The Android XR headset with Gemini has some surprisingly cool features
-    that we''ll start to see everywhere.
-
-
-    Head to BestBuy to get the latest VR or AR tech in-store or at https://bit.ly/3C5y9uB
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-    Wallpaper: https://geni.us/4tXyZ
-
-    Intro Track: J''Attends Remix by Hocus Pocus
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/az5QL_NLBvg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=az5QL_NLBvg
-  title: I Tried Samsung's Secret Android XR Headset!
 - author: Outliers
   categories: *id008
   date: '2025-01-22T00:00:00+00:00'
