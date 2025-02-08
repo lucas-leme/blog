@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-08T01:58:01.193344'
+  date: '2025-02-08T11:06:48.226651'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T01:58:01.191579'
+  date: '2025-02-08T11:06:48.224907'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T01:58:01.191575'
+  date: '2025-02-08T11:06:48.224903'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T01:58:01.191571'
+  date: '2025-02-08T11:06:48.224899'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T01:58:01.191560'
+  date: '2025-02-08T11:06:48.224888'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: The Overshoot
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2025-02-08T05:16:18+00:00'
+  description: Prices were failing to decelerate even before there were concerns about
+    tariffs and other disruptive policies thanks to robust income growth and consumer
+    spending.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bfd9e41-cabd-4a2b-bc67-e86db93cf3f7_3395x2950.png
+  path: https://theovershoot.co/p/trump-or-no-trump-2-inflation-was
+  title: Trump or No Trump, 2% Inflation Was Not Coming Any Time Soon
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -722,7 +733,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-uk-pension-reform-consultation
   title: CFA Institute/CFA UK Response to UK Pension Reform Consultation
 - author: Outliers
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-02-04T00:00:00+00:00'
   description: ''
@@ -768,9 +779,7 @@
   path: https://open.spotify.com/episode/6h2CKdL6YFAXIecDwlEwxm
   title: "Thao Tran \u2013 Market Making Illiquid, Non-Fungible Assets (S7E14)"
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id008
   date: '2025-01-30T13:04:29+00:00'
   description: The federal deficit is larger than in 2018-19 mostly because interest
     rates on existing debt are higher. What does it all mean?
@@ -778,21 +787,12 @@
   path: https://theovershoot.co/p/thinking-about-the-financial-implications
   title: Thinking About the Financial Implications of the U.S. Fiscal Position
 - author: Outliers
-  categories: *id008
+  categories: *id009
   date: '2025-01-22T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a7e0eead9789e9bc616ad9a2f
   path: https://open.spotify.com/episode/65AFjZUcdZtC30RqTAZNaj
   title: '#149 - ETFs no BRASIL e no MUNDO com BLACKROCK e XP Asset'
-- author: The Overshoot
-  categories: *id009
-  date: '2025-01-18T00:53:56+00:00'
-  description: Underlying price pressures in 2024 were either the same or barely changed
-    from 2023. That was despite a worsening slowdown in China that reduced demand
-    for commodities and manufactured goods.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4b1dcfb1-ac94-4706-a3d7-e89d55ba8127_3504x3048.png
-  path: https://theovershoot.co/p/chinas-depression-and-the-us-inflation
-  title: China's Depression and the U.S. Inflation Outlook
 - author: The View From Apollo
   categories:
   - Podcasts
