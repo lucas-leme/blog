@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-08T15:47:52.361115'
+  date: '2025-02-08T18:29:21.637017'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T15:47:52.359367'
+  date: '2025-02-08T18:29:21.635301'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T15:47:52.359363'
+  date: '2025-02-08T18:29:21.635297'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T15:47:52.359359'
+  date: '2025-02-08T18:29:21.635292'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-08T15:47:52.359349'
+  date: '2025-02-08T18:29:21.635282'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-08T16:00:09+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/Dbh-fM0_dUs/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Dbh-fM0_dUs
+  title: 'Memory Management: Rust vs. C vs. Python'
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -473,10 +485,7 @@
   path: https://theovershoot.co/p/trump-or-no-trump-2-inflation-was
   title: Trump or No Trump, 2% Inflation Was Not Coming Any Time Soon
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-02-07T16:00:08+00:00'
   description: "\u27A1\uFE0F Try Convex here: https://convex.link/arjancodes.\n\n\
     In this video, I\u2019ll talk about the power of DuckDB, a lightweight, embedded\
@@ -494,7 +503,7 @@
   path: https://www.youtube.com/watch?v=8SYQtpSk_OI
   title: 'DuckDB: SQL and DataFrames Just Got Married'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-02-07T15:33:30+00:00'
@@ -503,7 +512,7 @@
   path: https://www.youtube.com/watch?v=m0SNHvT6ybQ
   title: Copy and Paste from Real Life!
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-02-07T00:00:00+00:00'
   description: "If you\u2019ve watched any professional sports this year, chances\
@@ -517,7 +526,7 @@
   path: https://open.spotify.com/episode/0YogSP44SKlyVlDsEKBY8E
   title: How Parlays Became the Biggest Bet in Sports
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-02-07T00:00:00+00:00'
   description: "WSJ\u2019s Joel Schectman joins Ryan Knutson and Molly Ball to explore\
     \ the dismantling of USAID  and what it means for America\u2019s future as a global\
@@ -605,7 +614,7 @@
   path: https://open.spotify.com/episode/5jTfP6jVZzE2Sqn4kpfHo2
   title: 'Catastrophes and capitalism: can capital markets protect people from disasters?'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-02-05T22:18:18+00:00'
   description: 'Part review part rant. It''s still a good phone though.
 
@@ -640,15 +649,6 @@
   image: https://i2.ytimg.com/vi/a4NJNdHqs_I/hqdefault.jpg
   path: https://www.youtube.com/watch?v=a4NJNdHqs_I
   title: 'Samsung Galaxy S25 Ultra Review: The Tables Have Turned!'
-- author: ArjanCodes
-  categories: *id003
-  date: '2025-02-05T16:00:57+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/x3BRSUwJnPM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=x3BRSUwJnPM
-  title: "\U0001F440 Rust\u2019s Stack vs. Heap Memory Model"
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2025-02-05T12:36:51+00:00'
