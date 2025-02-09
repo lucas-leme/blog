@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-09T13:44:00+00:00'
+  description: "Pa\xEDs \xE9 rico em minerais cr\xEDticos essenciais para tecnologia\
+    \ e fornece mais de 60 commodities diferentes para os EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/por-que-trump-deseja-as-riquezas-minerais-do-canada/
+  title: "Por que Trump deseja as riquezas minerais do Canad\xE1"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Bitcoin perde espa\xE7o para ouro como ref\xFAgio em meio a temores de guerra\
     \ comercial"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-08T12:20:57+00:00'
   description: "Suspens\xE3o do programa que paga agricultores por pr\xE1ticas sustent\xE1\
     veis preocupa setor; iniciativa prev\xEA investimentos de US$ 3,1 bilh\xF5es"
@@ -18,14 +26,6 @@
   path: https://investnews.com.br/economia/produtores-de-soja-dos-eua-pedem-que-trump-mantenha-subsidio-ambiental-de-biden/
   title: "Produtores de soja dos EUA pedem que Trump mantenha subs\xEDdio ambiental\
     \ de Biden"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-07T22:01:17+00:00'
-  description: "Na semana em que marcou sua maior sequ\xEAncia de quedas em 20 anos,\
-    \ d\xF3lar encerra com perdas de 0,73% ante o real"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-renova-ameacas-mas-dolar-marca-a-sexta-semana-seguida-de-queda/
-  title: "Trump renova amea\xE7as, mas d\xF3lar marca a sexta semana seguida de queda"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-02-07T19:48:27+00:00'
