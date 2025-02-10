@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-10T13:00:00+00:00'
+  description: "Consumidor ser\xE1 notificado e ter\xE1 prazo para quitar d\xEDvida;\
+    \ veja regras"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/quem-avisa-amigo-e-seu-plano-de-saude-pode-ser-cancelado-por-falta-de-pagamento/
+  title: "Quem avisa, amigo \xE9: seu plano de sa\xFAde pode ser cancelado por falta\
+    \ de pagamento"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-10T11:11:52+00:00'
   description: "As tarifas se aplicariam \xE0s importa\xE7\xF5es de ambos os metais\
@@ -9,8 +19,7 @@
   title: "Trump vai anunciar hoje tarifas de 25% sobre a\xE7o e alum\xEDnio. Brasil\
     \ ser\xE1 um dos maiores atingidos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-10T10:01:00+00:00'
   description: Veja como preencher os ganhos e quais despesas podem ser deduzidas
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -18,19 +27,10 @@
   title: "Imposto de Renda 2025: \xC9 preciso declarar o dinheiro do aluguel de im\xF3\
     vel do AirBnb?"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-09T17:43:18+00:00'
   description: "Brasil mapeia setores que podem ser afetados por medidas americanas;\
     \ pa\xEDs tem d\xE9ficit comercial com EUA desde 2008"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/governo-estuda-reacao-se-trump-impuser-tarifas-sobre-as-exportacoes-brasileiras/
   title: "Governo prepara rea\xE7\xE3o se Trump taxar as exporta\xE7\xF5es do Brasil"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-08T13:03:00+00:00'
-  description: "Retorno de Trump \xE0 Casa Branca e tarifas pressionam moeda digital,\
-    \ que sobe 3% no ano, contra 9% do metal precioso"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-perde-espaco-para-ouro-como-refugio-em-meio-a-temores-de-guerra-comercial/
-  title: "Bitcoin perde espa\xE7o para ouro como ref\xFAgio em meio a temores de guerra\
-    \ comercial"
