@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-12T15:48:17.350190'
+  date: '2025-02-12T18:31:03.756670'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-12T15:48:17.348457'
+  date: '2025-02-12T18:31:03.754909'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-12T15:48:17.348454'
+  date: '2025-02-12T18:31:03.754905'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-12T15:48:17.348449'
+  date: '2025-02-12T18:31:03.754901'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-12T15:48:17.348439'
+  date: '2025-02-12T18:31:03.754891'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-12T16:00:36+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/WiQL2kaaF5Q/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=WiQL2kaaF5Q
+  title: "Why Rust Doesn\u2019t Allow Two Mutable Borrows"
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -522,6 +534,15 @@
   image: https://i.scdn.co/image/ab6765630000ba8a1eb3c80474fef575c312a424
   path: https://open.spotify.com/episode/4dKOq9fGpKowPCyUEFsjoU
   title: "O PLANO GEOPOL\xCDTICO MAIS OUSADO DA HIST\xD3RIA QUE PODE MUDAR O MUNDO"
+- author: Outliers
+  categories: &id009
+  - Podcasts
+  date: '2025-02-12T00:00:00+00:00'
+  description: ''
+  image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
+  path: https://open.spotify.com/episode/18Vgj0pbn2WkYl4JCTMQ5J
+  title: "#151 - Pioneirismo na indu\u0301stria de fundos brasileira: conhec\u0327\
+    a o Opportunity"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -612,7 +633,7 @@
   path: https://open.spotify.com/episode/2Q9bCRz8C7kR4UbLb0mOPm
   title: "#182 | COMO OS EVANG\xC9LICOS PODEM DECIDIR O FUTURO POL\xCDTICO DO BRASIL?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-11T00:00:00+00:00'
   description: "The Trump administration's newly installed acting Consumer Financial\
@@ -628,10 +649,7 @@
   path: https://open.spotify.com/episode/6jspWUbv5A0syJdDI546Wb
   title: R.I.P. CFPB?
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-02-10T16:00:42+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -640,7 +658,7 @@
   path: https://www.youtube.com/watch?v=drBCjFeilRo
   title: "\U0001F6E1\uFE0F Why Product Shutdowns Need Security"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2025-02-10T00:00:00+00:00'
   description: "Denver was named the winner of a new women\u2019s pro soccer franchise\
     \ last month, in part because it plans to build one of the first stadiums exclusively\
@@ -653,15 +671,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/1tGqKwwc531qd9NXUJqb5A
   title: Women's Soccer Is Getting a Big Upgrade
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-02-08T16:00:09+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/Dbh-fM0_dUs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Dbh-fM0_dUs
-  title: "\U0001F914 Memory Management: Rust vs. C vs. Python"
 - author: The Overshoot
   categories: *id006
   date: '2025-02-08T05:16:18+00:00'
@@ -713,8 +722,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-uk-pension-reform-consultation
   title: CFA Institute/CFA UK Response to UK Pension Reform Consultation
 - author: Outliers
-  categories: &id009
-  - Podcasts
+  categories: *id009
   date: '2025-02-04T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8ab1578fa7110d7563fc056a6b
@@ -758,13 +766,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a06a2648e29e16b0bb9cfcd21
   path: https://open.spotify.com/episode/6h2CKdL6YFAXIecDwlEwxm
   title: "Thao Tran \u2013 Market Making Illiquid, Non-Fungible Assets (S7E14)"
-- author: Outliers
-  categories: *id009
-  date: '2025-01-22T00:00:00+00:00'
-  description: ''
-  image: https://i.scdn.co/image/ab6765630000ba8a7e0eead9789e9bc616ad9a2f
-  path: https://open.spotify.com/episode/65AFjZUcdZtC30RqTAZNaj
-  title: '#149 - ETFs no BRASIL e no MUNDO com BLACKROCK e XP Asset'
 - author: The View From Apollo
   categories:
   - Podcasts
