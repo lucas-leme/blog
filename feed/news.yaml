@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-12T10:03:00+00:00'
+  description: "Quem vende im\xF3vel em valor superior ao declarado pode ser enquadrado\
+    \ pelo Fisco"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-reforma-e-atualizar-o-valor-do-seu-apartamento/
+  title: 'Imposto de Renda 2025: Como declarar reforma e atualizar o valor do seu
+    apartamento?'
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-11T22:09:29+00:00'
   description: "Grupos criminosos faturaram dez vezes mais com combust\xEDveis, ouro,\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/economia/crime-organizado-lucra-mais-com-combustivel-que-com-cocaina/
   title: "Crime organizado lucra mais com combust\xEDvel que com coca\xEDna"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-11T21:47:09+00:00'
   description: "Analistas avaliam que Gerdau \xE9 a grande vencedora da situa\xE7\xE3\
     o, mas que Usiminas e CSN tamb\xE9m n\xE3o s\xE3o prejudicadas diretamente"
@@ -18,7 +27,7 @@
   title: "Taxa\xE7\xE3o do a\xE7o pelos EUA impacta a\xE7\xF5es de sider\xFArgicas\
     \ na Europa. No Brasil, nem tanto"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-11T14:55:14+00:00'
   description: "Associa\xE7\xE3o Brasileira do Alum\xEDnio (Abal) afirmou que os EUA\
     \ absorvem 17% das exporta\xE7\xF5es brasileiras do metal"
@@ -26,12 +35,3 @@
   path: https://investnews.com.br/economia/setor-do-aluminio-do-brasil-pede-intensificacao-nos-mecanismos-de-defesa-comercial-do-pais/
   title: "Setor do alum\xEDnio do Brasil pede maior prote\xE7\xE3o nos mecanismos\
     \ de defesa comercial do pa\xEDs"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-10T13:00:00+00:00'
-  description: "Consumidor ser\xE1 notificado e ter\xE1 prazo para quitar d\xEDvida;\
-    \ veja regras"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/quem-avisa-amigo-e-seu-plano-de-saude-pode-ser-cancelado-por-falta-de-pagamento/
-  title: "Quem avisa, amigo \xE9: seu plano de sa\xFAde pode ser cancelado por falta\
-    \ de pagamento"
