@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-12T13:01:25+00:00'
+  description: "Chinesa Geely planeja anunciar, junto com a montadora, um acordo no\
+    \ final deste m\xEAs envolvendo coopera\xE7\xE3o das companhias no Brasil"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/invasao-chinesa-renault-esta-em-negociacao-para-trazer-novos-carros-asiaticos-para-o-brasil/
+  title: "Invas\xE3o chinesa: Renault est\xE1 em negocia\xE7\xE3o para trazer novos\
+    \ carros asi\xE1ticos para o Brasil"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-12T12:28:58+00:00'
   description: "Bancos est\xE3o buscando la\xE7os mais profundos com empresas de criptomoedas\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/para-conquistar-setor-de-criptomoedas-bancos-projetam-onda-de-ipos/
   title: Para conquistar setor de criptomoedas, bancos projetam onda de IPOs
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-12T12:09:48+00:00'
   description: "Empresa, que est\xE1 em recupera\xE7\xE3o judicial, afirma que houve\
     \ \u201Cuma s\xE9rie de irregularidades, identificadas em investiga\xE7\xE3o interna"
@@ -18,7 +27,7 @@
   title: "Construtora Rossi convoca acionistas para abrir a\xE7\xE3o contra parentes\
     \ dos fundadores"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-12T10:03:00+00:00'
   description: "Quem vende im\xF3vel em valor superior ao declarado pode ser enquadrado\
     \ pelo Fisco"
@@ -26,14 +35,6 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-reforma-e-atualizar-o-valor-do-seu-apartamento/
   title: 'Imposto de Renda 2025: Como declarar reforma e atualizar o valor do seu
     apartamento?'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-11T22:09:29+00:00'
-  description: "Grupos criminosos faturaram dez vezes mais com combust\xEDveis, ouro,\
-    \ cigarros e bebidas do que com coca\xEDna em 2022"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/crime-organizado-lucra-mais-com-combustivel-que-com-cocaina/
-  title: "Crime organizado lucra mais com combust\xEDvel que com coca\xEDna"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
