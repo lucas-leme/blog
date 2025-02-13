@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-13T02:00:45.185409'
+  date: '2025-02-13T11:07:05.396402'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-13T02:00:45.183685'
+  date: '2025-02-13T11:07:05.394680'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-13T02:00:45.183682'
+  date: '2025-02-13T11:07:05.394676'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-13T02:00:45.183677'
+  date: '2025-02-13T11:07:05.394672'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-13T02:00:45.183667'
+  date: '2025-02-13T11:07:05.394663'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-02-13T10:07:29+00:00'
+  description: Ambition is a powerful driver of success, but without perspective,
+    it can become a liability.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/02/13/blinded-by-success-how-obsessive-goal-setting-can-backfire-in-finance-and-beyond/
+  title: 'Blinded by Success: How Obsessive Goal-Setting Can Backfire in Finance and
+    Beyond'
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -474,8 +484,7 @@
   path: https://www.youtube.com/watch?v=WiQL2kaaF5Q
   title: "Why Rust Doesn\u2019t Allow Two Mutable Borrows"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-02-12T11:58:19+00:00'
   description: For financial analysts, understanding bank liquidity risks is essential
     not just for assessing individual banks but also for evaluating broader market
@@ -559,7 +568,7 @@
   title: "#151 - Pioneirismo na indu\u0301stria de fundos brasileira: conhec\u0327\
     a o Opportunity"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-02-11T22:36:31+00:00'
   description: "<p>O Governador do Rio de Janeiro esteve ontem num programa de r\xE1\
@@ -576,7 +585,7 @@
   title: "Cl\xE1udio Castro: \u2018ADPF das favelas\u2019, audi\xEAncia de cust\xF3\
     dia e as penas brandas do STJ"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-02-11T22:04:30+00:00'
   description: "<p>A guerra tarif\xE1ria de Donald Trump est\xE1 levando \u201Ccaos\u201D\
     \ \xE0 ind\xFAstria automobil\xEDstica dos EUA, disse o CEO da Ford, Jim Farley.\
@@ -606,14 +615,6 @@
   image: https://i3.ytimg.com/vi/6zHFNjK-QiQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6zHFNjK-QiQ
   title: 'PowerBeats Pro 2 Review: Still Better than AirPods!'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-02-11T14:54:40+00:00'
-  description: As family offices continue to expand, those who understand their complexities
-    will be well-positioned to lead the next era of wealth management.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/02/11/2025-wealth-management-outlook-spotlight-on-investment-careers/
-  title: '2025 Wealth Management Outlook: Spotlight on Investment Careers'
 - author: Market Makers
   categories: *id003
   date: '2025-02-11T00:00:00+00:00'
