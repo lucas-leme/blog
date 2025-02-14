@@ -1,3 +1,11 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-14T12:21:37+00:00'
+  description: "A taxa de infla\xE7\xE3o mensal da Argentina caiu para 2,2% em janeiro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/inflacao-argentina-atinge-menor-nivel-em-quase-cinco-anos/
+  title: "Infla\xE7\xE3o argentina atinge menor n\xEDvel em quase cinco anos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -49,8 +57,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ip32nb/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-13T19:53:48+00:00'
   description: "Em documento, a Casa Branca reclamou da diferen\xE7a entre as tarifas\
     \ cobradas por EUA e Brasil"
@@ -58,15 +65,6 @@
   path: https://investnews.com.br/economia/cobrarei-tarifas-reciprocas-pais-por-pais-para-fins-de-justica-diz-donald-trump/
   title: "Trump fala em criar \u2018tarifas rec\xEDprocas\u2019 a parceiros comerciais\
     \ e mira etanol do Brasil"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-13T14:40:11+00:00'
-  description: "Presidente dos Estados Unidos j\xE1 assinou taxas de 25% sobre a\xE7\
-    o e alum\xEDnio que devem entrar em vigor no m\xEAs que vem"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/grande-dia-diz-trump-ao-anunciar-que-assinara-tarifas-reciprocas-as-1300/
-  title: "\u2018Grande dia\u2019, diz Trump ao anunciar que assinar\xE1 tarifas rec\xED\
-    procas \xE0s 14h"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id002
   date: '2025-02-13T01:29:01+00:00'
