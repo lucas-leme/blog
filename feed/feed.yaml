@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-15T01:59:50.260092'
+  date: '2025-02-15T11:06:49.966253'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-15T01:59:50.258330'
+  date: '2025-02-15T11:06:49.964541'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-15T01:59:50.258326'
+  date: '2025-02-15T11:06:49.964537'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-15T01:59:50.258321'
+  date: '2025-02-15T11:06:49.964532'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-15T01:59:50.258312'
+  date: '2025-02-15T11:06:49.964522'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: The Overshoot
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2025-02-15T02:38:28+00:00'
+  description: The January pop in the CPI was comparable to what happened last year,
+    although some of the underlying services numbers are more encouraging. But goods
+    disinflation looks fragile.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00a344ec-c3c0-4433-9e15-2f5090187e05_3200x2920.png
+  path: https://theovershoot.co/p/us-inflation-chugs-along-but-watch
+  title: U.S. Inflation Chugs Along. But Watch Out for Goods.
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -481,7 +492,7 @@
   path: https://www.youtube.com/watch?v=bhIrmT4uf1M
   title: 'Go for Pythonistas: What You Need to Know'
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-02-14T15:43:55+00:00'
@@ -624,7 +635,7 @@
   title: 'Blinded by Success: How Obsessive Goal-Setting Can Backfire in Finance and
     Beyond'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-02-13T00:00:00+00:00'
   description: "Quer fazer parte da maior fraternidade de investidores do Brasil?Entre\
@@ -695,9 +706,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/12/beyond-bank-runs-how-bank-liquidity-risks-shape-financial-stability/
   title: 'Beyond Bank Runs: How Bank Liquidity Risks Shape Financial Stability'
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2025-02-12T00:42:14+00:00'
   description: The surpluses of Edwardian Britain were not benign and should not be
     used to justify similar surpluses in Japan, Germany, and elsewhere.
@@ -705,7 +714,7 @@
   path: https://theovershoot.co/p/contra-krugman-on-current-account
   title: Contra Krugman on Current Account Controversies
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-02-12T00:00:00+00:00'
   description: "ATEN\xC7\xC3O: a mais qualificada fraternidade de investidores do\
     \ Brasil (M3 Club) vai reabrir em breve com vagas limitadas. \xC9 a oportunidade\
@@ -754,7 +763,7 @@
   title: "#151 - Pioneirismo na indu\u0301stria de fundos brasileira: conhec\u0327\
     a o Opportunity"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-02-11T15:00:37+00:00'
   description: "PowerBeats Pro 2 are here. They're better than AirPods Pro, and easily\
     \ some of the best ANC earbuds you can get to work out.\n\nAlso, update: Beats\
@@ -769,15 +778,6 @@
   image: https://i3.ytimg.com/vi/6zHFNjK-QiQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=6zHFNjK-QiQ
   title: 'PowerBeats Pro 2 Review: Still Better than AirPods!'
-- author: The Overshoot
-  categories: *id007
-  date: '2025-02-08T05:16:18+00:00'
-  description: Prices were failing to decelerate even before there were concerns about
-    tariffs and other disruptive policies thanks to robust income growth and consumer
-    spending.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bfd9e41-cabd-4a2b-bc67-e86db93cf3f7_3395x2950.png
-  path: https://theovershoot.co/p/trump-or-no-trump-2-inflation-was
-  title: Trump or No Trump, 2% Inflation Was Not Coming Any Time Soon
 - author: CFA Institute Research and Policy Center
   categories: *id008
   date: '2025-02-05T12:00:00+00:00'
