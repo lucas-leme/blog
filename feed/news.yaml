@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-17T15:27:41+00:00'
+  description: "Parlamentares da oposi\xE7\xE3o disseram que o presidente argentino\
+    \ pode enfrentar um julgamento de impeachment no Congresso"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/bolsa-argentina-despenca-quase-6-apos-escandalo-de-milei-com-criptomoedas/
+  title: "Bolsa argentina despenca quase 6% ap\xF3s esc\xE2ndalo de Milei com criptomoedas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +17,7 @@
   title: "Imposto de Renda 2025: Como pegar o dinheiro de restitui\xE7\xE3o que n\xE3\
     o foi resgatado no banco?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-16T19:06:20+00:00'
   description: "Nova medida deve elevar tens\xF5es entre Uni\xE3o Europeia e grandes\
     \ exportadores, como o Brasil"
@@ -17,15 +25,6 @@
   path: https://investnews.com.br/economia/ue-planeja-restringir-a-importacao-de-alimentos-do-mercosul-devido-ao-uso-de-pesticidas/
   title: "UE planeja restringir a importa\xE7\xE3o de alimentos do Mercosul devido\
     \ ao uso de pesticidas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-16T16:42:10+00:00'
-  description: "Mercado parece ignorar o risco de a guerra tarif\xE1ria puxar o freio\
-    \ de m\xE3o da economia global"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifas-de-trump-sao-um-misterio-mesmo-assim-investidores-seguem-comprando-acoes/
-  title: "Guerra tarif\xE1ria ainda \xE9 um mist\xE9rio, mesmo assim as bolsas seguem\
-    \ subindo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-02-14T10:03:00+00:00'
