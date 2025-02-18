@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-18T20:27:52.182107'
+  date: '2025-02-18T21:26:07.821446'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-18T20:27:52.180364'
+  date: '2025-02-18T21:26:07.819682'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-18T20:27:52.180359'
+  date: '2025-02-18T21:26:07.819679'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-18T20:27:52.180354'
+  date: '2025-02-18T21:26:07.819674'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-18T20:27:52.180344'
+  date: '2025-02-18T21:26:07.819665'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -478,6 +478,24 @@
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/performance-of-the-60-40-portfolio
   title: 'The Performance of the 60/40 Portfolio: A Historical Perspective'
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-02-18T00:00:00+00:00'
+  description: "John Barnett worked at Boeing for nearly 30 years. Before he left\
+    \ the company, he filed a whistleblower complaint, alleging he was retaliated\
+    \ against for raising safety concerns. Last March, after two days of testimony,\
+    \ he was found dead in his truck. Police ruled his death a suicide. We tell the\
+    \ story of Barnett\u2019s life, and death, as a Boeing whistleblower.\_  Further\
+    \ Reading: - Boeing CEO Apologizes to MAX Crash Families, Calls Culture \u2018\
+    Far From Perfect\u2019 - The Disarray Inside Boeing\u2019s 737 Factory Before\
+    \ the Door Plug Blowout\_ - Can Boeing Be Fixed? Aerospace Leaders Offer a Repair\
+    \ Manual\_  Further Listening:  - The Failures Inside Boeing's 737 Factory\_ -\
+    \ A Hole in a Plane and a Headache for Boeing\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/7Aw7M9ZvTWwbrcunVUNmew
+  title: The Life and Death of a Boeing Whistleblower
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -508,7 +526,7 @@
   path: https://braziljournal.com/editorial-o-febeapa-de-lula-nos-combustiveis/
   title: "EDITORIAL. O febeap\xE1 de Lula nos combust\xEDveis"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -520,8 +538,7 @@
   path: https://www.youtube.com/watch?v=q7OGeOKziUM
   title: "\U0001F4CA Dashboard UI Tips You Need to Know"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2025-02-17T00:00:00+00:00'
   description: "Walmart is offering higher pay, bonuses and more stock options this\
     \ year to retain and attract managers. WSJ\u2019s Sarah Nassauer spent a day with\
@@ -574,7 +591,7 @@
   path: https://open.spotify.com/episode/5mc5cWDglz7NNgQ7CVAjko
   title: "#184 | ERA TRUMP: \xC9 O IN\xCDCIO DO FIM DO IMP\xC9RIO AMERICANO?"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2025-02-14T16:00:44+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython is powerful but has its quirks\u2014like imports and dependency issues.\
@@ -640,21 +657,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/02/how-censorship-resistant-are-decentralized-systems/
   title: How Censorship Resistant Are Decentralized Systems?
-- author: The Journal.
-  categories: *id003
-  date: '2025-02-14T00:00:00+00:00'
-  description: "At the beginning of his presidency, Donald Trump suspended most U.S.\
-    \ foreign aid, causing vast confusion and concern around the world. One affected\
-    \ program was PEPFAR, the bipartisan initiative that works to fight HIV/AIDS globally.\
-    \ WSJ\u2019s Nicholas Bariyo from Uganda and Michael M. Phillips from Kenya report.\
-    \  And we hear from Karl Hoffman, the CEO of the public health organization HealthX\
-    \ Partners.\_  Further Listening:  -Inside USAID as Elon Musk and DOGE Ripped\
-    \ It Apart\_  Further Reading:  -Trump Aid Whiplash Hits Refugees, AIDS Patients\
-    \ Worldwide\_ -Trump Order Freezing Foreign Aid Halts Programs Worldwide, Prompts\
-    \ Confusion and Rush for Waivers\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/6N6D48KkOKKj5zwJLx3RSF
-  title: The U.S. Spent Billions Fighting AIDS. What Now?
 - author: The View From Apollo
   categories:
   - Podcasts
