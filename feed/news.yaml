@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-02-19T01:05:20+00:00'
+  description: "Den\xFAncia encaminhada ao STF lista 34 pessoas por envolvimento em\
+    \ atos contra o estado democr\xE1tico de direito"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/pgr-denuncia-bolsonaro-por-tentativa-de-golpe-de-estado/
+  title: PGR denuncia Bolsonaro por tentativa de golpe de Estado
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   path: https://investnews.com.br/financas/solana-cai-25-com-escandalo-de-memecoin-promovida-por-javier-milei/
   title: "Solana cai 25% com esc\xE2ndalo de memecoin promovida por Javier Milei"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-02-18T13:03:08+00:00'
   description: "Decis\xE3o sobre o reajuste dos valores dos rem\xE9dios no Brasil\
     \ deve ser anunciada at\xE9 o final de mar\xE7o"
@@ -66,14 +74,6 @@
   path: https://www.reddit.com/r/CFA/comments/1is4xh5/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-17T15:27:41+00:00'
-  description: "Parlamentares da oposi\xE7\xE3o disseram que o presidente argentino\
-    \ pode enfrentar um julgamento de impeachment no Congresso"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/bolsa-argentina-despenca-quase-6-apos-escandalo-de-milei-com-criptomoedas/
-  title: "Bolsa argentina despenca quase 6% ap\xF3s esc\xE2ndalo de Milei com criptomoedas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-02-16T18:20:22+00:00'
