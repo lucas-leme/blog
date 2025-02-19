@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-19T11:41:42+00:00'
+  description: "Presidente aponta para o que ele chama de tratamento injusto das exporta\xE7\
+    \xF5es automotivas dos EUA em mercados estrangeiros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/mais-tarifas-trump-vai-introduzir-taxas-de-25-sobre-automoveis-produtos-farmaceuticos-e-chips/
+  title: "Mais tarifas: Trump vai introduzir taxas de 25% sobre autom\xF3veis, produtos\
+    \ farmac\xEAuticos e chips"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-19T10:03:00+00:00'
   description: "Receita Federal deve ser informada sobre sa\xEDda"
@@ -8,8 +18,7 @@
   title: "Bye bye Brasil: Saiba como deixar de pagar Imposto de Renda ao ir embora\
     \ do pa\xEDs"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-19T01:05:20+00:00'
   description: "Den\xFAncia encaminhada ao STF lista 34 pessoas por envolvimento em\
     \ atos contra o estado democr\xE1tico de direito"
@@ -17,7 +26,7 @@
   path: https://investnews.com.br/economia/pgr-denuncia-bolsonaro-por-tentativa-de-golpe-de-estado/
   title: PGR denuncia Bolsonaro por tentativa de golpe de Estado
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-18T22:49:28+00:00'
   description: "Colocar uma criptomoeda em circula\xE7\xE3o j\xE1 foi tarefa para\
     \ programadores. Hoje isso est\xE1 ao alcance de qualquer um, em quest\xE3o de\
@@ -25,15 +34,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/como-criar-uma-criptomoeda-para-chamar-de-sua/
   title: Como criar uma memecoin para chamar de sua
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-18T13:03:08+00:00'
-  description: "Decis\xE3o sobre o reajuste dos valores dos rem\xE9dios no Brasil\
-    \ deve ser anunciada at\xE9 o final de mar\xE7o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fator-y-sera-zero-para-reajuste-de-precos-de-medicamentos-diz-avinsa/
-  title: "Reajuste dos pre\xE7os dos rem\xE9dios ter\xE1 aumento menor em 2025; saiba\
-    \ por que"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
