@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-19T15:48:16.321664'
+  date: '2025-02-19T18:31:12.190376'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-19T15:48:16.319863'
+  date: '2025-02-19T18:31:12.188600'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-19T15:48:16.319858'
+  date: '2025-02-19T18:31:12.188597'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-19T15:48:16.319853'
+  date: '2025-02-19T18:31:12.188592'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-19T15:48:16.319841'
+  date: '2025-02-19T18:31:12.188583'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-19T16:00:01+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/0kE0qewcIfM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=0kE0qewcIfM
+  title: Better Dashboard Performance in 35 Seconds
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -559,7 +571,7 @@
   path: https://open.spotify.com/episode/2bdcTZzZOlbKvvJEvegbrS
   title: "#185 | BOLSA COME\xC7A A REAGIR: A GRANDE OPORTUNIDADE NO BRASIL CHEGOU?"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-18T00:00:00+00:00'
   description: "John Barnett worked at Boeing for nearly 30 years. Before he left\
@@ -606,10 +618,7 @@
   path: https://braziljournal.com/editorial-o-febeapa-de-lula-nos-combustiveis/
   title: "EDITORIAL. O febeap\xE1 de Lula nos combust\xEDveis"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-02-17T16:00:51+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -618,7 +627,7 @@
   path: https://www.youtube.com/watch?v=q7OGeOKziUM
   title: Dashboard UI Tips You Need to Know
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2025-02-17T00:00:00+00:00'
   description: "We\u2019re off for Presidents Day, but we wanted to reshare this episode.Walmart\
     \ is offering higher pay, bonuses and more stock options this year to retain and\
@@ -643,22 +652,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00a344ec-c3c0-4433-9e15-2f5090187e05_3200x2920.png
   path: https://theovershoot.co/p/us-inflation-chugs-along-but-watch
   title: U.S. Inflation Chugs Along. But Watch Out for Goods.
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-02-14T16:00:44+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nPython is powerful but has its quirks\u2014like imports and dependency issues.\
-    \ What if there was a faster, simpler alternative? Meet Go\u2014a modern language\
-    \ nearly as powerful as Rust. In this video, I compare these languages and share\
-    \ a surprising discovery!\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/go.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:36 Hello World\n2:30 What is Go?\n3:07 Typing and Compilation\n\
-    4:16 Error Handling in Go vs Python\n9:38 Functions in Python vs Go\n10:58 Classes\
-    \ and Data Structures\n14:02 Abstraction\n16:56 Concurrency\n18:40 REST API example\n\
-    21:35 Performance\n25:47 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/bhIrmT4uf1M/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=bhIrmT4uf1M
-  title: 'Go for Pythonistas: What You Need to Know'
 - author: Marques Brownlee
   categories: &id008
   - Tech
