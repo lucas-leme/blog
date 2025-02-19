@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-19T10:03:00+00:00'
+  description: "Receita Federal deve ser informada sobre sa\xEDda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bye-bye-brasil-saiba-como-deixar-de-pagar-imposto-de-renda-ao-ir-embora-do-pais/
+  title: "Bye bye Brasil: Saiba como deixar de pagar Imposto de Renda ao ir embora\
+    \ do pa\xEDs"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/economia/pgr-denuncia-bolsonaro-por-tentativa-de-golpe-de-estado/
   title: PGR denuncia Bolsonaro por tentativa de golpe de Estado
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-18T22:49:28+00:00'
   description: "Colocar uma criptomoeda em circula\xE7\xE3o j\xE1 foi tarefa para\
     \ programadores. Hoje isso est\xE1 ao alcance de qualquer um, em quest\xE3o de\
@@ -17,14 +25,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/como-criar-uma-criptomoeda-para-chamar-de-sua/
   title: Como criar uma memecoin para chamar de sua
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-18T20:42:13+00:00'
-  description: "Impactada por uma crise nas memecoins, a Solana atingiu seu menor\
-    \ pre\xE7o desde novembro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/solana-cai-25-com-escandalo-de-memecoin-promovida-por-javier-milei/
-  title: "Solana cai 25% com esc\xE2ndalo de memecoin promovida por Javier Milei"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-02-18T13:03:08+00:00'
