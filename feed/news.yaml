@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-20T12:48:15+00:00'
+  description: "Declara\xE7\xE3o sinaliza que o presidente dos EUA est\xE1 aberto\
+    \ a evitar uma disputa crescente entre Washington e Pequim"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/e-possivel-diz-trump-sobre-novo-acordo-comercial-com-a-china/
+  title: "\u2018\xC9 poss\xEDvel\u2019, diz Trump sobre novo acordo comercial com\
+    \ a China"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1itqo2o/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-19T11:41:42+00:00'
   description: "Presidente aponta para o que ele chama de tratamento injusto das exporta\xE7\
     \xF5es automotivas dos EUA em mercados estrangeiros"
@@ -56,14 +65,6 @@
   path: https://investnews.com.br/financas/bye-bye-brasil-saiba-como-deixar-de-pagar-imposto-de-renda-ao-ir-embora-do-pais/
   title: "Bye bye Brasil: Saiba como deixar de pagar Imposto de Renda ao ir embora\
     \ do pa\xEDs"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-19T01:05:20+00:00'
-  description: "Den\xFAncia encaminhada ao STF lista 34 pessoas por envolvimento em\
-    \ atos contra o estado democr\xE1tico de direito"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pgr-denuncia-bolsonaro-por-tentativa-de-golpe-de-estado/
-  title: PGR denuncia Bolsonaro por tentativa de golpe de Estado
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-02-18T22:49:28+00:00'
