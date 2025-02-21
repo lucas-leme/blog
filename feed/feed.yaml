@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-21T11:24:42.733590'
+  date: '2025-02-21T12:11:57.583213'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-21T11:24:42.731885'
+  date: '2025-02-21T12:11:57.581503'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-21T11:24:42.731880'
+  date: '2025-02-21T12:11:57.581499'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-21T11:24:42.731875'
+  date: '2025-02-21T12:11:57.581495'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-21T11:24:42.731866'
+  date: '2025-02-21T12:11:57.581485'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -471,8 +471,22 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/02/21/luck-vs-skill-great-investment-leaders-know-the-difference/
   title: 'Luck vs. Skill: Great Investment Leaders Know the Difference'
-- author: Marques Brownlee
+- author: The Journal.
   categories: &id002
+  - Podcasts
+  date: '2025-02-21T00:00:00+00:00'
+  description: "The Trump Administration turns its focus to Europe as President Trump\
+    \ signals a willingness to cooperate with Russia. WSJ\u2019s Alex Ward joins Ryan\
+    \ Knutson and Molly Ball to discuss what that means for an end to the war in Ukraine.\
+    \  Further Reading: -Trump\u2019s Turn to Russia Spooks U.S. Allies Who Fear a\
+    \ Weakened NATO\_ -Trump\u2019s Attack on Zelensky Signals New World Order Taking\
+    \ Shape\_  Further Listening:  -Trump 2.0: The Musk-Trump Bromance\_ -R.I.P. CFPB?\_\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a75c98db1dabd665c73f35d1e
+  path: https://open.spotify.com/episode/3RToQvX5yeecdKlUWih2Hb
+  title: 'Trump 2.0: Shaking Up Europe'
+- author: Marques Brownlee
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-02-20T14:05:23+00:00'
@@ -501,7 +515,7 @@
   path: https://www.youtube.com/watch?v=NECBCxEFMCo
   title: Are Foldables Cooked?
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-02-20T12:00:00+00:00'
   description: ''
@@ -533,7 +547,7 @@
   path: https://braziljournal.com/opiniao-trumpulencia-e-o-redesenho-do-mundo/
   title: "OPINI\xC3O. \u2018Trumpul\xEAncia\u2019 e o redesenho do mundo"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-20T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pela METRIX, uma gestora 100% focada em criptomoedas\
@@ -568,8 +582,7 @@
   path: https://open.spotify.com/episode/77XLcO9GFIb2ijOiQlgpVl
   title: '#186 | POR QUE TANTOS ESPECIALISTAS DE CRIPTO ODEIAM MEMECOINS?'
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id002
   date: '2025-02-20T00:00:00+00:00'
   description: "A controversy among YouTube influencers has led to a series of lawsuits\
     \ accusing browser extensions like PayPal Honey of swiping their commissions.\
@@ -603,7 +616,7 @@
   path: https://open.spotify.com/episode/1qlMC6eIhXJldIfMEIpiK0
   title: "Electric dreams: Indonesia\u2019s reckless bet on EVs"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-02-19T21:12:58+00:00'
   description: It's seriously impressive
   image: https://i4.ytimg.com/vi/KIFwAzmmyKI/hqdefault.jpg
@@ -622,14 +635,14 @@
   path: https://www.youtube.com/watch?v=0kE0qewcIfM
   title: Better Dashboard Performance in 35 Seconds
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-02-19T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-rudin-yelnik-shaikh
   title: Conversations with Frank Fabozzi, CFA
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-02-19T00:00:00+00:00'
   description: "Quer fazer parte da maior fraternidade de investidores do Brasil?\
     \ Entre na lista de espera do M3 Club e garanta sua vaga: https://lp.mmakers.com.br/m3-club-lp-reabertura?xpromo=XE-ME-M3C-LISTADEESPERA2-SUBMMK-20250121-YOUTUBE-NTV-1-XVoc\xEA\
@@ -664,22 +677,6 @@
   path: https://open.spotify.com/episode/0ZmlXxmgCqSfZd49dvtFuR
   title: "A VERDADE SOBRE A ECONOMIA DA BRASIL QUE NINGU\xC9M TE CONTA! | Corte EP\
     \ #182"
-- author: The Journal.
-  categories: *id005
-  date: '2025-02-19T00:00:00+00:00'
-  description: "In recent years, most home insurers were fleeing areas of California\
-    \ with high risk for wildfires. But State Farm was there, dominating the market.\
-    \ Then, just months before the devastating L.A. fires, the company dropped 30,000\
-    \ homeowners from their books. WSJ\u2019s Jean Eaglesham explains how the risk\
-    \ that State Farm unloaded is now a problem for the rest of California.\_  Further\
-    \ Reading: -State Farm Was All In on California \u2013 Until it Pulled the Plug\
-    \ Before the Fires\_ -Insurers\u2019 Rule Change Puts California Homeowners on\
-    \ the Hook for L.A. Fire\_  Further Listening:  -Their L.A. Neighborhood Burned.\
-    \ Two Residents Find What\u2019s Left.\_\_ -Insuring a Home in California Is Getting\
-    \ Harder\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0ty2Z8GYvKXwCWKX9rLQX0
-  title: State Farm Cut Policies. Then the Fires Hit.
 - author: "Economia \u2013 Brazil Journal"
   categories: *id006
   date: '2025-02-17T22:49:07+00:00'
