@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-02-23T17:04:05+00:00'
+  description: "Polariza\xE7\xE3o pode gerar instabilidade para o pr\xF3ximo governo,\
+    \ que precisar\xE1 impulsionar o crescimento econ\xF4mico e estabilizar o sistema\
+    \ social"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/divididos-e-descontentes-a-ascensao-dos-extremos-entre-os-jovens-eleitores-da-alemanha/
+  title: "Divididos e descontentes: a ascens\xE3o dos extremos entre os jovens eleitores\
+    \ da Alemanha"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +28,7 @@
   title: "Maior hack da hist\xF3ria: corretora cripto Bybit perde US$ 1,5 bilh\xE3\
     o"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-02-20T12:48:15+00:00'
   description: "Declara\xE7\xE3o sinaliza que o presidente dos EUA est\xE1 aberto\
     \ a evitar uma disputa crescente entre Washington e Pequim"
@@ -26,12 +36,3 @@
   path: https://investnews.com.br/economia/e-possivel-diz-trump-sobre-novo-acordo-comercial-com-a-china/
   title: "\u2018\xC9 poss\xEDvel\u2019, diz Trump sobre novo acordo comercial com\
     \ a China"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-19T11:41:42+00:00'
-  description: "Presidente aponta para o que ele chama de tratamento injusto das exporta\xE7\
-    \xF5es automotivas dos EUA em mercados estrangeiros"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mais-tarifas-trump-vai-introduzir-taxas-de-25-sobre-automoveis-produtos-farmaceuticos-e-chips/
-  title: "Mais tarifas: Trump vai introduzir taxas de 25% sobre autom\xF3veis, produtos\
-    \ farmac\xEAuticos e chips"
