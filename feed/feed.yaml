@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-24T15:48:15.825121'
+  date: '2025-02-24T18:31:26.250936'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T15:48:15.823356'
+  date: '2025-02-24T18:31:26.249240'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T15:48:15.823352'
+  date: '2025-02-24T18:31:26.249237'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T15:48:15.823347'
+  date: '2025-02-24T18:31:26.249232'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T15:48:15.823337'
+  date: '2025-02-24T18:31:26.249223'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
-- author: CFA Institute Enterprising Investor
+- author: ArjanCodes
   categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-24T16:00:00+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/-qgfkLmx0WM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=-qgfkLmx0WM
+  title: Why Async Servers Beat Sync Servers
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-02-24T11:33:28+00:00'
   description: This blog explores the mechanics of bank runs -- why they happen even
@@ -472,7 +484,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/
   title: 'Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2025-02-23T07:45:51+00:00'
   description: "<p>S\xEDmbolos s\xE3o importantes. Pessoas, ideias e valores ganham\
@@ -487,7 +499,7 @@
   path: https://braziljournal.com/nuremberg-ensina-justica-nao-e-vinganca/
   title: "Nuremberg ensina: justi\xE7a n\xE3o \xE9 vingan\xE7a"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-22T00:00:00+00:00'
   description: "Quer fazer parte da maior fraternidade de investidores do Brasil?\
@@ -521,10 +533,7 @@
   path: https://open.spotify.com/episode/1zcBReDSWdXYA9GmkHdIJP
   title: "#187 | O BRASIL REALMENTE VIROU O JOGO OU \xC9 APENAS UMA ILUS\xC3O?"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-02-21T16:00:37+00:00'
   description: "\U0001F449 Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
     \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
@@ -540,7 +549,7 @@
   path: https://www.youtube.com/watch?v=TzpOdpdX7pE
   title: 'How Python Evolves: The Fascinating Journey of PEPs'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-02-21T11:02:21+00:00'
   description: Our egos are hardwired to fall into the trap of confounding luck and
     skill. By recognizing the role of chance and reinforcing analytical discipline,
@@ -549,7 +558,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/21/luck-vs-skill-great-investment-leaders-know-the-difference/
   title: 'Luck vs. Skill: Great Investment Leaders Know the Difference'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-02-21T00:00:00+00:00'
   description: "For decades, Germany has relied on manufacturing and exports \u2013\
@@ -565,7 +574,7 @@
   path: https://open.spotify.com/episode/6sUwBroU1AH4zzfucgFLLv
   title: Germany's Economy Is Broken. There's No Plan B.
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-02-21T00:00:00+00:00'
   description: "The Trump Administration turns its focus to Europe as President Trump\
     \ signals a willingness to cooperate with Russia. WSJ\u2019s Alex Ward joins Ryan\
@@ -586,7 +595,7 @@
   path: https://open.spotify.com/episode/5mBjq310bL3zWUJCLRxqXH
   title: "#152 - A gestora Outlier de 2024: Kinea e os 7 trofe\u0301us"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-02-20T14:05:23+00:00'
@@ -623,7 +632,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-fasb-on-accounting-for-government-grants
   title: Response to FASB on Accounting for Government Grants
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-02-20T03:21:47+00:00'
   description: "<p>Quem viaja frequentemente de avi\xE3o certamente j\xE1 ouviu o\
     \ piloto anunciar: \u201Csenhoras e senhores, retornem a seus assentos e afivelem\
@@ -638,7 +647,7 @@
   path: https://braziljournal.com/opiniao-trumpulencia-e-o-redesenho-do-mundo/
   title: "OPINI\xC3O. \u2018Trumpul\xEAncia\u2019 e o redesenho do mundo"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-02-20T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pela METRIX, uma gestora 100% focada em criptomoedas\
     \ com uma filosofia de investimento que combina humans and machines: https://metrix.fund\
@@ -693,21 +702,12 @@
   path: https://open.spotify.com/episode/1qlMC6eIhXJldIfMEIpiK0
   title: "Electric dreams: Indonesia\u2019s reckless bet on EVs"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-02-19T21:12:58+00:00'
   description: It's seriously impressive
   image: https://i4.ytimg.com/vi/KIFwAzmmyKI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=KIFwAzmmyKI
   title: Samsung's Special Sauce
-- author: ArjanCodes
-  categories: *id006
-  date: '2025-02-19T16:00:01+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/0kE0qewcIfM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=0kE0qewcIfM
-  title: Better Dashboard Performance in 35 Seconds
 - author: CFA Institute Research and Policy Center
   categories: *id007
   date: '2025-02-19T12:00:00+00:00'
