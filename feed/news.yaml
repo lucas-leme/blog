@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-02-24T13:55:09+00:00'
+  description: Com fundo negociado em bolsa, cripto feita a partir do bitcoin pode
+    voltar a ver dias melhores depois de perdido 70% do valor em quatro anos
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/litecoin-a-prata-digital-esta-prestes-a-ganhar-seu-proprio-etf/
+  title: "Litecoin: \u2018a prata digital\u2019 est\xE1 prestes a ganhar seu pr\xF3\
+    prio ETF"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-02-24T10:02:00+00:00'
   description: "Fique atento na hora de informar dados para n\xE3o cair na malha fina"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -43,7 +52,7 @@
   path: https://www.reddit.com/r/CFA/comments/1iwu85u/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-23T19:18:16+00:00'
   description: "O bloco CDU/CSU de Merz obteve 28,8% dos votos, seguido por 20,2%\
@@ -54,7 +63,7 @@
   title: "Friedrich Merz vence elei\xE7\xE3o na Alemanha e AfD se torna a principal\
     \ for\xE7a de oposi\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-23T17:04:05+00:00'
   description: "Polariza\xE7\xE3o pode gerar instabilidade para o pr\xF3ximo governo,\
     \ que precisar\xE1 impulsionar o crescimento econ\xF4mico e estabilizar o sistema\
@@ -63,14 +72,6 @@
   path: https://investnews.com.br/economia/divididos-e-descontentes-a-ascensao-dos-extremos-entre-os-jovens-eleitores-da-alemanha/
   title: "Divididos e descontentes: a ascens\xE3o dos extremos entre os jovens eleitores\
     \ da Alemanha"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-21T20:04:18+00:00'
-  description: "Enquanto o bitcoin cai mais de 2%, o ether j\xE1 perdeu 7% desde sua\
-    \ m\xE1xima registrada no dia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-e-outras-criptomoedas-caem-apos-hack-de-us-15-bi-da-bybit/
-  title: "Bitcoin e outras criptomoedas caem ap\xF3s hack de US$ 1,5 bi da Bybit"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-02-16T18:20:22+00:00'
