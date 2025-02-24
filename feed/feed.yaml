@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-24T20:27:57.325482'
+  date: '2025-02-24T21:25:42.246196'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T20:27:57.323678'
+  date: '2025-02-24T21:25:42.244431'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T20:27:57.323675'
+  date: '2025-02-24T21:25:42.244427'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T20:27:57.323670'
+  date: '2025-02-24T21:25:42.244422'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-24T20:27:57.323660'
+  date: '2025-02-24T21:25:42.244412'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -473,6 +473,14 @@
   image: https://i2.ytimg.com/vi/-qgfkLmx0WM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: Why Async Servers Beat Sync Servers
+- author: CFA Institute Research and Policy Center
+  categories: &id004
+  - CFA
+  date: '2025-02-24T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
+  title: Response to the FRC Stewardship Code Consultation
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -484,7 +492,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/
   title: 'Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2025-02-23T07:45:51+00:00'
   description: "<p>S\xEDmbolos s\xE3o importantes. Pessoas, ideias e valores ganham\
@@ -499,7 +507,7 @@
   path: https://braziljournal.com/nuremberg-ensina-justica-nao-e-vinganca/
   title: "Nuremberg ensina: justi\xE7a n\xE3o \xE9 vingan\xE7a"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-02-22T00:00:00+00:00'
   description: "Quer fazer parte da maior fraternidade de investidores do Brasil?\
@@ -595,7 +603,7 @@
   path: https://open.spotify.com/episode/5mBjq310bL3zWUJCLRxqXH
   title: "#152 - A gestora Outlier de 2024: Kinea e os 7 trofe\u0301us"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-02-20T14:05:23+00:00'
@@ -624,15 +632,14 @@
   path: https://www.youtube.com/watch?v=NECBCxEFMCo
   title: Are Foldables Cooked?
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id004
   date: '2025-02-20T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-fasb-on-accounting-for-government-grants
   title: Response to FASB on Accounting for Government Grants
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2025-02-20T03:21:47+00:00'
   description: "<p>Quem viaja frequentemente de avi\xE3o certamente j\xE1 ouviu o\
     \ piloto anunciar: \u201Csenhoras e senhores, retornem a seus assentos e afivelem\
@@ -647,7 +654,7 @@
   path: https://braziljournal.com/opiniao-trumpulencia-e-o-redesenho-do-mundo/
   title: "OPINI\xC3O. \u2018Trumpul\xEAncia\u2019 e o redesenho do mundo"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-02-20T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pela METRIX, uma gestora 100% focada em criptomoedas\
     \ com uma filosofia de investimento que combina humans and machines: https://metrix.fund\
@@ -702,19 +709,12 @@
   path: https://open.spotify.com/episode/1qlMC6eIhXJldIfMEIpiK0
   title: "Electric dreams: Indonesia\u2019s reckless bet on EVs"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-02-19T21:12:58+00:00'
   description: It's seriously impressive
   image: https://i4.ytimg.com/vi/KIFwAzmmyKI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=KIFwAzmmyKI
   title: Samsung's Special Sauce
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2025-02-19T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-rudin-yelnik-shaikh
-  title: Conversations with Frank Fabozzi, CFA
 - author: The Overshoot
   categories: &id008
   - Macro
