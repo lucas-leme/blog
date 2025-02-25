@@ -1,8 +1,16 @@
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2025-02-26T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
+  title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: AQR
   categories:
   - Quant
   - Papers
-  date: '2025-02-25T20:27:59.618011'
+  date: '2025-02-25T21:26:25.369303'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T20:27:59.616318'
+  date: '2025-02-25T21:26:25.367563'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T20:27:59.616314'
+  date: '2025-02-25T21:26:25.367559'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T20:27:59.616309'
+  date: '2025-02-25T21:26:25.367555'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T20:27:59.616300'
+  date: '2025-02-25T21:26:25.367546'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +469,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-02-25T21:18:38+00:00'
+  description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
+    \ republicano Rich McCormick tentava aplacar a ira dos correligion\xE1rios, que\
+    \ estavam contra as demiss\xF5es em massa de servidores p\xFAblicos e os corte\
+    \ de gastos feitos pelo DOGE, o Department of Government Efficiency liderado por\
+    \ Elon Musk. \u201CSe continuarmos aumentando o tamanho do governo [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/a-desmontagem-rapida-e-nao-programada-do-governo-dos-eua/\"\
+    \ rel=\"nofollow\">A \u2018desmontagem r\xE1pida e n\xE3o programada\u2019 do\
+    \ Governo dos EUA</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-desmontagem-rapida-e-nao-programada-do-governo-dos-eua/
+  title: "A \u2018desmontagem r\xE1pida e n\xE3o programada\u2019 do Governo dos EUA"
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -482,7 +506,7 @@
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id003
   - CFA
   date: '2025-02-25T11:26:25+00:00'
   description: Does the PEG ratio provide meaningful insights for broad market trends?
@@ -490,8 +514,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/25/is-the-peg-ratio-a-reliable-market-timing-tool/
   title: Is the PEG Ratio a Reliable Market-Timing Tool?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-02-25T10:59:49+00:00'
   description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
     \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
@@ -507,7 +530,7 @@
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -519,15 +542,14 @@
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: Why Async Servers Beat Sync Servers
 - author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
+  categories: *id002
   date: '2025-02-24T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
   title: Response to the FRC Stewardship Code Consultation
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id003
   date: '2025-02-24T11:33:28+00:00'
   description: This blog explores the mechanics of bank runs -- why they happen even
     in the absence of fundamental financial distress, and how central banks can intervene
@@ -536,7 +558,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/
   title: 'Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model'
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-24T00:00:00+00:00'
   description: "The Trump administration is pushing Ukrainian President Volodymyr\
@@ -551,20 +573,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/0t5lLLPnZXqQe84wusWDO9
   title: Why Trump Wants Ukrainian Minerals
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-02-23T07:45:51+00:00'
-  description: "<p>S\xEDmbolos s\xE3o importantes. Pessoas, ideias e valores ganham\
-    \ outra dimens\xE3o &#8212; extraordinariamente maior e mais potente \u2013 quando\
-    \ se tornam s\xEDmbolos. Nuremberg, a cidade no sul da Alemanha, foi escolhida\
-    \ por Adolf Hitler para sediar as reuni\xF5es do Partido Nacional-Socialista que\
-    \ fundara \u2013 o conhecido Partido Nazista. Em 1933, Hitler torna-se chanceler,\
-    \ isto \xE9, o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/nuremberg-ensina-justica-nao-e-vinganca/\"\
-    \ rel=\"nofollow\">Nuremberg ensina: justi\xE7a n\xE3o \xE9 vingan\xE7a</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/nuremberg-ensina-justica-nao-e-vinganca/
-  title: "Nuremberg ensina: justi\xE7a n\xE3o \xE9 vingan\xE7a"
 - author: Market Makers
   categories: &id006
   - Podcasts
@@ -600,7 +608,7 @@
   path: https://open.spotify.com/episode/1zcBReDSWdXYA9GmkHdIJP
   title: "#187 | O BRASIL REALMENTE VIROU O JOGO OU \xC9 APENAS UMA ILUS\xC3O?"
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2025-02-21T16:00:37+00:00'
   description: "\U0001F449 Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
     \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
@@ -616,7 +624,7 @@
   path: https://www.youtube.com/watch?v=TzpOdpdX7pE
   title: 'How Python Evolves: From PEP to Feature'
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2025-02-21T00:00:00+00:00'
   description: "For decades, Germany has relied on manufacturing and exports \u2013\
     \ a model that made it the world\u2019s third largest economy. But that model\
@@ -667,13 +675,6 @@
   image: https://i3.ytimg.com/vi/NECBCxEFMCo/hqdefault.jpg
   path: https://www.youtube.com/watch?v=NECBCxEFMCo
   title: Are Foldables Cooked?
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-02-20T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-fasb-on-accounting-for-government-grants
-  title: Response to FASB on Accounting for Government Grants
 - author: Market Makers
   categories: *id006
   date: '2025-02-20T00:00:00+00:00'
