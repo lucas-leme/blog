@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-25T02:02:22.087649'
+  date: '2025-02-25T11:07:09.920116'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T02:02:22.085934'
+  date: '2025-02-25T11:07:09.918294'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T02:02:22.085931'
+  date: '2025-02-25T11:07:09.918290'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T02:02:22.085927'
+  date: '2025-02-25T11:07:09.918286'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-25T02:02:22.085917'
+  date: '2025-02-25T11:07:09.918276'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-02-25T10:59:49+00:00'
+  description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
+    \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
+    \ preocupar, disse o economista-chefe da Apollo Global Management, Torsten Sl\xF8\
+    k. Sl\xF8k listou duas amea\xE7as principais: o impacto das demiss\xF5es realizadas\
+    \ pelo Department of Government Efficiency (DOGE) e o efeito das \u201Cpersistentes\
+    \ incertezas pol\xEDticas\u201D sobre os [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/\"\
+    \ rel=\"nofollow\">Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar\
+    \ os mercados</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
+  title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
+- author: ArjanCodes
+  categories: &id002
   - Tech
   - Code
   - Youtube
@@ -474,7 +491,7 @@
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: Why Async Servers Beat Sync Servers
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-02-24T12:00:00+00:00'
   description: ''
@@ -482,7 +499,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
   title: Response to the FRC Stewardship Code Consultation
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-02-24T11:33:28+00:00'
   description: This blog explores the mechanics of bank runs -- why they happen even
@@ -492,7 +509,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/
   title: 'Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-02-24T00:00:00+00:00'
   description: "The Trump administration is pushing Ukrainian President Volodymyr\
@@ -508,8 +525,7 @@
   path: https://open.spotify.com/episode/0t5lLLPnZXqQe84wusWDO9
   title: Why Trump Wants Ukrainian Minerals
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2025-02-23T07:45:51+00:00'
   description: "<p>S\xEDmbolos s\xE3o importantes. Pessoas, ideias e valores ganham\
     \ outra dimens\xE3o &#8212; extraordinariamente maior e mais potente \u2013 quando\
@@ -557,7 +573,7 @@
   path: https://open.spotify.com/episode/1zcBReDSWdXYA9GmkHdIJP
   title: "#187 | O BRASIL REALMENTE VIROU O JOGO OU \xC9 APENAS UMA ILUS\xC3O?"
 - author: ArjanCodes
-  categories: *id001
+  categories: *id002
   date: '2025-02-21T16:00:37+00:00'
   description: "\U0001F449 Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
     \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
@@ -571,9 +587,9 @@
     \nThis video was sponsored by Brilliant.\n\n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/TzpOdpdX7pE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=TzpOdpdX7pE
-  title: 'How Python Evolves: The Fascinating Journey of PEPs'
+  title: 'How Python Evolves: From PEP to Feature'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-02-21T11:02:21+00:00'
   description: Our egos are hardwired to fall into the trap of confounding luck and
     skill. By recognizing the role of chance and reinforcing analytical discipline,
@@ -582,7 +598,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/21/luck-vs-skill-great-investment-leaders-know-the-difference/
   title: 'Luck vs. Skill: Great Investment Leaders Know the Difference'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-02-21T00:00:00+00:00'
   description: "For decades, Germany has relied on manufacturing and exports \u2013\
     \ a model that made it the world\u2019s third largest economy. But that model\
@@ -634,27 +650,12 @@
   path: https://www.youtube.com/watch?v=NECBCxEFMCo
   title: Are Foldables Cooked?
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-02-20T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-fasb-on-accounting-for-government-grants
   title: Response to FASB on Accounting for Government Grants
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2025-02-20T03:21:47+00:00'
-  description: "<p>Quem viaja frequentemente de avi\xE3o certamente j\xE1 ouviu o\
-    \ piloto anunciar: \u201Csenhoras e senhores, retornem a seus assentos e afivelem\
-    \ os cintos. Passaremos por uma \xE1rea de turbul\xEAncia\u201D. Na economia e\
-    \ na pol\xEDtica mundiais, estamos atravessando um per\xEDodo de \u201CTrumpul\xEA\
-    ncia\u201D.\_ Pode-se gostar ou n\xE3o de Trump. Debater se sua agenda \xE9 boa\
-    \ para os EUA, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-trumpulencia-e-o-redesenho-do-mundo/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. \u2018Trumpul\xEAncia\u2019 e o redesenho do mundo\_\
-    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-trumpulencia-e-o-redesenho-do-mundo/
-  title: "OPINI\xC3O. \u2018Trumpul\xEAncia\u2019 e o redesenho do mundo"
 - author: Market Makers
   categories: *id006
   date: '2025-02-20T00:00:00+00:00'
