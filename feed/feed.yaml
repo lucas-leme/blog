@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-26T15:48:27.276246'
+  date: '2025-02-26T18:31:12.730185'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T15:48:27.274478'
+  date: '2025-02-26T18:31:12.728453'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T15:48:27.274475'
+  date: '2025-02-26T18:31:12.728449'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T15:48:27.274470'
+  date: '2025-02-26T18:31:12.728445'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T15:48:27.274462'
+  date: '2025-02-26T18:31:12.728435'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
-- author: CFA Institute Research and Policy Center
+- author: ArjanCodes
   categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-26T16:01:09+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/vhE-kur_Dc4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=vhE-kur_Dc4
+  title: Choosing Between Streamlit, Dash, and Taipy
+- author: CFA Institute Research and Policy Center
+  categories: &id004
   - CFA
   date: '2025-02-26T12:00:00+00:00'
   description: ''
@@ -497,7 +509,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/
   title: 'Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-02-26T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -588,7 +600,7 @@
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-25T00:00:00+00:00'
   description: "As the U.S. fights a persistent bird flu outbreak, the cost of eggs\
@@ -604,10 +616,7 @@
   path: https://open.spotify.com/episode/7fQb0IxyPMNrLHPyRntVqs
   title: An Eggspensive Dilemma
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2025-02-24T16:00:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -616,14 +625,14 @@
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: "\U0001F501 Why Async Servers Beat Sync Servers"
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-02-24T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
   title: Response to the FRC Stewardship Code Consultation
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2025-02-24T00:00:00+00:00'
   description: "The Trump administration is pushing Ukrainian President Volodymyr\
     \ Zelensky to hand over mineral rights worth hundreds of billions of dollars to\
@@ -638,7 +647,7 @@
   path: https://open.spotify.com/episode/0t5lLLPnZXqQe84wusWDO9
   title: Why Trump Wants Ukrainian Minerals
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-02-22T00:00:00+00:00'
   description: "Quer fazer parte da maior fraternidade de investidores do Brasil?\
     \ Entre na lista de espera do M3 Club e garanta sua vaga: https://lp.mmakers.com.br/m3-club-lp-reabertura?xpromo=XE-ME-M3C-LISTADEESPERA2-SUBMMK-20250121-YOUTUBE-NTV-1-XA\
@@ -670,22 +679,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a1e8cb238f7ff6f2e5a16cc11
   path: https://open.spotify.com/episode/1zcBReDSWdXYA9GmkHdIJP
   title: "#187 | O BRASIL REALMENTE VIROU O JOGO OU \xC9 APENAS UMA ILUS\xC3O?"
-- author: ArjanCodes
-  categories: *id006
-  date: '2025-02-21T16:00:37+00:00'
-  description: "\U0001F449 Visit https://brilliant.org/ArjanCodes/ to try Brilliant\
-    \ for free for 30 days. You\u2019ll also get 20% off an annual premium subscription.\n\
-    \nIn this video, I\u2019ll explore how Python gets new functionality and how PEPs\
-    \ have a huge role in this, by looking at PEP484 and its interesting backstory.\n\
-    \n\U0001F4DD The Python Developer\u2019s Guide: https://devguide.python.org.\n\
-    \n\U0001F477 Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n1:00 Origins of Python\n2:17 What Are PEPs?\n3:09 The\
-    \ PEP Workflow\n6:25 PEP 484: The Evolution of Type Hints\n12:57 Final Thoughts\n\
-    \nThis video was sponsored by Brilliant.\n\n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/TzpOdpdX7pE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=TzpOdpdX7pE
-  title: 'How Python Evolves: From PEP to Feature'
 - author: Outliers
   categories: &id009
   - Podcasts
