@@ -1,16 +1,8 @@
-- author: CFA Institute Research and Policy Center
-  categories: &id002
-  - CFA
-  date: '2025-02-26T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
-  title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: AQR
   categories:
   - Quant
   - Papers
-  date: '2025-02-26T11:24:07.627356'
+  date: '2025-02-26T12:12:32.458604'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T11:24:07.625557'
+  date: '2025-02-26T12:12:32.456850'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T11:24:07.625553'
+  date: '2025-02-26T12:12:32.456846'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -52,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T11:24:07.625549'
+  date: '2025-02-26T12:12:32.456841'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -137,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T11:24:07.625539'
+  date: '2025-02-26T12:12:32.456832'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -469,6 +461,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2025-02-26T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
+  title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-02-26T11:50:09+00:00'
+  description: As market conditions, workforce demographics, and regulatory landscapes
+    evolve, continuous assessment and strategic decision-making will be key for DC
+    plan success.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/
+  title: 'Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025'
 - author: Market Makers
   categories: &id005
   - Podcasts
@@ -502,7 +512,7 @@
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
@@ -538,15 +548,14 @@
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-02-25T11:26:25+00:00'
   description: Does the PEG ratio provide meaningful insights for broad market trends?
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/02/25/is-the-peg-ratio-a-reliable-market-timing-tool/
   title: Is the PEG Ratio a Reliable Market-Timing Tool?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-02-25T10:59:49+00:00'
   description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
     \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
@@ -590,21 +599,12 @@
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: "\U0001F501 Why Async Servers Beat Sync Servers"
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-02-24T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
   title: Response to the FRC Stewardship Code Consultation
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-02-24T11:33:28+00:00'
-  description: This blog explores the mechanics of bank runs -- why they happen even
-    in the absence of fundamental financial distress, and how central banks can intervene
-    to stabilize the system.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/02/24/bank-runs-and-liquidity-crises-insights-from-the-diamond-dybvig-model/
-  title: 'Bank Runs and Liquidity Crises: Insights from the Diamond-Dybvig Model'
 - author: The Journal.
   categories: *id004
   date: '2025-02-24T00:00:00+00:00'
