@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-02-27T14:44:21+00:00'
+  description: "Apesar deste cen\xE1rio no final do ano, o crescimento anual supera\
+    \ a taxa sustent\xE1vel do Federal Reserve, com gastos do consumidor em alta"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/pib-dos-eua-desacelera-de-31-para-23-no-ultimo-trimestre-de-2024/
+  title: "PIB dos EUA desacelera de 3,1% para 2,3% no \xFAltimo trimestre de 2024"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -48,8 +57,7 @@
   title: "Imposto de Renda 2025: Empresas precisam entregar Informe de Rendimentos\
     \ at\xE9 sexta (28)"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-02-26T00:20:21+00:00'
   description: "Visto deve ter os mesmos privil\xE9gios que o 'Green Card' para imigrantes\
     \ com resid\xEAncia permanente nos EUA"
@@ -57,14 +65,6 @@
   path: https://investnews.com.br/economia/trump-diz-que-vai-dar-visto-gold-card-para-estrangeiro-que-pagar-us-5-milhoes/
   title: "Trump diz que vai dar visto \u2018Gold Card\u2019 para estrangeiro que pagar\
     \ US$ 5 milh\xF5es"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-02-25T22:42:01+00:00'
-  description: "Fontes ouvidas pela Bloomberg disseram que negociadores ucranianos\
-    \ v\xE3o recomendar que pa\xEDs aceite o acordo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ucrania-aceitou-termos-de-acordo-com-eua-sobre-minerais-dizem-fontes/
-  title: "Ucr\xE2nia aceitou termos de acordo com EUA sobre minerais, dizem fontes"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-02-25T12:43:39+00:00'
