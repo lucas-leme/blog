@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-26T21:26:15.628135'
+  date: '2025-02-27T00:48:16.419077'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T21:26:15.626439'
+  date: '2025-02-27T00:48:16.417339'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T21:26:15.626436'
+  date: '2025-02-27T00:48:16.417334'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T21:26:15.626432'
+  date: '2025-02-27T00:48:16.417329'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-26T21:26:15.626422'
+  date: '2025-02-27T00:48:16.417319'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -462,7 +462,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -474,7 +474,7 @@
   path: https://www.youtube.com/watch?v=vhE-kur_Dc4
   title: Choosing Between Streamlit, Dash, and Taipy
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-02-26T12:00:00+00:00'
   description: ''
@@ -540,6 +540,20 @@
   path: https://open.spotify.com/episode/0I97ZlLt9Bx1k2drNgALNQ
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2025-02-26T00:00:00+00:00'
+  description: "If you landed on a flight from Europe to New York recently, you might\
+    \ have been an unwitting participant in a high-stakes, high-altitude gold trade.\
+    \ WSJ\u2019s Joe Wallace explains what's going on with the gold market, and why\
+    \ gold bars have been flying commercial.\_  Further Reading: -Why Dealers Are\
+    \ Flying Gold Bars by Plane From London to New York\_  Further Listening:  -Trump's\
+    \ Tariff Whiplash\_ -The Underground Battle for Colombia's Richest Gold Mine\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/0OoVbJqJcMLCKa0IkEmxFJ
+  title: Why Gold Bars Are Flying Over the Atlantic
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -600,8 +614,7 @@
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2025-02-25T00:00:00+00:00'
   description: "As the U.S. fights a persistent bird flu outbreak, the cost of eggs\
     \ has skyrocketed. The owner of a brunch cafe tells us about the impact of high-priced\
@@ -616,7 +629,7 @@
   path: https://open.spotify.com/episode/7fQb0IxyPMNrLHPyRntVqs
   title: An Eggspensive Dilemma
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2025-02-24T16:00:00+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -625,27 +638,12 @@
   path: https://www.youtube.com/watch?v=-qgfkLmx0WM
   title: "\U0001F501 Why Async Servers Beat Sync Servers"
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-02-24T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
   title: Response to the FRC Stewardship Code Consultation
-- author: The Journal.
-  categories: *id005
-  date: '2025-02-24T00:00:00+00:00'
-  description: "The Trump administration is pushing Ukrainian President Volodymyr\
-    \ Zelensky to hand over mineral rights worth hundreds of billions of dollars to\
-    \ the U.S. Zelensky said a deal is possible but he wants better terms. WSJ's James\
-    \ Marson explains why these minerals are so valuable and what this potential deal\
-    \ could mean for ending the war between Russia and Ukraine.  Further Listening:\
-    \  - Trump 2.0: Shaking Up Europe\_ - Ukraine's $30 Billion Problem\_  Further\
-    \ Reading: - A Guide to U.S.-Russia Talks on Ending the War in Ukraine\_ - Ukraine\u2019\
-    s Zelensky Wants Better Terms on Minerals Deal Demanded by Trump\_   Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0t5lLLPnZXqQe84wusWDO9
-  title: Why Trump Wants Ukrainian Minerals
 - author: Market Makers
   categories: *id006
   date: '2025-02-22T00:00:00+00:00'
