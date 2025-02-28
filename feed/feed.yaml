@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-28T02:02:58.067485'
+  date: '2025-02-28T11:07:08.911390'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T02:02:58.065689'
+  date: '2025-02-28T11:07:08.909684'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T02:02:58.065684'
+  date: '2025-02-28T11:07:08.909681'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T02:02:58.065680'
+  date: '2025-02-28T11:07:08.909676'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T02:02:58.065669'
+  date: '2025-02-28T11:07:08.909667'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-02-28T00:00:00+00:00'
+  description: "Lawmakers in the House of Representatives narrowly passed a budget\
+    \ resolution this week that serves as a first draft of the \u201Cbig, beautiful\
+    \ bill\u201D President Trump has been seeking. WSJ\u2019s Siobhan Hughes joins\
+    \ Ryan Knutson  and Molly Ball to discuss how Congress is working with Trump.\
+    \ Plus, we take a look at what impact recent rulings from the judicial branch\
+    \ might mean for Trump's agenda.\_  Further Reading: - The Weight of Trump\u2019\
+    s Agenda Sits on Mike Johnson\u2019s Shoulders\_  Further Listening:  - Why Trump\
+    \ Wants Ukrainian Minerals\_ - Trump 2.0: Shaking Up Europe\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8a9196e4dc828fb75c1452b6c1
+  path: https://open.spotify.com/episode/4n2TNU56S6DaIVfkUusmXz
+  title: 'Trump 2.0: A Big, Beautiful Bill'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -485,7 +501,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/02/supply-and-demand-drivers-of-global-inflation-trends/
   title: Supply and Demand Drivers of Global Inflation Trends
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-02-27T11:38:13+00:00'
   description: "Hedge funds can serve as legitimate diversifiers, but blind allocation\
@@ -530,7 +546,7 @@
   path: https://www.youtube.com/watch?v=qF4vZxbSmjo
   title: 'iPhone 16e Review: Who Are You?'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-02-27T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -562,8 +578,7 @@
   path: https://open.spotify.com/episode/00InQCDNA7sMNJXoxxHgKE
   title: "#189 | A VERDADE SOBRE INVESTIR NO BRASIL QUE NINGU\xC9M FALA"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-02-27T00:00:00+00:00'
   description: "Paramount Global is wrestling with whether to settle President Trump\u2019\
     s lawsuit against its CBS unit. At the same time, the company is waiting for regulatory\
@@ -637,7 +652,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-02-26T11:50:09+00:00'
   description: As market conditions, workforce demographics, and regulatory landscapes
     evolve, continuous assessment and strategic decision-making will be key for DC
@@ -646,7 +661,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/
   title: 'Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-02-26T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua: https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-XA\
@@ -676,19 +691,6 @@
   path: https://open.spotify.com/episode/0I97ZlLt9Bx1k2drNgALNQ
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
-- author: The Journal.
-  categories: *id003
-  date: '2025-02-26T00:00:00+00:00'
-  description: "If you landed on a flight from Europe to New York recently, you might\
-    \ have been an unwitting participant in a high-stakes, high-altitude gold trade.\
-    \ WSJ\u2019s Joe Wallace explains what's going on with the gold market, and why\
-    \ gold bars have been flying commercial.\_  Further Reading: -Why Dealers Are\
-    \ Flying Gold Bars by Plane From London to New York\_  Further Listening:  -Trump's\
-    \ Tariff Whiplash\_ -The Underground Battle for Colombia's Richest Gold Mine\_\
-    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0OoVbJqJcMLCKa0IkEmxFJ
-  title: Why Gold Bars Are Flying Over the Atlantic
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
