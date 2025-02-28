@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-02-28T15:48:22.426918'
+  date: '2025-02-28T18:31:18.849066'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T15:48:22.425166'
+  date: '2025-02-28T18:31:18.847340'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T15:48:22.425162'
+  date: '2025-02-28T18:31:18.847337'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T15:48:22.425157'
+  date: '2025-02-28T18:31:18.847332'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-02-28T15:48:22.425147'
+  date: '2025-02-28T18:31:18.847323'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-02-28T16:00:56+00:00'
+  description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nTypeScript\
+    \ and Python are both widely used, versatile, and powerful \u2013 but actually\
+    \ they couldn\u2019t be more different! In this video, I\u2019m going to explore\
+    \ what you need to know about Typescript as a Pythonista. \n\n\U0001F4A1 Learn\
+    \ how to design great software in 7 steps: https://arjan.codes/designguide.\n\n\
+    \U0001F525 GitHub Repository: https://git.arjan.codes/2025/typescript.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:42 Back story\n2:56 Type system\n10:08 More about typing\n12:52\
+    \ Interfaces vs Protocols\n14:00 Callables and functions\n16:59 Ecosystem\n19:56\
+    \ Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/kBVZgCrdVCw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=kBVZgCrdVCw
+  title: An Introduction to Typescript for Pythonistas
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -491,7 +510,7 @@
   path: https://open.spotify.com/episode/4n2TNU56S6DaIVfkUusmXz
   title: 'Trump 2.0: A Big, Beautiful Bill'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-02-27T11:38:13+00:00'
   description: "Hedge funds can serve as legitimate diversifiers, but blind allocation\
@@ -536,7 +555,7 @@
   path: https://www.youtube.com/watch?v=qF4vZxbSmjo
   title: 'iPhone 16e Review: Who Are You?'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-02-27T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -622,10 +641,7 @@
   path: https://open.spotify.com/episode/6KdD6FKa39adAGZErMwUjk
   title: 'Triple threat: the European economy has a Trump problem'
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2025-02-26T16:01:09+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -642,7 +658,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-02-26T11:50:09+00:00'
   description: As market conditions, workforce demographics, and regulatory landscapes
     evolve, continuous assessment and strategic decision-making will be key for DC
@@ -651,7 +667,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/
   title: 'Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-02-26T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua: https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-XA\
@@ -682,7 +698,7 @@
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
@@ -718,7 +734,7 @@
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2025-02-25T10:59:49+00:00'
   description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
     \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
@@ -733,15 +749,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-02-24T16:00:00+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/-qgfkLmx0WM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=-qgfkLmx0WM
-  title: "\U0001F501 Why Async Servers Beat Sync Servers"
 - author: CFA Institute Research and Policy Center
   categories: *id006
   date: '2025-02-24T12:00:00+00:00'
