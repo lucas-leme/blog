@@ -1,14 +1,24 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-02-28T19:53:41+00:00'
-  description: "Hoffmann assumiu a Secretaria de Rela\xE7\xF5es Institucionais, e\
-    \ o mercado n\xE3o gostou"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/bolsa-cai-e-dolar-a-r-591-escolha-de-gleisi-para-articulacao-do-governo-desagrada-mercado/
-  title: "Com escolha de Gleisi, d\xF3lar sobe a R$5,91 e bolsa tomba 1,60%"
-- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-01T19:16:15+00:00'
+  description: "Movimento do c\xE2mbio e do petr\xF3lo no exterior embasam a decis\xE3\
+    o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petrobras-reduz-preco-do-combustivel-de-aviacao-em-59-em-marco/
+  title: "Petrobras reduz pre\xE7o do combust\xEDvel de avia\xE7\xE3o em 5,9% em mar\xE7\
+    o"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-03-01T19:11:47+00:00'
+  description: "Em 2024, tr\xEAs incidentes por quinzena de superaquecimento de baterias\
+    \ foram registrados em voos nos EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/celular-e-cigarro-eletronico-em-maos-as-novas-regras-da-coreia-do-sul-para-baterias-de-litio-em-avioes/
+  title: "Celular e cigarro eletr\xF4nico em m\xE3os: as novas regras da Coreia do\
+    \ Sul para baterias de l\xEDtio em avi\xF5es"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-02-28T17:00:00+00:00'
   description: "Herdeiro de fundador de institui\xE7\xE3o financeira e de empresa\
@@ -18,7 +28,7 @@
   title: "Oscar 2025: De onde vem a fortuna de Walter Salles, diretor de \u2018Ainda\
     \ Estou Aqui\u2019?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-02-28T15:09:00+00:00'
   description: "Entenda calend\xE1rio, valores e como receber sem conta na Caixa"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -65,14 +75,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1j001k2/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-02-27T14:44:21+00:00'
-  description: "Mesmo assim, a taxa de 2024 fecha acima daquilo que o Fed considera\
-    \ razo\xE1vel para que a infla\xE7\xE3o volte \xE0 meta, de 2%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pib-dos-eua-desacelera-de-31-para-23-no-ultimo-trimestre-de-2024/
-  title: "PIB dos EUA desacelera de 3,1% para 2,3% no \xFAltimo trimestre de 2024"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-02-16T18:20:22+00:00'
