@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-03T15:48:26.163121'
+  date: '2025-03-03T18:30:48.379633'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T15:48:26.161378'
+  date: '2025-03-03T18:30:48.377897'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T15:48:26.161375'
+  date: '2025-03-03T18:30:48.377894'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T15:48:26.161370'
+  date: '2025-03-03T18:30:48.377889'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T15:48:26.161360'
+  date: '2025-03-03T18:30:48.377879'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-03-03T16:01:08+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/xhfxNXsJXGI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=xhfxNXsJXGI
+  title: How to Build an API Backend with Docker
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-03-03T12:40:23+00:00'
   description: Navigating FX market volatility requires more than traditional analysis.
@@ -471,6 +483,14 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/03/03/abnormal-fx-returns-and-liquidity-based-machine-learning-approaches/
   title: Abnormal FX Returns and Liquidity-Based Machine Learning Approaches
+- author: CFA Institute Research and Policy Center
+  categories: &id004
+  - CFA
+  date: '2025-03-03T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-consultation-uk-green-taxonomy
+  title: Response to the Consultation on a UK Green Taxonomy
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -495,10 +515,7 @@
   path: https://open.spotify.com/episode/1eYYt94xJicG0WtQH2vm62
   title: Scott Phillips - Finding Ugly Edges in Crypto Markets (S7E15)
 - author: ArjanCodes
-  categories: &id003
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-02-28T16:00:56+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nTypeScript\
     \ and Python are both widely used, versatile, and powerful \u2013 but actually\
@@ -527,7 +544,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/02/kartik-athreya-on-his-first-year-as-research-director-of-the-new-york-fed/
   title: Kartik Athreya on His First Year as Research Director of the New York Fed
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-02-28T00:00:00+00:00'
   description: "In the first few minutes of the Trump presidency, Elon Musk\u2019\
@@ -543,7 +560,7 @@
   path: https://open.spotify.com/episode/6SHuUbSOOW8cCxI9ou8GjL
   title: Inside DOGE's Campaign of Secrecy
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-02-28T00:00:00+00:00'
   description: "Lawmakers in the House of Representatives narrowly passed a budget\
     \ resolution this week that serves as a first draft of the \u201Cbig, beautiful\
@@ -558,7 +575,7 @@
   path: https://open.spotify.com/episode/4n2TNU56S6DaIVfkUusmXz
   title: 'Trump 2.0: A Big, Beautiful Bill'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-02-27T11:38:13+00:00'
   description: "Hedge funds can serve as legitimate diversifiers, but blind allocation\
     \ is risky. Traditional risk measures like standard deviation and correlation\
@@ -602,7 +619,7 @@
   path: https://www.youtube.com/watch?v=qF4vZxbSmjo
   title: 'iPhone 16e Review: Who Are You?'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-02-27T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -671,25 +688,15 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/6KdD6FKa39adAGZErMwUjk
   title: 'Triple threat: the European economy has a Trump problem'
-- author: ArjanCodes
-  categories: *id003
-  date: '2025-02-26T16:01:09+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/vhE-kur_Dc4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=vhE-kur_Dc4
-  title: "\U0001F914 Choosing Between Streamlit, Dash, and Taipy"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
-  - CFA
+  categories: *id004
   date: '2025-02-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-02-26T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua: https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-XA\
@@ -720,7 +727,7 @@
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
@@ -756,7 +763,7 @@
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2025-02-25T10:59:49+00:00'
   description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
     \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
@@ -771,13 +778,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
-- author: CFA Institute Research and Policy Center
-  categories: *id006
-  date: '2025-02-24T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-frc-stewardship-code-consultation
-  title: Response to the FRC Stewardship Code Consultation
 - author: Outliers
   categories: *id007
   date: '2025-02-21T00:00:00+00:00'
