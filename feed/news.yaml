@@ -1,5 +1,37 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
+  - "Not\xEDcias"
+  date: '2025-03-03T13:16:12+00:00'
+  description: "Pa\xEDs se prepara para congresso anual que come\xE7a na quarta e\
+    \ definir\xE1 o plano para a economia chinesa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-planeja-pacote-de-estimulo-interno-e-tarifas-retaliatorias-contra-a-soja-dos-eua/
+  title: "China planeja pacote de est\xEDmulo interno e tarifas retaliat\xF3rias contra\
+    \ a soja dos EUA"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id001
+  - "Not\xEDcias"
+  - CFA
+  - Reddit
+  date: '2025-03-03T11:19:24+00:00'
+  description: "<!-- SC_OFF --><div class=\"md\"><p>I\u2019m inclined towards CFA\
+    \ and want to pick up some skills that\u2019ll help me land a corporate role or\
+    \ even an internship. Right now, I\u2019m looking at:</p> <p>Financial Modeling\
+    \ (3-statement models, revenue forecasting)</p> <p>Valuation (DCF, Comparable\
+    \ Analysis)</p> <p>Advanced Excel (Pivot tables, VBA, automation)</p> <p>SQL (For\
+    \ handling financial data)</p> <p>Power BI (For dashboards &amp; reports)</p>\
+    \ <p>Would learning all this be worth it, or should I focus on something else?\
+    \ Also, should I get certifications for these, or just grind YouTube tutorials\
+    \ and practice?</p> <p>Appreciate any insights. Thanks!</p> </div><!-- SC_ON -->\
+    \ &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Successful_Job_3187\"\
+    > /u/Successful_Job_3187 </a> <br /> <span><a href=\"https://www.reddit.com/r/CFA/comments/1j2ggj1/are_these_the_right_skills_for_a_finance_career/\"\
+    >[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/CFA/comments/1j2ggj1/are_these_the_right_skills_for_a_finance_career/\"\
+    >[comments]</a></span>"
+  image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
+  path: https://www.reddit.com/r/CFA/comments/1j2ggj1/are_these_the_right_skills_for_a_finance_career/
+  title: Are these the right skills for a finance career?
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
   - "Not\xEDcias"
   date: '2025-03-03T10:03:00+00:00'
   description: "\xC9 preciso ter conta prata ou ouro para acessar  pr\xE9-preenchida\
@@ -8,24 +40,6 @@
   path: https://investnews.com.br/financas/declaracao-pre-preenchida-do-imposto-de-renda-exige-conta-gov-br-veja-como-criar-a-sua/
   title: "Declara\xE7\xE3o pr\xE9-preenchida IR 2025: como criar conta gov.br necess\xE1\
     ria?"
-- author: "\u201CSuperior returns guaranteed\""
-  categories: &id001
-  - "Not\xEDcias"
-  - CFA
-  - Reddit
-  date: '2025-03-03T05:52:08+00:00'
-  description: "<table> <tr><td> <a href=\"https://www.reddit.com/r/CFA/comments/1j2bwbf/coporate_issuer_doubt/\"\
-    > <img alt=\"Coporate issuer doubt\" src=\"https://preview.redd.it/qwnl2zfqyeme1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2d9dde52d79162123895cfed655c2824790ef615\"\
-    \ title=\"Coporate issuer doubt\" /> </a> </td><td> <!-- SC_OFF --><div class=\"\
-    md\"><p>Shouldn\u2019t the answer be A because increasing the days payable outstanding\
-    \ will shorten the CCC?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"\
-    https://www.reddit.com/user/West_Row_9880\"> /u/West_Row_9880 </a> <br /> <span><a\
-    \ href=\"https://i.redd.it/qwnl2zfqyeme1.jpeg\">[link]</a></span> &#32; <span><a\
-    \ href=\"https://www.reddit.com/r/CFA/comments/1j2bwbf/coporate_issuer_doubt/\"\
-    >[comments]</a></span> </td></tr></table>"
-  image: https://preview.redd.it/qwnl2zfqyeme1.jpeg?width=640&crop=smart&auto=webp&s=2d9dde52d79162123895cfed655c2824790ef615
-  path: https://www.reddit.com/r/CFA/comments/1j2bwbf/coporate_issuer_doubt/
-  title: Coporate issuer doubt
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id001
   date: '2025-03-03T05:01:29+00:00'
@@ -59,8 +73,7 @@
   path: https://www.reddit.com/r/CFA/comments/1j2b2pg/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-03-02T17:11:17+00:00'
   description: "As criptomoedas tiveram forte alta neste domingo, ap\xF3s o presidente\
     \ dos Estados Unidos, Donald Trump, promover ativos digitais, incluindo o token\
@@ -72,7 +85,7 @@
   path: https://investnews.com.br/economia/trump-diz-que-reserva-estrategica-de-criptomoedas-dos-eua-tera-ripple-solana-e-cardano/
   title: "Trump diz que reserva de criptomoedas dos EUA ter\xE1 Ripple, Solana e Cardano"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
+  categories: *id003
   date: '2025-03-02T15:57:33+00:00'
   description: "Entre promessas n\xE3o cumpridas de Trump e o maior hack da hist\xF3\
     ria: a principal criptomoeda \ndo mundo recuou mais de 20% desde seu recorde em\
@@ -81,12 +94,3 @@
   path: https://investnews.com.br/financas/ataque-hacker-saida-de-etfs-e-fim-do-fator-trump-o-que-afastou-o-bitcoin-das-maximas/
   title: "Ataque hacker, sa\xEDda de ETFs e fim do \u2018fator Trump\u2019: o que\
     \ afastou o bitcoin das m\xE1ximas?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2025-03-01T19:16:15+00:00'
-  description: "Movimento do c\xE2mbio e do petr\xF3lo no exterior embasam a decis\xE3\
-    o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petrobras-reduz-preco-do-combustivel-de-aviacao-em-59-em-marco/
-  title: "Petrobras reduz pre\xE7o do combust\xEDvel de avia\xE7\xE3o em 5,9% em mar\xE7\
-    o"

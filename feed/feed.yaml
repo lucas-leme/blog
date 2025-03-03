@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-03T12:30:59.208083'
+  date: '2025-03-03T13:38:20.300506'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T12:30:59.206352'
+  date: '2025-03-03T13:38:20.298781'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T12:30:59.206348'
+  date: '2025-03-03T13:38:20.298777'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T12:30:59.206343'
+  date: '2025-03-03T13:38:20.298772'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-03T12:30:59.206333'
+  date: '2025-03-03T13:38:20.298762'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-03-03T12:40:23+00:00'
+  description: Navigating FX market volatility requires more than traditional analysis.
+    Liquidity-aware models and machine learning techniques can provide an edge in
+    detecting and forecasting abnormal returns.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/03/abnormal-fx-returns-and-liquidity-based-machine-learning-approaches/
+  title: Abnormal FX Returns and Liquidity-Based Machine Learning Approaches
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -485,7 +495,7 @@
   path: https://open.spotify.com/episode/1eYYt94xJicG0WtQH2vm62
   title: Scott Phillips - Finding Ugly Edges in Crypto Markets (S7E15)
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -548,8 +558,7 @@
   path: https://open.spotify.com/episode/4n2TNU56S6DaIVfkUusmXz
   title: 'Trump 2.0: A Big, Beautiful Bill'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-02-27T11:38:13+00:00'
   description: "Hedge funds can serve as legitimate diversifiers, but blind allocation\
     \ is risky. Traditional risk measures like standard deviation and correlation\
@@ -663,7 +672,7 @@
   path: https://open.spotify.com/episode/6KdD6FKa39adAGZErMwUjk
   title: 'Triple threat: the European economy has a Trump problem'
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2025-02-26T16:01:09+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -679,15 +688,6 @@
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-02-26T11:50:09+00:00'
-  description: As market conditions, workforce demographics, and regulatory landscapes
-    evolve, continuous assessment and strategic decision-making will be key for DC
-    plan success.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/02/26/retirement-readiness-in-focus-key-actions-for-dc-plan-success-in-2025/
-  title: 'Retirement Readiness in Focus: Key Actions for DC Plan Success in 2025'
 - author: Market Makers
   categories: *id004
   date: '2025-02-26T00:00:00+00:00'
