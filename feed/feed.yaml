@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-04T02:03:37.620129'
+  date: '2025-03-04T11:07:13.840204'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T02:03:37.618412'
+  date: '2025-03-04T11:07:13.838435'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T02:03:37.618409'
+  date: '2025-03-04T11:07:13.838432'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T02:03:37.618404'
+  date: '2025-03-04T11:07:13.838427'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T02:03:37.618395'
+  date: '2025-03-04T11:07:13.838418'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,28 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-03-04T10:30:54+00:00'
+  description: "That's a lot of phone for 400 bucks\n\nSave up to 40% off at https://ridge.com/mkbhd\
+    \ and celebrate Ridge\u2019s 12-year anniversary\n\nMKBHD Merch: http://shop.MKBHD.com\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Nothing\
+    \ for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i2.ytimg.com/vi/eRdMxQ1zVPo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eRdMxQ1zVPo
+  title: 'Nothing Phone 3a/Pro: Now Do a Flagship!'
+- author: The Overshoot
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-03-04T08:20:25+00:00'
+  description: An accounting gimmick that is appropriate for the seriousness and stupidity
+    of the times.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ae8b6c9-3ba6-4c6b-8cb2-3f108116b5a1_3200x2982.png
+  path: https://theovershoot.co/p/the-europeans-should-give-russias
+  title: The Europeans Should Give Russia's Reserves to Ukraine Now
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -515,7 +537,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/03/abnormal-fx-returns-and-liquidity-based-machine-learning-approaches/
   title: Abnormal FX Returns and Liquidity-Based Machine Learning Approaches
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-03-03T12:00:00+00:00'
   description: ''
@@ -577,7 +599,7 @@
     \ Final thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i4.ytimg.com/vi/kBVZgCrdVCw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=kBVZgCrdVCw
-  title: An Introduction to Typescript for Pythonistas
+  title: An Introduction to Typescript for Python Programmers
 - author: The Journal.
   categories: *id002
   date: '2025-02-28T00:00:00+00:00'
@@ -603,9 +625,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/02/27/beyond-the-marketing-pitch-understanding-hedge-fund-risks-and-returns/
   title: 'Beyond the Marketing Pitch: Understanding Hedge Fund Risks and Returns'
 - author: Marques Brownlee
-  categories: &id008
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2025-02-27T02:00:39+00:00'
   description: 'The new iPhone 16e costs $599. Who is it for?
 
@@ -638,7 +658,7 @@
   path: https://www.youtube.com/watch?v=qF4vZxbSmjo
   title: 'iPhone 16e Review: Who Are You?'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-02-27T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -670,7 +690,7 @@
   path: https://open.spotify.com/episode/00InQCDNA7sMNJXoxxHgKE
   title: "#189 | A VERDADE SOBRE INVESTIR NO BRASIL QUE NINGU\xC9M FALA"
 - author: Outliers
-  categories: &id007
+  categories: &id009
   - Podcasts
   date: '2025-02-27T00:00:00+00:00'
   description: "No mais novo epis\xF3dio do podcast InfoMoney Outliers, de n\xFAmero\
@@ -708,14 +728,14 @@
   path: https://open.spotify.com/episode/6KdD6FKa39adAGZErMwUjk
   title: 'Triple threat: the European economy has a Trump problem'
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-02-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-02-26T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua: https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-XA\
@@ -746,7 +766,7 @@
   title: "#188 | POR QUE VOC\xCA DEVERIA ESTAR ANIMADO COM AS A\xC7\xD5ES BRASILEIRAS\
     \ EM 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id008
   - Economia
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
@@ -762,9 +782,7 @@
   path: https://braziljournal.com/a-desmontagem-rapida-e-nao-programada-do-governo-dos-eua/
   title: "A \u2018desmontagem r\xE1pida e n\xE3o programada\u2019 do Governo dos EUA"
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-02-25T20:15:28+00:00'
   description: The Putin regime's eagerness for a quick deal is itself indicative
     of the country's tenuous position.
@@ -782,7 +800,7 @@
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id008
   date: '2025-02-25T10:59:49+00:00'
   description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
     \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
@@ -798,48 +816,12 @@
   path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
   title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
 - author: Outliers
-  categories: *id007
+  categories: *id009
   date: '2025-02-21T00:00:00+00:00'
   description: ''
   image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
   path: https://open.spotify.com/episode/5mBjq310bL3zWUJCLRxqXH
   title: "#152 - A gestora Outlier de 2024: Kinea e os 7 trofe\u0301us"
-- author: Marques Brownlee
-  categories: *id008
-  date: '2025-02-20T14:05:23+00:00'
-  description: 'You can finally fit a (square) iPad Mini in your pocket!
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Intro Track: Who are You by C2C
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by Oppo for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/NECBCxEFMCo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=NECBCxEFMCo
-  title: Are Foldables Cooked?
-- author: The Overshoot
-  categories: *id009
-  date: '2025-02-15T02:38:28+00:00'
-  description: The January pop in the CPI was comparable to what happened last year,
-    although some of the underlying services numbers are more encouraging. But goods
-    disinflation looks fragile.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00a344ec-c3c0-4433-9e15-2f5090187e05_3200x2920.png
-  path: https://theovershoot.co/p/us-inflation-chugs-along-but-watch
-  title: U.S. Inflation Chugs Along. But Watch Out for Goods.
 - author: The View From Apollo
   categories:
   - Podcasts
