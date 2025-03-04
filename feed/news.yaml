@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-04T11:47:57+00:00'
+  description: "Associa\xE7\xE3o brasileira disse que foram identificadas n\xE3o conformidades\
+    \ aos requisitos chineses para o registro de estabelecimentos estrangeiros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-suspende-importacoes-de-carne-bovina-de-alguns-frigorificos-de-brasil-e-argentina/
+  title: "China suspende importa\xE7\xF5es de carne bovina de alguns frigor\xEDficos\
+    \ de Brasil e Argentina"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -49,8 +59,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-03T20:55:38+00:00'
   description: "Ao longo desta segunda, membros do governo haviam deixado a decis\xE3\
     o final sobre a pol\xEDtica para o presidente"
@@ -58,15 +67,6 @@
   path: https://investnews.com.br/economia/trump-diz-que-tarifas-de-25-para-canada-e-mexico-entrarao-em-vigor-nesta-terca-feira-4/
   title: "Trump confirma entrada em vigor das tarifas para Canad\xE1, M\xE9xico e\
     \ China nesta ter\xE7a"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-03T19:22:50+00:00'
-  description: "Presidente dos EUA anunciou pelas redes sociais decis\xE3o de impor\
-    \ barreiras sobre produtos importados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-diz-que-tarifas-sobre-importacoes-agricolas-vao-entrar-em-vigor-em-2-de-abril-divirtam-se/
-  title: "Trump diz que tarifas sobre importa\xE7\xF5es agr\xEDcolas v\xE3o entrar\
-    \ em vigor em 2 de abril: \u2018Divirtam-se!\u2019"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-03-03T10:03:00+00:00'
