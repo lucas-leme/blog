@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-04T21:26:19.169218'
+  date: '2025-03-05T00:48:13.378794'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T21:26:19.167490'
+  date: '2025-03-05T00:48:13.377085'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T21:26:19.167487'
+  date: '2025-03-05T00:48:13.377082'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T21:26:19.167483'
+  date: '2025-03-05T00:48:13.377077'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-04T21:26:19.167473'
+  date: '2025-03-05T00:48:13.377067'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -533,6 +533,23 @@
   path: https://open.spotify.com/episode/1JrK2R2C6k27vk8KlRRZJT
   title: "#190 | A NOVA CORRIDA ESPACIAL: QUEM VAI VENCER A GUERRA DA INTELIG\xCA\
     NCIA ARTIFICIAL?"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-03-04T00:00:00+00:00'
+  description: "President Trump\u2019s 25% tariffs on goods from Mexico and Canada\
+    \ took effect first thing Tuesday. The American auto industry will be hit hard\
+    \ by these tariffs since many parts and materials come from Mexico and Canada.\
+    \ WSJ\u2019s Mike Colias and a U.S. a uto parts supplier talk about the impact\
+    \ of the tariffs.\_  Further Listening: -Trump\u2019s Tariff Whiplash\_ -How One\
+    \ Business Is Getting Ahead of Trump\u2019s Tariffs\_  Further Reading: -Auto\
+    \ Executives Try to Sway Trump on Tariffs, EV Subsidies\_ -Tariff Threat Prompts\
+    \ Automakers to Find New Suppliers, Consider Higher Prices\_ -Canada and Mexico\
+    \ Gambled on a Free Trade Future. The Bet Is Turning Sour.\_  Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/6Rxg8DpNzIqmzjl8Gcdi81
+  title: Trump's Tariffs Cause Chaos in Auto Industry
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -565,7 +582,7 @@
   title: "Comparing Apples to Apples: \u201CSynthetic Real\u2011Time\u201D Estimates\
     \ of R\u2011Star"
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -594,8 +611,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-consultation-uk-green-taxonomy
   title: Response to the Consultation on a UK Green Taxonomy
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2025-03-03T00:00:00+00:00'
   description: "The Zizians, a cult-like group of militant vegans, has been connected\
     \ to six killings across the country. The violence has sent shockwaves throughout\
@@ -634,7 +650,7 @@
   path: https://open.spotify.com/episode/1eYYt94xJicG0WtQH2vm62
   title: Scott Phillips - Finding Ugly Edges in Crypto Markets (S7E15)
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2025-02-28T16:00:56+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nTypeScript\
     \ and Python are both widely used, versatile, and powerful \u2013 but actually\
@@ -649,21 +665,6 @@
   image: https://i4.ytimg.com/vi/kBVZgCrdVCw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=kBVZgCrdVCw
   title: An Introduction to Typescript for Python Programmers
-- author: The Journal.
-  categories: *id003
-  date: '2025-02-28T00:00:00+00:00'
-  description: "In the first few minutes of the Trump presidency, Elon Musk\u2019\
-    s programmers made a surprise incursion into a key personnel agency. Since then,\
-    \ DOGE programmers operating in the shadows have burrowed into systems across\
-    \ the government, resulting in thousands of layoffs. WSJ\u2019s Scott Patterson\
-    \ explains how DOGE has entered vast parts of the federal bureaucracy.\_  Further\
-    \ Reading: -Inside DOGE\u2019s Clash With the Federal Workforce\_ -DOGE Claims\
-    \ It Has Saved Billions. See Where.\_  Further Listening: -Trump 2.0: The Musk-Trump\
-    \ Bromance\_ -Inside USAID as Elon Musk and DOGE Ripped It Apart\_  Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/6SHuUbSOOW8cCxI9ou8GjL
-  title: Inside DOGE's Campaign of Secrecy
 - author: Marques Brownlee
   categories: *id004
   date: '2025-02-27T02:00:39+00:00'
