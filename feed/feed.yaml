@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-05T11:24:03.358150'
+  date: '2025-03-05T12:12:49.488846'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T11:24:03.356401'
+  date: '2025-03-05T12:12:49.487115'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T11:24:03.356397'
+  date: '2025-03-05T12:12:49.487112'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T11:24:03.356393'
+  date: '2025-03-05T12:12:49.487108'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T11:24:03.356383'
+  date: '2025-03-05T12:12:49.487098'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-03-05T12:00:00+00:00'
+  description: This post highlights inspiring stories from women who took calculated
+    risks, reshaped their lives, and redefined success on their own terms.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/05/the-smartest-thing-i-ever-did-women-on-life-changing-decisions/
+  title: 'The Smartest Thing I Ever Did: Women on Life-Changing Decisions'
 - author: Apricitas Economics
   categories: &id008
   - Macro
@@ -472,8 +481,7 @@
   path: https://www.apricitas.io/p/trumps-blockade-of-america
   title: Trump's Blockade of America
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2025-03-04T12:00:00+00:00'
   description: The opportunities for women in wealth management are abundant, driven
     by the demand for diverse perspectives, the changing demographics of wealth, and
@@ -593,15 +601,6 @@
   image: https://i1.ytimg.com/vi/xhfxNXsJXGI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xhfxNXsJXGI
   title: "\U0001F3D7\uFE0F How to Build an API Backend with Docker"
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2025-03-03T12:40:23+00:00'
-  description: Navigating FX market volatility requires more than traditional analysis.
-    Liquidity-aware models and machine learning techniques can provide an edge in
-    detecting and forecasting abnormal returns.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/03/abnormal-fx-returns-and-liquidity-based-machine-learning-approaches/
-  title: Abnormal FX Returns and Liquidity-Based Machine Learning Approaches
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA

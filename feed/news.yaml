@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-05T12:00:53+00:00'
+  description: "Presidente americano falou durante 100 minutos ao Congresso americano\
+    \ sobre decis\xE3o de taxas Canad\xE1 e M\xE9xico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/em-discurso-trump-cita-o-brasil-e-diz-que-vai-se-defender-de-quem-usa-tarifas-contra-os-eua/
+  title: Em discurso, Trump cita o Brasil e diz que vai se defender de quem usa tarifas
+    contra os EUA
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Imposto de Renda 2025: \xE9 melhor para o casal declarar em conjunto ou\
     \ separado?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-04T22:09:55+00:00'
   description: "A rea\xE7\xE3o dos mercados financeiros \xE0 guerra comercial finalmente\
     \ deflagrada por Donald Trump mostra que a euforia de outrora com os planos do\
@@ -21,15 +30,6 @@
   path: https://investnews.com.br/economia/inflacao-e-crescimento-baixo-por-que-a-guerra-comercial-de-trump-pode-ser-um-problema-para-o-brasil/
   title: "Infla\xE7\xE3o e crescimento baixo: por que a guerra comercial de Trump\
     \ pode ser um problema para o Brasil"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-04T21:30:27+00:00'
-  description: "A Opep+ e aliados decidiram prosseguir com um aumento de produ\xE7\
-    \xE3o de petr\xF3leo de 138.000 barris por dia, o primeiro desde 2022"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petroleo-brent-atinge-minima-de-6-meses-com-planos-da-opep-tarifas-dos-eua-e-pausa-na-ajuda-a-ucrania/
-  title: "Petr\xF3leo vai \xE0 m\xEDnima em 6 meses com planos da Opep+, tarifas dos\
-    \ EUA e pausa na ajuda \xE0 Ucr\xE2nia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-03-04T18:57:07+00:00'
