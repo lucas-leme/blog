@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-05T20:28:25.379306'
+  date: '2025-03-05T21:26:27.072524'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T20:28:25.377560'
+  date: '2025-03-05T21:26:27.070786'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T20:28:25.377556'
+  date: '2025-03-05T21:26:27.070782'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T20:28:25.377551'
+  date: '2025-03-05T21:26:27.070777'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T20:28:25.377539'
+  date: '2025-03-05T21:26:27.070766'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id007
+  - Economia
+  date: '2025-03-05T21:02:58+00:00'
+  description: "<p>Auf wiedersehen, conservadorismo fiscal. A coaliza\xE7\xE3o liderada\
+    \ por Friedrich Merz, o prov\xE1vel futuro chanceler da Alemanha, anunciou um\
+    \ ambicioso\_ plano de expans\xE3o dos gastos p\xFAblicos, com investimentos na\
+    \ defesa e na infraestrutura. Descrita pelo Deutsche Bank como uma das maiores\
+    \ mudan\xE7as de paradigma desde a Segunda Guerra Mundial, a proposta cria mecanismos\
+    \ para que despesas [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/custe-o-que-custar-o-plano-da-alemanha-para-navegar-trump-putin/\"\
+    \ rel=\"nofollow\">\u2018Custe o que custar\u2019: o plano da Alemanha para navegar\
+    \ Trump-Putin</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/custe-o-que-custar-o-plano-da-alemanha-para-navegar-trump-putin/
+  title: "\u2018Custe o que custar\u2019: o plano da Alemanha para navegar Trump-Putin"
 - author: ArjanCodes
   categories: &id003
   - Tech
@@ -515,7 +531,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/05/the-smartest-thing-i-ever-did-women-on-life-changing-decisions/
   title: 'The Smartest Thing I Ever Did: Women on Life-Changing Decisions'
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-03-04T17:57:15+00:00'
@@ -546,7 +562,7 @@
   path: https://www.youtube.com/watch?v=eRdMxQ1zVPo
   title: 'Nothing Phone 3a/Pro: Now Do a Flagship!'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-03-04T08:20:25+00:00'
@@ -733,8 +749,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id009
-  - Economia
+  categories: *id007
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
     \ republicano Rich McCormick tentava aplacar a ira dos correligion\xE1rios, que\
@@ -749,7 +764,7 @@
   path: https://braziljournal.com/a-desmontagem-rapida-e-nao-programada-do-governo-dos-eua/
   title: "A \u2018desmontagem r\xE1pida e n\xE3o programada\u2019 do Governo dos EUA"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-02-25T20:15:28+00:00'
   description: The Putin regime's eagerness for a quick deal is itself indicative
     of the country's tenuous position.
@@ -757,29 +772,13 @@
   path: https://theovershoot.co/p/time-is-only-on-the-russians-side
   title: Time Is Only on the Russians' Side If We Give It to Them
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-02-25T15:16:01+00:00'
   description: A Detailed Look at the Economic Impacts of Trump's Wide Ranging New
     Tariffs on China, Mexico, Canada, Steel, Aluminum, and Much More
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb31b1992-f5d6-4b2c-a07b-dd7a3cea5697_2886x1843.png
   path: https://www.apricitas.io/p/trumps-2nd-trade-war-begins
   title: Trump's 2nd Trade War Begins
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id009
-  date: '2025-02-25T10:59:49+00:00'
-  description: "<p>Os indicadores da economia americana continuam s\xF3lidos \u2013\
-    \ mas os riscos de desacelera\xE7\xE3o na economia e nos mercados come\xE7am a\
-    \ preocupar, disse o economista-chefe da Apollo Global Management, Torsten Sl\xF8\
-    k. Sl\xF8k listou duas amea\xE7as principais: o impacto das demiss\xF5es realizadas\
-    \ pelo Department of Government Efficiency (DOGE) e o efeito das \u201Cpersistentes\
-    \ incertezas pol\xEDticas\u201D sobre os [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/\"\
-    \ rel=\"nofollow\">Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar\
-    \ os mercados</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/apollo-demissoes-do-doge-podem-esfriar-a-economia-e-afetar-os-mercados/
-  title: "Apollo: Demiss\xF5es do DOGE podem esfriar a economia e afetar os mercados"
 - author: Outliers
   categories: *id010
   date: '2025-02-21T00:00:00+00:00'

@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-03-05T21:20:30+00:00'
+  description: "Wall Street teve sua primeira alta em tr\xEAs preg\xF5es, enquanto\
+    \ o d\xF3lar segue em queda livre no mundo todo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-cai-27-e-bolsas-sobem-apos-trump-adiar-tarifas-do-setor-automotivo/
+  title: "D\xF3lar cai 2,7% e bolsas sobem ap\xF3s Trump adiar tarifas do setor automotivo"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: Em discurso, Trump cita o Brasil e diz que vai se defender de quem usa tarifas
     contra os EUA
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-03-05T10:01:00+00:00'
   description: "Descubra qual op\xE7\xE3o \xE9 mais vantajosa para voc\xEA e seu c\xF4\
     njuge"
@@ -27,15 +35,6 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-casal-deve-fazer-a-declaracao-em-conjunto-ou-separado/
   title: "Imposto de Renda 2025: \xE9 melhor para o casal declarar em conjunto ou\
     \ separado?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-04T18:57:07+00:00'
-  description: "Bolsas recuam com avan\xE7o da guerra comercial ap\xF3s Trump impor\
-    \ tarifas a China, Canad\xE1 e M\xE9xico e pa\xEDses retaliarem"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mercados-globais-tem-dia-de-perdas-em-reacao-a-guerra-comercial-de-trump-indice-de-adrs-brasileiros-recua-1/
-  title: "Mercados globais t\xEAm dia de perdas em rea\xE7\xE3o \xE0  guerra comercial\
-    \ de Trump;  \xEDndice de ADRs brasileiros cai 0,5%"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
