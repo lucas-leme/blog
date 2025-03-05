@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-05T14:48:08.988931'
+  date: '2025-03-05T15:48:19.407047'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T14:48:08.987184'
+  date: '2025-03-05T15:48:19.405234'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T14:48:08.987179'
+  date: '2025-03-05T15:48:19.405230'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T14:48:08.987174'
+  date: '2025-03-05T15:48:19.405225'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-05T14:48:08.987163'
+  date: '2025-03-05T15:48:19.405215'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-03-05T15:29:53+00:00'
+  description: It would be this Sigma BF
+  image: https://i3.ytimg.com/vi/z5Y9n9TBGek/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=z5Y9n9TBGek
+  title: "If Apple Made a Camera \U0001F440"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -513,9 +522,7 @@
   title: "Embracing Opportunities: Women in Wealth Management on International Women\u2019\
     s Day"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-03-04T10:30:54+00:00'
   description: "That's a lot of phone for 400 bucks\n\nSave up to 40% off at https://ridge.com/mkbhd\
     \ and celebrate Ridge\u2019s 12th anniversary\n\nNothing Phone 3a: https://geni.us/AO7pBa\n\
@@ -564,7 +571,7 @@
   title: "#190 | A NOVA CORRIDA ESPACIAL: QUEM VAI VENCER A GUERRA DA INTELIG\xCA\
     NCIA ARTIFICIAL?"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-04T00:00:00+00:00'
   description: "President Trump\u2019s 25% tariffs on goods from Mexico and Canada\
@@ -581,7 +588,7 @@
   path: https://open.spotify.com/episode/6Rxg8DpNzIqmzjl8Gcdi81
   title: Trump's Tariffs Cause Chaos in Auto Industry
 - author: ArjanCodes
-  categories: &id003
+  categories: &id004
   - Tech
   - Code
   - Youtube
@@ -601,7 +608,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-consultation-uk-green-taxonomy
   title: Response to the Consultation on a UK Green Taxonomy
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-03T00:00:00+00:00'
   description: "The Zizians, a cult-like group of militant vegans, has been connected\
     \ to six killings across the country. The violence has sent shockwaves throughout\
@@ -640,7 +647,7 @@
   path: https://open.spotify.com/episode/1eYYt94xJicG0WtQH2vm62
   title: Scott Phillips - Finding Ugly Edges in Crypto Markets (S7E15)
 - author: ArjanCodes
-  categories: *id003
+  categories: *id004
   date: '2025-02-28T16:00:56+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nTypeScript\
     \ and Python are both widely used, versatile, and powerful \u2013 but actually\
@@ -655,39 +662,6 @@
   image: https://i4.ytimg.com/vi/kBVZgCrdVCw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=kBVZgCrdVCw
   title: An Introduction to Typescript for Pythonistas
-- author: Marques Brownlee
-  categories: *id004
-  date: '2025-02-27T02:00:39+00:00'
-  description: 'The new iPhone 16e costs $599. Who is it for?
-
-
-    Save 15% when you bundle a dbrand Prism and Grip case at https://dbrand.com/bundle
-
-
-    Apple iPhone 16e: https://geni.us/6rPErQ3
-
-    Apple iPhone 15 Pro: https://geni.us/aSjdqeY
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/qF4vZxbSmjo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=qF4vZxbSmjo
-  title: 'iPhone 16e Review: Who Are You?'
 - author: Market Makers
   categories: *id005
   date: '2025-02-27T00:00:00+00:00'
