@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-06T00:48:14.485855'
+  date: '2025-03-06T02:03:41.530273'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-06T00:48:14.484105'
+  date: '2025-03-06T02:03:41.528574'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-06T00:48:14.484102'
+  date: '2025-03-06T02:03:41.528571'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-06T00:48:14.484097'
+  date: '2025-03-06T02:03:41.528566'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-06T00:48:14.484086'
+  date: '2025-03-06T02:03:41.528556'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: The Overshoot
+  categories: &id003
+  - Macro
+  - Newsletters
+  date: '2025-03-06T01:06:06+00:00'
+  description: Policy choices over the past six weeks risk pushing a previously strong
+    economy into a world of faster inflation and slower real growth.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd10df4ae-5c7d-4dcc-807b-08a6972c11b6_3204x2894.png
+  path: https://theovershoot.co/p/the-us-chooses-stagflation
+  title: The U.S. Chooses Stagflation
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
+  categories: &id008
   - Economia
   date: '2025-03-05T21:02:58+00:00'
   description: "<p>Auf wiedersehen, conservadorismo fiscal. A coaliza\xE7\xE3o liderada\
@@ -478,7 +488,7 @@
   path: https://braziljournal.com/custe-o-que-custar-o-plano-da-alemanha-para-navegar-trump-putin/
   title: "\u2018Custe o que custar\u2019: o plano da Alemanha para navegar Trump-Putin"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -531,7 +541,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/05/the-smartest-thing-i-ever-did-women-on-life-changing-decisions/
   title: 'The Smartest Thing I Ever Did: Women on Life-Changing Decisions'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-05T00:00:00+00:00'
   description: "In the last month, the Trump Administration has levied 20% tariffs\
@@ -577,9 +587,7 @@
   path: https://www.youtube.com/watch?v=eRdMxQ1zVPo
   title: 'Nothing Phone 3a/Pro: Now Do a Flagship!'
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id003
   date: '2025-03-04T08:20:25+00:00'
   description: An accounting gimmick that is appropriate for the seriousness and stupidity
     of the times.
@@ -587,7 +595,7 @@
   path: https://theovershoot.co/p/the-europeans-should-give-russias
   title: The Europeans Should Give Russia's Reserves to Ukraine Now
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-03-04T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
@@ -615,7 +623,7 @@
   title: "#190 | A NOVA CORRIDA ESPACIAL: QUEM VAI VENCER A GUERRA DA INTELIG\xCA\
     NCIA ARTIFICIAL?"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-03-04T00:00:00+00:00'
   description: "President Trump\u2019s 25% tariffs on goods from Mexico and Canada\
     \ took effect first thing Tuesday. The American auto industry will be hit hard\
@@ -631,7 +639,7 @@
   path: https://open.spotify.com/episode/6Rxg8DpNzIqmzjl8Gcdi81
   title: Trump's Tariffs Cause Chaos in Auto Industry
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-03-03T16:01:08+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -640,7 +648,7 @@
   path: https://www.youtube.com/watch?v=xhfxNXsJXGI
   title: "\U0001F3D7\uFE0F How to Build an API Backend with Docker"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-03-03T12:00:00+00:00'
   description: ''
@@ -671,7 +679,7 @@
   path: https://open.spotify.com/episode/1eYYt94xJicG0WtQH2vm62
   title: Scott Phillips - Finding Ugly Edges in Crypto Markets (S7E15)
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-02-27T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua:https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-X\
@@ -740,14 +748,14 @@
   path: https://open.spotify.com/episode/6KdD6FKa39adAGZErMwUjk
   title: 'Triple threat: the European economy has a Trump problem'
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-02-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
   title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id007
+  categories: *id008
   date: '2025-02-25T21:18:38+00:00'
   description: "<p>O encontro com a base eleitoral na Ge\xF3rgia foi tenso.\_ O deputado\
     \ republicano Rich McCormick tentava aplacar a ira dos correligion\xE1rios, que\
@@ -761,14 +769,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/a-desmontagem-rapida-e-nao-programada-do-governo-dos-eua/
   title: "A \u2018desmontagem r\xE1pida e n\xE3o programada\u2019 do Governo dos EUA"
-- author: The Overshoot
-  categories: *id008
-  date: '2025-02-25T20:15:28+00:00'
-  description: The Putin regime's eagerness for a quick deal is itself indicative
-    of the country's tenuous position.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04568242-02e9-441c-a7a1-c474936eb00b_3200x2970.png
-  path: https://theovershoot.co/p/time-is-only-on-the-russians-side
-  title: Time Is Only on the Russians' Side If We Give It to Them
 - author: Apricitas Economics
   categories: *id009
   date: '2025-02-25T15:16:01+00:00'
