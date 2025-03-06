@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-05T22:45:44+00:00'
+  description: "Segundo a fonte, Trudeau n\xE3o quer aceitar isen\xE7\xF5es parciais\
+    \ dos EUA em troca da retirada de todas as tarifas canadenses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/canada-so-retirara-tarifas-se-eua-fizerem-o-mesmo-diz-oficial-do-governo/
+  title: "Canad\xE1 s\xF3 retirar\xE1 tarifas se EUA fizerem o mesmo, diz oficial\
+    \ do governo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/dolar-cai-27-e-bolsas-sobem-apos-trump-adiar-tarifas-do-setor-automotivo/
   title: "D\xF3lar cai 2,7% e bolsas sobem ap\xF3s Trump adiar tarifas do setor automotivo"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-05T20:18:39+00:00'
   description: "Montadoras pediram a Trump que renunciasse \xE0s tarifas de 25% sobre\
     \ M\xE9xico e Canad\xE1 para ve\xEDculos espec\xEDficos"
@@ -17,15 +26,6 @@
   path: https://investnews.com.br/economia/trump-adia-tarifas-do-setor-automotivo-apos-pedido-das-tres-grandes-montadoras/
   title: "Trump adia tarifas do setor automotivo\_ap\xF3s pedido das tr\xEAs grandes\
     \ montadoras"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-05T12:00:53+00:00'
-  description: "Presidente americano falou durante 100 minutos ao Congresso americano\
-    \ sobre decis\xE3o de taxas Canad\xE1 e M\xE9xico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/em-discurso-trump-cita-o-brasil-e-diz-que-vai-se-defender-de-quem-usa-tarifas-contra-os-eua/
-  title: Em discurso, Trump cita o Brasil e diz que vai se defender de quem usa tarifas
-    contra os EUA
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-03-05T10:01:00+00:00'
