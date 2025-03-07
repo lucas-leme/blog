@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-07T15:48:10.963311'
+  date: '2025-03-07T18:32:06.684619'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T15:48:10.961557'
+  date: '2025-03-07T18:32:06.682934'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T15:48:10.961553'
+  date: '2025-03-07T18:32:06.682930'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T15:48:10.961549'
+  date: '2025-03-07T18:32:06.682926'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T15:48:10.961539'
+  date: '2025-03-07T18:32:06.682916'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-03-07T16:00:53+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I\u2019ll explore 12 of the most interesting and useful built-in\
+    \ functions, with examples, gotchas, and a few nerdy details you may not be aware\
+    \ of.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/builtin.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:23 help\n1:27 dir\n3:55 range\n6:13 all\n9:20 any\n\
+    10:19 zip\n11:43 filter\n13:17 map\n14:29 iter\n16:20 slice\n18:31 type\n20:05\
+    \ vars\n21:44 Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/ho24rK_AYrQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ho24rK_AYrQ
+  title: 12 Must-Know Python Built-in Functions
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -542,7 +559,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/when-the-household-pie-shrinks-who-gets-their-slice/
   title: When the Household Pie Shrinks, Who Gets Their Slice?
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2025-03-06T01:06:06+00:00'
@@ -552,7 +569,7 @@
   path: https://theovershoot.co/p/the-us-chooses-stagflation
   title: The U.S. Chooses Stagflation
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-03-06T00:00:00+00:00'
   description: "O Brasil est\xE1 \xE0 beira de um colapso econ\xF4mico como em 2014?\
@@ -615,10 +632,7 @@
   path: https://open.spotify.com/episode/6fxz6PKqpZ7pyHOaELRIYf
   title: "Tariff turmoil: Donald Trump\u2019s trade policy chaos"
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-03-05T16:00:15+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -627,7 +641,7 @@
   path: https://www.youtube.com/watch?v=8p47JVYubgY
   title: "\U0001F623 Why Devs Feel Like Imposters"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-03-05T15:29:53+00:00'
@@ -646,7 +660,7 @@
   path: https://www.apricitas.io/p/trumps-blockade-of-america
   title: Trump's Blockade of America
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-03-04T10:30:54+00:00'
   description: "That's a lot of phone for 400 bucks\n\nSave up to 40% off at https://ridge.com/mkbhd\
     \ and celebrate Ridge\u2019s 12th anniversary\n\nNothing Phone 3a: https://geni.us/AO7pBa\n\
@@ -657,7 +671,7 @@
   path: https://www.youtube.com/watch?v=eRdMxQ1zVPo
   title: 'Nothing Phone 3a/Pro: Now Do a Flagship!'
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2025-03-04T08:20:25+00:00'
   description: An accounting gimmick that is appropriate for the seriousness and stupidity
     of the times.
@@ -665,7 +679,7 @@
   path: https://theovershoot.co/p/the-europeans-should-give-russias
   title: The Europeans Should Give Russia's Reserves to Ukraine Now
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2025-03-04T00:00:00+00:00'
   description: "\xDAltimas vagas para o M3 Club. Clique no link e garanta j\xE1 a\
     \ sua: https://sl.mmakers.com.br/cmm05v-comunidade/?xpromo=XE-M3C-CMM05-SUBMMK-20250225-YT-EPISODIO188-XA\
@@ -691,15 +705,6 @@
   path: https://open.spotify.com/episode/1JrK2R2C6k27vk8KlRRZJT
   title: "#190 | A NOVA CORRIDA ESPACIAL: QUEM VAI VENCER A GUERRA DA INTELIG\xCA\
     NCIA ARTIFICIAL?"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-03-03T16:01:08+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/xhfxNXsJXGI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=xhfxNXsJXGI
-  title: "\U0001F3D7\uFE0F How to Build an API Backend with Docker"
 - author: CFA Institute Research and Policy Center
   categories: &id008
   - CFA
