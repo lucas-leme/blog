@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-07T11:07:06.396521'
+  date: '2025-03-07T11:24:03.062578'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T11:07:06.394842'
+  date: '2025-03-07T11:24:03.060815'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T11:07:06.394838'
+  date: '2025-03-07T11:24:03.060811'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T11:07:06.394834'
+  date: '2025-03-07T11:24:03.060806'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-07T11:07:06.394825'
+  date: '2025-03-07T11:24:03.060796'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-03-07T00:00:00+00:00'
+  description: "President Trump delivered a celebratory speech to Congress, declaring\
+    \ that he had swiftly notched several wins for the American people. WSJ\u2019\
+    s Andrew Restuccia joins Kate Linebaugh and Molly Ball to discuss the roadmap\
+    \ Trump laid out and what it means for the next few years.  See The Journal live!\
+    \ Take our survey!\_  Further Listening:  -The Trade War With China Is On\_ -Trump's\
+    \ Tariffs Cause Chaos in Auto Industry\_ -Inside DOGE's Campaign of Secrecy\_\
+    \  Further Reading: -An Annotated Fact-Check and Analysis of Trump\u2019s Speech\
+    \ to Congress\_ -How Trump\u2019s Polite Meeting With Zelensky Descended Into\
+    \ Acrimony\_    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8ab9767b41ae6a89d5b7194d9d
+  path: https://open.spotify.com/episode/0dh9gzFFEh2PaBVT79zW5h
+  title: "Trump 2.0: \u2018Just Getting Started\u2019"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-03-06T22:03:30+00:00'
   description: "<p>Donald Trump conseguiu tirar os pac\xEDficos canadenses do s\xE9\
@@ -478,7 +494,7 @@
   path: https://braziljournal.com/trump-bateu-pesado-no-canada-agora-seus-politicos-estao-revidando/
   title: "Trump bateu pesado no Canad\xE1. Agora, seus pol\xEDticos est\xE3o revidando"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-03-06T12:00:00+00:00'
   description: Modeling climate risk remains one of the most challenging endeavors
@@ -542,8 +558,7 @@
   path: https://open.spotify.com/episode/5qxPCCe1VDgDBezW00bbbr
   title: '#191 | FIM DO BRASIL 2.0: ESTAMOS REPETINDO OS ERROS DE 2014?'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-03-06T00:00:00+00:00'
   description: "Sonos, the high-end speaker company, continues to reel from its disastrous\
     \ app update last May. The company lost revenue and approximately $600 million\
@@ -576,7 +591,7 @@
   path: https://open.spotify.com/episode/6fxz6PKqpZ7pyHOaELRIYf
   title: "Tariff turmoil: Donald Trump\u2019s trade policy chaos"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-03-05T21:02:58+00:00'
   description: "<p>Auf wiedersehen, conservadorismo fiscal. A coaliza\xE7\xE3o liderada\
     \ por Friedrich Merz, o prov\xE1vel futuro chanceler da Alemanha, anunciou um\
@@ -612,27 +627,13 @@
   path: https://www.youtube.com/watch?v=z5Y9n9TBGek
   title: "If Apple Made a Camera \U0001F440"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-03-05T12:00:00+00:00'
   description: This post highlights inspiring stories from women who took calculated
     risks, reshaped their lives, and redefined success on their own terms.
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/03/05/the-smartest-thing-i-ever-did-women-on-life-changing-decisions/
   title: 'The Smartest Thing I Ever Did: Women on Life-Changing Decisions'
-- author: The Journal.
-  categories: *id003
-  date: '2025-03-05T00:00:00+00:00'
-  description: "In the last month, the Trump Administration has levied 20% tariffs\
-    \ on imports from China. We speak to the CEO of an American home goods company\
-    \ about the impact of the trade war. WSJ\u2019s Hannah Miao explains how it\u2019\
-    s already affecting manufacturers and the economy in China.  See The Journal live!\
-    \ Take our survey!\_  Further Reading: - The Tariff Pain Is Getting Real for Chinese\
-    \ Companies\_ - Chinese Manufacturers Speed Up Efforts to Dodge Trump Tariffs\_\
-    \  Further Listening:  - Why Trump Wants Ukrainian Minerals\_ - Trump 2.0: Shaking\
-    \ Up Europe\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/1mZgUpxlne1cr5AtRfF0Ap
-  title: The Trade War With China Is On
 - author: Apricitas Economics
   categories: &id009
   - Macro
