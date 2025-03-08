@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-08T17:01:36+00:00'
+  description: "Novas al\xEDquotas tamb\xE9m servem como um tiro de advert\xEAncia\
+    \ para o governo Trump"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/contra-ataque-china-responde-ao-canada-com-novas-tarifas-agricolas/
+  title: "Contra-ataque: China responde ao Canad\xE1 com novas tarifas agr\xEDcolas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Acabou a euforia: medo de estagfla\xE7\xE3o faz d\xF3lar cair no mundo para\
     \ o menor n\xEDvel em 4 meses"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-07T13:32:14+00:00'
   description: "Vice-presidente e ministro do MDIC afirmou que a decis\xE3o \xE9 parte\
     \ de um \"primeiro\" conjunto de medidas"
@@ -18,16 +26,6 @@
   path: https://investnews.com.br/economia/governo-vai-zerar-impostos-de-importacao-de-carne-cafe-acucar-e-outros-itens-anuncia-alckmin/
   title: "Governo vai zerar impostos de importa\xE7\xE3o de carne, caf\xE9, a\xE7\xFA\
     car e outros itens, anuncia Alckmin"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-07T12:32:19+00:00'
-  description: "PIB do \xFAltimo trimestre de 2024 apresentou expans\xE3o de 0,2%\
-    \ sobre o anterior, uma desacelera\xE7\xE3o ante o crescimento de 0,7% nos tr\xEA\
-    s meses anteriores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pib-do-brasil-fecha-2024-com-alta-de-34-mas-desaceleracao-no-4o-tri-fica-acima-do-esperado/
-  title: "PIB do Brasil cresce 3,4% em 2024, mas j\xE1 mostra perda de ritmo no quarto\
-    \ trimestre"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-03-07T12:18:42+00:00'
