@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-10T18:31:15.312403'
+  date: '2025-03-10T20:28:22.309490'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T18:31:15.310642'
+  date: '2025-03-10T20:28:22.307772'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T18:31:15.310638'
+  date: '2025-03-10T20:28:22.307768'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T18:31:15.310634'
+  date: '2025-03-10T20:28:22.307764'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T18:31:15.310625'
+  date: '2025-03-10T20:28:22.307754'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2025-03-10T18:58:02+00:00'
+  description: "<p>O Partido Novo protocolou hoje uma A\xE7\xE3o Direta de Inconstitucionalidade\
+    \ contra a Lei 14.317/22, que majorou desproporcionalmente a taxa de fiscaliza\xE7\
+    \xE3o da CVM. O objetivo da a\xE7\xE3o \xE9 reafirmar o \xF3bvio: a Uni\xE3o n\xE3\
+    o pode cobrar taxas excessivas nem desviar sua arrecada\xE7\xE3o da finalidade\
+    \ original. A peti\xE7\xE3o inicial perante o STF destaca dois problemas centrais.\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-por-que-o-partido-novo-entrou-com-uma-adin-questionando-as-taxas-da-cvm/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Por que o Partido Novo entrou com uma ADIN questionando\
+    \ as taxas da CVM</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-por-que-o-partido-novo-entrou-com-uma-adin-questionando-as-taxas-da-cvm/
+  title: "OPINI\xC3O. Por que o Partido Novo entrou com uma ADIN questionando as taxas\
+    \ da CVM"
 - author: ArjanCodes
   categories: &id001
   - Tech
@@ -473,6 +490,14 @@
   image: https://i3.ytimg.com/vi/J64N43ypLZQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J64N43ypLZQ
   title: 'Unit of Work: More than Just Databases'
+- author: CFA Institute Research and Policy Center
+  categories: &id008
+  - CFA
+  date: '2025-03-10T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/spot-bitcoin-etfs
+  title: 'Spot Bitcoin ETFs: The Struggle Was Worth It'
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -498,8 +523,7 @@
   path: https://www.youtube.com/watch?v=ho24rK_AYrQ
   title: 12 Must-Know Python Built-in Functions
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2025-03-07T13:16:53+00:00'
   description: "<p>Com a corre\xE7\xE3o em curso nos principais \xEDndices de Bolsa\
     \ nos Estados Unidos, puxada principalmente pela guerra tarif\xE1ria iniciada\
@@ -524,7 +548,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/07/how-do-shareholder-loans-and-intangible-assets-impact-pe-financials/
   title: How Do Shareholder Loans and Intangible Assets Impact PE Financials?
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-07T00:00:00+00:00'
   description: "Robert F. Kennedy Jr\u2019s Make America Healthy Again movement is\
@@ -538,7 +562,7 @@
   path: https://open.spotify.com/episode/2pVuJwkWWVZGMRdPjHgo6M
   title: The Fight to Kick Soda Out of Food Stamps
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-07T00:00:00+00:00'
   description: "President Trump delivered a celebratory speech to Congress, declaring\
     \ that he had swiftly notched several wins for the American people. WSJ\u2019\
@@ -552,21 +576,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ab9767b41ae6a89d5b7194d9d
   path: https://open.spotify.com/episode/0dh9gzFFEh2PaBVT79zW5h
   title: "Trump 2.0: \u2018Just Getting Started\u2019"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2025-03-06T22:03:30+00:00'
-  description: "<p>Donald Trump conseguiu tirar os pac\xEDficos canadenses do s\xE9\
-    rio. Canada is not for sale era a mensagem escrita no bon\xE9 da campanha eleitoral\
-    \ de Doug Ford, que acaba de reeleger como o premi\xEA de Ont\xE1rio, a mais populosa\
-    \ e industrializada prov\xEDncia do Canad\xE1 \u2013 e tamb\xE9m a mais diretamente\
-    \ atingida pelas tarifas de Trump. Ford, [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/trump-bateu-pesado-no-canada-agora-seus-politicos-estao-revidando/\"\
-    \ rel=\"nofollow\">Trump bateu pesado no Canad\xE1. Agora, seus pol\xEDticos est\xE3\
-    o revidando</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/trump-bateu-pesado-no-canada-agora-seus-politicos-estao-revidando/
-  title: "Trump bateu pesado no Canad\xE1. Agora, seus pol\xEDticos est\xE3o revidando"
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2025-03-06T12:00:00+00:00'
@@ -705,8 +714,7 @@
   title: "#190 | A NOVA CORRIDA ESPACIAL: QUEM VAI VENCER A GUERRA DA INTELIG\xCA\
     NCIA ARTIFICIAL?"
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id008
   date: '2025-03-03T12:00:00+00:00'
   description: ''
   image: null
@@ -753,13 +761,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
   path: https://open.spotify.com/episode/1r2QfNlyaMGboMApmkociB
   title: '#153 -Desafiando o consenso com MARCIO APPEL da ADAM Capital'
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-02-26T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2025/enhancing-the-voluntary-carbon-market
-  title: 'Enhancing the Voluntary Carbon Market: Gaps and Solutions'
 - author: Apricitas Economics
   categories: *id009
   date: '2025-02-25T15:16:01+00:00'
