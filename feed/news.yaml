@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-03-10T12:24:55+00:00'
+  description: "Mercado cripto tem come\xE7o de semana negativo ainda reagindo a falta\
+    \ de novidades do governo dos EUA para o setor"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-cai-para-us-82-mil-com-investidores-desapontados-com-trump/
+  title: Bitcoin cai para US$ 82 mil com investidores desapontados com Trump
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-03-10T10:02:00+00:00'
   description: "Veja como listar gastos com comiss\xE3o do leiloeiro e reformas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -42,7 +50,7 @@
   path: https://www.reddit.com/r/CFA/comments/1j7q4yr/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-03-09T15:57:02+00:00'
   description: Guerra comercial e fraqueza do mercado de trabalho fazem investidor
@@ -52,7 +60,7 @@
   title: "Da exuber\xE2ncia ao desespero: mercado de juros nos EUA j\xE1 expressa\
     \ risco de estagna\xE7\xE3o econ\xF4mica"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-03-08T19:33:41+00:00'
   description: "Testes mostram que as previs\xF5es de IA do centro europeu parecem\
     \ ser mais precisas do que as vers\xF5es convencionais"
@@ -60,15 +68,6 @@
   path: https://investnews.com.br/economia/na-europa-ia-ajuda-na-previsao-do-tempo-boa-noticia-pra-quem-comercializa-energia/
   title: "Na Europa,  IA ajuda na previs\xE3o do tempo: boa not\xEDcia pra quem comercializa\
     \ energia"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-07T20:28:35+00:00'
-  description: "No Brasil, o d\xF3lar tamb\xE9m caiu forte, mas risco fiscal evita\
-    \ que a moeda americana siga com perdas maiores ante o real"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acabou-a-euforia-medo-de-estagflacao-faz-dolar-cair-no-mundo-para-o-menor-nivel-em-4-meses/
-  title: "Acabou a euforia: medo de estagfla\xE7\xE3o faz d\xF3lar cair no mundo para\
-    \ o menor n\xEDvel em 4 meses"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-03-03T05:01:29+00:00'
