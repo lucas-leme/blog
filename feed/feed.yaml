@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-10T15:48:16.111995'
+  date: '2025-03-10T18:31:15.312403'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T15:48:16.110229'
+  date: '2025-03-10T18:31:15.310642'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T15:48:16.110224'
+  date: '2025-03-10T18:31:15.310638'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T15:48:16.110220'
+  date: '2025-03-10T18:31:15.310634'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-10T15:48:16.110209'
+  date: '2025-03-10T18:31:15.310625'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: ArjanCodes
+  categories: &id001
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-03-10T16:00:29+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/J64N43ypLZQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=J64N43ypLZQ
+  title: 'Unit of Work: More than Just Databases'
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2025-03-08T08:44:35+00:00'
@@ -472,10 +484,7 @@
   path: https://theovershoot.co/p/the-atlanta-feds-nowcast-is-broken
   title: The Atlanta Fed's Nowcast Is Broken (For Now)
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id001
   date: '2025-03-07T16:00:53+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I\u2019ll explore 12 of the most interesting and useful built-in\
@@ -489,7 +498,7 @@
   path: https://www.youtube.com/watch?v=ho24rK_AYrQ
   title: 12 Must-Know Python Built-in Functions
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-03-07T13:16:53+00:00'
   description: "<p>Com a corre\xE7\xE3o em curso nos principais \xEDndices de Bolsa\
@@ -505,7 +514,7 @@
   path: https://braziljournal.com/com-o-sp-e-nasdaq-caindo-trump-culpa-os-globalistas/
   title: "Com o S&P e Nasdaq caindo, Trump culpa os \u2018globalistas\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-03-07T11:48:39+00:00'
   description: Investment professionals must carefully consider how shareholder loans
@@ -515,7 +524,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/07/how-do-shareholder-loans-and-intangible-assets-impact-pe-financials/
   title: How Do Shareholder Loans and Intangible Assets Impact PE Financials?
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-03-07T00:00:00+00:00'
   description: "Robert F. Kennedy Jr\u2019s Make America Healthy Again movement is\
@@ -529,7 +538,7 @@
   path: https://open.spotify.com/episode/2pVuJwkWWVZGMRdPjHgo6M
   title: The Fight to Kick Soda Out of Food Stamps
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-03-07T00:00:00+00:00'
   description: "President Trump delivered a celebratory speech to Congress, declaring\
     \ that he had swiftly notched several wins for the American people. WSJ\u2019\
@@ -544,7 +553,7 @@
   path: https://open.spotify.com/episode/0dh9gzFFEh2PaBVT79zW5h
   title: "Trump 2.0: \u2018Just Getting Started\u2019"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-03-06T22:03:30+00:00'
   description: "<p>Donald Trump conseguiu tirar os pac\xEDficos canadenses do s\xE9\
     rio. Canada is not for sale era a mensagem escrita no bon\xE9 da campanha eleitoral\
@@ -559,7 +568,7 @@
   path: https://braziljournal.com/trump-bateu-pesado-no-canada-agora-seus-politicos-estao-revidando/
   title: "Trump bateu pesado no Canad\xE1. Agora, seus pol\xEDticos est\xE3o revidando"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-03-06T12:00:00+00:00'
   description: Modeling climate risk remains one of the most challenging endeavors
     in risk management today.
@@ -582,7 +591,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/when-the-household-pie-shrinks-who-gets-their-slice/
   title: When the Household Pie Shrinks, Who Gets Their Slice?
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2025-03-06T01:06:06+00:00'
   description: Policy choices over the past six weeks risk pushing a previously strong
     economy into a world of faster inflation and slower real growth.
@@ -638,15 +647,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/6fxz6PKqpZ7pyHOaELRIYf
   title: "Tariff turmoil: Donald Trump\u2019s trade policy chaos"
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-03-05T16:00:15+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/8p47JVYubgY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=8p47JVYubgY
-  title: "\U0001F623 Why Devs Feel Like Imposters"
 - author: Marques Brownlee
   categories: &id006
   - Tech
