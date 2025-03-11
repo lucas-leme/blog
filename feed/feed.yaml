@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-11T02:04:21.703926'
+  date: '2025-03-11T11:07:29.481810'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-11T02:04:21.702181'
+  date: '2025-03-11T11:07:29.480075'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-11T02:04:21.702177'
+  date: '2025-03-11T11:07:29.480072'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-11T02:04:21.702173'
+  date: '2025-03-11T11:07:29.480067'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-11T02:04:21.702163'
+  date: '2025-03-11T11:07:29.480044'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-03-11T11:07:05+00:00'
+  description: By classifying products into commodity, luxury, or hybrid models, investors
+    can identify durable competitive advantages.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/11/are-you-investing-in-a-fad-or-a-future-market-leader/
+  title: Are You Investing in a Fad or a Future Market Leader?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -514,7 +523,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/spot-bitcoin-etfs
   title: 'Spot Bitcoin ETFs: The Struggle Was Worth It'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-10T00:00:00+00:00'
   description: "Not much has gone right for Walgreens. Facing tough headwinds, the\
@@ -563,10 +572,9 @@
     \ vars\n21:44 Final thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/ho24rK_AYrQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ho24rK_AYrQ
-  title: 12 Must-Know Python Built-in Functions
+  title: 12 Python Built-in Functions I Use Every Day
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2025-03-07T11:48:39+00:00'
   description: Investment professionals must carefully consider how shareholder loans
     and intangible assets influence financial ratios, as these factors materially
@@ -575,7 +583,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/07/how-do-shareholder-loans-and-intangible-assets-impact-pe-financials/
   title: How Do Shareholder Loans and Intangible Assets Impact PE Financials?
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-03-07T00:00:00+00:00'
   description: "Robert F. Kennedy Jr\u2019s Make America Healthy Again movement is\
     \ leading an effort to stop people from spending food stamps on soda. WSJ\u2019\
@@ -587,14 +595,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/2pVuJwkWWVZGMRdPjHgo6M
   title: The Fight to Kick Soda Out of Food Stamps
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-03-06T12:00:00+00:00'
-  description: Modeling climate risk remains one of the most challenging endeavors
-    in risk management today.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/06/modeling-climate-risk-in-a-changing-world/
-  title: Modeling Climate Risk in a Changing World
 - author: Liberty Street Economics
   categories:
   - Macro
