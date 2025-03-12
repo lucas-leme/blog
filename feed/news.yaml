@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-12T12:04:52+00:00'
+  description: "Ap\xF3s dias de queda forte, mercado cripto esbo\xE7a alta seguindo\
+    \ al\xEDvio nas bolsas em Nova York"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-sobe-acima-de-us-83-mil-e-criptomoedas-tentam-recuperacao-apos-forte-queda/
+  title: "Bitcoin sobe acima de US$ 83 mil e criptomoedas tentam recupera\xE7\xE3\
+    o ap\xF3s forte queda"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-03-11T21:08:20+00:00'
   description: "Tarifas eram resposta a taxa sobre eletricidade de Ont\xE1rio enviada\
@@ -9,8 +19,7 @@
   title: "Horas ap\xF3s an\xFAncio, Trump diz que vai reavaliar dobrar tarifa sobre\
     \ metais do Canad\xE1"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-11T11:30:53+00:00'
   description: "Mercado cripto segue em queda acompanhando as bolsas globais em meio\
     \ a guerra comercial e temores de recess\xE3o nos EUA"
@@ -19,16 +28,9 @@
   title: Ethereum atinge menor valor em 16 meses e bitcoin tenta manter os US$ 80
     mil
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-03-11T09:30:00+00:00'
   description: "Entenda tamb\xE9m como o governo Milei domou a infla\xE7\xE3o na Argentina"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/por-que-o-poder-de-compra-do-argentinos-no-exterior-foi-a-estratosfera/
   title: "Por que o poder de compra dos argentinos no exterior foi \xE0 estratosfera"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-10T20:31:55+00:00'
-  description: "O bitcoin caiu novamente e est\xE1 valendo menos de US$ 80 mil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/trump-espalha-medo-big-techs-tombam-e-nasdaq-tem-o-pior-dia-desde-2022/
-  title: 'Trump espalha medo: Big Techs tombam e Nasdaq tem o pior dia desde 2022'
