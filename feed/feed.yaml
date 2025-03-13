@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-13T02:04:42.716480'
+  date: '2025-03-13T11:07:30.790145'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T02:04:42.714755'
+  date: '2025-03-13T11:07:30.788426'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T02:04:42.714751'
+  date: '2025-03-13T11:07:30.788422'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T02:04:42.714746'
+  date: '2025-03-13T11:07:30.788417'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T02:04:42.714736'
+  date: '2025-03-13T11:07:30.788407'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-03-13T10:53:11+00:00'
+  description: Financial success depends on disciplined saving and investing, not
+    fancy investment products and high returns.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/13/6-reasons-to-avoid-hedge-funds/
+  title: 6 Reasons to Avoid Hedge Funds
+- author: CFA Institute Enterprising Investor
+  categories: *id001
+  date: '2025-03-13T10:42:38+00:00'
+  description: Does Germany's massive fiscal package mark the beginning of a lasting
+    regime change or just another chapter in market volatility?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/13/decades-in-a-week-germanys-fiscal-breakthrough-and-its-global-impact/
+  title: "Decades in a Week:\_Germany\u2019s Fiscal Breakthrough and Its Global Impact"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -474,7 +491,7 @@
   path: https://www.youtube.com/watch?v=yZ7xcVcjTpU
   title: 'Dashboard Access Control: Tips & Tricks'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2025-03-12T09:50:28+00:00'
   description: "<p>Apesar de sempre ter estado na oposi\xE7\xE3o ao governo Lula,\
@@ -489,7 +506,7 @@
   path: https://braziljournal.com/o-pl-que-prepara-o-brasil-para-a-guerra-comercial/
   title: O PL que prepara o Brasil para a guerra comercial
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-03-12T00:00:00+00:00'
   description: "Voc\xEA est\xE1 perdendo dinheiro ficando fora da bolsa? O mercado\
@@ -522,7 +539,7 @@
   path: https://open.spotify.com/episode/5QOYduBvYl86pjvS808EVB
   title: "POR QUE VOC\xCA DEVERIA ESTAR SEMPRE INVESTIDO EM BOLSA? | Corte EP #189"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-03-12T00:00:00+00:00'
   description: "Ataque massivo a Moscou e negocia\xE7\xF5es de paz ao mesmo tempo?\
     \ O que est\xE1 acontecendo? A guerra entre R\xFAssia e Ucr\xE2nia atingiu um\
@@ -553,7 +570,7 @@
   title: "#192 | UCR\xC2NIA ACEITA CESSAR-FOGO! SER\xC1 O FIM DA GUERRA? (Professor\
     \ HOC)"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-12T00:00:00+00:00'
   description: "Over the weekend, President Donald Trump said he wasn\u2019t going\
@@ -614,17 +631,8 @@
   image: https://i2.ytimg.com/vi/Uwmp16aSgdk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Uwmp16aSgdk
   title: 'M4 Macbook Air Review: Too Easy!'
-- author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
-  date: '2025-03-11T11:09:33+00:00'
-  description: By classifying products into commodity, luxury, or hybrid models, investors
-    can identify durable competitive advantages.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/11/are-you-investing-in-a-fad-or-a-future-market-leader__trashed/
-  title: Are You Investing in a Fad or a Future Market Leader?
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-11T00:00:00+00:00'
   description: "Elon Musk\u2019s politics have eroded Tesla\u2019s appeal among some\
     \ core buyers of electric vehicles. Some customers have started getting rid of\
@@ -640,7 +648,7 @@
   path: https://open.spotify.com/episode/4NGHIZp8LjKvCq9FNrnqmk
   title: 'Tesla Has a Problem: Elon Musk'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-03-10T20:48:39+00:00'
   description: "<p>\u201CPrecisamos construir uma nova economia e novas rela\xE7\xF5\
     es comerciais,\u201D disse Mark Carney, o pr\xF3ximo primeiro-ministro do Canad\xE1\
@@ -655,14 +663,14 @@
   path: https://braziljournal.com/trump-faz-a-esquerda-canadense-cool-again-mark-carney-agradece/
   title: "Trump faz a esquerda canadense \u2018cool again\u2019. Mark Carney agradece"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-03-10T16:00:29+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
     \ #softwaredesign #python"
   image: https://i3.ytimg.com/vi/J64N43ypLZQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J64N43ypLZQ
-  title: "\u26A1 Unit of Work: More than Just Databases"
+  title: 'Unit of Work: More than Just Databases'
 - author: CFA Institute Research and Policy Center
   categories: &id008
   - CFA
@@ -693,15 +701,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0a8004e6-b487-45a8-bc20-33b90fa8647a_3205x2960.png
   path: https://theovershoot.co/p/the-atlanta-feds-nowcast-is-broken
   title: The Atlanta Fed's Nowcast Is Broken (For Now)
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-03-07T11:48:39+00:00'
-  description: Investment professionals must carefully consider how shareholder loans
-    and intangible assets influence financial ratios, as these factors materially
-    shape the post-buyout financial landscape.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/07/how-do-shareholder-loans-and-intangible-assets-impact-pe-financials/
-  title: How Do Shareholder Loans and Intangible Assets Impact PE Financials?
 - author: Liberty Street Economics
   categories:
   - Macro
