@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-13T12:30:59.516961'
+  date: '2025-03-13T13:38:44.700303'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T12:30:59.515239'
+  date: '2025-03-13T13:38:44.698550'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T12:30:59.515235'
+  date: '2025-03-13T13:38:44.698546'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T12:30:59.515230'
+  date: '2025-03-13T13:38:44.698541'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-13T12:30:59.515220'
+  date: '2025-03-13T13:38:44.698531'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id006
+  - CFA
+  date: '2025-03-13T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/asset-allocation-drift-due-to-taxes
+  title: Asset Allocation Drift Due to Taxes
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -576,12 +584,12 @@
   description: "Over the weekend, President Donald Trump said he wasn\u2019t going\
     \ to rule out a recession in the U.S.'s future. WSJ's Ashby Jones explains the\
     \ cracks starting to appear in the economy and Brian Schwartz reports on how the\
-    \ White House is managing those cracks.  Further Reading: -Trump\u2019s Economic\
-    \ Messaging Is Spooking Some of His Own Advisers\_ -Inflation Cooled to 2.8% in\
-    \ February, Lower Than Expected\_ -CEOs Don\u2019t Plan to Openly Question Trump.\
-    \ Ask Again If the Market Crashes 20%.\_  Further Listening: -The Trade War With\
-    \ China Is On\_ -Trump\u2019s Tariffs Cause Chaos in Auto Industry\_   Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
+    \ White House is managing those cracks.  See The Journal live! Take our survey\
+    \ !  Further Reading: -Trump\u2019s Economic Messaging Is Spooking Some of His\
+    \ Own Advisers\_ -Inflation Cooled to 2.8% in February, Lower Than Expected\_\
+    \ -CEOs Don\u2019t Plan to Openly Question Trump. Ask Again If the Market Crashes\
+    \ 20%.\_  Further Listening: -The Trade War With China Is On\_ -Trump\u2019s Tariffs\
+    \ Cause Chaos in Auto Industry\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/3c4YPYIfxjjoTHkaGcGvB3
   title: What's Going On With the Economy?
@@ -602,7 +610,7 @@
   title: "#154 -Paulo Passoni e o futuro do Venture Capital na Am\xE9rica Latina |\
     \ Outliers InfoMoney"
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id008
   - Tech
   - Youtube
   date: '2025-03-11T13:00:45+00:00'
@@ -672,8 +680,7 @@
   path: https://www.youtube.com/watch?v=J64N43ypLZQ
   title: 'Unit of Work: More than Just Databases'
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id006
   date: '2025-03-10T12:00:00+00:00'
   description: ''
   image: null
@@ -692,7 +699,7 @@
   path: https://open.spotify.com/episode/0ZuMVxkBCCtUx6tZKWDNqD
   title: 'Beyond 60/40: Private Assets in an Era of High Public Valuations'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-03-08T08:44:35+00:00'
@@ -717,7 +724,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/when-the-household-pie-shrinks-who-gets-their-slice/
   title: When the Household Pie Shrinks, Who Gets Their Slice?
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2025-03-06T01:06:06+00:00'
   description: Policy choices over the past six weeks risk pushing a previously strong
     economy into a world of faster inflation and slower real growth.
@@ -744,7 +751,7 @@
   path: https://open.spotify.com/episode/6fxz6PKqpZ7pyHOaELRIYf
   title: "Tariff turmoil: Donald Trump\u2019s trade policy chaos"
 - author: Marques Brownlee
-  categories: *id007
+  categories: *id008
   date: '2025-03-05T15:29:53+00:00'
   description: It would be this Sigma BF
   image: https://i3.ytimg.com/vi/z5Y9n9TBGek/hqdefault.jpg
@@ -760,13 +767,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe63c1eae-1dba-4b87-a493-4e0623e1b359_2886x1843.png
   path: https://www.apricitas.io/p/trumps-blockade-of-america
   title: Trump's Blockade of America
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-03-03T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-consultation-uk-green-taxonomy
-  title: Response to the Consultation on a UK Green Taxonomy
 - author: Flirting with Models
   categories:
   - Podcasts
