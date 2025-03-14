@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-03-14T13:56:00+00:00'
+  description: "Veja quem pode ser dependente ou alimentando e os documentos necess\xE1\
+    rios"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/pensao-alimenticia-imposto-de-renda/
+  title: "Como declarar a pens\xE3o aliment\xEDcia paga no Imposto de Renda 2025?"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-despesas-com-home-office-precisam-ser-declaradas/
   title: 'Imposto de Renda 2025: despesas com home office precisam ser declaradas?'
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-03-12T14:04:00+00:00'
   description: "Resultado do IPCA foi tamb\xE9m o maior aumento mensal desde mar\xE7\
     o de 2022"
@@ -25,12 +33,3 @@
   path: https://investnews.com.br/economia/inflacao-no-brasil-dispara-e-tem-o-maior-patamar-para-um-mes-de-fevereiro-em-22-anos/
   title: "Infla\xE7\xE3o dispara e tem o maior patamar para um m\xEAs de fevereiro\
     \ em 22 anos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-11T21:08:20+00:00'
-  description: "Tarifas eram resposta a taxa sobre eletricidade de Ont\xE1rio enviada\
-    \ aos EUA, que tamb\xE9m ser\xE1 suspensa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/horas-apos-anuncio-trump-diz-que-vai-reavaliar-novas-tarifas-sobre-metais-do-canada/
-  title: "Horas ap\xF3s an\xFAncio, Trump diz que vai reavaliar dobrar tarifa sobre\
-    \ metais do Canad\xE1"
