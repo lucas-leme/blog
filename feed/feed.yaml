@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-14T02:03:39.819379'
+  date: '2025-03-14T11:07:12.641285'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-14T02:03:39.817641'
+  date: '2025-03-14T11:07:12.639580'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-14T02:03:39.817637'
+  date: '2025-03-14T11:07:12.639568'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-14T02:03:39.817632'
+  date: '2025-03-14T11:07:12.639564'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-14T02:03:39.817622'
+  date: '2025-03-14T11:07:12.639553'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -462,7 +462,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-03-14T00:12:36+00:00'
   description: "<p>Em 2004, o renomado economista Jagdish Bhagwati publicou o livro\
@@ -478,6 +478,23 @@
   path: https://braziljournal.com/opiniao-por-que-a-globalizacao-foi-boa-e-tarifas-sao-um-perde-perde/
   title: "OPINI\xC3O.\_Por que a globaliza\xE7\xE3o foi boa \u2013 e tarifas s\xE3\
     o um perde-perde"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-03-14T00:00:00+00:00'
+  description: "The Federal Reserve has been focused on cooling inflation and achieving\
+    \ a so-called soft landing. President Trump\u2019s trade policies have sent markets\
+    \ reeling and fears of a recession are on the rise. WSJ\u2019s Nick Timiraos joins\
+    \ Ryan Knutson and Molly Ball to discuss Trump\u2019s economic vision. Plus, the\
+    \ Trump administration is moving to deport a permanent legal resident of the United\
+    \ States and the possibility of a government shutdown has Democrats in a pickle.\
+    \  Further Listening:\_ - What\u2019s Going On With the Economy\_ - Tesla Has\
+    \ a Problem: Elon Musk\_ - The Fight to Kick Soda Out of Food Stamps\_  Further\
+    \ Reading: - How Trump 2.0 Is Shifting Its Tone on Markets\_ - A Presidency of\
+    \ Upheaval Emboldens Trump\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8aa68c864dd9281bcd655d40d7
+  path: https://open.spotify.com/episode/3duxykoShUhyrZSXFEY4ww
+  title: 'Trump 2.0: The Uncertainty Economy'
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA
@@ -504,7 +521,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/13/decades-in-a-week-germanys-fiscal-breakthrough-and-its-global-impact/
   title: "Decades in a Week:\_Germany\u2019s Fiscal Breakthrough and Its Global Impact"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-13T00:00:00+00:00'
   description: "Como seguir em frente depois de tudo mudar em um instante?Pedro Janot\
@@ -539,8 +556,7 @@
   title: "#193 | PEDRO JANOT: GRANDES LI\xC7\xD5ES DE VIDA, NEG\xD3CIOS E LIDERAN\xC7\
     A"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-03-13T00:00:00+00:00'
   description: "In 2023, crypto exchange Binance and its CEO and founder, Changpeng\
     \ Zhao, pleaded guilty to violating U.S. money laundering laws. Now, an investigation\
@@ -585,9 +601,9 @@
     \ #softwaredesign #python"
   image: https://i2.ytimg.com/vi/yZ7xcVcjTpU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=yZ7xcVcjTpU
-  title: 'Dashboard Access Control: Tips & Tricks'
+  title: "\U0001FAAA Dashboard Access Control: Tips & Tricks"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-03-12T09:50:28+00:00'
   description: "<p>Apesar de sempre ter estado na oposi\xE7\xE3o ao governo Lula,\
     \ a senadora Tereza Cristina (PP-MS) se reuniu diversas vezes nas \xFAltimas semanas\
@@ -601,7 +617,7 @@
   path: https://braziljournal.com/o-pl-que-prepara-o-brasil-para-a-guerra-comercial/
   title: O PL que prepara o Brasil para a guerra comercial
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-03-12T00:00:00+00:00'
   description: "Voc\xEA est\xE1 perdendo dinheiro ficando fora da bolsa? O mercado\
     \ j\xE1 deu o sinal e poucos perceberam!Atualmente, h\xE1 muito mais motivos para\
@@ -632,21 +648,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae33b834093883bd15971148c
   path: https://open.spotify.com/episode/5QOYduBvYl86pjvS808EVB
   title: "POR QUE VOC\xCA DEVERIA ESTAR SEMPRE INVESTIDO EM BOLSA? | Corte EP #189"
-- author: The Journal.
-  categories: *id004
-  date: '2025-03-12T00:00:00+00:00'
-  description: "Over the weekend, President Donald Trump said he wasn\u2019t going\
-    \ to rule out a recession in the U.S.'s future. WSJ's Ashby Jones explains the\
-    \ cracks starting to appear in the economy and Brian Schwartz reports on how the\
-    \ White House is managing those cracks.  See The Journal live! Take our survey\
-    \ !  Further Reading: -Trump\u2019s Economic Messaging Is Spooking Some of His\
-    \ Own Advisers\_ -Inflation Cooled to 2.8% in February, Lower Than Expected\_\
-    \ -CEOs Don\u2019t Plan to Openly Question Trump. Ask Again If the Market Crashes\
-    \ 20%.\_  Further Listening: -The Trade War With China Is On\_ -Trump\u2019s Tariffs\
-    \ Cause Chaos in Auto Industry\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/3c4YPYIfxjjoTHkaGcGvB3
-  title: What's Going On With the Economy?
 - author: Outliers
   categories: &id009
   - Podcasts
@@ -701,7 +702,7 @@
     \ #softwaredesign #python"
   image: https://i3.ytimg.com/vi/J64N43ypLZQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=J64N43ypLZQ
-  title: 'Unit of Work: More than Just Databases'
+  title: "\u26A1 Unit of Work: More than Just Databases"
 - author: CFA Institute Research and Policy Center
   categories: *id006
   date: '2025-03-10T12:00:00+00:00'
