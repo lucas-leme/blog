@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-14T22:47:56+00:00'
+  description: "Pre\xE7os subiram 2,4% em fevereiro, acima da estimativa mediana dos\
+    \ analistas consultados pela Bloomberg"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/inflacao-mensal-da-argentina-volta-a-subir-pressionada-pelo-alta-de-alimentos-e-bebidas/
+  title: "Infla\xE7\xE3o mensal da Argentina volta a subir, pressionada pelo alta\
+    \ de alimentos e bebidas"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-03-14T19:32:15+00:00'
   description: "Para as empresas de Wall Street, os pr\xF3ximos 4 anos s\xE3o uma\
@@ -9,8 +19,7 @@
   path: https://investnews.com.br/financas/wall-street-aposta-no-sucesso-das-criptomoedas-com-o-governo-trump/
   title: Wall Street aposta no sucesso das criptomoedas com o governo Trump
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-14T13:56:00+00:00'
   description: "Veja quem pode ser dependente ou alimentando e os documentos necess\xE1\
     rios"
@@ -18,19 +27,10 @@
   path: https://investnews.com.br/economia/pensao-alimenticia-imposto-de-renda/
   title: "Como declarar a pens\xE3o aliment\xEDcia paga no Imposto de Renda 2025?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-03-14T12:19:13+00:00'
   description: "Com falta de not\xEDcias positivas, mercado de criptomoedas caminha\
     \ para encerrar a semana com fortes quedas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/bitcoin-cai-65-na-semana-e-ethereum-tem-queda-de-mais-de-13/
   title: Bitcoin cai 6,5% na semana e ethereum tem queda de mais de 13%
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-12T14:04:00+00:00'
-  description: "Resultado do IPCA foi tamb\xE9m o maior aumento mensal desde mar\xE7\
-    o de 2022"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inflacao-no-brasil-dispara-e-tem-o-maior-patamar-para-um-mes-de-fevereiro-em-22-anos/
-  title: "Infla\xE7\xE3o dispara e tem o maior patamar para um m\xEAs de fevereiro\
-    \ em 22 anos"
