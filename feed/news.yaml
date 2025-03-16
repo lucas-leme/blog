@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-16T14:43:12+00:00'
+  description: "Pequim vai promover um \u201Ccrescimento razo\xE1vel\u201D dos sal\xE1\
+    rios e estabelecer um mecanismo para o reajuste do sal\xE1rio m\xEDnimo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-adota-medidas-para-impulsionar-consumo-e-combater-deflacao/
+  title: "China adota medidas para impulsionar consumo e combater defla\xE7\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Imposto de Renda 2025: Prazo para declarar come\xE7a nesta segunda (17),\
     \ mas talvez valha a pena esperar um pouco"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-15T19:44:35+00:00'
   description: "A decis\xE3o abre um novo cap\xEDtulo na crescente tens\xE3o entre\
     \ EUA e Canad\xE1"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/novo-primeiro-ministro-do-canada-pausa-acordo-de-us-13-bi-para-compra-de-jatos-militares-americanos/
   title: "Novo primeiro-ministro do Canad\xE1 pausa acordo de US$ 13 bi para compra\
     \ de jatos militares americanos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-15T14:56:17+00:00'
-  description: "Os investimentos previstos para as concess\xF5es somam R$ 4,7 bilh\xF5\
-    es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cs-infra-monte-rodovias-vf-gomes-e-zopone-constral-vencem-leilao-rodoviario-do-mt/
-  title: "CS Infra, Monte Rodovias, VF Gomes e Zopone/Constral vencem leil\xE3o rodovi\xE1\
-    rio do MT"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-03-14T19:32:15+00:00'
