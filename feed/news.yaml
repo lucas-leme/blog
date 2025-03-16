@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-03-16T10:03:00+00:00'
+  description: "Ferramenta pr\xE9-preenchida s\xF3 estar\xE1 dispon\xEDvel a partir\
+    \ de 1\xBA de abnril"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2025-prazo-para-declarar-comeca-nesta-segunda-17-mas-talvez-valha-a-pena-esperar-um-pouco/
+  title: "Imposto de Renda 2025: Prazo para declarar come\xE7a nesta segunda (17),\
+    \ mas talvez valha a pena esperar um pouco"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "CS Infra, Monte Rodovias, VF Gomes e Zopone/Constral vencem leil\xE3o rodovi\xE1\
     rio do MT"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-03-14T19:32:15+00:00'
   description: "Para as empresas de Wall Street, os pr\xF3ximos 4 anos s\xE3o uma\
     \ oportunidade de fazer incurs\xF5es em uma ind\xFAstria que ganhou for\xE7a com\
@@ -27,11 +36,3 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/wall-street-aposta-no-sucesso-das-criptomoedas-com-o-governo-trump/
   title: Wall Street aposta no sucesso das criptomoedas com o governo Trump
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-14T12:19:13+00:00'
-  description: "Com falta de not\xEDcias positivas, mercado de criptomoedas caminha\
-    \ para encerrar a semana com fortes quedas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-cai-65-na-semana-e-ethereum-tem-queda-de-mais-de-13/
-  title: Bitcoin cai 6,5% na semana e ethereum tem queda de mais de 13%
