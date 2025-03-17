@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-17T15:48:12.695742'
+  date: '2025-03-17T18:31:15.761871'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T15:48:12.694021'
+  date: '2025-03-17T18:31:15.760147'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T15:48:12.694009'
+  date: '2025-03-17T18:31:15.760136'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T15:48:12.694004'
+  date: '2025-03-17T18:31:15.760131'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T15:48:12.693994'
+  date: '2025-03-17T18:31:15.760120'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,37 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-03-17T17:09:08+00:00'
+  description: "<p>A confian\xE7a dos CEOs americanos est\xE1 mergulhando ainda mais\
+    \ r\xE1pido do que a queda no \xE2nimo dos consumidores em rela\xE7\xE3o \xE0\
+    \ economia. Na Yale CEO Caucus, uma confer\xEAncia empresarial que ocorre a cada\
+    \ seis meses e re\xFAne os l\xEDderes das maiores empresas americanas, o sentimento\
+    \ na semana passada era de revolta e desalento. \u201CH\xE1 uma [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/92-dos-empresarios-dos-eua-preveem-uma-recessao-eram-so-10-6-meses-atras/\"\
+    \ rel=\"nofollow\">92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o;\
+    \ eram s\xF3 10% 6 meses atr\xE1s</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/92-dos-empresarios-dos-eua-preveem-uma-recessao-eram-so-10-6-meses-atras/
+  title: "92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o; eram s\xF3 10%\
+    \ 6 meses atr\xE1s"
+- author: ArjanCodes
+  categories: &id002
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-03-17T16:01:08+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/s8PD86GEo9o/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=s8PD86GEo9o
+  title: Should Python Handle Errors Like Rust?
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-03-17T12:13:14+00:00'
   description: As complex ML models become more prevalent in investment management,
@@ -472,8 +501,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/17/ml-models-need-better-training-data-the-genai-solution/
   title: 'ML Models Need Better Training Data: The GenAI Solution'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2025-03-17T03:05:21+00:00'
   description: "<p>As grandes distribuidoras de combust\xEDvel pediram \xE0 ANP na\
     \ semana passada para suspender temporariamente a obriga\xE7\xE3o de misturar\
@@ -498,7 +526,7 @@
   path: https://www.youtube.com/watch?v=OltS40EjSxk
   title: Apple Silicon Explained in 56 seconds
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-03-15T00:00:00+00:00'
   description: "Curso Decifrando o Oriente M\xE9dio - ideal para quem busca entender,\
@@ -534,10 +562,7 @@
   path: https://open.spotify.com/episode/0PiRCYslwSMjTcFm8O6fcy
   title: "#194 | TUDO O QUE VOC\xCA PRECISA SABER SOBRE O CONFLITO ISRAEL X PALESTINA"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id002
   date: '2025-03-14T16:01:15+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019ll take you step-by-step\
@@ -555,24 +580,8 @@
   image: https://i1.ytimg.com/vi/tc713anE3UY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=tc713anE3UY
   title: How to Make Your Python Docker Image 80% Smaller
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2025-03-14T00:12:36+00:00'
-  description: "<p>Em 2004, o renomado economista Jagdish Bhagwati publicou o livro\
-    \ In defense of Globalization, inspirado pelos protestos antiglobaliza\xE7\xE3\
-    o de Seattle em 1999, por ocasi\xE3o de uma reuni\xE3o ministerial da Organiza\xE7\
-    \xE3o Mundial do Com\xE9rcio. Em seu livro, Bhagwati apresenta uma s\xE9rie de\
-    \ argumentos simples \u2013 mas n\xE3o menos sofisticados \u2013 mostrando como\
-    \ a globaliza\xE7\xE3o, em contraste [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-por-que-a-globalizacao-foi-boa-e-tarifas-sao-um-perde-perde/\"\
-    \ rel=\"nofollow\">OPINI\xC3O.\_Por que a globaliza\xE7\xE3o foi boa \u2013 e\
-    \ tarifas s\xE3o um perde-perde</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-por-que-a-globalizacao-foi-boa-e-tarifas-sao-um-perde-perde/
-  title: "OPINI\xC3O.\_Por que a globaliza\xE7\xE3o foi boa \u2013 e tarifas s\xE3\
-    o um perde-perde"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-14T00:00:00+00:00'
   description: "Gloria Allred\u2019s lifelong crusade against men accused of sexual\
@@ -585,7 +594,7 @@
   path: https://open.spotify.com/episode/4KdZQZFG8qef4sDxVit7f4
   title: The High Pressure Tactics Gloria Allred Uses On Her Own Clients
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-14T00:00:00+00:00'
   description: "The Federal Reserve has been focused on cooling inflation and achieving\
     \ a so-called soft landing. President Trump\u2019s trade policies have sent markets\
@@ -609,7 +618,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/asset-allocation-drift-due-to-taxes
   title: Asset Allocation Drift Due to Taxes
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-03-13T10:53:11+00:00'
   description: Financial success depends on disciplined saving and investing, not
     fancy investment products and high returns.
@@ -617,7 +626,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/13/6-reasons-to-avoid-hedge-funds/
   title: 6 Reasons to Avoid Hedge Funds
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-03-13T00:00:00+00:00'
   description: "Como seguir em frente depois de tudo mudar em um instante?Pedro Janot\
     \ construiu um imp\xE9rio no mundo dos neg\xF3cios. Foi CEO da Richards, da Zara\
@@ -669,15 +678,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/7qWqxIHLO3hj6LQUINULX9
   title: 'Developing crisis: why foreign aid needs an overhaul'
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-03-12T16:01:13+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/yZ7xcVcjTpU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=yZ7xcVcjTpU
-  title: 'Dashboard Access Control: Tips & Tricks'
 - author: Outliers
   categories: &id009
   - Podcasts
