@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-17T02:06:31.568463'
+  date: '2025-03-17T11:07:15.596241'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T02:06:31.566717'
+  date: '2025-03-17T11:07:15.594489'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T02:06:31.566708'
+  date: '2025-03-17T11:07:15.594479'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T02:06:31.566704'
+  date: '2025-03-17T11:07:15.594474'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-17T02:06:31.566695'
+  date: '2025-03-17T11:07:15.594464'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-03-17T03:05:21+00:00'
+  description: "<p>As grandes distribuidoras de combust\xEDvel pediram \xE0 ANP na\
+    \ semana passada para suspender temporariamente a obriga\xE7\xE3o de misturar\
+    \ biodiesel no diesel. O pedido \xE9 uma rea\xE7\xE3o do setor ao aumento das\
+    \ fraudes em distribuidoras irregulares e postos bandeira branca &#8212; que est\xE3\
+    o deixando de fazer a mistura do biodiesel no diesel e, com isso, vendendo [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/rubens-ometto-sobre-a-concorrencia-desleal-no-biodiesel-sao-os-malandros-de-sempre/\"\
+    \ rel=\"nofollow\">Rubens Ometto sobre a concorr\xEAncia desleal no biodiesel:\
+    \ \u201CS\xE3o os malandros de sempre\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/rubens-ometto-sobre-a-concorrencia-desleal-no-biodiesel-sao-os-malandros-de-sempre/
+  title: "Rubens Ometto sobre a concorr\xEAncia desleal no biodiesel: \u201CS\xE3\
+    o os malandros de sempre\u201D"
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -471,7 +488,7 @@
   path: https://www.youtube.com/watch?v=OltS40EjSxk
   title: Apple Silicon Explained in 56 seconds
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-15T00:00:00+00:00'
   description: "Curso Decifrando o Oriente M\xE9dio - ideal para quem busca entender,\
@@ -507,7 +524,7 @@
   path: https://open.spotify.com/episode/0PiRCYslwSMjTcFm8O6fcy
   title: "#194 | TUDO O QUE VOC\xCA PRECISA SABER SOBRE O CONFLITO ISRAEL X PALESTINA"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -529,8 +546,7 @@
   path: https://www.youtube.com/watch?v=tc713anE3UY
   title: How to Make Your Python Docker Image 80% Smaller
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2025-03-14T00:12:36+00:00'
   description: "<p>Em 2004, o renomado economista Jagdish Bhagwati publicou o livro\
     \ In defense of Globalization, inspirado pelos protestos antiglobaliza\xE7\xE3\
@@ -546,7 +562,7 @@
   title: "OPINI\xC3O.\_Por que a globaliza\xE7\xE3o foi boa \u2013 e tarifas s\xE3\
     o um perde-perde"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-03-14T00:00:00+00:00'
   description: "Gloria Allred\u2019s lifelong crusade against men accused of sexual\
@@ -559,7 +575,7 @@
   path: https://open.spotify.com/episode/4KdZQZFG8qef4sDxVit7f4
   title: The High Pressure Tactics Gloria Allred Uses On Her Own Clients
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-03-14T00:00:00+00:00'
   description: "The Federal Reserve has been focused on cooling inflation and achieving\
     \ a so-called soft landing. President Trump\u2019s trade policies have sent markets\
@@ -583,7 +599,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/asset-allocation-drift-due-to-taxes
   title: Asset Allocation Drift Due to Taxes
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-03-13T10:53:11+00:00'
   description: Financial success depends on disciplined saving and investing, not
@@ -592,7 +608,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/13/6-reasons-to-avoid-hedge-funds/
   title: 6 Reasons to Avoid Hedge Funds
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-03-13T10:42:38+00:00'
   description: Does Germany's massive fiscal package mark the beginning of a lasting
     regime change or just another chapter in market volatility?
@@ -600,7 +616,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/13/decades-in-a-week-germanys-fiscal-breakthrough-and-its-global-impact/
   title: "Decades in a Week:\_Germany\u2019s Fiscal Breakthrough and Its Global Impact"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-03-13T00:00:00+00:00'
   description: "Como seguir em frente depois de tudo mudar em um instante?Pedro Janot\
     \ construiu um imp\xE9rio no mundo dos neg\xF3cios. Foi CEO da Richards, da Zara\
@@ -653,28 +669,14 @@
   path: https://open.spotify.com/episode/7qWqxIHLO3hj6LQUINULX9
   title: 'Developing crisis: why foreign aid needs an overhaul'
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-03-12T16:01:13+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
     \ #softwaredesign #python"
   image: https://i2.ytimg.com/vi/yZ7xcVcjTpU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=yZ7xcVcjTpU
-  title: "\U0001FAAA Dashboard Access Control: Tips & Tricks"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2025-03-12T09:50:28+00:00'
-  description: "<p>Apesar de sempre ter estado na oposi\xE7\xE3o ao governo Lula,\
-    \ a senadora Tereza Cristina (PP-MS) se reuniu diversas vezes nas \xFAltimas semanas\
-    \ com o Minist\xE9rio do Desenvolvimento Ind\xFAstria e Com\xE9rcio e o Itamaraty.\
-    \ O objetivo: criar mecanismos de defesa contra a guerra comercial promovida por\
-    \ Donald Trump. A ex-ministra da Agricultura \xE9 a relatora do [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/o-pl-que-prepara-o-brasil-para-a-guerra-comercial/\"\
-    \ rel=\"nofollow\">O PL que prepara o Brasil para a guerra comercial</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-pl-que-prepara-o-brasil-para-a-guerra-comercial/
-  title: O PL que prepara o Brasil para a guerra comercial
+  title: 'Dashboard Access Control: Tips & Tricks'
 - author: Outliers
   categories: &id009
   - Podcasts

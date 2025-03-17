@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-03-17T10:03:00+00:00'
+  description: "Escolha do modelo influencia no valor de pagamento ou restitui\xE7\
+    \xE3o do imposto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2025-declaracao-simplificada-ou-completa-veja-qual-e-a-melhor-para-voce/
+  title: "Imposto de Renda 2025: Declara\xE7\xE3o simplificada ou completa? Veja qual\
+    \ \xE9 a melhor para voc\xEA"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-03-16T14:43:12+00:00'
   description: "Pequim vai promover um \u201Ccrescimento razo\xE1vel\u201D dos sal\xE1\
@@ -9,8 +19,7 @@
   title: "Pacote chin\xEAs para impulsionar consumo inclui aumento de sal\xE1rios\
     \ e at\xE9 est\xEDmulos \xE0 natalidade"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-03-16T10:03:00+00:00'
   description: "Ferramenta pr\xE9-preenchida s\xF3 estar\xE1 dispon\xEDvel a partir\
     \ de 1\xBA de abnril"
@@ -19,7 +28,7 @@
   title: "Imposto de Renda 2025: Prazo para declarar come\xE7a nesta segunda (17),\
     \ mas talvez valha a pena esperar um pouco"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-03-15T19:44:35+00:00'
   description: "A decis\xE3o abre um novo cap\xEDtulo na crescente tens\xE3o entre\
     \ EUA e Canad\xE1"
@@ -27,12 +36,3 @@
   path: https://investnews.com.br/economia/novo-primeiro-ministro-do-canada-pausa-acordo-de-us-13-bi-para-compra-de-jatos-militares-americanos/
   title: "Novo primeiro-ministro do Canad\xE1 pausa acordo de US$ 13 bi para compra\
     \ de jatos militares americanos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-14T19:32:15+00:00'
-  description: "Para as empresas de Wall Street, os pr\xF3ximos 4 anos s\xE3o uma\
-    \ oportunidade de fazer incurs\xF5es em uma ind\xFAstria que ganhou for\xE7a com\
-    \ Trump"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/wall-street-aposta-no-sucesso-das-criptomoedas-com-o-governo-trump/
-  title: Wall Street aposta no sucesso das criptomoedas com o governo Trump
