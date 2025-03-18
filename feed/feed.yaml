@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-18T02:04:49.609824'
+  date: '2025-03-18T11:07:12.770354'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-18T02:04:49.608143'
+  date: '2025-03-18T11:07:12.768612'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-18T02:04:49.608138'
+  date: '2025-03-18T11:07:12.768607'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-18T02:04:49.608134'
+  date: '2025-03-18T11:07:12.768601'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-18T02:04:49.608124'
+  date: '2025-03-18T11:07:12.768591'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: The Overshoot
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2025-03-18T06:48:53+00:00'
+  description: Banks and credit unions earned free money by borrowing from the Fed's
+    "emergency" program and then lending it back to the Fed (or other banks) at higher
+    rates.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda29f528-27f7-4935-a9f2-1875cc61cdce_3200x2984.png
+  path: https://theovershoot.co/p/inside-the-btfp-subsidy
+  title: Inside the BTFP Subsidy
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -593,7 +604,7 @@
     \n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/tc713anE3UY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=tc713anE3UY
-  title: How to Make Your Python Docker Image 80% Smaller
+  title: This Is How You Write an Efficient Python Dockerfile
 - author: The Journal.
   categories: *id003
   date: '2025-03-14T00:00:00+00:00'
@@ -739,9 +750,7 @@
   path: https://open.spotify.com/episode/0ZuMVxkBCCtUx6tZKWDNqD
   title: 'Beyond 60/40: Private Assets in an Era of High Public Valuations'
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id008
   date: '2025-03-08T08:44:35+00:00'
   description: 'Imports of gold bars turn out to be surprisingly important. Plus:
     some thoughts on the February jobs numbers.'
@@ -763,14 +772,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/when-the-household-pie-shrinks-who-gets-their-slice/
   title: When the Household Pie Shrinks, Who Gets Their Slice?
-- author: The Overshoot
-  categories: *id008
-  date: '2025-03-06T01:06:06+00:00'
-  description: Policy choices over the past six weeks risk pushing a previously strong
-    economy into a world of faster inflation and slower real growth.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd10df4ae-5c7d-4dcc-807b-08a6972c11b6_3204x2894.png
-  path: https://theovershoot.co/p/the-us-chooses-stagflation
-  title: The U.S. Chooses Stagflation
 - author: Apricitas Economics
   categories: &id010
   - Macro
