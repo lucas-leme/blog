@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-19T02:05:15.249373'
+  date: '2025-03-19T11:07:11.005111'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T02:05:15.247606'
+  date: '2025-03-19T11:07:11.003396'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T02:05:15.247601'
+  date: '2025-03-19T11:07:11.003392'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T02:05:15.247587'
+  date: '2025-03-19T11:07:11.003382'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T02:05:15.247576'
+  date: '2025-03-19T11:07:11.003371'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,8 +461,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-03-19T10:53:02+00:00'
+  description: The debate over the inclusion of private investments in 401(k) plans
+    is a hot topic. Are DC plans better off without them?
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/19/the-alternative-view-401k-plans-are-better-off-without-private-investments/
+  title: 'The Alternative View: 401(k) Plans Are Better off Without Private Investments'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-03-18T12:00:00+00:00'
   description: ''
@@ -481,7 +490,7 @@
   path: https://theovershoot.co/p/inside-the-btfp-subsidy
   title: Inside the BTFP Subsidy
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-18T00:00:00+00:00'
   description: "Resposta da XP Inc. \xE0 relat\xF3rio de short-selling: https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/9f7139d2-79f1-c549-a5e2-fc731d87ed7b?origin=1A\
@@ -514,7 +523,7 @@
   path: https://open.spotify.com/episode/6JM1Jm30qtpEcJk7OE0ZPf
   title: "#195 | O QUE N\xC3O TE CONTARAM SOBRE A POL\xCAMICA DA XP"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-18T00:00:00+00:00'
   description: "Walmart has been America\u2019s largest retailer by revenue for over\
@@ -529,7 +538,7 @@
   path: https://open.spotify.com/episode/6iVRW9WYWEBztI1MRGSYBB
   title: 'The Battle to Be the King of Retail: Walmart vs. Amazon'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-03-17T17:09:08+00:00'
   description: "<p>A confian\xE7a dos CEOs americanos est\xE1 mergulhando ainda mais\
@@ -546,7 +555,7 @@
   title: "92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o; eram s\xF3 10%\
     \ 6 meses atr\xE1s"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -558,8 +567,7 @@
   path: https://www.youtube.com/watch?v=s8PD86GEo9o
   title: Should Python Handle Errors Like Rust?
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id001
   date: '2025-03-17T12:13:14+00:00'
   description: As complex ML models become more prevalent in investment management,
     their tendency to overfit to specific historical conditions poses a growing risk
@@ -568,7 +576,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/17/ml-models-need-better-training-data-the-genai-solution/
   title: 'ML Models Need Better Training Data: The GenAI Solution'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-03-17T03:05:21+00:00'
   description: "<p>As grandes distribuidoras de combust\xEDvel pediram \xE0 ANP na\
     \ semana passada para suspender temporariamente a obriga\xE7\xE3o de misturar\
@@ -584,7 +592,7 @@
   title: "Rubens Ometto sobre a concorr\xEAncia desleal no biodiesel: \u201CS\xE3\
     o os malandros de sempre\u201D"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-17T00:00:00+00:00'
   description: "Matthew Van Andel\u2019s ordinary life unraveled when he accidentally\
     \ downloaded a trojan horse that gave a hacker access to his entire computer.\
@@ -606,7 +614,7 @@
   path: https://www.youtube.com/watch?v=OltS40EjSxk
   title: Apple Silicon Explained in 56 seconds
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-03-15T00:00:00+00:00'
   description: "Curso Decifrando o Oriente M\xE9dio - ideal para quem busca entender,\
     \ de forma clara e acess\xEDvel, os complexos conflitos da regi\xE3o. Mais informa\xE7\
@@ -641,7 +649,7 @@
   path: https://open.spotify.com/episode/0PiRCYslwSMjTcFm8O6fcy
   title: "#194 | TUDO O QUE VOC\xCA PRECISA SABER SOBRE O CONFLITO ISRAEL X PALESTINA"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-03-14T16:01:15+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019ll take you step-by-step\
@@ -658,22 +666,14 @@
     \n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/tc713anE3UY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=tc713anE3UY
-  title: This Is How You Write an Efficient Python Dockerfile
+  title: How to Make Your Python Docker Image 80% Smaller
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-03-13T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/asset-allocation-drift-due-to-taxes
   title: Asset Allocation Drift Due to Taxes
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2025-03-13T10:53:11+00:00'
-  description: Financial success depends on disciplined saving and investing, not
-    fancy investment products and high returns.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/13/6-reasons-to-avoid-hedge-funds/
-  title: 6 Reasons to Avoid Hedge Funds
 - author: Money Talks from The Economist
   categories:
   - Podcasts
