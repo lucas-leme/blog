@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-19T13:39:19.571553'
+  date: '2025-03-19T14:48:35.253282'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T13:39:19.569845'
+  date: '2025-03-19T14:48:35.251534'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T13:39:19.569841'
+  date: '2025-03-19T14:48:35.251530'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T13:39:19.569830'
+  date: '2025-03-19T14:48:35.251525'
   description: "<div class=\"ExternalClass1D01F2B6CF1F480683683EC4B37F39F0\"><p>\u200B\
     </p><p>O ambiente externo permanece desafiador em fun\xE7\xE3o, principalmente,\
     \ da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, o que suscita\
@@ -129,7 +129,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-19T13:39:19.569820'
+  date: '2025-03-19T14:48:35.251515'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -461,6 +461,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-03-19T14:00:39+00:00'
+  description: 'Pixel 9A is a boring, no frills phone, but also... they did the thing.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/SUeQvl7IOV4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=SUeQvl7IOV4
+  title: 'Google Pixel 9A Impressions: One Great Spec!'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -471,7 +495,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/19/the-alternative-view-401k-plans-are-better-off-without-private-investments/
   title: 'The Alternative View: 401(k) Plans Are Better off Without Private Investments'
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-03-18T12:00:00+00:00'
   description: ''
@@ -490,7 +514,7 @@
   path: https://theovershoot.co/p/inside-the-btfp-subsidy
   title: Inside the BTFP Subsidy
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-03-18T00:00:00+00:00'
   description: "Resposta da XP Inc. \xE0 relat\xF3rio de short-selling: https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/9f7139d2-79f1-c549-a5e2-fc731d87ed7b?origin=1A\
@@ -555,7 +579,7 @@
   title: "92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o; eram s\xF3 10%\
     \ 6 meses atr\xE1s"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -605,16 +629,14 @@
   path: https://open.spotify.com/episode/33PRqGozAnrE1QR0vsJJGv
   title: The Download That Led to a Massive Hack at Disney
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2025-03-16T00:20:59+00:00'
   description: Send this to a confused friend
   image: https://i4.ytimg.com/vi/OltS40EjSxk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=OltS40EjSxk
   title: Apple Silicon Explained in 56 seconds
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-03-15T00:00:00+00:00'
   description: "Curso Decifrando o Oriente M\xE9dio - ideal para quem busca entender,\
     \ de forma clara e acess\xEDvel, os complexos conflitos da regi\xE3o. Mais informa\xE7\
@@ -649,7 +671,7 @@
   path: https://open.spotify.com/episode/0PiRCYslwSMjTcFm8O6fcy
   title: "#194 | TUDO O QUE VOC\xCA PRECISA SABER SOBRE O CONFLITO ISRAEL X PALESTINA"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-03-14T16:01:15+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019ll take you step-by-step\
@@ -668,7 +690,7 @@
   path: https://www.youtube.com/watch?v=tc713anE3UY
   title: How to Make Your Python Docker Image 80% Smaller
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-03-13T12:00:00+00:00'
   description: ''
   image: null
@@ -709,34 +731,6 @@
   path: https://open.spotify.com/episode/1QPWAe41DvhBTdtjJJxmTB
   title: "#154 -Paulo Passoni e o futuro do Venture Capital na Am\xE9rica Latina |\
     \ Outliers InfoMoney"
-- author: Marques Brownlee
-  categories: *id007
-  date: '2025-03-11T13:00:45+00:00'
-  description: 'M4 Macbook Air got better and dropped in price... they are on one.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    M4 MacBook Air: https://geni.us/I4Ffm
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Laptop provided by Apple for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/Uwmp16aSgdk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Uwmp16aSgdk
-  title: 'M4 Macbook Air Review: Too Easy!'
 - author: The View From Apollo
   categories:
   - Podcasts
