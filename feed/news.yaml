@@ -1,6 +1,24 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-03-19T13:00:00+00:00'
+  description: "Saiba quem deve declarar os valores e as al\xEDquotas aplic\xE1veis"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/imposto-de-renda-e-aluguel-de-imovel-quem-declara-e-paga-imposto/
+  title: Como declarar o aluguel recebido no Imposto de Renda 2025? Veja dicas para
+    inquilino e locador
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-03-19T12:56:28+00:00'
+  description: "Criptomoedas t\xEAm dia de alta com investidores de olho no Fed e\
+    \ sinaliza\xE7\xF5es sobre cortes de juros nos pr\xF3ximos meses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ethereum-sobe-mais-de-5-e-bitcoin-volta-aos-us-83-mil-em-dia-de-decisao-de-juros-nos-eua/
+  title: "Ethereum sobe mais de 5% e bitcoin volta aos US$ 83 mil em dia de decis\xE3\
+    o de juros nos EUA"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-03-19T10:03:00+00:00'
   description: "Projeto encaminhado ao Congresso deve alcan\xE7ar 10 milh\xF5es de\
     \ contribuintes"
@@ -9,8 +27,7 @@
   title: "Quem ser\xE1 beneficiado com a amplia\xE7\xE3o da isen\xE7\xE3o de IR? Veja\
     \ perguntas e respostas"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-03-19T09:30:00+00:00'
   description: "O juro real, acima da infla\xE7\xE3o, come\xE7a a chegar perto dos\
     \ dois d\xEDgitos \u2013 uma realidade que fazia parte de outra era geol\xF3gica\
@@ -19,19 +36,3 @@
   path: https://investnews.com.br/economia/selic-deve-voltar-aos-1425-como-no-governo-dilma-mas-agora-e-pior-entenda/
   title: "Selic deve voltar a 14,25%, como no governo Dilma, mas agora \xE9 pior.\
     \ Entenda"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-03-18T19:03:59+00:00'
-  description: "Uma empresa afiliada a Trump recebe 75% da receita l\xEDquida como\
-    \ taxa, incluindo os recursos obtidos com a venda dos tokens"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/projeto-cripto-de-trump-arrecadou-us-550-milhoes-em-tokens-vendidos/
-  title: "Projeto cripto de Trump arrecadou US$ 550 milh\xF5es em tokens vendidos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-18T16:16:30+00:00'
-  description: "Projeto prev\xEA aumento de gatos p\xFAblicos para impulsionar crescimento\
-    \ econ\xF4mico e ainda precisa ser votado na c\xE2mara alta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/parlamento-da-alemanha-aprova-reforma-fiscal-historica/
-  title: "Parlamento da Alemanha aprova reforma fiscal hist\xF3rica"
