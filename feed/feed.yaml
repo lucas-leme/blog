@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-21T02:06:03.606132'
+  date: '2025-03-21T11:07:04.113263'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-21T02:06:03.604786'
+  date: '2025-03-21T11:07:04.111889'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-21T02:06:03.604781'
+  date: '2025-03-21T11:07:04.111885'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-21T02:06:03.604777'
+  date: '2025-03-21T11:07:04.111881'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-21T02:06:03.604766'
+  date: '2025-03-21T11:07:04.111866'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -475,6 +475,21 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddacd28e-52b8-4583-932c-baea2c1a013c_3203x2829.png
   path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
   title: The Fed Tries to Thread the Stagflation Needle
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-03-21T00:00:00+00:00'
+  description: "A battle has been brewing between President Trump and the judicial\
+    \ system as courts delay some of the administration's rapid fire executive orders.\
+    \ WSJ\u2019s Jess Bravin joins Ryan Knutson and Molly Ball to discuss the recent\
+    \ clashes between Trump and the courts.\_  Further Reading: - Chief Justice Roberts\
+    \ Criticizes Trump\u2019s Call to Impeach Judges\_ - Trump Escalates Push Against\
+    \ Legal Norms\_ - A Presidency of Upheaval Emboldens Trump\_  Further Listening:\
+    \  - A New Phase in Trump\u2019s Immigration Fight\_ - Trump 2.0: The Uncertainty\
+    \ Economy\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8ac51fcd5bef3fa774a1f37816
+  path: https://open.spotify.com/episode/1zxBSgSeKfXAsvKWaJUlWF
+  title: 'Trump 2.0: A Showdown With the Judiciary'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id006
   - Economia
@@ -493,7 +508,7 @@
   title: "OPINI\xC3O. No PL do IR, falta clareza, falta progressividade (e falta reduzir\
     \ o IRPJ)"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-03-20T12:00:00+00:00'
   description: "This book digs into Buffett\u2019s pre-Berkshire investments. The\
@@ -543,8 +558,7 @@
   path: https://open.spotify.com/episode/09262h8IIbNzRVwCfB0UkE
   title: '#196 | COMO INVESTIDORES REALMENTE ESCOLHEM EMPRESAS PARA LUCRAR?'
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2025-03-20T00:00:00+00:00'
   description: "Greenland could satisfy the world\u2019s hunger for minerals, if miners\
     \ could just start digging. WSJ\u2019s Sune Rasmussen explains why Greenland\u2019\
@@ -588,7 +602,7 @@
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/TvF58hBz-AM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=TvF58hBz-AM
-  title: Tips for Great Streamlit Dashboards
+  title: "\U0001F4CA Tips for Great Streamlit Dashboards"
 - author: Marques Brownlee
   categories: &id008
   - Tech
@@ -614,27 +628,13 @@
   path: https://www.youtube.com/watch?v=SUeQvl7IOV4
   title: 'Google Pixel 9A Impressions: One Great Spec!'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-03-19T10:53:02+00:00'
   description: The debate over the inclusion of private investments in 401(k) plans
     is a hot topic. Are DC plans better off without them?
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/03/19/the-alternative-view-401k-plans-are-better-off-without-private-investments/
   title: 'The Alternative View: 401(k) Plans Are Better off Without Private Investments'
-- author: The Journal.
-  categories: *id002
-  date: '2025-03-19T00:00:00+00:00'
-  description: "Immigrants who took advantage of a Biden-era program to enter the\
-    \ U.S. are now being targeted by the Trump administration, including people who\
-    \ fled the Russia-Ukraine war. WSJ\u2019s Michelle Hackman explains how the program\
-    \ came to be and how Trump cancelled it.  Further Reading:  - They Thought They\
-    \ Came to the U.S. Legally. Now They\u2019re at Risk for Deportation.\_ - What\
-    \ Green Card and Visa Holders Need to Know About Recent Deportations\_  Further\
-    \ Listening:  - Trump's Immigration Overhaul\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0USgJRptvQLkgkr5BNW6wL
-  title: A New Phase in Trump's Immigration Fight
 - author: CFA Institute Research and Policy Center
   categories: *id003
   date: '2025-03-18T12:00:00+00:00'
