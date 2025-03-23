@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-23T02:09:48.172738'
+  date: '2025-03-23T11:07:54.639796'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-23T02:09:48.171376'
+  date: '2025-03-23T11:07:54.638486'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-23T02:09:48.171372'
+  date: '2025-03-23T11:07:54.638482'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-23T02:09:48.171367'
+  date: '2025-03-23T11:07:54.638477'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-23T02:09:48.171355'
+  date: '2025-03-23T11:07:54.638467'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador, em fun\xE7\xE3\
@@ -465,8 +465,26 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29012025
   title: "BC - Copom Ata - 268\xAA Reuni\xE3o - 28-29 janeiro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2025-03-23T03:10:31+00:00'
+  description: "<p>J\xE1 n\xE3o \xE9 de hoje que as discuss\xF5es pol\xEDticas foram\
+    \ dominadas pelo binarismo e a falta de reflex\xE3o. N\xE3o ficamos menos inteligentes;\
+    \ simplesmente paramos de treinar nossa capacidade de refletir. O fil\xF3sofo\
+    \ canadense Marshall McLuhan j\xE1 alertava sobre como formatos r\xE1pidos de\
+    \ comunica\xE7\xE3o, muitas vezes disfar\xE7ados como entretenimento, estavam\
+    \ substituindo o debate reflexivo. D\xE9cadas depois, [&#8230;]</p>\n<p>The post\
+    \ <a href=\"https://braziljournal.com/opiniao-como-o-mundo-binario-matou-o-debate-de-ideias-e-a-boa-politica/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Como o mundo bin\xE1rio matou o debate de ideias\
+    \ (e a boa pol\xEDtica)</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-como-o-mundo-binario-matou-o-debate-de-ideias-e-a-boa-politica/
+  title: "OPINI\xC3O. Como o mundo bin\xE1rio matou o debate de ideias (e a boa pol\xED\
+    tica)"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-22T00:00:00+00:00'
   description: "No epis\xF3dio 197 do Market Makers, recebemos Rodrigo Puga, um verdadeiro\
@@ -495,7 +513,7 @@
   path: https://open.spotify.com/episode/36Gi6IUkCvUd6byWj8bPuw
   title: "#197 | ROGRIGO PUGA: A HIST\xD3RIA DO CARA QUE REVOLUCIONOU O MERCADO BRASILEIRO"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -533,7 +551,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/the-new-york-fed-dsge-model-forecast-march-2025/
   title: "The New York Fed DSGE Model Forecast\u2014March 2025"
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-03-21T00:18:24+00:00'
@@ -572,8 +590,7 @@
   path: https://open.spotify.com/episode/1zxBSgSeKfXAsvKWaJUlWF
   title: 'Trump 2.0: A Showdown With the Judiciary'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
-  - Economia
+  categories: *id002
   date: '2025-03-20T12:14:03+00:00'
   description: "<p>Passados praticamente quatro meses desde o atrapalhado an\xFAncio\
     \ em cadeia nacional que deixou o mercado incr\xE9dulo e fez o d\xF3lar disparar,\
@@ -589,7 +606,7 @@
   title: "OPINI\xC3O. No PL do IR, falta clareza, falta progressividade (e falta reduzir\
     \ o IRPJ)"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-03-20T12:00:00+00:00'
   description: "This book digs into Buffett\u2019s pre-Berkshire investments. The\
@@ -598,7 +615,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/20/book-review-buffetts-early-investments/
   title: "Book Review: Buffett\u2019s Early Investments"
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-03-20T12:00:00+00:00'
   description: ''
@@ -606,14 +623,14 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/intrinsic-value
   title: 'Intrinsic Value: A Solution to the Declining Performance of Value Strategies'
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-03-20T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/surveys/2025/clicks-and-credibility
   title: Clicks and Credibility
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-03-20T00:00:00+00:00'
   description: "No epis\xF3dio 196 do Market Makers, recebemos Donato Ramos, investidor\
     \ e ex-executivo de grandes marcas como Mundo Verde e Imaginarium, para um bate-papo\
@@ -665,14 +682,14 @@
   path: https://open.spotify.com/episode/1u5qBvmnSO8T7OF5EuOzAi
   title: 'Reid Hoffman: a Silicon Valley superstar on Musk, AI and the future of humanity'
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-03-19T16:00:42+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
     \ #softwaredesign #python"
   image: https://i1.ytimg.com/vi/TvF58hBz-AM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=TvF58hBz-AM
-  title: Tips for Great Streamlit Dashboards
+  title: "\U0001F4CA Tips for Great Streamlit Dashboards"
 - author: Marques Brownlee
   categories: &id008
   - Tech
@@ -698,7 +715,7 @@
   path: https://www.youtube.com/watch?v=SUeQvl7IOV4
   title: 'Google Pixel 9A Impressions: One Great Spec!'
 - author: CFA Institute Enterprising Investor
-  categories: *id005
+  categories: *id006
   date: '2025-03-19T10:53:02+00:00'
   description: The debate over the inclusion of private investments in 401(k) plans
     is a hot topic. Are DC plans better off without them?
@@ -706,7 +723,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/19/the-alternative-view-401k-plans-are-better-off-without-private-investments/
   title: 'The Alternative View: 401(k) Plans Are Better off Without Private Investments'
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2025-03-18T06:48:53+00:00'
   description: Banks and credit unions earned free money by borrowing from the Fed's
     "emergency" program and then lending it back to the Fed (or other banks) at higher
@@ -714,22 +731,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda29f528-27f7-4935-a9f2-1875cc61cdce_3200x2984.png
   path: https://theovershoot.co/p/inside-the-btfp-subsidy
   title: Inside the BTFP Subsidy
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id007
-  date: '2025-03-17T17:09:08+00:00'
-  description: "<p>A confian\xE7a dos CEOs americanos est\xE1 mergulhando ainda mais\
-    \ r\xE1pido do que a queda no \xE2nimo dos consumidores em rela\xE7\xE3o \xE0\
-    \ economia. Na Yale CEO Caucus, uma confer\xEAncia empresarial que ocorre a cada\
-    \ seis meses e re\xFAne os l\xEDderes das maiores empresas americanas, o sentimento\
-    \ na semana passada era de revolta e desalento. \u201CH\xE1 uma [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/92-dos-empresarios-dos-eua-preveem-uma-recessao-eram-so-10-6-meses-atras/\"\
-    \ rel=\"nofollow\">92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o;\
-    \ eram s\xF3 10% 6 meses atr\xE1s</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/92-dos-empresarios-dos-eua-preveem-uma-recessao-eram-so-10-6-meses-atras/
-  title: "92% dos empres\xE1rios dos EUA prev\xEAem uma recess\xE3o; eram s\xF3 10%\
-    \ 6 meses atr\xE1s"
 - author: Marques Brownlee
   categories: *id008
   date: '2025-03-16T00:20:59+00:00'
