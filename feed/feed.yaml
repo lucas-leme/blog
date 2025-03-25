@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-25T12:30:51.884122'
+  date: '2025-03-25T13:39:24.612131'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T12:30:51.882835'
+  date: '2025-03-25T13:39:24.610571'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T12:30:51.882831'
+  date: '2025-03-25T13:39:24.610565'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T12:30:51.882827'
+  date: '2025-03-25T13:39:24.610557'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T12:30:51.882817'
+  date: '2025-03-25T13:39:24.610542'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -456,6 +456,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: Marques Brownlee
+  categories: &id007
+  - Tech
+  - Youtube
+  date: '2025-03-25T13:12:52+00:00'
+  description: Drone deliveries are coming
+  image: https://i2.ytimg.com/vi/UK_Wja0PTsc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=UK_Wja0PTsc
+  title: A DRONE Delivers Lunch
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -584,7 +593,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/the-new-york-fed-dsge-model-forecast-march-2025/
   title: "The New York Fed DSGE Model Forecast\u2014March 2025"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-03-21T00:18:24+00:00'
@@ -691,9 +700,7 @@
   path: https://open.spotify.com/episode/1u5qBvmnSO8T7OF5EuOzAi
   title: 'Reid Hoffman: a Silicon Valley superstar on Musk, AI and the future of humanity'
 - author: Marques Brownlee
-  categories: &id008
-  - Tech
-  - Youtube
+  categories: *id007
   date: '2025-03-19T14:00:39+00:00'
   description: 'Pixel 9A is a boring, no frills phone, but also... they did the thing.
 
@@ -715,7 +722,7 @@
   path: https://www.youtube.com/watch?v=SUeQvl7IOV4
   title: 'Google Pixel 9A Impressions: One Great Spec!'
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-03-18T06:48:53+00:00'
   description: Banks and credit unions earned free money by borrowing from the Fed's
     "emergency" program and then lending it back to the Fed (or other banks) at higher
@@ -723,13 +730,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda29f528-27f7-4935-a9f2-1875cc61cdce_3200x2984.png
   path: https://theovershoot.co/p/inside-the-btfp-subsidy
   title: Inside the BTFP Subsidy
-- author: Marques Brownlee
-  categories: *id008
-  date: '2025-03-16T00:20:59+00:00'
-  description: Send this to a confused friend
-  image: https://i4.ytimg.com/vi/OltS40EjSxk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OltS40EjSxk
-  title: Apple Silicon Explained in 56 seconds
 - author: Outliers
   categories: &id009
   - Podcasts
