@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-25T18:31:15.137644'
+  date: '2025-03-25T20:28:32.297849'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T18:31:15.136281'
+  date: '2025-03-25T20:28:32.296471'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T18:31:15.136277'
+  date: '2025-03-25T20:28:32.296466'
   description: "O relat\xF3rio de infla\xE7\xE3o apresenta as diretrizes das pol\xED\
     ticas adotadas pelo Copom, considera\xE7\xF5es acerca da evolu\xE7\xE3o recente\
     \ do cen\xE1rio econ\xF4mico e proje\xE7\xF5es para a infla\xE7\xE3o. As proje\xE7\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T18:31:15.136272'
+  date: '2025-03-25T20:28:32.296462'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-25T18:31:15.136262'
+  date: '2025-03-25T20:28:32.296451'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,16 +457,43 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id001
   - Tech
   - Youtube
+  date: '2025-03-25T19:30:58+00:00'
+  description: 'Weren''t we supposed to have drone deliveries by now?
+
+
+    Real Engineering video: https://youtu.be/jEbRVNxL44c?si=-VanJyCn8wtWa66x
+
+    Mark Rober video: https://youtu.be/DOWDNBu9DkU?si=OrwKudG7cdAf6FpN
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/88yQTzlmsiA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=88yQTzlmsiA
+  title: The Truth about Drone Deliveries!
+- author: Marques Brownlee
+  categories: *id001
   date: '2025-03-25T13:12:52+00:00'
   description: Drone deliveries are coming
   image: https://i2.ytimg.com/vi/UK_Wja0PTsc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=UK_Wja0PTsc
   title: A DRONE Delivers Lunch
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-03-25T11:16:42+00:00'
   description: "From mean variance optimization to net worth optimization. We no longer\
@@ -476,7 +503,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/25/net-worth-optimization-a-new-era-of-personalized-risk-optimization/
   title: 'Net Worth Optimization: A New Era of Personalized Risk Optimization'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-03-24T18:18:42+00:00'
   description: The dynamics of global capital flows are shifting. While the overall
     IPO market contracted last year, a closer look paints a more nuanced picture.
@@ -484,7 +511,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/24/year-of-shifting-sands-reflections-on-the-2024-global-ipo-market/
   title: 'Year of Shifting Sands: Reflections on the 2024 Global IPO Market'
 - author: ArjanCodes
-  categories: &id002
+  categories: &id003
   - Tech
   - Code
   - Youtube
@@ -496,7 +523,7 @@
   path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
   title: A Mindset Shift for Tech Progress
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-24T00:00:00+00:00'
   description: "Columbia University gave in to President Trump\u2019s demands after\
@@ -511,7 +538,7 @@
   path: https://open.spotify.com/episode/04rpL9YjLcFyWxGERrDqDq
   title: Trump's College Crackdown
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2025-03-23T03:10:31+00:00'
   description: "<p>J\xE1 n\xE3o \xE9 de hoje que as discuss\xF5es pol\xEDticas foram\
@@ -529,7 +556,7 @@
   title: "OPINI\xC3O. Como o mundo bin\xE1rio matou o debate de ideias (e a boa pol\xED\
     tica)"
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-03-22T00:00:00+00:00'
   description: "No epis\xF3dio 197 do Market Makers, recebemos Rodrigo Puga, um verdadeiro\
@@ -558,7 +585,7 @@
   path: https://open.spotify.com/episode/36Gi6IUkCvUd6byWj8bPuw
   title: "#197 | ROGRIGO PUGA: A HIST\xD3RIA DO CARA QUE REVOLUCIONOU O MERCADO BRASILEIRO"
 - author: ArjanCodes
-  categories: *id002
+  categories: *id003
   date: '2025-03-21T16:00:54+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m going to walk you\
@@ -603,7 +630,7 @@
   path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
   title: The Fed Tries to Thread the Stagflation Needle
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-03-21T00:00:00+00:00'
   description: "After it was approved in 2019, Spravato, a depression treatment derived\
     \ from the club drug ketamine, was looking like a dud. But recently it has taken\
@@ -617,7 +644,7 @@
   path: https://open.spotify.com/episode/0OySILtenHD6Wj7Gupl9rz
   title: The New Hit Depression Treatment? A Ketamine-Derived Nasal Spray
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2025-03-20T12:14:03+00:00'
   description: "<p>Passados praticamente quatro meses desde o atrapalhado an\xFAncio\
     \ em cadeia nacional que deixou o mercado incr\xE9dulo e fez o d\xF3lar disparar,\
@@ -633,7 +660,7 @@
   title: "OPINI\xC3O. No PL do IR, falta clareza, falta progressividade (e falta reduzir\
     \ o IRPJ)"
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-03-20T12:00:00+00:00'
   description: ''
@@ -641,14 +668,14 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/intrinsic-value
   title: 'Intrinsic Value: A Solution to the Declining Performance of Value Strategies'
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-03-20T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/surveys/2025/clicks-and-credibility
   title: Clicks and Credibility
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2025-03-20T00:00:00+00:00'
   description: "No epis\xF3dio 196 do Market Makers, recebemos Donato Ramos, investidor\
     \ e ex-executivo de grandes marcas como Mundo Verde e Imaginarium, para um bate-papo\
@@ -699,28 +726,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/1u5qBvmnSO8T7OF5EuOzAi
   title: 'Reid Hoffman: a Silicon Valley superstar on Musk, AI and the future of humanity'
-- author: Marques Brownlee
-  categories: *id007
-  date: '2025-03-19T14:00:39+00:00'
-  description: 'Pixel 9A is a boring, no frills phone, but also... they did the thing.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/SUeQvl7IOV4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=SUeQvl7IOV4
-  title: 'Google Pixel 9A Impressions: One Great Spec!'
 - author: The Overshoot
   categories: *id008
   date: '2025-03-18T06:48:53+00:00'
