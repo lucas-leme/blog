@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-28T15:48:08.289251'
+  date: '2025-03-28T18:31:45.549736'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T15:48:08.287904'
+  date: '2025-03-28T18:31:45.548428'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T15:48:08.287900'
+  date: '2025-03-28T18:31:45.548424'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T15:48:08.287895'
+  date: '2025-03-28T18:31:45.548419'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T15:48:08.287885'
+  date: '2025-03-28T18:31:45.548409'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-03-28T16:01:00+00:00'
+  description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nIn\
+    \ this video, I\u2019m going to show you the main principles I use to write code\
+    \ that\u2019s less likely to fail, with of course plenty of Python examples. Watch\
+    \ to find out how to avoid writing brittle functions in Python.\n\n\U0001F4A1\
+    \ Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F525 GitHub Repository: http://git.arjan.codes/2025/brittle.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:29 Do Not Check Type Constraints\n11:09 Value Constraints\n14:21\
+    \ Optional Values\n16:40 Returning None\n19:41 Final thoughts\n20:33 Outro\n\n\
+    #arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/g-Cytq7YDCc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=g-Cytq7YDCc
+  title: I Really HATE Brittle Python Functions
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
@@ -697,10 +716,7 @@
   path: https://www.youtube.com/watch?v=UK_Wja0PTsc
   title: A DRONE Delivers Lunch
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-03-24T16:01:03+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -726,22 +742,6 @@
   path: https://braziljournal.com/opiniao-como-o-mundo-binario-matou-o-debate-de-ideias-e-a-boa-politica/
   title: "OPINI\xC3O. Como o mundo bin\xE1rio matou o debate de ideias (e a boa pol\xED\
     tica)"
-- author: ArjanCodes
-  categories: *id006
-  date: '2025-03-21T16:00:54+00:00'
-  description: "\u2705 Learn how to build robust and scalable software architecture:\
-    \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m going to walk you\
-    \ through how to set up pytest from scratch in a really simple, minimalistic way\
-    \ - Marie Kondo style!\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/2025/simple-pytest.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:26 Step 1: Install Pytest\n1:42 Step 2: Create a Test\
-    \ Directory\n2:21 Step 3: Configure VS Code for Pytest\n5:04 Step 4: Start Writing\
-    \ Tests\n8:45 Step 5: Another Example (List Splitting)\n11:15 Step 6: Running\
-    \ Tests in Pytest\n14:31 Conclusion & Bonus Tips\n15:38 Outro\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i3.ytimg.com/vi/jxqGsJEhiAg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=jxqGsJEhiAg
-  title: This Is How Marie Kondo Sets up Her Pytest
 - author: The Overshoot
   categories: &id008
   - Macro
