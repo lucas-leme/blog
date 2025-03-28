@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-28T02:05:52.597346'
+  date: '2025-03-28T11:07:13.905310'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T02:05:52.596031'
+  date: '2025-03-28T11:07:13.904002'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T02:05:52.596027'
+  date: '2025-03-28T11:07:13.903998'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T02:05:52.596022'
+  date: '2025-03-28T11:07:13.903993'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T02:05:52.596012'
+  date: '2025-03-28T11:07:13.903983'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-03-28T00:00:00+00:00'
+  description: "A journalist was added to a text thread with high-level Trump administration\
+    \ officials revealing plans for the timing and weapons to be used in a military\
+    \ strike against Houthi militants. Administration officials disputed that any\
+    \ classified information about the military operation had been shared. WSJ\u2019\
+    s Nancy Youssef joins the chat with Ryan Knutson and Molly Ball to discuss the\
+    \ fallout of the group chat pinged \u2018round the world.\_  Further Reading:\
+    \ -An Annotated Analysis of Signal Group Chat With Top Trump Officials\_ -Hegseth\
+    \ Comes Under Scrutiny for Texting Strike Details as Fallout Grows\_ -Democrats\
+    \ Are Taking Their Anger Out on Chuck Schumer\_  Further Listening: -Trump\u2019\
+    s Attack on Big Law\_ -Trump\u2019s College Crackdown\_ -Trump 2.0: A Showdown\
+    \ with the Judiciary\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8ae473cbf2efc65b2f8eb508d0
+  path: https://open.spotify.com/episode/2zYlrnIVJjxPMDE6QOyEsp
+  title: 'Trump 2.0: Group Chat Fallout'
 - author: Apricitas Economics
   categories: &id010
   - Macro
@@ -468,7 +486,7 @@
   path: https://www.apricitas.io/p/sure-friends-betrayed
   title: Sure Friends Betrayed
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-03-27T12:20:31+00:00'
   description: This book highlights a cross-section of issues relevant to the current
@@ -495,7 +513,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/interoperability-of-blockchain-systems-and-the-future-of-payments/
   title: Interoperability of Blockchain Systems and the Future of Payments
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-27T00:00:00+00:00'
   description: "[BAIXE GR\xC1TIS O LIVRO DO SUCESSO EMPRESARIAL]\_Inspire-se nas empresas\
@@ -533,8 +551,7 @@
   path: https://open.spotify.com/episode/7KZcXFLNFeavYurOkigMAH
   title: '#199 | SEGREDOS DA MENTE DE UM DOS MAIORES INVESTIDORES DO MUNDO'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-03-27T00:00:00+00:00'
   description: "President Trump\u2019s unprecedented effort to shrink the federal\
     \ labor force is impeding work at government sites across the country. Three laid-off\
@@ -576,7 +593,7 @@
   path: https://rpc.cfainstitute.org/research/surveys/2025/investor-perspectives-intangible-assets
   title: 'Investor Perspectives: Intangible Assets'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-03-26T11:31:52+00:00'
   description: 'Quality of Earnings: By approaching financials with this sharper lens,
     analysts can not only anticipate problems but also identify opportunities that
@@ -585,7 +602,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/26/quality-of-earnings-a-critical-lens-for-financial-analysts/
   title: 'Quality of Earnings: A Critical Lens for Financial Analysts'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-03-26T00:00:00+00:00'
   description: "Os EUA est\xE3o entregando a Ucr\xE2nia para a R\xFAssia?A Ucr\xE2\
     nia acaba de aceitar um cessar-fogo de 30 dias proposto pelos Estados Unidos,\
@@ -622,20 +639,6 @@
   path: https://open.spotify.com/episode/0XHiO1cC8l0lFPDEAsj7XB
   title: "CESSAR-FOGO DA UCR\xC2NIA: O QUE REALMENTE SIGNIFICA PARA A ORDEM MUNDIAL?\
     \ | Corte EP #192"
-- author: The Journal.
-  categories: *id003
-  date: '2025-03-26T00:00:00+00:00'
-  description: "The White House is waging a pressure campaign against some of the\
-    \ country\u2019s most prominent law firms. WSJ\u2019s Erin Mulvaney on how the\
-    \ firm Paul, Weiss came to the decision to make a deal with President Trump. \
-    \ Further Reading:  -Trump Signs Order Targeting Law Firm Jenner & Block\_ -Law\
-    \ Firms Scramble to Avoid Being Trump\u2019s Next Target\_ -Why Law Firm Paul\
-    \ Weiss Pleaded Its Case With Trump, and Not With a Court\_  Further Listening:\
-    \  -Trump 2.0: A Showdown With the Judiciary\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/2eSKEi2pcv6MM6jZJ6YFME
-  title: Trump's Attack on Big Law
 - author: Outliers
   categories: &id009
   - Podcasts
@@ -731,7 +734,7 @@
     \ #python"
   image: https://i3.ytimg.com/vi/jxqGsJEhiAg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=jxqGsJEhiAg
-  title: How to Set Up Pytest Without Headaches
+  title: This Is How Marie Kondo Sets up Her Pytest
 - author: The Overshoot
   categories: &id008
   - Macro
