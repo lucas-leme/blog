@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-28T12:30:51.186891'
+  date: '2025-03-28T13:38:50.418451'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T12:30:51.185577'
+  date: '2025-03-28T13:38:50.417157'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T12:30:51.185573'
+  date: '2025-03-28T13:38:50.417153'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T12:30:51.185568'
+  date: '2025-03-28T13:38:50.417148'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-28T12:30:51.185558'
+  date: '2025-03-28T13:38:50.417138'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2025-03-28T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-to-fca-cp24-30
+  title: "CFA Society UK and CFA Institute Response to FCA\u2019s CP24/30"
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -486,7 +494,7 @@
   path: https://www.apricitas.io/p/sure-friends-betrayed
   title: Sure Friends Betrayed
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-03-27T12:20:31+00:00'
   description: This book highlights a cross-section of issues relevant to the current
@@ -513,7 +521,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/interoperability-of-blockchain-systems-and-the-future-of-payments/
   title: Interoperability of Blockchain Systems and the Future of Payments
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-03-27T00:00:00+00:00'
   description: "[BAIXE GR\xC1TIS O LIVRO DO SUCESSO EMPRESARIAL]\_Inspire-se nas empresas\
@@ -585,15 +593,14 @@
   path: https://open.spotify.com/episode/70pZDiMnDUQaRki9xfkWaB
   title: "Love thy neighbour: South-East Asia\u2019s China problem"
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id002
   date: '2025-03-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/surveys/2025/investor-perspectives-intangible-assets
   title: 'Investor Perspectives: Intangible Assets'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-03-26T11:31:52+00:00'
   description: 'Quality of Earnings: By approaching financials with this sharper lens,
     analysts can not only anticipate problems but also identify opportunities that
@@ -602,7 +609,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/03/26/quality-of-earnings-a-critical-lens-for-financial-analysts/
   title: 'Quality of Earnings: A Critical Lens for Financial Analysts'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-03-26T00:00:00+00:00'
   description: "Os EUA est\xE3o entregando a Ucr\xE2nia para a R\xFAssia?A Ucr\xE2\
     nia acaba de aceitar um cessar-fogo de 30 dias proposto pelos Estados Unidos,\
@@ -654,7 +661,7 @@
   title: "#155 - Os bastidores da evolu\xE7\xE3o dos FIDCs com a BRAVE Asset | Outliers\
     \ InfoMoney"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-03-25T19:30:58+00:00'
@@ -683,14 +690,14 @@
   path: https://www.youtube.com/watch?v=88yQTzlmsiA
   title: The Truth about Drone Deliveries!
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-03-25T13:12:52+00:00'
   description: Drone deliveries are coming
   image: https://i2.ytimg.com/vi/UK_Wja0PTsc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=UK_Wja0PTsc
   title: A DRONE Delivers Lunch
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -702,7 +709,7 @@
   path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
   title: A Mindset Shift for Tech Progress
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id007
   - Economia
   date: '2025-03-23T03:10:31+00:00'
   description: "<p>J\xE1 n\xE3o \xE9 de hoje que as discuss\xF5es pol\xEDticas foram\
@@ -720,7 +727,7 @@
   title: "OPINI\xC3O. Como o mundo bin\xE1rio matou o debate de ideias (e a boa pol\xED\
     tica)"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-03-21T16:00:54+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nIn this video, I\u2019m going to walk you\
@@ -746,7 +753,7 @@
   path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
   title: The Fed Tries to Thread the Stagflation Needle
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id007
   date: '2025-03-20T12:14:03+00:00'
   description: "<p>Passados praticamente quatro meses desde o atrapalhado an\xFAncio\
     \ em cadeia nacional que deixou o mercado incr\xE9dulo e fez o d\xF3lar disparar,\
@@ -761,13 +768,6 @@
   path: https://braziljournal.com/opiniao-no-pl-do-ir-falta-clareza-falta-progressividade-e-falta-reduzir-o-irpj/
   title: "OPINI\xC3O. No PL do IR, falta clareza, falta progressividade (e falta reduzir\
     \ o IRPJ)"
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2025-03-20T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/intrinsic-value
-  title: 'Intrinsic Value: A Solution to the Declining Performance of Value Strategies'
 - author: The Overshoot
   categories: *id008
   date: '2025-03-18T06:48:53+00:00'
