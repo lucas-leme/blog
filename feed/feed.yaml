@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-03-31T11:25:23.598503'
+  date: '2025-03-31T12:12:59.241078'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-31T11:25:23.596748'
+  date: '2025-03-31T12:12:59.239393'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-31T11:25:23.596744'
+  date: '2025-03-31T12:12:59.239390'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-31T11:25:23.596739'
+  date: '2025-03-31T12:12:59.239385'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-03-31T11:25:23.596730'
+  date: '2025-03-31T12:12:59.239375'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-03-31T11:49:24+00:00'
+  description: Explore how the growing convergence of private equity and private debt
+    is transforming risk dynamics, return strategies, and regulatory concerns across
+    the private capital landscape.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/03/31/private-equity-and-private-debt-two-sides-of-the-same-coin/
+  title: 'Private Equity and Private Debt: Two Sides of the Same Coin'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2025-03-31T11:00:00+00:00'
+  description: "Credit cards play a crucial role in U.S. consumer finance, with 74\_\
+    percent of adults having at least one. They serve as the main method of payment\
+    \ for most individuals, accounting for 70 percent of retail spending. They are\
+    \ also the primary source of unsecured borrowing, with 60 percent of accounts\
+    \ carrying a balance from one month to the next. Surprisingly, credit card interest\
+    \ rates are very high, averaging 23\_percent annually in 2023. Indeed, their rates\
+    \ are far higher than the rates on any other major type of loan or bond. Why are\
+    \ credit card rates so high? In our recent <a href=\"https://www.newyorkfed.org/research/staff_reports/sr1143\"\
+    \ rel=\"noreferrer noopener\" target=\"_blank\">research paper</a>, we address\
+    \ this question using granular account-level data on 330 million monthly credit\
+    \ card accounts."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/
+  title: Why Are Credit Card Rates So High?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id007
   - Economia
@@ -590,32 +620,13 @@
   path: https://www.apricitas.io/p/sure-friends-betrayed
   title: Sure Friends Betrayed
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id003
   date: '2025-03-27T12:20:31+00:00'
   description: This book highlights a cross-section of issues relevant to the current
     state of alternative investments.
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/03/27/book-review-themes-in-alternative-investments/
   title: 'Book Review: Themes in Alternative Investments'
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2025-03-27T11:01:00+00:00'
-  description: "In a <a href=\"https://libertystreeteconomics.newyorkfed.org/2025/03/an-interoperability-framework-for-payment-systems/\"\
-    >previous post</a>, we introduced a three-pillar framework for interoperability\
-    \ of payment systems and discussed how technological, legal, and economic factors\
-    \ contribute to achieve interoperability and aid in the \u201Csingleness of money\u201D\
-    \u2014that payments and exchange are not subject to volatility in the value of\
-    \ the money itself\u2014in the context of legacy systems. In this post, we use\
-    \ the framework to characterize the interoperability of blockchain systems and\
-    \ propose a methodology for evaluating interoperability. We show evidence of limited\
-    \ interoperability and draw insights for the future of payment systems."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2025/03/interoperability-of-blockchain-systems-and-the-future-of-payments/
-  title: Interoperability of Blockchain Systems and the Future of Payments
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -674,15 +685,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/70pZDiMnDUQaRki9xfkWaB
   title: "Love thy neighbour: South-East Asia\u2019s China problem"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-03-26T11:31:52+00:00'
-  description: 'Quality of Earnings: By approaching financials with this sharper lens,
-    analysts can not only anticipate problems but also identify opportunities that
-    align with long-term value creation.'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/26/quality-of-earnings-a-critical-lens-for-financial-analysts/
-  title: 'Quality of Earnings: A Critical Lens for Financial Analysts'
 - author: Market Makers
   categories: *id004
   date: '2025-03-26T00:00:00+00:00'
