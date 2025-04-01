@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-01T02:13:47.155990'
+  date: '2025-04-01T11:07:15.170454'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-01T02:13:47.154270'
+  date: '2025-04-01T11:07:15.168698'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-01T02:13:47.154266'
+  date: '2025-04-01T11:07:15.168694'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-01T02:13:47.154261'
+  date: '2025-04-01T11:07:15.168690'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-01T02:13:47.154250'
+  date: '2025-04-01T11:07:15.168680'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: CFA Institute Research and Policy Center
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-04-01T10:41:42+00:00'
+  description: "In our interconnected world, geopolitical events \u2014 ranging from\
+    \ trade disputes and regulatory shifts to conflicts and pandemics \u2014 capture\
+    \ headlines and influence market sentiments. As investment professionals, it&#8217;s\
+    \ crucial for us to understand these dynamics without losing sight of long-term\
+    \ client objectives. At CFA Institute, our role is clear: we educate financial\
+    \ professionals. We [&#8230;]"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/01/geopolitical-change-investors-should-focus-on-the-long-term/
+  title: 'Geopolitical Change: Investors Should Focus on the Long Term'
+- author: CFA Institute Research and Policy Center
+  categories: &id002
   - CFA
   date: '2025-03-31T12:00:00+00:00'
   description: ''
@@ -466,8 +479,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/future-of-the-60-40-allocation
   title: The Future of the 60/40 Allocation
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-03-31T11:49:24+00:00'
   description: Explore how the growing convergence of private equity and private debt
     is transforming risk dynamics, return strategies, and regulatory concerns across
@@ -512,7 +524,7 @@
   path: https://braziljournal.com/damodaran-para-a-maioria-das-empresas-ia-sera-custo-nao-receita/
   title: "Damodaran: \u2018Para a maioria das empresas, IA ser\xE1 custo, n\xE3o receita\u2019"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-03-31T00:00:00+00:00'
   description: "Last year, a popular Utah influencer with six children went to prison\
@@ -584,16 +596,16 @@
     #arjancodes #softwaredesign #python"
   image: https://i4.ytimg.com/vi/g-Cytq7YDCc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=g-Cytq7YDCc
-  title: I Really HATE Brittle Python Functions
+  title: "How to Write Python Functions That Don\u2019t Fall Apart"
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-03-28T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-california-air-resources-board-consultation
   title: Response to California Air Resources Board Consultation on Climate Disclosures
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-03-28T00:00:00+00:00'
   description: "A family of deep-cover Russian spies hiding in the heart of Europe.\
     \ A Slovenian spycatcher with a daunting mission. After months of reporting, WSJ's\
@@ -616,14 +628,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3d2657b-e75b-4a5d-a8a5-1174d205d190_2886x1843.png
   path: https://www.apricitas.io/p/sure-friends-betrayed
   title: Sure Friends Betrayed
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-03-27T12:20:31+00:00'
-  description: This book highlights a cross-section of issues relevant to the current
-    state of alternative investments.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/27/book-review-themes-in-alternative-investments/
-  title: 'Book Review: Themes in Alternative Investments'
 - author: Market Makers
   categories: &id004
   - Podcasts
