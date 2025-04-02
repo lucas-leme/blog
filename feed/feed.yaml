@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-02T13:39:58.273290'
+  date: '2025-04-02T14:48:44.722344'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T13:39:58.271574'
+  date: '2025-04-02T14:48:44.720545'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T13:39:58.271570'
+  date: '2025-04-02T14:48:44.720541'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T13:39:58.271566'
+  date: '2025-04-02T14:48:44.720536'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T13:39:58.271555'
+  date: '2025-04-02T14:48:44.720526'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-04-02T14:00:38+00:00'
+  description: Fear and Uncertainty About Trump's Tariffs are Already Having Negative
+    Effects on the Economy
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31eca15d-fe2d-40a3-b5fd-171f5fc1326c_2886x1843.png
+  path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
+  title: The Cost of Tariff Chaos
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -468,7 +478,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/02/market-concentration-and-lost-decades/
   title: Market Concentration and Lost Decades
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-04-02T07:07:26+00:00'
@@ -700,7 +710,7 @@
   path: https://www.youtube.com/watch?v=hz6oys4Eem4
   title: 'Apple''s AI Crisis: Explained!'
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -719,9 +729,7 @@
   path: https://www.youtube.com/watch?v=g-Cytq7YDCc
   title: I Really HATE Brittle Python Functions
 - author: Apricitas Economics
-  categories: &id010
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-03-27T12:31:16+00:00'
   description: Canada & Mexico Wanted to Anchor US "Friendshoring" Efforts. Instead,
     Trump's Tariffs Risk Throwing Them Into Recessions
@@ -749,7 +757,7 @@
   path: https://open.spotify.com/episode/70pZDiMnDUQaRki9xfkWaB
   title: "Love thy neighbour: South-East Asia\u2019s China problem"
 - author: Outliers
-  categories: &id009
+  categories: &id010
   - Podcasts
   date: '2025-03-26T00:00:00+00:00'
   description: "No epis\xF3dio de n\xFAmero 155 do Outliers InfoMoney,\_ Clara Sodr\xE9\
@@ -763,7 +771,7 @@
   title: "#155 - Os bastidores da evolu\xE7\xE3o dos FIDCs com a BRAVE Asset | Outliers\
     \ InfoMoney"
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-03-24T16:01:03+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -772,7 +780,7 @@
   path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
   title: A Mindset Shift for Tech Progress
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2025-03-21T00:18:24+00:00'
   description: By doing exactly what they were planning to do before, at least for
     now.
@@ -780,7 +788,7 @@
   path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
   title: The Fed Tries to Thread the Stagflation Needle
 - author: Outliers
-  categories: *id009
+  categories: *id010
   date: '2025-03-12T00:00:00+00:00'
   description: "Venture Capital sempre foi um jogo de longo prazo, mas nos \xFAltimos\
     \ anos o mercado passou por uma transforma\xE7\xE3o importante. O boom de liquidez\
@@ -806,14 +814,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0ZuMVxkBCCtUx6tZKWDNqD
   title: 'Beyond 60/40: Private Assets in an Era of High Public Valuations'
-- author: Apricitas Economics
-  categories: *id010
-  date: '2025-03-04T17:57:15+00:00'
-  description: Trump's Tariffs on Mexico, Canada, & China Are the Single-Largest Trade
-    Restriction in Modern US History. That Comes With Massive Economic Costs
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe63c1eae-1dba-4b87-a493-4e0623e1b359_2886x1843.png
-  path: https://www.apricitas.io/p/trumps-blockade-of-america
-  title: Trump's Blockade of America
 - author: Flirting with Models
   categories:
   - Podcasts
