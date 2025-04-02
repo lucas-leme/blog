@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-02T02:07:23.026843'
+  date: '2025-04-02T11:07:12.247831'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T02:07:23.025094'
+  date: '2025-04-02T11:07:12.246067'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T02:07:23.025090'
+  date: '2025-04-02T11:07:12.246064'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T02:07:23.025086'
+  date: '2025-04-02T11:07:12.246060'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-02T02:07:23.025076'
+  date: '2025-04-02T11:07:12.246049'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,26 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-02T11:03:09+00:00'
+  description: Modern portfolio theory has taught professional investors the benefits
+    of diversification. Maybe it is time to diversify in a more intentional way to
+    reduce extreme market concentration.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/02/market-concentration-and-lost-decades/
+  title: Market Concentration and Lost Decades
+- author: The Overshoot
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2025-04-02T07:07:26+00:00'
+  description: 'Goods inflation was already accelerating while job churn had stopped
+    falling. Also: watch out for upward revisions to healthcare inflation.'
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f7af26f-7ef6-4d69-a736-377f90b0a3c4_3200x2910.png
+  path: https://theovershoot.co/p/trying-to-parse-the-pre-liberation
+  title: Trying to Parse the pre-"Liberation Day" Wage/Inflation Dynamics
 - author: "Economia \u2013 Brazil Journal"
   categories: &id003
   - Economia
@@ -482,7 +502,7 @@
   path: https://www.youtube.com/watch?v=mNq_5QWu7uo
   title: PSA
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-04-01T12:00:00+00:00'
   description: ''
@@ -490,8 +510,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-esma-consultation-paper
   title: Response to ESMA Consultation Paper on the Regulatory Technical Standards
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-04-01T10:41:42+00:00'
   description: "In our interconnected world, geopolitical events \u2014 ranging from\
     \ trade disputes and regulatory shifts to conflicts and pandemics \u2014 capture\
@@ -555,21 +574,12 @@
   path: https://open.spotify.com/episode/6A0CR6WWc8Vo0XVnNtivUv
   title: "He Revived Barbie. Now He\u2019s Turning Around Gap"
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-03-31T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/future-of-the-60-40-allocation
   title: The Future of the 60/40 Allocation
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-03-31T11:49:24+00:00'
-  description: Explore how the growing convergence of private equity and private debt
-    is transforming risk dynamics, return strategies, and regulatory concerns across
-    the private capital landscape.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/03/31/private-equity-and-private-debt-two-sides-of-the-same-coin/
-  title: 'Private Equity and Private Debt: Two Sides of the Same Coin'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -675,7 +685,7 @@
     #arjancodes #softwaredesign #python"
   image: https://i4.ytimg.com/vi/g-Cytq7YDCc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=g-Cytq7YDCc
-  title: "How to Write Python Functions That Don\u2019t Fall Apart"
+  title: I Really HATE Brittle Python Functions
 - author: Apricitas Economics
   categories: &id010
   - Macro
@@ -767,24 +777,13 @@
   path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
   title: A Mindset Shift for Tech Progress
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id008
   date: '2025-03-21T00:18:24+00:00'
   description: By doing exactly what they were planning to do before, at least for
     now.
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddacd28e-52b8-4583-932c-baea2c1a013c_3203x2829.png
   path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
   title: The Fed Tries to Thread the Stagflation Needle
-- author: The Overshoot
-  categories: *id008
-  date: '2025-03-18T06:48:53+00:00'
-  description: Banks and credit unions earned free money by borrowing from the Fed's
-    "emergency" program and then lending it back to the Fed (or other banks) at higher
-    rates.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda29f528-27f7-4935-a9f2-1875cc61cdce_3200x2984.png
-  path: https://theovershoot.co/p/inside-the-btfp-subsidy
-  title: Inside the BTFP Subsidy
 - author: Outliers
   categories: *id009
   date: '2025-03-12T00:00:00+00:00'
