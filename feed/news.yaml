@@ -1,6 +1,16 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-04-02T20:36:01+00:00'
+  description: "Decis\xE3o pode desencadear guerra comercial global e aumentar pre\xE7\
+    os para consumidores americanos; Casa Branca defende prote\xE7\xE3o da ind\xFA\
+    stria local"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-anuncia-tarifa-reciproca-de-10-para-o-brasil-china-sera-taxada-em-34/
+  title: "Trump anuncia tarifa \u2018rec\xEDproca\u2019 de 10% para o Brasil; China\
+    \ ser\xE1 taxada em 34%"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-04-02T18:05:15+00:00'
   description: "Executivo n\xE3o revelou os potenciais compradores das aeronaves por\
     \ motivos de confidencialidade"
@@ -9,7 +19,7 @@
   title: "Grupo Airbus projeta a venda de 50 helic\xF3pteros na Am\xE9rica Latina\
     \ nos pr\xF3ximos dois anos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-02T15:58:37+00:00'
   description: "Conhe\xE7a as despesas dedut\xEDveis e o que n\xE3o pode ser abatido"
@@ -18,7 +28,7 @@
   title: "Dedu\xE7\xE3o do Imposto de Renda 2025: quais gastos podem ter o benef\xED\
     cio?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-02T12:15:52+00:00'
   description: "Investidores aguardam pelas tarifas de Trump enquanto ficam de olho\
     \ nos dados da economia americana e o risco de recess\xE3o"
@@ -26,11 +36,3 @@
   path: https://investnews.com.br/financas/criptomoedas-ficam-volateis-e-bitcoin-mantem-os-us-84-mil-em-dia-de-anuncio-das-tarifas-de-trump/
   title: "Criptomoedas ficam vol\xE1teis e bitcoin mant\xE9m os US$ 84 mil em dia\
     \ de an\xFAncio das tarifas de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-03-31T20:18:14+00:00'
-  description: "Saiba quem deve declarar os valores e as al\xEDquotas aplic\xE1veis"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/imposto-de-renda-e-aluguel-de-imovel-quem-declara-e-paga-imposto/
-  title: Como declarar o aluguel recebido no Imposto de Renda 2025? Veja dicas para
-    inquilino e locador
