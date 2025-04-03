@@ -1,6 +1,16 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-04-03T18:42:21+00:00'
+  description: "Trump anunciou uma tarifa de 10% para os produtos brasileiros, enquanto\
+    \ outras economias tiveram taxas maiores, como China, que ficou com 34%, al\xE9\
+    m dos 20% aplicados anteriormente"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-sai-na-frente-com-tarifas-de-trump-mas-stuhlberger-alerta-precisamos-aproveitar/
+  title: "Brasil sai na frente com tarifas de Trump, mas Stuhlberger alerta: \u2018\
+    Precisamos aproveitar\u2019"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-04-03T14:49:51+00:00'
   description: "A Casa Branca criou um malabarismo matem\xE1tico pra tarifar a China\
     \ em 34%, a UE em 20%, o Brasil em 10%... Veja qual \xE9"
@@ -8,17 +18,17 @@
   path: https://investnews.com.br/economia/entenda-a-formula-bizarra-das-tarifas-de-trump/
   title: "20%? 34%? Entenda a f\xF3rmula bizarra que determinou as tarifas de Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-03T14:20:00+00:00'
-  description: "Valor da indeniza\xE7\xE3o \xE9 isento de imposto, mas \xE9 preciso\
-    \ declarar para evitar problemas"
+  description: "Valor da indeniza\xE7\xE3o \xE9 isento de imposto, mas precisa ser\
+    \ informado \xE0 Receita"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/voce-recebeu-dinheiro-do-seguro-de-vida-veja-como-declarar-valores-no-imposto-de-renda-2025/
   title: "Voc\xEA recebeu dinheiro do seguro de vida? Veja como declarar valores no\
     \ Imposto de Renda 2025"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-03T12:08:26+00:00'
   description: "Presidente anunciou tarifas contra dezenas de pa\xEDses e elevou a\
     \ incerteza no mercado cripto, que cai forte nesta quinta"
@@ -26,12 +36,3 @@
   path: https://investnews.com.br/financas/bitcoin-cai-para-us-82-mil-ethereum-recua-4-e-solana-desaba-8-apos-tarifaco-de-trump/
   title: "Bitcoin cai para US$ 82 mil, ethereum recua 4% e solana desaba 8% ap\xF3\
     s tarifa\xE7o de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-03T09:00:00+00:00'
-  description: "Foram 8 milh\xF5es de importados por l\xE1, ante 15,8 milh\xF5es de\
-    \ carros vendidos em 2024; taxa de 25% entrou em vigor nesta quinta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/51-dos-carros-novos-nos-eua-sao-importados-e-agora-pagarao-25-de-tarifa/
-  title: "Tarifa de 25% vai pegar mais da metade dos carros vendidos nos EUA \u2013\
-    \ 51% s\xE3o importados"
