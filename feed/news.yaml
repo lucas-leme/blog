@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-03T14:49:51+00:00'
+  description: "A Casa Branca criou um malabarismo matem\xE1tico pra tarifar a China\
+    \ em 34%, a UE em 20%, o Brasil em 10%... Veja qual \xE9"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/entenda-a-formula-bizarra-das-tarifas-de-trump/
+  title: "20%? 34%? Entenda a f\xF3rmula bizarra que determinou as tarifas de Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Bitcoin cai para US$ 82 mil, ethereum recua 4% e solana desaba 8% ap\xF3\
     s tarifa\xE7o de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-03T09:00:00+00:00'
   description: "Foram 8 milh\xF5es de importados por l\xE1, ante 15,8 milh\xF5es de\
     \ carros vendidos em 2024; taxa de 25% entrou em vigor nesta quinta"
@@ -27,13 +35,3 @@
   path: https://investnews.com.br/economia/51-dos-carros-novos-nos-eua-sao-importados-e-agora-pagarao-25-de-tarifa/
   title: "Tarifa de 25% vai pegar mais da metade dos carros vendidos nos EUA \u2013\
     \ 51% s\xE3o importados"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-02T20:36:01+00:00'
-  description: "Decis\xE3o pode desencadear guerra comercial global e aumentar pre\xE7\
-    os para consumidores americanos; Casa Branca defende prote\xE7\xE3o da ind\xFA\
-    stria local"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-anuncia-tarifa-reciproca-de-10-para-o-brasil-china-sera-taxada-em-34/
-  title: "Trump anuncia tarifa \u2018rec\xEDproca\u2019 de 10% para o Brasil; China\
-    \ ser\xE1 taxada em 34%"
