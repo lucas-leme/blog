@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-03T11:25:27.787093'
+  date: '2025-04-03T12:13:00.999428'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-03T11:25:27.785392'
+  date: '2025-04-03T12:13:00.997656'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-03T11:25:27.785387'
+  date: '2025-04-03T12:13:00.997652'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-03T11:25:27.785382'
+  date: '2025-04-03T12:13:00.997647'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-03T11:25:27.785372'
+  date: '2025-04-03T12:13:00.997637'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-03T11:37:30+00:00'
+  description: This quarter's top reads reveal what's capturing the attention of investment
+    professionals.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/03/top-10-posts-from-q1-valuation-models-inflationary-shocks-private-markets/
+  title: 'Top 10 Posts from Q1: Valuation Models, Inflationary Shocks, Private Markets'
 - author: Apricitas Economics
   categories: &id007
   - Macro
@@ -468,8 +477,7 @@
   path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
   title: The Cost of Tariff Chaos
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2025-04-02T11:03:09+00:00'
   description: Modern portfolio theory has taught professional investors the benefits
     of diversification. Maybe it is time to diversify in a more intentional way to
@@ -567,18 +575,6 @@
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-esma-consultation-paper
   title: Response to ESMA Consultation Paper on the Regulatory Technical Standards
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2025-04-01T10:41:42+00:00'
-  description: "In our interconnected world, geopolitical events \u2014 ranging from\
-    \ trade disputes and regulatory shifts to conflicts and pandemics \u2014 capture\
-    \ headlines and influence market sentiments. As investment professionals, it&#8217;s\
-    \ crucial for us to understand these dynamics without losing sight of long-term\
-    \ client objectives. At CFA Institute, our role is clear: we educate financial\
-    \ professionals. We [&#8230;]"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/01/geopolitical-change-investors-should-focus-on-the-long-term/
-  title: 'Geopolitical Change: Investors Should Focus on the Long Term'
 - author: Market Makers
   categories: *id002
   date: '2025-04-01T00:00:00+00:00'
