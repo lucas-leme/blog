@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-04T14:48:09.902556'
+  date: '2025-04-04T15:49:01.276814'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T14:48:09.900816'
+  date: '2025-04-04T15:49:01.275074'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T14:48:09.900812'
+  date: '2025-04-04T15:49:01.275069'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T14:48:09.900808'
+  date: '2025-04-04T15:49:01.275064'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T14:48:09.900798'
+  date: '2025-04-04T15:49:01.275054'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: ArjanCodes
+  categories: &id008
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-04-04T15:00:34+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nYou've probably heard a lot of people argue against coupling. But the problem\
+    \ is that you actually need it. In this video, I\u2019m going to show you 3 examples\
+    \ of bad coupling and then show you how to refactor them into not-as-bad coupling.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/coupling-hard.\n\n\
+    \U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:29 Global Coupling\n7:49 Content Coupling\n13:35 Stamp\
+    \ Coupling\n19:50 Final Thoughts\n20:12 Outro\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/MM9VQp-k0JQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=MM9VQp-k0JQ
+  title: 'Coupling 101: Design Choices That Make or Break Your Code'
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -623,7 +640,7 @@
   path: https://open.spotify.com/episode/4Ufj9AGyFjesn8FamLfcB2
   title: "Import-extort: what to make of Donald Trump\u2019s titanic tariffs"
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-04-02T14:00:38+00:00'
@@ -724,10 +741,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/
   title: Why Are Credit Card Rates So High?
 - author: ArjanCodes
-  categories: &id009
-  - Tech
-  - Code
-  - Youtube
+  categories: *id008
   date: '2025-03-28T16:01:00+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nIn\
     \ this video, I\u2019m going to show you the main principles I use to write code\
@@ -743,7 +757,7 @@
   path: https://www.youtube.com/watch?v=g-Cytq7YDCc
   title: "How to Write Python Functions That Don\u2019t Fall Apart"
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-03-27T12:31:16+00:00'
   description: Canada & Mexico Wanted to Anchor US "Friendshoring" Efforts. Instead,
     Trump's Tariffs Risk Throwing Them Into Recessions
@@ -764,15 +778,6 @@
   path: https://open.spotify.com/episode/3XCozChUkiUnWk83oD6Vbd
   title: "#155 - Os bastidores da evolu\xE7\xE3o dos FIDCs com a BRAVE Asset | Outliers\
     \ InfoMoney"
-- author: ArjanCodes
-  categories: *id009
-  date: '2025-03-24T16:01:03+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/mwlL4ZbNh1Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
-  title: A Mindset Shift for Tech Progress
 - author: Outliers
   categories: *id010
   date: '2025-03-12T00:00:00+00:00'
