@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-04T11:25:01.007830'
+  date: '2025-04-04T12:12:55.434312'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T11:25:01.006112'
+  date: '2025-04-04T12:12:55.432552'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T11:25:01.006109'
+  date: '2025-04-04T12:12:55.432548'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T11:25:01.006105'
+  date: '2025-04-04T12:12:55.432544'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-04T11:25:01.006095'
+  date: '2025-04-04T12:12:55.432534'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2025-04-04T12:04:23+00:00'
+  description: This is bad policy, executed thoughtlessly. But it is worth thinking
+    through exactly *why* it is bad.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09097f4-cac4-44a0-a4ae-c895a934630e_3200x2915.png
+  path: https://theovershoot.co/p/how-to-think-about-the-tariffs
+  title: How to Think About the Tariffs
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -489,7 +499,7 @@
   path: https://open.spotify.com/episode/66tecoFRvFWZD2aZJemVHV
   title: 'Trump 2.0: Trade Wars and Deportation Battles'
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-04-03T22:49:16+00:00'
@@ -541,7 +551,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/03/top-10-posts-from-q1-valuation-models-inflationary-shocks-private-markets/
   title: 'Top 10 Posts from Q1: Valuation Models, Inflationary Shocks, Private Markets'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-04-03T00:00:00+00:00'
   description: "No epis\xF3dio 201 do Market Makers, recebemos M\xF4nica Saccarelli,\
@@ -613,7 +623,7 @@
   path: https://open.spotify.com/episode/4Ufj9AGyFjesn8FamLfcB2
   title: "Import-extort: what to make of Donald Trump\u2019s titanic tariffs"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-04-02T14:00:38+00:00'
@@ -632,9 +642,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/02/market-concentration-and-lost-decades/
   title: Market Concentration and Lost Decades
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2025-04-02T07:07:26+00:00'
   description: 'Goods inflation was already accelerating while job churn had stopped
     falling. Also: watch out for upward revisions to healthcare inflation.'
@@ -642,7 +650,7 @@
   path: https://theovershoot.co/p/trying-to-parse-the-pre-liberation
   title: Trying to Parse the pre-"Liberation Day" Wage/Inflation Dynamics
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-04-02T00:00:00+00:00'
   description: "O Brasil est\xE1 prestes a explodir financeiramente? O que o investidor\
     \ deve fazer agora?Os investidores enfrentam um dilema: apostar no futuro do Brasil\
@@ -674,14 +682,14 @@
   title: "D\xD3LAR, BOLSA OU RENDA FIXA: ONDE COLOCAR SEU DINHEIRO AGORA? | Corte\
     \ EP #191"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-04-01T13:02:22+00:00'
   description: ''
   image: https://i2.ytimg.com/vi/mNq_5QWu7uo/hqdefault.jpg
   path: https://www.youtube.com/watch?v=mNq_5QWu7uo
   title: PSA
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-04-01T12:00:00+00:00'
   description: ''
@@ -689,7 +697,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-esma-consultation-paper
   title: Response to ESMA Consultation Paper on the Regulatory Technical Standards
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-03-31T12:00:00+00:00'
   description: ''
   image: null
@@ -716,7 +724,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/03/why-are-credit-card-rates-so-high/
   title: Why Are Credit Card Rates So High?
 - author: ArjanCodes
-  categories: &id008
+  categories: &id009
   - Tech
   - Code
   - Youtube
@@ -735,7 +743,7 @@
   path: https://www.youtube.com/watch?v=g-Cytq7YDCc
   title: "How to Write Python Functions That Don\u2019t Fall Apart"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2025-03-27T12:31:16+00:00'
   description: Canada & Mexico Wanted to Anchor US "Friendshoring" Efforts. Instead,
     Trump's Tariffs Risk Throwing Them Into Recessions
@@ -757,7 +765,7 @@
   title: "#155 - Os bastidores da evolu\xE7\xE3o dos FIDCs com a BRAVE Asset | Outliers\
     \ InfoMoney"
 - author: ArjanCodes
-  categories: *id008
+  categories: *id009
   date: '2025-03-24T16:01:03+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \n\U0001F393 Check out my courses: https://arjan.codes/courses.\n\n#arjancodes\
@@ -765,14 +773,6 @@
   image: https://i2.ytimg.com/vi/mwlL4ZbNh1Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=mwlL4ZbNh1Q
   title: A Mindset Shift for Tech Progress
-- author: The Overshoot
-  categories: *id009
-  date: '2025-03-21T00:18:24+00:00'
-  description: By doing exactly what they were planning to do before, at least for
-    now.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fddacd28e-52b8-4583-932c-baea2c1a013c_3203x2829.png
-  path: https://theovershoot.co/p/the-fed-tries-to-thread-the-stagflation
-  title: The Fed Tries to Thread the Stagflation Needle
 - author: Outliers
   categories: *id010
   date: '2025-03-12T00:00:00+00:00'
