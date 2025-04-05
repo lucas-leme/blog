@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-04T21:40:48+00:00'
+  description: Mais da metade dos CDBs do banco vencem em 2025
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/cdbs-do-master-ainda-pagam-retorno-acima-do-mercado-vale-a-pena-investir/
+  title: CDBs do Master ainda pagam retorno acima do mercado. Vale a pena investir?
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,20 +26,10 @@
   path: https://investnews.com.br/economia/cobre-tem-maior-queda-em-5-anos-com-tarifas-atingindo-metais-e-mineradoras/
   title: Cobre tem maior queda em 5 anos com tarifas atingindo metais e mineradoras
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-04T15:21:02+00:00'
   description: "Saiba as diferen\xE7as entre dependente e alimentando e como incluir\
     \ dados na declara\xE7\xE3o"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/declarar-dependentes-imposto-renda/
   title: 'Dependentes no Imposto de Renda 2024: quem pode ser e como declarar'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-04T12:58:24+00:00'
-  description: "Os dois principais eventos da semana, tarifas de Trump e Payroll,\
-    \ n\xE3o trouxeram al\xEDvio ao mercado e criptomoedas ficam no vermelho na semana"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-cai-na-semana-com-indefinicao-apos-tarifaco-de-trump-e-dados-economicos/
-  title: "Bitcoin cai na semana com indefini\xE7\xE3o ap\xF3s tarifa\xE7o de Trump\
-    \ e dados econ\xF4micos"
