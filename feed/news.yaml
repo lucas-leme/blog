@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-05T13:17:32+00:00'
+  description: "A solu\xE7\xE3o para o banco Master pode estar na pauta, segundo fontes"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/galipolo-reune-com-ceos-de-bradesco-itau-santander-btg-e-fgc-neste-sabado/
+  title: "Gal\xEDpolo re\xFAne com CEOs de Bradesco, Ita\xFA, Santander, BTG e FGC\
+    \ neste s\xE1bado"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -7,8 +16,7 @@
   path: https://investnews.com.br/financas/cdbs-do-master-ainda-pagam-retorno-acima-do-mercado-vale-a-pena-investir/
   title: CDBs do Master ainda pagam retorno acima do mercado. Vale a pena investir?
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-04T17:37:32+00:00'
   description: "Com promessas bilion\xE1rias, token $EIKE \xE9 alvo de suspens\xE3\
     o por poss\xEDvel oferta irregular a investidores brasileiros"
@@ -16,15 +24,6 @@
   path: https://investnews.com.br/economia/cripto-de-eike-batista-e-suspensa-pela-cvm-bastidores-do-projeto-expoem-rede-de-promessas-e-polemicas/
   title: "Cripto de Eike Batista \xE9 suspensa pela CVM; bastidores do projeto exp\xF5\
     em rede de promessas e pol\xEAmicas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-04T16:42:26+00:00'
-  description: "Movimento ocorreu depois que a ag\xEAncia oficial de not\xEDcias chinesa\
-    \ Xinhua informou que Pequim retaliar\xE1 com uma tarifa de 34% sobre todas as\
-    \ importa\xE7\xF5es dos EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cobre-tem-maior-queda-em-5-anos-com-tarifas-atingindo-metais-e-mineradoras/
-  title: Cobre tem maior queda em 5 anos com tarifas atingindo metais e mineradoras
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-04-04T15:21:02+00:00'
