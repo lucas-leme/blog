@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-07T12:31:12.672826'
+  date: '2025-04-07T13:40:30.141078'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-07T12:31:12.671099'
+  date: '2025-04-07T13:40:30.139330'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-07T12:31:12.671096'
+  date: '2025-04-07T13:40:30.139326'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-07T12:31:12.671091'
+  date: '2025-04-07T13:40:30.139320'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-07T12:31:12.671081'
+  date: '2025-04-07T13:40:30.139310'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-04-07T13:07:09+00:00'
+  description: Your retirement should be more than an exit. It should be a launch.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/07/financial-independence-retire-early-fire-vs-meaningful-retirement-choose-wisely/
+  title: 'Financial Independence, Retire Early (FIRE) vs. Meaningful Retirement: Choose
+    Wisely'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -478,7 +487,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/monetary-policy-spillovers-and-the-role-of-the-dollar/
   title: Monetary Policy Spillovers and the Role of the Dollar
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-05T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, recebemos J\xFAlio C\xE9sar, do\
@@ -627,8 +636,7 @@
   path: https://www.youtube.com/watch?v=K3CR6RiWS2U
   title: 'Nintendo Switch 2 Impressions: One Big Asterisk!'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2025-04-03T11:37:30+00:00'
   description: This quarter's top reads reveal what's capturing the attention of investment
     professionals.
@@ -636,7 +644,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/03/top-10-posts-from-q1-valuation-models-inflationary-shocks-private-markets/
   title: 'Top 10 Posts from Q1: Valuation Models, Inflationary Shocks, Private Markets'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-04-03T00:00:00+00:00'
   description: "No epis\xF3dio 201 do Market Makers, recebemos M\xF4nica Saccarelli,\
     \ que criou duas empresas que mudaram o mercado financeiro brasileiro: a Rico\
@@ -700,15 +708,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31eca15d-fe2d-40a3-b5fd-171f5fc1326c_2886x1843.png
   path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
   title: The Cost of Tariff Chaos
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-04-02T11:03:09+00:00'
-  description: Modern portfolio theory has taught professional investors the benefits
-    of diversification. Maybe it is time to diversify in a more intentional way to
-    reduce extreme market concentration.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/02/market-concentration-and-lost-decades/
-  title: Market Concentration and Lost Decades
 - author: The Overshoot
   categories: *id005
   date: '2025-04-02T07:07:26+00:00'
