@@ -1,3 +1,11 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-07T17:16:45+00:00'
+  description: "Amea\xE7a de Trump contra a China derruba bolsas americanas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/ameaca-de-trump-de-taxas-china-em-mais-50-derruba-mercados-no-mundo/
+  title: "Trump amea\xE7a China com mais 50% de taxas e nega adiamento das tarifas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,23 +16,13 @@
   path: https://investnews.com.br/financas/bitcoin-desaba-7-e-mercado-cripto-perde-us-200-bilhoes-em-um-dia/
   title: "Bitcoin desaba 7% e mercado cripto perde US$ 200 bilh\xF5es em um dia"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-07T10:52:17+00:00'
   description: "Os mercados apostam no risco crescente de uma recess\xE3o nos EUA"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/questionado-sobre-mercados-trump-diz-que-as-vezes-e-preciso-tomar-remedio/
   title: "Questionado sobre mercados, Trump diz que \xE0s vezes \xE9 preciso \u201C\
     tomar rem\xE9dio\u201D"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-07T10:44:16+00:00'
-  description: "O presidente Trump anunciou no fim de semana decis\xE3o de manter\
-    \ suas tarifas comerciais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mercados-em-queda-livre-tres-dias-de-vendas-eliminam-us-95-trilhoes/
-  title: "Mercados em queda livre: tr\xEAs dias de vendas eliminam US$ 9,5 trilh\xF5\
-    es"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-04-07T10:03:00+00:00'
