@@ -1,0 +1,147 @@
+---
+title: "Gestão de Títulos Públicos"
+author: "Lucas Leme Santos"
+image: "https://www.ineteconomics.org/uploads/featured/iStock-1270042529.jpg"
+date: "2023-10-29"
+categories: [macro, pib]
+toc: true
+toc_sticky: true
+execute:
+    echo: false
+    freeze: auto
+
+lang: pt-BR
+---
+
+## Características dos Títulos Públicos
+
+Os títulos públicos são ativos financeiros que representam uma promessa de pagamento futuro acrescida de juros, refletindo o valor do dinheiro ao longo do tempo. Esse pagamento pode ocorrer de diferentes formas, dependendo das características do título, como pagamentos periódicos (cupom) ou pagamento único no vencimento. Além disso, os títulos podem ser classificados como prefixados, pós-fixados ou híbridos, dependendo de como a rentabilidade é calculada. Ou seja, os juros podem ser definidos no momento da compra ou podem variar ao longo do tempo, atrelados a um índice de preços, como o IPCA.
+
+Dada a natureza de uma promessa de pagamento é possível cálcular diversas métricas, o que será abordado a seguir.
+
+### Preço Unitário (PU)
+
+O preço unitário de um título é calculado com base na taxa de juros negociada e o fluxo de pagamentos futuros.
+
+$$
+PU = \sum_{t=1}^{n} \frac{\textnormal{Cupom}}{(1 + i)^t} + \frac{\textnormal{Face}}{(1 + i)^n}
+$$
+
+Sendo, $i$ a taxa de juros, $n$ o número de períodos até o vencimento, $t$ o período em questão, $Cupom$ o pagamento periódico e $Face$ o valor de pagamento no vencimento.
+
+Importante notar que o preço unitário é inversamente proporcional à taxa de juros. Quando a taxa de juros aumenta, o preço unitário diminui e vice-versa.
+
+### Duration
+
+Outro conceito relevante é a duration, que mede o tempo médio ponderado até o recebimento dos fluxos de caixa de um título. A duration também pode ser vista como uma medida de risco de taxa de juros, pois quanto maior a duration, maior a sensibilidade do preço do título a variações nas taxas de juros.
+
+O tempo médio podendera também é chamado de Duration de Macaulay, que é calculada como:
+
+$$
+D = \frac{\sum_{t=1}^{n} t \cdot \frac{\textnormal{Cupom}}{(1 + i)^t} + n \cdot \frac{\textnormal{Face}}{(1 + i)^n}}{PU}
+$$
+
+Visto que os títulos públicos possuem um vencimento fixo, há dois risco ao investir: Risco de taxa de juros e Risco de Reinvestimento. O primeiro refere-se à possibilidade de desvalorização do título devido a uma alta nas taxas de juros, enquanto o segundo diz respeito é relacionado à possibilidade de reinvestir os pagamentos de juros a uma taxa inferior à taxa original do título.
+
+E uma interessante propriedade da Duration de Macaulay é que caso o horizonte de investimento do investidor seja igual à duration do título, os riscos de taxa de juros e reinvestimento se dissipam. Ou seja, caso a taxa de juros aumentem, o pagamento de cupom será maior e irá compensar a desvalorização do título por causa da alta da taxa de juros. E caso a taxa de juros diminuam, o pagamento de cupom será menor, mas o preço do título irá aumentar, compensando a perda do pagamento de cupom.
+
+Outra métrica importante é a Duration Modificada, que ajusta a duration de Macaulay para refletir a sensibilidade do preço do título a variações nas taxas de juros. A Duration Modificada é calculada como:
+
+$$
+D_{mod} = \frac{D}{1 + i}
+$$
+
+A Duration Modificada mede a variação percentual no PU do título para uma variação de 1% na taxa de juros. Por exemplo, se a Duration Modificada de um título for 5, isso significa que uma variação de 1% na taxa de juros resultará em uma variação de aproximadamente 5% no preço do título.
+
+Títulos sem cupom têm Duration Modificada igual ao prazo de vencimento, pois o único fluxo de caixa ocorre no final. Já títulos com cupom têm Duration Modificada menor, pois os pagamentos periódicos reduzem a sensibilidade do preço às variações nas taxas de juros, visto que o investidor recebe pagamentos ao longo do tempo.
+
+### Convexidade
+
+A convexidade é uma medida que complementa a Duration Modificada, pois a variação do PU não é linear em relação à taxa de juros, ou seja, em um título com Duration Modificada de 5, uma variação de 1% na taxa de juros não necessariamente resultará em uma variação de 5% no preço do título pois há um efeito não linear. A convexidade mede essa não linearidade e é calculada como:
+
+$$
+C \approx \frac{PU_{+} + PU_{-} - 2 \cdot PU}{(PU \cdot \Delta i)^2}
+$$
+
+Onde $PU_{+}$ e $PU_{-}$ são os preços unitários do título com uma variação positiva e negativa na taxa de juros, respectivamente, e $\Delta i$ é a variação na taxa de juros.
+
+A convexidade é uma medida importante para investidores que buscam proteger seus portfólios contra variações nas taxas de juros. Quanto maior a convexidade, menor será a variação percentual no preço do título em resposta a uma variação na taxa de juros. Isso significa que títulos com maior convexidade tendem a ser menos sensíveis às flutuações das taxas de juros, proporcionando uma proteção adicional ao investidor.
+
+A variação percentual no preço do título considerando a Duration Modificada e a convexidade pode ser aproximada pela seguinte fórmula:
+
+$$
+\Delta PU \approx -D_{mod} \cdot \Delta i + \frac{1}{2} C \cdot (\Delta i)^2
+$$
+
+A convexidade impacta positivamente o PU dos títulos, reduzindo perdas em altas de juros e ampliando ganhos em quedas.
+
+### Outras Métricas de Risco
+
+A Duration também pode ser intepretada como uma derivada do preço em relação à taxa de juros, ou seja, a variação percentual no preço do título em relação a uma variação na taxa de juros. Com essa mesma lógica é possível calcular outras métricas
+em relação ao tempo, juro nominal, juro real e inflação implícita.
+
+## Tipos de Instrumentos de Renda Fixa no Brasil
+
+O governo brasileiro emite diversos tipos de títulos públicos, cada um com características específicas.
+
+::: {.callout-note}
+Um conceito relevante na precificação dos títulos é o Valor Nominal Atualizado (VNA), que é um índice acumulado que reflete a valorização diária de um indexador, como a Selic ou o IPCA.
+:::
+
+### LFT
+
+A Letra Financeira do Tesouro (LFT) é um título pós-fixado atrelado à Selic, com rendimento calculado pela variação da taxa Selic e pagamento no vencimento. É considerado de baixo risco, pois acompanha a taxa básica de juros da economia. Além disso, no mercado secundário, a LFT pode ser negociada com um prêmio ou desconto que é a taxa negociada.
+
+O PU da LFT é dado por:
+
+$$
+PU = \frac{VNA}{(1 + i)^{(t/252)}}
+$$
+
+Onde $VNA$ é o valor nominal atualizado, $i$ é o prêmio ou desconto negociado e $t$ é o número de dias até o vencimento.
+
+### LTN
+
+A Letra do Tesouro Nacional (LTN) é um título prefixado, com rendimento definido no momento da compra e pagamento no vencimento. O PU da LTN é calculado com base na taxa de juros negociada.
+
+$$
+PU = \frac{1000}{(1 + i)^{(t/252)}}
+$$
+
+Sendo $i$ a taxa de juros negociada e $t$ o número de dias até o vencimento. No vencimento, a LTN paga o valor nominal de R$ 1.000,00.
+
+### NTN-B
+
+A Nota do Tesouro Nacional série B (NTN-B) é um título híbrido, com rendimento atrelado ao IPCA e uma taxa de juros prefixada. O pagamento é semestral e o VNA é atualizado pela variação do IPCA. O PU da NTN-B é calculado com base na taxa de juros negociada e no VNA.
+
+$$
+PU = (\sum_{t=1}^{n} \frac{(1 + C)^{(6/12)}-1}{(1 + i)^{(t/252)}} + \frac{1}{(1 + i)^{(t/252)}})VNA
+$$
+
+Onde $C$ é o valor percentual do cupom, $i$ é a taxa de juros real negociada, $t$ é o número de dias até o vencimento e $n$ é o número de pagamentos semestrais restantes. No vencimento, além do pagamento de cupom há o pagamento do principal.
+
+### Futuro de DI
+
+O futuro de DI é um derivativo que tem como ativo subjacente a taxa de juros DI, que é a taxa média de juros praticada entre os bancos para empréstimos de um dia. A precificação é semelhante à LTN, porém com um valor nominal de R$ 100.000,00:
+
+$$
+PU = \frac{100.000}{(1 + i)^{(t/252)}}
+$$
+
+Sendo $i$ a taxa de juro nominal.
+
+Uma vantagem do derivativo é a possibilidade de operar em ambas as direções, ou seja, é possível comprar e vender contratos futuros de DI, permitindo que o investidor realiza operações de hedge ou especulação com base em sua expectativa de alta ou baixa nas taxas de juros nominais.
+
+### Futuro de DAP
+
+O futuro de cupom de IPCA é um derivativo que tem como ativo subjacente a taxa de juros real, que é a taxa de juros descontando a inflação. Diferentemente da NTN-B, nesse instrumento é negociada a taxa de juro real sem o pagamento de cupom. 
+
+$$
+PU = \frac{100.000}{(1 + i)^{(t/252)}}
+$$
+
+Sendo $i$ a taxa de juro real.
+
+No cálculo do ajuste diário, além da variação da taxa de juros real, é considerada variação do IPCA, semelhante ao VNA da NTN-B.
+
+Além da flexibilidade de operar em ambas as direções, há uma vantagem operacional relacionada à duration do instrumento. Isso ocorre porque a taxa negociada é o juro real sem cupom, o que torna mais simples construir posições com outros ativos, como futuros de DI. Essa simplicidade se deve ao fato de que a duration será sempre igual ao prazo até o vencimento.
