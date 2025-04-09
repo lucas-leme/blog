@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-09T09:30:00+00:00'
+  description: "Os descontos em rela\xE7\xE3o ao valor patrimonial dos fundos imobili\xE1\
+    rios chega a 35%. Entenda o fen\xF4meno"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/fundos-imobiliarios-cotas-la-em-baixo-valor-dos-imoveis-la-em-cima-hora-de-aproveitar/
+  title: "Fundos imobili\xE1rios: cotas l\xE1 em baixo, valor dos im\xF3veis l\xE1\
+    \ em cima. Hora de aproveitar?"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -21,8 +31,7 @@
   title: "EUA devem impor tarifas adicionais \xE0 China a partir de quarta-feira,\
     \ diz autoridade da Casa Branca"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-08T15:20:04+00:00'
   description: "Com apreens\xF5es em esquemas ilegais e projetos para construir reservas,\
     \ esses pa\xEDses hoje somam bilh\xF5es de d\xF3lares em bitcoins"
@@ -30,12 +39,3 @@
   path: https://investnews.com.br/financas/7-paises-possuem-juntos-mais-de-500-mil-bitcoins-entesourados-confira-a-lista/
   title: "7 pa\xEDses possuem, juntos, mais de 500 mil bitcoins entesourados; confira\
     \ a lista"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-08T12:07:15+00:00'
-  description: "Criptomoedas tentam recupera\xE7\xE3o ap\xF3s forte queda de ontem,\
-    \ mas clima de tens\xE3o com guerra comercial continua"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-e-tenta-recuperar-os-us-80-mil-enquanto-outras-criptomoedas-saltam-ate-13/
-  title: "Bitcoin sobe e tenta recuperar os US$ 80 mil, enquanto outras criptomoedas\
-    \ saltam at\xE9 13%"
