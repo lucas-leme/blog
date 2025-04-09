@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-09T18:31:26.273057'
+  date: '2025-04-09T20:28:40.630339'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T18:31:26.271313'
+  date: '2025-04-09T20:28:40.628587'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T18:31:26.271308'
+  date: '2025-04-09T20:28:40.628584'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T18:31:26.271290'
+  date: '2025-04-09T20:28:40.628579'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T18:31:26.271280'
+  date: '2025-04-09T20:28:40.628569'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -458,7 +458,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-04-09T15:25:41+00:00'
   description: "<p>Safe haven no more. \xC9 o pior dos mundos: a\xE7\xF5es mergulhando\
@@ -475,7 +475,7 @@
   title: "\u201CUm mercado emergente problem\xE1tico\u201D: Caos de Trump implode\
     \ os Treasuries"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-04-09T15:09:32+00:00'
   description: Endowments heavily invested in alternatives are falling well behind
@@ -512,8 +512,21 @@
   title: "#203 | COMO TRUMP PODE CAUSAR O PR\xD3XIMO COLAPSO GLOBAL? E O QUE MUDA\
     \ NO MUNDO?"
 - author: The Journal.
-  categories: &id003
+  categories: &id001
   - Podcasts
+  date: '2025-04-09T00:00:00+00:00'
+  description: "President Trump has a new vision for the Environmental Protection\
+    \ Agency that significantly rolls back environmental regulations. Kate Linebaugh\
+    \ speaks to the man overseeing that vision\u2014 Administrator Lee Zeldin, about\
+    \ his plans and new approach to environmental governance.\_  Further Listening:\
+    \ - The Fight Over Fluoride\_ - Hot, Dry and Booming: A Texas Climate Case Study\_\
+    \ - Why Microsoft Wants Three Mile Island's Nuclear Power\_  Sign up for WSJ\u2019\
+    s free What\u2019s News newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/5sNWsRKmJSgXLYBob5S3p5
+  title: The Head of the EPA on the Future of the Agency
+- author: The Journal.
+  categories: *id001
   date: '2025-04-08T00:00:00+00:00'
   description: "President Trump is ramping up his long-planned tariff war, promising\
     \ to restore \u201CBoomtown USA.\u201D Before the start of the president\u2019\
@@ -528,7 +541,7 @@
   path: https://open.spotify.com/episode/0HXmH6cJTrsiXgUY4O7pC2
   title: 'The Tariff Trade Off: Jobs vs. Higher Prices'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-04-07T22:24:12+00:00'
   description: "<p>Tit\xE3s de Wall Street que vinham evitando criticar Donald Trump\
     \ publicamente alertaram que os EUA poder\xE3o mergulhar em uma recess\xE3o profunda\
@@ -544,7 +557,7 @@
   title: "Wall Street teme a recess\xE3o. Trump diz que n\xE3o \xE9 hora de \u2018\
     panicar\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-04-07T13:07:09+00:00'
   description: Your retirement should be more than an exit. It should be a launch.
   image: null
@@ -571,21 +584,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/monetary-policy-spillovers-and-the-role-of-the-dollar/
   title: Monetary Policy Spillovers and the Role of the Dollar
-- author: The Journal.
-  categories: *id003
-  date: '2025-04-07T00:00:00+00:00'
-  description: "Last week, U.S. stocks lost $6.6 trillion in value during a two-day\
-    \ washout after President Trump announced large tariffs on countries around the\
-    \ world. As markets continue to swing, Wall Street leaders are speaking out, including\
-    \ billionaire investor Bill Ackman and JPMorgan Chase executive Jamie Dimon. Host\
-    \ Kate Linebaugh talks with Gregory Zuckerman about the market  chaos and how\
-    \ investors are responding.\_  Further Listening:  -Trump\u2019s Tariffs Force\
-    \ a New Era in Global Trade\_ -Trump 2.0: Trade Wars and Deportation Battles\_\
-    \  Sign up for WSJ\u2019s free What\u2019s News newsletter .   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/60Lm8CpYa1Ks1QbVkIkdVn
-  title: Wall Street Speaks Out Against Tariffs
 - author: Market Makers
   categories: *id004
   date: '2025-04-05T00:00:00+00:00'
