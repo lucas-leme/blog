@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-09T14:50:26.506312'
+  date: '2025-04-09T15:49:02.139293'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T14:50:26.504602'
+  date: '2025-04-09T15:49:02.137524'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T14:50:26.504598'
+  date: '2025-04-09T15:49:02.137520'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T14:50:26.504593'
+  date: '2025-04-09T15:49:02.137515'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-09T14:50:26.504583'
+  date: '2025-04-09T15:49:02.137505'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,34 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: Market Makers
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-04-09T15:25:41+00:00'
+  description: "<p>Safe haven no more. \xC9 o pior dos mundos: a\xE7\xF5es mergulhando\
+    \ e Treasuries desabando. Em um movimento contr\xE1rio ao que seria esperado em\
+    \ uma economia rumando para a recess\xE3o, os yields dos t\xEDtulos longos dos\
+    \ EUA dispararam. Uma avalia\xE7\xE3o \xE9 que, no atual ambiente de incertezas\
+    \ extremas, os investidores est\xE3o questionando o status de porto [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/um-mercado-emergente-problematico-caos-de-trump-implode-os-treasuries/\"\
+    \ rel=\"nofollow\">\u201CUm mercado emergente problem\xE1tico\u201D: Caos de Trump\
+    \ implode os Treasuries</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/um-mercado-emergente-problematico-caos-de-trump-implode-os-treasuries/
+  title: "\u201CUm mercado emergente problem\xE1tico\u201D: Caos de Trump implode\
+    \ os Treasuries"
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2025-04-09T15:09:32+00:00'
+  description: Endowments heavily invested in alternatives are falling well behind
+    low-cost indexed portfolios.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/09/big-funds-small-gains-rethinking-the-endowment-playbook/
+  title: 'Big Funds, Small Gains: Rethinking the Endowment Playbook'
+- author: Market Makers
+  categories: &id004
   - Podcasts
   date: '2025-04-09T00:00:00+00:00'
   description: "Como as tarifas do Trump destru\xEDram o com\xE9rcio global? Neste\
@@ -486,7 +512,7 @@
   title: "#203 | COMO TRUMP PODE CAUSAR O PR\xD3XIMO COLAPSO GLOBAL? E O QUE MUDA\
     \ NO MUNDO?"
 - author: The Journal.
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2025-04-08T00:00:00+00:00'
   description: "President Trump is ramping up his long-planned tariff war, promising\
@@ -502,8 +528,7 @@
   path: https://open.spotify.com/episode/0HXmH6cJTrsiXgUY4O7pC2
   title: 'The Tariff Trade Off: Jobs vs. Higher Prices'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id001
   date: '2025-04-07T22:24:12+00:00'
   description: "<p>Tit\xE3s de Wall Street que vinham evitando criticar Donald Trump\
     \ publicamente alertaram que os EUA poder\xE3o mergulhar em uma recess\xE3o profunda\
@@ -519,8 +544,7 @@
   title: "Wall Street teme a recess\xE3o. Trump diz que n\xE3o \xE9 hora de \u2018\
     panicar\u2019"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2025-04-07T13:07:09+00:00'
   description: Your retirement should be more than an exit. It should be a launch.
   image: null
@@ -548,7 +572,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/monetary-policy-spillovers-and-the-role-of-the-dollar/
   title: Monetary Policy Spillovers and the Role of the Dollar
 - author: The Journal.
-  categories: *id001
+  categories: *id003
   date: '2025-04-07T00:00:00+00:00'
   description: "Last week, U.S. stocks lost $6.6 trillion in value during a two-day\
     \ washout after President Trump announced large tariffs on countries around the\
@@ -563,7 +587,7 @@
   path: https://open.spotify.com/episode/60Lm8CpYa1Ks1QbVkIkdVn
   title: Wall Street Speaks Out Against Tariffs
 - author: Market Makers
-  categories: *id002
+  categories: *id004
   date: '2025-04-05T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, recebemos J\xFAlio C\xE9sar, do\
     \ canal Sala de Guerra, para uma verdadeira aula de hist\xF3ria \u2014 mas com\
@@ -591,22 +615,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac6dd9198b0e9ebac2eddf55f
   path: https://open.spotify.com/episode/74l6UdOh9YYtWbndeEbpQc
   title: "#202 | A HIST\xD3RIA POR TR\xC1S DO IN\xCDCIO DO FIM DA EUROPA"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2025-04-04T17:52:44+00:00'
-  description: "<p>Os itens de baixo valor agregado importados de sites chineses como\
-    \ Shein e Temu v\xE3o ficar mais caros nos Estados Unidos depois que o Presidente\
-    \ Trump assinou essa semana uma ordem executiva fechando a brecha tarif\xE1ria\
-    \ de minimis \u2014 a isen\xE7\xE3o de impostos para remessas do exterior enviadas\
-    \ diretamente para o destinat\xE1rio final e avaliadas [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/nem-as-blusinhas-escaparam-trump-acaba-com-a-brecha-tarifaria-de-minimis/\"\
-    \ rel=\"nofollow\">Nem as blusinhas escaparam. Trump acaba com a brecha tarif\xE1\
-    ria \u201Cde minimis\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/nem-as-blusinhas-escaparam-trump-acaba-com-a-brecha-tarifaria-de-minimis/
-  title: "Nem as blusinhas escaparam. Trump acaba com a brecha tarif\xE1ria \u201C\
-    de minimis\u201D"
 - author: ArjanCodes
   categories: &id008
   - Tech
@@ -664,14 +672,6 @@
   image: https://i4.ytimg.com/vi/K3CR6RiWS2U/hqdefault.jpg
   path: https://www.youtube.com/watch?v=K3CR6RiWS2U
   title: 'Nintendo Switch 2 Impressions: One Big Asterisk!'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-04-03T11:37:30+00:00'
-  description: This quarter's top reads reveal what's capturing the attention of investment
-    professionals.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/03/top-10-posts-from-q1-valuation-models-inflationary-shocks-private-markets/
-  title: 'Top 10 Posts from Q1: Valuation Models, Inflationary Shocks, Private Markets'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
