@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-10T11:24:50.864515'
+  date: '2025-04-10T12:13:08.873511'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T11:24:50.862755'
+  date: '2025-04-10T12:13:08.871633'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T11:24:50.862750'
+  date: '2025-04-10T12:13:08.871630'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T11:24:50.862745'
+  date: '2025-04-10T12:13:08.871624'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T11:24:50.862735'
+  date: '2025-04-10T12:13:08.871614'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-10T12:00:00+00:00'
+  description: Rebalancing may help portfolios stay on target, but its predictability
+    comes at a cost.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/10/rebalancings-hidden-cost-how-predictable-trades-cost-pension-funds-billions/
+  title: "Rebalancing\u2019s Hidden Cost: How Predictable Trades Cost Pension Funds\
+    \ Billions"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-04-09T15:25:41+00:00'
   description: "<p>Safe haven no more. \xC9 o pior dos mundos: a\xE7\xF5es mergulhando\
@@ -475,8 +485,7 @@
   title: "\u201CUm mercado emergente problem\xE1tico\u201D: Caos de Trump implode\
     \ os Treasuries"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-04-09T15:09:32+00:00'
   description: Endowments heavily invested in alternatives are falling well behind
     low-cost indexed portfolios.
@@ -512,7 +521,7 @@
   title: "#203 | COMO TRUMP PODE CAUSAR O PR\xD3XIMO COLAPSO GLOBAL? E O QUE MUDA\
     \ NO MUNDO?"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-09T00:00:00+00:00'
   description: "President Trump has a new vision for the Environmental Protection\
@@ -546,7 +555,7 @@
   title: "#156 - Do cr\xE9dito estruturado aos incentivados: a nova fase da Verde\
     \ Asset"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-04-08T00:00:00+00:00'
   description: "President Trump is ramping up his long-planned tariff war, promising\
     \ to restore \u201CBoomtown USA.\u201D Before the start of the president\u2019\
@@ -561,7 +570,7 @@
   path: https://open.spotify.com/episode/0HXmH6cJTrsiXgUY4O7pC2
   title: 'The Tariff Trade Off: Jobs vs. Higher Prices'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-04-07T22:24:12+00:00'
   description: "<p>Tit\xE3s de Wall Street que vinham evitando criticar Donald Trump\
     \ publicamente alertaram que os EUA poder\xE3o mergulhar em uma recess\xE3o profunda\
@@ -576,14 +585,6 @@
   path: https://braziljournal.com/wall-street-teme-a-recessao-trump-diz-que-nao-e-hora-de-panicar/
   title: "Wall Street teme a recess\xE3o. Trump diz que n\xE3o \xE9 hora de \u2018\
     panicar\u2019"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-04-07T13:07:09+00:00'
-  description: Your retirement should be more than an exit. It should be a launch.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/07/financial-independence-retire-early-fire-vs-meaningful-retirement-choose-wisely/
-  title: 'Financial Independence, Retire Early (FIRE) vs. Meaningful Retirement: Choose
-    Wisely'
 - author: Liberty Street Economics
   categories:
   - Macro
