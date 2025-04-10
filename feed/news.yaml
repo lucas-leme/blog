@@ -1,3 +1,15 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-10T16:05:15+00:00'
+  description: "A Casa Branca esclareceu nesta quinta-feira (10) que a tarifa total\
+    \ sobre importa\xE7\xF5es chinesas chega, na pr\xE1tica, a 145%. Na verdade o\
+    \ que deve acontecer \xE9 que a tarifa sobre produtos chineses ser\xE1 a soma\
+    \ dos 125% com os 20%, em vigor no come\xE7o do ano, pelo chamado tr\xE1fico de\
+    \ fentanil. Pela nova ordem executiva [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/casa-branca-esclare-que-taxa-total-para-china-sera-de-145/
+  title: "Casa Branca esclarece que taxa total para a China ser\xE1 de 145%"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +21,7 @@
   title: "Bitcoin e ethereum saltam at\xE9 9% e mercado cripto ganha US$ 160 bi com\
     \ al\xEDvio nas tarifas de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-09T22:47:17+00:00'
   description: "Peter Navarro, o conselheiro protecionista de Trump, sugeriu impor\
     \ tarifas gerais de 25% a todas as importa\xE7\xF5es, dizem fontes"
@@ -18,14 +29,6 @@
   path: https://investnews.com.br/economia/tarifaco-foi-pior-do-que-o-esperado-mas-casa-branco-cogitou-opcoes-ainda-mais-extremas/
   title: "Tarifa\xE7o foi pior do que o esperado, mas Casa Branca cogitou op\xE7\xF5\
     es ainda mais extremas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-09T21:45:03+00:00'
-  description: "Documento garante benef\xEDcios previdenci\xE1rios e mant\xE9m CNPJ\
-    \ regular"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/boleto-mei/
-  title: 'Boleto MEI 2025: saiba como emitir e pagar'
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-04-09T21:03:56+00:00'
