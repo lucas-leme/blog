@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-10T12:31:07.047743'
+  date: '2025-04-10T13:40:38.877405'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T12:31:07.045982'
+  date: '2025-04-10T13:40:38.875724'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T12:31:07.045978'
+  date: '2025-04-10T13:40:38.875720'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T12:31:07.045973'
+  date: '2025-04-10T13:40:38.875716'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-10T12:31:07.045963'
+  date: '2025-04-10T13:40:38.875706'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2025-04-10T12:30:39+00:00'
+  description: 'Just an absolute spec monster
+
+
+    OnePlus 13 Review: https://youtu.be/-kuG6RgL32c
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by Oppo for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/p24qhUFIe68/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=p24qhUFIe68
+  title: 'Oppo Find X8 Ultra: The Bar''s Been Raised!'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -652,7 +682,7 @@
   path: https://www.youtube.com/watch?v=MM9VQp-k0JQ
   title: 'Coupling Explained: The Good, The Bad, and The Inevitable'
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2025-04-04T12:04:23+00:00'
@@ -662,9 +692,7 @@
   path: https://theovershoot.co/p/how-to-think-about-the-tariffs
   title: How to Think About the Tariffs
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2025-04-03T22:49:16+00:00'
   description: 'Switch 2 is better than Switch 1 in some pretty key ways, but there''s
     1 big pricing asterisk
@@ -720,20 +748,13 @@
   path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
   title: The Cost of Tariff Chaos
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2025-04-02T07:07:26+00:00'
   description: 'Goods inflation was already accelerating while job churn had stopped
     falling. Also: watch out for upward revisions to healthcare inflation.'
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f7af26f-7ef6-4d69-a736-377f90b0a3c4_3200x2910.png
   path: https://theovershoot.co/p/trying-to-parse-the-pre-liberation
   title: Trying to Parse the pre-"Liberation Day" Wage/Inflation Dynamics
-- author: Marques Brownlee
-  categories: *id006
-  date: '2025-04-01T13:02:22+00:00'
-  description: ''
-  image: https://i2.ytimg.com/vi/mNq_5QWu7uo/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=mNq_5QWu7uo
-  title: PSA
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
