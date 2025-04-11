@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-11T12:29:32+00:00'
+  description: "Mercado, apesar de em alta nesta sexta, segue com aten\xE7\xE3o os\
+    \ novos passos da disputa entre EUA e China"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-mantem-os-us-82-mil-e-criptomoedas-sobem-sob-cautela-da-guerra-comercial/
+  title: "Bitcoin mant\xE9m os US$ 82 mil e criptomoedas sobem sob cautela da guerra\
+    \ comercial"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   path: https://investnews.com.br/economia/casa-branca-esclare-que-taxa-total-para-china-sera-de-145/
   title: "Casa Branca esclarece que taxa total para a China ser\xE1 de 145%"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-10T11:57:24+00:00'
   description: "Ap\xF3s disparada na tarde de ontem, mercado de criptomoedas sustenta\
     \ os ganhos na manh\xE3 desta quinta"
@@ -28,12 +37,3 @@
   path: https://investnews.com.br/financas/bitcoin-e-ethereum-saltam-ate-9-e-mercado-cripto-ganha-us-160-bi-com-alivio-na-tarifas-de-trump/
   title: "Bitcoin e ethereum saltam at\xE9 9% e mercado cripto ganha US$ 160 bi com\
     \ al\xEDvio nas tarifas de Trump"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-09T21:03:56+00:00'
-  description: S&#038;P 500 tem melhor desempenho em 17 anos; Nasdaq registra maior
-    subida em 24 anos; e Dow Jones faz melhor marca desde 2020
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/no-vaivem-das-tarifas-mercados-tem-dia-de-alivio-e-sp-500-tem-maior-alta-em-17-anos/
-  title: "No vaiv\xE9m das tarifas, mercados t\xEAm dia de al\xEDvio e S&P 500 vive\
-    \ a maior alta em 17 anos"
