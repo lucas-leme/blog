@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-12T15:48:04+00:00'
+  description: "Com as tarifas para a China, um iPhone nos EUA ficaria t\xE3o caro\
+    \ quanto no Brasil, j\xE1 que os aparelhos da Apple s\xE3o fabricados l\xE1. Esse\
+    \ problema, a princ\xEDpio, acabou. A Casa Branca isentou smartphones, computadores\
+    \ e outros eletr\xF4nicos das chamadas tarifas rec\xEDprocas, representando um\
+    \ grande al\xEDvio para fabricantes globais de tecnologia, como Apple e [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-isenta-celulares-e-computadores-das-tarifas-reciprocas-um-alivio-para-apple-e-nvidia/
+  title: "Trump isenta celulares, laptops e chips das tarifas \u2013 um al\xEDvio\
+    \ para Apple e Nvidia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +21,7 @@
   title: "O all-in da fam\xEDlia Trump em cripto: da minera\xE7\xE3o de moedas a um\
     \ projeto de stablecoin"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-12T14:30:10+00:00'
   description: "Medida abriria mais mercado para a produ\xE7\xE3o agr\xEDcola do Brasil\
     \ \u2013\_al\xE9m de possibilitar menos impostos para carros importados"
@@ -17,15 +29,6 @@
   path: https://investnews.com.br/economia/uniao-europeia-corre-para-expandir-acordos-de-livre-comercio-com-o-mercosul/
   title: "Uni\xE3o Europeia corre para expandir acordos de livre com\xE9rcio com o\
     \ Mercosul"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-12T14:00:50+00:00'
-  description: "Pre\xE7os em alta nos EUA trariam como consequ\xEAncia mais press\xE3\
-    o de alta para a Selic no Brasil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/o-maior-receio-do-fed-a-chegada-de-uma-nova-onda-de-inflacao-ainda-mais-persistente/
-  title: "O maior receio do Fed: a chegada de uma nova onda de infla\xE7\xE3o, ainda\
-    \ mais persistente"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-04-11T12:29:32+00:00'
