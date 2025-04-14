@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-14T16:05:42+00:00'
+  description: "Especialistas alertam, por\xE9m, que perspectiva deve sofrer r\xE1\
+    pida deterioria\xE7\xE3o nos pr\xF3ximos meses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/rush-pre-tarifas-exportacoes-da-china-saltam-124-em-marco-maior-alta-em-cinco-meses/
+  title: "\u2018Rush pr\xE9-tarifas\u2019: exporta\xE7\xF5es da China saltam 12,4%\
+    \ em mar\xE7o, maior alta em cinco meses"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +26,7 @@
   path: https://investnews.com.br/financas/como-declarar-trust-no-imposto-de-renda-2025-veja-regras/
   title: Como declarar trust no Imposto de Renda 2025? Veja regras
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-14T09:00:00+00:00'
   description: "O FGTS se tornou uma das engrenagens da pol\xEDtica econ\xF4mica brasileira.\
     \ O que pode dar errado?"
@@ -25,11 +34,3 @@
   path: https://investnews.com.br/economia/fgts-como-ele-virou-ferramenta-fiscal-e-o-que-isso-significa-para-o-futuro-do-fundo/
   title: "FGTS: como ele virou ferramenta fiscal \u2014 e o que isso significa para\
     \ o futuro do fundo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-13T16:11:59+00:00'
-  description: "Smartphones, laptops e chips ter\xE3o uma tarifa espec\xEDfica, diferente\
-    \ daquelas aplicadas aos pa\xEDses"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/isencao-a-eletronicos-e-temporaria-diz-secretario-de-comercio-dos-eua/
-  title: "Trump confirma que isen\xE7\xE3o a eletr\xF4nicos \xE9 tempor\xE1ria"
