@@ -1,3 +1,14 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-14T19:56:25+00:00'
+  description: "Trabalhando com a Alpaca, a Kraken iniciou o lan\xE7amento gradual\
+    \ de negocia\xE7\xF5es sem taxas para mais de 11.000 a\xE7\xF5es e ETFs listados\
+    \ nos EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/exchange-de-criptomoedas-kraken-passa-a-negociar-acoes-e-etfs-nos-eua/
+  title: "Exchange de criptomoedas Kraken passa a negociar a\xE7\xF5es e ETFs nos\
+    \ EUA"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +20,7 @@
   title: "\u2018Rush pr\xE9-tarifas\u2019: exporta\xE7\xF5es da China saltam 12,4%\
     \ em mar\xE7o, maior alta em cinco meses"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-14T12:11:46+00:00'
   description: "Mercado cripto se recupera das quedas com taxas de Trump e capitaliza\xE7\
     \xE3o volta para a casa de US$ 2,7 trilh\xF5es"
@@ -18,13 +28,6 @@
   path: https://investnews.com.br/financas/bitcoin-sobe-e-supera-us-84-mil-com-alivio-no-mercado-criptomoeda-mantra-desaba-90/
   title: "Bitcoin sobe e supera US$ 84 mil com al\xEDvio no mercado; criptomoeda mantra\
     \ desaba 90%"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-14T10:00:00+00:00'
-  description: "Entenda o que \xE9 e como funciona um trust"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/como-declarar-trust-no-imposto-de-renda-2025-veja-regras/
-  title: Como declarar trust no Imposto de Renda 2025? Veja regras
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-04-14T09:00:00+00:00'
