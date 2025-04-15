@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-15T15:48:48.972812'
+  date: '2025-04-15T18:31:21.928101'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T15:48:48.971030'
+  date: '2025-04-15T18:31:21.926380'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T15:48:48.971026'
+  date: '2025-04-15T18:31:21.926376'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T15:48:48.971022'
+  date: '2025-04-15T18:31:21.926371'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T15:48:48.971010'
+  date: '2025-04-15T18:31:21.926361'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: CFA Institute Enterprising Investor
+- author: CFA Institute Research and Policy Center
   categories: &id001
+  - CFA
+  date: '2025-04-15T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-christopher-vella
+  title: Conversations with Frank Fabozzi, CFA, Featuring Christopher Vella, CFA
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-04-15T11:17:37+00:00'
   description: This book fills a unique gap between the CFA curriculum and the growing
@@ -467,7 +475,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/15/book-review-quantitative-risk-and-portfolio-management-theory-and-practice/
   title: 'Book Review: Quantitative Risk and Portfolio Management: Theory and Practice'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-04-14T15:41:44+00:00'
   description: "<p>O governo de Javier Milei virou mais uma p\xE1gina infame da hist\xF3\
@@ -482,15 +490,14 @@
   path: https://braziljournal.com/milei-libera-o-cambio-em-mais-um-passo-historico-para-a-argentina/
   title: "Milei libera o c\xE2mbio em mais um passo hist\xF3rico para a Argentina"
 - author: CFA Institute Research and Policy Center
-  categories: &id009
-  - CFA
+  categories: *id001
   date: '2025-04-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-04-14T11:05:47+00:00'
   description: "The year is unfolding beneath the weight of mounting geopolitical\
     \ risks and structural divergences, The challenge for investors isn\u2019t just\
@@ -519,7 +526,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/will-peak-demand-roil-global-oil-markets/
   title: Will Peak Demand Roil Global Oil Markets?
 - author: The Journal.
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-04-14T00:00:00+00:00'
   description: "Telehealth companies make hair loss drugs easy to get. They also don\u2019\
@@ -533,7 +540,7 @@
   path: https://open.spotify.com/episode/57r9xJyjR16DkIn2MjJGd5
   title: A Quick Fix for Hair Loss Is Making Some Men Sick
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-04-12T17:26:36+00:00'
@@ -542,7 +549,7 @@
   path: https://www.apricitas.io/p/charting-the-largest-tariff-hike
   title: Charting the Largest Tariff Hike in Modern History
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-12T00:00:00+00:00'
   description: "Quem vai vencer o duelo do s\xE9culo: China ou Estados Unidos?Neste\
@@ -578,7 +585,7 @@
   path: https://open.spotify.com/episode/3vsiQysfZsN0mc3qpGYplx
   title: "#205 | EUA X CHINA: QUEM VAI LIDERAR O FUTURO ECON\xD4MICO DO MUNDO?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-04-11T15:27:25+00:00'
   description: "<p>The dollar is going south. O \xEDndice DXY, que mede o valor da\
     \ moeda americana contra uma cesta de seis moedas, caiu abaixo de 100 pela primeira\
@@ -593,7 +600,7 @@
   title: "D\xF3lar: \u2018liquida\xE7\xE3o de ativos\u2019 derruba DXY abaixo de 100\
     \ pela 1\xAA vez em 3 anos"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -620,7 +627,7 @@
   path: https://www.youtube.com/watch?v=viAZQjs5lHk
   title: How to Use Git Branches Like a Pro (FastAPI Example)
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-04-11T00:00:00+00:00'
   description: "Din\xE2mica Global: Geopol\xEDtica, Gest\xE3o de Riscos e Novas Oportunidades\
     \ (CUPOM: HOCNOMM30) - https://posdigital.pucpr.br/cursos/dinamica-global-geopolitica\
@@ -653,7 +660,7 @@
   path: https://open.spotify.com/episode/5N5OJRspEx8k9JQQtLrPHA
   title: "#204 | AT\xC9 ONDE VAI O CABO DE GUERRA ENTRE EUA E CHINA?"
 - author: The Journal.
-  categories: *id004
+  categories: *id005
   date: '2025-04-11T00:00:00+00:00'
   description: "After decades of fighting Coca-Cola to be the nation\u2019s favorite\
     \ soda, Pepsi dropped to third place, after Dr Pepper. Now PepsiCo needs to win\
@@ -681,7 +688,7 @@
   path: https://open.spotify.com/episode/2RSk0ZDXjo9EzX5IZGuNeM
   title: "Credit Investing Amid Post \u201CLiberation Day\u201D Uncertainty"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-04-10T12:30:39+00:00'
@@ -751,7 +758,7 @@
   title: "#156 - Do cr\xE9dito estruturado aos incentivados: a nova fase da Verde\
     \ Asset"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-04-04T15:00:34+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nYou've probably heard a lot of people argue against coupling. But the problem\
@@ -765,7 +772,7 @@
   path: https://www.youtube.com/watch?v=MM9VQp-k0JQ
   title: 'Coupling Explained: The Good, The Bad, and The Inevitable'
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-04-04T12:04:23+00:00'
@@ -775,7 +782,7 @@
   path: https://theovershoot.co/p/how-to-think-about-the-tariffs
   title: How to Think About the Tariffs
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-04-03T22:49:16+00:00'
   description: 'Switch 2 is better than Switch 1 in some pretty key ways, but there''s
     1 big pricing asterisk
@@ -803,7 +810,7 @@
   path: https://www.youtube.com/watch?v=K3CR6RiWS2U
   title: 'Nintendo Switch 2 Impressions: One Big Asterisk!'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2025-04-02T14:00:38+00:00'
   description: Fear and Uncertainty About Trump's Tariffs are Already Having Negative
     Effects on the Economy
@@ -811,20 +818,13 @@
   path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
   title: The Cost of Tariff Chaos
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2025-04-02T07:07:26+00:00'
   description: 'Goods inflation was already accelerating while job churn had stopped
     falling. Also: watch out for upward revisions to healthcare inflation.'
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f7af26f-7ef6-4d69-a736-377f90b0a3c4_3200x2910.png
   path: https://theovershoot.co/p/trying-to-parse-the-pre-liberation
   title: Trying to Parse the pre-"Liberation Day" Wage/Inflation Dynamics
-- author: CFA Institute Research and Policy Center
-  categories: *id009
-  date: '2025-04-01T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-esma-consultation-paper
-  title: Response to ESMA Consultation Paper on the Regulatory Technical Standards
 - author: Outliers
   categories: *id010
   date: '2025-03-26T00:00:00+00:00'
