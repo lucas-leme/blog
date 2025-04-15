@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-15T12:10:36+00:00'
+  description: "Mercado de criptomoedas perde for\xE7a ap\xF3s a recupera\xE7\xE3\
+    o dos \xFAltimos dias mantendo cautela sobre futuro macroecon\xF4mico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-sobe-e-supera-us-85-mil-enquanto-investidores-aguardam-futuro-da-guerra-tarifaria/
+  title: "Bitcoin sobe e supera US$ 85 mil enquanto investidores aguardam futuro da\
+    \ guerra tarif\xE1ria"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,7 +49,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-14T23:14:32+00:00'
   description: "Donald Trump est\xE1 puxando os vizinhos para o centro de sua guerra\
@@ -52,8 +62,7 @@
   title: "A Am\xE9rica Latina est\xE1 presa no meio da guerra comercial de Trump com\
     \ a China"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-14T19:56:25+00:00'
   description: "Trabalhando com a Alpaca, a Kraken iniciou o lan\xE7amento gradual\
     \ de negocia\xE7\xF5es sem taxas para mais de 11.000 a\xE7\xF5es e ETFs listados\
@@ -63,7 +72,7 @@
   title: "Exchange de criptomoedas Kraken passa a negociar a\xE7\xF5es e ETFs nos\
     \ EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-14T16:05:42+00:00'
   description: "Especialistas alertam, por\xE9m, que perspectiva deve sofrer r\xE1\
     pida deterioria\xE7\xE3o nos pr\xF3ximos meses"
@@ -71,15 +80,6 @@
   path: https://investnews.com.br/economia/rush-pre-tarifas-exportacoes-da-china-saltam-124-em-marco-maior-alta-em-cinco-meses/
   title: "\u2018Rush pr\xE9-tarifas\u2019: exporta\xE7\xF5es da China saltam 12,4%\
     \ em mar\xE7o, maior alta em cinco meses"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-14T12:11:46+00:00'
-  description: "Mercado cripto se recupera das quedas com taxas de Trump e capitaliza\xE7\
-    \xE3o volta para a casa de US$ 2,7 trilh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-e-supera-us-84-mil-com-alivio-no-mercado-criptomoeda-mantra-desaba-90/
-  title: "Bitcoin sobe e supera US$ 84 mil com al\xEDvio no mercado; criptomoeda mantra\
-    \ desaba 90%"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-04-03T06:18:15+00:00'
