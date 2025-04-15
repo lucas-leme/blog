@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-15T11:07:23.687642'
+  date: '2025-04-15T11:24:33.351245'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T11:07:23.685908'
+  date: '2025-04-15T11:24:33.349535'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T11:07:23.685905'
+  date: '2025-04-15T11:24:33.349532'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T11:07:23.685901'
+  date: '2025-04-15T11:24:33.349528'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-15T11:07:23.685892'
+  date: '2025-04-15T11:24:33.349518'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-04-15T11:17:37+00:00'
+  description: This book fills a unique gap between the CFA curriculum and the growing
+    demand to find model-driven investment management solutions.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/15/book-review-quantitative-risk-and-portfolio-management-theory-and-practice/
+  title: 'Book Review: Quantitative Risk and Portfolio Management: Theory and Practice'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-04-14T15:41:44+00:00'
   description: "<p>O governo de Javier Milei virou mais uma p\xE1gina infame da hist\xF3\
@@ -481,8 +490,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2025-04-14T11:05:47+00:00'
   description: "The year is unfolding beneath the weight of mounting geopolitical\
     \ risks and structural divergences, The challenge for investors isn\u2019t just\
@@ -511,7 +519,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/will-peak-demand-roil-global-oil-markets/
   title: Will Peak Demand Roil Global Oil Markets?
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-14T00:00:00+00:00'
   description: "Telehealth companies make hair loss drugs easy to get. They also don\u2019\
@@ -534,7 +542,7 @@
   path: https://www.apricitas.io/p/charting-the-largest-tariff-hike
   title: Charting the Largest Tariff Hike in Modern History
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-04-12T00:00:00+00:00'
   description: "Quem vai vencer o duelo do s\xE9culo: China ou Estados Unidos?Neste\
@@ -570,7 +578,7 @@
   path: https://open.spotify.com/episode/3vsiQysfZsN0mc3qpGYplx
   title: "#205 | EUA X CHINA: QUEM VAI LIDERAR O FUTURO ECON\xD4MICO DO MUNDO?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-04-11T15:27:25+00:00'
   description: "<p>The dollar is going south. O \xEDndice DXY, que mede o valor da\
     \ moeda americana contra uma cesta de seis moedas, caiu abaixo de 100 pela primeira\
@@ -612,7 +620,7 @@
   path: https://www.youtube.com/watch?v=viAZQjs5lHk
   title: How to Use Git Branches Like a Pro (FastAPI Example)
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-04-11T00:00:00+00:00'
   description: "Din\xE2mica Global: Geopol\xEDtica, Gest\xE3o de Riscos e Novas Oportunidades\
     \ (CUPOM: HOCNOMM30) - https://posdigital.pucpr.br/cursos/dinamica-global-geopolitica\
@@ -645,7 +653,7 @@
   path: https://open.spotify.com/episode/5N5OJRspEx8k9JQQtLrPHA
   title: "#204 | AT\xC9 ONDE VAI O CABO DE GUERRA ENTRE EUA E CHINA?"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-04-11T00:00:00+00:00'
   description: "After decades of fighting Coca-Cola to be the nation\u2019s favorite\
     \ soda, Pepsi dropped to third place, after Dr Pepper. Now PepsiCo needs to win\
@@ -702,15 +710,6 @@
   image: https://i1.ytimg.com/vi/p24qhUFIe68/hqdefault.jpg
   path: https://www.youtube.com/watch?v=p24qhUFIe68
   title: 'Oppo Find X8 Ultra: The Bar''s Been Raised!'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-04-10T12:00:00+00:00'
-  description: Rebalancing may help portfolios stay on target, but its predictability
-    comes at a cost.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/10/rebalancings-hidden-cost-how-predictable-trades-cost-pension-funds-billions/
-  title: "Rebalancing\u2019s Hidden Cost: How Predictable Trades Cost Pension Funds\
-    \ Billions"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
