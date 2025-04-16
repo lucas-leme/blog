@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-16T15:48:48.442015'
+  date: '2025-04-16T18:31:33.096170'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-16T15:48:48.440254'
+  date: '2025-04-16T18:31:33.094433'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-16T15:48:48.440250'
+  date: '2025-04-16T18:31:33.094429'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-16T15:48:48.440246'
+  date: '2025-04-16T18:31:33.094425'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-16T15:48:48.440236'
+  date: '2025-04-16T18:31:33.094414'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-16T17:35:06+00:00'
+  description: "For financial analysts and investors, the rise of defense spending\
+    \ in Europe is more than a policy shift -- it\u2019s a structural re-rating of\
+    \ risk and opportunity across the continent."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/16/europe-rearms-what-defense-spending-means-for-markets/
+  title: 'Europe Rearms: What Defense Spending Means for Markets'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -481,7 +491,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/
   title: When College Might Not Be Worth It
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-16T00:00:00+00:00'
   description: "[BAIXE GR\xC1TIS O LIVRO DO SUCESSO EMPRESARIAL] Inspire-se nas empresas\
@@ -551,7 +561,7 @@
   path: https://www.youtube.com/watch?v=VTs8wnMsh0k
   title: Reviewing a Bionic Hand!
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-04-15T12:00:00+00:00'
   description: ''
@@ -559,8 +569,7 @@
   path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-christopher-vella
   title: Conversations with Frank Fabozzi, CFA, Featuring Christopher Vella, CFA
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-04-15T11:17:37+00:00'
   description: This book fills a unique gap between the CFA curriculum and the growing
     demand to find model-driven investment management solutions.
@@ -568,7 +577,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/15/book-review-quantitative-risk-and-portfolio-management-theory-and-practice/
   title: 'Book Review: Quantitative Risk and Portfolio Management: Theory and Practice'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-04-15T00:00:00+00:00'
   description: "O fim da ordem global liderada pelos EUA est\xE1 acontecendo diante\
     \ dos nossos olhos? Neste epis\xF3dio especial do Market Makers, destrinchamos\
@@ -631,21 +640,12 @@
   path: https://braziljournal.com/milei-libera-o-cambio-em-mais-um-passo-historico-para-a-argentina/
   title: "Milei libera o c\xE2mbio em mais um passo hist\xF3rico para a Argentina"
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-04-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-04-14T11:05:47+00:00'
-  description: "The year is unfolding beneath the weight of mounting geopolitical\
-    \ risks and structural divergences, The challenge for investors isn\u2019t just\
-    \ to react, but to interpret, prepare, and adapt."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/14/how-tariffs-and-geopolitics-are-shaping-the-2025-global-economic-outlook/
-  title: How Tariffs and Geopolitics Are Shaping the 2025 Global Economic Outlook
 - author: The Journal.
   categories: *id004
   date: '2025-04-14T00:00:00+00:00'
