@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-17T19:23:30+00:00'
+  description: "Presidente dos EUA critica lentid\xE3o para cortar juros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-volta-a-atacar-jerome-powell-e-diz-que-poderia-demiti-lo-do-federal-reserve/
+  title: Trump volta a atacar Jerome Powell e diz que poderia demiti-lo do Federal
+    Reserve
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   title: Bitcoin sobe em dia de alta do mercado cripto apesar de discurso cauteloso
     do Fed e feriado
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-16T13:21:57+00:00'
   description: "Pa\xEDs, que \xE9 aliado dos EUA, foi atingido por taxas extras de\
     \ 24% sobre suas exporta\xE7\xF5es"
@@ -25,12 +33,3 @@
   path: https://investnews.com.br/economia/japao-quer-zerar-tarifas-adicionais-dos-eua-antes-das-negociacoes-comerciais/
   title: "Jap\xE3o quer zerar tarifas adicionais dos EUA antes das negocia\xE7\xF5\
     es comerciais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-16T12:40:03+00:00'
-  description: "A cria\xE7\xE3o da Faixa 4 vai proporcionar a inclus\xE3o de 120 mil\
-    \ fam\xEDlias no programa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/conselho-do-fgts-aprova-inclusao-da-classe-media-no-minha-casa-minha-vida/
-  title: "Chegou a vez da classe m\xE9dia: Conselho do FGTS aprova mudan\xE7a no Minha\
-    \ Casa Minha Vida"
