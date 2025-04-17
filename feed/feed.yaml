@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-17T15:48:09.425289'
+  date: '2025-04-17T18:31:26.007407'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-17T15:48:09.423524'
+  date: '2025-04-17T18:31:26.005607'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-17T15:48:09.423519'
+  date: '2025-04-17T18:31:26.005603'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-17T15:48:09.423514'
+  date: '2025-04-17T18:31:26.005598'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-17T15:48:09.423504'
+  date: '2025-04-17T18:31:26.005588'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-17T17:48:50+00:00'
+  description: "Note to financial advisors: It\u2019s time to embrace the norm effect\
+    \ and rethink how we influence investment decisions."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/17/how-social-norms-shape-investment-behavior-and-what-advisors-can-do-about-it/
+  title: Social Norms Shape Investment Behavior. What Can Advisors Do About It?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -472,9 +481,29 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/os-turistas-estao-desistindo-de-viajar-aos-eua/
   title: "Os turistas est\xE3o desistindo de viajar aos EUA"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2025-04-17T00:00:00+00:00'
+  description: "AI may be young and fast-moving, but so is Dwarkesh Patel. The 24-year-old\
+    \ rose from nowhere to become Silicon Valley\u2019s favourite podcaster\u2014\
+    attracting guests such as Mark Zuckerberg and Satya Nadella. But Dwarkesh\u2019\
+    s greatest ambition has been to interrogate the leading acolytes of artificial\
+    \ intelligence. He\u2019s written a new book about the rise of LLMs and the future\
+    \ of AI, based on numerous interviews with AI researchers, CEOs, economists and\
+    \ philosophers. This week \u201CMoney Talks\u201D turns the tables on him, as\
+    \ we ask him the questions.Hosts: Mike Bird and Ethan Wu. Guest: Dwarkesh Patel,\
+    \ host of \u201CDwarkesh Podcast\u201D and author of \"The Scaling Era: An Oral\
+    \ History of AI, 2019-2025\u201D.Transcripts of our podcasts are available via\
+    \ economist.com/podcasts.Listen to what matters most, from global politics and\
+    \ business to science and technology\u2014subscribe to Economist Podcasts+.For\
+    \ more information about how to access Economist Podcasts+, please visit our FAQs\
+    \ page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
+  path: https://open.spotify.com/episode/7foKeVKVWO1McMmqmMlTl1
+  title: 'Dwarkesh Patel: the man who has the ear of Silicon Valley'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-04-16T17:35:06+00:00'
   description: "For financial analysts and investors, the rise of defense spending\
     \ in Europe is more than a policy shift -- it\u2019s a structural re-rating of\
@@ -506,7 +535,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/
   title: When College Might Not Be Worth It
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-16T00:00:00+00:00'
   description: "Para receber os conte\xFAdos e an\xE1lises do deputado diretamente\
@@ -540,7 +569,7 @@
   path: https://open.spotify.com/episode/6ARyXwyE1WuUn9AehPsjDe
   title: "#207 | POR QUE O BRASIL \xC9 UM PA\xCDS ATRASADO? E O QUE PRECISA MUDAR?"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-04-16T00:00:00+00:00'
   description: "[BAIXE GR\xC1TIS O LIVRO DO SUCESSO EMPRESARIAL] Inspire-se nas empresas\
     \ de sucesso que sobreviveram ao caos dos anos 90 no Brasil e seja um empreendedor\
@@ -632,14 +661,6 @@
   image: null
   path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-christopher-vella
   title: Conversations with Frank Fabozzi, CFA, Featuring Christopher Vella, CFA
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-04-15T11:17:37+00:00'
-  description: This book fills a unique gap between the CFA curriculum and the growing
-    demand to find model-driven investment management solutions.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/15/book-review-quantitative-risk-and-portfolio-management-theory-and-practice/
-  title: 'Book Review: Quantitative Risk and Portfolio Management: Theory and Practice'
 - author: The Journal.
   categories: *id003
   date: '2025-04-15T00:00:00+00:00'
@@ -753,26 +774,6 @@
   image: https://i1.ytimg.com/vi/p24qhUFIe68/hqdefault.jpg
   path: https://www.youtube.com/watch?v=p24qhUFIe68
   title: 'Oppo Find X8 Ultra: The Bar''s Been Raised!'
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2025-04-10T00:00:00+00:00'
-  description: "This week America\u2019s financial system came dangerously close to\
-    \ a full-blown crisis. Donald Trump\u2019s \u201CLiberation Day\u201D tariffs\
-    \ announcement sent markets down by double digit percentages late last week, wiping\
-    \ out trillions of dollars in value. Then, just as suddenly, Mr Trump\u2019s decision\
-    \ to pause some of the tariffs sent markets skyrocketing, almost back to where\
-    \ they started. So, crisis over? Or has the Trump administration done lasting\
-    \ damage to the attractiveness of US financial markets?Hosts: Mike Bird and Ethan\
-    \ Wu. Guests: Joshua Roberts, The Economist\u2019s capital markets correspondent;\
-    \ and Sonal Desai, chief investment officer at Franklin Templeton Fixed Income.Transcripts\
-    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
-    \ most, from global politics and business to science and technology\u2014subscribe\
-    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
-    \ please visit our FAQs page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
-  path: https://open.spotify.com/episode/5T6uhn8kVFzkhV1qM8h6Qu
-  title: 'Market mayhem: how Trump''s tariffs debacle could hurt brand America'
 - author: Outliers
   categories: &id010
   - Podcasts
