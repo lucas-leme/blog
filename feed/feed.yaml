@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-18T14:48:22.183624'
+  date: '2025-04-18T15:48:05.479092'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T14:48:22.181846'
+  date: '2025-04-18T15:48:05.477350'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T14:48:22.181842'
+  date: '2025-04-18T15:48:05.477347'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T14:48:22.181835'
+  date: '2025-04-18T15:48:05.477342'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T14:48:22.181823'
+  date: '2025-04-18T15:48:05.477333'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-04-18T15:00:02+00:00'
+  description: "\U0001F449 Take your productivity to the next level and keep your\
+    \ team organized - try monday.com for free today: https://bit.ly/424BbYW.\n\n\
+    In this video, I\u2019ll show you 10 essential tips to keep your code simple,\
+    \ maintainable, and easy to work with.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/simple.\n\
+    \n\U0001F477 Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n2:10 Tip #1 YAGNI \u2013 You Ain\u2019t Gonna Need It\n\
+    3:43 Tip #2 DRY \u2013 Don\u2019t Repeat Yourself\n5:58 Tip #3  Avoid Overengineering\n\
+    7:50 Tip #4 Organize Yourself \n9:40 Tip #5 Keep Functions Short and Do One Thing\
+    \ (Cohesion)\n11:35 Tip #6 Avoid Hardcoded Values\n12:42 Tip #7 Use Meaningful\
+    \ Names\n13:45 Tip #8 Document Thought Process, Not Just What the Code Does\n\
+    14:52 Tip #9 Don\u2019t Overcomplicate Module Structure\n17:09 Tip #10 Write Tests\
+    \ for Critical Code\n18:53 BONUS Tip\n20:47 Outro\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i1.ytimg.com/vi/0U-RwnWaFIM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=0U-RwnWaFIM
+  title: 10 Tips to Keep Your Software Simple
 - author: The Overshoot
   categories: &id008
   - Macro
@@ -644,7 +667,7 @@
   path: https://open.spotify.com/episode/7q1mgrFudh8cyRsjDsWKtA
   title: How Elon Musk Pulled X Back From the Brink
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-04-15T23:31:15+00:00'
@@ -714,10 +737,7 @@
   path: https://www.apricitas.io/p/charting-the-largest-tariff-hike
   title: Charting the Largest Tariff Hike in Modern History
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-04-11T15:01:36+00:00'
   description: "\U0001F449\U0001F3FB Streamline your Git workflow - get started with\
     \ GitKraken for free: https://bit.ly/4j8AlRM.\n\nConfused about Git? You\u2019\
@@ -753,7 +773,7 @@
   path: https://open.spotify.com/episode/2RSk0ZDXjo9EzX5IZGuNeM
   title: "Credit Investing Amid Post \u201CLiberation Day\u201D Uncertainty"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-04-10T12:30:39+00:00'
   description: 'Just an absolute spec monster
 
@@ -800,20 +820,6 @@
   path: https://open.spotify.com/episode/770s0gpOmgjSAFqGtf2Kh7
   title: "#156 - Do cr\xE9dito estruturado aos incentivados: a nova fase da Verde\
     \ Asset"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-04-04T15:00:34+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nYou've probably heard a lot of people argue against coupling. But the problem\
-    \ is that you actually need it. In this video, I\u2019m going to show you 3 examples\
-    \ of bad coupling and then show you how to refactor them into not-as-bad coupling.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/coupling-hard.\n\n\
-    \U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:29 Global Coupling\n7:49 Content Coupling\n13:35 Stamp\
-    \ Coupling\n19:50 Final Thoughts\n20:12 Outro\n\n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/MM9VQp-k0JQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=MM9VQp-k0JQ
-  title: 'Coupling 101: Design Choices That Make or Break Your Code'
 - author: The Overshoot
   categories: *id008
   date: '2025-04-04T12:04:23+00:00'

@@ -1,5 +1,18 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-18T15:15:13+00:00'
+  description: "Um jato Boeing destinado \xE0 China estava retornando aos Estados\
+    \ Unidos nesta sexta-feira (18), segundo dados de rastreamento de voo, j\xE1 que\
+    \ a principal f\xE1brica de entrega da fabricante de avi\xF5es nos arredores de\
+    \ Xangai foi arrastada para uma guerra tarif\xE1ria cada vez mais profunda entre\
+    \ Pequim e Washington. O retorno de um dos v\xE1rios [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/jato-da-boeing-retorna-da-china-para-os-eua-em-meio-a-guerra-tarifaria/
+  title: "Jato da Boeing retorna da China para os EUA em meio \xE0 guerra tarif\xE1\
+    ria"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-18T09:00:00+00:00'
   description: "Enquanto o ouro reafirma seu papel como ativo de prote\xE7\xE3o; o\
@@ -50,8 +63,7 @@
   path: https://www.reddit.com/r/CFA/comments/1k1vzd7/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-17T19:23:30+00:00'
   description: "Presidente dos EUA critica lentid\xE3o para cortar juros"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -59,21 +71,12 @@
   title: Trump volta a atacar Jerome Powell e diz que poderia demiti-lo do Federal
     Reserve
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-17T15:00:27+00:00'
   description: "Descubra como quitar seu financiamento de forma estrat\xE9gica"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/quitar-financiamento/
   title: Saiba como quitar o financiamento do carro e da casa
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-16T13:21:57+00:00'
-  description: "Pa\xEDs, que \xE9 aliado dos EUA, foi atingido por taxas extras de\
-    \ 24% sobre suas exporta\xE7\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/japao-quer-zerar-tarifas-adicionais-dos-eua-antes-das-negociacoes-comerciais/
-  title: "Jap\xE3o quer zerar tarifas adicionais dos EUA antes das negocia\xE7\xF5\
-    es comerciais"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-04-03T06:18:15+00:00'
