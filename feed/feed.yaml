@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-18T02:06:10.124966'
+  date: '2025-04-18T11:07:14.141529'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T02:06:10.123208'
+  date: '2025-04-18T11:07:14.139818'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T02:06:10.123204'
+  date: '2025-04-18T11:07:14.139815'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T02:06:10.123200'
+  date: '2025-04-18T11:07:14.139810'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T02:06:10.123190'
+  date: '2025-04-18T11:07:14.139801'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: The Overshoot
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2025-04-18T08:36:07+00:00'
+  description: The limits of U.S.-China decoupling, the principled case for an American
+    industrial renaissance, and the scope for (desirability of?) capital flight from
+    the U.S.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0792ed5e-1019-4b9a-8190-ae14e94aebdb_3200x2904.png
+  path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
+  title: Thoughts from the Past Two Weeks
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -694,7 +705,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-04-12T17:26:36+00:00'
@@ -728,7 +739,7 @@
     18:35 Final Thoughts\n18:59 Outro \n\n#arjancodes #softwaredesign #python"
   image: https://i3.ytimg.com/vi/viAZQjs5lHk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=viAZQjs5lHk
-  title: How to Use Git Branches Like a Pro (FastAPI Example)
+  title: "Git Branching Explained \u2013 Merging, Rebasing & More (FastAPI Example)"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -802,11 +813,9 @@
     \ Coupling\n19:50 Final Thoughts\n20:12 Outro\n\n#arjancodes #softwaredesign #python"
   image: https://i2.ytimg.com/vi/MM9VQp-k0JQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=MM9VQp-k0JQ
-  title: 'Coupling Explained: The Good, The Bad, and The Inevitable'
+  title: 'Coupling 101: Design Choices That Make or Break Your Code'
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id008
   date: '2025-04-04T12:04:23+00:00'
   description: This is bad policy, executed thoughtlessly. But it is worth thinking
     through exactly *why* it is bad.
@@ -814,21 +823,13 @@
   path: https://theovershoot.co/p/how-to-think-about-the-tariffs
   title: How to Think About the Tariffs
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-04-02T14:00:38+00:00'
   description: Fear and Uncertainty About Trump's Tariffs are Already Having Negative
     Effects on the Economy
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31eca15d-fe2d-40a3-b5fd-171f5fc1326c_2886x1843.png
   path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
   title: The Cost of Tariff Chaos
-- author: The Overshoot
-  categories: *id009
-  date: '2025-04-02T07:07:26+00:00'
-  description: 'Goods inflation was already accelerating while job churn had stopped
-    falling. Also: watch out for upward revisions to healthcare inflation.'
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f7af26f-7ef6-4d69-a736-377f90b0a3c4_3200x2910.png
-  path: https://theovershoot.co/p/trying-to-parse-the-pre-liberation
-  title: Trying to Parse the pre-"Liberation Day" Wage/Inflation Dynamics
 - author: Outliers
   categories: *id010
   date: '2025-03-26T00:00:00+00:00'
