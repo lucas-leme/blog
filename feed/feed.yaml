@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-18T21:27:00.066729'
+  date: '2025-04-19T00:48:03.236598'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T21:27:00.064933'
+  date: '2025-04-19T00:48:03.234885'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T21:27:00.064929'
+  date: '2025-04-19T00:48:03.234882'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T21:27:00.064924'
+  date: '2025-04-19T00:48:03.234878'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-18T21:27:00.064914'
+  date: '2025-04-19T00:48:03.234869'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -491,8 +491,23 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0792ed5e-1019-4b9a-8190-ae14e94aebdb_3200x2904.png
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
-- author: CFA Institute Enterprising Investor
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-04-18T00:00:00+00:00'
+  description: "When Colorado became one of the first states to legalize recreational\
+    \ marijuana, a community called Pueblo stepped forward hoping to become the 'Napa\
+    \ Valley of Cannabis'. WSJ\u2019s Julie Wernau visited the town to explore the\
+    \ cannabis boom that promised new jobs and tax revenue, and found an industry\
+    \ that had gone bust, with local residents struggling to find a way forward. Jessica\
+    \ Mendoza hosts.  Further Listening: -The Highs and Lows of Diversifying the Cannabis\
+    \ Industry\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_  Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/397CulQi48r44cTr8qbleB
+  title: How the 'Napa Valley of Cannabis' Dried Up
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-04-17T17:48:50+00:00'
   description: "Note to financial advisors: It\u2019s time to embrace the norm effect\
@@ -516,7 +531,7 @@
   path: https://braziljournal.com/os-turistas-estao-desistindo-de-viajar-aos-eua/
   title: "Os turistas est\xE3o desistindo de viajar aos EUA"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-04-17T00:00:00+00:00'
   description: "O agro \xE9 o maior vil\xE3o do Brasil ou o verdadeiro her\xF3i da\
@@ -548,8 +563,7 @@
   path: https://open.spotify.com/episode/0xFgG9EIIa7qKp3y2X4j30
   title: "#208 | O QUE EST\xC1 POR TR\xC1S DO SETOR BILION\xC1RIO QUE CARREGA O BRASIL?"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-04-17T00:00:00+00:00'
   description: "Mark Zuckerberg is in court defending Meta against a Federal Trade\
     \ Commission case that alleges the company wields an illegal monopoly in social\
@@ -587,7 +601,7 @@
   path: https://open.spotify.com/episode/7foKeVKVWO1McMmqmMlTl1
   title: 'Dwarkesh Patel: the man who has the ear of Silicon Valley'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-04-16T17:35:06+00:00'
   description: "For financial analysts and investors, the rise of defense spending\
     \ in Europe is more than a policy shift -- it\u2019s a structural re-rating of\
@@ -619,7 +633,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/
   title: When College Might Not Be Worth It
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-04-16T00:00:00+00:00'
   description: "Para receber os conte\xFAdos e an\xE1lises do deputado diretamente\
     \ no seu WhatsApp, preencha o formul\xE1rio no link: lpbraganca.com.br/zap2 Neste\
@@ -651,21 +665,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8adc764079b21a98ffe105bf99
   path: https://open.spotify.com/episode/6ARyXwyE1WuUn9AehPsjDe
   title: "#207 | POR QUE O BRASIL \xC9 UM PA\xCDS ATRASADO? E O QUE PRECISA MUDAR?"
-- author: The Journal.
-  categories: *id003
-  date: '2025-04-16T00:00:00+00:00'
-  description: "After years of trying to revive his flailing social media company,\
-    \ Elon Musk has pulled off a turnaround at X. It comes after Musk decided to merge\
-    \ X with his artificial intelligence company xAI. The deal values the combined\
-    \ business at over $100 billion. WSJ\u2019s Alexander Saeedy explains how Musk\
-    \ has pulled the app formerly known as Twitter back from the brink of bankruptcy,\
-    \ thanks in part to his proximity to President Donald Trump. Jessica Mendoza hosts.\
-    \  Further Listening:  - The Musk-Twitter Saga -- from The Journal.\_ - Trump\
-    \ 2.0: The Musk-Trump Bromance \_ Sign up for WSJ\u2019s free What\u2019s News\
-    \ newsletter.   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/7q1mgrFudh8cyRsjDsWKtA
-  title: How Elon Musk Pulled X Back From the Brink
 - author: Marques Brownlee
   categories: &id007
   - Tech
