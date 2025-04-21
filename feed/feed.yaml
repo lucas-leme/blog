@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-21T11:24:32.262089'
+  date: '2025-04-21T12:12:52.431916'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-21T11:24:32.260340'
+  date: '2025-04-21T12:12:52.430172'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-21T11:24:32.260336'
+  date: '2025-04-21T12:12:52.430169'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-21T11:24:32.260332'
+  date: '2025-04-21T12:12:52.430165'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-21T11:24:32.260323'
+  date: '2025-04-21T12:12:52.430155'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,33 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-21T11:38:17+00:00'
+  description: "In light of the uncertainty dominating today\u2019s markets and headlines,\
+    \ it\u2019s worth revisiting some of the behavioral pitfalls that have tripped\
+    \ up investors for centuries."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/21/investing-through-uncertainty-5-lessons-in-emotional-discipline/
+  title: 'Investing Through Uncertainty: 5 Lessons in Emotional Discipline'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2025-04-21T11:00:00+00:00'
+  description: "In our previous <em>Liberty Street Economics</em> <a href=\"https://libertystreeteconomics.newyorkfed.org/2024/08/the-defi-intermediation-chain/\"\
+    \ rel=\"noreferrer noopener\" target=\"_blank\">post</a>, we introduced the decentralized\
+    \ finance (DeFi) intermediation chain and explained how various players have emerged\
+    \ as key intermediaries in the Ethereum ecosystem. In this post, we summarize\
+    \ the empirical results in our new <a href=\"https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr1102.pdf?sc_lang=en\"\
+    \ rel=\"noreferrer noopener\" target=\"_blank\"><em>Staff Report</em></a> that\
+    \ explains how the need for transaction privacy across the DeFi intermediation\
+    \ chain gives rise to intermediaries\u2019 market power."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2025/04/the-origins-of-market-power-in-defi/
+  title: The Origins of Market Power in DeFi
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -481,7 +508,7 @@
   title: "Roxton McNeal and Siddharth Sethi \u2013\_Building Multi-Strategy QIS Portfolios\
     \ (S7E16)"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-19T00:00:00+00:00'
   description: "A IA vai acabar com os empregos e destruir o mercado de capitais?\
@@ -555,7 +582,7 @@
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-04-18T00:00:00+00:00'
   description: "When Colorado became one of the first states to legalize recreational\
@@ -570,8 +597,7 @@
   path: https://open.spotify.com/episode/397CulQi48r44cTr8qbleB
   title: How the 'Napa Valley of Cannabis' Dried Up
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-04-17T17:48:50+00:00'
   description: "Note to financial advisors: It\u2019s time to embrace the norm effect\
     \ and rethink how we influence investment decisions."
@@ -594,7 +620,7 @@
   path: https://braziljournal.com/os-turistas-estao-desistindo-de-viajar-aos-eua/
   title: "Os turistas est\xE3o desistindo de viajar aos EUA"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-04-17T00:00:00+00:00'
   description: "O agro \xE9 o maior vil\xE3o do Brasil ou o verdadeiro her\xF3i da\
     \ economia nacional? Neste epis\xF3dio do Market Makers, recebemos Rodrigo Penna\
@@ -625,7 +651,7 @@
   path: https://open.spotify.com/episode/0xFgG9EIIa7qKp3y2X4j30
   title: "#208 | O QUE EST\xC1 POR TR\xC1S DO SETOR BILION\xC1RIO QUE CARREGA O BRASIL?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-04-17T00:00:00+00:00'
   description: "Mark Zuckerberg is in court defending Meta against a Federal Trade\
     \ Commission case that alleges the company wields an illegal monopoly in social\
@@ -662,38 +688,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/7foKeVKVWO1McMmqmMlTl1
   title: 'Dwarkesh Patel: the man who has the ear of Silicon Valley'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-04-16T17:35:06+00:00'
-  description: "For financial analysts and investors, the rise of defense spending\
-    \ in Europe is more than a policy shift -- it\u2019s a structural re-rating of\
-    \ risk and opportunity across the continent."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/16/europe-rearms-what-defense-spending-means-for-markets/
-  title: 'Europe Rearms: What Defense Spending Means for Markets'
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2025-04-16T13:01:00+00:00'
-  description: In our <a href="https://libertystreeteconomics.newyorkfed.org/2025/04/is-college-still-worth-it/">last
-    post</a>, we showed that the economic benefits of a college degree still far outweigh
-    the costs for the typical graduate, with a healthy and consistent return of 12
-    to 13 percent over the past few decades. But there are many circumstances under
-    which college graduates do not earn such a high return. Some colleges are much
-    more expensive than average, and financial aid is not guaranteed no matter which
-    college a student attends. In addition, the potentially high cost of living on
-    campus was not factored into our estimates. Some students also may take five or
-    six years to finish their degrees, which can significantly increase costs. Further,
-    our calculations were based on median wages over a working life, but half of college
-    graduates earn less than the median. Indeed, even when paying average costs, we
-    find that a college degree does not appear to have paid off for at least a quarter
-    of college graduates in recent decades. In this post, we consider when college
-    might not be worth it and explore differences in the return to college by major.
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2025/04/when-college-might-not-be-worth-it/
-  title: When College Might Not Be Worth It
 - author: Marques Brownlee
   categories: &id007
   - Tech
