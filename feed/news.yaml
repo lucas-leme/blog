@@ -1,3 +1,11 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-22T12:34:31+00:00'
+  description: "Veja 8 d\xFAvidas - e respostas - sobre uma eventual sa\xEDda de Powell"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/o-que-se-sabe-sobre-a-possibilidade-de-trump-demitir-o-presidente-do-fed/
+  title: O que se sabe sobre a possibilidade de Trump demitir o presidente do Fed
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -41,8 +49,7 @@
   title: "Im\xF3vel alugado j\xE1 rende IPCA+14% nas maiores cidades do Sudeste \u2013\
     \ o dobro do Tesouro"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-21T21:05:43+00:00'
   description: "Risco de uma poss\xEDvel demiss\xE3o de Powell seria um golpe na confian\xE7\
     a do resto do mundo em rela\xE7\xE3o aos Estados Unidos"
@@ -50,15 +57,6 @@
   path: https://investnews.com.br/economia/pressao-de-trump-contra-powell-aumenta-duvidas-sobre-status-dos-eua-como-refugio-seguro/
   title: "Press\xE3o de Trump contra Powell aumenta d\xFAvidas sobre status dos EUA\
     \ como ref\xFAgio seguro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-21T19:49:00+00:00'
-  description: Encontro ocorre em meio a uma pausa de 90 dias nas tarifas mais altas
-    de Trump
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/executivos-de-walmart-e-target-se-encontram-com-trump-para-discutir-impactos-das-tarifas/
-  title: Executivos do Walmart e da Target se encontram com Trump para discutir impactos
-    das tarifas
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-04-03T06:18:15+00:00'
