@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-22T13:40:21.631926'
+  date: '2025-04-22T14:49:06.949705'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-22T13:40:21.630198'
+  date: '2025-04-22T14:49:06.947955'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-22T13:40:21.630194'
+  date: '2025-04-22T14:49:06.947952'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-22T13:40:21.630191'
+  date: '2025-04-22T14:49:06.947948'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-22T13:40:21.630181'
+  date: '2025-04-22T14:49:06.947938'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-04-22T13:40:13+00:00'
+  description: Can generative AI eliminate post-earnings announcement drift (PEAD)
+    -- or just reshape it? Explore how this emerging technology could redefine market
+    efficiency.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/22/can-generative-ai-disrupt-post-earnings-announcement-drift-pead/
+  title: Can Generative AI Disrupt Post-Earnings Announcement Drift (PEAD)?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id003
   - Economia
@@ -491,8 +501,7 @@
   path: https://www.youtube.com/watch?v=HdTCDxX-UnQ
   title: I Have A Problem with the Light Phone III
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-04-21T11:38:17+00:00'
   description: "In light of the uncertainty dominating today\u2019s markets and headlines,\
     \ it\u2019s worth revisiting some of the behavioral pitfalls that have tripped\
@@ -518,7 +527,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/the-origins-of-market-power-in-defi/
   title: The Origins of Market Power in DeFi
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-21T00:00:00+00:00'
   description: "On Monday morning, Pope Francis died at 88. The first South American\
@@ -629,7 +638,7 @@
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-04-18T00:00:00+00:00'
   description: "When Colorado became one of the first states to legalize recreational\
     \ marijuana, a community called Pueblo stepped forward hoping to become the 'Napa\
@@ -642,14 +651,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/397CulQi48r44cTr8qbleB
   title: How the 'Napa Valley of Cannabis' Dried Up
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-04-17T17:48:50+00:00'
-  description: "Note to financial advisors: It\u2019s time to embrace the norm effect\
-    \ and rethink how we influence investment decisions."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/17/how-social-norms-shape-investment-behavior-and-what-advisors-can-do-about-it/
-  title: Social Norms Shape Investment Behavior. What Can Advisors Do About It?
 - author: "Economia \u2013 Brazil Journal"
   categories: *id003
   date: '2025-04-17T00:26:50+00:00'

@@ -1,13 +1,25 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-04-22T14:23:43+00:00'
+  description: "O peso argentino est\xE1 avan\xE7ando, apesar de ter sido liberado\
+    \ de controles cambiais de anos destinados a impedir sua queda, ajudando a afastar\
+    \ os temores de que o pesadelo recorrente da Argentina &#8211; a infla\xE7\xE3\
+    o &#8211; retorne. O pa\xEDs sul-americano aliviou abruptamente neste m\xEAs a\
+    \ maioria dos controles em vigor desde 2019 que haviam atrelado [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/valorizacao-surpreendente-do-peso-argentino-atenua-temores-de-retomada-da-inflacao/
+  title: "Valoriza\xE7\xE3o surpreendente do peso argentino atenua temores de retomada\
+    \ da infla\xE7\xE3o"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-04-22T12:34:31+00:00'
   description: "Veja 8 d\xFAvidas - e respostas - sobre uma eventual sa\xEDda de Powell"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/o-que-se-sabe-sobre-a-possibilidade-de-trump-demitir-o-presidente-do-fed/
   title: O que se sabe sobre a possibilidade de Trump demitir o presidente do Fed
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-22T12:07:00+00:00'
   description: "Criptomoedas subiram nos \xFAltimos dias, na contram\xE3o do d\xF3\
@@ -39,7 +51,7 @@
   path: https://www.reddit.com/r/CFA/comments/1k52l63/official_february_2025_level_3_results_megathread/
   title: Official February 2025 Level 3 Results Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-22T09:00:00+00:00'
   description: "Contando o ganho com o aluguel mais a valoriza\xE7\xE3o do im\xF3\
     vel, o investimento em propriedade bate o CDI o os t\xEDtulos IPCA+ na m\xE9dia\
@@ -48,15 +60,6 @@
   path: https://investnews.com.br/financas/imovel-alugado-rende-ipca14-nas-maiores-cidades-do-sudeste-o-dobro-do-tesouro/
   title: "Im\xF3vel alugado j\xE1 rende IPCA+14% nas maiores cidades do Sudeste \u2013\
     \ o dobro do Tesouro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-21T21:05:43+00:00'
-  description: "Risco de uma poss\xEDvel demiss\xE3o de Powell seria um golpe na confian\xE7\
-    a do resto do mundo em rela\xE7\xE3o aos Estados Unidos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pressao-de-trump-contra-powell-aumenta-duvidas-sobre-status-dos-eua-como-refugio-seguro/
-  title: "Press\xE3o de Trump contra Powell aumenta d\xFAvidas sobre status dos EUA\
-    \ como ref\xFAgio seguro"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-04-03T06:18:15+00:00'
