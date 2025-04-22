@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-22T12:07:00+00:00'
+  description: "Criptomoedas subiram nos \xFAltimos dias, na contram\xE3o do d\xF3\
+    lar, enquanto Trump defende que Fed deveria cortar os juros nos EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-sobe-forte-e-supera-us-88-mil-em-meio-a-ameacas-de-trump-contra-presidente-do-fed/
+  title: "Bitcoin sobe forte e supera US$ 88 mil em meio a amea\xE7as de Trump contra\
+    \ presidente do Fed"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -21,8 +31,7 @@
   path: https://www.reddit.com/r/CFA/comments/1k52l63/official_february_2025_level_3_results_megathread/
   title: Official February 2025 Level 3 Results Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-22T09:00:00+00:00'
   description: "Contando o ganho com o aluguel mais a valoriza\xE7\xE3o do im\xF3\
     vel, o investimento em propriedade bate o CDI o os t\xEDtulos IPCA+ na m\xE9dia\
@@ -32,7 +41,7 @@
   title: "Im\xF3vel alugado j\xE1 rende IPCA+14% nas maiores cidades do Sudeste \u2013\
     \ o dobro do Tesouro"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-21T21:05:43+00:00'
   description: "Risco de uma poss\xEDvel demiss\xE3o de Powell seria um golpe na confian\xE7\
@@ -42,7 +51,7 @@
   title: "Press\xE3o de Trump contra Powell aumenta d\xFAvidas sobre status dos EUA\
     \ como ref\xFAgio seguro"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-21T19:49:00+00:00'
   description: Encontro ocorre em meio a uma pausa de 90 dias nas tarifas mais altas
     de Trump
@@ -50,15 +59,6 @@
   path: https://investnews.com.br/negocios/executivos-de-walmart-e-target-se-encontram-com-trump-para-discutir-impactos-das-tarifas/
   title: Executivos do Walmart e da Target se encontram com Trump para discutir impactos
     das tarifas
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-18T09:00:00+00:00'
-  description: "Enquanto o ouro reafirma seu papel como ativo de prote\xE7\xE3o; o\
-    \ bitcoin responde \xE0 turbul\xEAncia de 2025 com a volatilidade de sempre"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/o-bitcoin-quer-ser-o-ouro-digital-mas-teima-em-se-comportar-como-acao-de-tecnologia/
-  title: "O bitcoin quer ser o ouro digital, mas teima em se comportar como uma a\xE7\
-    \xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-04-03T06:18:15+00:00'
