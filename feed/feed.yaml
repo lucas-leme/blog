@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-23T12:13:12.726844'
+  date: '2025-04-23T12:31:13.119391'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T12:13:12.725095'
+  date: '2025-04-23T12:31:13.117693'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T12:13:12.725092'
+  date: '2025-04-23T12:31:13.117689'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T12:13:12.725087'
+  date: '2025-04-23T12:31:13.117685'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T12:13:12.725077'
+  date: '2025-04-23T12:31:13.117675'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-04-23T12:19:18+00:00'
+  description: Trump's Recent Moves Revealed Key Information On His Upcoming Tariffs
+    on Chips, Pharmaceuticals, and More
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6fb1507-fb62-46e1-9c83-376af7e1fac1_2886x1843.png
+  path: https://www.apricitas.io/p/the-clues-to-trumps-future-tariffs
+  title: The Clues to Trump's Future Tariffs
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -655,7 +665,7 @@
   title: "#209 | AS TEND\xCANCIAS DE TECNOLOGIA QUE V\xC3O DOMINAR A PR\xD3XIMA D\xC9\
     CADA"
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -678,7 +688,7 @@
   path: https://www.youtube.com/watch?v=0U-RwnWaFIM
   title: 10 Rules for Writing Simple and Maintainable Code
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-04-18T08:36:07+00:00'
@@ -769,16 +779,14 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
 - author: Apricitas Economics
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-04-12T17:26:36+00:00'
   description: Measuring the Size & Impact of Trump's Newly-Imposed Global Tariffs
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec4ecd73-d6ee-4ec4-9089-fe624630f8ad_2886x1843.png
   path: https://www.apricitas.io/p/charting-the-largest-tariff-hike
   title: Charting the Largest Tariff Hike in Modern History
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-04-11T15:01:36+00:00'
   description: "\U0001F449\U0001F3FB Streamline your Git workflow - get started with\
     \ GitKraken for free: https://bit.ly/4j8AlRM.\n\nConfused about Git? You\u2019\
@@ -834,21 +842,13 @@
   title: "#156 - Do cr\xE9dito estruturado aos incentivados: a nova fase da Verde\
     \ Asset"
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2025-04-04T12:04:23+00:00'
   description: This is bad policy, executed thoughtlessly. But it is worth thinking
     through exactly *why* it is bad.
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa09097f4-cac4-44a0-a4ae-c895a934630e_3200x2915.png
   path: https://theovershoot.co/p/how-to-think-about-the-tariffs
   title: How to Think About the Tariffs
-- author: Apricitas Economics
-  categories: *id009
-  date: '2025-04-02T14:00:38+00:00'
-  description: Fear and Uncertainty About Trump's Tariffs are Already Having Negative
-    Effects on the Economy
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31eca15d-fe2d-40a3-b5fd-171f5fc1326c_2886x1843.png
-  path: https://www.apricitas.io/p/the-cost-of-tariff-chaos
-  title: The Cost of Tariff Chaos
 - author: Outliers
   categories: *id010
   date: '2025-03-26T00:00:00+00:00'
