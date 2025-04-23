@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-23T20:29:18.507870'
+  date: '2025-04-23T21:27:07.401628'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T20:29:18.506144'
+  date: '2025-04-23T21:27:07.399895'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T20:29:18.506140'
+  date: '2025-04-23T21:27:07.399891'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T20:29:18.506136'
+  date: '2025-04-23T21:27:07.399886'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-23T20:29:18.506126'
+  date: '2025-04-23T21:27:07.399876'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-04-23T21:13:10+00:00'
+  description: "<p>Os EUA \u201Cs\xE3o mais do que uma na\xE7\xE3o \u2013 s\xE3o uma\
+    \ marca universal. E n\xF3s estamos erodindo essa marca,\u201D disse Ken Griffin,\
+    \ o mais recente tit\xE3 de Wall Street a criticar a Casa Branca. Apoiador hist\xF3\
+    rico do Partido Republicano e eleitor de Donald Trump na \xFAltima elei\xE7\xE3\
+    o, o fundador e CEO da Citadel criticou a [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/trump-esta-arruinando-a-marca-dos-eua-diz-ken-griffin/\"\
+    \ rel=\"nofollow\">Trump est\xE1 arruinando a \u2018marca\u2019 dos EUA, diz Ken\
+    \ Griffin</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/trump-esta-arruinando-a-marca-dos-eua-diz-ken-griffin/
+  title: "Trump est\xE1 arruinando a \u2018marca\u2019 dos EUA, diz Ken Griffin"
 - author: Apricitas Economics
   categories: &id007
   - Macro
@@ -491,7 +507,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/stablecoins-and-crypto-shocks-an-update/
   title: 'Stablecoins and Crypto Shocks: An Update'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-04-23T00:00:00+00:00'
   description: "Trump est\xE1 brincando de guerra com a economia mundial?Neste corte\
@@ -528,7 +544,7 @@
   title: "POR QUE A ESTRAT\xC9GIA DE TRUMP FOI UM DESASTRE? (E PODE CUSTAR MUITO CARO)\
     \ | Corte EP #204"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-04-22T13:40:13+00:00'
   description: Can generative AI eliminate post-earnings announcement drift (PEAD)
@@ -538,8 +554,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/22/can-generative-ai-disrupt-post-earnings-announcement-drift-pead/
   title: Can Generative AI Disrupt Post-Earnings Announcement Drift (PEAD)?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2025-04-22T04:20:31+00:00'
   description: "<p>O economista Jeffrey Sachs \u2013 professor na Columbia University\
     \ e conhecido por seu trabalho assessorando pa\xEDses como a R\xFAssia, Bol\xED\
@@ -555,7 +570,7 @@
   title: "Jeffrey Sachs: Tarifas s\xE3o \u201Cpol\xEDtica idiota\u201D e Trump governa\
     \ por decreto"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-04-22T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, recebemos Camilo Marcantonio,\
     \ CIO da Charles River Capital, para um papo sobre o momento turbulento da bolsa\
@@ -585,7 +600,7 @@
   title: "#210 | A VERDADE POR TR\xC1S DA TROCA NA TUPY E O QUE ISSO REVELA SOBRE\
     \ O BRASIL"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-22T00:00:00+00:00'
   description: "Earlier this year, Harvard scientist Kseniia Petrova landed at Boston\
@@ -617,7 +632,7 @@
   path: https://www.youtube.com/watch?v=HdTCDxX-UnQ
   title: I Have A Problem with the Light Phone III
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-04-21T11:38:17+00:00'
   description: "In light of the uncertainty dominating today\u2019s markets and headlines,\
     \ it\u2019s worth revisiting some of the behavioral pitfalls that have tripped\
@@ -626,7 +641,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/21/investing-through-uncertainty-5-lessons-in-emotional-discipline/
   title: 'Investing Through Uncertainty: 5 Lessons in Emotional Discipline'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-04-21T00:00:00+00:00'
   description: "On Monday morning, Pope Francis died at 88. The first South American\
     \ to hold the office, he was known for his commitment to social and economic justice.\
@@ -695,20 +710,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0792ed5e-1019-4b9a-8190-ae14e94aebdb_3200x2904.png
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2025-04-17T00:26:50+00:00'
-  description: "<p>A ret\xF3rica e as a\xE7\xF5es dos primeiros meses do Governo Trump\
-    \ est\xE3o afugentando turistas dos Estados Unidos, mostra uma pesquisa feita\
-    \ pelo Skift, um site americano especializado no segmento de viagens. O site perguntou\
-    \ a 1.250 pessoas da Alemanha, Canad\xE1, \xCDndia, M\xE9xico e Reino Unido que\
-    \ planejam viajar no pr\xF3ximo ano se os primeiros meses [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/os-turistas-estao-desistindo-de-viajar-aos-eua/\"\
-    \ rel=\"nofollow\">Os turistas est\xE3o desistindo de viajar aos EUA</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/os-turistas-estao-desistindo-de-viajar-aos-eua/
-  title: "Os turistas est\xE3o desistindo de viajar aos EUA"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
