@@ -1,6 +1,25 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-24T12:30:45+00:00'
+  description: "Com incertezas no radar, mercado de criptomoedas recua com investidores\
+    \ embolsando lucros ap\xF3s forte alta nos \xFAltimos dias"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-e-outras-criptomoedas-caem-com-ajuste-apos-rali-memecoin-de-trump-dispara-ate-60/
+  title: "Bitcoin e outras criptomoedas caem com ajuste ap\xF3s rali; Memecoin de\
+    \ Trump dispara at\xE9 60%"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-04-24T12:15:55+00:00'
+  description: "Porta-voz do Minist\xE9rio do Com\xE9rcio chin\xEAs rejeita especula\xE7\
+    \xF5es sobre progresso na comunica\xE7\xE3o com os EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-diz-que-nao-esta-em-negociacao-com-os-eua-e-pede-fim-de-tarifas-unilaterais/
+  title: "China diz que n\xE3o est\xE1 em negocia\xE7\xE3o com os EUA e pede fim de\
+    \ tarifas unilaterais"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-04-24T11:52:23+00:00'
   description: "Apesar de sal\xE1rios acima da m\xE9dia, ind\xFAstra encontra dificuldade\
     \ para contratar trabalhadores"
@@ -8,18 +27,8 @@
   path: https://investnews.com.br/economia/tarifas-podem-gerar-mais-empregos-na-siderurgia-dos-eua-mas-quem-vai-preencher-vagas/
   title: Tarifas podem gerar mais empregos na siderurgia dos EUA, mas quem vai preencher
     vagas?
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-24T09:00:00+00:00'
-  description: "Cria\xE7\xE3o de uma nova faixa de renda mais elevada vai restaurar\
-    \ o acesso ao cr\xE9dito imobili\xE1rio de uma parte da classe m\xE9dia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/minha-casa-minha-vida-vai-ajudar-o-setor-imobiliario-a-superar-a-crise-da-poupanca/
-  title: "Minha Casa Minha Vida vai ajudar o setor imobili\xE1rio a superar a crise\
-    \ da poupan\xE7a"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-23T11:36:04+00:00'
   description: "Apesar da arrancada do bitcoin nos \xFAltimos dias, analista refor\xE7\
     a cuidado com volatilidade diante das indefini\xE7\xF5es da guerra comercial de\
@@ -28,15 +37,6 @@
   path: https://investnews.com.br/financas/bitcoin-mantem-rali-chega-a-us-93-mil-e-criptomoedas-ganham-us-220-bi-de-valor-em-2-dias/
   title: "Bitcoin mant\xE9m rali, chega a US$ 93 mil e criptomoedas ganham US$ 220\
     \ bi de valor em 2 dias"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-22T12:07:00+00:00'
-  description: "Criptomoedas subiram nos \xFAltimos dias, na contram\xE3o do d\xF3\
-    lar, enquanto Trump defende que Fed deveria cortar os juros nos EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-forte-e-supera-us-88-mil-em-meio-a-ameacas-de-trump-contra-presidente-do-fed/
-  title: "Bitcoin sobe forte e supera US$ 90 mil em meio a amea\xE7as de Trump contra\
-    \ presidente do Fed"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
