@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-24T14:06:19+00:00'
+  description: "Empresas de v\xE1rios setores est\xE3o aumentando os pre\xE7os, cortando\
+    \ a orienta\xE7\xE3o financeira e alertando sobre a crescente incerteza, uma vez\
+    \ que a guerra comercial do presidente dos Estados Unidos, Donald Trump, eleva\
+    \ os custos, interrompe as cadeias de suprimentos e desperta preocupa\xE7\xF5\
+    es sobre a economia global. Balan\xE7os corporativos desta quinta-feira (24) deixaram\
+    \ claro que empresas [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guerra-comercial-de-trump-espalha-preocupacao-entre-empresas/
+  title: "Guerra comercial de Trump espalha preocupa\xE7\xE3o entre empresas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +22,7 @@
   title: "Bitcoin e outras criptomoedas caem com ajuste ap\xF3s rali; Memecoin de\
     \ Trump dispara at\xE9 60%"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-24T12:15:55+00:00'
   description: "Porta-voz do Minist\xE9rio do Com\xE9rcio chin\xEAs rejeita especula\xE7\
     \xF5es sobre progresso na comunica\xE7\xE3o com os EUA"
@@ -18,15 +30,6 @@
   path: https://investnews.com.br/economia/china-diz-que-nao-esta-em-negociacao-com-os-eua-e-pede-fim-de-tarifas-unilaterais/
   title: "China diz que n\xE3o est\xE1 em negocia\xE7\xE3o com os EUA e pede fim de\
     \ tarifas unilaterais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-24T11:52:23+00:00'
-  description: "Apesar de sal\xE1rios acima da m\xE9dia, ind\xFAstra encontra dificuldade\
-    \ para contratar trabalhadores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifas-podem-gerar-mais-empregos-na-siderurgia-dos-eua-mas-quem-vai-preencher-vagas/
-  title: Tarifas podem gerar mais empregos na siderurgia dos EUA, mas quem vai preencher
-    vagas?
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-04-23T11:36:04+00:00'
