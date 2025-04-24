@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-24T19:02:56+00:00'
+  description: "Ap\xF3s uma gest\xE3o que atrapalhou a vida das empresas cripto, novo\
+    \ presidente da SEC \xE9 uma promessa de virada para o setor"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/paul-atkins-o-novo-presidente-da-sec-que-pode-mudar-o-futuro-das-criptomoedas-e-afetar-ate-o-brasil/
+  title: "Paul Atkins: o novo presidente da SEC que pode mudar o futuro das criptomoedas\
+    \ \u2013 e afetar at\xE9 o Brasil"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -21,8 +31,7 @@
   path: https://investnews.com.br/economia/banco-central-vai-revisar-regras-e-tamanho-do-fgc/
   title: Banco Central vai revisar regras e tamanho do FGC
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-24T12:30:45+00:00'
   description: "Com incertezas no radar, mercado de criptomoedas recua com investidores\
     \ embolsando lucros ap\xF3s forte alta nos \xFAltimos dias"
@@ -30,13 +39,3 @@
   path: https://investnews.com.br/financas/bitcoin-e-outras-criptomoedas-caem-com-ajuste-apos-rali-memecoin-de-trump-dispara-ate-60/
   title: "Bitcoin e outras criptomoedas caem com ajuste ap\xF3s rali; Memecoin de\
     \ Trump dispara at\xE9 60%"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-23T11:36:04+00:00'
-  description: "Apesar da arrancada do bitcoin nos \xFAltimos dias, analista refor\xE7\
-    a cuidado com volatilidade diante das indefini\xE7\xF5es da guerra comercial de\
-    \ Trump"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-mantem-rali-chega-a-us-93-mil-e-criptomoedas-ganham-us-220-bi-de-valor-em-2-dias/
-  title: "Bitcoin mant\xE9m rali, chega a US$ 93 mil e criptomoedas ganham US$ 220\
-    \ bi de valor em 2 dias"
