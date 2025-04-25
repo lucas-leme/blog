@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-25T02:09:28.754032'
+  date: '2025-04-25T11:07:21.036721'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T02:09:28.752317'
+  date: '2025-04-25T11:07:21.034951'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T02:09:28.752313'
+  date: '2025-04-25T11:07:21.034947'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T02:09:28.752309'
+  date: '2025-04-25T11:07:21.034943'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T02:09:28.752300'
+  date: '2025-04-25T11:07:21.034933'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-04-25T00:00:00+00:00'
+  description: "President Trump\u2019s deportations, tariffs, federal layoffs and\
+    \ funding suspensions have generated nonstop headlines and frayed confidence,\
+    \ yet left surprisingly little trace on the economy. Hiring, spending and inflation\
+    \ look a lot like they did under Joe Biden. As Trump\u2019s first 100 days draw\
+    \ to a close, Kate Linebaugh and Molly Ball explore the state of the U.S. economy\
+    \ with Chief Economics Commentator Greg Ip and try to understand what might be\
+    \ coming next.\_  Further Listening: - Taking Stock of the \u2018Sell America\u2019\
+    \ Trade\_ - Inside the Harvard vs. Trump Battle\_ - How Frog Embyros Landed a\
+    \ Scientist in ICE Detention\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8aaf8d34e3bd586c8bf3bca257
+  path: https://open.spotify.com/episode/3g8t1y6npWzxRnRCuVIxOJ
+  title: 'Trump 2.0: Where Is The Economy Headed?'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-04-24T21:10:43+00:00'
   description: "<p>Os sinais de distens\xE3o na trade war de Donald Trump e as declara\xE7\
@@ -505,7 +522,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/gauging-the-strength-of-chinas-economy-in-uncertain-times/
   title: "Gauging the Strength of China\u2019s Economy in Uncertain Times"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-04-24T00:00:00+00:00'
   description: "No epis\xF3dio 211 do Market Makers, o piloto da F\xF3rmula E e empres\xE1\
@@ -537,8 +554,7 @@
   title: "#211 | O QUE N\xC3O QUEREM QUE VOC\xCA SAIBA SOBRE O FUTURO DOS CARROS NO\
     \ MUNDO"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-04-24T00:00:00+00:00'
   description: "Something strange happened in the US financial system earlier this\
     \ week: the stock market, the bond market, and the value of the dollar all slumped.\
@@ -595,7 +611,7 @@
   path: https://open.spotify.com/episode/1d6IcHUrwyA3PgEwUuSdkh
   title: 'Car crash: has Elon Musk damaged his business empire?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-04-23T22:15:40+00:00'
   description: "<p>NOVA YORK \u2013 O Banco Central deve elevar a Selic para no m\xE1\
     ximo 15,25% nas pr\xF3ximas duas reuni\xF5es \u2013 mas o aumento pode ser menor\
@@ -619,7 +635,7 @@
   path: https://www.apricitas.io/p/the-clues-to-trumps-future-tariffs
   title: The Clues to Trump's Future Tariffs
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-04-23T00:00:00+00:00'
   description: "Trump est\xE1 brincando de guerra com a economia mundial?Neste corte\
     \ explosivo do Market Makers, revelamos os bastidores por tr\xE1s da pol\xEDtica\
@@ -654,19 +670,6 @@
   path: https://open.spotify.com/episode/26o6RGkINSbevwbqNI2wvK
   title: "POR QUE A ESTRAT\xC9GIA DE TRUMP FOI UM DESASTRE? (E PODE CUSTAR MUITO CARO)\
     \ | Corte EP #204"
-- author: The Journal.
-  categories: *id003
-  date: '2025-04-23T00:00:00+00:00'
-  description: "President Donald Trump has been on an escalating campaign to reorder\
-    \ elite higher education. The administration\u2019s Anti-Semitism Task Force has\
-    \ frozen billions of dollars in federal funding after Harvard refused to comply\
-    \ with their demands. WSJ\u2019s Douglas Belkin on the showdown between America\u2019\
-    s most prominent university and the U.S. president. Jessica Mendoza hosts. \_\
-    \ Further Listening:  - Trump's College Crackdown\_  Sign up for WSJ\u2019s free\
-    \ What\u2019s News newsletter.\_   Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/4Rqc0wUvUacyEGyx38d0OA
-  title: Inside the Harvard vs. Trump Battle
 - author: CFA Institute Enterprising Investor
   categories: *id004
   date: '2025-04-22T13:40:13+00:00'
@@ -737,7 +740,7 @@
     \ #python"
   image: https://i1.ytimg.com/vi/0U-RwnWaFIM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=0U-RwnWaFIM
-  title: 10 Rules for Writing Simple and Maintainable Code
+  title: 10 Tips to Keep Your Software Simple
 - author: The Overshoot
   categories: &id010
   - Macro
