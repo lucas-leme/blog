@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-25T14:48:24.103367'
+  date: '2025-04-25T15:48:05.649880'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T14:48:24.101616'
+  date: '2025-04-25T15:48:05.648135'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T14:48:24.101612'
+  date: '2025-04-25T15:48:05.648131'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T14:48:24.101601'
+  date: '2025-04-25T15:48:05.648119'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-25T14:48:24.101591'
+  date: '2025-04-25T15:48:05.648108'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,27 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-04-25T15:01:06+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nPython decorators look like a great way to add functionality\u2014until they\
+    \ break your type safety, hide function requirements, and turn debugging into\
+    \ a nightmare. In this video, I\u2019ll show you why decorators can be dangerous,\
+    \ the biggest pitfalls to watch out for, and when you should actually use them.\
+    \ \n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/decorators.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:25 What Is a Python Decorator?\n1:50 How to Write Your\
+    \ Own Decorator\n5:26 Problem 1: The Order of Decorators Can Cause Unexpected\
+    \ Bugs\n8:20 Problem 2: Decorators Can Break Code Analysis and Typing\n10:18 Problem\
+    \ 3: Hidden Function Requirements\n13:19 Other Issues with Decorators\n14:17 Final\
+    \ Thoughts\n14:44 Outro\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/dVnNc9oEnF8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=dVnNc9oEnF8
+  title: Python Decorators Considered Harmful
 - author: The Journal.
   categories: &id001
   - Podcasts
@@ -625,7 +646,7 @@
   path: https://braziljournal.com/com-tarifaco-santander-ja-ve-teto-para-a-selic/
   title: "Com tarifa\xE7o, Santander j\xE1 v\xEA teto para a Selic"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-04-23T12:19:18+00:00'
@@ -680,7 +701,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/22/can-generative-ai-disrupt-post-earnings-announcement-drift-pead/
   title: Can Generative AI Disrupt Post-Earnings Announcement Drift (PEAD)?
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-04-21T20:14:23+00:00'
@@ -719,10 +740,7 @@
   title: "Roxton McNeal and Siddharth Sethi \u2013\_Building Multi-Strategy QIS Portfolios\
     \ (S7E16)"
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-04-18T15:00:02+00:00'
   description: "\U0001F449 Take your productivity to the next level and keep your\
     \ team organized - try monday.com for free today: https://bit.ly/424BbYW.\n\n\
@@ -753,7 +771,7 @@
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-04-15T23:31:15+00:00'
   description: 'Tech YouTube is getting weird... but the bionic hand is truly awesome
 
@@ -783,7 +801,7 @@
   path: https://www.youtube.com/watch?v=VTs8wnMsh0k
   title: Reviewing a Bionic Hand!
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-04-15T12:00:00+00:00'
   description: ''
@@ -791,43 +809,19 @@
   path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-christopher-vella
   title: Conversations with Frank Fabozzi, CFA, Featuring Christopher Vella, CFA
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-04-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/optimal-design-of-life-cycle-funds
   title: Optimal Design of Life-Cycle Funds in Emerging Market Countries
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2025-04-12T17:26:36+00:00'
   description: Measuring the Size & Impact of Trump's Newly-Imposed Global Tariffs
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec4ecd73-d6ee-4ec4-9089-fe624630f8ad_2886x1843.png
   path: https://www.apricitas.io/p/charting-the-largest-tariff-hike
   title: Charting the Largest Tariff Hike in Modern History
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-04-11T15:01:36+00:00'
-  description: "\U0001F449\U0001F3FB Streamline your Git workflow - get started with\
-    \ GitKraken for free: https://bit.ly/4j8AlRM.\n\nConfused about Git? You\u2019\
-    re not alone \u2014 but after this video, you\u2019ll have a clear understanding\
-    \ of merging, rebasing, fast-forwarding, and when to use each. We\u2019ll walk\
-    \ through a real-world example using FastAPI, so you\u2019ll see how these concepts\
-    \ play out in actual projects. I\u2019ll use GitKraken to visualize each step,\
-    \ explain the pros and cons of different strategies, and even touch on GitFlow\
-    \ vs. trunk-based development. Whether you\u2019re just starting with Git or want\
-    \ to sharpen your workflow, this video will level up your Git game.\n\n\U0001F525\
-    \ Unlock powerful features and new AI capabilities in GitKraken Pro. Support my\
-    \ channel and use my referral link to get 50% off your first Pro seat, so it\u2019\
-    s just $4 per month: https://arjan.codes/gitkraken.\n\n\U0001F477 Review code\
-    \ better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/gitbranch.\n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:24 Step 1: initial commit\n2:05 Step 2: Creating a Feature Branch\n\
-    4:01 Step 3: Merging vs. Rebasing\n13:13 Alternative: trunk-based development\n\
-    18:35 Final Thoughts\n18:59 Outro \n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/viAZQjs5lHk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=viAZQjs5lHk
-  title: How to Use Git Branches Like a Pro (FastAPI Example)
 - author: The View From Apollo
   categories:
   - Podcasts

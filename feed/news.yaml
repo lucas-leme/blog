@@ -1,5 +1,19 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-25T14:58:34+00:00'
+  description: "A China isentou algumas importa\xE7\xF5es norte-americanas de suas\
+    \ tarifas, em um sinal nesta sexta-feira (25) de que a guerra comercial entre\
+    \ os dois pa\xEDses pode estar perdendo for\xE7a, embora a China tenha rapidamente\
+    \ derrubado a afirma\xE7\xE3o do presidente dos Estados Unidos, Donald Trump,\
+    \ de que as negocia\xE7\xF5es est\xE3o em andamento. Grupos empresariais disseram\
+    \ que a [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-suspende-tarifas-sobre-alguns-produtos-dos-eua-mas-nega-que-acordos-estejam-em-andamento/
+  title: China suspende tarifas sobre alguns produtos dos EUA, mas nega que acordos
+    estejam em andamento
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-25T12:17:32+00:00'
   description: "Com al\xEDvio na guerra comercial e expectativa de corte de juros,\
@@ -8,8 +22,7 @@
   path: https://investnews.com.br/financas/bitcoin-vai-a-us-94-mil-e-sobe-mais-de-12-em-semana-de-rali-das-criptomoedas/
   title: Bitcoin vai a US$ 94 mil e sobe mais de 12% em semana de rali das criptomoedas
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-25T12:13:27+00:00'
   description: "O presidente dos Estados Unidos, Donald Trump, disse que seu governo\
     \ est\xE1 conversando com a China para fechar um acordo tarif\xE1rio e que o presidente\
@@ -21,26 +34,13 @@
   title: "Trump diz que presidente da China telefonou e exp\xF5e planos de com\xE9\
     rcio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-25T09:00:00+00:00'
   description: "Saiba em quais casos h\xE1 isen\xE7\xE3o e como os rendimentos devem\
     \ ser declarados"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-debentures/
   title: "Imposto de Renda 2025: como declarar deb\xEAntures?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-24T15:46:19+00:00'
-  description: "A Boeing est\xE1 procurando revender dezenas de avi\xF5es j\xE1 prontos\
-    \ ou em constru\xE7\xE3o destinados originalmente \xE0 China. Isso depois que\
-    \ essas aeronaves foram atingidas pelas tarifas dos Estados Unidos contra o pa\xED\
-    s asi\xE1tico e pela retalia\xE7\xE3o chinesa. A sinaliza\xE7\xE3o ocorre depois\
-    \ que a companhia repatriou um terceiro jato para os EUA, em vez de deix\xE1-lo\
-    \ [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/se-a-china-nao-quer-tem-comprador-na-fila-em-busca-de-avioes-diz-boeing/
-  title: "Se a China n\xE3o quer, tem comprador na fila em busca de avi\xF5es, diz\
-    \ Boeing"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
