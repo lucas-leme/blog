@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-28T14:50:44.936994'
+  date: '2025-04-28T15:48:35.464622'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-28T14:50:44.935249'
+  date: '2025-04-28T15:48:35.462872'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-28T14:50:44.935246'
+  date: '2025-04-28T15:48:35.462869'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-28T14:50:44.935242'
+  date: '2025-04-28T15:48:35.462865'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-28T14:50:44.935232'
+  date: '2025-04-28T15:48:35.462855'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-04-28T15:06:53+00:00'
+  description: The market has stopped applauding good intentions and started testing
+    whether companies can withstand the world's mess.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/04/28/resilience-is-the-new-alpha-rethinking-risk-in-a-fragile-world/
+  title: 'Resilience Is the New Alpha: Rethinking Risk in a Fragile World'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -555,8 +564,7 @@
   title: "\u2018Chill\u2019 Trump e BC \u2018dove\u2019 destravam o mercado; Ibovespa\
     \ vai \xE0 m\xE1xima do ano"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2025-04-24T14:09:22+00:00'
   description: History, valuation metrics, and macro conditions point to an approaching
     comeback for small-cap stocks.
@@ -586,7 +594,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/04/gauging-the-strength-of-chinas-economy-in-uncertain-times/
   title: "Gauging the Strength of China\u2019s Economy in Uncertain Times"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-24T00:00:00+00:00'
   description: "No epis\xF3dio 211 do Market Makers, o piloto da F\xF3rmula E e empres\xE1\
@@ -670,7 +678,7 @@
   path: https://www.apricitas.io/p/the-clues-to-trumps-future-tariffs
   title: The Clues to Trump's Future Tariffs
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-04-23T00:00:00+00:00'
   description: "Trump est\xE1 brincando de guerra com a economia mundial?Neste corte\
     \ explosivo do Market Makers, revelamos os bastidores por tr\xE1s da pol\xEDtica\
@@ -705,15 +713,6 @@
   path: https://open.spotify.com/episode/26o6RGkINSbevwbqNI2wvK
   title: "POR QUE A ESTRAT\xC9GIA DE TRUMP FOI UM DESASTRE? (E PODE CUSTAR MUITO CARO)\
     \ | Corte EP #204"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-04-22T13:40:13+00:00'
-  description: Can generative AI eliminate post-earnings announcement drift (PEAD)
-    -- or just reshape it? Explore how this emerging technology could redefine market
-    efficiency.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/22/can-generative-ai-disrupt-post-earnings-announcement-drift-pead/
-  title: Can Generative AI Disrupt Post-Earnings Announcement Drift (PEAD)?
 - author: Marques Brownlee
   categories: &id006
   - Tech
