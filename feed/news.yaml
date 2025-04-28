@@ -1,15 +1,27 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-04-28T13:22:15+00:00'
-  description: "Com al\xEDvio tempor\xE1rio na guerra comercial e otimismo sobre regula\xE7\
-    \xE3o nos EUA, mercado de criptomoedas chega a uma semana de alta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-a-us-95-mil-e-criptomoedas-voltam-aos-us-3-trilhoes-em-valor-de-mercado/
-  title: "Bitcoin sobe a US$ 95 mil e criptomoedas voltam aos US$ 3 trilh\xF5es em\
-    \ valor de mercado"
-- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-28T19:24:19+00:00'
+  description: "As corretoras brasileiras Genial Investimentos e Warren est\xE3o entre\
+    \ as empresas que avaliam formar uma parceria com o Banco do Brasil para oferecer\
+    \ servi\xE7os de negocia\xE7\xE3o de a\xE7\xF5es a investidores pessoas f\xED\
+    sicas, segundo fontes pr\xF3ximas \xE0s negocia\xE7\xF5es ouvidas pela Bloomberg.\
+    \ O Banco do Brasil, que \xE9 o segundo maior banco do pa\xEDs em ativos e [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/genial-e-warren-negociam-parceria-com-banco-do-brasil-para-operacao-com-acoes/
+  title: "Genial e Warren negociam parceria com Banco do Brasil para opera\xE7\xE3\
+    o com a\xE7\xF5es"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2025-04-28T18:43:00+00:00'
+  description: "Neglig\xEAncia e distanciamento familiar podem ser motivos para a\
+    \ perda de heran\xE7a; entenda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/fim-da-profissao-herdeiro-filhos-que-abandonam-os-pais-podem-ficar-sem-bens-em-novo-codigo-civil/
+  title: "Fim da \u2018profiss\xE3o herdeiro\u2019: filhos que abandonam os pais podem\
+    \ ficar sem bens em novo C\xF3digo Civil"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-04-28T12:28:39+00:00'
   description: "At\xE9 as 12h desta segunda (28), as autoridades ainda n\xE3o tinha\
@@ -19,7 +31,7 @@
   title: "Apag\xE3o generalizado na Espanha e em Portugal paralisa transporte p\xFA\
     blico e atrasa voos"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-04-28T09:00:00+00:00'
   description: "Com mineradoras dosando a oferta, o pre\xE7o do min\xE9rio resiste\
     \ \xE0 press\xE3o. Vale aposta em sua competitividade, mas analistas enxergam\
@@ -28,14 +40,6 @@
   path: https://investnews.com.br/economia/minerio-de-ferro-se-segura-perto-de-us-100-em-meio-a-guerra-comercial-mas-ate-quando/
   title: "Min\xE9rio de ferro se segura perto de US$ 100 em meio \xE0 guerra comercial\
     \ \u2014 mas at\xE9 quando?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-25T12:17:32+00:00'
-  description: "Com al\xEDvio na guerra comercial e expectativa de corte de juros,\
-    \ criptomoedas t\xEAm semana de forte alta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-vai-a-us-94-mil-e-sobe-mais-de-12-em-semana-de-rali-das-criptomoedas/
-  title: Bitcoin vai a US$ 94 mil e sobe mais de 12% em semana de rali das criptomoedas
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
