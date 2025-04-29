@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-04-29T11:52:12+00:00'
+  description: "As transa\xE7\xF5es visam diminuir o endividamento das empresas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/volume-de-fusoes-e-aquisicoes/
+  title: "Volume de fus\xF5es e aquisi\xE7\xF5es \xE9 o maior desde 2021, mas n\xFA\
+    mero de opera\xE7\xF5es cai"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/economia/um-ano-e-nenhuma-emissao-o-fracasso-das-debentures-de-infraestrutura/
   title: "Um ano e nenhuma emiss\xE3o: o fracasso das deb\xEAntures de infraestrutura"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-04-28T19:24:19+00:00'
   description: "As corretoras brasileiras Genial Investimentos e Warren est\xE3o entre\
     \ as empresas que avaliam formar uma parceria com o Banco do Brasil para oferecer\
@@ -20,15 +28,6 @@
   path: https://investnews.com.br/financas/genial-e-warren-negociam-parceria-com-banco-do-brasil-para-operacao-com-acoes/
   title: "Genial e Warren negociam parceria com Banco do Brasil para opera\xE7\xE3\
     o com a\xE7\xF5es"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-04-28T18:43:00+00:00'
-  description: "Neglig\xEAncia e distanciamento familiar podem ser motivos para a\
-    \ perda de heran\xE7a; entenda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fim-da-profissao-herdeiro-filhos-que-abandonam-os-pais-podem-ficar-sem-bens-em-novo-codigo-civil/
-  title: "Fim da \u2018profiss\xE3o herdeiro\u2019: filhos que abandonam os pais podem\
-    \ ficar sem bens em novo C\xF3digo Civil"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-04-28T12:28:39+00:00'
