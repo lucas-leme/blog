@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-04-30T11:48:19+00:00'
+  description: "Mercado se mant\xE9m em compasso de espera no aguardo de novas sinaliza\xE7\
+    \xF5es sobre a guerra comercial e indicadores macroecon\xF4micos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/criptomoedas-caem-mas-bitcoin-se-mantem-em-us-95-mil-antes-da-divulgacao-de-dados-nos-eua/
+  title: "Criptomoedas caem, mas bitcoin se mant\xE9m em US$ 95 mil antes da divulga\xE7\
+    \xE3o de dados nos EUA"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "Embarca\xE7\xF5es fantasmas: como navios zumbis driblam san\xE7\xF5es e\
     \ mant\xEAm petr\xF3leo venezuelano em circula\xE7\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-04-29T12:14:54+00:00'
   description: "Mercado de criptomoedas tem pouca oscila\xE7\xE3o nesta ter\xE7a com\
     \ investidores em compasso de espera"
@@ -27,14 +36,6 @@
   path: https://investnews.com.br/financas/bitcoin-trava-em-us-95-mil/
   title: "Bitcoin \u201Ctrava\u201D em US$ 95 mil enquanto mercado aguarda indicadores\
     \ e resultados corporativos nos EUA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-04-29T11:52:12+00:00'
-  description: "As transa\xE7\xF5es visam diminuir o endividamento das empresas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/volume-de-fusoes-e-aquisicoes/
-  title: "Volume de fus\xF5es e aquisi\xE7\xF5es \xE9 o maior desde 2021, mas n\xFA\
-    mero de opera\xE7\xF5es cai"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
