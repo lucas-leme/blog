@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-04-30T21:27:13.007005'
+  date: '2025-05-01T00:48:30.754751'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-30T21:27:13.005267'
+  date: '2025-05-01T00:48:30.753038'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-30T21:27:13.005263'
+  date: '2025-05-01T00:48:30.753034'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-30T21:27:13.005258'
+  date: '2025-05-01T00:48:30.753029'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-04-30T21:27:13.005248'
+  date: '2025-05-01T00:48:30.753019'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -466,7 +466,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/letter-to-congress-opposing-elimination-of-pcaob
   title: Letter to Congress Opposing Elimination of PCAOB
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-04-30T10:42:31+00:00'
   description: Finance teams play a vital role in cross-border healthcare M&#038;A.
@@ -512,8 +512,22 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac1add88c54ca062d4d8c0978
   path: https://open.spotify.com/episode/7HFNByHv9TrIPg1Y2UMNjg
   title: "A VERDADE SOBRE A CRISE EUROPEIA QUE NINGU\xC9M FALA | Corte EP 202"
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id003
+  - Podcasts
+  date: '2025-04-30T00:00:00+00:00'
+  description: "The Davos conference brings together the world\u2019s elites to try\
+    \ to make the world a better place. But according to some current and former employees,\
+    \ the leader of the organizing body behind Davos fosters a toxic workplace. WSJ\u2019\
+    s Shalini Ramachandran discusses her investigation into the World Economic Forum\
+    \ and the impact of a recent anonymous whistleblower letter. Annie Minoff hosts.\_\
+    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/13ernzb4JMW2sjspi6ZqMZ
+  title: Behind the Scenes at Davos, Claims of a Toxic Boss
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id004
   - Economia
   date: '2025-04-29T21:24:53+00:00'
   description: "<p>O Brasil deve descumprir a principal promessa feita na aprova\xE7\
@@ -573,8 +587,7 @@
   path: https://open.spotify.com/episode/0XtKs9EQKePYCx6MEDuvyj
   title: "#212 | O QUE REALMENTE EST\xC1 POR TR\xC1S DO COLAPSO ECON\xD4MICO BRASILEIRO?"
 - author: The Journal.
-  categories: &id005
-  - Podcasts
+  categories: *id003
   date: '2025-04-29T00:00:00+00:00'
   description: "Mark Carney, a former banker, won Canada\u2019s national election\
     \ on Monday. Carney ran on an anti-Trump platform, and he's promised to try to\
@@ -588,7 +601,7 @@
   path: https://open.spotify.com/episode/2EhT5DQ2nISpnvOx67Noi8
   title: "Canada\u2019s New Leader Is Ready To Take on Trump"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-04-28T22:41:57+00:00'
   description: "<p>A atividade econ\xF4mica dos EUA come\xE7a a refletir os efeitos\
     \ do caos tarif\xE1rio e das incertezas criadas por Donald Trump. As empresas\
@@ -603,28 +616,13 @@
   path: https://braziljournal.com/evidencias-de-recessao-comecam-a-se-acumular-nos-eua/
   title: "Evid\xEAncias de recess\xE3o come\xE7am a se acumular nos EUA"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2025-04-28T15:06:53+00:00'
   description: The market has stopped applauding good intentions and started testing
     whether companies can withstand the world's mess.
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/04/28/resilience-is-the-new-alpha-rethinking-risk-in-a-fragile-world/
   title: 'Resilience Is the New Alpha: Rethinking Risk in a Fragile World'
-- author: The Journal.
-  categories: *id005
-  date: '2025-04-28T00:00:00+00:00'
-  description: "Suleiman al-Youssef\u2019s son, Shadi, has been missing since the\
-    \ beginning of the Syrian civil war. After the Assad regime was overthrown, Suleiman\
-    \ found new hope when he discovered a video of a man who looked like his son outside\
-    \ the country\u2019s most notorious prison. WSJ\u2019s Ben C. Solomon on Suleiman\u2019\
-    s search for his son and Syria\u2019s thousands of other missing loved ones like\
-    \ him. Kate Linebaugh hosts.  Further Listening:  - Assad\u2019s Regime Falls.\
-    \ What\u2019s Next For Syria?\_ - Ten Days That Shifted Power in Syria\_  Sign\
-    \ up for WSJ\u2019s free What\u2019s News newsletter .   Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/2xHqoA0aVfqTOvfYggAAPs
-  title: "A Syrian Father\u2019s Journey to Find His Son"
 - author: ArjanCodes
   categories: &id006
   - Tech
