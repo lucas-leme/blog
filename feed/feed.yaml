@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-01T11:07:01.207442'
+  date: '2025-05-01T11:24:39.118072'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-01T11:07:01.205651'
+  date: '2025-05-01T11:24:39.116336'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-01T11:07:01.205648'
+  date: '2025-05-01T11:24:39.116332'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-01T11:07:01.205643'
+  date: '2025-05-01T11:24:39.116328'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-01T11:07:01.205633'
+  date: '2025-05-01T11:24:39.116318'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: CFA Institute Research and Policy Center
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-05-01T11:14:45+00:00'
+  description: As the equity risk premium declines, alpha becomes critical. Discover
+    how investors can adapt through factor strategies and global diversification.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/05/01/when-the-equity-premium-fades-alpha-shines/
+  title: When the Equity Premium Fades, Alpha Shines
+- author: CFA Institute Research and Policy Center
+  categories: &id002
   - CFA
   date: '2025-04-30T12:00:00+00:00'
   description: ''
@@ -466,8 +475,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/letter-to-congress-opposing-elimination-of-pcaob
   title: Letter to Congress Opposing Elimination of PCAOB
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id001
   date: '2025-04-30T10:42:31+00:00'
   description: Finance teams play a vital role in cross-border healthcare M&#038;A.
     This blog offers a framework for driving integration success through strategic
@@ -476,7 +484,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/04/30/the-missing-link-in-cross-border-healthcare-ma-finance-led-integration/
   title: 'The Missing Link in Cross-Border Healthcare M&A: Finance-Led Integration'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-04-30T00:00:00+00:00'
   description: "A Europa enfrenta uma das maiores crises de sua hist\xF3ria recente:\
@@ -513,7 +521,7 @@
   path: https://open.spotify.com/episode/7HFNByHv9TrIPg1Y2UMNjg
   title: "A VERDADE SOBRE A CRISE EUROPEIA QUE NINGU\xC9M FALA | Corte EP 202"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-04-30T00:00:00+00:00'
   description: "The Davos conference brings together the world\u2019s elites to try\
@@ -527,7 +535,7 @@
   path: https://open.spotify.com/episode/13ernzb4JMW2sjspi6ZqMZ
   title: Behind the Scenes at Davos, Claims of a Toxic Boss
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2025-04-29T21:24:53+00:00'
   description: "<p>O Brasil deve descumprir a principal promessa feita na aprova\xE7\
@@ -544,14 +552,14 @@
   title: "Saneamento: Por que o Brasil caminha para descumprir a meta de universaliza\xE7\
     \xE3o"
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-04-29T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/guide-to-etfs
   title: A Comprehensive Guide to ETFs (2nd Edition)
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-04-29T00:00:00+00:00'
   description: "Neste epis\xF3dio especial do Market Makers, recebemos Henrique Meirelles,\
     \ ex-ministro da Fazenda e ex-presidente do Banco Central, para uma conversa direta\
@@ -587,7 +595,7 @@
   path: https://open.spotify.com/episode/0XtKs9EQKePYCx6MEDuvyj
   title: "#212 | O QUE REALMENTE EST\xC1 POR TR\xC1S DO COLAPSO ECON\xD4MICO BRASILEIRO?"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-04-29T00:00:00+00:00'
   description: "Mark Carney, a former banker, won Canada\u2019s national election\
     \ on Monday. Carney ran on an anti-Trump platform, and he's promised to try to\
@@ -601,7 +609,7 @@
   path: https://open.spotify.com/episode/2EhT5DQ2nISpnvOx67Noi8
   title: "Canada\u2019s New Leader Is Ready To Take on Trump"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2025-04-28T22:41:57+00:00'
   description: "<p>A atividade econ\xF4mica dos EUA come\xE7a a refletir os efeitos\
     \ do caos tarif\xE1rio e das incertezas criadas por Donald Trump. As empresas\
@@ -615,14 +623,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/evidencias-de-recessao-comecam-a-se-acumular-nos-eua/
   title: "Evid\xEAncias de recess\xE3o come\xE7am a se acumular nos EUA"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-04-28T15:06:53+00:00'
-  description: The market has stopped applauding good intentions and started testing
-    whether companies can withstand the world's mess.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/04/28/resilience-is-the-new-alpha-rethinking-risk-in-a-fragile-world/
-  title: 'Resilience Is the New Alpha: Rethinking Risk in a Fragile World'
 - author: ArjanCodes
   categories: &id006
   - Tech
