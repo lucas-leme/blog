@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-02T02:10:10.280232'
+  date: '2025-05-02T11:07:28.418831'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-02T02:10:10.278461'
+  date: '2025-05-02T11:07:28.417078'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-02T02:10:10.278457'
+  date: '2025-05-02T11:07:28.417074'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-02T02:10:10.278453'
+  date: '2025-05-02T11:07:28.417070'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-02T02:10:10.278443'
+  date: '2025-05-02T11:07:28.417060'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,6 +457,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-05-02T00:00:00+00:00'
+  description: "In our capstone episode, Kate Linebaugh and Molly Ball break down\
+    \ Trump's first 100 days in office with WSJ\u2019s Aaron Zitner, digging into\
+    \ the highs and lows, where things stand with voters and what\u2019s next for\
+    \ the administration and the country.\_\_  Further Listening: -Canada\u2019s New\
+    \ Leader Is Ready to Take On Trump\_ -Trump 2.0: Where is the Economy Headed\_\
+    \ -Taking Stock of the \u2018Sell America\u2019 Trade\_  Sign up for WSJ\u2019\
+    s free What\u2019s News newsletter.\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/45NK3kjKhdMa0NKyK9BCkJ
+  title: 'Trump 2.0: The First 100 Days'
 - author: Marques Brownlee
   categories: &id007
   - Tech
@@ -500,7 +515,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/01/rethinking-the-institutional-mandate-a-compilation-from-enterprising-investor/
   title: 'Rethinking the Institutional Mandate: A Compilation from Enterprising Investor'
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-05-01T12:00:00+00:00'
   description: ''
@@ -526,7 +541,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/01/when-the-equity-premium-fades-alpha-shines/
   title: When the Equity Premium Fades, Alpha Shines
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-05-01T00:00:00+00:00'
   description: "O Brasil precisa de uma frente anti-PT para 2026? Romeu Zema acha\
@@ -573,8 +588,7 @@
   path: https://open.spotify.com/episode/6HZX2hqpJXXoI08adEnjyN
   title: '#213 | O PLANO DA DIREITA PARA IMPEDIR O COLAPSO DO BRASIL (com Romeu Zema)'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-05-01T00:00:00+00:00'
   description: "Before committing suicide live on X, Arnold Haro had a request: \"\
     If I die, I hope you guys turn this into a meme coin.\" His dying wish came true.\
@@ -606,14 +620,14 @@
   path: https://open.spotify.com/episode/4u9qVvratNAsPgH60UFEbT
   title: 'Inheritance boom: why having rich parents may trump hard work'
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-04-30T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/letter-to-congress-opposing-elimination-of-pcaob
   title: Letter to Congress Opposing Elimination of PCAOB
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-04-30T00:00:00+00:00'
   description: "A Europa enfrenta uma das maiores crises de sua hist\xF3ria recente:\
     \ envelhecimento populacional acelerado, queda brutal na taxa de natalidade e\
@@ -648,19 +662,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac1add88c54ca062d4d8c0978
   path: https://open.spotify.com/episode/7HFNByHv9TrIPg1Y2UMNjg
   title: "A VERDADE SOBRE A CRISE EUROPEIA QUE NINGU\xC9M FALA | Corte EP 202"
-- author: The Journal.
-  categories: *id004
-  date: '2025-04-30T00:00:00+00:00'
-  description: "The Davos conference brings together the world\u2019s elites to try\
-    \ to make the world a better place. But according to some current and former employees,\
-    \ the leader of the organizing body behind Davos fosters a toxic workplace. WSJ\u2019\
-    s Shalini Ramachandran discusses her investigation into the World Economic Forum\
-    \ and the impact of a recent anonymous whistleblower letter. Annie Minoff hosts.\_\
-    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/13ernzb4JMW2sjspi6ZqMZ
-  title: Behind the Scenes at Davos, Claims of a Toxic Boss
 - author: "Economia \u2013 Brazil Journal"
   categories: &id005
   - Economia
@@ -713,7 +714,7 @@
     \ Thoughts\n14:44 Outro\n\n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/dVnNc9oEnF8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=dVnNc9oEnF8
-  title: The Hidden Dangers of Python Decorators
+  title: Python Decorators Considered Harmful
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -821,7 +822,7 @@
     \ #python"
   image: https://i1.ytimg.com/vi/0U-RwnWaFIM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=0U-RwnWaFIM
-  title: 10 Rules for Writing Simple and Maintainable Code
+  title: 10 Tips to Keep Your Software Simple
 - author: The Overshoot
   categories: &id010
   - Macro
