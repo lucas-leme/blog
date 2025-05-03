@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-03T19:17:00+00:00'
+  description: "Ap\xF3s transformar a Berkshire Hathaway em uma gigante, Buffett sai\
+    \ de cena em 2025"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/negocios/fim-de-uma-era-warren-buffett-anuncia-aposentadoria-e-escolhe-novo-ceo-da-berkshire-hathaway/
+  title: 'Fim de uma Era: Warren Buffett anuncia aposentadoria e escolhe novo CEO
+    da Berkshire Hathaway'
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-03T16:06:00+00:00'
   description: "Com\xE9rcio n\xE3o deve ser uma arma, diz megainvestidor da Berkshire\
     \ Hathaway"
@@ -9,7 +18,7 @@
   title: "Or\xE1culo de Omaha contra-ataca: Buffett critica pol\xEDtica comercial\
     \ linha-dura de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-03T13:05:00+00:00'
   description: "Valor ajudar\xE1 o Banco Mundial a se aproximar de sua meta de levantar\
@@ -19,19 +28,10 @@
   title: "Or\xE7amento de Trump inclui US$3,2 bi para fundo do Banco Mundial para\
     \ pa\xEDses pobres"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-02T13:29:56+00:00'
   description: "Economia dos EUA abriu 177.000 vagas fora do setor agr\xEDcola"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/criacao-de-vagas-nos-eua-tem-leve-desaceleracao-em-abril-taxa-de-desemprego-segue-em-42/
   title: "Cria\xE7\xE3o de vagas nos EUA tem leve desacelera\xE7\xE3o em abril; taxa\
     \ de desemprego segue em 4,2%"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-02T10:00:00+00:00'
-  description: Veja como preencher corretamente para evitar problemas com a Receita
-    Federal
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-2025-saiba-declarar-fundos-de-investimento-renda-fixa-acoes-e-criptomoedas/
-  title: "Imposto de Renda 2025: Saiba declarar fundos de investimento, a\xE7\xF5\
-    es e criptomoedas"
