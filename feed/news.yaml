@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-04T17:32:51+00:00'
+  description: Ainda assim, presidente americano insiste que gostaria que o BC reduzisse
+    os juros em algum momento
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-ameniza-o-tom-e-diz-que-nao-vai-demitir-jerome-powell-do-fed/
+  title: "Trump ameniza o tom e diz que n\xE3o vai demitir Jerome Powell do Fed"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Or\xE1culo de Omaha contra-ataca: Buffett critica pol\xEDtica comercial\
     \ linha-dura de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-03T13:05:00+00:00'
   description: "Valor ajudar\xE1 o Banco Mundial a se aproximar de sua meta de levantar\
     \ US$ 100 bilh\xF5es"
@@ -27,11 +35,3 @@
   path: https://investnews.com.br/economia/orcamento-de-trump-inclui-us32-bi-para-fundo-do-banco-mundial-para-paises-pobres/
   title: "Or\xE7amento de Trump inclui US$3,2 bi para fundo do Banco Mundial para\
     \ pa\xEDses pobres"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-02T13:29:56+00:00'
-  description: "Economia dos EUA abriu 177.000 vagas fora do setor agr\xEDcola"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/criacao-de-vagas-nos-eua-tem-leve-desaceleracao-em-abril-taxa-de-desemprego-segue-em-42/
-  title: "Cria\xE7\xE3o de vagas nos EUA tem leve desacelera\xE7\xE3o em abril; taxa\
-    \ de desemprego segue em 4,2%"
