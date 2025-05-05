@@ -1,6 +1,25 @@
 - author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-05T12:30:00+00:00'
+  description: "Editada por Alexandre Versignassi, \u2018O Essencial\u2019 chega por\
+    \ e-mail ou pode ser ouvida em plataformas de podcast"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/investnews-lanca-newsletter-ia/
+  title: "InvestNews lan\xE7a a primeira newsletter em \xE1udio do pa\xEDs com a voz\
+    \ de jornalistas sintetizada por IA"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2025-05-05T12:16:41+00:00'
+  description: "Ap\xF3s atingir US$ 97 mil na sexta, bitcoin recua e puxa o mercado\
+    \ cripto de olho no cen\xE1rio macroecon\xF4mico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-cai-e-ameaca-perder-os-us-94-mil-em-semana-de-decisao-de-juros-nos-eua/
+  title: "Bitcoin cai e amea\xE7a perder os US$ 94 mil em semana de decis\xE3o de\
+    \ juros nos EUA"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-04T17:32:51+00:00'
   description: Ainda assim, presidente americano insiste que gostaria que o BC reduzisse
     os juros em algum momento
@@ -8,8 +27,7 @@
   path: https://investnews.com.br/economia/trump-ameniza-o-tom-e-diz-que-nao-vai-demitir-jerome-powell-do-fed/
   title: "Trump ameniza o tom e diz que n\xE3o vai demitir Jerome Powell do Fed"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-03T19:17:00+00:00'
   description: "Ap\xF3s transformar a Berkshire Hathaway em uma gigante, Buffett sai\
     \ de cena em 2025"
@@ -17,21 +35,3 @@
   path: https://investnews.com.br/negocios/fim-de-uma-era-warren-buffett-anuncia-aposentadoria-e-escolhe-novo-ceo-da-berkshire-hathaway/
   title: 'Fim de uma Era: Warren Buffett anuncia aposentadoria e escolhe novo CEO
     da Berkshire Hathaway'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-05-03T16:06:00+00:00'
-  description: "Com\xE9rcio n\xE3o deve ser uma arma, diz megainvestidor da Berkshire\
-    \ Hathaway"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/oraculo-de-omaha-contra-ataca-buffett-critica-politica-comercial-linha-dura-de-trump/
-  title: "Or\xE1culo de Omaha contra-ataca: Buffett critica pol\xEDtica comercial\
-    \ linha-dura de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-03T13:05:00+00:00'
-  description: "Valor ajudar\xE1 o Banco Mundial a se aproximar de sua meta de levantar\
-    \ US$ 100 bilh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/orcamento-de-trump-inclui-us32-bi-para-fundo-do-banco-mundial-para-paises-pobres/
-  title: "Or\xE7amento de Trump inclui US$3,2 bi para fundo do Banco Mundial para\
-    \ pa\xEDses pobres"
