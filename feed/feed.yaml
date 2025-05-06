@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-06T15:49:57.396122'
+  date: '2025-05-06T18:31:28.470760'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T15:49:57.394349'
+  date: '2025-05-06T18:31:28.469022'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T15:49:57.394344'
+  date: '2025-05-06T18:31:28.469017'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T15:49:57.394340'
+  date: '2025-05-06T18:31:28.469013'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T15:49:57.394330'
+  date: '2025-05-06T18:31:28.469003'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2025-05-06T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-efrag-call-for-input-on-esrs
+  title: Response to EFRAG Call for Input on ESRS Set 1 Revision
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-05-05T12:49:33+00:00'
   description: Discover how new US tariffs could accelerate AI adoption, reshape American
@@ -468,8 +476,7 @@
   title: "How Tariffs Could Accelerate America\u2019s AI Revolution: Implications\
     \ for Investors"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-05-05T12:00:00+00:00'
   description: ''
   image: null
@@ -504,7 +511,7 @@
   path: https://theovershoot.co/p/chinas-edge-in-the-trade-struggle
   title: China's Edge in the "Trade Struggle" is More Theoretical than Real
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-05T00:00:00+00:00'
   description: "After 60 years in charge, Warren Buffett is stepping down as CEO of\
@@ -537,7 +544,7 @@
   path: https://www.youtube.com/watch?v=0oBLMwHdZ2Y
   title: The REAL Reason Python Type Hints Are Useful
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-02T00:00:00+00:00'
   description: "A little-known trade provision is ending, and it will likely upend\
     \ business for e-commerce companies and raise prices for consumers. De minimis\
@@ -587,7 +594,7 @@
   path: https://www.youtube.com/watch?v=hIzjHBwjGCk
   title: 'CMF Phone 2 Pro: Budget Phone of the Year!'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-05-01T19:07:03+00:00'
   description: "Here's a curated look at where institutional investing is under strain\u2014\
     and where forward-looking strategies offer paths to improve performance, oversight,\
@@ -595,13 +602,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/05/01/rethinking-the-institutional-mandate-a-compilation-from-enterprising-investor/
   title: 'Rethinking the Institutional Mandate: A Compilation from Enterprising Investor'
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2025-05-01T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/financial-analysts-journal-second-quarter-2025-vol-81-no-2
-  title: Financial Analysts Journal, Second Quarter 2025, Vol. 81 No. 2
 - author: Apricitas Economics
   categories: &id007
   - Macro
