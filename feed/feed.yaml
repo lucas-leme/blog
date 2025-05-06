@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-06T18:31:28.470760'
+  date: '2025-05-06T20:29:32.145295'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T18:31:28.469022'
+  date: '2025-05-06T20:29:32.143576'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T18:31:28.469017'
+  date: '2025-05-06T20:29:32.143572'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T18:31:28.469013'
+  date: '2025-05-06T20:29:32.143567'
   description: "<div class=\"ExternalClassAE4A4113CD704413AF90A342CE3ED605\"><p>\u200B\
     O ambiente externo permanece desafiador em fun\xE7\xE3o da conjuntura e da pol\xED\
     tica econ\xF4mica nos Estados Unidos, principalmente pela incerteza acerca de\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-06T18:31:28.469003'
+  date: '2025-05-06T20:29:32.143557'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -457,8 +457,27 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
-- author: CFA Institute Research and Policy Center
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-05-06T20:14:34+00:00'
+  description: The Hyperice collab is actually really impressive
+  image: https://i2.ytimg.com/vi/eXA9M9Nyo1E/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eXA9M9Nyo1E
+  title: The $900 Massaging Shoes!
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-05-06T20:13:54+00:00'
+  description: "Mark Rieder\u2019s Reminiscences of a Bond Operator is a hands-on\
+    \ guide to corporate bond analysis, fixed-income portfolio construction, and navigating\
+    \ today\u2019s evolving private credit landscape."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/05/06/book-review-reminiscences-of-a-bond-operator/
+  title: 'Book Review: Reminiscences of a Bond Operator'
+- author: CFA Institute Research and Policy Center
+  categories: &id002
   - CFA
   date: '2025-05-06T12:00:00+00:00'
   description: ''
@@ -466,8 +485,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-efrag-call-for-input-on-esrs
   title: Response to EFRAG Call for Input on ESRS Set 1 Revision
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-05-05T12:49:33+00:00'
   description: Discover how new US tariffs could accelerate AI adoption, reshape American
     industry, and unlock long-term investment opportunities amid economic disruption.
@@ -476,14 +494,14 @@
   title: "How Tariffs Could Accelerate America\u2019s AI Revolution: Implications\
     \ for Investors"
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-05-05T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/investment-perspective-tokenization-part-ii
   title: "An Investment Perspective on Tokenization \u2014 Part II"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2025-05-05T09:40:41+00:00'
   description: "<p>A concorr\xEAncia no mercado de g\xE1s natural est\xE1 longe de\
@@ -511,7 +529,7 @@
   path: https://theovershoot.co/p/chinas-edge-in-the-trade-struggle
   title: China's Edge in the "Trade Struggle" is More Theoretical than Real
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-05-05T00:00:00+00:00'
   description: "After 60 years in charge, Warren Buffett is stepping down as CEO of\
@@ -525,7 +543,7 @@
   path: https://open.spotify.com/episode/3yZad3ZdQ8iKZMeZCaoFKR
   title: There Will Never Be Another Warren Buffett
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -544,7 +562,7 @@
   path: https://www.youtube.com/watch?v=0oBLMwHdZ2Y
   title: The REAL Reason Python Type Hints Are Useful
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-05-02T00:00:00+00:00'
   description: "A little-known trade provision is ending, and it will likely upend\
     \ business for e-commerce companies and raise prices for consumers. De minimis\
@@ -562,9 +580,7 @@
   path: https://open.spotify.com/episode/7JAHJSp5g4ggOvPJCDXIFE
   title: A Tariff Loophole Just Closed. What That Means for Online Shopping.
 - author: Marques Brownlee
-  categories: &id008
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2025-05-01T20:42:22+00:00'
   description: 'Modular. Cheap. And Fun.
 
@@ -593,17 +609,8 @@
   image: https://i1.ytimg.com/vi/hIzjHBwjGCk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=hIzjHBwjGCk
   title: 'CMF Phone 2 Pro: Budget Phone of the Year!'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-05-01T19:07:03+00:00'
-  description: "Here's a curated look at where institutional investing is under strain\u2014\
-    and where forward-looking strategies offer paths to improve performance, oversight,\
-    \ and alignment."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/05/01/rethinking-the-institutional-mandate-a-compilation-from-enterprising-investor/
-  title: 'Rethinking the Institutional Mandate: A Compilation from Enterprising Investor'
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-05-01T11:45:18+00:00'
@@ -613,7 +620,7 @@
   path: https://www.apricitas.io/p/tariffs-are-already-stalling-the
   title: Tariffs are Already Stalling the Economy
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-05-01T00:00:00+00:00'
   description: "O Brasil precisa de uma frente anti-PT para 2026? Romeu Zema acha\
@@ -679,7 +686,7 @@
   path: https://open.spotify.com/episode/4u9qVvratNAsPgH60UFEbT
   title: 'Inheritance boom: why having rich parents may trump hard work'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-04-30T00:00:00+00:00'
   description: "A Europa enfrenta uma das maiores crises de sua hist\xF3ria recente:\
     \ envelhecimento populacional acelerado, queda brutal na taxa de natalidade e\
@@ -715,7 +722,7 @@
   path: https://open.spotify.com/episode/7HFNByHv9TrIPg1Y2UMNjg
   title: "A VERDADE SOBRE A CRISE EUROPEIA QUE NINGU\xC9M FALA | Corte EP 202"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2025-04-29T21:24:53+00:00'
   description: "<p>O Brasil deve descumprir a principal promessa feita na aprova\xE7\
     \xE3o do Marco Legal do Saneamento: universalizar o acesso \xE0 \xE1gua e \xE0\
@@ -731,7 +738,7 @@
   title: "Saneamento: Por que o Brasil caminha para descumprir a meta de universaliza\xE7\
     \xE3o"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-04-25T15:01:06+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython decorators look like a great way to add functionality\u2014until they\
@@ -792,27 +799,13 @@
   title: "#157 - Valora: Li\xE7\xF5es e aprendizados de uma pioneira em FIDICs | Outliers\
     \ InfoMoney"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2025-04-23T12:19:18+00:00'
   description: Trump's Recent Moves Revealed Key Information On His Upcoming Tariffs
     on Chips, Pharmaceuticals, and More
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6fb1507-fb62-46e1-9c83-376af7e1fac1_2886x1843.png
   path: https://www.apricitas.io/p/the-clues-to-trumps-future-tariffs
   title: The Clues to Trump's Future Tariffs
-- author: Marques Brownlee
-  categories: *id008
-  date: '2025-04-21T20:14:23+00:00'
-  description: "The minimal phone life makes sense, but there\u2019s just 1 problem\u2026\
-    \n\nCheck out the NEW Ridge Power Bank at https://ridge.com/MKBHD\n\nLight Phone\
-    \ 3: https://geni.us/ufdey\n\nBoox Palma review: https://youtu.be/xwTub7_we0w\n\
-    The Nothing video on phone pricing: https://youtu.be/bny2NJkJGXc?si=h0k7M948gSa3Jn4I\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \nLight Phone provided for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
-    http://facebook.com/MKBHD\n\n0:00 The Idea\n1:45 The Light Phone 3\n6:09 The Shortcomings\n\
-    10:38 The Price\n13:43 Conclusion"
-  image: https://i1.ytimg.com/vi/HdTCDxX-UnQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=HdTCDxX-UnQ
-  title: I Have A Problem with the Light Phone III
 - author: Flirting with Models
   categories:
   - Podcasts
