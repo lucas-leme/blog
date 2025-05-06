@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-06T11:45:30+00:00'
+  description: "Expectativa \xE9 de manuten\xE7\xE3o dos juros nos EUA, mas investidores\
+    \ aguardam discurso de Jerome Powell"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-oscila-proximo-aos-us-94-mil-enquanto-mercado-espera-decisao-do-fed/
+  title: "Bitcoin oscila pr\xF3ximo aos US$ 94 mil enquanto mercado espera decis\xE3\
+    o do Fed"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   path: https://investnews.com.br/economia/economia-global-ja-sente-impacto-das-tarifas-de-trump/
   title: "Economia global j\xE1 sente impacto das tarifas de Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-05T12:16:41+00:00'
   description: "Ap\xF3s atingir US$ 97 mil na sexta, bitcoin recua e puxa o mercado\
     \ cripto de olho no cen\xE1rio macroecon\xF4mico"
@@ -26,12 +35,3 @@
   path: https://investnews.com.br/financas/bitcoin-cai-e-ameaca-perder-os-us-94-mil-em-semana-de-decisao-de-juros-nos-eua/
   title: "Bitcoin cai e amea\xE7a perder os US$ 94 mil em semana de decis\xE3o de\
     \ juros nos EUA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-03T19:17:00+00:00'
-  description: "Ap\xF3s transformar a Berkshire Hathaway em uma gigante, Buffett sai\
-    \ de cena em 2025"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/fim-de-uma-era-warren-buffett-anuncia-aposentadoria-e-escolhe-novo-ceo-da-berkshire-hathaway/
-  title: 'Fim de uma Era: Warren Buffett anuncia aposentadoria e escolhe novo CEO
-    da Berkshire Hathaway'
