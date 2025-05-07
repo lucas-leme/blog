@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-07T12:49:18+00:00'
+  description: "Jerome Powell deve apontar retra\xE7\xE3o do PIB e infla\xE7\xE3o\
+    \ na tomada de decis\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fed-deve-manter-taxa-de-juros-enquanto-busca-clareza-sobre-a-economia/
+  title: Fed deve manter taxa de juros enquanto busca clareza sobre a economia
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-07T12:10:41+00:00'
   description: "Ap\xF3s dois dias de calmaria com expectativa sobre decis\xE3o de\
@@ -9,8 +18,7 @@
   title: "Bitcoin sobe e chega a US$ 97 mil com an\xFAncio de conversa entre China\
     \ e EUA sobre tarifas"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-06T18:56:43+00:00'
   description: "Tarifas for\xE7aram os dois lados a acelerar os esfor\xE7os para aumentar\
     \ as transa\xE7\xF5es comerciais"
@@ -19,19 +27,10 @@
   title: "Reino Unido e \xCDndia fecham acordo comercial na \u201Cnova era\u201D de\
     \ tarifas de Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-06T13:00:00+00:00'
   description: "Decis\xE3o do STF permite que casais idosos escolham regime de bens;\
     \ entenda"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/casamento-apos-os-70-anos-como-fica-a-divisao-de-bens/
   title: "Casamento ap\xF3s os 70 anos: como fica a divis\xE3o de bens?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-06T09:00:00+00:00'
-  description: "China j\xE1 turbinou as compras de soja brasileira em meio \xE0 guerra\
-    \ comercial, e faz quest\xE3o de mostrar"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/soja-ate-us-12-bi-em-exportacoes-dos-eua-para-a-china-podem-cair-no-colo-do-brasil/
-  title: "Soja: at\xE9 US$ 12 bi em exporta\xE7\xF5es dos EUA para a China podem cair\
-    \ no colo do Brasil"
