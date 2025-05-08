@@ -1,13 +1,23 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-08T17:17:24+00:00'
+  description: "Ap\xF3s dois dias de vota\xE7\xF5es, cardeais conclu\xEDram a vota\xE7\
+    \xE3o e a fuma\xE7a branca apareceu na chamin\xE9 da Capela SIstina \xE0s 13h07"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/robert-francis-prevost-e-eleito-o-novo-papa-e-adota-o-nome-de-leao-14/
+  title: "Robert Francis Prevost \xE9 eleito o novo papa e adota o nome de Le\xE3\
+    o 14"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
   date: '2025-05-08T11:53:17+00:00'
   description: "Ap\xF3s pouca oscila\xE7\xE3o com a decis\xE3o do Fed de manter os\
-    \ juros nos EUA, as criptomoedas passaram a subir forte na \xFAltima madrugada"
+    \ juros nos EUA, as criptomoedas passaram a subir forte nesta quinta"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/bitcoin-encosta-nos-us-100-mil-e-ethereum-salta-6-com-otimismo-sobre-guerra-comercial/
-  title: Bitcoin encosta nos US$ 100 mil e ethereum salta 6% com otimismo sobre guerra
-    comercial
+  title: "Bitcoin supera os US$ 100 mil e ethereum salta 13% com al\xEDvio na guerra\
+    \ comercial"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id001
   date: '2025-05-08T09:00:00+00:00'
@@ -18,18 +28,10 @@
   title: "Chegou a hora do t\xEDtulo prefixado.  Saiba como a decis\xE3o do Copom\
     \ afeta a renda fixa"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-07T21:38:59+00:00'
   description: "Foi a sexta alta consecutiva da taxa de juros, e Copom prega cautela\
     \ para a pr\xF3xima reuni\xE3o, em junho"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/copom-eleva-selic-em-meio-ponto-para-1475-a-sexta-alta-consecutiva/
   title: Copom eleva Selic em meio ponto para 14,75%, o maior patamar desde 2006
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-07T18:21:54+00:00'
-  description: "Decis\xE3o foi un\xE2nime e taxa fica entre 4,25% e 4,50% ao ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fed-mantem-juros-e-alerta-para-aumento-de-inflacao-e-do-desemprego/
-  title: "Fed mant\xE9m juros e alerta para aumento de infla\xE7\xE3o e do desemprego"
