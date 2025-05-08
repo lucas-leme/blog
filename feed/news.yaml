@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-08T11:53:17+00:00'
+  description: "Ap\xF3s pouca oscila\xE7\xE3o com a decis\xE3o do Fed de manter os\
+    \ juros nos EUA, as criptomoedas passaram a subir forte na \xFAltima madrugada"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-encosta-nos-us-100-mil-e-ethereum-salta-6-com-otimismo-sobre-guerra-comercial/
+  title: Bitcoin encosta nos US$ 100 mil e ethereum salta 6% com otimismo sobre guerra
+    comercial
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-08T09:00:00+00:00'
   description: "Possibilidade de fim de ciclo de alta de juros abre janela de oportunidade\
     \ para investimento em t\xEDtulos prefixados"
@@ -9,7 +18,7 @@
   title: "Chegou a hora do t\xEDtulo prefixado.  Saiba como a decis\xE3o do Copom\
     \ afeta a renda fixa"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-07T21:38:59+00:00'
   description: "Foi a sexta alta consecutiva da taxa de juros, e Copom prega cautela\
@@ -18,18 +27,9 @@
   path: https://investnews.com.br/economia/copom-eleva-selic-em-meio-ponto-para-1475-a-sexta-alta-consecutiva/
   title: Copom eleva Selic em meio ponto para 14,75%, o maior patamar desde 2006
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-07T18:21:54+00:00'
   description: "Decis\xE3o foi un\xE2nime e taxa fica entre 4,25% e 4,50% ao ano"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/fed-mantem-juros-e-alerta-para-aumento-de-inflacao-e-do-desemprego/
   title: "Fed mant\xE9m juros e alerta para aumento de infla\xE7\xE3o e do desemprego"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-07T12:10:41+00:00'
-  description: "Ap\xF3s dois dias de calmaria com expectativa sobre decis\xE3o de\
-    \ juros nos EUA, mercado cripto tem forte alta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-e-chega-a-us-97-mil-com-anuncio-de-conversa-entre-china-e-eua-sobre-tarifas/
-  title: "Bitcoin sobe e chega a US$ 97 mil com an\xFAncio de conversa entre China\
-    \ e EUA sobre tarifas"
