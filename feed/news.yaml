@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-09T14:27:29+00:00'
+  description: "Presidente sugeriu um aumento de 37% para 39,6% para aqueles que ganham\
+    \ US$ 2,5 milh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-diz-estar-ok-com-aumento-de-impostos-para-os-mais-ricos/
+  title: Trump diz estar OK com aumento de impostos para os mais ricos
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   title: "Mais do que f\xE3, investidor: diversifica\xE7\xE3o com royalties de m\xFA\
     sica pode virar hit, se o artista n\xE3o desafinar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-08T22:02:38+00:00'
   description: "A China assinou uma carta de inten\xE7\xE3o com exportadores na Argentina\
     \ para comprar cerca de US$ 900 milh\xF5es em soja, milho e \xF3leo vegetal, a\
@@ -29,11 +37,3 @@
   path: https://investnews.com.br/economia/a-china-esta-buscando-soja-milho-e-oleo-da-argentina-para-driblar-tarifas-dos-eua-dizem-fontes/
   title: "A China est\xE1 buscando soja, milho e \xF3leo da Argentina para driblar\
     \ tarifas dos EUA, dizem fontes"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-08T21:29:27+00:00'
-  description: "Sites de aposta em cripto ganharam destaque por prever vit\xF3ria\
-    \ de Trump nem 2024, mas subestimaram o cardeal Prevost"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/o-mercado-de-apostas-com-criptomoedas-errou-feio-na-eleicao-do-papa/
-  title: "O mercado de apostas com criptomoedas errou feio na elei\xE7\xE3o do papa"
