@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-09T20:29:24.993077'
+  date: '2025-05-09T21:26:47.232171'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T20:29:24.991279'
+  date: '2025-05-09T21:26:47.230418'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T20:29:24.991275'
+  date: '2025-05-09T21:26:47.230413'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T20:29:24.991270'
+  date: '2025-05-09T21:26:47.230408'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T20:29:24.991260'
+  date: '2025-05-09T21:26:47.230397'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -473,8 +473,33 @@
   image: https://i3.ytimg.com/vi/VxiLGc5A7Ho/hqdefault.jpg
   path: https://www.youtube.com/watch?v=VxiLGc5A7Ho
   title: "I\u2019m in prison..."
-- author: CFA Institute Enterprising Investor
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-05-09T00:00:00+00:00'
+  description: "AI innovator and OpenAI CEO Sam Altman sees a big problem on the horizon:\
+    \ As AI becomes more and more intelligent, how can anyone tell the humans from\
+    \ the bots? Altman\u2019s World project thinks it has a solution. WSJ\u2019s Angus\
+    \ Berwick unpacks the plan and explores some of the problems that have cropped\
+    \ up during the rollout. Annie Minoff hosts.\_  Sign up for WSJ\u2019s free What\u2019\
+    s News newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/3jabSBib2MfhETFeZa643F
+  title: Why Sam Altman Wants to Scan Your Eyeball
+- author: The View From Apollo
+  categories:
+  - Podcasts
+  date: '2025-05-09T00:00:00+00:00'
+  description: "Listen to Torsten Sl\xF8k, Apollo\u2019s Chief Economist, and Jim\
+    \ Vanek, Partner and Co-Head Global Performing Credit, discuss why demand for\
+    \ private credit is expected to remain strong as the need for direct, larger,\
+    \ and more flexible financing is sticky and likely to be reinforced by economic\
+    \ uncertainty."
+  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
+  path: https://open.spotify.com/episode/4nmb13CfY6FfW08ym9ChSq
+  title: Private Credit Investing in Volatile Times
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-05-08T12:14:00+00:00'
   description: "Commemorating Warren Buffett\u2019s legacy and the Financial Analysts\
@@ -485,7 +510,7 @@
   title: "Two Enduring Legacies, One Oracle\u2019s Exit, and \u201CBuffett\u2019s\
     \ Alpha\u201D"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-05-08T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pele MB | Mercado Bitcoin: https://www.mercadobitcoin.com.br/Neste\
@@ -523,8 +548,7 @@
   title: "#215 | A VERDADE SOBRE A REVOLU\xC7\xC3O NOS INVESTIMENTOS QUE NINGU\xC9\
     M TE CONTA"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-05-08T00:00:00+00:00'
   description: "President Donald Trump sees tariffs as a way to bring more manufacturing\
     \ to the United States. But Nike and other sneaker companies have tried to move\
@@ -563,7 +587,7 @@
   path: https://open.spotify.com/episode/18vuXChDa1K4JMpIV5kjWZ
   title: 'Buck stops here: Kenneth Rogoff on the future of the US dollar'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-05-07T15:57:31+00:00'
   description: "The headlines say active management is dead\u2014but it\u2019s quietly\
     \ reshaping itself into SMAs, model portfolios, and personalized strategies wrapped\
@@ -572,7 +596,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/07/amid-the-noise-active-management-quietly-reinvents-itself/
   title: Amid The Noise, Active Management Quietly Reinvents Itself
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-05-07T00:00:00+00:00'
   description: "D\xD4SSIE BRASIL (saiba como a corrup\xE7\xE3o do Brasil piorou nos\
     \ \xFAltimos anos): https://lp.mmakers.com.br/lp-dossie-b...\_Lula vai tentar\
@@ -609,22 +633,6 @@
   path: https://open.spotify.com/episode/2S9dCsOdYC7dfq2a2aeaBl
   title: "#214 / ROMBO DE R$90 BILH\xD5ES, FRAUDES E DEMISS\xD5ES: BASTIDORES DA CRISE\
     \ NO GOVERNO LULA"
-- author: The Journal.
-  categories: *id003
-  date: '2025-05-07T00:00:00+00:00'
-  description: "Just days before his death, Pope Francis wrestled with an enormous\
-    \ problem: the Vatican\u2019s dire finances. The world\u2019s smallest country\
-    \ is now facing a budget deficit of millions, and a looming crisis in its pension\
-    \ fund. As the Papal conclave meets this week to vote for a new leader, WSJ\u2019\
-    s Drew Hinshaw pieces through how centuries of financial mismanagement have culminated\
-    \ into a mess that the next pope will inherit. Jessica Mendoza hosts.  Further\
-    \ Listening:  - Pope Francis Has Died. What\u2019s Next for the Catholic Church?\_\
-    \ - The Mormon Church\u2019s $100 Billion Secret Fund\_  Sign up for WSJ\u2019\
-    s free What\u2019s News newsletter.\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/3c5Goh3MYJ8uIrtZnUS3oA
-  title: The Financial Mess Facing the Vatican
 - author: Marques Brownlee
   categories: &id006
   - Tech
@@ -832,18 +840,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0792ed5e-1019-4b9a-8190-ae14e94aebdb_3200x2904.png
   path: https://theovershoot.co/p/thoughts-from-the-past-two-weeks
   title: Thoughts from the Past Two Weeks
-- author: The View From Apollo
-  categories:
-  - Podcasts
-  date: '2025-04-11T00:00:00+00:00'
-  description: "Listen to Apollo Chief Economist Torsten Sl\xF8k and Robert Bittencourt,\
-    \ Partner and Co-Head of Opportunistic Credit at Apollo, discuss the impact of\
-    \ the Trump administration\u2019s new trade regime on credit markets. In an environment\
-    \ of heightened uncertainty and ongoing trade negotiations, what should be the\
-    \ focus?"
-  image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
-  path: https://open.spotify.com/episode/2RSk0ZDXjo9EzX5IZGuNeM
-  title: "Credit Investing Amid Post \u201CLiberation Day\u201D Uncertainty"
 - author: Outliers
   categories: *id010
   date: '2025-04-09T00:00:00+00:00'
