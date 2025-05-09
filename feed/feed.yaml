@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-09T14:48:51.580001'
+  date: '2025-05-09T15:48:09.365178'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T14:48:51.578224'
+  date: '2025-05-09T15:48:09.363457'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T14:48:51.578220'
+  date: '2025-05-09T15:48:09.363453'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T14:48:51.578215'
+  date: '2025-05-09T15:48:09.363448'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-09T14:48:51.578204'
+  date: '2025-05-09T15:48:09.363438'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -459,6 +459,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-05-09T15:00:51+00:00'
+  description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
+    \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019ll give you a tour of\
+    \ the new office/studio space and share what\u2019s next for ArjanCodes. \n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i3.ytimg.com/vi/VxiLGc5A7Ho/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=VxiLGc5A7Ho
+  title: "I\u2019m in prison..."
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -612,7 +626,7 @@
   path: https://open.spotify.com/episode/3c5Goh3MYJ8uIrtZnUS3oA
   title: The Financial Mess Facing the Vatican
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-05-06T20:14:34+00:00'
@@ -636,7 +650,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/investment-perspective-tokenization-part-ii
   title: "An Investment Perspective on Tokenization \u2014 Part II"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id006
+  categories: &id007
   - Economia
   date: '2025-05-05T09:40:41+00:00'
   description: "<p>A concorr\xEAncia no mercado de g\xE1s natural est\xE1 longe de\
@@ -664,10 +678,7 @@
   path: https://theovershoot.co/p/chinas-edge-in-the-trade-struggle
   title: China's Edge in the "Trade Struggle" is More Theoretical than Real
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-05-02T15:00:06+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019m going to show you\
@@ -683,7 +694,7 @@
   path: https://www.youtube.com/watch?v=0oBLMwHdZ2Y
   title: The REAL Reason Python Type Hints Are Useful
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-05-01T20:42:22+00:00'
   description: 'Modular. Cheap. And Fun.
 
@@ -723,7 +734,7 @@
   path: https://www.apricitas.io/p/tariffs-are-already-stalling-the
   title: Tariffs are Already Stalling the Economy
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id006
+  categories: *id007
   date: '2025-04-29T21:24:53+00:00'
   description: "<p>O Brasil deve descumprir a principal promessa feita na aprova\xE7\
     \xE3o do Marco Legal do Saneamento: universalizar o acesso \xE0 \xE1gua e \xE0\
@@ -738,24 +749,6 @@
   path: https://braziljournal.com/saneamento-por-que-o-brasil-caminha-para-descumprir-a-meta-de-universalizacao/
   title: "Saneamento: Por que o Brasil caminha para descumprir a meta de universaliza\xE7\
     \xE3o"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-04-25T15:01:06+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nPython decorators look like a great way to add functionality\u2014until they\
-    \ break your type safety, hide function requirements, and turn debugging into\
-    \ a nightmare. In this video, I\u2019ll show you why decorators can be dangerous,\
-    \ the biggest pitfalls to watch out for, and when you should actually use them.\
-    \ \n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/decorators.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:25 What Is a Python Decorator?\n1:50 How to Write Your\
-    \ Own Decorator\n5:26 Problem 1: The Order of Decorators Can Cause Unexpected\
-    \ Bugs\n8:20 Problem 2: Decorators Can Break Code Analysis and Typing\n10:18 Problem\
-    \ 3: Hidden Function Requirements\n13:19 Other Issues with Decorators\n14:17 Final\
-    \ Thoughts\n14:44 Outro\n\n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/dVnNc9oEnF8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=dVnNc9oEnF8
-  title: Python Decorators Considered Harmful
 - author: Liberty Street Economics
   categories:
   - Macro
