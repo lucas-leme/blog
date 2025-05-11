@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-11T02:14:10.426917'
+  date: '2025-05-11T11:06:54.716881'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-11T02:14:10.425204'
+  date: '2025-05-11T11:06:54.715145'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-11T02:14:10.425199'
+  date: '2025-05-11T11:06:54.715142'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-11T02:14:10.425195'
+  date: '2025-05-11T11:06:54.715138'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-11T02:14:10.425184'
+  date: '2025-05-11T11:06:54.715127'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -459,8 +459,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id005
+  - Economia
+  date: '2025-05-11T03:05:05+00:00'
+  description: "<p>Seguran\xE7a jur\xEDdica n\xE3o parece ser mesmo uma voca\xE7\xE3\
+    o nacional. Em seu \xFAltimo dia como presidente do Senado, 31 de janeiro, Rodrigo\
+    \ Pacheco protocolou o Projeto de Lei da reforma do C\xF3digo Civil \u2013 uma\
+    \ \u2018reforma\u2019 t\xE3o ampla que foi recebida no meio jur\xEDdico como a\
+    \ elabora\xE7\xE3o de um novo C\xF3digo. Sob o pretexto de atualizar [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/reforma-do-codigo-civil-o-que-esta-ruim-sempre-pode-piorar/\"\
+    \ rel=\"nofollow\">\u2018Reforma\u2019 do C\xF3digo Civil: o que est\xE1 ruim\
+    \ sempre pode piorar</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/reforma-do-codigo-civil-o-que-esta-ruim-sempre-pode-piorar/
+  title: "\u2018Reforma\u2019 do C\xF3digo Civil: o que est\xE1 ruim sempre pode piorar"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-05-10T14:01:39+00:00'
@@ -470,7 +486,7 @@
   path: https://www.apricitas.io/p/farce-of-the-deal
   title: The Farce of the Deal
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -644,7 +660,7 @@
   title: "#214 / ROMBO DE R$90 BILH\xD5ES, FRAUDES E DEMISS\xD5ES: BASTIDORES DA CRISE\
     \ NO GOVERNO LULA"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-05-06T20:14:34+00:00'
@@ -668,8 +684,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/investment-perspective-tokenization-part-ii
   title: "An Investment Perspective on Tokenization \u2014 Part II"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id008
-  - Economia
+  categories: *id005
   date: '2025-05-05T09:40:41+00:00'
   description: "<p>A concorr\xEAncia no mercado de g\xE1s natural est\xE1 longe de\
     \ ser uma realidade no Brasil, onde a Petrobras\_ ainda vende cerca de 80% de\
@@ -696,7 +711,7 @@
   path: https://theovershoot.co/p/chinas-edge-in-the-trade-struggle
   title: China's Edge in the "Trade Struggle" is More Theoretical than Real
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-05-02T15:00:06+00:00'
   description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
     \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019m going to show you\
@@ -710,9 +725,9 @@
     11:51 Final thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i1.ytimg.com/vi/0oBLMwHdZ2Y/hqdefault.jpg
   path: https://www.youtube.com/watch?v=0oBLMwHdZ2Y
-  title: The REAL Reason Python Type Hints Are Useful
+  title: The REAL Reason You Should Use Type Hints in Python
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-05-01T20:42:22+00:00'
   description: 'Modular. Cheap. And Fun.
 
@@ -742,29 +757,13 @@
   path: https://www.youtube.com/watch?v=hIzjHBwjGCk
   title: 'CMF Phone 2 Pro: Budget Phone of the Year!'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2025-05-01T11:45:18+00:00'
   description: Tariff Front-Running is Already Showing Up as Reductions in US GDP
     Growth
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd509faae-14ea-4430-a5e7-077d40c42e6e_2886x1843.png
   path: https://www.apricitas.io/p/tariffs-are-already-stalling-the
   title: Tariffs are Already Stalling the Economy
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id008
-  date: '2025-04-29T21:24:53+00:00'
-  description: "<p>O Brasil deve descumprir a principal promessa feita na aprova\xE7\
-    \xE3o do Marco Legal do Saneamento: universalizar o acesso \xE0 \xE1gua e \xE0\
-    \ coleta do esgoto at\xE9 2033.\_ Essa \xE9 a conclus\xE3o de um relat\xF3rio\
-    \ do UBS BB depois que o banco organizou um evento sobre o assunto com empresas\
-    \ do setor, reguladores e investidores. \u201CO [&#8230;]</p>\n<p>The post <a\
-    \ href=\"https://braziljournal.com/saneamento-por-que-o-brasil-caminha-para-descumprir-a-meta-de-universalizacao/\"\
-    \ rel=\"nofollow\">Saneamento: Por que o Brasil caminha para descumprir a meta\
-    \ de universaliza\xE7\xE3o</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/saneamento-por-que-o-brasil-caminha-para-descumprir-a-meta-de-universalizacao/
-  title: "Saneamento: Por que o Brasil caminha para descumprir a meta de universaliza\xE7\
-    \xE3o"
 - author: Liberty Street Economics
   categories:
   - Macro
