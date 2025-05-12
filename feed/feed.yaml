@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-12T13:42:46.683570'
+  date: '2025-05-12T14:50:28.372227'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-12T13:42:46.681842'
+  date: '2025-05-12T14:50:28.370444'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-12T13:42:46.681838'
+  date: '2025-05-12T14:50:28.370440'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-12T13:42:46.681834'
+  date: '2025-05-12T14:50:28.370436'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-12T13:42:46.681823'
+  date: '2025-05-12T14:50:28.370425'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece desafiador em fun\xE7\xE3\
@@ -459,6 +459,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/19032025
   title: "BC - Copom Ata - 269\xAA Reuni\xE3o - 18-19 mar\xE7o, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-05-12T14:37:28+00:00'
+  description: Successful investing isn't just about numbers. It's about aligning
+    strategy with the stories people believe about their future.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/05/12/how-clients-investment-goals-reflect-risk-behavior-and-hidden-biases/
+  title: "How Clients\u2019 Investment Goals Reflect Risk Behavior and Hidden Biases"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -516,7 +525,7 @@
   path: https://www.youtube.com/watch?v=VxiLGc5A7Ho
   title: "I\u2019m in prison..."
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-09T00:00:00+00:00'
   description: "AI innovator and OpenAI CEO Sam Altman sees a big problem on the horizon:\
@@ -541,8 +550,7 @@
   path: https://open.spotify.com/episode/4nmb13CfY6FfW08ym9ChSq
   title: Private Credit Investing in Volatile Times
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-05-08T12:14:00+00:00'
   description: "Commemorating Warren Buffett\u2019s legacy and the Financial Analysts\
     \ Journal\u2019s 80th Anniversary through the lens of the award-winning article,\
@@ -590,7 +598,7 @@
   title: "#215 | A VERDADE SOBRE A REVOLU\xC7\xC3O NOS INVESTIMENTOS QUE NINGU\xC9\
     M TE CONTA"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-08T00:00:00+00:00'
   description: "President Donald Trump sees tariffs as a way to bring more manufacturing\
     \ to the United States. But Nike and other sneaker companies have tried to move\
@@ -628,15 +636,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
   path: https://open.spotify.com/episode/18vuXChDa1K4JMpIV5kjWZ
   title: 'Buck stops here: Kenneth Rogoff on the future of the US dollar'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-05-07T15:57:31+00:00'
-  description: "The headlines say active management is dead\u2014but it\u2019s quietly\
-    \ reshaping itself into SMAs, model portfolios, and personalized strategies wrapped\
-    \ in passive clothing."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/05/07/amid-the-noise-active-management-quietly-reinvents-itself/
-  title: Amid The Noise, Active Management Quietly Reinvents Itself
 - author: Market Makers
   categories: *id003
   date: '2025-05-07T00:00:00+00:00'
