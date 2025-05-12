@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-12T19:23:49+00:00'
+  description: "Secret\xE1rio do Tesouro dos EUA costura redu\xE7\xE3o de tarifas\
+    \ com a China e se destaca como voz pragm\xE1tica no governo Trump"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/para-o-mercado-scott-bessent-e-o-adulto-na-sala-da-guerra-tarifaria/
+  title: "Para o mercado, Scott Bessent \xE9 \u2018o adulto na sala\u2019 da guerra\
+    \ tarif\xE1ria"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: Bitcoin supera US$ 104 mil com acordo entre EUA e China; ethereum salta 40%
     em 7 dias
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-12T11:27:07+00:00'
   description: "Redu\xE7\xE3o de impostos dos EUA para produtos chineses ser\xE1 de\
     \ 145% para 30%; taxas chinesas sobre as importa\xE7\xF5es dos EUA v\xE3o de 125%\
@@ -27,12 +36,3 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/eua-e-china-chegam-a-acordo-para-reduzir-tarifas/
   title: EUA e China chegam a acordo para reduzir tarifas
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-11T18:59:25+00:00'
-  description: "Encontro em Genebra marca retomada do di\xE1logo entre as duas maiores\
-    \ economias do mundo, ap\xF3s escalada de tarifas e risco de desabastecimento"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-e-china-avancam-em-acordo-comercial-proximos-passos-saem-nesta-segunda/
-  title: "EUA e China avan\xE7am em acordo comercial; pr\xF3ximos passos saem nesta\
-    \ segunda"
