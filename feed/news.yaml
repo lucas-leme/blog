@@ -1,6 +1,25 @@
 - author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-12T11:53:21+00:00'
+  description: "Criptomoedas sustentam ganhos da \xFAltima semana com melhora no ambiente\
+    \ macroecon\xF4mico ap\xF3s acordos dos EUA sobre a guerra comercial"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-supera-us-104-mil-com-acordo-entre-eua-e-china-ethereum-salta-40-em-7-dias/
+  title: Bitcoin supera US$ 104 mil com acordo entre EUA e China; ethereum salta 40%
+    em 7 dias
+- author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2025-05-12T11:27:07+00:00'
+  description: "Redu\xE7\xE3o de impostos dos EUA para produtos chineses ser\xE1 de\
+    \ 145% para 30%; taxas chinesas sobre as importa\xE7\xF5es dos EUA v\xE3o de 125%\
+    \ para 10%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-e-china-chegam-a-acordo-para-reduzir-tarifas/
+  title: EUA e China chegam a acordo para reduzir tarifas
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-12T10:00:00+00:00'
   description: "Modelo enfrenta limita\xE7\xF5es estruturais e operacionais que podem\
     \ transformar a praticidade em dor de cabe\xE7a"
@@ -44,8 +63,7 @@
   path: https://www.reddit.com/r/CFA/comments/1kkjf8y/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-11T18:59:25+00:00'
   description: "Encontro em Genebra marca retomada do di\xE1logo entre as duas maiores\
     \ economias do mundo, ap\xF3s escalada de tarifas e risco de desabastecimento"
@@ -53,24 +71,6 @@
   path: https://investnews.com.br/economia/eua-e-china-avancam-em-acordo-comercial-proximos-passos-saem-nesta-segunda/
   title: "EUA e China avan\xE7am em acordo comercial; pr\xF3ximos passos saem nesta\
     \ segunda"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-05-11T12:41:18+00:00'
-  description: "Objetivo do governo Starmer \xE9 limitar a entrada de trabalhadores\
-    \ estrangeiros para conter avan\xE7o da direita no pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/reino-unido-propoe-endurecer-regras-de-visto-para-reduzir-imigracao-legal/
-  title: "Reino Unido prop\xF5e endurecer regras de visto para reduzir imigra\xE7\xE3\
-    o legal"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-10T10:00:00+00:00'
-  description: "Veja o que inventariantes precisam fazer para  regularizar o patrim\xF4\
-    nio junto \xE0 Receita"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-heranca-e-acessar-documentos-de-uma-pessoa-falecida/
-  title: "Imposto de Renda 2025: como declarar heran\xE7a e acessar documentos de\
-    \ uma pessoa falecida?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2023-02-14T14:33:21+00:00'
