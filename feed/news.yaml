@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-13T20:31:36+00:00'
+  description: Ex-guerrilheiro, Mujica ficou conhecido pelo estilo de vida simples
+    e pela defesa de pautas progressistas
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/morre-jose-mujica-ex-presidente-do-uruguai-aos-89-anos/
+  title: "Morre Jos\xE9 Mujica, ex-presidente do Uruguai, aos 89 anos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-13T17:39:04+00:00'
   description: "Volume financeiro no preg\xE3o chegou a R$ 9,6 bilh\xF5es"
@@ -7,8 +16,7 @@
   path: https://investnews.com.br/financas/ibovespa-renova-maxima-historica-e-ronda-os-139-mil-pontos/
   title: "Ibovespa renova m\xE1xima hist\xF3rica e ronda os 139 mil pontos"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-13T15:35:49+00:00'
   description: "O pa\xEDs asi\xE1tico reduzir\xE1 as tarifas de 34% sobre os produtos\
     \ dos EUA para 10% e cancelar\xE1 a taxa adicional de 91%"
@@ -16,7 +24,7 @@
   path: https://investnews.com.br/economia/china-ajustara-tarifas-sobre-produtos-dos-eua-para-10-na-quarta-feira/
   title: China corta tarifas sobre produtos dos EUA de 125% para 10% na quarta-feira
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-13T12:28:29+00:00'
   description: "Ap\xF3s disparada nos \xFAltimos dias, mercado de criptomoedas passa\
     \ por ajustes conforme investidores realizam lucros e esperam novidades no cen\xE1\
@@ -25,13 +33,3 @@
   path: https://investnews.com.br/financas/bitcoin-cai-para-us-103-mil-em-dia-de-realizacao-das-criptomoedas-com-alivio-na-guerra-comercial/
   title: "Bitcoin cai para US$ 103 mil em dia de realiza\xE7\xE3o das criptomoedas\
     \ com al\xEDvio na guerra comercial"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-13T11:36:35+00:00'
-  description: "Taxa ser\xE1 reduzidas de 120% para 54%, com valor fixo de US$ 100;\
-    \ analistas dizem que ainda n\xE3o est\xE1 claro se haver\xE1 al\xEDvio no com\xE9\
-    rcio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-cortam-tarifa-de-minimis-sobre-remessas-da-china/
-  title: "EUA cortam \u2018taxas das blusinhas\u2019 sobre remessas da China em meio\
-    \ \xE0 tr\xE9gua comercial"
