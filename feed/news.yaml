@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-13T15:35:49+00:00'
+  description: "O pa\xEDs asi\xE1tico reduzir\xE1 as tarifas de 34% sobre os produtos\
+    \ dos EUA para 10% e cancelar\xE1 a taxa adicional de 91%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-ajustara-tarifas-sobre-produtos-dos-eua-para-10-na-quarta-feira/
+  title: "China ajustar\xE1 tarifas sobre produtos dos EUA para 10% na quarta-feira"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-13T12:28:29+00:00'
   description: "Ap\xF3s disparada nos \xFAltimos dias, mercado de criptomoedas passa\
@@ -10,8 +19,7 @@
   title: "Bitcoin cai para US$ 103 mil em dia de realiza\xE7\xE3o das criptomoedas\
     \ com al\xEDvio na guerra comercial"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-13T11:36:35+00:00'
   description: "Taxa ser\xE1 reduzidas de 120% para 54%, com valor fixo de US$ 100;\
     \ analistas dizem que ainda n\xE3o est\xE1 claro se haver\xE1 al\xEDvio no com\xE9\
@@ -21,7 +29,7 @@
   title: "EUA cortam tarifa de \u2018minimis\u2019 sobre remessas da China em meio\
     \ \xE0 tr\xE9gua comercial"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-13T10:00:00+00:00'
   description: "Morar fora do Brasil traz mudan\xE7as importantes nas obriga\xE7\xF5\
     es fiscais, sobretudo na declara\xE7\xE3o do Imposto de Renda. Para quem se mudou\
@@ -32,12 +40,3 @@
   path: https://investnews.com.br/financas/mora-fora-veja-como-declarar-o-imposto-de-renda-em-2025-sem-dor-de-cabeca/
   title: "Mora Fora? Veja como declarar o Imposto de Renda em 2025 sem dor de cabe\xE7\
     a"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-12T19:23:49+00:00'
-  description: "Secret\xE1rio do Tesouro dos EUA costura redu\xE7\xE3o de tarifas\
-    \ com a China e se destaca como voz pragm\xE1tica no governo Trump"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/para-o-mercado-scott-bessent-e-o-adulto-na-sala-da-guerra-tarifaria/
-  title: "Para o mercado, Scott Bessent \xE9 \u2018o adulto na sala\u2019 da guerra\
-    \ tarif\xE1ria"
