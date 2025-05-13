@@ -1,16 +1,27 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-13T12:28:29+00:00'
+  description: "Ap\xF3s disparada nos \xFAltimos dias, mercado de criptomoedas passa\
+    \ por ajustes conforme investidores realizam lucros e esperam novidades no cen\xE1\
+    rio macroecon\xF4mico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-cai-para-us-103-mil-em-dia-de-realizacao-das-criptomoedas-com-alivio-na-guerra-comercial/
+  title: "Bitcoin cai para US$ 103 mil em dia de realiza\xE7\xE3o das criptomoedas\
+    \ com al\xEDvio na guerra comercial"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
   date: '2025-05-13T11:36:35+00:00'
-  description: "Decreto da Casa Branca informa que a taxa ser\xE1 reduzidas de 120%\
-    \ para 54%, com uma taxa fixa de US$ 100 a ser mantida, a partir de 14 de maio"
+  description: "Taxa ser\xE1 reduzidas de 120% para 54%, com valor fixo de US$ 100;\
+    \ analistas dizem que ainda n\xE3o est\xE1 claro se haver\xE1 al\xEDvio no com\xE9\
+    rcio"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/eua-cortam-tarifa-de-minimis-sobre-remessas-da-china/
   title: "EUA cortam tarifa \u201Cde minimis\u201D sobre remessas da China em meio\
     \ \xE0 tr\xE9gua comercial"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-13T10:00:00+00:00'
   description: "Morar fora do Brasil traz mudan\xE7as importantes nas obriga\xE7\xF5\
     es fiscais, sobretudo na declara\xE7\xE3o do Imposto de Renda. Para quem se mudou\
@@ -21,15 +32,6 @@
   path: https://investnews.com.br/financas/mora-fora-veja-como-declarar-o-imposto-de-renda-em-2025-sem-dor-de-cabeca/
   title: "Mora Fora? Veja como declarar o Imposto de Renda em 2025 sem dor de cabe\xE7\
     a"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-05-12T21:40:44+00:00'
-  description: "Suspens\xE3o de tarifas impulsiona bolsas ao redor do mundo, mas Ibovespa\
-    \ pouco reage e d\xF3lar avan\xE7a em meio a incertezas locais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/tregua-china-eua-gera-onda-compradora-nas-bolsas-menos-no-brasil-ibovespa/
-  title: "Tr\xE9gua entre China e EUA gera onda compradora nas bolsas \u2013 menos\
-    \ no Brasil"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-05-12T19:23:49+00:00'
