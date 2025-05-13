@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-13T11:36:35+00:00'
+  description: "Decreto da Casa Branca informa que a taxa ser\xE1 reduzidas de 120%\
+    \ para 54%, com uma taxa fixa de US$ 100 a ser mantida, a partir de 14 de maio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-cortam-tarifa-de-minimis-sobre-remessas-da-china/
+  title: "EUA cortam tarifa \u201Cde minimis\u201D sobre remessas da China em meio\
+    \ \xE0 tr\xE9gua comercial"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -21,8 +31,7 @@
   title: "Tr\xE9gua entre China e EUA gera onda compradora nas bolsas \u2013 menos\
     \ no Brasil"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-12T19:23:49+00:00'
   description: "Secret\xE1rio do Tesouro dos EUA costura redu\xE7\xE3o de tarifas\
     \ com a China e se destaca como voz pragm\xE1tica no governo Trump"
@@ -30,12 +39,3 @@
   path: https://investnews.com.br/economia/para-o-mercado-scott-bessent-e-o-adulto-na-sala-da-guerra-tarifaria/
   title: "Para o mercado, Scott Bessent \xE9 \u2018o adulto na sala\u2019 da guerra\
     \ tarif\xE1ria"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-12T11:27:07+00:00'
-  description: "Redu\xE7\xE3o de impostos dos EUA para produtos chineses ser\xE1 de\
-    \ 145% para 30%; taxas chinesas sobre as importa\xE7\xF5es dos EUA v\xE3o de 125%\
-    \ para 10%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-e-china-chegam-a-acordo-para-reduzir-tarifas/
-  title: EUA e China chegam a acordo para reduzir tarifas
