@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-14T11:59:36+00:00'
+  description: Em novo dia de alta, altcoins superam desempenho do bitcoin, com ganhos
+    de 10% em 24 horas
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ethereum-sobe-4-enquanto-bitcoin-fica-em-torno-de-us-104-mil/
+  title: Ethereum sobe 4%; bitcoin fica em torno de US$ 104 mil
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-13T20:31:36+00:00'
   description: Ex-guerrilheiro, Mujica ficou conhecido pelo estilo de vida simples
@@ -8,8 +17,7 @@
   path: https://investnews.com.br/economia/morre-jose-mujica-ex-presidente-do-uruguai-aos-89-anos/
   title: "Morre Jos\xE9 Mujica, ex-presidente do Uruguai, aos 89 anos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-13T17:39:04+00:00'
   description: "No melhor momento do dia, o \xEDndice ultrapassou pela primeira vez\
     \ os 139 mil pontos"
@@ -18,20 +26,10 @@
   title: "Ibovespa sobe 1,76% e fecha no maior n\xEDvel da hist\xF3ria, aos 138 mil\
     \ pontos"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-13T15:35:49+00:00'
   description: "O pa\xEDs asi\xE1tico reduzir\xE1 as tarifas de 34% sobre os produtos\
     \ dos EUA para 10% e cancelar\xE1 a taxa adicional de 91%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/china-ajustara-tarifas-sobre-produtos-dos-eua-para-10-na-quarta-feira/
   title: China corta tarifas sobre produtos dos EUA de 125% para 10% na quarta-feira
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-13T12:28:29+00:00'
-  description: "Ap\xF3s disparada nos \xFAltimos dias, mercado de criptomoedas passa\
-    \ por ajustes conforme investidores realizam lucros e esperam novidades no cen\xE1\
-    rio macroecon\xF4mico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-cai-para-us-103-mil-em-dia-de-realizacao-das-criptomoedas-com-alivio-na-guerra-comercial/
-  title: "Bitcoin cai para US$ 103 mil em dia de realiza\xE7\xE3o das criptomoedas\
-    \ com al\xEDvio na guerra comercial"
