@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-14T14:49:11.813943'
+  date: '2025-05-14T15:49:11.010329'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-14T14:49:11.812191'
+  date: '2025-05-14T15:49:11.008592'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-14T14:49:11.812187'
+  date: '2025-05-14T15:49:11.008588'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-14T14:49:11.812182'
+  date: '2025-05-14T15:49:11.008583'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-14T14:49:11.812171'
+  date: '2025-05-14T15:49:11.008572'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-05-14T15:24:27+00:00'
+  description: A leaked AI system prompt reveals hidden biases in Claude's outputs.
+    What every investment professional should know about using LLMs effectively.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/05/14/ai-bias-by-design-what-the-claude-prompt-leak-reveals-for-investment-professionals/
+  title: 'AI Bias by Design: What the Claude Prompt Leak Reveals for Investment Professionals'
 - author: Market Makers
   categories: &id001
   - Podcasts
@@ -628,7 +637,7 @@
   path: https://www.youtube.com/watch?v=yWBz2qZJ8zY
   title: 'Samsung Galaxy S25 Edge Impressions: Nobody Asked!'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-05-13T00:00:00+00:00'
   description: "On Monday, to the surprise of global investors, the U.S. and China\
@@ -646,8 +655,7 @@
   path: https://open.spotify.com/episode/6jWL05HuIkomQGn9P8ozIR
   title: Inside the Surprise U.S.-China Trade Deal
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-05-12T14:37:28+00:00'
   description: Successful investing isn't just about numbers. It's about aligning
     strategy with the stories people believe about their future.
@@ -655,7 +663,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/12/how-clients-investment-goals-reflect-risk-behavior-and-hidden-biases/
   title: "How Clients\u2019 Investment Goals Reflect Risk Behavior and Hidden Biases"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-05-12T00:00:00+00:00'
   description: "Last week, President Donald Trump nominated Dr. Casey Means to be\
     \ surgeon general. Means is a wellness influencer and, along with her brother,\
@@ -746,16 +754,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/4nmb13CfY6FfW08ym9ChSq
   title: Private Credit Investing in Volatile Times
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-05-08T12:14:00+00:00'
-  description: "Commemorating Warren Buffett\u2019s legacy and the Financial Analysts\
-    \ Journal\u2019s 80th Anniversary through the lens of the award-winning article,\
-    \ \u201CBuffett\u2019s Alpha.\u201D"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/05/08/two-enduring-foundations-one-oracles-exit-and-buffetts-alpha/
-  title: "Two Enduring Legacies, One Oracle\u2019s Exit, and \u201CBuffett\u2019s\
-    \ Alpha\u201D"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
