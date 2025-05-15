@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-15T12:12:37+00:00'
+  description: "Investidores realizam lucros enquanto aguardam novos desdobramentos\
+    \ da guerra comercial e dados macroecon\xF4micos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/20-criptomoedas-caem-bitcoin-volta-para-us-102-mil-depois-de-bater-em-us-104-mil/
+  title: 20 criptomoedas caem; bitcoin volta para US$ 102 mil, depois de bater em
+    US$ 104 mil
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-14T13:44:07+00:00'
   description: "Supervisores do Banco Central Europeu (BCE) est\xE3o pedindo a alguns\
@@ -12,8 +22,7 @@
   title: "Efeito Trump: Banco Central Europeu consulta bancos sobre financiamento\
     \ em d\xF3lar"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-14T11:59:36+00:00'
   description: Em novo dia de alta, altcoins superam desempenho do bitcoin, com ganhos
     de 10% em 24 horas
@@ -21,19 +30,10 @@
   path: https://investnews.com.br/financas/ethereum-sobe-4-enquanto-bitcoin-fica-em-torno-de-us-104-mil/
   title: Ethereum sobe 4%; bitcoin fica em torno de US$ 104 mil
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-13T20:31:36+00:00'
   description: Ex-guerrilheiro, Mujica ficou conhecido pelo estilo de vida simples
     e pela defesa de pautas progressistas
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/morre-jose-mujica-ex-presidente-do-uruguai-aos-89-anos/
   title: "Morre Jos\xE9 Mujica, ex-presidente do Uruguai, aos 89 anos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-13T17:39:04+00:00'
-  description: "No melhor momento do dia, o \xEDndice ultrapassou pela primeira vez\
-    \ os 139 mil pontos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ibovespa-renova-maxima-historica-e-ronda-os-139-mil-pontos/
-  title: "Ibovespa sobe 1,76% e fecha no maior n\xEDvel da hist\xF3ria, aos 138 mil\
-    \ pontos"
