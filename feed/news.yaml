@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-16T18:49:28+00:00'
+  description: "Em fevereiro eram 7,2 milh\xF5es de empresas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/inadimplencia-de-empresas-no-brasil-bate-recorde-e-chega-a-73-milhoes-informa-serasa/
+  title: "Inadimpl\xEAncia de empresas no Brasil bate recorde e chega a 7,3 milh\xF5\
+    es, informa Serasa"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,11 +25,10 @@
     \ alerta ao atingir a empresa americana mais influente da ind\xFAstria cripto"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/hacker-invade-a-coinbase-e-golpe-abala-a-lider-das-criptomoedas-no-sistema-tradicional/
-  title: "Hacker invade a Coinbase e golpe abala a l\xEDder das criptomoedas no sistema\
-    \ tradicional"
+  title: "Hacker invade a Coinbase e golpe abala a empresa mais influente da ind\xFA\
+    stria cripto"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-14T13:44:07+00:00'
   description: "Supervisores do Banco Central Europeu (BCE) est\xE3o pedindo a alguns\
     \ dos credores da regi\xE3o que avaliem sua necessidade de d\xF3lares em tempos\
@@ -31,11 +39,3 @@
   path: https://investnews.com.br/economia/banco-central-europeu-consulta-bancos/
   title: "Efeito Trump: Banco Central Europeu consulta bancos sobre financiamento\
     \ em d\xF3lar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-13T20:31:36+00:00'
-  description: Ex-guerrilheiro, Mujica ficou conhecido pelo estilo de vida simples
-    e pela defesa de pautas progressistas
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/morre-jose-mujica-ex-presidente-do-uruguai-aos-89-anos/
-  title: "Morre Jos\xE9 Mujica, ex-presidente do Uruguai, aos 89 anos"
