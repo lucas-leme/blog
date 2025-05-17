@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-17T10:00:00+00:00'
+  description: "Pr\xEAmio chega j\xE1 com 30% do valor descontado na fonte; veja como\
+    \ declarar em caso de bol\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-premios-de-loteria/
+  title: "Imposto de Renda 2025: Como declarar pr\xEAmios de loteria?"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   title: "Inadimpl\xEAncia de empresas no Brasil bate recorde e chega a 7,3 milh\xF5\
     es, informa Serasa"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-16T14:54:00+00:00'
   description: "Erros simples, como informa\xE7\xF5es incorretas ou omiss\xF5es, podem\
     \ levar \xE0 reten\xE7\xE3o da declara\xE7\xE3o e a transtornos desnecess\xE1\
@@ -27,12 +35,3 @@
   path: https://investnews.com.br/financas/como-nao-cair-na-malha-fina-veja-erros-comuns-do-ir-2025/
   title: "Como n\xE3o cair na malha fina do Imposto de Renda? Veja erros comuns e\
     \ como evit\xE1-los"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-16T12:59:51+00:00'
-  description: "Al\xE9m das perdas estimadas de US$ 400 milh\xF5es, o hack liga um\
-    \ alerta ao atingir a empresa americana mais influente da ind\xFAstria cripto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/hacker-invade-a-coinbase-e-golpe-abala-a-lider-das-criptomoedas-no-sistema-tradicional/
-  title: "Hacker invade a Coinbase e golpe abala a empresa mais influente da ind\xFA\
-    stria cripto"
