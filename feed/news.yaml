@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-16T22:06:24+00:00'
+  description: "Reavalia\xE7\xE3o vem depois da Fitch e da S&#038;P j\xE1 terem feito\
+    \ isso h\xE1 anos, por conta do avan\xE7o da d\xEDvida americana"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/e-nao-sobrou-nenhuma-moodys-tambem-rebaixa-a-classificacao-de-risco-dos-eua/
+  title: "E n\xE3o sobrou nenhuma: Moody\u2019s tamb\xE9m rebaixa a classifica\xE7\
+    \xE3o de risco dos EUA"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-16T18:49:28+00:00'
   description: "Em fevereiro eram 7,2 milh\xF5es de empresas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +17,7 @@
   title: "Inadimpl\xEAncia de empresas no Brasil bate recorde e chega a 7,3 milh\xF5\
     es, informa Serasa"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-16T14:54:00+00:00'
   description: "Erros simples, como informa\xE7\xF5es incorretas ou omiss\xF5es, podem\
@@ -19,7 +28,7 @@
   title: "Como n\xE3o cair na malha fina do Imposto de Renda? Veja erros comuns e\
     \ como evit\xE1-los"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-16T12:59:51+00:00'
   description: "Al\xE9m das perdas estimadas de US$ 400 milh\xF5es, o hack liga um\
     \ alerta ao atingir a empresa americana mais influente da ind\xFAstria cripto"
@@ -27,15 +36,3 @@
   path: https://investnews.com.br/financas/hacker-invade-a-coinbase-e-golpe-abala-a-lider-das-criptomoedas-no-sistema-tradicional/
   title: "Hacker invade a Coinbase e golpe abala a empresa mais influente da ind\xFA\
     stria cripto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-14T13:44:07+00:00'
-  description: "Supervisores do Banco Central Europeu (BCE) est\xE3o pedindo a alguns\
-    \ dos credores da regi\xE3o que avaliem sua necessidade de d\xF3lares em tempos\
-    \ de estresse, \xE0 medida que eles planejam cen\xE1rios nos quais n\xE3o poder\xE3\
-    o contar com a ajuda do Federal Reserve durante o governo do presidente dos Estados\
-    \ Unidos, Donald Trump, disseram tr\xEAs pessoas com [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/banco-central-europeu-consulta-bancos/
-  title: "Efeito Trump: Banco Central Europeu consulta bancos sobre financiamento\
-    \ em d\xF3lar"
