@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-18T16:48:18+00:00'
+  description: "A investiga\xE7\xE3o antidumping foi iniciada em maio de 2024, ap\xF3\
+    s os EUA aumentarem as tarifas sobre ve\xEDculos el\xE9tricos chineses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-usa-mais-uma-arma-no-arsenal-da-guerra-comercial-e-sobe-em-ate-749-tarifas-sobre-plasticos-dos-eua-ue-japao-e-taiwan/
+  title: "China usa mais uma arma no arsenal da guerra comercial e sobe em at\xE9\
+    \ 74,9% tarifas sobre pl\xE1sticos dos EUA, UE, Jap\xE3o e Taiwan"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-premios-de-loteria/
   title: "Imposto de Renda 2025: Como declarar pr\xEAmios de loteria?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-16T22:06:24+00:00'
   description: "Reavalia\xE7\xE3o vem depois da Fitch e da S&#038;P j\xE1 terem feito\
     \ isso h\xE1 anos, por conta do avan\xE7o da d\xEDvida americana"
@@ -26,11 +35,3 @@
   path: https://investnews.com.br/economia/e-nao-sobrou-nenhuma-moodys-tambem-rebaixa-a-classificacao-de-risco-dos-eua/
   title: "E n\xE3o sobrou nenhuma: Moody\u2019s tamb\xE9m rebaixa a classifica\xE7\
     \xE3o de risco dos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-16T18:49:28+00:00'
-  description: "Em fevereiro eram 7,2 milh\xF5es de empresas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inadimplencia-de-empresas-no-brasil-bate-recorde-e-chega-a-73-milhoes-informa-serasa/
-  title: "Inadimpl\xEAncia de empresas no Brasil bate recorde e chega a 7,3 milh\xF5\
-    es, informa Serasa"
