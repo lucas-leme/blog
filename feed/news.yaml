@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-18T13:09:50+00:00'
+  description: "Desempenho dos pap\xE9is apresenta queda de 4,2% ante alta de 1,3%\
+    \ do S&#038;P 500 em 2025"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/geral/fim-do-dominio-das-7-magnificas-tarifas-e-ia-pesam-sobre-acoes-de-apple-google-amazon-nvida-e-tesla/
+  title: "Fim do dom\xEDnio das 7 magn\xEDficas? Tarifas e IA pesam sobre a\xE7\xF5\
+    es de Apple, Google, Amazon, Nvida e Tesla"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-17T10:00:00+00:00'
   description: "Pr\xEAmio chega j\xE1 com 30% do valor descontado na fonte; veja como\
     \ declarar em caso de bol\xE3o"
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-premios-de-loteria/
   title: "Imposto de Renda 2025: Como declarar pr\xEAmios de loteria?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-16T22:06:24+00:00'
   description: "Reavalia\xE7\xE3o vem depois da Fitch e da S&#038;P j\xE1 terem feito\
@@ -18,20 +27,10 @@
   title: "E n\xE3o sobrou nenhuma: Moody\u2019s tamb\xE9m rebaixa a classifica\xE7\
     \xE3o de risco dos EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-16T18:49:28+00:00'
   description: "Em fevereiro eram 7,2 milh\xF5es de empresas"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/inadimplencia-de-empresas-no-brasil-bate-recorde-e-chega-a-73-milhoes-informa-serasa/
   title: "Inadimpl\xEAncia de empresas no Brasil bate recorde e chega a 7,3 milh\xF5\
     es, informa Serasa"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-16T14:54:00+00:00'
-  description: "Erros simples, como informa\xE7\xF5es incorretas ou omiss\xF5es, podem\
-    \ levar \xE0 reten\xE7\xE3o da declara\xE7\xE3o e a transtornos desnecess\xE1\
-    rios"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/como-nao-cair-na-malha-fina-veja-erros-comuns-do-ir-2025/
-  title: "Como n\xE3o cair na malha fina do Imposto de Renda? Veja erros comuns e\
-    \ como evit\xE1-los"
