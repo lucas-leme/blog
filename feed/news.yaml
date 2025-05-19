@@ -1,16 +1,25 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-19T11:47:08+00:00'
+  description: "Ap\xF3s dias de euforia, mercado de criptomoedas come\xE7a a semana\
+    \ em queda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ethereum-recua-4-e-bitcoin-cai-para-us-102-mil-depois-de-bater-em-us-106-mil/
+  title: Ethereum recua 4% e bitcoin cai para US$ 102 mil, depois de bater em US$
+    106 mil
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-19T11:20:59+00:00'
   description: "Nenhum produto de frango ou carne pode ser exportado para a UE a partir\
     \ de qualquer parte do territ\xF3rio brasileiro"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/ue-suspende-importacoes-de-carne-de-frango-do-brasil-apos-caso-de-gripe-aviaria/
-  title: "UE suspende importa\xE7\xF5es de carne de frango do Brasil ap\xF3s caso\
-    \ de gripe avi\xE1ria"
+  title: "Gripe avi\xE1ria: UE suspende importa\xE7\xF5es de carne de frango do Brasil\
+    \ e Jap\xE3o restringe prote\xEDna vinda de cidade ga\xFAcha"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-19T10:02:00+00:00'
   description: "Entenda os prazos e as regras para enviar sua declara\xE7\xE3o de\
     \ IR sem multas e com restitui\xE7\xE3o"
@@ -19,7 +28,7 @@
   title: "Imposto de Renda 2025: Evite erros e entregue sua declara\xE7\xE3o no prazo;\
     \ veja dicas"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-18T16:48:18+00:00'
   description: "A investiga\xE7\xE3o antidumping foi iniciada em maio de 2024, ap\xF3\
     s os EUA aumentarem as tarifas sobre ve\xEDculos el\xE9tricos chineses"
@@ -27,12 +36,3 @@
   path: https://investnews.com.br/economia/china-usa-mais-uma-arma-no-arsenal-da-guerra-comercial-e-sobe-em-ate-749-tarifas-sobre-plasticos-dos-eua-ue-japao-e-taiwan/
   title: "China usa mais uma arma no arsenal da guerra comercial e sobe em at\xE9\
     \ 74,9% tarifas sobre pl\xE1sticos dos EUA, UE, Jap\xE3o e Taiwan"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-18T13:09:50+00:00'
-  description: "Desempenho dos pap\xE9is apresenta queda de 4,2% ante alta de 1,3%\
-    \ do S&#038;P 500 em 2025"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/geral/fim-do-dominio-das-7-magnificas-tarifas-e-ia-pesam-sobre-acoes-de-apple-google-amazon-nvida-e-tesla/
-  title: "Fim do dom\xEDnio das 7 magn\xEDficas? Tarifas e IA pesam sobre a\xE7\xF5\
-    es de Apple, Google, Amazon, Nvida e Tesla"
