@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-20T13:43:08.868276'
+  date: '2025-05-20T14:50:09.117571'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-20T13:43:08.866519'
+  date: '2025-05-20T14:50:09.115788'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-20T13:43:08.866515'
+  date: '2025-05-20T14:50:09.115783'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-20T13:43:08.866510'
+  date: '2025-05-20T14:50:09.115777'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-20T13:43:08.866499'
+  date: '2025-05-20T14:50:09.115758'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2025-05-20T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-to-comment-financial-kpis
+  title: "Response to FASB Invitation to Comment \u2013 Financial KPIs"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -516,7 +524,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/
   title: Why Does the U.S. Always Run a Trade Deficit?
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-05-19T13:30:51+00:00'
   description: This collection of quotes from US financial history offers timeless
@@ -535,15 +543,14 @@
   path: https://www.apricitas.io/p/trumps-retreat-still-leaves-tariffs
   title: Trump's Retreat Still Leaves Tariffs at 90-Year Highs
 - author: CFA Institute Research and Policy Center
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2025-05-19T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/surveys/2025/gips-standards-asset-owner-survey
   title: "GIPS\xAE Standards Asset Owner Performance Survey Report"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-19T00:00:00+00:00'
   description: "It was supposed to be the highlight of New York\u2019s spring auction\
@@ -609,7 +616,7 @@
   path: https://www.youtube.com/watch?v=ts38mSIUPSg
   title: Stop Writing Python Like This (10 Mistakes to Avoid)
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-16T00:00:00+00:00'
   description: "A global team of betting whizzes hatched a scheme to take down the\
     \ Texas Lottery. The plan was led by a London banker-turned-bookmaker and a mysterious\
@@ -657,7 +664,7 @@
   path: https://www.youtube.com/watch?v=XbXXKhfvSF0
   title: 'Sony WH-1000XM6 Review: Back on the Throne!'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-05-15T10:42:35+00:00'
   description: Oxford professor Ludovic Phalippou challenges the private equity status
     quo in a candid discussion on performance, transparency, and the future of the
@@ -666,7 +673,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/15/private-equity-at-a-crossroads-a-conversation-with-ludovic-phalippou/
   title: 'Private Equity at a Crossroads: A Conversation with Ludovic Phalippou'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-05-15T00:00:00+00:00'
   description: "A ESTRUTURA DO PR\xD3XIMO BULL MARKET DA BOLSA | Nomes respeitados\
@@ -725,7 +732,7 @@
   path: https://open.spotify.com/episode/2HhrgNoRGaO1eW4x6ZLm0s
   title: 'Economic warfare: lessons from the US-China trade spat'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-05-14T00:00:00+00:00'
   description: "A direita vai se unir para derrotar Lula em 2026?Neste corte do podcast\
     \ Market Makers, Romeu Zema, governador de Minas Gerais, abre o jogo sobre os\
@@ -757,13 +764,6 @@
   path: https://open.spotify.com/episode/3TszupB5Z7DtL2cw7Qwj4k
   title: O QUE A DIREITA PLANEJA PARA TIRAR O PT DO PODER EM 2026 (COM OU SEM BOLSONARO)
     | Corte EP 213
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2025-05-13T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/latent-factor-cash-flow-model
-  title: A Latent Factor Cash Flow Model for Alternative Investment Funds
 - author: Marques Brownlee
   categories: *id005
   date: '2025-05-13T00:00:37+00:00'
