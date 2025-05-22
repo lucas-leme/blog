@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-21T21:27:16.031570'
+  date: '2025-05-22T00:48:25.164903'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-21T21:27:16.029833'
+  date: '2025-05-22T00:48:25.163183'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-21T21:27:16.029828'
+  date: '2025-05-22T00:48:25.163178'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-21T21:27:16.029823'
+  date: '2025-05-22T00:48:25.163173'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-21T21:27:16.029812'
+  date: '2025-05-22T00:48:25.163162'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-05-21T22:47:43+00:00'
+  description: "<p>As mudan\xE7as no setor el\xE9trico anunciadas hoje est\xE3o sendo\
+    \ amplamente chamadas de \u201Creforma\u201D \u2014 mas talvez o mais correto\
+    \ seja cham\xE1-las pelo que efetivamente s\xE3o: o mais novo programa social\
+    \ do Governo Lula. As mudan\xE7as foram propostas por meio de uma medida provis\xF3\
+    ria enviada hoje ao Congresso. Os deputados e senadores ter\xE3o 120 dias para\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/mp-do-setor-eletrico-muito-programa-social-pouca-reforma/\"\
+    \ rel=\"nofollow\">MP do setor el\xE9trico: muito programa social, pouca reforma</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/mp-do-setor-eletrico-muito-programa-social-pouca-reforma/
+  title: "MP do setor el\xE9trico: muito programa social, pouca reforma"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-05-21T13:14:36+00:00'
   description: "What 150 years of market data reveal about tariffs, growth, and investment\
@@ -508,7 +524,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/21/tariffs-and-returns-lessons-from-150-years-of-market-history/
   title: 'Tariffs and Returns: Lessons from 150 Years of Market History'
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-05-21T12:00:00+00:00'
   description: ''
@@ -535,8 +551,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/05/nonbanks-and-banks-alone-or-together/
   title: 'Nonbanks and Banks: Alone or Together?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2025-05-21T03:23:59+00:00'
   description: "<p>Se voc\xEA tivesse uma varinha m\xE1gica e pudesse remodelar instantaneamente\
     \ o desenho institucional no Brasil, em que \xE1rea voc\xEA atuaria: no mercado\
@@ -551,7 +566,7 @@
   path: https://braziljournal.com/goldberg-arida-pinho-as-reformas-para-destravar-o-brasil/
   title: 'Goldberg, Arida, Pinho: as reformas para destravar o Brasil'
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-21T00:00:00+00:00'
   description: "As baterias que usamos hoje s\xE3o sustent\xE1veis ou estamos ignorando\
@@ -583,7 +598,7 @@
   path: https://open.spotify.com/episode/7A02pxzlAqqNSaO3onUhsX
   title: "O FUTURO ASSUSTADOR DAS BATERIAS QUE V\xC3O MUDAR O MUNDO | Corte EP 211"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-05-21T00:00:00+00:00'
   description: "A ESTRUTURA DO PR\xD3XIMO BULL MARKET DA BOLSA | Nomes respeitados\
     \ do mercado v\xE3o explicar o pr\xF3ximo grande ciclo de alta da B3 numa reuni\xE3\
@@ -619,7 +634,7 @@
   title: "ESSE \xC9 O PRINCIPAL MOTIVO PELO QUAL VOC\xCA PERDE DINHEIRO NA BOLSA |\
     \ Market Makers #218"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-05-21T00:00:00+00:00'
   description: "Blockbuster drugs. Rising profits. Strong sales. And yet, Novo Nordisk,\
@@ -642,14 +657,14 @@
   path: https://www.youtube.com/watch?v=ufZ_u188GAM
   title: Trying on Clothes with AI
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-05-20T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-to-comment-financial-kpis
   title: "Response to FASB Invitation to Comment \u2013 Financial KPIs"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-05-20T00:00:00+00:00'
   description: "President Donald Trump visited Capitol Hill today to urge passage\
     \ of his multitrillion dollar tax and spending agenda.  The bill is a complex\
@@ -685,7 +700,7 @@
   path: https://open.spotify.com/episode/5r9ZO2WxcOpqhAufDfPuEn
   title: '#159 - A nova ordem global com Absolute | InfoMoney Outliers'
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2025-05-19T13:30:51+00:00'
   description: This collection of quotes from US financial history offers timeless
     lessons in vice, virtue, and investing wisdom for every generation.
@@ -713,22 +728,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15bb69a2-a557-4f8b-a1ec-4be7b7e09ded_3202x3295.png
   path: https://theovershoot.co/p/exorbitant-privileges-burdens-etc
   title: Exorbitant Privileges, Burdens, etc. and the Implications for Fiscal Policy
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2025-05-16T22:22:14+00:00'
-  description: "<p>A Moody\u2019s rebaixou o cr\xE9dito dos EUA agora \xE0 tarde,\
-    \ depois do fechamento dos mercados. O pa\xEDs j\xE1 n\xE3o ostenta mais a nota\
-    \ triple-A na ag\xEAncia de classifica\xE7\xE3o de risco; a Moody\u2019s \xE9\
-    \ a terceira das tr\xEAs principais firmas de rating a retirar a nota m\xE1xima\
-    \ dos EUA.\_ A ag\xEAncia justificou o downgrade citando o [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/moodys-tira-o-triple-a-dos-eua-citando-deficit-e-divida-nas-alturas/\"\
-    \ rel=\"nofollow\">Moody\u2019s tira o \u2018triple A\u2019 dos EUA, citando o\
-    \ d\xE9ficit e a d\xEDvida</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/moodys-tira-o-triple-a-dos-eua-citando-deficit-e-divida-nas-alturas/
-  title: "Moody\u2019s tira o \u2018triple A\u2019 dos EUA, citando o d\xE9ficit e\
-    \ a d\xEDvida"
 - author: ArjanCodes
   categories: &id009
   - Tech
