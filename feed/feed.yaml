@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-22T12:31:10.803581'
+  date: '2025-05-22T13:42:52.649835'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-22T12:31:10.801851'
+  date: '2025-05-22T13:42:52.648086'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-22T12:31:10.801847'
+  date: '2025-05-22T13:42:52.648082'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-22T12:31:10.801843'
+  date: '2025-05-22T13:42:52.648077'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-22T12:31:10.801833'
+  date: '2025-05-22T13:42:52.648066'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-05-22T12:31:28+00:00'
+  description: "<p>No Brasil, existem 27 mil normas ambientais em vigor \u2013 e 5\
+    \ mil obras de infraestrutura est\xE3o paradas por quest\xF5es de licenciamento,\
+    \ segundo um levantamento de 2022 do Minist\xE9rio da Infraestrutura.\_ Agora,\
+    \ este cen\xE1rio est\xE1 prestes a mudar.\_ Depois de 21 anos em tramita\xE7\xE3\
+    o (em que boa parte do tempo foi mantido engavetado), um novo [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/senado-aprova-o-novo-marco-do-licenciamento-ambiental-pode-ser-um-divisor-de-aguas/\"\
+    \ rel=\"nofollow\">Senado aprova o novo marco do licenciamento ambiental. Pode\
+    \ ser um divisor de \xE1guas</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/senado-aprova-o-novo-marco-do-licenciamento-ambiental-pode-ser-um-divisor-de-aguas/
+  title: "Senado aprova o novo marco do licenciamento ambiental. Pode ser um divisor\
+    \ de \xE1guas"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-05-22T10:08:09+00:00'
   description: "The US downgrade won\u2019t upend markets\u2014but it may reshape\
@@ -508,8 +525,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/05/22/the-downgrade-is-done-the-investor-response-is-just-beginning/
   title: The Downgrade Is Done. The Investor Response Is Just Beginning
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-05-21T22:47:43+00:00'
   description: "<p>As mudan\xE7as no setor el\xE9trico anunciadas hoje est\xE3o sendo\
     \ amplamente chamadas de \u201Creforma\u201D \u2014 mas talvez o mais correto\
@@ -524,7 +540,7 @@
   path: https://braziljournal.com/mp-do-setor-eletrico-muito-programa-social-pouca-reforma/
   title: "MP do setor el\xE9trico: muito programa social, pouca reforma"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-05-21T13:14:36+00:00'
   description: "What 150 years of market data reveal about tariffs, growth, and investment\
     \ returns\u2014and how equity factors have historically delivered resilience."
@@ -558,21 +574,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/05/nonbanks-and-banks-alone-or-together/
   title: 'Nonbanks and Banks: Alone or Together?'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-05-21T03:23:59+00:00'
-  description: "<p>Se voc\xEA tivesse uma varinha m\xE1gica e pudesse remodelar instantaneamente\
-    \ o desenho institucional no Brasil, em que \xE1rea voc\xEA atuaria: no mercado\
-    \ de cr\xE9dito, no mercado de trabalho ou no sistema tribut\xE1rio? Essa foi\
-    \ a provoca\xE7\xE3o inicial de Daniel Goldberg \u2013 o secret\xE1rio de Direito\
-    \ Econ\xF4mico do Minist\xE9rio da Justi\xE7a e fundador da Lumina Capital [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/goldberg-arida-pinho-as-reformas-para-destravar-o-brasil/\"\
-    \ rel=\"nofollow\">Goldberg, Arida, Pinho: as reformas para destravar o Brasil</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/goldberg-arida-pinho-as-reformas-para-destravar-o-brasil/
-  title: 'Goldberg, Arida, Pinho: as reformas para destravar o Brasil'
 - author: Market Makers
   categories: &id003
   - Podcasts
