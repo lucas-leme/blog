@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-23T14:49:02.429835'
+  date: '2025-05-23T15:48:31.961755'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T14:49:02.428050'
+  date: '2025-05-23T15:48:31.960032'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T14:49:02.428046'
+  date: '2025-05-23T15:48:31.960028'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T14:49:02.428041'
+  date: '2025-05-23T15:48:31.960023'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T14:49:02.428031'
+  date: '2025-05-23T15:48:31.960013'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: ArjanCodes
+  categories: &id007
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-05-23T15:00:03+00:00'
+  description: "\U0001F4A1 Save hours every week and bring your tasks, calendars,\
+    \ and AI assistant into one powerful app. Try AkiFlow here \u2192 https://akiflow.pro/ArjanCodes.\n\
+    \nCurious what tech stack powers ArjanCodes? In this video, I walk you through\
+    \ the real tools and technologies we use\u2014Python, FastAPI, TypeScript, Cloudflare,\
+    \ GitHub Actions, and even our own SDK\u2014to build automations, websites, and\
+    \ our business portal. \n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n0:41 Only Python?\n1:45 Website\n4:05 Akiflow\
+    \ Sponsored Segment\n6:20 Automations\n12:09 Moneysnake SDK\n14:17 Business Portal\n\
+    18:45 Why This Stack Works for Us\n19:26 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i2.ytimg.com/vi/1g8nwmDvRhE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=1g8nwmDvRhE
+  title: "My 2025 Tech Stack: What I\u2019m Actually Using (and Why)"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -731,7 +750,7 @@
   path: https://www.youtube.com/watch?v=ufZ_u188GAM
   title: Trying on Clothes with AI
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-05-20T00:00:00+00:00'
   description: "No epis\xF3dio 159 do Outliers Infomoney, Clara Sodr\xE9 e Fabiano\
@@ -752,7 +771,7 @@
   path: https://open.spotify.com/episode/5r9ZO2WxcOpqhAufDfPuEn
   title: '#159 - A nova ordem global com Absolute | InfoMoney Outliers'
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-05-19T12:02:17+00:00'
@@ -773,10 +792,7 @@
   path: https://theovershoot.co/p/exorbitant-privileges-burdens-etc
   title: Exorbitant Privileges, Burdens, etc. and the Implications for Fiscal Policy
 - author: ArjanCodes
-  categories: &id009
-  - Tech
-  - Code
-  - Youtube
+  categories: *id007
   date: '2025-05-16T15:01:35+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nThink\
     \ your Python code is clean? Think again. In this video, I\u2019m exposing 10\
@@ -795,7 +811,7 @@
   path: https://www.youtube.com/watch?v=ts38mSIUPSg
   title: Stop Writing Python Like This (10 Mistakes to Avoid)
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-05-12T00:00:00+00:00'
   description: "Os investimentos em infraestrutura est\xE3o em alta e se consolidaram\
     \ como uma das principais apostas nas carteiras dos investidores. Se em 2023 a\
@@ -818,24 +834,13 @@
   path: https://open.spotify.com/episode/2ViavoaZqprHw4cAYAV8Jo
   title: '#158 - Fundos de infraestrutura com Leonardo Ono da Legacy | Outliers InfoMoney'
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-05-10T14:01:39+00:00'
   description: The US-UK Trade "Deal" Achieves Basically Nothing&#8212;and That's
     a Bad Sign for "Deals" to Come
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b3164db-2c98-42fe-a468-7135b2692dd3_2886x1843.png
   path: https://www.apricitas.io/p/farce-of-the-deal
   title: The Farce of the Deal
-- author: ArjanCodes
-  categories: *id009
-  date: '2025-05-09T15:00:51+00:00'
-  description: "\U0001F477 Review code better and faster with my 3-Factor Framework:\
-    \ https://arjan.codes/diagnosis.\n\nIn this video, I\u2019ll give you a tour of\
-    \ the new office/studio space and share what\u2019s next for ArjanCodes. \n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i3.ytimg.com/vi/VxiLGc5A7Ho/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=VxiLGc5A7Ho
-  title: "I\u2019m in prison..."
 - author: The View From Apollo
   categories:
   - Podcasts
