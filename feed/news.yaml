@@ -1,6 +1,24 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-05-23T12:55:52+00:00'
+  description: "Criptomoedas esfriam rali nesta sexta-feira, mas bitcoin se mant\xE9\
+    m pr\xF3ximo ao seus maiores n\xEDveis hist\xF3ricos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/recorde-em-cima-de-recorde-bitcoin-sobe-18-em-maio-e-fica-acima-de-us-111-mil/
+  title: 'Recorde sobre recorde: bitcoin sobe 18% em maio e fica acima de US$ 111
+    mil'
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-23T12:35:34+00:00'
+  description: "Para Trump, 'UE tem sido dif\xEDcil de lidar em termos comerciais'"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/tarifa-50-uniao-europeia-junho/
+  title: "Trump fala em tarifa de 50% para produtos da Uni\xE3o Europeia a partir\
+    \ de 1\xBA de junho"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-23T11:56:57+00:00'
   description: "O Minist\xE9rio da Fazenda recuou na noite de quinta-feira (22) de\
     \ parte das medidas anunciadas, horas antes para eleva\xE7\xE3o do Imposto sobre\
@@ -11,17 +29,8 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/governo-muda-de-ideia-e-reverte-parte-das-medidas-sobre-o-aumento-do-iof/
   title: Governo muda de ideia e reverte parte das medidas sobre o aumento do IOF
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-05-23T09:00:00+00:00'
-  description: "Endividamento dos EUA, juros e ajustes nas reservas globais reacendem\
-    \ discuss\xE3o sobre o futuro da moeda americana"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/a-mare-virou-para-o-dolar-mas-por-quanto-tempo/
-  title: "A mar\xE9 virou para o d\xF3lar \u2013 mas por quanto tempo?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-05-22T15:23:00+00:00'
   description: "Cerca de R$ 11 bi ser\xE3o destinados a mais de 6,2 milh\xF5es de\
     \ contribuintes; veja como consultar"
@@ -29,12 +38,3 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-receita-libera-consulta-ao-1o-lote-de-restituicao-nesta-sexta-23/
   title: "Imposto de Renda 2025: Receita libera consulta ao 1\xBA lote de restitui\xE7\
     \xE3o nesta sexta (23)"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-22T11:58:44+00:00'
-  description: "Bitcoin segue renovando m\xE1xima hist\xF3rica e puxa o resto das\
-    \ criptomoedas para mais um dia de ganhos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-tem-nova-maxima-historica-superando-us-111-mil-e-outras-criptos-vao-no-embalo/
-  title: "Bitcoin tem nova m\xE1xima hist\xF3rica superando  US$ 111 mil, e outras\
-    \ criptos v\xE3o no embalo"
