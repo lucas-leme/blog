@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-23T21:26:21.742714'
+  date: '2025-05-24T00:48:14.592846'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T21:26:21.740946'
+  date: '2025-05-24T00:48:14.591080'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T21:26:21.740942'
+  date: '2025-05-24T00:48:14.591075'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T21:26:21.740937'
+  date: '2025-05-24T00:48:14.591070'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-23T21:26:21.740926'
+  date: '2025-05-24T00:48:14.591059'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: The Overshoot
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-05-23T23:41:17+00:00'
+  description: Long-end interest rates are rising after a prolonged period of being
+    unusually low relative to short-end rates. Even the moves in Japan look less scary
+    when viewed in light of the fundamentals.
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93c85991-d6cf-48c7-8e3f-e0c4440c6973_3205x2965.png
+  path: https://theovershoot.co/p/this-is-what-normalization-looks
+  title: This is What Normalization Looks Like (Mostly)
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -514,7 +525,7 @@
   path: https://braziljournal.com/as-sugestoes-do-bradesco-ao-governo-sobre-o-iof/
   title: "As sugest\xF5es do Bradesco ao governo sobre o IOF"
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -749,7 +760,7 @@
   path: https://www.youtube.com/watch?v=ufZ_u188GAM
   title: Trying on Clothes with AI
 - author: Outliers
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-05-20T00:00:00+00:00'
   description: "No epis\xF3dio 159 do Outliers Infomoney, Clara Sodr\xE9 e Fabiano\
@@ -770,7 +781,7 @@
   path: https://open.spotify.com/episode/5r9ZO2WxcOpqhAufDfPuEn
   title: '#159 - A nova ordem global com Absolute | InfoMoney Outliers'
 - author: Apricitas Economics
-  categories: &id009
+  categories: &id010
   - Macro
   - Newsletters
   date: '2025-05-19T12:02:17+00:00'
@@ -780,9 +791,7 @@
   path: https://www.apricitas.io/p/trumps-retreat-still-leaves-tariffs
   title: Trump's Retreat Still Leaves Tariffs at 90-Year Highs
 - author: The Overshoot
-  categories: &id010
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-05-17T08:35:19+00:00'
   description: The U.S. dollar is widely used outside the United States. That has
     implications for Americans that need to be managed, creating a tradeoff between
@@ -791,7 +800,7 @@
   path: https://theovershoot.co/p/exorbitant-privileges-burdens-etc
   title: Exorbitant Privileges, Burdens, etc. and the Implications for Fiscal Policy
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-05-16T15:01:35+00:00'
   description: "\u27A1\uFE0F Try Lokalise today: https://bit.ly/arjancodes.\n\nThink\
     \ your Python code is clean? Think again. In this video, I\u2019m exposing 10\
@@ -810,7 +819,7 @@
   path: https://www.youtube.com/watch?v=ts38mSIUPSg
   title: Stop Writing Python Like This (10 Mistakes to Avoid)
 - author: Outliers
-  categories: *id008
+  categories: *id009
   date: '2025-05-12T00:00:00+00:00'
   description: "Os investimentos em infraestrutura est\xE3o em alta e se consolidaram\
     \ como uma das principais apostas nas carteiras dos investidores. Se em 2023 a\
@@ -833,7 +842,7 @@
   path: https://open.spotify.com/episode/2ViavoaZqprHw4cAYAV8Jo
   title: '#158 - Fundos de infraestrutura com Leonardo Ono da Legacy | Outliers InfoMoney'
 - author: Apricitas Economics
-  categories: *id009
+  categories: *id010
   date: '2025-05-10T14:01:39+00:00'
   description: The US-UK Trade "Deal" Achieves Basically Nothing&#8212;and That's
     a Bad Sign for "Deals" to Come
@@ -852,15 +861,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/4nmb13CfY6FfW08ym9ChSq
   title: Private Credit Investing in Volatile Times
-- author: The Overshoot
-  categories: *id010
-  date: '2025-05-05T05:53:53+00:00'
-  description: It *should* be easier to replace lost demand than lost supply, but
-    there are good reasons to wonder whether it is actually possible for the party-state
-    to pull it off.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feba631bb-6c19-43a7-9140-f28d330c633d_3200x3045.png
-  path: https://theovershoot.co/p/chinas-edge-in-the-trade-struggle
-  title: China's Edge in the "Trade Struggle" is More Theoretical than Real
 - author: Flirting with Models
   categories:
   - Podcasts
