@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-25T14:58:17+00:00'
+  description: "Decis\xE3o de desmontar programa de incentivos institu\xEDdo em 2022\
+    \ desestabiliza estrat\xE9gias de investimento"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-correm-risco-de-perder-status-de-investimento-confiavel-diz-gestor-da-allianz-gi/
+  title: "EUA correm risco de perder status de \u2018investimento confi\xE1vel\u2019\
+    , diz gestor da Allianz GI"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-25T10:00:00+00:00'
   description: "Servi\xE7o funciona como um empr\xE9stimo; saiba regras e se compensa\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/precisa-de-dinheiro-veja-como-antecipar-a-restituicao-do-imposto-de-renda-2025/
   title: "Veja como antecipar a restitui\xE7\xE3o do Imposto de Renda 2025"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-24T14:14:41+00:00'
   description: "Em seu novo livro, Ken Rogoff diz que esse fen\xF4meno tirou demanda\
     \ pelo dinheiro verde, for\xE7ando altas nos juros dos t\xEDtulos americanos"
@@ -18,18 +27,10 @@
   title: "Bitcoin j\xE1 tirou a hegemonia do d\xF3lar na \u2018economia subterr\xE2\
     nea\u2019, diz ex-diretor do FMI"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-24T10:00:00+00:00'
   description: "Conhe\xE7a os limites de isen\xE7\xE3o para maiores de 65 anos e evite\
     \ cair na malha fina"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/imposto-de-renda-2025-como-declarar-aposentadoria/
   title: 'Imposto de Renda 2025: Como declarar aposentadoria?'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-23T12:35:34+00:00'
-  description: "Para Trump, 'UE tem sido dif\xEDcil de lidar em termos comerciais'"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifa-50-uniao-europeia-junho/
-  title: "Trump fala em tarifa de 50% para produtos da Uni\xE3o Europeia a partir\
-    \ de 1\xBA de junho"
