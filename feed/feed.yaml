@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-28T02:12:22.438104'
+  date: '2025-05-28T11:07:39.398260'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T02:12:22.436354'
+  date: '2025-05-28T11:07:39.396565'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T02:12:22.436350'
+  date: '2025-05-28T11:07:39.396561'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T02:12:22.436346'
+  date: '2025-05-28T11:07:39.396557'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -143,7 +143,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T02:12:22.436336'
+  date: '2025-05-28T11:07:39.396547'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -506,6 +506,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-05-28T09:50:55+00:00'
+  description: "<p>Para quem s\xF3 tem martelo, todo problema \xE9 prego. Incapaz\
+    \ de reduzir o peso do Estado, a \xFAnica solu\xE7\xE3o do Governo para equacionar\
+    \ as contas p\xFAblicas \xE9 criar tributos. S\xF3 que a determina\xE7\xE3o de\
+    \ castigar o contribuinte caminha de m\xE3os dadas com um cr\xF4nico planejamento\
+    \ insuficiente das consequ\xEAncias. Na quinta-feira passada, com a certeza dos\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-iof-nao-pode-cobrir-rombo-fiscal-e-o-que-diz-a-constituicao/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que\
+    \ diz a Constitui\xE7\xE3o</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-iof-nao-pode-cobrir-rombo-fiscal-e-o-que-diz-a-constituicao/
+  title: "OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que diz a Constitui\xE7\
+    \xE3o"
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
@@ -559,7 +576,7 @@
   path: https://open.spotify.com/episode/6y7coAtjw6mPB8fVQyksiZ
   title: '#220 | A SELIC EM 14,75% VAI QUEBRAR AS EMPRESAS BRASILEIRAS?'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-27T00:00:00+00:00'
   description: "Meta has gone all in on chatbots. The bots are capable of giving advice,\
@@ -639,8 +656,7 @@
   path: https://www.youtube.com/watch?v=j7W2v_FmCuE
   title: 'Top 5 Android 16 Features: Big Visuals!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-05-26T03:55:38+00:00'
   description: "<p>Numa entrevista recente ao Estad\xE3o, o Ministro Lu\xEDs Felipe\
     \ Salom\xE3o, vice-presidente do Superior Tribunal de Justi\xE7a e l\xEDder da\
@@ -655,7 +671,7 @@
   path: https://braziljournal.com/opiniao-projeto-de-codigo-civil-o-ministro-fala-mas-nao-responde/
   title: "OPINI\xC3O. Projeto de C\xF3digo Civil: o Ministro fala, mas n\xE3o responde"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-26T00:00:00+00:00'
   description: "We're off for Memorial Day but with summer reading season just beginning,\
     \ we wanted to share this episode.BookTok, the corner of TikTok that\u2019s all\
@@ -682,20 +698,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93c85991-d6cf-48c7-8e3f-e0c4440c6973_3205x2965.png
   path: https://theovershoot.co/p/this-is-what-normalization-looks
   title: This is What Normalization Looks Like (Mostly)
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-05-23T21:02:53+00:00'
-  description: "<p>Ontem \xE0 noite, pouco depois de o governo anunciar o aumento\
-    \ do IOF, executivos do mercado financeiro procuraram o Minist\xE9rio da Fazenda\
-    \ para apontar os impactos \u2013 alguns desastrosos \u2013 de parte das medidas.\
-    \ O problema mais gritante era a al\xEDquota de 3,5% sobre as aplica\xE7\xF5es\
-    \ de fundos no exterior \u2013 que poderia tornar produtos [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/as-sugestoes-do-bradesco-ao-governo-sobre-o-iof/\"\
-    \ rel=\"nofollow\">As sugest\xF5es do Bradesco ao governo sobre o IOF</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/as-sugestoes-do-bradesco-ao-governo-sobre-o-iof/
-  title: "As sugest\xF5es do Bradesco ao governo sobre o IOF"
 - author: ArjanCodes
   categories: &id009
   - Tech
