@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-28T18:31:32.105098'
+  date: '2025-05-28T20:29:51.512050'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T18:31:32.103226'
+  date: '2025-05-28T20:29:51.510298'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T18:31:32.103222'
+  date: '2025-05-28T20:29:51.510294'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T18:31:32.103218'
+  date: '2025-05-28T20:29:51.510289'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -143,7 +143,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T18:31:32.103207'
+  date: '2025-05-28T20:29:51.510279'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -536,7 +536,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/05/whos-paying-those-overdraft-fees/
   title: "Who\u2019s Paying Those Overdraft Fees?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-05-28T09:50:55+00:00'
   description: "<p>Para quem s\xF3 tem martelo, todo problema \xE9 prego. Incapaz\
@@ -552,6 +552,20 @@
   path: https://braziljournal.com/opiniao-iof-nao-pode-cobrir-rombo-fiscal-e-o-que-diz-a-constituicao/
   title: "OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que diz a Constitui\xE7\
     \xE3o"
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-05-28T00:00:00+00:00'
+  description: "The Trump administration is starting to put millions of defaulted\
+    \ student-loan borrowers into collections and threatening to confiscate their\
+    \ wages, tax refunds and federal benefits. WSJ\u2019s Oyin Adedoyin digs into\
+    \ what the restart could mean for borrowers and the economy. Annie Minoff hosts.\_\
+    \  Further Listening: -Biden\u2019s New Plan to Cancel Student Debt\_ -Breaking\
+    \ Down Student Debt Relief\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/5D3wvkoIuWiqGIbJ45UK3X
+  title: For Millions of Student-Loan Borrowers, Collections Are Coming
 - author: CFA Institute Enterprising Investor
   categories: *id001
   date: '2025-05-27T21:44:45+00:00'
@@ -604,8 +618,7 @@
   path: https://open.spotify.com/episode/6y7coAtjw6mPB8fVQyksiZ
   title: '#220 | A SELIC EM 14,75% VAI QUEBRAR AS EMPRESAS BRASILEIRAS?'
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2025-05-27T00:00:00+00:00'
   description: "Meta has gone all in on chatbots. The bots are capable of giving advice,\
     \ answering questions and playing games with users. Some feature the licensed\
@@ -684,7 +697,7 @@
   path: https://www.youtube.com/watch?v=j7W2v_FmCuE
   title: 'Top 5 Android 16 Features: Big Visuals!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-05-26T03:55:38+00:00'
   description: "<p>Numa entrevista recente ao Estad\xE3o, o Ministro Lu\xEDs Felipe\
     \ Salom\xE3o, vice-presidente do Superior Tribunal de Justi\xE7a e l\xEDder da\
@@ -698,23 +711,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-projeto-de-codigo-civil-o-ministro-fala-mas-nao-responde/
   title: "OPINI\xC3O. Projeto de C\xF3digo Civil: o Ministro fala, mas n\xE3o responde"
-- author: The Journal.
-  categories: *id003
-  date: '2025-05-26T00:00:00+00:00'
-  description: "We're off for Memorial Day but with summer reading season just beginning,\
-    \ we wanted to share this episode.BookTok, the corner of TikTok that\u2019s all\
-    \ about books, has shaken up the publishing world. Over the last few years, the\
-    \ platform has pulled in new readers, especially in the romance and fantasy genres.\
-    \ And now some of the largest publishers in the U.S. are finding new talent and\
-    \ rethinking their strategies because of TikTok. We hear from an author, a bookstore\
-    \ owner and a publisher about how TikTok has transformed the book industry. Jessica\
-    \ Mendoza hosts.This episode was first published in December 2024.  Further Listening:\
-    \  -The Rise of the Tween Shopper\_ -Inside One Publisher\u2019s Fight Against\
-    \ Book Bans\_ -Scholastic's Succession Drama\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/71lSCf4QYOvp4cyT9dVdRi
-  title: "Readers Can\u2019t Get Enough of BookTok. Publishers Are Cashing In."
 - author: The Overshoot
   categories: &id008
   - Macro

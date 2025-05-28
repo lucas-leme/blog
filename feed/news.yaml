@@ -1,15 +1,24 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-05-28T20:00:47+00:00'
+  description: "O objetivo \xE9 compensar a perda de arrecada\xE7\xE3o com o recuo\
+    \ da medida que elevou o IOF"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-vai-resgatar-fundos-iof/
+  title: Governo vai resgatar R$ 1,4 bi de fundos para compensar recuo parcial em
+    decreto do IOF
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-05-28T18:20:40+00:00'
   description: "Fundo do pr\xE9-sal viabilizou a cria\xE7\xE3o da faixa 4 que incluiu\
     \ a classe m\xE9dia no programa"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/caixa-negocia-manutencao-de-recursos-no-pre-sal-no-minha-casa-minha-vida-e-evitar-fim-da-faixa-voltada-a-classe-media/
-  title: "Caixa negocia manter recursos no pr\xE9-sal no Minha Casa Minha Vida, o\
-    \ que evitaria fim da faixa voltada \xE0 classe m\xE9dia"
+  title: "Caixa negocia garantir recursos do pr\xE9-sal no Minha Casa Minha Vida para\
+    \ manter classe m\xE9dia no programa"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-28T12:04:57+00:00'
   description: Investidores aguardam novidades sobre a guerra comercial travada pelos
@@ -18,7 +27,7 @@
   path: https://investnews.com.br/financas/bitcoin-estaciona-perto-dos-us-109-mil-bc-deve-rever-regras-para-stablecoins/
   title: Bitcoin estaciona perto dos US$ 109 mil; BC deve rever regras para stablecoins
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-28T10:00:00+00:00'
   description: "Contribuintes com investimentos em PGBL podem obter dedu\xE7\xE3o\
     \ fiscal"
@@ -26,11 +35,3 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2025-previdencia-privada-pode-aumentar-a-sua-restituicao-saiba-como/
   title: "Imposto de Renda 2025: Previd\xEAncia privada pode aumentar a sua restitui\xE7\
     \xE3o; saiba como"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-27T13:33:35+00:00'
-  description: "Pol\xEDtica monet\xE1ria continua em estado de alerta"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inflacao-no-brasil-supreende-investidores-ao-ficar-abaixo-de-todas-as-previsoes/
-  title: "Infla\xE7\xE3o no Brasil supreende investidores ao ficar abaixo de todas\
-    \ as previs\xF5es"
