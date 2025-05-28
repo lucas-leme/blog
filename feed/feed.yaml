@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-05-28T11:25:42.234718'
+  date: '2025-05-28T12:13:56.507251'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T11:25:42.232987'
+  date: '2025-05-28T12:13:56.505519'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T11:25:42.232983'
+  date: '2025-05-28T12:13:56.505515'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T11:25:42.232979'
+  date: '2025-05-28T12:13:56.505511'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -143,7 +143,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-05-28T11:25:42.232968'
+  date: '2025-05-28T12:13:56.505501'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -506,6 +506,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-05-28T12:00:00+00:00'
+  description: "Learn how tariff-related inflation shocks ripple through markets\u2014\
+    and which assets have historically helped investors navigate the turbulence."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/05/28/tariffs-inflation-and-returns-how-investments-respond-to-supply-shocks/
+  title: 'Tariffs, Inflation, and Returns: How Investments Respond to Supply Shocks'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -527,7 +536,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/05/whos-paying-those-overdraft-fees/
   title: "Who\u2019s Paying Those Overdraft Fees?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-05-28T09:50:55+00:00'
   description: "<p>Para quem s\xF3 tem martelo, todo problema \xE9 prego. Incapaz\
@@ -544,8 +553,7 @@
   title: "OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que diz a Constitui\xE7\
     \xE3o"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2025-05-27T21:44:45+00:00'
   description: Women investors are redefining alternatives with bold leadership, values-driven
     decisions, and long-term impact.
@@ -596,7 +604,7 @@
   path: https://open.spotify.com/episode/6y7coAtjw6mPB8fVQyksiZ
   title: '#220 | A SELIC EM 14,75% VAI QUEBRAR AS EMPRESAS BRASILEIRAS?'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-05-27T00:00:00+00:00'
   description: "Meta has gone all in on chatbots. The bots are capable of giving advice,\
@@ -634,7 +642,7 @@
   path: https://open.spotify.com/episode/4mJKZ4az0BQGq0gKRcwfsR
   title: "#160 - IOF e d\xEDvida p\xFAblica dos EUA com Genoa Capital | Outliers InfoMoney"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-05-26T18:28:10+00:00'
@@ -676,7 +684,7 @@
   path: https://www.youtube.com/watch?v=j7W2v_FmCuE
   title: 'Top 5 Android 16 Features: Big Visuals!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-05-26T03:55:38+00:00'
   description: "<p>Numa entrevista recente ao Estad\xE3o, o Ministro Lu\xEDs Felipe\
     \ Salom\xE3o, vice-presidente do Superior Tribunal de Justi\xE7a e l\xEDder da\
@@ -691,7 +699,7 @@
   path: https://braziljournal.com/opiniao-projeto-de-codigo-civil-o-ministro-fala-mas-nao-responde/
   title: "OPINI\xC3O. Projeto de C\xF3digo Civil: o Ministro fala, mas n\xE3o responde"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-05-26T00:00:00+00:00'
   description: "We're off for Memorial Day but with summer reading season just beginning,\
     \ we wanted to share this episode.BookTok, the corner of TikTok that\u2019s all\
@@ -738,7 +746,7 @@
   path: https://www.youtube.com/watch?v=1g8nwmDvRhE
   title: If I Were Starting Today, This Would Be My Tech Stack (2025)
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-05-22T14:36:53+00:00'
   description: 'Samsung. Apple. Google. Enemies. But also friends.
 
@@ -766,14 +774,6 @@
   image: https://i3.ytimg.com/vi/jXJODqfaJto/hqdefault.jpg
   path: https://www.youtube.com/watch?v=jXJODqfaJto
   title: Why Apple, Samsung and Google Need Each Other
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-05-22T10:08:09+00:00'
-  description: "The US downgrade won\u2019t upend markets\u2014but it may reshape\
-    \ sovereign risk models and investor assumptions. Here\u2019s what to watch next."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/05/22/the-downgrade-is-done-the-investor-response-is-just-beginning/
-  title: The Downgrade Is Done. The Investor Response Is Just Beginning
 - author: Market Makers
   categories: *id005
   date: '2025-05-22T00:00:00+00:00'
