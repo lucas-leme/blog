@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-29T12:53:55+00:00'
+  description: "Decis\xE3o bloqueou a maioria das tarifas de Trump e concluiu que\
+    \ ele havia excedido sua autoridade"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/decisao-de-tribunal-sobre-tarifas-de-trump-gera-alivio-e-incerteza-mas-agrada-investidores-que-gostam-de-volatilidade/
+  title: "Decis\xE3o de tribunal sobre tarifas de Trump gera al\xEDvio e incerteza,\
+    \ mas agrada investidores que gostam de volatilidade"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Enquanto bitcoin fica est\xE1vel, ethereum vira a bola da vez e supera os\
     \ US$ 2.700"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-28T20:00:47+00:00'
   description: "O objetivo \xE9 compensar a perda de arrecada\xE7\xE3o com o recuo\
     \ da medida que elevou o IOF"
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/economia/governo-vai-resgatar-fundos-iof/
   title: Governo vai resgatar R$ 1,4 bi de fundos para compensar recuo parcial em
     decreto do IOF
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-05-28T18:20:40+00:00'
-  description: "Fundo do pr\xE9-sal viabilizou a cria\xE7\xE3o da faixa 4 que incluiu\
-    \ a classe m\xE9dia no programa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/caixa-negocia-manutencao-de-recursos-no-pre-sal-no-minha-casa-minha-vida-e-evitar-fim-da-faixa-voltada-a-classe-media/
-  title: "Caixa negocia recursos do pr\xE9-sal para manter a classe m\xE9dia no Minha\
-    \ Casa Minha Vida"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-05-28T12:04:57+00:00'
