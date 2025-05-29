@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-05-29T13:49:00+00:00'
+  description: "Entenda como corrigir ou acrescentar informa\xE7\xF5es da sua declara\xE7\
+    \xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2025-envie-declaracao-mesmo-incompleta-e-evite-multa-saiba-como/
+  title: "Imposto de Renda 2025: envie declara\xE7\xE3o mesmo incompleta e evite multa;\
+    \ saiba como"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-05-29T12:53:55+00:00'
   description: "Decis\xE3o bloqueou a maioria das tarifas de Trump e concluiu que\
@@ -7,10 +17,9 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/decisao-de-tribunal-sobre-tarifas-de-trump-gera-alivio-e-incerteza-mas-agrada-investidores-que-gostam-de-volatilidade/
   title: "Decis\xE3o de tribunal sobre tarifas de Trump gera al\xEDvio e incerteza,\
-    \ mas agrada investidores que gostam de volatilidade"
+    \ mas agrada investidores"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-05-29T12:26:48+00:00'
   description: Em dia de queda para a maioria das criptomoedas, ethereum (ETH) se
     destaca e sobe mais de 2%
@@ -19,7 +28,7 @@
   title: "Enquanto bitcoin fica est\xE1vel, ethereum vira a bola da vez e supera os\
     \ US$ 2.700"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-05-28T20:00:47+00:00'
   description: "O objetivo \xE9 compensar a perda de arrecada\xE7\xE3o com o recuo\
     \ da medida que elevou o IOF"
@@ -27,11 +36,3 @@
   path: https://investnews.com.br/economia/governo-vai-resgatar-fundos-iof/
   title: Governo vai resgatar R$ 1,4 bi de fundos para compensar recuo parcial em
     decreto do IOF
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-28T12:04:57+00:00'
-  description: Investidores aguardam novidades sobre a guerra comercial travada pelos
-    EUA
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-estaciona-perto-dos-us-109-mil-bc-deve-rever-regras-para-stablecoins/
-  title: Bitcoin estaciona perto dos US$ 109 mil; BC deve rever regras para stablecoins
