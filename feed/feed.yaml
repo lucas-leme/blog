@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-01T02:15:32.387978'
+  date: '2025-06-01T11:06:56.724541'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-01T02:15:32.386199'
+  date: '2025-06-01T11:06:56.722700'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-01T02:15:32.386194'
+  date: '2025-06-01T11:06:56.722696'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-01T02:15:32.386189'
+  date: '2025-06-01T11:06:56.722690'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-01T02:15:32.386179'
+  date: '2025-06-01T11:06:56.722665'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-06-01T03:05:56+00:00'
+  description: "<p>A taxa Selic, fixada pelo Comit\xEA de Pol\xEDtica Monet\xE1ria\
+    \ e formada pela m\xE9dia das negocia\xE7\xF5es de t\xEDtulos p\xFAblicos registradas\
+    \ no Sistema Especial de Liquida\xE7\xE3o e Cust\xF3dia, \xE9 tamb\xE9m, desde\
+    \ 1995, o principal indexador dos tributos federais. Mas al\xE9m de seus prop\xF3\
+    sitos macroecon\xF4mico e fiscal, a Selic tem outra importante fun\xE7\xE3o: por\
+    \ for\xE7a do artigo 406 [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-os-juros-no-projeto-de-codigo-civil/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Os juros no projeto de C\xF3digo Civil</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-os-juros-no-projeto-de-codigo-civil/
+  title: "OPINI\xC3O. Os juros no projeto de C\xF3digo Civil"
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -551,7 +566,7 @@
   path: https://www.youtube.com/watch?v=ylzo04lU9Xs
   title: Should You Replace Every For Loop With Map and Filter?
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-05-30T00:00:00+00:00'
   description: "This week, an obscure trade court dropped a bombshell ruling: President\
@@ -566,8 +581,7 @@
   path: https://open.spotify.com/episode/1AkNpSbauwLHpaOnLwuYOG
   title: Trump's Plan B After Trade Court Setback
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-05-29T19:17:25+00:00'
   description: "<p>Como se poderia imaginar, Luis Stuhlberger n\xE3o gostou nem um\
     \ pouco do aumento das al\xEDquotas do IOF promovido pelo ministro Fernando Haddad\
@@ -658,7 +672,7 @@
   path: https://open.spotify.com/episode/31xfFoqO0VPU7VpVH92y2S
   title: "#221 | 7 MOTIVOS REAIS PARA INVESTIR NA BOLSA AGORA (AINDA D\xC1 TEMPO!)"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-29T00:00:00+00:00'
   description: "In May, President Trump signed an executive order cutting off federal\
     \ funding for public broadcasters, including NPR and PBS. In his order, Trump\
@@ -704,22 +718,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/05/28/tariffs-inflation-and-returns-how-investments-respond-to-supply-shocks/
   title: 'Tariffs, Inflation, and Returns: How Investments Respond to Supply Shocks'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-05-28T09:50:55+00:00'
-  description: "<p>Para quem s\xF3 tem martelo, todo problema \xE9 prego. Incapaz\
-    \ de reduzir o peso do Estado, a \xFAnica solu\xE7\xE3o do Governo para equacionar\
-    \ as contas p\xFAblicas \xE9 criar tributos. S\xF3 que a determina\xE7\xE3o de\
-    \ castigar o contribuinte caminha de m\xE3os dadas com um cr\xF4nico planejamento\
-    \ insuficiente das consequ\xEAncias. Na quinta-feira passada, com a certeza dos\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-iof-nao-pode-cobrir-rombo-fiscal-e-o-que-diz-a-constituicao/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que\
-    \ diz a Constitui\xE7\xE3o</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-iof-nao-pode-cobrir-rombo-fiscal-e-o-que-diz-a-constituicao/
-  title: "OPINI\xC3O. IOF n\xE3o pode cobrir rombo fiscal. \xC9 o que diz a Constitui\xE7\
-    \xE3o"
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2025-05-27T21:44:45+00:00'
@@ -858,7 +856,7 @@
     \ #python"
   image: https://i2.ytimg.com/vi/1g8nwmDvRhE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=1g8nwmDvRhE
-  title: If I Were Starting Today, This Would Be My Tech Stack (2025)
+  title: "My 2025 Tech Stack: What I\u2019m Actually Using (and Why)"
 - author: CFA Institute Research and Policy Center
   categories: *id007
   date: '2025-05-21T12:00:00+00:00'
