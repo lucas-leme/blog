@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-02T12:22:13+00:00'
+  description: "Criptomoedas come\xE7am a semana no negativo com investidores cautelosos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/depois-de-chegar-em-us-109-mil-bitcoin-cai-para-us-104-mil-etfs-quebram-sequencia-de-fluxo-positivo/
+  title: "Depois de chegar em US$ 109 mil, bitcoin cai para US$ 104 mil; ETFs quebram\
+    \ sequ\xEAncia de fluxo positivo"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-02T09:00:00+00:00'
   description: "Focada em privacidade, a monero \xE9 muito usada por usu\xE1rios que\
     \ buscam ocultar suas opera\xE7\xF5es, o que inclui hackers e outras atividades\
@@ -9,7 +17,7 @@
   path: https://investnews.com.br/financas/monero-xmr-a-criptomoeda-de-anonimato-que-se-tornou-alvo-das-autoridades-globais/
   title: Monero, a criptomoeda de anonimato que se tornou alvo das autoridades globais
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-01T19:45:19+00:00'
   description: "Acad\xEAmico foi presidente do Banco de Israel e vice-presidente do\
@@ -19,7 +27,7 @@
   title: "Morre Stanley Fischer, \u2018pregador\u2019 do evangelho da macroeconomia\
     \ moderna"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-01T15:56:51+00:00'
   description: "Modera\xE7\xE3o da infla\xE7\xE3o em muitas economias emergentes significa\
     \ que rendimentos reais dos seus t\xEDtulos est\xE3o atrativos"
@@ -27,11 +35,3 @@
   path: https://investnews.com.br/economia/por-que-as-moedas-emergentes-voltam-a-brilhar-no-mercado-global-e-como-isso-beneficia-o-real/
   title: "Por que as moedas emergentes voltam a brilhar no mercado global \u2013 e\
     \ como isso beneficia o real"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-05-31T09:01:00+00:00'
-  description: "Envio de dados fora do prazo \xE9 permitido, mas implica em pagamento\
-    \ de multa por atraso"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/perdeu-o-prazo-do-ir-2025-veja-como-regularizar-sua-situacao/
-  title: "Perdeu o prazo do IR 2025? Veja como regularizar sua situa\xE7\xE3o"
