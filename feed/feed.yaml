@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-02T02:14:40.336863'
+  date: '2025-06-02T11:07:41.621912'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-02T02:14:40.335146'
+  date: '2025-06-02T11:07:41.620149'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-02T02:14:40.335142'
+  date: '2025-06-02T11:07:41.620144'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-02T02:14:40.335136'
+  date: '2025-06-02T11:07:41.620139'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-02T02:14:40.335125'
+  date: '2025-06-02T11:07:41.620128'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -499,8 +499,33 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id001
   - Economia
+  date: '2025-06-02T09:50:17+00:00'
+  description: "<p>Afinal, o Bolsa Fam\xEDlia est\xE1 tirando pessoas do mercado de\
+    \ trabalho, como se queixam muitos empres\xE1rios que enfrentam dificuldades para\
+    \ contratar funcion\xE1rios? \u201CSim e n\xE3o,\u201D diz a economista Laura\
+    \ M\xFCller Machado, uma especialista em pol\xEDticas p\xFAblicas e professora\
+    \ do Insper. Em sua an\xE1lise, o programa deve ser festejado pela prote\xE7\xE3\
+    o aos mais vulner\xE1veis e pela [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/entrevista-o-bolsa-familia-precisa-de-uma-grande-reforma-ja-passou-da-hora/\"\
+    \ rel=\"nofollow\">ENTREVISTA: O Bolsa Fam\xEDlia precisa de uma grande reforma.\
+    \ J\xE1 passou da hora</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/entrevista-o-bolsa-familia-precisa-de-uma-grande-reforma-ja-passou-da-hora/
+  title: "ENTREVISTA: O Bolsa Fam\xEDlia precisa de uma grande reforma. J\xE1 passou\
+    \ da hora"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-06-02T09:33:04+00:00'
+  description: Think +1,000-bps high yield spreads are history? Marty Fridson shows
+    why they could still hit that mark in the next recession.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/02/think-weve-seen-the-last-1000-bps-high-yield-spread-think-again/
+  title: "Think We\u2019ve Seen the Last +1,000-BPS High Yield Spread? Think Again"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2025-06-01T03:05:56+00:00'
   description: "<p>A taxa Selic, fixada pelo Comit\xEA de Pol\xEDtica Monet\xE1ria\
     \ e formada pela m\xE9dia das negocia\xE7\xF5es de t\xEDtulos p\xFAblicos registradas\
@@ -514,7 +539,7 @@
   path: https://braziljournal.com/opiniao-os-juros-no-projeto-de-codigo-civil/
   title: "OPINI\xC3O. Os juros no projeto de C\xF3digo Civil"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-06-01T00:00:00+00:00'
   description: "Ron Howard and Brian Grazer are the Oscar winning director and producer\
@@ -581,7 +606,7 @@
   path: https://www.youtube.com/watch?v=ylzo04lU9Xs
   title: Should You Replace Every For Loop With Map and Filter?
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-05-30T00:00:00+00:00'
   description: "This week, an obscure trade court dropped a bombshell ruling: President\
     \ Trump did not have the authority to issue sweeping tariffs under a 1977 law.\
@@ -594,22 +619,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/1AkNpSbauwLHpaOnLwuYOG
   title: Trump's Plan B After Trade Court Setback
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-05-29T19:17:25+00:00'
-  description: "<p>Como se poderia imaginar, Luis Stuhlberger n\xE3o gostou nem um\
-    \ pouco do aumento das al\xEDquotas do IOF promovido pelo ministro Fernando Haddad\
-    \ \u2013 mas considerou a medida reveladora. \u201C\xC9 assustador ver o que o\
-    \ PT pensa da gente,\u201D disse o fundador da Verde durante sua aguardada apresenta\xE7\
-    \xE3o no evento anual da gestora hoje em S\xE3o [&#8230;]</p>\n<p>The post <a\
-    \ href=\"https://braziljournal.com/e-assustador-o-que-o-pt-pensa-da-gente-diz-stuhlberger-sobre-o-iof/\"\
-    \ rel=\"nofollow\">\u2018\xC9 assustador o que o PT pensa da gente,\u2019 diz\
-    \ Stuhlberger sobre o IOF\_</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/e-assustador-o-que-o-pt-pensa-da-gente-diz-stuhlberger-sobre-o-iof/
-  title: "\u2018\xC9 assustador o que o PT pensa da gente,\u2019 diz Stuhlberger sobre\
-    \ o IOF"
 - author: Apricitas Economics
   categories: &id009
   - Macro
@@ -708,22 +717,13 @@
   path: https://open.spotify.com/episode/6ksuUJiy8PJ03FA5SVywJi
   title: 'Sea change: the SEC under Trump 2.0'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id003
   date: '2025-05-28T12:00:00+00:00'
   description: "Learn how tariff-related inflation shocks ripple through markets\u2014\
     and which assets have historically helped investors navigate the turbulence."
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/05/28/tariffs-inflation-and-returns-how-investments-respond-to-supply-shocks/
   title: 'Tariffs, Inflation, and Returns: How Investments Respond to Supply Shocks'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-05-27T21:44:45+00:00'
-  description: Women investors are redefining alternatives with bold leadership, values-driven
-    decisions, and long-term impact.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/05/27/women-in-alts-leading-with-inspiration-intuition-and-impact/
-  title: 'Women in Alts: Leading with Inspiration, Intuition, and Impact'
 - author: Market Makers
   categories: *id004
   date: '2025-05-27T00:00:00+00:00'
@@ -854,7 +854,7 @@
     \ #python"
   image: https://i2.ytimg.com/vi/1g8nwmDvRhE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=1g8nwmDvRhE
-  title: "My 2025 Tech Stack: What I\u2019m Actually Using (and Why)"
+  title: If I Were Starting Today, This Would Be My Tech Stack (2025)
 - author: CFA Institute Research and Policy Center
   categories: *id007
   date: '2025-05-21T12:00:00+00:00'
