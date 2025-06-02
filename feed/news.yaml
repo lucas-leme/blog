@@ -1,3 +1,11 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-02T19:46:33+00:00'
+  description: "Redu\xE7\xE3o \xE9 de 5,6% no pre\xE7o vendido a distribuidoras"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petrobras-corta-preco-da-gasolina/
+  title: "Petrobras corta pre\xE7o da gasolina pela 1\xAA vez em mais de 1 ano e meio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +25,7 @@
   path: https://investnews.com.br/financas/monero-xmr-a-criptomoeda-de-anonimato-que-se-tornou-alvo-das-autoridades-globais/
   title: Monero, a criptomoeda de anonimato que se tornou alvo das autoridades globais
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-01T19:45:19+00:00'
   description: "Acad\xEAmico foi presidente do Banco de Israel e vice-presidente do\
     \ Federal Reserve"
@@ -26,12 +33,3 @@
   path: https://investnews.com.br/economia/morre-stanley-fischer-pregador-do-evangelho-da-macroeconomia-moderna/
   title: "Morre Stanley Fischer, \u2018pregador\u2019 do evangelho da macroeconomia\
     \ moderna"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-01T15:56:51+00:00'
-  description: "Modera\xE7\xE3o da infla\xE7\xE3o em muitas economias emergentes significa\
-    \ que rendimentos reais dos seus t\xEDtulos est\xE3o atrativos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/por-que-as-moedas-emergentes-voltam-a-brilhar-no-mercado-global-e-como-isso-beneficia-o-real/
-  title: "Por que as moedas emergentes voltam a brilhar no mercado global \u2013 e\
-    \ como isso beneficia o real"
