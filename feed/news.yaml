@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-02T22:11:45+00:00'
+  description: Tarifas de Trump, fiscal expansionista e corte de rating afetam moeda
+    americana
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/maio-amargo-para-o-dolar-e-azedo-para-o-real/
+  title: "Maio amargo para o d\xF3lar \u2013 e azedo para o real"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -7,23 +16,13 @@
   path: https://investnews.com.br/economia/petrobras-corta-preco-da-gasolina/
   title: "Petrobras corta pre\xE7o da gasolina pela 1\xAA vez em mais de 1 ano e meio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-06-02T12:22:13+00:00'
   description: "Criptomoedas come\xE7am a semana no negativo com investidores cautelosos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/depois-de-chegar-em-us-109-mil-bitcoin-cai-para-us-104-mil-etfs-quebram-sequencia-de-fluxo-positivo/
   title: "Depois de chegar em US$ 109 mil, bitcoin cai para US$ 104 mil; ETFs quebram\
     \ sequ\xEAncia de fluxo positivo"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-06-02T09:00:00+00:00'
-  description: "Focada em privacidade, a monero \xE9 muito usada por usu\xE1rios que\
-    \ buscam ocultar suas opera\xE7\xF5es, o que inclui hackers e outras atividades\
-    \ ilegais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/monero-xmr-a-criptomoeda-de-anonimato-que-se-tornou-alvo-das-autoridades-globais/
-  title: Monero, a criptomoeda de anonimato que se tornou alvo das autoridades globais
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-06-01T19:45:19+00:00'
