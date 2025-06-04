@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-04T18:30:57+00:00'
+  description: "O pa\xEDs est\xE1 vendendo t\xEDtulos em d\xF3lar com vencimento para\
+    \ 2030 e retomando notas de 2035"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/investimentos/brasil-mercados-globais-de-divida/
+  title: "Brasil recorre aos mercados globais de d\xEDvida pela segunda vez neste\
+    \ ano"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-04T14:09:06+00:00'
   description: "Levantamento, que ouviu 27 analistas de c\xE2mbio, aponta d\xFAvidas\
@@ -9,8 +19,7 @@
   path: https://investnews.com.br/economia/guerra-tarifaria-deve-manter-real-estavel-mostra-pesquisa/
   title: "Guerra tarif\xE1ria deve manter real est\xE1vel, mostra pesquisa"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-06-04T12:21:26+00:00'
   description: "Investidores permanecem atentos nos pr\xF3ximos passos da guerra comercial"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -18,7 +27,7 @@
   title: "Criptomoedas t\xEAm leve alta e bitcoin mant\xE9m os US$ 105 mil, apesar\
     \ das novas tarifas de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-03T21:46:48+00:00'
   description: "Medida entra em vigor nesta quarta-feira e busca proteger a ind\xFA\
     stria dos EUA; decis\xE3o ocorre em meio a impasse nas negocia\xE7\xF5es com parceiros\
@@ -27,11 +36,3 @@
   path: https://investnews.com.br/economia/trump-dobra-tarifas-sobre-aco-e-aluminio-para-50-e-acirra-tensoes-comerciais/
   title: "Trump dobra tarifas sobre a\xE7o e alum\xEDnio para 50% e acirra tens\xF5\
     es comerciais"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-03T12:16:02+00:00'
-  description: "Mercado de criptomoedas esbo\xE7a uma nova alta nesta ter\xE7a-feira"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-para-us-105-mil-e-ethereum-salta-5-liderando-ganhos-entre-as-criptos/
-  title: Bitcoin sobe para US$ 105 mil e ethereum salta 5%, liderando ganhos entre
-    as criptos
