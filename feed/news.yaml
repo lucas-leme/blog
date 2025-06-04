@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-04T14:09:06+00:00'
+  description: "Levantamento, que ouviu 27 analistas de c\xE2mbio, aponta d\xFAvidas\
+    \ dos investidores sobre a capacidade do Brasil em continuar financiando o d\xE9\
+    ficit em conta corrente"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guerra-tarifaria-deve-manter-real-estavel-mostra-pesquisa/
+  title: "Guerra tarif\xE1ria deve manter real est\xE1vel, mostra pesquisa"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   title: "Criptomoedas t\xEAm leve alta e bitcoin mant\xE9m os US$ 105 mil, apesar\
     \ das novas tarifas de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-06-03T21:46:48+00:00'
   description: "Medida entra em vigor nesta quarta-feira e busca proteger a ind\xFA\
     stria dos EUA; decis\xE3o ocorre em meio a impasse nas negocia\xE7\xF5es com parceiros\
@@ -18,18 +27,6 @@
   path: https://investnews.com.br/economia/trump-dobra-tarifas-sobre-aco-e-aluminio-para-50-e-acirra-tensoes-comerciais/
   title: "Trump dobra tarifas sobre a\xE7o e alum\xEDnio para 50% e acirra tens\xF5\
     es comerciais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-06-03T20:45:45+00:00'
-  description: "O governo do Paraguai est\xE1 em negocia\xE7\xF5es com Brasil e Argentina\
-    \ para obter apoio pol\xEDtico \xE0 constru\xE7\xE3o de um gasoduto que conecte\
-    \ os tr\xEAs pa\xEDses. A proposta \xE9 de uma estrutura de 1.050 quil\xF4metros,\
-    \ que poderia ajudar a contornar o encolhimento das exporta\xE7\xF5es de g\xE1\
-    s boliviano. Mauricio Bejarano, vice-ministro de Minas e Energia do Paraguai,\
-    \ [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/paraguai-negocia-para-ter-gasoduto-com-argentina-e-brasil/
-  title: Paraguai negocia para ter gasoduto com Argentina e Brasil
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-06-03T12:16:02+00:00'
