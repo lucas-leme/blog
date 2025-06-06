@@ -1,14 +1,3 @@
-- author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-06-05T19:41:45+00:00'
-  description: "Ap\xF3s meses de apoio m\xFAtuo, presidente e bilion\xE1rio trocam\
-    \ acusa\xE7\xF5es sobre corte de subs\xEDdios para ve\xEDculos el\xE9tricos e\
-    \ planos fiscais que podem custar bilh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/briga-publica-entre-trump-e-musk-derruba-acoes-da-tesla-que-chegou-a-cair-17/
-  title: "Briga p\xFAblica entre Trump e Musk derruba a\xE7\xF5es da Tesla, que ca\xED\
-    ram 14%"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -33,10 +22,20 @@
   title: "Do ur\xE2nio ao reator: entenda o ETF brasileiro que investe na cadeia completa\
     \ da energia nuclear"
 - author: "Economia \u2013 InvestNews"
-  categories: *id002
+  categories: &id002
+  - "Not\xEDcias"
   date: '2025-06-05T18:50:36+00:00'
   description: "E Trump disse que estava \u201Cdecepcionado\u201D com o CEO da Tesla"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/elon-musk-critica-ingratidao-de-trump-sobre-projeto-de-lei-de-politica-tributaria/
   title: "Elon Musk critica \u2018ingratid\xE3o\u2019 de Trump sobre projeto de lei\
     \ de pol\xEDtica tribut\xE1ria"
+- author: "Economia \u2013 InvestNews"
+  categories: *id002
+  date: '2025-06-04T14:09:06+00:00'
+  description: "Levantamento, que ouviu 27 analistas de c\xE2mbio, aponta d\xFAvidas\
+    \ dos investidores sobre a capacidade do Brasil em continuar financiando o d\xE9\
+    ficit em conta corrente"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guerra-tarifaria-deve-manter-real-estavel-mostra-pesquisa/
+  title: "Guerra tarif\xE1ria deve manter real est\xE1vel, mostra pesquisa"
