@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-06T14:48:36.697517'
+  date: '2025-06-06T15:48:12.486686'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T14:48:36.695751'
+  date: '2025-06-06T15:48:12.484901'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T14:48:36.695747'
+  date: '2025-06-06T15:48:12.484897'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T14:48:36.695742'
+  date: '2025-06-06T15:48:12.484891'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T14:48:36.695731'
+  date: '2025-06-06T15:48:12.484880'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
-- author: CFA Institute Research and Policy Center
+- author: ArjanCodes
   categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-06-06T15:00:42+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\
+    \ \n\nMost Python developers stick with def, but there\u2019s a whole world of\
+    \ alternative ways to define functions\u2014some smart, some slightly cursed.\
+    \ In this video, I\u2019ll walk you through 8 of them, from lambda to literal\
+    \ bytecode crafting, and yes... the last one might break your brain.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2025/functions.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:39 1. Lambda Functions (Anonymous Functions)\n1:44 2. Partial function application\n\
+    3:19 3. Using Decorators to Define Functions at Runtime\n5:35 4. Using a Class\
+    \ with __call__ (Callable Objects)\n8:41 5. Using exec\n9:46 6. Using eval\n10:29\
+    \ 7. Using types.new_class\n12:41 8. Manually Creating a Function from a Code\
+    \ Object\n15:07 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/OdDI-5PBpSk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OdDI-5PBpSk
+  title: Ridiculous Ways to Define Functions in Python
+- author: CFA Institute Research and Policy Center
+  categories: &id007
   - CFA
   date: '2025-06-05T12:00:00+00:00'
   description: ''
@@ -583,7 +604,7 @@
   path: https://open.spotify.com/episode/2Y0GhJjERD7khL9QvlN0a9
   title: "Tax assessor: Gary Cohn on Trump\u2019s agenda"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-06-04T22:52:04+00:00'
@@ -745,10 +766,7 @@
   path: https://open.spotify.com/episode/7DPd4N9oA8qIvyLtKDBTG2
   title: '#222 | PROTEJA-SE: O SEU DINHEIRO PODE ESTAR CORRENDO PERIGO NO BRASIL'
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-05-30T15:01:49+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nThink map() and filter() are always better than for loops? Not so fast. In this\
@@ -776,7 +794,7 @@
   path: https://www.apricitas.io/p/a-detailed-look-at-trumps-car-tariffs
   title: A Detailed Look at Trump's Car Tariffs
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-05-29T12:00:00+00:00'
   description: ''
   image: null
@@ -805,7 +823,7 @@
   path: https://open.spotify.com/episode/4mJKZ4az0BQGq0gKRcwfsR
   title: "#160 - IOF e d\xEDvida p\xFAblica dos EUA com Genoa Capital | Outliers InfoMoney"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-05-23T23:41:17+00:00'
   description: Long-end interest rates are rising after a prolonged period of being
     unusually low relative to short-end rates. Even the moves in Japan look less scary
@@ -813,22 +831,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93c85991-d6cf-48c7-8e3f-e0c4440c6973_3205x2965.png
   path: https://theovershoot.co/p/this-is-what-normalization-looks
   title: This is What Normalization Looks Like (Mostly)
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-05-23T15:00:03+00:00'
-  description: "\U0001F4A1 Save hours every week and bring your tasks, calendars,\
-    \ and AI assistant into one powerful app. Try AkiFlow here \u2192 https://akiflow.pro/ArjanCodes.\n\
-    \nCurious what tech stack powers ArjanCodes? In this video, I walk you through\
-    \ the real tools and technologies we use\u2014Python, FastAPI, TypeScript, Cloudflare,\
-    \ GitHub Actions, and even our own SDK\u2014to build automations, websites, and\
-    \ our business portal. \n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:41 Only Python?\n1:45 Website\n4:05 Akiflow\
-    \ Sponsored Segment\n6:20 Automations\n12:09 Moneysnake SDK\n14:17 Business Portal\n\
-    18:45 Why This Stack Works for Us\n19:26 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i2.ytimg.com/vi/1g8nwmDvRhE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=1g8nwmDvRhE
-  title: If I Were Starting Today, This Would Be My Tech Stack (2025)
 - author: Outliers
   categories: *id009
   date: '2025-05-20T00:00:00+00:00'
