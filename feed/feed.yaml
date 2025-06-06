@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-06T20:30:03.149914'
+  date: '2025-06-06T21:27:34.278447'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T20:30:03.148164'
+  date: '2025-06-06T21:27:34.276709'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T20:30:03.148160'
+  date: '2025-06-06T21:27:34.276705'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T20:30:03.148155'
+  date: '2025-06-06T21:27:34.276700'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-06T20:30:03.148144'
+  date: '2025-06-06T21:27:34.276689'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -499,7 +499,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2025-06-06T16:02:18+00:00'
@@ -532,6 +532,24 @@
   image: https://i4.ytimg.com/vi/OdDI-5PBpSk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=OdDI-5PBpSk
   title: Ridiculous Ways to Define Functions in Python
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-06-06T00:00:00+00:00'
+  description: "Medicare Advantage was designed to save the government money. But\
+    \ a Wall Street Journal investigation found that private insurers used the program\
+    \ to generate extra payments through questionable diagnoses. The investigation\
+    \ uncovered instances of potentially deadly illnesses like AIDS, where patients\
+    \ received no follow-up care, as well as diagnoses that were medically impossible.\
+    \ This happened in part when insurers sent nurse practitioners into Medicare Advantage\
+    \ recipients\u2019 homes. Jessica Mendoza discusses the investigation with WSJ\u2019\
+    s Christopher Weaver as well as a nurse who participated in the program.\_  Further\
+    \ Listening:  -A Life-or-Death Insurance Denial\_ -Even Doctors Are Frustrated\
+    \ With Health Insurance\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_\
+    \   Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/1oT7x1bBof1S7wqoGmcptk
+  title: 'Medicare, Inc. Part 1: How Insurers Make Billions From Medicare'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
@@ -541,7 +559,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fasb-comment-recognition-of-intangibles
   title: "Response to FASB Invitation to Comment \u2013 Recognition of Intangibles"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-06-05T09:57:41+00:00'
   description: Private credit's accelerated growth raises critical questions about
@@ -581,8 +599,7 @@
   path: https://open.spotify.com/episode/2Oi0xAvJpwpUjeWVUstP5O
   title: '#223 | SEGREDOS DE INVESTIMENTO DE UMA DAS MENTES MAIS BRILHANTES DO MERCADO'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2025-06-05T00:00:00+00:00'
   description: "A special immigration status helped Mills Manufacturing, which makes\
     \ parachutes for the U.S. military, keep its workforce fully staffed. But last\
@@ -628,7 +645,7 @@
   path: https://theovershoot.co/p/how-credible-is-the-2025q1-gdp-decline
   title: How Credible Is the 2025Q1 GDP Decline?
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2025-06-04T22:25:55+00:00'
   description: 'Bigger screen. Bigger Joycons. Bigger price.
 
@@ -683,7 +700,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/are-businesses-absorbing-the-tariffs-or-passing-them-on-to-their-customers/
   title: Are Businesses Absorbing the Tariffs or Passing Them On to Their Customers?
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-06-04T10:30:58+00:00'
   description: This post examines the potential consequences of coordinated dollar
     depreciation today -- from FX volatility and insurance risk to broader macroeconomic
@@ -692,7 +709,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/04/currency-coordination-looks-riskier-today/
   title: Currency Coordination Looks Riskier Today
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2025-06-04T09:53:43+00:00'
   description: "<p>O STF deve retomar hoje o julgamento do Marco Civil da Internet.\
@@ -709,7 +726,7 @@
   title: "Decis\xE3o do STF sobre conte\xFAdo online pode custar R$ 800 milh\xF5es\
     \ ao pr\xF3prio Judici\xE1rio"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-06-04T09:53:41+00:00'
   description: "<p>Donald Trump pode em breve ter um IOF para chamar de seu. Trata-se\
     \ de um novo tributo previsto no Or\xE7amento que acaba de ser aprovado na C\xE2\
@@ -723,18 +740,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/section-899-o-iof-de-trump-que-preocupa-bancos-e-investidores/
   title: "\u2018Section 899\u2019: o IOF de Trump que preocupa bancos e investidores"
-- author: The Journal.
-  categories: *id004
-  date: '2025-06-04T00:00:00+00:00'
-  description: "An Israeli-backed system meant to deliver aid and food into Gaza launched\
-    \ last week to scenes of chaos and violence. WSJ's Anat Peled breaks down the\
-    \ new system, and explains why getting aid to the region is difficult and dangerous.\
-    \ Jessica Mendoza hosts.  Further Listening: - A Fragile Cease-Fire Deal in Gaza\_\
-    \ - The UN Agency Accused of Links to Hamas\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/1InmK2ofMXVzlpUGI5kr2Z
-  title: The Struggle to Get Aid Into Gaza
 - author: Market Makers
   categories: *id005
   date: '2025-06-03T00:00:00+00:00'
