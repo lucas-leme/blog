@@ -1,6 +1,16 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-07T20:31:46+00:00'
+  description: "Em evento no Guaruj\xE1, controlador da JBS tornou p\xFAblica uma\
+    \ cr\xEDtica recorrente do empresariado; Maluhy, do Ita\xFA, cita mais aperto\
+    \ monet\xE1rio com alta do IOF"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/wesley-batista-expoe-incomodo-de-empresarios-com-falta-de-mao-de-obra-e-tamanho-de-programas-sociais/
+  title: "Wesley Batista exp\xF5e inc\xF4modo de empres\xE1rios com falta de m\xE3\
+    o de obra e tamanho de programas sociais"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-06T13:50:54+00:00'
   description: "Impacto foi menor na compara\xE7\xE3o com outros pa\xEDses afetados"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +18,7 @@
   title: "Exporta\xE7\xE3o de frango cai 13% com a gripe avi\xE1ria \u2013 dentro\
     \ do esperado pela ABPA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-06T11:51:49+00:00'
   description: "Liquida\xE7\xE3o foi alimentada pela disputa entre os bilion\xE1rios,\
@@ -18,7 +28,7 @@
   title: Combate entre Musk e Trump derruba bitcoin, que bateu em US$ 100 mil; ethereum
     recua 5%
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-05T19:12:26+00:00'
   description: "O cofundador da Circle Internet Group, Jeremy Allaire, viu sua fortuna\
     \ aumentar para mais de US$ 1,9 bilh\xE3o na quinta-feira (5), ap\xF3s as a\xE7\
@@ -29,11 +39,3 @@
   path: https://investnews.com.br/financas/investimentos/fundador-do-circle-se-torna-bilionario-apos-empresa-de-criptomoedas-crescer-apos-ipo/
   title: "Fundador do Circle se torna bilion\xE1rio ap\xF3s empresa de criptomoedas\
     \ crescer ap\xF3s IPO"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-05T18:50:36+00:00'
-  description: "E Trump disse que estava \u201Cdecepcionado\u201D com o CEO da Tesla"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/elon-musk-critica-ingratidao-de-trump-sobre-projeto-de-lei-de-politica-tributaria/
-  title: "Elon Musk critica \u2018ingratid\xE3o\u2019 de Trump sobre projeto de lei\
-    \ de pol\xEDtica tribut\xE1ria"
