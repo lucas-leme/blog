@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-09T18:44:29+00:00'
+  description: "LCIs e LCAs j\xE1 negociadas ter\xE3o alta de taxas se novo tributo\
+    \ recair sobre toda a ind\xFAstria"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/investimentos/ir-de-5-sobre-titulos-isentos-quais-os-impactos-para-o-mercado/
+  title: "IR de 5% sobre t\xEDtulos isentos: quais os impactos para o mercado"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-09T17:55:21+00:00'
   description: "Desde 2021, as taxas de financiamento j\xE1 subiram 5 pontos percentuais"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -8,7 +16,7 @@
   title: "Empresas da constru\xE7\xE3o avisam: cr\xE9dito imobili\xE1rio vai ficar\
     \ mais caro com fim da isen\xE7\xE3o da LCI"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-09T17:30:46+00:00'
   description: "Falta de acesso \xE0s terras raras pode se tornar o terceiro choque\
@@ -18,7 +26,7 @@
   title: "Montadoras e fabricantes de autope\xE7as acionam \u2018modo p\xE2nico\u2019\
     \ por restri\xE7\xF5es a terras raras"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-09T16:18:09+00:00'
   description: "O fim da isen\xE7\xE3o de imposto de renda sobre as letras de cr\xE9\
     dito imobili\xE1rio (LCI) vai afetar o pr\xF3prio cr\xE9dito imobili\xE1rio. No\
@@ -29,12 +37,3 @@
   path: https://investnews.com.br/economia/fim-da-isencao-para-a-lci-pode-desestabilizar-o-credito-imobiliario/
   title: "Fim da isen\xE7\xE3o para a LCI pode desestabilizar o cr\xE9dito imobili\xE1\
     rio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-09T14:42:40+00:00'
-  description: "Hoje produtos t\xEAm cobran\xE7a retroativa de 22,5% a 15%, dependendo\
-    \ do per\xEDodo de aplica\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/governo-vai-propor-aliquota-unica-de-ir-de-175-sobre-aplicacoes-financeiras/
-  title: "Governo vai propor al\xEDquota \xFAnica de IR de 17,5% sobre aplica\xE7\xF5\
-    es financeiras"
