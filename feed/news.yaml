@@ -1,3 +1,14 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-09T12:16:45+00:00'
+  description: "Criptomoedas come\xE7am a semana em alta, mas analistas refor\xE7\
+    am que mercado permanece fr\xE1gil sem catalisadores que sustentem uma alta ou\
+    \ queda mais forte"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-deixa-briga-entre-trump-e-musk-para-tras-e-fica-acima-de-us-107-mil/
+  title: "Bitcoin deixa briga entre Trump e Musk para tr\xE1s e fica acima de US$\
+    \ 107 mil"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +30,7 @@
   title: "Wesley Batista exp\xF5e inc\xF4modo de empres\xE1rios com falta de m\xE3\
     o de obra e tamanho de programas sociais"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-06T11:51:49+00:00'
   description: "Liquida\xE7\xE3o foi alimentada pela disputa entre os bilion\xE1rios,\
     \ temores macroecon\xF4micos e um mercado alavancado"
@@ -28,15 +38,3 @@
   path: https://investnews.com.br/financas/combate-entre-musk-e-trump-derruba-bitcoin-que-bateu-em-us-100-mil-ethereum-recua-5/
   title: Combate entre Musk e Trump derruba bitcoin, que bateu em US$ 100 mil; ethereum
     recua 5%
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-05T19:12:26+00:00'
-  description: "O cofundador da Circle Internet Group, Jeremy Allaire, viu sua fortuna\
-    \ aumentar para mais de US$ 1,9 bilh\xE3o na quinta-feira (5), ap\xF3s as a\xE7\
-    \xF5es da empresa triplicarem em seu primeiro dia de negocia\xE7\xE3o. A emissora\
-    \ de stablecoins vendeu a\xE7\xF5es a US$ 31 cada em uma oferta p\xFAblica ampliada\
-    \ que arrecadou quase US$ 1,1 bilh\xE3o. Elas [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investimentos/fundador-do-circle-se-torna-bilionario-apos-empresa-de-criptomoedas-crescer-apos-ipo/
-  title: "Fundador do Circle se torna bilion\xE1rio ap\xF3s empresa de criptomoedas\
-    \ crescer ap\xF3s IPO"
