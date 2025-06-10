@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-10T12:14:37.996042'
+  date: '2025-06-10T12:31:20.843805'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T12:14:37.994291'
+  date: '2025-06-10T12:31:20.841954'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T12:14:37.994287'
+  date: '2025-06-10T12:31:20.841949'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T12:14:37.994282'
+  date: '2025-06-10T12:31:20.841944'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T12:14:37.994271'
+  date: '2025-06-10T12:31:20.841932'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id004
+  - CFA
+  date: '2025-06-10T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/ai-washing
+  title: 'AI Washing: Signs, Symptoms, and Suggested Solutions for Investment Stakeholders'
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -544,7 +552,7 @@
   path: https://www.youtube.com/watch?v=1E3tv_3D95g
   title: 'WWDC 2025 Impressions: Liquid Glass!'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-06-09T15:43:08+00:00'
   description: D3 RINs reveal clean fuel bottlenecks and investor risks as tight supply,
@@ -598,7 +606,7 @@
   path: https://braziljournal.com/opiniao-o-pais-dos-projetos-piloto-por-que-nada-escala-no-brasil/
   title: "OPINI\xC3O. O pa\xEDs dos projetos-piloto: por que nada escala no Brasil?"
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2025-06-07T05:20:18+00:00'
@@ -638,7 +646,7 @@
   path: https://www.youtube.com/watch?v=eLusurjBcCs
   title: 'One Plus 13S Review: What''s the S For?'
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -659,15 +667,14 @@
   path: https://www.youtube.com/watch?v=OdDI-5PBpSk
   title: Ridiculous Ways to Define Functions in Python
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id004
   date: '2025-06-05T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fasb-comment-recognition-of-intangibles
   title: "Response to FASB Invitation to Comment \u2013 Recognition of Intangibles"
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2025-06-05T09:57:41+00:00'
   description: Private credit's accelerated growth raises critical questions about
     liquidity, transparency, and systemic risk.
@@ -675,7 +682,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/05/private-credits-surge-has-investors-excited-and-regulators-concerned/
   title: "Private Credit\u2019s Surge Has Investors Excited and Regulators Concerned"
 - author: Market Makers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-06-05T00:00:00+00:00'
   description: "A bolsa brasileira realmente compensa o risco que voc\xEA corre ao\
@@ -726,7 +733,7 @@
   path: https://open.spotify.com/episode/2Y0GhJjERD7khL9QvlN0a9
   title: "Tax assessor: Gary Cohn on Trump\u2019s agenda"
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2025-06-04T22:52:04+00:00'
   description: Inventory accumulation is almost certainly being undercounted. Data
     center investment may also be undercounted. But there was still a substantial
@@ -759,7 +766,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/are-businesses-absorbing-the-tariffs-or-passing-them-on-to-their-customers/
   title: Are Businesses Absorbing the Tariffs or Passing Them On to Their Customers?
 - author: Market Makers
-  categories: *id006
+  categories: *id007
   date: '2025-06-03T00:00:00+00:00'
   description: "A Investo, maior gestora independente de ETFs do Brasil, se uniu ao\
     \ Market Makers para trazer uma oportunidade exclusiva! Invista pelo app da Investo\
@@ -793,7 +800,7 @@
   path: https://open.spotify.com/episode/7DPd4N9oA8qIvyLtKDBTG2
   title: '#222 | PROTEJA-SE: O SEU DINHEIRO PODE ESTAR CORRENDO PERIGO NO BRASIL'
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-05-30T15:01:49+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nThink map() and filter() are always better than for loops? Not so fast. In this\
@@ -820,13 +827,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3a7a70-8511-4fdb-9af5-40ff257c4639_2886x1843.png
   path: https://www.apricitas.io/p/a-detailed-look-at-trumps-car-tariffs
   title: A Detailed Look at Trump's Car Tariffs
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-05-29T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2025/capital-formation-africa
-  title: 'Capital Formation in Africa: A Case for Private Markets'
 - author: Outliers
   categories: &id009
   - Podcasts
