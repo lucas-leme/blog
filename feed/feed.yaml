@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-10T14:50:04.096705'
+  date: '2025-06-10T15:49:03.835504'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T14:50:04.094930'
+  date: '2025-06-10T15:49:03.833764'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T14:50:04.094926'
+  date: '2025-06-10T15:49:03.833760'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T14:50:04.094922'
+  date: '2025-06-10T15:49:03.833755'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-10T14:50:04.094912'
+  date: '2025-06-10T15:49:03.833745'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-06-10T15:23:56+00:00'
+  description: Explore how AI is reshaping investment management through augmentation,
+    strategic insight, explainability, and evolving investor competencies.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/10/ai-in-investment-management-5-lessons-from-the-front-lines/
+  title: 'AI in Investment Management: 5 Lessons From the Front Lines'
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-06-10T12:00:00+00:00'
   description: ''
@@ -507,7 +516,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/ai-washing
   title: 'AI Washing: Signs, Symptoms, and Suggested Solutions for Investment Stakeholders'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-06-10T05:55:54+00:00'
@@ -552,8 +561,7 @@
   path: https://www.youtube.com/watch?v=1E3tv_3D95g
   title: 'WWDC 2025 Impressions: Liquid Glass!'
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id001
   date: '2025-06-09T15:43:08+00:00'
   description: D3 RINs reveal clean fuel bottlenecks and investor risks as tight supply,
     rising mandates, and policy shifts drive up prices in the energy transition.
@@ -561,7 +569,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/09/the-little-known-credit-holding-up-the-clean-fuel-market/
   title: The Little-Known Credit Holding Up the Clean Fuel Market
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-06-09T14:51:07+00:00'
   description: "<p>A rejei\xE7\xE3o ao aumento do IOF desencadeou discursos de que\
@@ -577,7 +585,7 @@
   path: https://braziljournal.com/opiniao-como-desmontar-nosso-modelo-de-gastar-e-taxar/
   title: "OPINI\xC3O. Como desmontar nosso modelo de \u2018gastar e taxar\u2019"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-06-09T00:00:00+00:00'
   description: "The storybook bromance between President Donald Trump and Elon Musk\
@@ -591,7 +599,7 @@
   path: https://open.spotify.com/episode/4re3bwi6H50OdS3jvWpzbN
   title: Are Trump and Musk Done for Good?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-06-08T05:26:08+00:00'
   description: "<p>O Brasil adora um projeto-piloto. Sempre tem uma escola modelo,\
     \ uma cidade-laborat\xF3rio, uma favela \u201Csmart\u201D, um aplicativo para\
@@ -617,7 +625,7 @@
   path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
   title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-06-07T00:00:00+00:00'
   description: "Some of the sickest Medicare Advantage patients ran into problems\
     \ getting end-of-life care. Ultimately many patients switched to traditional Medicare,\
@@ -635,7 +643,7 @@
   path: https://open.spotify.com/episode/6BK9ymCqH1CijyjAWZuoP7
   title: 'Medicare, Inc. Part 2: Taxpayers Paid for Care Denied by Insurers'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-06-06T16:02:18+00:00'
   description: "OnePlus 13S is technically on the smaller end of the flagship spectrum.\
     \ Too bad it's India and China only.\n\nGet up to 40% off at https://ridge.com/mkbhd\
@@ -667,20 +675,12 @@
   path: https://www.youtube.com/watch?v=OdDI-5PBpSk
   title: Ridiculous Ways to Define Functions in Python
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-06-05T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fasb-comment-recognition-of-intangibles
   title: "Response to FASB Invitation to Comment \u2013 Recognition of Intangibles"
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-06-05T09:57:41+00:00'
-  description: Private credit's accelerated growth raises critical questions about
-    liquidity, transparency, and systemic risk.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/05/private-credits-surge-has-investors-excited-and-regulators-concerned/
-  title: "Private Credit\u2019s Surge Has Investors Excited and Regulators Concerned"
 - author: Market Makers
   categories: &id007
   - Podcasts
