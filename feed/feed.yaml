@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-11T20:29:32.306921'
+  date: '2025-06-11T21:27:42.732321'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-11T20:29:32.305206'
+  date: '2025-06-11T21:27:42.730516'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-11T20:29:32.305202'
+  date: '2025-06-11T21:27:42.730512'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-11T20:29:32.305197'
+  date: '2025-06-11T21:27:42.730506'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-11T20:29:32.305187'
+  date: '2025-06-11T21:27:42.730495'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-06-11T20:33:51+00:00'
+  description: All clear everything, coming to an iPhone near you.
+  image: https://i2.ytimg.com/vi/EDUqT2cZ1nY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=EDUqT2cZ1nY
+  title: iOS 26 Liquid Glass
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -507,6 +516,22 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/06/11/book-review-financial-statement-analysis-for-value-investing/
   title: 'Book Review: Financial Statement Analysis for Value Investing'
+- author: The Journal.
+  categories: &id003
+  - Podcasts
+  date: '2025-06-11T00:00:00+00:00'
+  description: "UnitedHealth is the largest healthcare company in the U.S. But over\
+    \ the last 18 months, a string of challenges, including several Justice Department\
+    \ probes, have tested the company. WSJ\u2019s Anna Wilde Mathews and Christopher\
+    \ Weaver report on how the company rose to prominence, why its CEO is out, and\
+    \ how it has weathered the setbacks. Annie Minoff hosts.\_\_  Further Listening:\_\
+    \ -Medicare, Inc. Part 1: How Insurers Make Billions From Medicare\_ -Medicare,\
+    \ Inc. Part 2: Taxpayers Paid for Care Denied by Insurers\_  Sign up for WSJ\u2019\
+    s free What\u2019s News newsletter.\_   Learn more about your ad choices. Visit\
+    \ megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/4BCuRQBPVBt2nwDw5fisP7
+  title: "Inside UnitedHealth\u2019s Dramatic Faltering"
 - author: CFA Institute Enterprising Investor
   categories: *id001
   date: '2025-06-10T15:23:56+00:00'
@@ -524,9 +549,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/ai-washing
   title: 'AI Washing: Signs, Symptoms, and Suggested Solutions for Investment Stakeholders'
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-06-10T05:55:54+00:00'
   description: 'Hands on with iOS 26 and everything you need to know from WWDC 2025
 
@@ -607,8 +630,7 @@
   title: "#224 | GRANDES LI\xC7\xD5ES DE NEG\xD3CIOS, LIDERAN\xC7A E CARREIRA COM\
     \ ROBERTO SALLOUTI (CEO do BTG Pactual)"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id003
   date: '2025-06-10T00:00:00+00:00'
   description: "To fulfill a key campaign promise, the Trump administration has been\
     \ pushing ICE to arrest more migrants. WSJ\u2019s Michelle Hackman explains how\
@@ -646,7 +668,7 @@
   title: "#161 - D\xEDvida p\xFAblica dos EUA, IOF e taxa de juros com Ita\xFA Asset\
     \ | Outliers InfoMoney"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2025-06-09T14:51:07+00:00'
   description: "<p>A rejei\xE7\xE3o ao aumento do IOF desencadeou discursos de que\
@@ -661,21 +683,8 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-como-desmontar-nosso-modelo-de-gastar-e-taxar/
   title: "OPINI\xC3O. Como desmontar nosso modelo de \u2018gastar e taxar\u2019"
-- author: The Journal.
-  categories: *id002
-  date: '2025-06-09T00:00:00+00:00'
-  description: "The storybook bromance between President Donald Trump and Elon Musk\
-    \ seems to have come to an end. WSJ\u2019s Rebecca Ballhaus unpacks what happened\
-    \ and what the stakes are for the two powerful men. Jessica Mendoza hosts.\_ \
-    \ Further Listening: - Tesla Has a Problem: Elon Musk\_ - Elon Musk\u2019s Secret\
-    \ Conversations With Vladimir Putin\_ - Inside USAID as Elon Musk and DOGE Ripped\
-    \ it Apart\_  Sign up for WSJ\u2019s free What\u2019s News newsletter .   Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/4re3bwi6H50OdS3jvWpzbN
-  title: Are Trump and Musk Done for Good?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-06-08T05:26:08+00:00'
   description: "<p>O Brasil adora um projeto-piloto. Sempre tem uma escola modelo,\
     \ uma cidade-laborat\xF3rio, uma favela \u201Csmart\u201D, um aplicativo para\
@@ -700,17 +709,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d06aa9b-9fde-4e88-b74f-5aaa0998e065_3200x2980.png
   path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
   title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
-- author: Marques Brownlee
-  categories: *id004
-  date: '2025-06-06T16:02:18+00:00'
-  description: "OnePlus 13S is technically on the smaller end of the flagship spectrum.\
-    \ Too bad it's India and China only.\n\nGet up to 40% off at https://ridge.com/mkbhd\
-    \ during their Father\u2019s Day sale!\n\nMKBHD Merch: http://shop.MKBHD.com\n\
-    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by OnePlus\
-    \ for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/eLusurjBcCs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=eLusurjBcCs
-  title: 'One Plus 13S Review: What''s the S For?'
 - author: ArjanCodes
   categories: &id008
   - Tech
