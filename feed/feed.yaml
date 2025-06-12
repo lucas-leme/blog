@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-12T15:49:32.991843'
+  date: '2025-06-12T18:31:33.960642'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-12T15:49:32.990144'
+  date: '2025-06-12T18:31:33.959656'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-12T15:49:32.990140'
+  date: '2025-06-12T18:31:33.959652'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-12T15:49:32.990135'
+  date: '2025-06-12T18:31:33.959648'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-12T15:49:32.990124'
+  date: '2025-06-12T18:31:33.959637'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-06-12T16:32:36+00:00'
+  description: Search funds stand out as a valuable alternative asset class, offering
+    diversification, alpha potential, and operational upside in underserved markets.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/12/search-funds-a-strategic-investment-in-underserved-markets/
+  title: 'Search Funds: A Strategic Investment in Underserved Markets'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id003
   - Economia
   date: '2025-06-12T03:20:46+00:00'
   description: "<p>Em um \xF3timo artigo aqui no Brazil Journal, Marcos Mendes resumiu\
@@ -514,6 +523,23 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-construindo-o-consenso-para-a-reforma-do-gasto-publico/
   title: "OPINI\xC3O. Construindo o consenso para a reforma do gasto p\xFAblico"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2025-06-12T00:00:00+00:00'
+  description: "Germany was once the economic powerhouse of Europe. But since 2019\
+    \ its economy has barely grown. The country is now under new leadership\u2014\
+    but is Friedrich Merz the man to pull Germany out of its perma-slump?Hosts: Ethan\
+    \ Wu and Mike Bird. Guests: The Economist\u2019s Christian Odendahl; Monika Schnitzer,\
+    \ chair of the German Council of Economic Experts; and Philippa Sigl-Gl\xF6ckner,\
+    \ founder of Dezernat Zukunft, a macro-finance think tank.Transcripts of our podcasts\
+    \ are available via economist.com/podcasts.Listen to what matters most, from global\
+    \ politics and business to science and technology\u2014subscribe to Economist\
+    \ Podcasts+.For more information about how to access Economist Podcasts+, please\
+    \ visit our FAQs page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
+  path: https://open.spotify.com/episode/4152h8TFOu9N9GBAqLDtiY
+  title: 'Vorsprung durch Technik: can Germany reinvent its economy?'
 - author: Marques Brownlee
   categories: &id002
   - Tech
@@ -524,40 +550,15 @@
   path: https://www.youtube.com/shorts/EDUqT2cZ1nY
   title: iOS 26 Liquid Glass
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2025-06-11T12:56:18+00:00'
   description: Penman and Pope refine classic value investing through the lens of
     financial statements.
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/06/11/book-review-financial-statement-analysis-for-value-investing/
   title: 'Book Review: Financial Statement Analysis for Value Investing'
-- author: The Journal.
-  categories: &id003
-  - Podcasts
-  date: '2025-06-11T00:00:00+00:00'
-  description: "UnitedHealth is the largest healthcare company in the U.S. But over\
-    \ the last 18 months, a string of challenges, including several Justice Department\
-    \ probes, have tested the company. WSJ\u2019s Anna Wilde Mathews and Christopher\
-    \ Weaver report on how the company rose to prominence, why its CEO is out, and\
-    \ how it has weathered the setbacks. Annie Minoff hosts.\_\_  Further Listening:\_\
-    \ -Medicare, Inc. Part 1: How Insurers Make Billions From Medicare\_ -Medicare,\
-    \ Inc. Part 2: Taxpayers Paid for Care Denied by Insurers\_  Sign up for WSJ\u2019\
-    s free What\u2019s News newsletter.\_   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/4BCuRQBPVBt2nwDw5fisP7
-  title: "Inside UnitedHealth\u2019s Dramatic Faltering"
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2025-06-10T15:23:56+00:00'
-  description: Explore how AI is reshaping investment management through augmentation,
-    strategic insight, explainability, and evolving investor competencies.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/10/ai-in-investment-management-5-lessons-from-the-front-lines/
-  title: 'AI in Investment Management: 5 Lessons From the Front Lines'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id004
   - CFA
   date: '2025-06-10T12:00:00+00:00'
   description: ''
@@ -607,84 +608,8 @@
   image: https://i2.ytimg.com/vi/1E3tv_3D95g/hqdefault.jpg
   path: https://www.youtube.com/watch?v=1E3tv_3D95g
   title: 'WWDC 2025 Impressions: Liquid Glass!'
-- author: Market Makers
-  categories: &id006
-  - Podcasts
-  date: '2025-06-10T00:00:00+00:00'
-  description: "Ser\xE1 que o mercado financeiro \xE9 s\xF3 para quem nasce em ber\xE7\
-    o de ouro? Descubra a fascinante trajet\xF3ria de Roberto Sallouti, CEO do BTG\
-    \ Pactual, de estagi\xE1rio a l\xEDder de um dos maiores bancos da Am\xE9rica\
-    \ Latina.Neste epis\xF3dio, Sallouti revela como a meritocracia, resili\xEAncia\
-    \ e vis\xE3o de longo prazo foram cruciais em sua carreira, desde seus primeiros\
-    \ passos desbravando o mundo dos n\xFAmeros, mesmo vindo de uma fam\xEDlia ligada\
-    \ ao cinema, at\xE9 se tornar s\xF3cio do Pactual em 1998. Aprofundamos o papo\
-    \ na cultura \xFAnica do BTG Pactual, marcada pela humildade em reconhecer erros\
-    \ e a coragem de \"stopar\" projetos falhos, uma mentalidade de trading aplicada\
-    \ \xE0 gest\xE3o de neg\xF3cios que o pr\xF3prio Sallouti utilizou para transformar\
-    \ o banco.Ele compartilha a import\xE2ncia de se adaptar \xE0s novas tend\xEA\
-    ncias do mercado, como a digitaliza\xE7\xE3o, e como a institui\xE7\xE3o se mant\xE9\
-    m ativa e \xE0 frente ao investir em talentos e em um ambiente que estimula a\
-    \ inova\xE7\xE3o constante.Al\xE9m disso, o CEO do BTG Pactual oferece insights\
-    \ valiosos sobre as oportunidades do mercado atual, a tend\xEAncia de diversifica\xE7\
-    \xE3o global de capital e o que o Brasil precisa fazer para n\xE3o perder essa\
-    \ \"janela\" \xFAnica de crescimento. Ele tamb\xE9m aborda sua paix\xE3o pela\
-    \ educa\xE7\xE3o, destacando o projeto da Inteli, uma universidade que busca transformar\
-    \ o Brasil formando l\xEDderes em tecnologia atrav\xE9s de um modelo de ensino\
-    \ inovador e inclusivo.Qual li\xE7\xE3o da trajet\xF3ria de Roberto Sallouti mais\
-    \ te inspira a buscar seus pr\xF3prios objetivos no mercado financeiro? Compartilhe\
-    \ nos coment\xE1rios!\U0001F4E2Apoie o Market Makers e ajude a fortalecer o mercado\
-    \ de capitais no Brasil! Clique no link e torne-se membro do nosso canal por apenas\
-    \ R$7,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\
-    \ \U0001F4E9Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\
-    \ \U0001F4E2 Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DA\
-    Biblioteca Market Makers: https://mmakers.com.br/biblioteca-market-makers/?xpromo=MI-COMP-YT-DESCRICAO-MM-X\_\
-    Apresentadores: Thiago Salom\xE3o (Apresentador e analista do Market makers) e\
-    \ Josu\xE9 Guedes (apresentador e CEO do Market Makers) Convidado: Roberto Sallouti\
-    \ (CEO do BTG Pactual) #BTGPACTUAL\_Become a supporter of this podcast: https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a0eb27ead0e7b773cd44459b3
-  path: https://open.spotify.com/episode/6RqfuOuZ7g0zonIeXG9Tcm
-  title: "#224 | GRANDES LI\xC7\xD5ES DE NEG\xD3CIOS, LIDERAN\xC7A E CARREIRA COM\
-    \ ROBERTO SALLOUTI (CEO do BTG Pactual)"
-- author: The Journal.
-  categories: *id003
-  date: '2025-06-10T00:00:00+00:00'
-  description: "To fulfill a key campaign promise, the Trump administration has been\
-    \ pushing ICE to arrest more migrants. WSJ\u2019s Michelle Hackman explains how\
-    \ that\u2019s led to more aggressive tactics and raids like the ones that unfolded\
-    \ in Los Angeles on Friday, sparking major protests. Jessica Mendoza hosts.  Further\
-    \ Listening:  - Deportations Could Upend This Parachute Factory\_ - How Frog Embryos\
-    \ Landed a Scientist in ICE Detention\_ - A New Phase in Trump\u2019s Immigration\
-    \ Fight\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.  Learn more\
-    \ about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0iYD1bcTvSlht79ozIDSwh
-  title: "Inside ICE\u2019s Aggressive Approach to Arresting Migrants"
-- author: Outliers
-  categories: &id009
-  - Podcasts
-  date: '2025-06-10T00:00:00+00:00'
-  description: "Na vis\xE3o de Thomas Wu, economista-chefe da Ita\xFA Asset, o tarifa\xE7\
-    o proposto por Donald Trump possui um efeito direto, com a desacelera\xE7\xE3\
-    o no crescimento econ\xF4mico. Por outro lado, um efeito mais sutil, por\xE9m\
-    \ significativo, \xE9 como esse \"vai e vem\" de medidas afeta a perda de confian\xE7\
-    a internacional nos Estados Unidos. E diante de um cen\xE1rio onde o termo TACO\
-    \ (\"Trump Always Chickens Out\" - ou \"Trump sempre volta atr\xE1s\", em tradu\xE7\
-    \xE3o livre) tem ganhado popularidade e a d\xEDvida p\xFAblica americana tem crescido\
-    \ a n\xEDveis alarmantes, o \"melhor pagador do mundo\" pode n\xE3o ser mais t\xE3\
-    o bom assim aos olhos dos investidores globais.\_No epis\xF3dio 161 do Outliers\
-    \ InfoMoney, Clara Sodr\xE9 e Fabiano Cintra continuam a s\xE9rie especial sobre\
-    \ o cen\xE1rio macroecon\xF4mico com a participa\xE7\xE3o de Thomas Wu, economista-chefe\
-    \ da Ita\xFA Asset, gestora que administra mais de R$1 trilh\xE3o em ativos. Al\xE9\
-    m da an\xE1lise internacional, Wu conversa tamb\xE9m sobre o cen\xE1rio no Brasil,\
-    \ com os \xFAltimos an\xFAncios envolvendo o IOF, as perspectivas para a taxa\
-    \ de juros e as proje\xE7\xF5es de infla\xE7\xE3o no pa\xEDs.O Outliers InfoMoney\
-    \ vai ao ar quinzenalmente \xE0s ter\xE7as-feiras, \xE0s 18h."
-  image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
-  path: https://open.spotify.com/episode/3WWEyoVCRG7teBe2PptO6d
-  title: "#161 - D\xEDvida p\xFAblica dos EUA, IOF e taxa de juros com Ita\xFA Asset\
-    \ | Outliers InfoMoney"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id003
   date: '2025-06-09T14:51:07+00:00'
   description: "<p>A rejei\xE7\xE3o ao aumento do IOF desencadeou discursos de que\
     \ chegara o momento de fazer \u201Creformas estruturais\u201D. Tudo foi colocado\
@@ -699,7 +624,7 @@
   path: https://braziljournal.com/opiniao-como-desmontar-nosso-modelo-de-gastar-e-taxar/
   title: "OPINI\xC3O. Como desmontar nosso modelo de \u2018gastar e taxar\u2019"
 - author: The Overshoot
-  categories: &id007
+  categories: &id005
   - Macro
   - Newsletters
   date: '2025-06-07T05:20:18+00:00'
@@ -710,7 +635,7 @@
   path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
   title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
 - author: ArjanCodes
-  categories: &id008
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -731,64 +656,14 @@
   path: https://www.youtube.com/watch?v=OdDI-5PBpSk
   title: Ridiculous Ways to Define Functions in Python
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id004
   date: '2025-06-05T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fasb-comment-recognition-of-intangibles
   title: "Response to FASB Invitation to Comment \u2013 Recognition of Intangibles"
-- author: Market Makers
-  categories: *id006
-  date: '2025-06-05T00:00:00+00:00'
-  description: "A bolsa brasileira realmente compensa o risco que voc\xEA corre ao\
-    \ investir nela? Neste epis\xF3dio do Market Makers, Daniel Goldberg, um dos investidores\
-    \ mais respeitados do Brasil, compartilha os aprendizados de anos de mercado e\
-    \ provoca: ser\xE1 que o pr\xEAmio de risco da bolsa brasileira ainda faz sentido?\
-    \ Ou estamos operando em um ciclo disfuncional onde s\xF3 o CDI importa?Ao longo\
-    \ da conversa, Goldberg destrincha os principais desafios do investidor brasileiro:\
-    \ um sistema tribut\xE1rio ca\xF3tico, um mercado de cr\xE9dito ineficiente e\
-    \ um ambiente institucional que desincentiva o risco e a inova\xE7\xE3o. Ele ainda\
-    \ responde a uma provoca\xE7\xE3o poderosa: se tivesse uma varinha m\xE1gica,\
-    \ qual parte do sistema econ\xF4mico brasileiro ele reformaria primeiro? al\xE9\
-    m disso, Daniel analisa o impacto da intelig\xEAncia artificial no mundo dos investimentos\
-    \ e nos alerta sobre a obsolesc\xEAncia iminente dos modelos tradicionais de gest\xE3\
-    o. Voc\xEA acredita que o investidor brasileiro est\xE1 sendo bem recompensado\
-    \ pelo risco que corre? Ou estamos todos sendo enganados por uma falsa sensa\xE7\
-    \xE3o de retorno?\U0001F449\U0001F3FB Fortale\xE7a seu neg\xF3cio e crie uma marca\
-    \ forte. Entre em contato com a Ovo Comunica\xE7\xE3o: https://ovocom.com.br/\U0001F4E2\
-    Apoie o Market Makers e ajude a fortalecer o mercado de capitais no Brasil! Clique\
-    \ no link e torne-se membro do nosso canal por apenas R$7,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
-    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\
-    \ \U0001F4E2 Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DA\
-    Biblioteca Market Makers: https://mmakers.com.br/biblioteca-market-makers/?xpromo=MI-COMP-YT-DESCRICAO-MM-XApresentadores:\
-    \ Thiago Salom\xE3o (Apresentador e analista do Market makers)Convidado: Daniel\
-    \ Goldberg (fundador e CIO da Lumina Capital)\_Become a supporter of this podcast:\
-    \ https://www.spreaker.com/podcast/market-makers--5613725/support."
-  image: https://i.scdn.co/image/ab6765630000ba8a44add384b33d9e8f68a6d5f4
-  path: https://open.spotify.com/episode/2Oi0xAvJpwpUjeWVUstP5O
-  title: '#223 | SEGREDOS DE INVESTIMENTO DE UMA DAS MENTES MAIS BRILHANTES DO MERCADO'
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2025-06-05T00:00:00+00:00'
-  description: "As a registered Democrat, Gary Cohn was an unexpected pick for Donald\
-    \ Trump\u2019s chief economic adviser in 2017. He came on a mission to slash taxes,\
-    \ but left during the president\u2019s first tariff war. Eight years later we\
-    \ interview Mr Cohn at the Reagan National Economic Forum, getting his take on\
-    \ the more-radical \u201CLiberation Day\u201D tariffs and the \u201CBig Beautiful\
-    \ Bill\u201D that would make permanent the tax cuts he crafted.Hosts: Mike Bird\
-    \ and Alice Fulwood. Guest: Gary Cohn, former director of America\u2019s National\
-    \ Economic Council under Donald Trump and former president of Goldman Sachs. Recorded\
-    \ at the Reagan National Economic Forum.Transcripts of our podcasts are available\
-    \ via economist.com/podcasts.Listen to what matters most, from global politics\
-    \ and business to science and technology\u2014subscribe to Economist Podcasts+.For\
-    \ more information about how to access Economist Podcasts+, please visit our FAQs\
-    \ page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a2aae3f4068aa81ee7a8d74af
-  path: https://open.spotify.com/episode/2Y0GhJjERD7khL9QvlN0a9
-  title: "Tax assessor: Gary Cohn on Trump\u2019s agenda"
 - author: The Overshoot
-  categories: *id007
+  categories: *id005
   date: '2025-06-04T22:52:04+00:00'
   description: Inventory accumulation is almost certainly being undercounted. Data
     center investment may also be undercounted. But there was still a substantial
@@ -821,7 +696,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/are-businesses-absorbing-the-tariffs-or-passing-them-on-to-their-customers/
   title: Are Businesses Absorbing the Tariffs or Passing Them On to Their Customers?
 - author: ArjanCodes
-  categories: *id008
+  categories: *id006
   date: '2025-05-30T15:01:49+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nThink map() and filter() are always better than for loops? Not so fast. In this\
@@ -839,7 +714,7 @@
   path: https://www.youtube.com/watch?v=ylzo04lU9Xs
   title: "Let\u2019s Replace All For Loops With Map and Filter"
 - author: Apricitas Economics
-  categories: &id010
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-05-29T13:15:18+00:00'
@@ -848,29 +723,8 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3a7a70-8511-4fdb-9af5-40ff257c4639_2886x1843.png
   path: https://www.apricitas.io/p/a-detailed-look-at-trumps-car-tariffs
   title: A Detailed Look at Trump's Car Tariffs
-- author: Outliers
-  categories: *id009
-  date: '2025-05-27T00:00:00+00:00'
-  description: "Se no Brasil o an\xFAncio (e posterior recuo parcial) do aumento das\
-    \ al\xEDquotas do IOF sacudiu o mercado financeiro local, no exterior as tens\xF5\
-    es n\xE3o s\xE3o diferentes: a prestigiada ag\xEAncia Moody's acabou de rebaixar\
-    \ a nota do \u201Cmaior pagador do mundo\u201D, Estados Unidos, ap\xF3s preocupa\xE7\
-    \xF5es com o d\xE9ficit fiscal. Atualmente passando dos U$36 trilh\xF5es, a d\xED\
-    vida p\xFAblica estadunidense representa mais de 120% do PIB do pa\xEDs, trazendo\
-    \ mais incertezas para um cen\xE1rio que n\xE3o tem sido dos mais est\xE1veis.\_\
-    Em mais um cap\xEDtulo da s\xE9rie que analisa o cen\xE1rio macro, Clara Sodr\xE9\
-    \ e Fabiano Cintra recebem no epis\xF3dio 160 do Outliers InfoMoney o gestor Andr\xE9\
-    \ Raduan, s\xF3cio e gestor da Genoa Capital, gestora que tem se destacado perante\
-    \ os pares da ind\xFAstria e que faz parte da Sele\xE7\xE3o Top Fundos Multimercados\
-    \ XP. No bate papo, Raduan analisa as repercuss\xF5es dos \xFAltimos acontecimentos\
-    \ nos cen\xE1rios global e local, e explica como aproveitar as diferentes oportunidades\
-    \ de investimentos mesmo em per\xEDodos de mar\xE9 revolta.O Outliers InfoMoney\
-    \ vai ao ar quinzenalmente \xE0s ter\xE7as-feiras, \xE0s 18h."
-  image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
-  path: https://open.spotify.com/episode/4mJKZ4az0BQGq0gKRcwfsR
-  title: "#160 - IOF e d\xEDvida p\xFAblica dos EUA com Genoa Capital | Outliers InfoMoney"
 - author: Apricitas Economics
-  categories: *id010
+  categories: *id007
   date: '2025-05-19T12:02:17+00:00'
   description: China Tariffs Are Now Below "Embargo" Levels, but Overall Tariffs are
     at the Highest Rate Since the Great Depression
@@ -912,11 +766,3 @@
   path: https://open.spotify.com/episode/1YVIWy0mTFkoMAQ4Nq4vJa
   title: "Roxton McNeal and Siddharth Sethi \u2013\_Building Multi-Strategy QIS Portfolios\
     \ (S7E16)"
-- author: The Morgan Housel Podcast
-  categories:
-  - Podcasts
-  date: '2024-09-12T00:00:00+00:00'
-  description: Some of the most interesting stuff I've come across lately.
-  image: https://i.scdn.co/image/ab6765630000ba8ad361bb21ea290bac4044281b
-  path: https://open.spotify.com/episode/5ES7i79TDQgFskKC0YDUPF
-  title: A Few Little Ideas And Short Stories
