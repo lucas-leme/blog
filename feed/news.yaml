@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-12T02:36:29+00:00'
+  description: "Medida provis\xF3ria imp\xF5e novas taxas para ativos isentos, renda\
+    \ fixa e cripto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/governo-publica-mp-com-aumento-de-imposto-em-aplicacoes-financeiras/
+  title: "Governo publica MP com aumento de imposto em aplica\xE7\xF5es financeiras"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-11T23:24:45+00:00'
   description: "Segundo a ANTT, o encerramento ocorreu ap\xF3s um processo de caducidade\
@@ -9,8 +18,7 @@
   title: "Governo federal encerra concess\xE3o da BR-393 no RJ e DNIT vai assumir\
     \ a \u2018Rodovia do A\xE7o\u2019"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-06-11T18:08:58+00:00'
   description: "Parceria permitir\xE1 que reais, d\xF3lares e a stablecoin USDC coexistam\
     \ em um \xFAnico ambiente, facilitando os pagamentos"
@@ -19,7 +27,7 @@
   title: "Circle se une a fintech brasileira para viabilizar uso de stablecoins\_\
     em bancos"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-11T14:24:29+00:00'
   description: Mercados reagem com incerteza, com os futuros do S&#038;P 500 recuperando
     levemente as perdas, antes de cair novamente
@@ -27,11 +35,3 @@
   path: https://investnews.com.br/economia/trump-diz-que-a-china-fornecera-terras-raras/
   title: "Sem detalhes do acordo entre China e EUA, investidores globais ainda est\xE3\
     o com o p\xE9 no freio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-11T13:14:12+00:00'
-  description: "Mercado de criptomoedas segue em alta, mas sem muita for\xE7a enquanto\
-    \ investidores aguardam novos catalisadores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-se-mantem-em-us-109-mil-ethereum-tem-maior-preco-desde-fevereiro/
-  title: "Bitcoin se mant\xE9m em US$ 109 mil; ethereum tem maior pre\xE7o desde fevereiro"
