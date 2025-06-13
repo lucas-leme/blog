@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-13T16:26:12+00:00'
+  description: "Proposta para elevar imposto de 12% para 18% sofre resist\xEAncia\
+    \ entre parlamentares"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lobby-das-bets-avanca-no-congresso-e-ameaca-plano-fiscal-do-governo-lula/
+  title: "Lobby das bets avan\xE7a no Congresso e amea\xE7a plano fiscal do governo\
+    \ Lula"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -5,7 +15,8 @@
   description: "Entenda na pr\xE1tica como as novas regras de IR afetam seus investimentos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/novo-ir-nos-investimentos-e-se-eu-comprar-hoje-e-vender-ano-que-vem/
-  title: 'Novo IR nos investimentos: e se eu comprar hoje e vender ano que vem?'
+  title: "Novo IR sobre LCI, LCA, fundos, t\xEDtulos, a\xE7\xF5es: e se eu comprar\
+    \ hoje e vender no ano que vem?"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id001
   date: '2025-06-13T13:44:29+00:00'
@@ -16,8 +27,7 @@
   path: https://investnews.com.br/financas/amazon-e-walmart-avaliam-emitir-suas-proprias-stablecoins/
   title: "Amazon e Walmart avaliam emitir suas pr\xF3prias stablecoins"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-13T13:20:20+00:00'
   description: "Petr\xF3leo chegou a valorizar 13%, maior salto intraday desde mar\xE7\
     o de 2022"
@@ -25,11 +35,3 @@
   path: https://investnews.com.br/economia/acoes-caem-petroleo-e-ouro-sobem-com-israel-atacando-o-ira-investidores-buscam-ativos-seguros/
   title: "Petr\xF3leo dispara com ataques de Israel ao Ir\xE3. Fluxo global da commodity\
     \ est\xE1 em risco"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-13T11:58:36+00:00'
-  description: "Receio \xE9 que o Ir\xE3 retalie fechando o estreito de Hormuz, por\
-    \ onde passa 30% do fluxo global da commodity"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/precos-do-petroleo-disparam-apos-ataque-de-israel-ao-ira/
-  title: "Petr\xF3leo dispara 8% com ataques de Israel ao Ir\xE3"
