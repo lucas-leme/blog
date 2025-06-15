@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-15T15:11:08+00:00'
+  description: "Mesmo com a tens\xE3o geopol\xEDtica, d\xEDvida americana enfraquece\
+    \ o d\xF3lar, e segue abrindo espa\xE7o para a \"s\xE9rie B\" do mercado global"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/moedas-emergentes-como-o-real-rumam-para-o-melhor-1o-semestre-desde-2009-ha-espaco-para-mais-altas/
+  title: "Moedas emergentes, como o real, rumam para o melhor 1\xBA semestre desde\
+    \ 2009. H\xE1 espa\xE7o para mais?"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -20,8 +30,7 @@
   title: "Israel amplia ataques e agora mira a ind\xFAstria de \xF3leo e g\xE1s do\
     \ Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-14T16:01:32+00:00'
   description: "Sim, o ouro subiu e as a\xE7\xF5es ca\xEDram, mas n\xE3o houve p\xE2\
     nico generalizado. O mercado estaria otimista demais?"
@@ -29,11 +38,3 @@
   path: https://investnews.com.br/financas/wall-street-passa-por-teste-de-estresse-com-a-crise-no-oriente-medio/
   title: "Mercado financeiro passa por teste de estresse com a crise no Oriente M\xE9\
     dio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-13T13:59:25+00:00'
-  description: "Entenda na pr\xE1tica como as novas regras de IR afetam seus investimentos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/novo-ir-nos-investimentos-e-se-eu-comprar-hoje-e-vender-ano-que-vem/
-  title: "Novo IR sobre LCI, LCA, fundos, t\xEDtulos, a\xE7\xF5es: e se eu comprar\
-    \ hoje e vender no ano que vem?"
