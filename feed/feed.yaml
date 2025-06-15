@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-15T12:30:54.308636'
+  date: '2025-06-15T13:39:03.526481'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-15T12:30:54.306918'
+  date: '2025-06-15T13:39:03.524738'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-15T12:30:54.306914'
+  date: '2025-06-15T13:39:03.524734'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-15T12:30:54.306909'
+  date: '2025-06-15T13:39:03.524728'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-15T12:30:54.306899'
+  date: '2025-06-15T13:39:03.524717'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: Apricitas Economics
+  categories: &id009
+  - Macro
+  - Newsletters
+  date: '2025-06-15T13:02:28+00:00'
+  description: A Detailed Look at How US Trade Flows Are Unraveling Amidst Trump's
+    Trade War
+  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb253e1bc-ed16-44c8-b24f-42a446f68a28_2000x1277.jpeg
+  path: https://www.apricitas.io/p/how-tariffs-are-breaking-us-trade
+  title: How Tariffs Are Breaking US Trade
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -712,7 +722,7 @@
   title: "#224 | GRANDES LI\xC7\xD5ES DE NEG\xD3CIOS, LIDERAN\xC7A E CARREIRA COM\
     \ ROBERTO SALLOUTI (CEO do BTG Pactual)"
 - author: Outliers
-  categories: &id009
+  categories: &id010
   - Podcasts
   date: '2025-06-10T00:00:00+00:00'
   description: "Na vis\xE3o de Thomas Wu, economista-chefe da Ita\xFA Asset, o tarifa\xE7\
@@ -805,9 +815,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/are-businesses-absorbing-the-tariffs-or-passing-them-on-to-their-customers/
   title: Are Businesses Absorbing the Tariffs or Passing Them On to Their Customers?
 - author: Apricitas Economics
-  categories: &id010
-  - Macro
-  - Newsletters
+  categories: *id009
   date: '2025-05-29T13:15:18+00:00'
   description: Breaking Down the Largest Negative Shock to the Car Market In Years
     as Trump Hits $350B in Vehicles & Parts with Tariffs
@@ -815,7 +823,7 @@
   path: https://www.apricitas.io/p/a-detailed-look-at-trumps-car-tariffs
   title: A Detailed Look at Trump's Car Tariffs
 - author: Outliers
-  categories: *id009
+  categories: *id010
   date: '2025-05-27T00:00:00+00:00'
   description: "Se no Brasil o an\xFAncio (e posterior recuo parcial) do aumento das\
     \ al\xEDquotas do IOF sacudiu o mercado financeiro local, no exterior as tens\xF5\
@@ -835,14 +843,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
   path: https://open.spotify.com/episode/4mJKZ4az0BQGq0gKRcwfsR
   title: "#160 - IOF e d\xEDvida p\xFAblica dos EUA com Genoa Capital | Outliers InfoMoney"
-- author: Apricitas Economics
-  categories: *id010
-  date: '2025-05-19T12:02:17+00:00'
-  description: China Tariffs Are Now Below "Embargo" Levels, but Overall Tariffs are
-    at the Highest Rate Since the Great Depression
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3ef59008-6daf-48b3-b2db-f47eac5e901b_2000x1277.jpeg
-  path: https://www.apricitas.io/p/trumps-retreat-still-leaves-tariffs
-  title: Trump's Retreat Still Leaves Tariffs at 90-Year Highs
 - author: The View From Apollo
   categories:
   - Podcasts
