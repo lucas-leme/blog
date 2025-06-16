@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-16T11:07:00+00:00'
+  description: Nova funcionalidade do Pix permite programar pagamentos recorrentes
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/pix-automatico-comeca-a-funcionar-hoje-veja-as-diferencas-para-o-debito-automatico/
+  title: "Pix Autom\xE1tico come\xE7a a funcionar hoje; veja as diferen\xE7as para\
+    \ o d\xE9bito autom\xE1tico"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-15T15:11:08+00:00'
   description: "Mesmo com a tens\xE3o geopol\xEDtica, d\xEDvida americana enfraquece\
     \ o d\xF3lar, e segue abrindo espa\xE7o para a \"s\xE9rie B\" do mercado global"
@@ -9,7 +17,7 @@
   title: "Moedas emergentes, como o real, rumam para o melhor 1\xBA semestre desde\
     \ 2009. H\xE1 espa\xE7o para mais?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-15T14:19:31+00:00'
   description: "Israel bombardeou uma usina de g\xE1s e uma refinaria voltadas ao\
@@ -20,7 +28,7 @@
   title: "Israel e Ir\xE3 trocam ataques pelo 3\xBA dia; infra de exporta\xE7\xE3\
     o de petr\xF3leo parece n\xE3o ter sido afetada"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-14T19:05:45+00:00'
   description: "Nova frente do conflito busca debilitar o suprimento dom\xE9stico\
     \ de energia do Ir\xE3, mas pode afetar o suprimento global de petr\xF3leo em\
@@ -29,12 +37,3 @@
   path: https://investnews.com.br/economia/israel-amplia-ataques-e-agora-mira-a-industria-de-oleo-e-gas-do-ira/
   title: "Israel amplia ataques e agora mira a ind\xFAstria de \xF3leo e g\xE1s do\
     \ Ir\xE3"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-14T16:01:32+00:00'
-  description: "Sim, o ouro subiu e as a\xE7\xF5es ca\xEDram, mas n\xE3o houve p\xE2\
-    nico generalizado. O mercado estaria otimista demais?"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/wall-street-passa-por-teste-de-estresse-com-a-crise-no-oriente-medio/
-  title: "Mercado financeiro passa por teste de estresse com a crise no Oriente M\xE9\
-    dio"
