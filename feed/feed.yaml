@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-16T14:50:12.827747'
+  date: '2025-06-16T15:49:50.385793'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-16T14:50:12.825995'
+  date: '2025-06-16T15:49:50.384086'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-16T14:50:12.825992'
+  date: '2025-06-16T15:49:50.384082'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-16T14:50:12.825986'
+  date: '2025-06-16T15:49:50.384078'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-16T14:50:12.825976'
+  date: '2025-06-16T15:49:50.384067'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,31 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-06-16T15:44:41+00:00'
+  description: "<p>A economia brasileira apresenta baixo crescimento da renda e da\
+    \ produtividade h\xE1 mais de quatro d\xE9cadas. Neste artigo, sistematizamos\
+    \ dados que evidenciam esse baixo desempenho em compara\xE7\xE3o com o de outros\
+    \ pa\xEDses. O artigo \xE9 meramente descritivo. Apresentamos a evolu\xE7\xE3\
+    o do PIB por trabalhador e do PIB per capita do Brasil e de outros pa\xEDses [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/fatos-empiricos-sobre-o-voo-de-galinha-do-pib-brasileiro/\"\
+    \ rel=\"nofollow\">Fatos emp\xEDricos sobre o \u201Cvoo de galinha\u201D do PIB\
+    \ brasileiro</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/fatos-empiricos-sobre-o-voo-de-galinha-do-pib-brasileiro/
+  title: "Fatos emp\xEDricos sobre o \u201Cvoo de galinha\u201D do PIB brasileiro"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-06-16T15:18:03+00:00'
+  description: Explore a Bayesian approach to investing that updates beliefs with
+    data, manages risk, and identifies market mispricing.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/16/bayesian-edge-investing-a-framework-for-smarter-portfolio-allocation/
+  title: 'Bayesian Edge Investing: A Framework for Smarter Portfolio Allocation'
 - author: Apricitas Economics
   categories: &id009
   - Macro
@@ -509,7 +534,7 @@
   path: https://www.apricitas.io/p/how-tariffs-are-breaking-us-trade
   title: How Tariffs Are Breaking US Trade
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-06-14T20:59:33+00:00'
@@ -538,8 +563,7 @@
   path: https://www.youtube.com/watch?v=r0QIuI1wpes
   title: "MCP\u2026. So What\u2019s That All About?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2025-06-13T14:55:18+00:00'
   description: "<p>A Selic est\xE1 no n\xEDvel mais elevado em 19 anos, e o juro real\
     \ roda acima de 8%. Ainda assim, o Banco Central deveria dar um novo aperto de\
@@ -553,7 +577,7 @@
   path: https://braziljournal.com/se-parar-a-selic-agora-bc-nao-fara-o-trabalho-diz-kanczuk/
   title: "Se parar a Selic agora, BC \u2018n\xE3o far\xE1 o trabalho,\u2019 diz Kanczuk"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-06-13T00:00:00+00:00'
   description: "U.S. officials planned to meet with an Iranian delegation this weekend\
@@ -568,24 +592,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/6INZBfQ1442CZ8MYewZrmU
   title: Iran and the U.S. Were Set To Negotiate. Then Israel Attacked.
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2025-06-12T23:38:12+00:00'
-  description: "<p>Henry L. Mencken dizia que \u201Cpara todo problema complexo existe\
-    \ sempre uma solu\xE7\xE3o simples, elegante e completamente errada\u201D. Confrontado\
-    \ pelo Congresso Nacional a oferecer medidas estruturais de redu\xE7\xE3o do custo\
-    \ do paquid\xE9rmico estado brasileiro \u2013 em vez de aumentar o IOF \u2013\
-    \ o Ministro da Fazenda praticamente ignorou a demanda e apresentou outro projeto\
-    \ de [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-fim-de-festa-da-politica-fiscal-se-colar-colou/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O fim de festa da pol\xEDtica fiscal. \u201CSe\
-    \ colar, colou\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-fim-de-festa-da-politica-fiscal-se-colar-colou/
-  title: "OPINI\xC3O. O fim de festa da pol\xEDtica fiscal. \u201CSe colar, colou\u201D"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2025-06-12T16:32:36+00:00'
   description: Search funds stand out as a valuable alternative asset class, offering
     diversification, alpha potential, and operational upside in underserved markets.
@@ -628,7 +636,7 @@
   title: "#225 | COMO O BOTIC\xC1RIO SE TORNOU A MAIOR FRANQUIA DE BELEZA E COSM\xC9\
     TICOS DO MUNDO?"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-06-12T00:00:00+00:00'
   description: "Leonard Leo is a conservative lawyer and co-chairman of the Federalist\
     \ Society who played a significant role in shifting the U.S. Supreme Court rightward.\
@@ -662,20 +670,12 @@
   path: https://open.spotify.com/episode/4152h8TFOu9N9GBAqLDtiY
   title: 'Vorsprung durch Technik: can Germany reinvent its economy?'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-06-11T20:33:51+00:00'
   description: All clear everything, coming to an iPhone near you.
   image: https://i2.ytimg.com/vi/EDUqT2cZ1nY/hqdefault.jpg
   path: https://www.youtube.com/shorts/EDUqT2cZ1nY
   title: iOS 26 Liquid Glass
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-06-11T12:56:18+00:00'
-  description: Penman and Pope refine classic value investing through the lens of
-    financial statements.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/11/book-review-financial-statement-analysis-for-value-investing/
-  title: 'Book Review: Financial Statement Analysis for Value Investing'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
