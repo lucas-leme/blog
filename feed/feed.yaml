@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-17T11:25:29.096690'
+  date: '2025-06-17T12:14:28.350743'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T11:25:29.094936'
+  date: '2025-06-17T12:14:28.348965'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T11:25:29.094931'
+  date: '2025-06-17T12:14:28.348961'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T11:25:29.094926'
+  date: '2025-06-17T12:14:28.348956'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T11:25:29.094915'
+  date: '2025-06-17T12:14:28.348944'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,8 +498,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
-- author: Marques Brownlee
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2025-06-17T11:43:09+00:00'
+  description: "Singapore\u2019s proposal to democratize private markets signals a\
+    \ shift in retail investing\u2014raising opportunities and risks for investors,\
+    \ managers, and regulators."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/17/singapore-floats-retail-access-to-private-markets-next-frontier-for-asset-managers/
+  title: 'Singapore Floats Retail Access to Private Markets: Next Frontier for Asset
+    Managers?'
+- author: Marques Brownlee
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-06-16T23:33:11+00:00'
@@ -547,8 +558,7 @@
   path: https://braziljournal.com/fatos-empiricos-sobre-o-voo-de-galinha-do-pib-brasileiro/
   title: "Fatos emp\xEDricos sobre o \u201Cvoo de galinha\u201D do PIB brasileiro"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2025-06-16T15:18:03+00:00'
   description: Explore a Bayesian approach to investing that updates beliefs with
     data, manages risk, and identifies market mispricing.
@@ -556,7 +566,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/16/bayesian-edge-investing-a-framework-for-smarter-portfolio-allocation/
   title: 'Bayesian Edge Investing: A Framework for Smarter Portfolio Allocation'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-06-16T00:00:00+00:00'
   description: "This year, Washington D.C. has faced thousands of federal jobs cuts\
@@ -582,7 +592,7 @@
   path: https://www.apricitas.io/p/how-tariffs-are-breaking-us-trade
   title: How Tariffs Are Breaking US Trade
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-06-14T20:59:33+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/HP_mXUuHPbo/hqdefault.jpg
@@ -609,7 +619,7 @@
   path: https://www.youtube.com/watch?v=r0QIuI1wpes
   title: 'MCP Explained: How to Expose Your API to AI Models'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-06-13T00:00:00+00:00'
   description: "U.S. officials planned to meet with an Iranian delegation this weekend\
     \ to discuss curbs on Iran\u2019s nuclear program. In a twist, those talks ended\
@@ -623,14 +633,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/6INZBfQ1442CZ8MYewZrmU
   title: Iran and the U.S. Were Set To Negotiate. Then Israel Attacked.
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-06-12T16:32:36+00:00'
-  description: Search funds stand out as a valuable alternative asset class, offering
-    diversification, alpha potential, and operational upside in underserved markets.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/12/search-funds-a-strategic-investment-in-underserved-markets/
-  title: 'Search Funds: A Strategic Investment in Underserved Markets'
 - author: Market Makers
   categories: &id005
   - Podcasts
