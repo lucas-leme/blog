@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-17T14:50:43.918460'
+  date: '2025-06-17T15:49:58.844758'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T14:50:43.916722'
+  date: '2025-06-17T15:49:58.843010'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T14:50:43.916718'
+  date: '2025-06-17T15:49:58.843006'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T14:50:43.916713'
+  date: '2025-06-17T15:49:58.843001'
   description: "<div class=\"ExternalClassB27C33A0668D4D38BE755BFCCD8D0E78\"><p>\u200B\
     <span>O a</span><span>mbiente externo </span><span>mo</span><span>stra-se adverso\
     \ e particularmente incerto</span><span> em fun\xE7\xE3o da conjuntura e da pol\xED\
@@ -135,7 +135,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-17T14:50:43.916702'
+  date: '2025-06-17T15:49:58.842990'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -498,6 +498,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id005
+  - CFA
+  date: '2025-06-17T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fca-dp251-regulating-cryptoasset-activities
+  title: "Response to FCA - DP25.1 \u2014 Regulating Cryptoasset Activities"
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -519,7 +527,7 @@
   path: https://www.youtube.com/watch?v=I3f_ucrnCUg
   title: $750 Flashlight vs Phone Flashlight!
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-06-16T22:03:10+00:00'
@@ -599,7 +607,7 @@
   path: https://www.youtube.com/shorts/HP_mXUuHPbo
   title: Samsung broke this
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -634,7 +642,7 @@
   path: https://open.spotify.com/episode/6INZBfQ1442CZ8MYewZrmU
   title: Iran and the U.S. Were Set To Negotiate. Then Israel Attacked.
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-06-12T00:00:00+00:00'
   description: "Por que o Grupo Botic\xE1rio nunca fez IPO, mesmo sendo uma gigante\
@@ -686,15 +694,14 @@
   path: https://open.spotify.com/episode/4152h8TFOu9N9GBAqLDtiY
   title: 'Vorsprung durch Technik: can Germany reinvent its economy?'
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id005
   date: '2025-06-10T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/ai-washing
   title: 'AI Washing: Signs, Symptoms, and Suggested Solutions for Investment Stakeholders'
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-06-10T00:00:00+00:00'
   description: "Ser\xE1 que o mercado financeiro \xE9 s\xF3 para quem nasce em ber\xE7\
     o de ouro? Descubra a fascinante trajet\xF3ria de Roberto Sallouti, CEO do BTG\
@@ -755,7 +762,7 @@
   title: "#161 - D\xEDvida p\xFAblica dos EUA, IOF e taxa de juros com Ita\xFA Asset\
     \ | Outliers InfoMoney"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2025-06-07T05:20:18+00:00'
   description: The latest data available on the job market, inflation, and business
     sentiment all suggest that the current constellation of interest rates is broadly
@@ -764,7 +771,7 @@
   path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
   title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-06-06T15:00:42+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\
     \ \n\nMost Python developers stick with def, but there\u2019s a whole world of\
@@ -781,13 +788,6 @@
   image: https://i4.ytimg.com/vi/OdDI-5PBpSk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=OdDI-5PBpSk
   title: Writing Python Functions Like a Mad Scientist
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-06-05T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fasb-comment-recognition-of-intangibles
-  title: "Response to FASB Invitation to Comment \u2013 Recognition of Intangibles"
 - author: Liberty Street Economics
   categories:
   - Macro
