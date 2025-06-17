@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-17T12:59:30+00:00'
+  description: "Petr\xF3leo bruto subiu 1,75% nesta manh\xE3, chegando a US$ 74,51"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/preco-do-petroleo-avanca-com-escalada-do-conflito-mas-impacto-maior-vira-se-exportacoes-forem-afetadas/
+  title: "Pre\xE7o do petr\xF3leo avan\xE7a com escalada do conflito, mas impacto\
+    \ maior vir\xE1 se exporta\xE7\xF5es forem afetadas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -15,19 +24,10 @@
   path: https://investnews.com.br/financas/dolar-cai-abaixo-de-r-550-pela-primeira-vez-desde-outubro-de-2024/
   title: "D\xF3lar cai abaixo de R$ 5,50 pela primeira vez desde outubro de 2024"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-16T16:49:30+00:00'
   description: "A infla\xE7\xE3o anual deve desacelerar para 5,25% em dezembro, abaixo\
     \ da estimativa anterior de 5,44%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/inflacao-para-o-brasil-em-2025/
   title: "Expectativa sobre infla\xE7\xE3o no Brasil cai em semana de Copom"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-16T14:22:00+00:00'
-  description: "Corpus Christi ser\xE1 feriado em 15 capitais do pa\xEDs; veja todas\
-    \ as folgas do ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/feriados-em-2025-veja-todas-as-datas-e-planeje-sua-folga-prolongada/
-  title: 'Feriados em 2025: veja todas as datas e planeje sua folga prolongada'
