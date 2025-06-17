@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-16T21:39:20+00:00'
+  description: No ano, a moeda americana acumula queda de 11,2% frente ao real
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-cai-abaixo-de-r-550-pela-primeira-vez-desde-outubro-de-2024/
+  title: "D\xF3lar cai abaixo de R$ 5,50 pela primeira vez desde outubro de 2024"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +24,7 @@
   path: https://investnews.com.br/economia/feriados-em-2025-veja-todas-as-datas-e-planeje-sua-folga-prolongada/
   title: 'Feriados em 2025: veja todas as datas e planeje sua folga prolongada'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-16T13:49:20+00:00'
   description: "Fortuna de Trump \xE9 estimada em US$ 4,8 bilh\xF5es; s\xF3 com a\
     \ empresa de criptomoedas ele arrecadou US$ 57,7 milh\xF5es"
@@ -25,11 +32,3 @@
   path: https://investnews.com.br/financas/fortuna-de-trump/
   title: "Criptomoedas, resorts e im\xF3veis: fortuna de Trump aumenta US$ 600 milh\xF5\
     es"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-16T12:02:27+00:00'
-  description: Bitcoin e outras criptos recuperam perdas da semana passada
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-recupera-perdas/
-  title: "Bitcoin e ethereum voltam a subir; investidores aguardam decis\xE3o dos\
-    \ juros dos EUA"
