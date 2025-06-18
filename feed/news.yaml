@@ -1,13 +1,23 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-06-18T13:28:16+00:00'
-  description: "Mudan\xE7as de \xFAltima hora sobre juros n\xE3o s\xE3o casos isolados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/juros-brasil-junho-2025/
-  title: "Dia de Copom: pesquisa mostra que economistas est\xE3o divididos sobre juros"
-- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-18T18:16:04+00:00'
+  description: "Juros americanos est\xE3o estacionados entre 4,25% e 4,50% ao ano\
+    \ desde dezembro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fed-mantem-juros-nos-eua-mas-pode-cortar-juros-ainda-em-2025/
+  title: "Fed mant\xE9m taxa de juros inalterada e prev\xEA dois cortes em 2025"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-06-18T16:42:05+00:00'
+  description: "Investidores avaliam a possibilidade de interrup\xE7\xF5es na oferta\
+    \ de petr\xF3leo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petroleo-cai-conflito-ira-israel/
+  title: "Petr\xF3leo cai mais de 1% enquanto conflito Ir\xE3-Israel entra em seu\
+    \ sexto dia"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-18T12:34:35+00:00'
   description: "Se o projeto de lei for aprovado, empresas de tecnologia e empresas\
@@ -16,7 +26,7 @@
   path: https://investnews.com.br/financas/investimentos/senado-dos-eua-stablecoins/
   title: Senado dos EUA aprova projeto de lei sobre stablecoins
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-18T12:00:07+00:00'
   description: "Criptomoedas recuam de olho no Fomc desta tarde e com mercado alerta\
     \ sobre conflito entre Israel e Ir\xE3"
@@ -24,11 +34,3 @@
   path: https://investnews.com.br/financas/bitcoin-cai-para-us-104-mil-e-mercado-cripto-mantem-cautela-antes-de-decisao-de-juros-nos-eua/
   title: "Bitcoin cai para US$ 104 mil e mercado cripto mant\xE9m cautela antes de\
     \ decis\xE3o de juros nos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-17T12:59:30+00:00'
-  description: "Petr\xF3leo bruto subiu 1,75% nesta manh\xE3, chegando a US$ 74,51"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/preco-do-petroleo-avanca-com-escalada-do-conflito-mas-impacto-maior-vira-se-exportacoes-forem-afetadas/
-  title: "Pre\xE7o do petr\xF3leo avan\xE7a com escalada do conflito, mas impacto\
-    \ maior vir\xE1 se exporta\xE7\xF5es forem afetadas"
