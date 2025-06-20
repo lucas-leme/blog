@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-20T13:42:21.828039'
+  date: '2025-06-20T14:49:35.956593'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T13:42:21.826271'
+  date: '2025-06-20T14:49:35.954841'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T13:42:21.826267'
+  date: '2025-06-20T14:49:35.954837'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T13:42:21.826262'
+  date: '2025-06-20T14:49:35.954833'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T13:42:21.826252'
+  date: '2025-06-20T14:49:35.954823'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -489,6 +489,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-06-20T14:26:29+00:00'
+  description: "Discover how cutting-edge academic research becomes real-world investment\
+    \ strategy and explore award-winning insights from the Hillsdale\u2013CFA Society\
+    \ Toronto Research Award."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/20/from-ivory-tower-to-investment-toolbox-why-research-matters/
+  title: 'From Ivory Tower to Investment Toolbox: Why Research Matters'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -511,7 +521,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/the-new-york-fed-dsge-model-forecast-june-2025/
   title: "The New York Fed DSGE Model Forecast\u2014June 2025"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-06-19T00:00:00+00:00'
   description: "A Investo, maior gestora independente de ETFs do Brasil, se uniu ao\
@@ -580,8 +590,7 @@
   path: https://open.spotify.com/episode/0aneQzqI7rd8RD21ZtdX9I
   title: "Warning Vietnam: why the country\u2019s new leader is worried"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-06-18T17:33:16+00:00'
   description: "DFA\u2019s David Booth on building portfolios\u2014and an industry\u2014\
     on data, not dogma."
@@ -606,7 +615,7 @@
   title: "OPINI\xC3O.\_Precisamos de gatilhos autom\xE1ticos para o equil\xEDbrio\
     \ fiscal"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-06-18T00:00:00+00:00'
   description: "A Investo, maior gestora independente de ETFs do Brasil, se uniu ao\
     \ Market Makers para trazer uma oportunidade exclusiva! Invista pelo app da Investo\
@@ -688,16 +697,6 @@
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fca-dp251-regulating-cryptoasset-activities
   title: "Response to FCA - DP25.1 \u2014 Regulating Cryptoasset Activities"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-06-17T11:43:09+00:00'
-  description: "Singapore\u2019s proposal to democratize private markets signals a\
-    \ shift in retail investing\u2014raising opportunities and risks for investors,\
-    \ managers, and regulators."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/17/singapore-floats-retail-access-to-private-markets-next-frontier-for-asset-managers/
-  title: 'Singapore Floats Retail Access to Private Markets: Next Frontier for Asset
-    Managers?'
 - author: The Journal.
   categories: *id003
   date: '2025-06-17T00:00:00+00:00'
