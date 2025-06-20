@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-20T14:49:35.956593'
+  date: '2025-06-20T15:48:56.800045'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T14:49:35.954841'
+  date: '2025-06-20T15:48:56.798326'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T14:49:35.954837'
+  date: '2025-06-20T15:48:56.798323'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T14:49:35.954833'
+  date: '2025-06-20T15:48:56.798319'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-20T14:49:35.954823'
+  date: '2025-06-20T15:48:56.798309'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mostra-se adverso e particularmente\
@@ -489,6 +489,27 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/07052025
   title: "BC - Copom Ata - 270\xAA Reuni\xE3o - 6-7 maio, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-06-20T15:00:23+00:00'
+  description: "\u27A1\uFE0F  Get started with Pulumi for free: https://www.pulumi.com/?utm_source=arjancodes.\n\
+    \nIn this video, I\u2019ll show you what Cloud Run Functions can and can\u2019\
+    t do, how to work around common limitations, and when to use alternatives like\
+    \ Cloud Run or Kubernetes. Plus, I\u2019ll show you how to deploy a function securely\
+    \ using infrastructure-as-code.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/serverless.\n\
+    \n\U0001F477 Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:51 What Is a Serverless Function?\n1:39 Local Development\
+    \ with Functions Framework\n1:56 Deployment (sponsored by Pulumi)\n6:33 Limitations\
+    \ of Google Cloud Functions\n9:17 Security Considerations\n13:25 Add Subroutes\
+    \ with Flask\n15:30 Serverless vs Cloud Run vs Kubernetes\n18:28 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/EYYhDnPAPcw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=EYYhDnPAPcw
+  title: Watch This Before You Use Google Serverless Functions
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -666,7 +687,7 @@
   path: https://open.spotify.com/episode/65NvJcp5FRU3EuanNc5Nc4
   title: Why Latino Consumers Are Spending Less
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-06-18T00:00:00+00:00'
   description: "O mercado ainda respira os impactos dos an\xFAncios do Minist\xE9\
@@ -690,7 +711,7 @@
   title: "#162 - Novas regras para isentos com Ita\xFA Asset e Bradesco Asset | Outliers\
     \ InfoMoney"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-06-17T12:00:00+00:00'
   description: ''
@@ -720,7 +741,7 @@
   path: https://www.youtube.com/watch?v=I3f_ucrnCUg
   title: $750 Flashlight vs Phone Flashlight!
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-06-16T22:03:10+00:00'
@@ -760,10 +781,7 @@
   path: https://www.youtube.com/shorts/HP_mXUuHPbo
   title: Samsung broke this
 - author: ArjanCodes
-  categories: &id009
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-06-13T15:01:35+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nWant your AI tools to actually *do* something?\
@@ -780,14 +798,14 @@
   path: https://www.youtube.com/watch?v=r0QIuI1wpes
   title: 'MCP Explained: How to Expose Your API to AI Models'
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-06-10T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/ai-washing
   title: 'AI Washing: Signs, Symptoms, and Suggested Solutions for Investment Stakeholders'
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-06-10T00:00:00+00:00'
   description: "Na vis\xE3o de Thomas Wu, economista-chefe da Ita\xFA Asset, o tarifa\xE7\
     o proposto por Donald Trump possui um efeito direto, com a desacelera\xE7\xE3\
@@ -810,7 +828,7 @@
   title: "#161 - D\xEDvida p\xFAblica dos EUA, IOF e taxa de juros com Ita\xFA Asset\
     \ | Outliers InfoMoney"
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2025-06-07T05:20:18+00:00'
   description: The latest data available on the job market, inflation, and business
     sentiment all suggest that the current constellation of interest rates is broadly
@@ -818,24 +836,6 @@
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d06aa9b-9fde-4e88-b74f-5aaa0998e065_3200x2980.png
   path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
   title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
-- author: ArjanCodes
-  categories: *id009
-  date: '2025-06-06T15:00:42+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\
-    \ \n\nMost Python developers stick with def, but there\u2019s a whole world of\
-    \ alternative ways to define functions\u2014some smart, some slightly cursed.\
-    \ In this video, I\u2019ll walk you through 8 of them, from lambda to literal\
-    \ bytecode crafting, and yes... the last one might break your brain.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2025/functions.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:39 1. Lambda Functions (Anonymous Functions)\n1:44 2. Partial function application\n\
-    3:19 3. Using Decorators to Define Functions at Runtime\n5:35 4. Using a Class\
-    \ with __call__ (Callable Objects)\n8:41 5. Using exec\n9:46 6. Using eval\n10:29\
-    \ 7. Using types.new_class\n12:41 8. Manually Creating a Function from a Code\
-    \ Object\n15:07 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/OdDI-5PBpSk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OdDI-5PBpSk
-  title: Writing Python Functions Like a Mad Scientist
 - author: Apricitas Economics
   categories: *id010
   date: '2025-05-29T13:15:18+00:00'
