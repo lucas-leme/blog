@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-23T12:20:23+00:00'
+  description: Ethereum acumula perdas de mais de 13% em sete dias
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-cai-100-mil-apos-intervencao-eua-no-conflito-israel-ira/
+  title: "Bitcoin cai para US$ 100 mil ap\xF3s interven\xE7\xE3o dos EUA no conflito\
+    \ Israel-Ir\xE3"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-22T13:54:25+00:00'
   description: "\xC9 o sexto aumento consecutivo, com o mercado apostando na derrota\
     \ do Ir\xE3"
@@ -8,7 +16,7 @@
   path: https://investnews.com.br/financas/acoes-sobem-na-bolsa-de-israel-apos-bombardeio-americano-ao-ira/
   title: "A\xE7\xF5es sobem na bolsa de Israel ap\xF3s bombardeio americano ao Ir\xE3"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-20T14:22:55+00:00'
   description: "Os recursos captados pela emiss\xE3o ser\xE3o utilizados para amortiza\xE7\
@@ -17,7 +25,7 @@
   path: https://investnews.com.br/economia/pague-menos-vai-emitir-r-350-milhoes-em-debentures/
   title: "Pague Menos vai emitir R$ 350 milh\xF5es em deb\xEAntures"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-20T12:50:14+00:00'
   description: "BC dos EUA busca desacelerar economia em meio a um cen\xE1rio de incertezas\
     \ trazidas pelas tarifas do presidente americano"
@@ -25,12 +33,3 @@
   path: https://investnews.com.br/economia/era-de-ouro-prometida-por-trump-enfrenta-visao-pratica-do-fed/
   title: "\u201CEra de ouro\u201D prometida por Trump enfrenta vis\xE3o pr\xE1tica\
     \ do Fed"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-18T12:00:07+00:00'
-  description: "Criptomoedas recuam de olho no Fomc desta tarde e com mercado alerta\
-    \ sobre conflito entre Israel e Ir\xE3"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-cai-para-us-104-mil-e-mercado-cripto-mantem-cautela-antes-de-decisao-de-juros-nos-eua/
-  title: "Bitcoin cai para US$ 104 mil e mercado cripto mant\xE9m cautela antes de\
-    \ decis\xE3o de juros nos EUA"
