@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-23T20:07:48+00:00'
+  description: "Jerome Powell, do Fed, prestar\xE1 depoimento no Comit\xEA de Servi\xE7\
+    os Financeiros da C\xE2mara nesta ter\xE7a e quarta-feira"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/congresso-dos-eua-vai-interrogar-presidente-do-fed/
+  title: "Congresso dos EUA vai interrogar presidente do Fed sobre a manuten\xE7\xE3\
+    o dos juros"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-23T14:04:16+00:00'
   description: "Azul encaminhou pedido \xE0 Justi\xE7a dos Estados Unidos, onde corre\
     \ sua recupera\xE7\xE3o judicial"
@@ -9,7 +18,7 @@
   title: "Ra\xEDzen corta fornecimento de combust\xEDvel para a Azul, que tenta impedir\
     \ a suspens\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-23T12:20:23+00:00'
   description: Ethereum acumula perdas de mais de 13% em sete dias
@@ -18,18 +27,10 @@
   title: "Bitcoin cai para US$ 100 mil ap\xF3s interven\xE7\xE3o dos EUA no conflito\
     \ Israel-Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-22T13:54:25+00:00'
   description: "\xC9 o sexto aumento consecutivo, com o mercado apostando na derrota\
     \ do Ir\xE3"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/acoes-sobem-na-bolsa-de-israel-apos-bombardeio-americano-ao-ira/
   title: "A\xE7\xF5es sobem na bolsa de Israel ap\xF3s bombardeio americano ao Ir\xE3"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-20T14:22:55+00:00'
-  description: "Os recursos captados pela emiss\xE3o ser\xE3o utilizados para amortiza\xE7\
-    \xE3o do valor principal e dos juros devidos da 7\xAA emiss\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/pague-menos-vai-emitir-r-350-milhoes-em-debentures/
-  title: "Pague Menos vai emitir R$ 350 milh\xF5es em deb\xEAntures"
