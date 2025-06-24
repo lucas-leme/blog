@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-24T12:31:12.442748'
+  date: '2025-06-24T13:44:09.954578'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-24T12:31:12.441001'
+  date: '2025-06-24T13:44:09.952824'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-24T12:31:12.440998'
+  date: '2025-06-24T13:44:09.952820'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-24T12:31:12.440994'
+  date: '2025-06-24T13:44:09.952815'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-24T12:31:12.440985'
+  date: '2025-06-24T13:44:09.952806'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-06-24T10:26:28+00:00'
   description: "Investment professionals can\u2019t opt out of complexity, but they\
@@ -474,7 +474,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/24/clarity-by-design-the-new-infrastructure-for-investment-firms/
   title: 'Clarity by Design: The New Infrastructure for Investment Firms'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2025-06-23T18:48:16+00:00'
   description: "<p>O UBS elevou a recomenda\xE7\xE3o do Brasil de neutra para overweight\
@@ -488,13 +488,20 @@
   path: https://braziljournal.com/ubs-eleva-brasil-para-overweight/
   title: UBS eleva Brasil para overweight
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id001
   - CFA
   date: '2025-06-23T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/investor-emotions-and-asset-prices
   title: Investor Emotions and Asset Prices
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-06-23T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-kenneth-blay
+  title: Conversations with Frank Fabozzi, CFA, Featuring Kenneth Blay
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -516,7 +523,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/reserves-and-where-to-find-them/
   title: Reserves and Where to Find Them
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-06-23T10:31:04+00:00'
   description: "Discover how advanced AI prompting and model selection are reshaping\
     \ investment analysis\u2014and why mastering these tools is essential for staying\
@@ -525,7 +532,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/23/outperformed-by-ai-time-to-replace-your-analyst/
   title: 'Outperformed by AI: Time to Replace Your Analyst?'
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-06-23T00:00:00+00:00'
   description: "Today, Iran fired missiles at a U.S. military base in Qatar. Officials\
@@ -605,7 +612,7 @@
   path: https://www.youtube.com/watch?v=EYYhDnPAPcw
   title: Watch This Before You Use Google Serverless Functions
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-06-20T00:00:00+00:00'
   description: "The most well-known cryptocurrency thefts involve online hacks or\
     \ phishing attempts via text messages. But WSJ's Sam Schechner has been reporting\
@@ -618,7 +625,7 @@
   path: https://open.spotify.com/episode/2IyHCdYbV2YwjlPwhcD2pQ
   title: 'Severed Fingers and Wrench Attacks: A New Era in Crypto Crime'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-06-19T00:00:00+00:00'
   description: "A Investo, maior gestora independente de ETFs do Brasil, se uniu ao\
@@ -687,7 +694,7 @@
   path: https://open.spotify.com/episode/0aneQzqI7rd8RD21ZtdX9I
   title: "Warning Vietnam: why the country\u2019s new leader is worried"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2025-06-18T12:23:50+00:00'
   description: "<p>A Lei de Responsabilidade Fiscal completou 25 anos no m\xEAs passado.\
     \ Mas apesar de sua exist\xEAncia, h\xE1 mais de 25 anos o Brasil enfrenta um\
@@ -703,7 +710,7 @@
   title: "OPINI\xC3O.\_Precisamos de gatilhos autom\xE1ticos para o equil\xEDbrio\
     \ fiscal"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-06-18T00:00:00+00:00'
   description: "A Investo, maior gestora independente de ETFs do Brasil, se uniu ao\
     \ Market Makers para trazer uma oportunidade exclusiva! Invista pelo app da Investo\
@@ -761,13 +768,6 @@
   path: https://open.spotify.com/episode/1de8ftwUWxLxQCqe9WZGIu
   title: "#162 - Novas regras para isentos com Ita\xFA Asset e Bradesco Asset | Outliers\
     \ InfoMoney"
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-06-17T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fca-dp251-regulating-cryptoasset-activities
-  title: "Response to FCA - DP25.1 \u2014 Regulating Cryptoasset Activities"
 - author: Marques Brownlee
   categories: *id006
   date: '2025-06-16T23:33:11+00:00'

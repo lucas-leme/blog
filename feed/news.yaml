@@ -1,15 +1,23 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-06-24T11:57:50+00:00'
-  description: "Criptomoedas voltam a subir com al\xEDvio - ainda que moment\xE2neo\
-    \ - do conflito no Oriente M\xE9dio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-sobe-105-mil-ethereum/
-  title: "Cessar-fogo entre Israel e Ir\xE3 reflete nas criptomoedas: bitcoin sobe\
-    \ e chega em US$ 105 mil e ethereum salta 7%"
-- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-06-24T13:02:59+00:00'
+  description: "Economia brasileira \xE9 resiliente, mas h\xE1 sinais de desacelera\xE7\
+    \xE3o em \xE1reas-chave, como o mercado de cr\xE9dito"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/banco-central-juros-altos/
+  title: "Banco Central acredita que o impacto dos juros altos ainda est\xE1 por vir"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2025-06-24T12:42:05+00:00'
+  description: "Relat\xF3rio mostra que um em cada tr\xEAs bancos centrais planeja\
+    \ aumentar a exposi\xE7\xE3o ao ouro nos pr\xF3ximos dois anos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/dolar-bancos-centrais-ouro-euro-iuan/
+  title: "Dom\xEDnio do d\xF3lar diminui e bancos centrais agora est\xE3o de olho\
+    \ no ouro, euro e iuan"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-23T22:27:31+00:00'
   description: "Cessar-fogo come\xE7a \xE0 meia-noite desta segunda-feira (23). Tr\xE9\
@@ -19,7 +27,7 @@
   title: "\u201CGuerra dos 12 dias\u201D: Trump anuncia acordo de paz entre Ir\xE3\
     \ e Israel"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-23T20:07:48+00:00'
   description: "Jerome Powell, do Fed, prestar\xE1 depoimento no Comit\xEA de Servi\xE7\
     os Financeiros da C\xE2mara nesta ter\xE7a e quarta-feira"
@@ -27,11 +35,3 @@
   path: https://investnews.com.br/economia/congresso-dos-eua-vai-interrogar-presidente-do-fed/
   title: "Congresso dos EUA vai interrogar presidente do Fed sobre a manuten\xE7\xE3\
     o dos juros"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-23T12:20:23+00:00'
-  description: Ethereum acumula perdas de mais de 13% em sete dias
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/bitcoin-cai-100-mil-apos-intervencao-eua-no-conflito-israel-ira/
-  title: "Bitcoin cai para US$ 100 mil ap\xF3s interven\xE7\xE3o dos EUA no conflito\
-    \ Israel-Ir\xE3"
