@@ -1,24 +1,33 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-06-24T19:50:35+00:00'
+  description: "Petr\xF3leo despenca pelo segundo dia consecutivo, com Trump sinalizando\
+    \ que quer manter o com\xE9rcio com o Ir\xE3"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petroleo-cai-6-em-dia-de-sabatina-de-jerome-powell-e-cessar-fogo-no-conflito-ira-israel/
+  title: "Petr\xF3leo cai 6% em dia de sabatina de Jerome Powell e cessar fogo no\
+    \ conflito Ir\xE3-Israel"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-24T18:50:00+00:00'
+  description: "Desacelera\xE7\xE3o da economia no Brasil e no exterior deve ajudar\
+    \ a amenizar as press\xF5es inflacion\xE1rias"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/juros-cambio-jpmorgan/
+  title: "Press\xE3o cambial e avan\xE7o fiscal abrem caminho para corte de juros,\
+    \ aponta JPMorgan"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-24T13:02:59+00:00'
   description: "Economia brasileira \xE9 resiliente, mas h\xE1 sinais de desacelera\xE7\
     \xE3o em \xE1reas-chave, como o mercado de cr\xE9dito"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/banco-central-juros-altos/
   title: "Banco Central acredita que o impacto dos juros altos ainda est\xE1 por vir"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-06-24T12:42:05+00:00'
-  description: "Relat\xF3rio mostra que um em cada tr\xEAs bancos centrais planeja\
-    \ aumentar a exposi\xE7\xE3o ao ouro nos pr\xF3ximos dois anos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dolar-bancos-centrais-ouro-euro-iuan/
-  title: "Dom\xEDnio do d\xF3lar diminui e bancos centrais agora est\xE3o de olho\
-    \ no ouro, euro e iuan"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-23T22:27:31+00:00'
   description: "Cessar-fogo come\xE7a \xE0 meia-noite desta segunda-feira (23). Tr\xE9\
     gua n\xE3o foi confirmada por nenhuma das partes at\xE9 o momento do an\xFAncio"
@@ -26,12 +35,3 @@
   path: https://investnews.com.br/economia/guerra-dos-12-dias-trump-anuncia-fim-de-conflito-ira-israel/
   title: "\u201CGuerra dos 12 dias\u201D: Trump anuncia acordo de paz entre Ir\xE3\
     \ e Israel"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-23T20:07:48+00:00'
-  description: "Jerome Powell, do Fed, prestar\xE1 depoimento no Comit\xEA de Servi\xE7\
-    os Financeiros da C\xE2mara nesta ter\xE7a e quarta-feira"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/congresso-dos-eua-vai-interrogar-presidente-do-fed/
-  title: "Congresso dos EUA vai interrogar presidente do Fed sobre a manuten\xE7\xE3\
-    o dos juros"
