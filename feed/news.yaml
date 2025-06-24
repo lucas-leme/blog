@@ -1,15 +1,25 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-06-24T20:37:04+00:00'
+  description: "O Brasil, maior exportador global de carne de frango, tamb\xE9m havia\
+    \ se autodeclarado livre da doen\xE7a ap\xF3s registrar um per\xEDodo de 28 dias\
+    \ sem novos surtos em granjas comerciais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/japao-e-outros-16-paises-retiram-restricoes-comerciais-ao-brasil-relacionadas-a-gripe-aviaria/
+  title: "Jap\xE3o e outros 16 pa\xEDses retiram restri\xE7\xF5es comerciais ao Brasil\
+    \ relacionadas \xE0 gripe avi\xE1ria"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-06-24T19:50:35+00:00'
   description: "Petr\xF3leo despenca pelo segundo dia consecutivo, com Trump sinalizando\
     \ que quer manter o com\xE9rcio com o Ir\xE3"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/petroleo-cai-6-em-dia-de-sabatina-de-jerome-powell-e-cessar-fogo-no-conflito-ira-israel/
-  title: "Petr\xF3leo cai 6% em dia de sabatina de Jerome Powell e cessar fogo no\
-    \ conflito Ir\xE3-Israel"
+  title: "Petr\xF3leo cai 6% em dia de cessar fogo no conflito Ir\xE3-Israel e sabatina\
+    \ de Jerome Powell"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-06-24T18:50:00+00:00'
   description: "Desacelera\xE7\xE3o da economia no Brasil e no exterior deve ajudar\
@@ -19,19 +29,10 @@
   title: "Press\xE3o cambial e avan\xE7o fiscal abrem caminho para corte de juros,\
     \ aponta JPMorgan"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-06-24T13:02:59+00:00'
   description: "Economia brasileira \xE9 resiliente, mas h\xE1 sinais de desacelera\xE7\
     \xE3o em \xE1reas-chave, como o mercado de cr\xE9dito"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/banco-central-juros-altos/
   title: "Banco Central acredita que o impacto dos juros altos ainda est\xE1 por vir"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-23T22:27:31+00:00'
-  description: "Cessar-fogo come\xE7a \xE0 meia-noite desta segunda-feira (23). Tr\xE9\
-    gua n\xE3o foi confirmada por nenhuma das partes at\xE9 o momento do an\xFAncio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/guerra-dos-12-dias-trump-anuncia-fim-de-conflito-ira-israel/
-  title: "\u201CGuerra dos 12 dias\u201D: Trump anuncia acordo de paz entre Ir\xE3\
-    \ e Israel"
