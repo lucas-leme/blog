@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-25T02:14:32.697265'
+  date: '2025-06-25T11:07:57.920413'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T02:14:32.695500'
+  date: '2025-06-25T11:07:57.918633'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T02:14:32.695496'
+  date: '2025-06-25T11:07:57.918629'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T02:14:32.695492'
+  date: '2025-06-25T11:07:57.918623'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T02:14:32.695482'
+  date: '2025-06-25T11:07:57.918614'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,8 +464,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-06-25T10:30:35+00:00'
+  description: Explore a new approach to replicating private equity returns with daily
+    liquidity, combining futures, dynamic asset allocation, and risk management overlays.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/06/25/private-equity-returns-without-the-lockups/
+  title: Private Equity Returns Without the Lockups
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-06-24T18:04:47+00:00'
   description: "<p>Howard Marks publicou um novo memo sobre os impactos \u2013 quase\
@@ -481,8 +490,7 @@
   path: https://braziljournal.com/nunca-deu-certo-howard-marks-sobre-a-mao-pesada-dos-governos/
   title: "\u201CNunca deu certo\u201D: Howard Marks sobre a m\xE3o pesada dos governos"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-06-24T10:26:28+00:00'
   description: "Investment professionals can\u2019t opt out of complexity, but they\
     \ can opt into clarity."
@@ -542,7 +550,7 @@
   path: https://open.spotify.com/episode/3WRBz7UshdsCoJWMaiK5k7
   title: NCAA President on a New Era for College Sports
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-06-23T18:48:16+00:00'
   description: "<p>O UBS elevou a recomenda\xE7\xE3o do Brasil de neutra para overweight\
     \ como parte de sua revis\xE3o de meio de ano para mercados emergentes. Depois\
@@ -555,7 +563,7 @@
   path: https://braziljournal.com/ubs-eleva-brasil-para-overweight/
   title: UBS eleva Brasil para overweight
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-06-23T12:00:00+00:00'
   description: ''
@@ -563,7 +571,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/investor-emotions-and-asset-prices
   title: Investor Emotions and Asset Prices
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-06-23T12:00:00+00:00'
   description: ''
   image: null
@@ -589,15 +597,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/reserves-and-where-to-find-them/
   title: Reserves and Where to Find Them
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-06-23T10:31:04+00:00'
-  description: "Discover how advanced AI prompting and model selection are reshaping\
-    \ investment analysis\u2014and why mastering these tools is essential for staying\
-    \ competitive."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/23/outperformed-by-ai-time-to-replace-your-analyst/
-  title: 'Outperformed by AI: Time to Replace Your Analyst?'
 - author: The Journal.
   categories: *id004
   date: '2025-06-23T00:00:00+00:00'
@@ -676,7 +675,7 @@
     \n#arjancodes #softwaredesign #python"
   image: https://i2.ytimg.com/vi/EYYhDnPAPcw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=EYYhDnPAPcw
-  title: Watch This Before You Use Google Serverless Functions
+  title: "Serverless on Google Cloud: What You Can and Can\u2019t Do"
 - author: Market Makers
   categories: *id005
   date: '2025-06-19T00:00:00+00:00'
@@ -811,7 +810,7 @@
     \ Final Thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i3.ytimg.com/vi/r0QIuI1wpes/hqdefault.jpg
   path: https://www.youtube.com/watch?v=r0QIuI1wpes
-  title: "MCP\u2026. So What\u2019s That All About?"
+  title: 'MCP Explained: How to Expose Your API to AI Models'
 - author: Outliers
   categories: *id008
   date: '2025-06-10T00:00:00+00:00'
