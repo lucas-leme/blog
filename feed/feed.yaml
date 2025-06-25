@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-25T20:30:26.025846'
+  date: '2025-06-25T21:28:04.313388'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T20:30:26.024125'
+  date: '2025-06-25T21:28:04.311592'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T20:30:26.024122'
+  date: '2025-06-25T21:28:04.311588'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T20:30:26.024117'
+  date: '2025-06-25T21:28:04.311583'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T20:30:26.024108'
+  date: '2025-06-25T21:28:04.311573'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -473,8 +473,23 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/06/25/private-equity-returns-without-the-lockups/
   title: Private Equity Returns Without the Lockups
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id002
+  - Podcasts
+  date: '2025-06-25T00:00:00+00:00'
+  description: "The new head of the Catholic Church, Pope Leo XIV, is making artificial\
+    \ intelligence a signature issue. Last week, the Vatican hosted tech leaders at\
+    \ a two-day international AI conference in Rome. WSJ\u2019s Margherita Stancati\
+    \ reports on why Silicon Valley is watching to see if Leo will use the Church\u2019\
+    s moral authority to push for stronger AI rules. Jessica Mendoza hosts.\_  Further\
+    \ Listening: - The Financial Mess Facing the Vatican\_ - Pope Francis Has Died.\
+    \ What\u2019s Next for the Catholic Church?\_  Sign up for WSJ\u2019s free What\u2019\
+    s News newsletter.\_  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/57hRfu1XIGmr41PDdlh62T
+  title: Why the New Pope Is Taking on AI
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
   - Economia
   date: '2025-06-24T18:04:47+00:00'
   description: "<p>Howard Marks publicou um novo memo sobre os impactos \u2013 quase\
@@ -535,8 +550,7 @@
   title: "#228 | OS SEGREDOS SOBRE NEG\xD3CIOS E LIDERAN\xC7A COM JO\xC3O MENIN (CEO\
     \ DO INTER)"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-06-24T00:00:00+00:00'
   description: "Jessica Mendoza speaks to NCAA president Charlie Baker about the landmark\
     \ settlement that is ushering in a new professional era for college sports. The\
@@ -550,7 +564,7 @@
   path: https://open.spotify.com/episode/3WRBz7UshdsCoJWMaiK5k7
   title: NCAA President on a New Era for College Sports
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-06-23T18:48:16+00:00'
   description: "<p>O UBS elevou a recomenda\xE7\xE3o do Brasil de neutra para overweight\
     \ como parte de sua revis\xE3o de meio de ano para mercados emergentes. Depois\
@@ -563,7 +577,7 @@
   path: https://braziljournal.com/ubs-eleva-brasil-para-overweight/
   title: UBS eleva Brasil para overweight
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-06-23T12:00:00+00:00'
   description: ''
@@ -571,7 +585,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/investor-emotions-and-asset-prices
   title: Investor Emotions and Asset Prices
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-06-23T12:00:00+00:00'
   description: ''
   image: null
@@ -597,21 +611,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/06/reserves-and-where-to-find-them/
   title: Reserves and Where to Find Them
-- author: The Journal.
-  categories: *id004
-  date: '2025-06-23T00:00:00+00:00'
-  description: "Today, Iran fired missiles at a U.S. military base in Qatar. Officials\
-    \ said Iran also fired on Iraq. The attacks were in retaliation for a strike over\
-    \ the weekend that hit three of Iran\u2019s nuclear facilities, authorized by\
-    \ President Trump. WSJ\u2019s Shayndi Raice reports on how Iran got backed into\
-    \ a corner and has been forced to decide whether or not to escalate into a broader\
-    \ war. Jessica Mendoza hosts.\_  Further Listening: -Iran May Be Running Out of\
-    \ Options\_ -Iran and the U.S. Were Set to Negotiate. Then Israel Attacked\_ \
-    \ Sign up for WSJ\u2019s free What\u2019s News newsletter.  Learn more about your\
-    \ ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/2IGo5rpMGspzBMgAXrO9L8
-  title: Iran Retaliates After U.S. Strike. How Could This End?
 - author: Marques Brownlee
   categories: &id006
   - Tech
