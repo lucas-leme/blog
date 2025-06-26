@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-25T21:28:04.313388'
+  date: '2025-06-26T00:48:29.615402'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T21:28:04.311592'
+  date: '2025-06-26T00:48:29.613674'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T21:28:04.311588'
+  date: '2025-06-26T00:48:29.613670'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T21:28:04.311583'
+  date: '2025-06-26T00:48:29.613665'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-25T21:28:04.311573'
+  date: '2025-06-26T00:48:29.613655'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,8 +464,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-06-25T21:28:05+00:00'
+  description: "<p>A Gavekal levantou d\xFAvidas sobre quanto o Federal Reserve est\xE1\
+    \ sujeito a press\xF5es do Governo Trump \u2013 especialmente at\xE9 que a sucess\xE3\
+    o de Jerome Powell na presid\xEAncia do Fed seja definida. Num relat\xF3rio publicado\
+    \ hoje, a consultoria lembra que, depois de o FOMC ter decidido na semana passada\
+    \ manter os juros por unanimidade, Powell afirmou [&#8230;]</p>\n<p>The post <a\
+    \ href=\"https://braziljournal.com/gavekal-ve-dose-incomum-de-influencia-politica-no-fed/\"\
+    \ rel=\"nofollow\">Gavekal v\xEA \u201Cdose incomum\u201D de influ\xEAncia pol\xED\
+    tica no Fed</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/gavekal-ve-dose-incomum-de-influencia-politica-no-fed/
+  title: "Gavekal v\xEA \u201Cdose incomum\u201D de influ\xEAncia pol\xEDtica no Fed"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-06-25T10:30:35+00:00'
   description: Explore a new approach to replicating private equity returns with daily
@@ -474,7 +490,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/25/private-equity-returns-without-the-lockups/
   title: Private Equity Returns Without the Lockups
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-06-25T00:00:00+00:00'
   description: "The new head of the Catholic Church, Pope Leo XIV, is making artificial\
@@ -489,8 +505,7 @@
   path: https://open.spotify.com/episode/57hRfu1XIGmr41PDdlh62T
   title: Why the New Pope Is Taking on AI
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id001
   date: '2025-06-24T18:04:47+00:00'
   description: "<p>Howard Marks publicou um novo memo sobre os impactos \u2013 quase\
     \ sempre desastrosos \u2013 de impor solu\xE7\xF5es pol\xEDticas a problemas econ\xF4\
@@ -505,7 +520,7 @@
   path: https://braziljournal.com/nunca-deu-certo-howard-marks-sobre-a-mao-pesada-dos-governos/
   title: "\u201CNunca deu certo\u201D: Howard Marks sobre a m\xE3o pesada dos governos"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-06-24T10:26:28+00:00'
   description: "Investment professionals can\u2019t opt out of complexity, but they\
     \ can opt into clarity."
@@ -550,7 +565,7 @@
   title: "#228 | OS SEGREDOS SOBRE NEG\xD3CIOS E LIDERAN\xC7A COM JO\xC3O MENIN (CEO\
     \ DO INTER)"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-06-24T00:00:00+00:00'
   description: "Jessica Mendoza speaks to NCAA president Charlie Baker about the landmark\
     \ settlement that is ushering in a new professional era for college sports. The\
@@ -563,19 +578,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/3WRBz7UshdsCoJWMaiK5k7
   title: NCAA President on a New Era for College Sports
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2025-06-23T18:48:16+00:00'
-  description: "<p>O UBS elevou a recomenda\xE7\xE3o do Brasil de neutra para overweight\
-    \ como parte de sua revis\xE3o de meio de ano para mercados emergentes. Depois\
-    \ da \xFAltima reuni\xE3o do Copom, em que a Selic subiu para 15%, os analistas\
-    \ do UBS passaram a acreditar que esse foi o \xFAltimo aumento do ano \u2013 e\
-    \ que os [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/ubs-eleva-brasil-para-overweight/\"\
-    \ rel=\"nofollow\">UBS eleva Brasil para overweight</a> appeared first on <a href=\"\
-    https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/ubs-eleva-brasil-para-overweight/
-  title: UBS eleva Brasil para overweight
 - author: CFA Institute Research and Policy Center
   categories: &id004
   - CFA
