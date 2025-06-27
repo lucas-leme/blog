@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-27T14:49:28.404798'
+  date: '2025-06-27T15:49:31.943350'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-27T14:49:28.403003'
+  date: '2025-06-27T15:49:31.941562'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-27T14:49:28.402999'
+  date: '2025-06-27T15:49:31.941558'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-27T14:49:28.402994'
+  date: '2025-06-27T15:49:31.941554'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-27T14:49:28.402985'
+  date: '2025-06-27T15:49:31.941544'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,14 +464,35 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-06-27T15:00:51+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I take a deep dive into Python dataclasses in 2025. Are they\
+    \ still useful now that we have Pydantic, FastAPI, SQLAlchemy,  and other tools?\
+    \ I walk through real-world examples showing when you should use dataclasses,\
+    \ Pydantic models, and how to design your models cleanly. I\u2019ll also build\
+    \ a small FastAPI app with SQLAlchemy and SQLite to demonstrate proper separation\
+    \ between domain models and API schemas.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/dataclasses.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n1:11 Quick Refresher \u2013 What Are Dataclasses?\n4:09\
+    \ Dataclasses vs Pydantic \u2013 And a Real FastAPI Example\n6:36 Separate Domain\
+    \ and API Models\n8:51 Hybrid Approach in Pydantic\n11:53 When Do I Use Dataclasses\n\
+    14:03 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/NRIgLNzmnYY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=NRIgLNzmnYY
+  title: "It Seems I No Longer Use Python\u2019s Dataclasses"
 - author: The View From Apollo
   categories:
   - Podcasts
   date: '2025-06-27T00:00:00+00:00'
   description: "Listen to Apollo Chief Economist Torsten Sl\xF8k and Global Head of\
-    \ Content J.P. Vicente discuss the growing list of headwinds facing the economy,\
-    \ including tariffs, trade deal uncertainty, and geopolitical conflict. Torsten\
-    \ also explores potential implications for capital markets and much more."
+    \ Content Strategy J.P. Vicente discuss the growing list of headwinds facing the\
+    \ economy, including tariffs, trade deal uncertainty, and geopolitical conflict.\
+    \ Torsten also explores potential implications for capital markets and much more."
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
@@ -683,7 +704,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/investor-emotions-and-asset-prices
   title: Investor Emotions and Asset Prices
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-06-20T15:44:16+00:00'
@@ -726,10 +747,7 @@
   path: https://www.youtube.com/watch?v=alDhOLhbkbY
   title: The Android Tablet Problem
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-06-20T15:00:23+00:00'
   description: "\u27A1\uFE0F  Get started with Pulumi for free: https://www.pulumi.com/?utm_source=arjancodes.\n\
     \nIn this video, I\u2019ll show you what Cloud Run Functions can and can\u2019\
@@ -771,7 +789,7 @@
   title: "#162 - Novas regras para isentos com Ita\xFA Asset e Bradesco Asset | Outliers\
     \ InfoMoney"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-06-16T23:33:11+00:00'
   description: ''
   image: https://i2.ytimg.com/vi/I3f_ucrnCUg/hqdefault.jpg
@@ -796,23 +814,6 @@
   image: https://substackcdn.com/image/fetch/$s_!kFIS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb253e1bc-ed16-44c8-b24f-42a446f68a28_2000x1277.jpeg
   path: https://www.apricitas.io/p/how-tariffs-are-breaking-us-trade
   title: How Tariffs Are Breaking US Trade
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-06-13T15:01:35+00:00'
-  description: "\u2705 Learn how to build robust and scalable software architecture:\
-    \ https://arjan.codes/checklist.\n\nWant your AI tools to actually *do* something?\
-    \ In this video, I\u2019ll show you how to integrate external tools with language\
-    \ models using **MCP (Model Context Protocol)**. You\u2019ll learn two common\
-    \ architecture patterns, see real code examples, and get tips on keeping your\
-    \ setup clean and scalable. Whether you\u2019re building for Claude, ChatGPT,\
-    \ or any other LLM\u2014this is how you connect your backend to AI.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2025/mcp-server.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:46 What is MCP?\n3:14 YouTube MCP Version 1\n7:58 YouTube MCP Version 2\n12:18\
-    \ Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/r0QIuI1wpes/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=r0QIuI1wpes
-  title: "MCP\u2026. So What\u2019s That All About?"
 - author: Outliers
   categories: *id008
   date: '2025-06-10T00:00:00+00:00'
