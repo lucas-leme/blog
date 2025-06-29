@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-06-29T15:48:26.656946'
+  date: '2025-06-29T18:31:21.624879'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-29T15:48:26.655173'
+  date: '2025-06-29T18:31:21.623169'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-29T15:48:26.655169'
+  date: '2025-06-29T18:31:21.623165'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-29T15:48:26.655164'
+  date: '2025-06-29T18:31:21.623160'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-06-29T15:48:26.655154'
+  date: '2025-06-29T18:31:21.623151'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-06-29T00:00:00+00:00'
+  description: "To renowned travel guru Rick Steves, \u201Cfear is for people who\
+    \ don\u2019t get out very much.\u201D The travel mogul has built an empire on\
+    \ a philosophy of travel that builds bridges. Recently, he sat down with Ryan\
+    \ Knutson at the Cascade PBS Ideas Festival in Seattle for a conversation about\
+    \ his business, his politics and how the two intersect. Further Listening:   \
+    \  The Love Triangle Over Spirit\_     An Air Traffic Controller Speaks Out About\
+    \ Newark Airport    Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/2soGMolDb8War5Zqxr4ljM
+  title: Rick Steves Is Tired of Hearing 'Have a Safe Trip'
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -486,8 +500,7 @@
   path: https://www.youtube.com/watch?v=NRIgLNzmnYY
   title: "It Seems I No Longer Use Python\u2019s Dataclasses"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2025-06-27T00:00:00+00:00'
   description: "NYC mayoral candidate Zohran Mamdani has won over legions of rent-strapped\
     \ young voters with a platform focused on making housing more affordable \u2014\
@@ -515,7 +528,7 @@
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-06-26T22:28:29+00:00'
   description: "<p>A vers\xE3o original deste artigo em ingl\xEAs est\xE1 aqui. &#160;\
@@ -530,7 +543,7 @@
   path: https://braziljournal.com/op-ed-we-need-a-super-hero-to-save-nyc/
   title: OP-ED. We need a super hero to save NYC
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-06-26T22:28:24+00:00'
   description: "<p>The original, English version of this article is available here.\
     \ &#160; Acordei hoje muito preocupado com Nova York. Pensei: \u201CNo que a cidade\
@@ -618,22 +631,6 @@
   path: https://open.spotify.com/episode/73Bb0SqbIXM4zGtB9GBuR1
   title: "#229 | O QUE N\xC3O TE CONTARAM SOBRE O ORIENTE M\xC9DIO E O FUTURO DOS\
     \ MERCADOS"
-- author: The Journal.
-  categories: *id002
-  date: '2025-06-26T00:00:00+00:00'
-  description: "Gary Rohwer owns Glenn Valley Foods and lends his name to the company\u2019\
-    s signature product: Gary\u2019s QuickSteaks. He says he built his business with\
-    \ the help of mostly immigrant workers, whose legal status he says his company\
-    \ vetted using the government\u2019s E-Verify System. This month, his plant was\
-    \ raided by ICE. He speaks with Annie Minoff about what happened, his industry\
-    \ and what\u2019s next for his company.\_  Further Listening: - Why Latino Consumers\
-    \ Are Spending Less\_ - Inside ICE\u2019s Aggressive Approach to Arresting Migrants\_\
-    \ - Deportations Could Upend This Parachute Factory\_  Sign up for WSJ\u2019s\
-    \ free What\u2019s News newsletter.   Learn more about your ad choices. Visit\
-    \ megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0U04aROG5T2gFFCiSN7SkS
-  title: '"I''m Thinking I''m 100% Legal." Then ICE Raided His Company.'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
