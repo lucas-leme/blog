@@ -1,15 +1,22 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-07-01T14:47:09+00:00'
-  description: "O an\xFAncio da AGU \xE9 mais um desdobramento das disputas sobre\
-    \ o IOF, que tem sido marcado por idas e vindas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/agu-entra-com-acao-no-stf-contra-derrubada-de-aumento-do-iof-pelo-congresso/
-  title: "AGU entra com a\xE7\xE3o no STF contra derrubada de aumento do IOF pelo\
-    \ Congresso"
-- author: "\u201CSuperior returns guaranteed\""
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-01T19:45:08+00:00'
+  description: "Data limite ser\xE1 dia 9 de julho"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-prazo-tarifas/
+  title: "Trump diz que n\xE3o estender\xE1 prazo para acordo sobre as tarifas"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-07-01T19:10:10+00:00'
+  description: "A Associa\xE7\xE3o Brasileira das Incorporadoras (Abrainc) tem defendido\
+    \ junto ao governo a cria\xE7\xE3o de incentivos ao cr\xE9dito"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/com-poupanca-seca-ipca-vira-aposta-para-financiar-credito-imobiliario/
+  title: "Com poupan\xE7a na seca, IPCA+ vira aposta para financiar cr\xE9dito imobili\xE1\
+    rio"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -23,7 +30,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lp1va1/psa_results_posts_will_be_removed/
   title: 'PSA: Results Posts Will Be Removed'
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2025-07-01T13:23:19+00:00'
   description: <!-- SC_OFF --><div class="md"><p><strong>As is tradition, we'll be
     removing all other related posts (I passed, I failed, How close was I?) because
@@ -44,16 +51,6 @@
   path: https://investnews.com.br/financas/dolar-cai-novamente-aos-r-543-e-encerra-o-semestre-no-menor-valor-desde-setembro/
   title: "D\xF3lar cai novamente, aos R$ 5,43, e encerra o semestre no menor valor\
     \ desde setembro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-30T19:16:00+00:00'
-  description: "Brasil j\xE1 ultrapassou a marca de 60 milh\xF5es de estabelecimentos\
-    \ cadastrados e o sistema atual, baseado somente em n\xFAmeros, est\xE1 pr\xF3\
-    ximo do limite de combina\xE7\xF5es poss\xEDveis"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/cnpj-ganha-letras-mudanca-comeca-em-2026/
-  title: "Novo CNPJ ter\xE1 letras, al\xE9m de n\xFAmeros: mudan\xE7a come\xE7a em\
-    \ 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id003
   date: '2025-06-24T18:50:00+00:00'
