@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-01T11:25:53.316301'
+  date: '2025-07-01T12:14:11.469457'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-01T11:25:53.314509'
+  date: '2025-07-01T12:14:11.467691'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-01T11:25:53.314506'
+  date: '2025-07-01T12:14:11.467687'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-01T11:25:53.314501'
+  date: '2025-07-01T12:14:11.467682'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-01T11:25:53.314492'
+  date: '2025-07-01T12:14:11.467672'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,8 +465,20 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2025-07-01T11:17:24+00:00'
+  description: "Investors betting on a near-term plunge in interest rates may be mistaking\
+    \ political theater for monetary policy reality. President Donald Trump\u2019\
+    s renewed pressure on Federal Reserve Chair Jerome Powell has stirred speculation\
+    \ in the bond and futures markets. But history &#8212; and Powell\u2019s own posture\
+    \ &#8212; suggest that such expectations are misplaced. Past confrontations between\
+    \ [&#8230;]"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/01/fed-independence-tested-but-investors-shouldnt-expect-a-pivot/
+  title: "Fed Independence Tested, but Investors Shouldn\u2019t Expect a Pivot"
+- author: CFA Institute Enterprising Investor
+  categories: *id001
   date: '2025-06-30T12:48:00+00:00'
   description: This post explores the growing wave of financial distress among US
     healthcare providers and reveals how financial governance failures can quickly
@@ -475,7 +487,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/06/30/hospitals-in-trouble-a-financial-playbook-for-leaders-and-investors/
   title: 'Hospitals in Trouble: A Financial Playbook for Leaders and Investors'
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-06-30T00:00:00+00:00'
   description: "SCOTUS wrapped up a busy session,  giving states room to restrict\
@@ -513,7 +525,7 @@
   title: "Benjamin Hoff \u2013 Commodity Futures Surfaces and the Cash-and-Carry Glue\
     \ (S7E17)"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-06-29T00:00:00+00:00'
   description: "To renowned travel guru Rick Steves, \u201Cfear is for people who\
     \ don\u2019t get out very much.\u201D The travel mogul has built an empire on\
@@ -558,7 +570,7 @@
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-06-26T22:28:29+00:00'
   description: "<p>A vers\xE3o deste artigo em portugu\xEAs est\xE1 aqui. &#160; I\
@@ -573,7 +585,7 @@
   path: https://braziljournal.com/op-ed-we-need-a-super-hero-to-save-nyc/
   title: OP-ED. We need a super hero to save NYC
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-06-26T22:28:24+00:00'
   description: "<p>The original, English version of this article is available here.\
     \ &#160; Acordei hoje muito preocupado com Nova York. Pensei: \u201CNo que a cidade\
@@ -587,14 +599,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-precisamos-de-um-super-heroi-para-salvar-nyc/
   title: "OPINI\xC3O. Precisamos de um super-her\xF3i para salvar NYC"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-06-26T15:30:15+00:00'
-  description: Invesco's Kenneth Blay shares insights on portfolio customization,
-    macro strategy, and the role of judgment in modern investing.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/26/from-models-to-markets-a-conversation-with-kenneth-blay/
-  title: 'From Models to Markets: A Conversation with Kenneth Blay'
 - author: CFA Institute Research and Policy Center
   categories: &id005
   - CFA
