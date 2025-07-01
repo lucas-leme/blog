@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2025-07-01T21:08:03+00:00'
+  description: "IOF, c\xE2mbio, cart\xF5es globais e spread impactam o bolso do brasileiro\
+    \ no exterior"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ferias-no-exterior-saiba-escolher-melhor-meio-de-pagar-seus-gastos-mesmo-com-bagunca-do-iof/
+  title: "F\xE9rias no exterior: saiba escolher melhor meio de pagar seus gastos \u2014\
+    \ mesmo com bagun\xE7a do IOF"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -42,8 +52,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lp1kpa/official_may_2025_level_2_results_megathread/
   title: Official May 2025 Level 2 Results Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2025-06-30T22:35:47+00:00'
   description: "O d\xF3lar \xE0 vista fechou em baixa de 0,88%, aos R$ 5,4350, no\
     \ menor valor de fechamento desde 19 de setembro do ano passado"
@@ -51,12 +60,3 @@
   path: https://investnews.com.br/financas/dolar-cai-novamente-aos-r-543-e-encerra-o-semestre-no-menor-valor-desde-setembro/
   title: "D\xF3lar cai novamente, aos R$ 5,43, e encerra o semestre no menor valor\
     \ desde setembro"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-06-24T18:50:00+00:00'
-  description: "Desacelera\xE7\xE3o da economia no Brasil e no exterior deve ajudar\
-    \ a amenizar as press\xF5es inflacion\xE1rias"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/juros-cambio-jpmorgan/
-  title: "Press\xE3o cambial e avan\xE7o fiscal abrem caminho para corte de juros,\
-    \ aponta JPMorgan"
