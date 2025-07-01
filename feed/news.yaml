@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-07-01T14:47:09+00:00'
+  description: "O an\xFAncio da AGU \xE9 mais um desdobramento das disputas sobre\
+    \ o IOF, que tem sido marcado por idas e vindas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/agu-entra-com-acao-no-stf-contra-derrubada-de-aumento-do-iof-pelo-congresso/
+  title: "AGU entra com a\xE7\xE3o no STF contra derrubada de aumento do IOF pelo\
+    \ Congresso"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id001
   - "Not\xEDcias"
@@ -35,8 +45,7 @@
   title: "D\xF3lar cai novamente, aos R$ 5,43, e encerra o semestre no menor valor\
     \ desde setembro"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-06-30T19:16:00+00:00'
   description: "Brasil j\xE1 ultrapassou a marca de 60 milh\xF5es de estabelecimentos\
     \ cadastrados e o sistema atual, baseado somente em n\xFAmeros, est\xE1 pr\xF3\
@@ -45,15 +54,6 @@
   path: https://investnews.com.br/negocios/cnpj-ganha-letras-mudanca-comeca-em-2026/
   title: "Novo CNPJ ter\xE1 letras, al\xE9m de n\xFAmeros: mudan\xE7a come\xE7a em\
     \ 2026"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-06-30T16:19:03+00:00'
-  description: "Pol\xEDticas de Trump sobre tarifas e impostos t\xEAm levado investidores\
-    \ a reduzir a exposi\xE7\xE3o ao d\xF3lar e aos mercados dos EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/deficit-fiscal-dos-eua-preocupa-investidores-que-comecam-a-se-afastar-das-treasuries/
-  title: "D\xE9ficit fiscal crescente dos EUA afasta investidores dos t\xEDtulos do\
-    \ Tesouro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id003
   date: '2025-06-24T18:50:00+00:00'
