@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-03T13:42:57.868477'
+  date: '2025-07-03T14:50:07.117752'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T13:42:57.866709'
+  date: '2025-07-03T14:50:07.115979'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T13:42:57.866705'
+  date: '2025-07-03T14:50:07.115975'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T13:42:57.866700'
+  date: '2025-07-03T14:50:07.115971'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T13:42:57.866690'
+  date: '2025-07-03T14:50:07.115961'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,8 +464,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2025-07-03T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-agenda-consultation
+  title: "Response to FASB Invitation to Comment \u2013 Agenda Consultation"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-07-03T11:21:09+00:00'
   description: Explore red flags in private markets as speculative excess, retail
@@ -474,7 +482,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/03/buyers-beware-7-red-flags-that-signal-a-private-market-reckoning/
   title: 'Buyers Beware: 7 Red Flags That Signal a Private Market Reckoning'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-07-02T20:45:13+00:00'
   description: "<p>Os sinais de \u2018desdolariza\xE7\xE3o\u2019 da economia mundial\
@@ -490,8 +498,7 @@
   path: https://braziljournal.com/as-evidencias-da-erosao-do-dolar-segundo-o-jp-morgan/
   title: "As evid\xEAncias da \u2018eros\xE3o\u2019 do d\xF3lar, segundo o JP Morgan"
 - author: CFA Institute Research and Policy Center
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2025-07-02T12:00:00+00:00'
   description: ''
   image: null
@@ -529,7 +536,7 @@
   title: "#229 | POR QUE A BOLSA \xC9 O MELHOR INVESTIMENTO QUE VOC\xCA PODE FAZER\
     \ AGORA"
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-07-02T00:00:00+00:00'
   description: "After a marathon 27-hour session, Senate Republicans passed their\
@@ -544,7 +551,7 @@
   path: https://open.spotify.com/episode/1shNkHy7xFdR70yHyuKfbT
   title: How Trump's Megabill Squeaked Through the Senate
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-07-01T19:08:56+00:00'
   description: "<p>A economia europeia est\xE1 fragilizada devido \xE0s pol\xEDticas\
     \ comerciais dos EUA, mas os mercados j\xE1 est\xE3o performando \xE0 espera do\
@@ -589,7 +596,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/new-dataset-maps-losses-from-natural-disasters-to-the-county-level/
   title: New Dataset Maps Losses from Natural Disasters to the County Level
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-07-01T11:17:24+00:00'
   description: "Investors betting on a near-term plunge in interest rates may be mistaking\
     \ political theater for monetary policy reality. President Donald Trump\u2019\
@@ -601,7 +608,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/01/fed-independence-tested-but-investors-shouldnt-expect-a-pivot/
   title: "Fed Independence Tested, but Investors Shouldn\u2019t Expect a Pivot"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-07-01T00:00:00+00:00'
   description: "JPMorgan Chase recently announced that it was raising the annual fee\
     \ on its popular Sapphire Reserve credit card by 45%. The company believes enough\
@@ -687,13 +694,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2025-06-26T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2025/de-risking-global-pension-systems
-  title: De-Risking Global Pension Systems
 - author: Market Makers
   categories: *id005
   date: '2025-06-26T00:00:00+00:00'
