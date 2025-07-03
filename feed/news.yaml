@@ -1,5 +1,15 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-03T16:53:03+00:00'
+  description: "Economia americana mostra resili\xEAncia, mas outros fatores sustentam\
+    \ o fluxo para o Brasil"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/brasil-em-promocao-atrai-gringos-e-ibovespa-reage-apesar-de-economia-aquecida-nos-eua/
+  title: "\u2018Brasil em promo\xE7\xE3o\u2019 atrai gringos e Ibovespa reage apesar\
+    \ de economia aquecida nos EUA"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -30,8 +40,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lqq6d9/join_the_cfa_exam_hub_discord_your_24_7_study/
   title: "\U0001F4E3 Join the CFA Exam Hub Discord \u2013 Your 24 7 Study Group \U0001F30D"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-03T11:39:33+00:00'
   description: "Dire\xE7\xE3o da empresa relatou que foi v\xEDtima de a\xE7\xE3o de\
     \ hackers, que usaram credenciais de clientes"
@@ -40,7 +49,7 @@
   title: "Diretor da C&M diz que servi\xE7os foram restabelecidos com autoriza\xE7\
     \xE3o do BC depois de ataque hacker"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2025-07-03T08:24:51+00:00'
   description: <table> <tr><td> <a href="https://www.reddit.com/r/CFA/comments/1lqkain/cfa_study_buddy_chatbot_chatgpt/">
     <img alt="CFA Study Buddy chatbot (ChatGPT)" src="https://preview.redd.it/bxk5hnj6dmaf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=626db2d4f4dda8854296a92bfcc0a39e03117253"
@@ -61,15 +70,6 @@
   image: https://preview.redd.it/bxk5hnj6dmaf1.png?width=640&crop=smart&auto=webp&s=626db2d4f4dda8854296a92bfcc0a39e03117253
   path: https://www.reddit.com/r/CFA/comments/1lqkain/cfa_study_buddy_chatbot_chatgpt/
   title: CFA Study Buddy chatbot (ChatGPT)
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-02T22:58:01+00:00'
-  description: "PF abriu investiga\xE7\xE3o para apurar crime, que pode ter desviado\
-    \ R$ 1 bilh\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ataque-hacker-a-empresa-ligada-ao-pix-afeta-as-contas-de-clientes-de-quem-e-o-problema/
-  title: "Ataque hacker a empresa ligada ao Pix afeta as contas de clientes? De quem\
-    \ \xE9 o problema?"
 - author: "Economia \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
