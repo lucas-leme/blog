@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-03T11:26:04.507260'
+  date: '2025-07-03T12:14:15.013716'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T11:26:04.505498'
+  date: '2025-07-03T12:14:15.011987'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T11:26:04.505495'
+  date: '2025-07-03T12:14:15.011984'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T11:26:04.505490'
+  date: '2025-07-03T12:14:15.011980'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-03T11:26:04.505481'
+  date: '2025-07-03T12:14:15.011970'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-07-03T11:21:09+00:00'
+  description: Explore red flags in private markets as speculative excess, retail
+    marketing, and valuation risks mount. Lessons from financial history.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/03/buyers-beware-7-red-flags-that-signal-a-private-market-reckoning/
+  title: 'Buyers Beware: 7 Red Flags That Signal a Private Market Reckoning'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -520,7 +529,7 @@
   title: "#229 | POR QUE A BOLSA \xC9 O MELHOR INVESTIMENTO QUE VOC\xCA PODE FAZER\
     \ AGORA"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-07-02T00:00:00+00:00'
   description: "After a marathon 27-hour session, Senate Republicans passed their\
@@ -580,8 +589,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/new-dataset-maps-losses-from-natural-disasters-to-the-county-level/
   title: New Dataset Maps Losses from Natural Disasters to the County Level
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-07-01T11:17:24+00:00'
   description: "Investors betting on a near-term plunge in interest rates may be mistaking\
     \ political theater for monetary policy reality. President Donald Trump\u2019\
@@ -593,7 +601,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/01/fed-independence-tested-but-investors-shouldnt-expect-a-pivot/
   title: "Fed Independence Tested, but Investors Shouldn\u2019t Expect a Pivot"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-07-01T00:00:00+00:00'
   description: "JPMorgan Chase recently announced that it was raising the annual fee\
     \ on its popular Sapphire Reserve credit card by 45%. The company believes enough\
@@ -625,15 +633,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7c0c6a62195153884d753668
   path: https://open.spotify.com/episode/2esJbw7KM9fA8yI1PLttIh
   title: '#163 - O futuro dos isentos com Sparta | Outliers InfoMoney'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-06-30T12:48:00+00:00'
-  description: This post explores the growing wave of financial distress among US
-    healthcare providers and reveals how financial governance failures can quickly
-    erode investor value.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/06/30/hospitals-in-trouble-a-financial-playbook-for-leaders-and-investors/
-  title: 'Hospitals in Trouble: A Financial Playbook for Leaders and Investors'
 - author: Flirting with Models
   categories:
   - Podcasts
