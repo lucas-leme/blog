@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-04T14:50:09.325842'
+  date: '2025-07-04T15:48:40.277089'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-04T14:50:09.324029'
+  date: '2025-07-04T15:48:40.275291'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-04T14:50:09.324026'
+  date: '2025-07-04T15:48:40.275288'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-04T14:50:09.324022'
+  date: '2025-07-04T15:48:40.275284'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-04T14:50:09.324012'
+  date: '2025-07-04T15:48:40.275275'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,27 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: ArjanCodes
+  categories: &id007
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-07-04T15:00:50+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nWhy do Python projects turn into spaghetti so easily? In this video, I show\
+    \ how using abstraction (with Callable, ABC, and Protocol) can dramatically clean\
+    \ up your code. We\u2019ll take a simple image processing example and refactor\
+    \ it step by step, making it more flexible, testable, and maintainable. Even small\
+    \ projects benefit from the right abstractions early on.\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2025/abstraction.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:54 Why Abstraction Matters\n2:44 Reducing Import Overload with Abstraction\n\
+    4:25 Using ABC \u2013 When You Need a Real Interface\n11:43 Protocol \u2013 Structural\
+    \ Typing Without Inheritance\n14:00 Using Callable \u2013 Functional Abstraction\n\
+    19:56 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/SNqwNILX1Gg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=SNqwNILX1Gg
+  title: This Is Why Your Python Code Turns Into Spaghetti
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -736,10 +757,7 @@
   title: "Benjamin Hoff \u2013 Commodity Futures Surfaces and the Cash-and-Carry Glue\
     \ (S7E17)"
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id007
   date: '2025-06-27T15:00:51+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I take a deep dive into Python dataclasses in 2025. Are they\
@@ -767,24 +785,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-06-20T15:00:23+00:00'
-  description: "\u27A1\uFE0F  Get started with Pulumi for free: https://www.pulumi.com/?utm_source=arjancodes.\n\
-    \nIn this video, I\u2019ll show you what Cloud Run Functions can and can\u2019\
-    t do, how to work around common limitations, and when to use alternatives like\
-    \ Cloud Run or Kubernetes. Plus, I\u2019ll show you how to deploy a function securely\
-    \ using infrastructure-as-code.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/serverless.\n\
-    \n\U0001F477 Review code better and faster with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:51 What Is a Serverless Function?\n1:39 Local Development\
-    \ with Functions Framework\n1:56 Deployment (sponsored by Pulumi)\n6:33 Limitations\
-    \ of Google Cloud Functions\n9:17 Security Considerations\n13:25 Add Subroutes\
-    \ with Flask\n15:30 Serverless vs Cloud Run vs Kubernetes\n18:28 Final Thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/EYYhDnPAPcw/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=EYYhDnPAPcw
-  title: "Serverless on Google Cloud: What You Can and Can\u2019t Do"
 - author: Outliers
   categories: *id008
   date: '2025-06-18T00:00:00+00:00'
