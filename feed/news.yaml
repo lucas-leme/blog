@@ -1,5 +1,16 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-04T14:34:26+00:00'
+  description: "Moraes justificou a decis\xE3o argumentando que o embate entre o Executivo\
+    \ e o Legislativo contraria a exig\xEAncia constitucional de harmonia entre os\
+    \ poderes"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/iof-stf/
+  title: "STF barra decis\xF5es sobre o IOF tomadas por governo e Congresso; Moraes\
+    \ prop\xF5e acordo"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -17,8 +28,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lrdxid/should_i_go_for_november_resit/
   title: Should I go for November resit?
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-03T16:53:03+00:00'
   description: "Economia americana mostra resili\xEAncia, mas outros fatores sustentam\
     \ o fluxo para o Brasil"
@@ -27,7 +37,7 @@
   title: "\u2018Brasil em promo\xE7\xE3o\u2019 atrai gringos e Ibovespa reage apesar\
     \ de economia aquecida nos EUA"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2025-07-03T13:53:32+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone</p> <p>Whether you're\
     \ grinding Ethics at 2am questioning your life choices or trying to figure out\
@@ -54,15 +64,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1lqq6d9/join_the_cfa_exam_hub_discord_your_24_7_study/
   title: "\U0001F4E3 Join the CFA Exam Hub Discord \u2013 Your 24 7 Study Group \U0001F30D"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-03T11:39:33+00:00'
-  description: "Dire\xE7\xE3o da empresa relatou que foi v\xEDtima de a\xE7\xE3o de\
-    \ hackers, que usaram credenciais de clientes"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ataque-hacker-bc/
-  title: "Diretor da C&M diz que servi\xE7os foram restabelecidos com autoriza\xE7\
-    \xE3o do BC depois de ataque hacker"
 - author: "Economia \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
