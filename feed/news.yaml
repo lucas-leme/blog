@@ -1,5 +1,15 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-05T16:59:08+00:00'
+  description: "Desde maio, a organiza\xE7\xE3o j\xE1 aprovou o acr\xE9scimo de 1,1\
+    \ milh\xE3o de barris por dia na produ\xE7\xE3o do grupo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/opep-acelera-producao-de-petroleo-com-adicao-de-mais-540-mil-barris-por-dia-em-agosto/
+  title: "Opep+ acelera produ\xE7\xE3o de petr\xF3leo, com adi\xE7\xE3o de mais 540\
+    \ mil barris por dia em agosto"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -19,8 +29,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ls4to3/all_i_see_is_everyone_doing_cfa/
   title: "ALL I SEE IS EVERYONE DOING CFA\U0001F629"
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-04T23:14:02+00:00'
   description: "A nova lei eleva a d\xEDvida dos EUA em mais de US$ 3 trilh\xF5es,\
     \ reduz benef\xEDcios sociais e aumenta os gastos com seguran\xE7a e defesa"
@@ -29,7 +38,7 @@
   title: "Trump assina maior corte de impostos desde 2017 \u2014 e d\xEDvida deve\
     \ subir US$ 3 trilh\xF5es"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-07-04T17:17:53+00:00'
   description: "Iniciativas do fundo clim\xE1tico v\xE3o da redu\xE7\xE3o dos impactos\
@@ -39,7 +48,7 @@
   title: "Maior fundo clim\xE1tico do mundo vai investir US$ 1,225 bi; Brasil ser\xE1\
     \ beneficiado"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-07-04T14:34:26+00:00'
   description: "Moraes justificou a decis\xE3o argumentando que o embate entre o Executivo\
     \ e o Legislativo contraria a exig\xEAncia constitucional de harmonia entre os\
@@ -49,7 +58,7 @@
   title: "STF barra decis\xF5es sobre o IOF tomadas por governo e Congresso; Moraes\
     \ prop\xF5e acordo"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2025-07-03T13:53:32+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone</p> <p>Whether you're\
     \ grinding Ethics at 2am questioning your life choices or trying to figure out\
@@ -76,13 +85,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1lqq6d9/join_the_cfa_exam_hub_discord_your_24_7_study/
   title: "\U0001F4E3 Join the CFA Exam Hub Discord \u2013 Your 24 7 Study Group \U0001F30D"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2025-07-02T14:31:16+00:00'
-  description: "Nova legisla\xE7\xE3o imp\xF5e limites geracionais e exig\xEAncias\
-    \ adicionais que reduzem chances de brasileiros obterem cidadania italiana por\
-    \ direito de sangue"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/decreto-dificulta-cidadania-italiana/
-  title: "Cidadania italiana: o que o novo decreto mudou para brasileiros  \u2013\
-    \ e quais as expectativas para quem foi \xE0 Justi\xE7a"
