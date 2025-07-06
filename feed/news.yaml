@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-06T12:25:04+00:00'
+  description: 'Mundo se aproxima de um momento crucial: fim do adiamento das tarifas
+    impostas pelo presidente americano'
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/contagem-regressiva-mundo-aguarda-decisoes-de-trump-sobre-tarifas-nos-proximos-dias/
+  title: "O mundo em contagem regressiva: Dia D das tarifas de Trump ser\xE1 na quarta-feira"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -35,8 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lsq5y5/result_update_for_those_who_remember/
   title: Result Update (for those who remember)
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-05T16:59:08+00:00'
   description: "Desde maio, a organiza\xE7\xE3o j\xE1 aprovou o acr\xE9scimo de 1,1\
     \ milh\xE3o de barris por dia na produ\xE7\xE3o do grupo"
@@ -44,15 +52,6 @@
   path: https://investnews.com.br/economia/opep-acelera-producao-de-petroleo-com-adicao-de-mais-540-mil-barris-por-dia-em-agosto/
   title: "Opep+ acelera produ\xE7\xE3o de petr\xF3leo, com adi\xE7\xE3o de mais 540\
     \ mil barris por dia em agosto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-04T23:14:02+00:00'
-  description: "A nova lei eleva a d\xEDvida dos EUA em mais de US$ 3 trilh\xF5es,\
-    \ reduz benef\xEDcios sociais e aumenta os gastos com seguran\xE7a e defesa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-assina-maior-corte-de-impostos-desde-2017-e-divida-deve-subir-us-3-trilhoes/
-  title: "Trump assina maior corte de impostos desde 2017 \u2014 e d\xEDvida deve\
-    \ subir US$ 3 trilh\xF5es"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
