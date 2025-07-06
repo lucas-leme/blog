@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-06T19:14:02+00:00'
+  description: "Secret\xE1rio do Tesouro americano, Scott Bessent, previu v\xE1rios\
+    \ an\xFAncios de acordos nos pr\xF3ximos dias"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/paises-correm-para-fechar-acordos-com-os-eua-conforme-se-aproxima-o-9-de-julho/
+  title: "Pa\xEDses correm para fechar acordos com os EUA, conforme se aproxima o\
+    \ 9 de julho"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -46,8 +56,7 @@
   path: https://www.reddit.com/r/CFA/comments/1lt5kd0/a_note_from_a_2x_failure/
   title: a note from a 2x failure
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-06T15:07:43+00:00'
   description: "Enquanto os l\xEDderes do grupo de economias de mercados emergentes\
     \ liderado pela China, conhecido como BRICS, chegam ao Rio de Janeiro para a c\xFA\
@@ -66,14 +75,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/dividas-de-emergentes-tem-melhor-desempenho-semestral-em-16-anos/
   title: "D\xEDvidas de emergentes t\xEAm melhor desempenho semestral em 16 anos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-06T12:25:04+00:00'
-  description: 'Mundo se aproxima de um momento crucial: fim do adiamento das tarifas
-    impostas pelo presidente americano'
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/contagem-regressiva-mundo-aguarda-decisoes-de-trump-sobre-tarifas-nos-proximos-dias/
-  title: "O mundo em contagem regressiva: Dia D das tarifas de Trump ser\xE1 na quarta-feira"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-04T17:17:53+00:00'
