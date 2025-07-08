@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-08T18:31:51.606454'
+  date: '2025-07-08T20:31:14.218321'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T18:31:51.604730'
+  date: '2025-07-08T20:31:14.216565'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T18:31:51.604727'
+  date: '2025-07-08T20:31:14.216562'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T18:31:51.604722'
+  date: '2025-07-08T20:31:14.216557'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T18:31:51.604712'
+  date: '2025-07-08T20:31:14.216547'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-07-08T13:00:59+00:00'
@@ -495,7 +495,7 @@
   path: https://www.youtube.com/watch?v=4KbrxIpQgkM
   title: 'Nothing Phone 3 Review: They Lied!'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-07-08T12:00:00+00:00'
   description: Can capitalism save the planet? Tom Steyer makes the case in this urgent,
@@ -521,8 +521,28 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/the-feds-treasury-purchase-prices-during-the-pandemic/
   title: "The Fed\u2019s Treasury Purchase Prices During the Pandemic"
-- author: "Economia \u2013 Brazil Journal"
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-07-08T00:00:00+00:00'
+  description: "When President Trump paused most of his \u201CLiberation Day\u201D\
+    \ tariffs for 90 days last spring, the administration had hoped to cut dozens\
+    \ of trade deals. As trade advisor Peter Navarro put it, there could be \"90 deals\
+    \ in 90 days.\" But as Trump\u2019s deal deadline approached, it became clear\
+    \ that the administration\u2019s deal-making push has hit some snags, resulting\
+    \ in only a handful of agreements with the UK, China, and Vietnam. This week,\
+    \ Trump extended his deadline to August 1st and sent public letters to many U.S.\
+    \ trading partners. WSJ\u2019s Gavin Bade explains the sticking points that have\
+    \ gotten in the way of \u201C90 deals in 90 days.\u201D Annie Minoff hosts.\_\
+    \  Further Listening:  - Trump's Plan B After Trade Court Setback\_ - Inside the\
+    \ Surprise U.S.-China Trade Deal\_ - Taking Stock of the 'Sell America' Trade\_\
+    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/2t6xUDxZnHRV1e0h5c4Xku
+  title: Why Trump Pushed His Tariff Deadline
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-07-07T17:57:38+00:00'
   description: "<p>A economia brasileira encontra-se em uma encruzilhada, h\xE1 d\xE9\
@@ -538,8 +558,7 @@
   path: https://braziljournal.com/opiniao-por-que-o-brasil-precisa-abrir-sua-economia/
   title: "OPINI\xC3O. Por que o Brasil precisa abrir sua economia"
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id001
   date: '2025-07-07T00:00:00+00:00'
   description: "Artificial intelligence is shaking up business in a big way, and recent\
     \ college graduates are feeling the pinch. WSJ\u2019s Chip Cutter explores the\
@@ -554,7 +573,7 @@
   path: https://open.spotify.com/episode/3Q5JjQeobmxVpY1uqwyOS5
   title: AI Is Coming for Entry-Level Jobs
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-07-06T03:15:58+00:00'
   description: "<p>A janela para aprovar reformas profundas antes do ano eleitoral\
     \ est\xE1 se fechando \u2013 mas ainda h\xE1 uma oportunidade. O deputado federal\
@@ -590,7 +609,7 @@
   path: https://www.youtube.com/watch?v=SNqwNILX1Gg
   title: How I Use Abstraction to Avoid Spaghetti Code
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-07-03T19:44:30+00:00'
   description: "The Switch 2 is pretty good. Also pricy. But it\u2019s really all\
     \ about the games\n\nSave $35 on a dbrand Killswitch case for your Switch 2 at\
@@ -611,7 +630,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-agenda-consultation
   title: "Response to FASB Invitation to Comment \u2013 Agenda Consultation"
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-07-03T11:21:09+00:00'
   description: Explore red flags in private markets as speculative excess, retail
     marketing, and valuation risks mount. Lessons from financial history.
@@ -657,21 +676,6 @@
   path: https://open.spotify.com/episode/1OvHKQGfsOSNXzZTyTT6tD
   title: "#231 | A FILOSOFIA DE INVESTIMENTO QUE MULTIPLICOU O DINHEIRO EM 12X (E\
     \ VOC\xCA PODE COPIAR)"
-- author: The Journal.
-  categories: *id004
-  date: '2025-07-03T00:00:00+00:00'
-  description: "In the battle for AI supremacy, Meta\u2019s models have lagged. Now\
-    \ CEO Mark Zuckerberg is racing to hire new AI talent to close the gap with rivals.\
-    \ He\u2019s dangling huge pay packages to lure experts away from OpenAI, Google,\
-    \ and Anthropic. WSJ\u2019s Meghan Bobrowsky explains how Meta\u2019s AI efforts\
-    \ fell short, and who will be joining the company\u2019s new \u201CSuperintelligence\
-    \ Labs\u201D to turn things around. Annie Minoff hosts.  Further Listening:  -The\
-    \ Battle Within Meta Over Chatbot Safety\_ -Why the New Pope Is Taking on AI\_\
-    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/0WGMeHtiITHxSlAYMi25V8
-  title: Why Meta Is Offering $100 Million for AI Geniuses
 - author: Money Talks from The Economist
   categories:
   - Podcasts
