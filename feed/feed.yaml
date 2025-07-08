@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-08T12:14:27.491624'
+  date: '2025-07-08T12:31:11.826575'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T12:14:27.489857'
+  date: '2025-07-08T12:31:11.824810'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T12:14:27.489853'
+  date: '2025-07-08T12:31:11.824806'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T12:14:27.489849'
+  date: '2025-07-08T12:31:11.824801'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-08T12:14:27.489839'
+  date: '2025-07-08T12:31:11.824792'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-07-08T12:00:00+00:00'
+  description: Can capitalism save the planet? Tom Steyer makes the case in this urgent,
+    optimistic roadmap to a net-zero future.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/08/book-review-cheaper-faster-better-how-well-win-the-climate-war/
+  title: "Book Review: Cheaper Faster Better: How We\u2019ll Win the Climate War"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -499,7 +508,7 @@
   path: https://braziljournal.com/opiniao-por-que-o-brasil-precisa-abrir-sua-economia/
   title: "OPINI\xC3O. Por que o Brasil precisa abrir sua economia"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-07-07T00:00:00+00:00'
   description: "Artificial intelligence is shaking up business in a big way, and recent\
@@ -551,7 +560,7 @@
   path: https://www.youtube.com/watch?v=SNqwNILX1Gg
   title: How I Use Abstraction to Avoid Spaghetti Code
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-07-03T19:44:30+00:00'
@@ -566,7 +575,7 @@
   path: https://www.youtube.com/watch?v=-NNCca97v98
   title: My Nintendo Switch 2 Review (Doesn't Matter?)
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-07-03T12:00:00+00:00'
   description: ''
@@ -574,8 +583,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-agenda-consultation
   title: "Response to FASB Invitation to Comment \u2013 Agenda Consultation"
 - author: CFA Institute Enterprising Investor
-  categories: &id006
-  - CFA
+  categories: *id002
   date: '2025-07-03T11:21:09+00:00'
   description: Explore red flags in private markets as speculative excess, retail
     marketing, and valuation risks mount. Lessons from financial history.
@@ -583,7 +591,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/03/buyers-beware-7-red-flags-that-signal-a-private-market-reckoning/
   title: 'Buyers Beware: 7 Red Flags That Signal a Private Market Reckoning'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-07-03T00:00:00+00:00'
   description: "ECONOMIZE AT\xC9 40% NAS VIAGENS CORPORATIVAS: https://www.onfly.com.br/viagens-e-despesas-corporativas/?utm_source=youtube&amp;utm_medium=market-makers&amp;utm_campaign=insert_video1_link-descricao\
@@ -622,7 +630,7 @@
   title: "#231 | A FILOSOFIA DE INVESTIMENTO QUE MULTIPLICOU O DINHEIRO EM 12X (E\
     \ VOC\xCA PODE COPIAR)"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-07-03T00:00:00+00:00'
   description: "In the battle for AI supremacy, Meta\u2019s models have lagged. Now\
     \ CEO Mark Zuckerberg is racing to hire new AI talent to close the gap with rivals.\
@@ -657,14 +665,14 @@
   path: https://open.spotify.com/episode/5Xu1PvcPX4fVy3VcfztlCF
   title: 'At the Vanguard: a visit to the man with $10trn under management'
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-07-02T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/macroeconomic-drivers
   title: Macroeconomic Drivers of Stocks and Bonds
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-07-02T00:00:00+00:00'
   description: "Ainda d\xE1 tempo de surfar a alta da bolsa brasileira ou a festa\
     \ j\xE1 acabou? Hoje, ao vivo, no epis\xF3dio 230 do Market Makers, vamos receber\
@@ -694,7 +702,7 @@
   title: "#230 | POR QUE A BOLSA \xC9 O MELHOR INVESTIMENTO QUE VOC\xCA PODE FAZER\
     \ AGORA"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-07-01T17:32:07+00:00'
   description: "Nothing's first noise cancelling headphones: Polarizing looks, solid\
     \ sound!\n\nThe first 50 people to order an Insta360 X5 at https://geni.us/PAtFF\
@@ -707,18 +715,6 @@
   image: https://i2.ytimg.com/vi/A94RrC8Mg0o/hqdefault.jpg
   path: https://www.youtube.com/watch?v=A94RrC8Mg0o
   title: 'Nothing Headphone 1 Review: As Good as They Look?'
-- author: CFA Institute Enterprising Investor
-  categories: *id006
-  date: '2025-07-01T11:17:24+00:00'
-  description: "Investors betting on a near-term plunge in interest rates may be mistaking\
-    \ political theater for monetary policy reality. President Donald Trump\u2019\
-    s renewed pressure on Federal Reserve Chair Jerome Powell has stirred speculation\
-    \ in the bond and futures markets. But history &#8212; and Powell\u2019s own posture\
-    \ &#8212; suggest that such expectations are misplaced. Past confrontations between\
-    \ [&#8230;]"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/01/fed-independence-tested-but-investors-shouldnt-expect-a-pivot/
-  title: "Fed Independence Tested, but Investors Shouldn\u2019t Expect a Pivot"
 - author: Outliers
   categories: &id008
   - Podcasts
