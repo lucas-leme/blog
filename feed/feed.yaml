@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-09T15:49:56.385752'
+  date: '2025-07-09T18:31:50.635106'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-09T15:49:56.384008'
+  date: '2025-07-09T18:31:50.633325'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-09T15:49:56.384003'
+  date: '2025-07-09T18:31:50.633321'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-09T15:49:56.383997'
+  date: '2025-07-09T18:31:50.633316'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-09T15:49:56.383981'
+  date: '2025-07-09T18:31:50.633306'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2025-07-09T17:33:13+00:00'
+  description: "<p>Uma redu\xE7\xE3o do escopo de atua\xE7\xE3o da CVM pode avan\xE7\
+    ar em Bras\xEDlia sem que a Comiss\xE3o consiga sequer participar da discuss\xE3\
+    o, 20 membros do alto escal\xE3o da autarquia denunciam em uma carta aberta. No\
+    \ \xE2mbito da PEC da autonomia or\xE7ament\xE1ria e financeira para o Banco Central\
+    \ \u2014 em pauta na CCJ do Senado \u2014 os [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/na-cvm-um-pedido-de-socorro/\" rel=\"nofollow\">Na CVM,\
+    \ um pedido de socorro</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/na-cvm-um-pedido-de-socorro/
+  title: Na CVM, um pedido de socorro
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -593,7 +608,7 @@
   title: "#232 | O M\xC9TODO CHIN\xCAS: CULTURA, TRABALHO, E A ESTRAT\xC9GIA SECRETA\
     \ DO GIGANTE ASI\xC1TICO"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-07-08T00:00:00+00:00'
   description: "When President Trump paused most of his \u201CLiberation Day\u201D\
@@ -613,8 +628,7 @@
   path: https://open.spotify.com/episode/2t6xUDxZnHRV1e0h5c4Xku
   title: Why Trump Pushed His Tariff Deadline
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2025-07-07T17:57:38+00:00'
   description: "<p>A economia brasileira encontra-se em uma encruzilhada, h\xE1 d\xE9\
     cadas submetida a uma armadilha de baixo crescimento. Depois de apresentar uma\
@@ -629,7 +643,7 @@
   path: https://braziljournal.com/opiniao-por-que-o-brasil-precisa-abrir-sua-economia/
   title: "OPINI\xC3O. Por que o Brasil precisa abrir sua economia"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-07-07T00:00:00+00:00'
   description: "Artificial intelligence is shaking up business in a big way, and recent\
     \ college graduates are feeling the pinch. WSJ\u2019s Chip Cutter explores the\
@@ -643,21 +657,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/3Q5JjQeobmxVpY1uqwyOS5
   title: AI Is Coming for Entry-Level Jobs
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2025-07-06T03:15:58+00:00'
-  description: "<p>A janela para aprovar reformas profundas antes do ano eleitoral\
-    \ est\xE1 se fechando \u2013 mas ainda h\xE1 uma oportunidade. O deputado federal\
-    \ Pedro Paulo (PSD-RJ) vai apresentar no pr\xF3ximo dia 14 a proposta da reforma\
-    \ administrativa \u2013 um projeto tratado como priorit\xE1rio pelo presidente\
-    \ da C\xE2mara, Hugo Motta (Republicanos-PB). \u201CO presidente Hugo tem a firme\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/entrevista-se-quiserem-corte-de-gastos-tenho-tres-medidas-prontas/\"\
-    \ rel=\"nofollow\">ENTREVISTA. \u201CSe quiserem corte de gastos, tenho tr\xEA\
-    s medidas prontas\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/entrevista-se-quiserem-corte-de-gastos-tenho-tres-medidas-prontas/
-  title: "ENTREVISTA. \u201CSe quiserem corte de gastos, tenho tr\xEAs medidas prontas\u201D"
 - author: ArjanCodes
   categories: &id007
   - Tech
