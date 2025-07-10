@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-10T20:30:32.170746'
+  date: '2025-07-10T21:28:45.959901'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T20:30:32.169007'
+  date: '2025-07-10T21:28:45.958147'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T20:30:32.169003'
+  date: '2025-07-10T21:28:45.958143'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T20:30:32.168998'
+  date: '2025-07-10T21:28:45.958139'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T20:30:32.168988'
+  date: '2025-07-10T21:28:45.958129'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -481,7 +481,7 @@
   title: "Tarifa\xE7o: Brasil sofre mais pela pol\xEDtica do que pelo macro; gringos\
     \ na compra"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-07-10T12:00:00+00:00'
   description: "Timely insights on portfolio risk, inflation hedging, and market cycles\u2014\
@@ -524,6 +524,23 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/trump-chantageia-o-brasil-pressionando-lula-e-o-stf/
   title: Trump chantageia o Brasil, pressionando Lula e o STF
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-07-10T00:00:00+00:00'
+  description: "For years, President Trump has feuded with the Federal Reserve and\
+    \ Chair Jerome Powell over interest rates. And now, two Republicans named Kevin\
+    \  (Kevin Hassett, one of Trump\u2019s closest economic advisers and Kevin Warsh\u2014\
+    a former Fed governor) are vying to be the next chairman of the Federal Reserve.\
+    \ WSJ\u2019s Nick Timiraos takes us inside the contest for the next Fed Chair\
+    \ and what the President might be looking for with his choice. Jessica Mendoza\
+    \ hosts.\_  Further Listening: - Why Trump Pushed His Tariff Deadline\_ - Is the\
+    \ Economy\u2026OK?\_ - Trump 2.0: Where Is the Economy Headed?\_  Sign up for\
+    \ WSJ\u2019s free What\u2019s News newsletter.\_   Learn more about your ad choices.\
+    \ Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/6yYZsQu2KXwDceseQE4X4z
+  title: Who Will Be the Next Fed Chair? Maybe Kevin
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -546,7 +563,7 @@
   path: https://open.spotify.com/episode/2oNZCbh4MKrlqzLZ0WV8Vw
   title: 'Venture forth: the VC race for the first trillion-dollar unicorn'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-07-09T14:00:38+00:00'
@@ -580,8 +597,7 @@
   path: https://www.youtube.com/watch?v=bMou1qUMHC4
   title: 'Samsung Z Fold/Flip 7 Impressions: Major Upgrades!'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-07-09T00:00:00+00:00'
   description: "President Trump\u2019s megabill cuts over $1 trillion in healthcare\
     \ spending over the next decade, mainly from Medicaid. Experts project nearly\
@@ -595,7 +611,7 @@
   path: https://open.spotify.com/episode/2fI306nQLapXQD6uuVTgQv
   title: "The Healthcare Costs of Trump\u2019s Big Beautiful Bill"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-07-08T13:00:59+00:00'
   description: 'So you want to be a flagship?
 
@@ -623,7 +639,7 @@
   path: https://www.youtube.com/watch?v=4KbrxIpQgkM
   title: 'Nothing Phone 3 Review: They Lied!'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-07-08T12:00:00+00:00'
   description: Can capitalism save the planet? Tom Steyer makes the case in this urgent,
     optimistic roadmap to a net-zero future.
@@ -669,25 +685,6 @@
   path: https://open.spotify.com/episode/5TmMHQDeJ8B0E6ozBAB4tb
   title: "#232 | O M\xC9TODO CHIN\xCAS: CULTURA, TRABALHO, E A ESTRAT\xC9GIA SECRETA\
     \ DO GIGANTE ASI\xC1TICO"
-- author: The Journal.
-  categories: *id004
-  date: '2025-07-08T00:00:00+00:00'
-  description: "When President Trump paused most of his \u201CLiberation Day\u201D\
-    \ tariffs for 90 days last spring, the administration had hoped to cut dozens\
-    \ of trade deals. As trade advisor Peter Navarro put it, there could be \"90 deals\
-    \ in 90 days.\" But as Trump\u2019s deal deadline approached, it became clear\
-    \ that the administration\u2019s deal-making push has hit some snags, resulting\
-    \ in only a handful of agreements with the UK, China, and Vietnam. This week,\
-    \ Trump extended his deadline to August 1st and sent public letters to many U.S.\
-    \ trading partners. WSJ\u2019s Gavin Bade explains the sticking points that have\
-    \ gotten in the way of \u201C90 deals in 90 days.\u201D Annie Minoff hosts.\_\
-    \  Further Listening:  - Trump's Plan B After Trade Court Setback\_ - Inside the\
-    \ Surprise U.S.-China Trade Deal\_ - Taking Stock of the 'Sell America' Trade\_\
-    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_   Learn more about\
-    \ your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/2t6xUDxZnHRV1e0h5c4Xku
-  title: Why Trump Pushed His Tariff Deadline
 - author: ArjanCodes
   categories: &id007
   - Tech
