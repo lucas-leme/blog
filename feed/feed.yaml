@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-10T11:26:08.458740'
+  date: '2025-07-10T12:14:31.800933'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T11:26:08.456956'
+  date: '2025-07-10T12:14:31.799162'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T11:26:08.456952'
+  date: '2025-07-10T12:14:31.799148'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T11:26:08.456947'
+  date: '2025-07-10T12:14:31.799143'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-10T11:26:08.456937'
+  date: '2025-07-10T12:14:31.799132'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-07-10T12:00:00+00:00'
+  description: "Timely insights on portfolio risk, inflation hedging, and market cycles\u2014\
+    grounded in financial history and written for investment decision-makers."
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/10/mind-the-inflation-gap-hedging-with-real-assets/
+  title: 'Mind the Inflation Gap: Hedging with Real Assets'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2025-07-10T11:00:00+00:00'
+  description: "Deposits are often perceived as a stable funding source for banks.\
+    \ However, the risk of deposits rapidly leaving banks\u2014known as deposit flightiness\u2014\
+    has come under <a href=\"https://pages.stern.nyu.edu/~pschnabl/research/DSSW.pdf\"\
+    >increased scrutiny</a> following the <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4412256\"\
+    >failures</a> of Silicon Valley Bank and other <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4387676\"\
+    >regional banks</a> in March 2023. In a <a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4873784\"\
+    >new paper</a>, we show that deposit flightiness is not constant over time. \_\
+    In particular, flightiness reached historic highs after expansions in bank reserves\
+    \ associated with rounds of quantitative easing (QE). We argue that this elevated\
+    \ deposit flightiness may amplify the banking sector\u2019s response to subsequent\
+    \ monetary policy rate hikes, highlighting a link between the Federal Reserve\u2019\
+    s balance sheet and conventional monetary policy."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2025/07/the-rise-in-deposit-flightiness-and-its-implications-for-financial-stability/
+  title: The Rise in Deposit Flightiness and Its Implications for Financial Stability
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -528,7 +558,7 @@
   path: https://www.youtube.com/watch?v=bMou1qUMHC4
   title: 'Samsung Z Fold/Flip 7 Impressions: Major Upgrades!'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-07-09T00:00:00+00:00'
   description: "President Trump\u2019s megabill cuts over $1 trillion in healthcare\
@@ -571,32 +601,13 @@
   path: https://www.youtube.com/watch?v=4KbrxIpQgkM
   title: 'Nothing Phone 3 Review: They Lied!'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2025-07-08T12:00:00+00:00'
   description: Can capitalism save the planet? Tom Steyer makes the case in this urgent,
     optimistic roadmap to a net-zero future.
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/07/08/book-review-cheaper-faster-better-how-well-win-the-climate-war/
   title: "Book Review: Cheaper Faster Better: How We\u2019ll Win the Climate War"
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2025-07-08T11:00:00+00:00'
-  description: "In March 2020, the Federal Reserve commenced purchases of U.S. Treasury\
-    \ securities to address the market disruptions caused by the pandemic. This post\
-    \ assesses the execution quality of those purchases by comparing the Fed\u2019\
-    s purchase prices to contemporaneous market prices. Although <a href=\"https://www.sciencedirect.com/science/article/pii/S0304405X18300436\"\
-    >past work</a> has considered this question in the context of earlier asset purchases,\
-    \ the market dysfunction spurred by the pandemic means that execution quality\
-    \ at that time may have differed. Indeed, we find that the Fed\u2019s execution\
-    \ quality was unusually good in 2020 in that the Fed bought Treasuries at prices\
-    \ appreciably lower than prevailing market offer prices."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2025/07/the-feds-treasury-purchase-prices-during-the-pandemic/
-  title: "The Fed\u2019s Treasury Purchase Prices During the Pandemic"
 - author: Market Makers
   categories: &id005
   - Podcasts
@@ -637,7 +648,7 @@
   title: "#232 | O M\xC9TODO CHIN\xCAS: CULTURA, TRABALHO, E A ESTRAT\xC9GIA SECRETA\
     \ DO GIGANTE ASI\xC1TICO"
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-07-08T00:00:00+00:00'
   description: "When President Trump paused most of his \u201CLiberation Day\u201D\
     \ tariffs for 90 days last spring, the administration had hoped to cut dozens\
@@ -684,14 +695,6 @@
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-agenda-consultation
   title: "Response to FASB Invitation to Comment \u2013 Agenda Consultation"
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-07-03T11:21:09+00:00'
-  description: Explore red flags in private markets as speculative excess, retail
-    marketing, and valuation risks mount. Lessons from financial history.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/03/buyers-beware-7-red-flags-that-signal-a-private-market-reckoning/
-  title: 'Buyers Beware: 7 Red Flags That Signal a Private Market Reckoning'
 - author: Market Makers
   categories: *id005
   date: '2025-07-03T00:00:00+00:00'
