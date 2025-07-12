@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-12T15:26:16+00:00'
+  description: "Trump enviou cartas semelhantes a 23 outros parceiros comerciais dos\
+    \ EUA nesta semana, incluindo Canad\xE1, Jap\xE3o e Brasil"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-intensifica-guerra-comercial-com-tarifas-de-30-sobre-mexico-e-uniao-europeia/
+  title: "Trump intensifica guerra comercial com tarifas de 30% sobre M\xE9xico e\
+    \ Uni\xE3o Europeia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Mercado p\xF5e p\xE9 no freio em semana marcada por \u2018tarifa\xE7o\u2019\
     \ de Trump"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-11T14:37:17+00:00'
   description: "O presidente dos Estados Unidos, Donald Trump, disse nesta sexta-feira\
     \ que vai conversar com o presidente Luiz In\xE1cio Lula da Silva em algum momento,\
@@ -20,18 +29,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/trump-diz-que-vai-conversar-com-lula-em-algum-momento/
   title: Trump diz que vai conversar com Lula em algum momento
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-11T14:23:38+00:00'
-  description: "O mercado mundial de petr\xF3leo pode estar mais aquecido do que parece,\
-    \ apesar de o equil\xEDbrio entre oferta e demanda apontar para um excedente,\
-    \ disse a Ag\xEAncia Internacional de Energia (IEA, na sigla em ingl\xEAs) nesta\
-    \ sexta-feira, \xE0 medida que as refinarias aumentam o processamento para atender\
-    \ \xE0 demanda por combust\xEDvel das viagens de ver\xE3o. [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/viagens-de-versao-e-geracao-de-energia-aumentam-demanda-global-por-petroleo-diz-iea/
-  title: "Viagens de ver\xE3o e gera\xE7\xE3o de energia aumentam demanda global por\
-    \ petr\xF3leo, diz IEA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-09T21:34:37+00:00'
