@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-07-14T18:21:18+00:00'
+  description: "Bitcoin sobe com o in\xEDcio da \"Semana Cripto\" no Congresso dos\
+    \ EUA"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-rali-ou-evento-isolado/
+  title: 'Bitcoin passa de US$ 120 mil: rali ou evento isolado?'
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   title: "M\xE9xico e Uni\xE3o Europeia reagem \xE0 amea\xE7a de tarifa dos Estados\
     \ Unidos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-07-11T21:27:14+00:00'
   description: "Ibovespa cai e d\xF3lar sobe depois do presidente americano anunciar\
     \ 50% de tarifas a produtos brasileiros"
@@ -26,11 +34,3 @@
   path: https://investnews.com.br/investimentos/mercado-poe-pe-no-freio-em-semana-marcada-por-tarifaco-de-trump/
   title: "Mercado p\xF5e p\xE9 no freio em semana marcada por \u2018tarifa\xE7o\u2019\
     \ de Trump"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-09T21:34:37+00:00'
-  description: ADRs da Embraer tiveram queda de 9% no after market
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/tarifa-de-50-imposta-por-trump-ao-brasil-leva-dolar-futuro-a-alta-de-quase-3/
-  title: "Tarifa de 50% imposta por Trump ao Brasil leva  d\xF3lar futuro a alta de\
-    \ quase 3%"
