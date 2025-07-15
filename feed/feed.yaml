@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-14T21:28:56.624598'
+  date: '2025-07-15T00:48:29.655735'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-14T21:28:56.622804'
+  date: '2025-07-15T00:48:29.654007'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-14T21:28:56.622800'
+  date: '2025-07-15T00:48:29.654004'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-14T21:28:56.622795'
+  date: '2025-07-15T00:48:29.653999'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-14T21:28:56.622785'
+  date: '2025-07-15T00:48:29.653989'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,8 +464,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: The Overshoot
+  categories: &id009
+  - Macro
+  - Newsletters
+  date: '2025-07-14T23:52:44+00:00'
+  description: Policy tightening helped reduce inflation, stabilize the currency,
+    and improve the country's fragile financial position. But Turks are still worse
+    off than before thanks to rule-of-law concerns.
+  image: https://substack-post-media.s3.amazonaws.com/public/images/2e132157-cd2f-425a-b174-aa14e6f55f37_3210x2760.png
+  path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
+  title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-07-14T15:44:26+00:00'
   description: This chatbot-style tool allows investment analysts to query complex
@@ -492,6 +503,21 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/who-lends-to-households-and-firms/
   title: Who Lends to Households and Firms?
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-07-14T00:00:00+00:00'
+  description: "Last week, Grok went rogue. The AI chatbot \u2013 which users can\
+    \ interact with on X \u2013 posted antisemitic comments and graphic descriptions\
+    \ of violence before being deactivated, leaving users with a question: Where were\
+    \ Grok\u2019s guardrails? WSJ\u2019s Alexander Saeedy breaks down what happened\
+    \ and what it means for Musk\u2019s company\u2019s plans for an AI future. Annie\
+    \ Minoff hosts.\_\_\_  Further Listening: - How Elon Musk Pulled X Back From the\
+    \ Brink\_ - The Musk-Twitter Saga\_  Sign up for WSJ\u2019s free What\u2019s News\
+    \ newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/7x7KBWcB1EybJhYj3jG11N
+  title: "Why Elon Musk\u2019s AI Chatbot Went Rogue"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -549,8 +575,7 @@
   title: "Como enfrentar o tarifa\xE7o (sensibilizar os compradores e negociar nos\
     \ bastidores)"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id002
   date: '2025-07-11T00:00:00+00:00'
   description: "The man of steel is back in a new $225 million reboot. Riding on this\
     \ weekend\u2019s release is the hope that DC Studios will finally begin to match\
@@ -565,7 +590,7 @@
   path: https://open.spotify.com/episode/22yn5sV6Af8ujpyiMIGQal
   title: Can Superman Save Warner?
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-07-10T12:00:00+00:00'
   description: "Timely insights on portfolio risk, inflation hedging, and market cycles\u2014\
     grounded in financial history and written for investment decision-makers."
@@ -612,22 +637,6 @@
   path: https://open.spotify.com/episode/7tPeDWMLBpDWJag1Dhbc3Z
   title: "#233 | TARIFAS DE TRUMP: QUAIS S\xC3O OS IMPACTOS ECON\xD4MICOS E POL\xCD\
     TICOS NO BRASIL?"
-- author: The Journal.
-  categories: *id003
-  date: '2025-07-10T00:00:00+00:00'
-  description: "For years, President Trump has feuded with the Federal Reserve and\
-    \ Chair Jerome Powell over interest rates. And now, two Republicans named Kevin\
-    \  (Kevin Hassett, one of Trump\u2019s closest economic advisers and Kevin Warsh\u2014\
-    a former Fed governor) are vying to be the next chairman of the Federal Reserve.\
-    \ WSJ\u2019s Nick Timiraos takes us inside the contest for the next Fed Chair\
-    \ and what the President might be looking for with his choice. Jessica Mendoza\
-    \ hosts.\_  Further Listening: - Why Trump Pushed His Tariff Deadline\_ - Is the\
-    \ Economy\u2026OK?\_ - Trump 2.0: Where Is the Economy Headed?\_  Sign up for\
-    \ WSJ\u2019s free What\u2019s News newsletter.\_   Learn more about your ad choices.\
-    \ Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/6yYZsQu2KXwDceseQE4X4z
-  title: Who Will Be the Next Fed Chair? Maybe Kevin
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -856,9 +865,7 @@
   title: "#162 - Novas regras para isentos com Ita\xFA Asset e Bradesco Asset | Outliers\
     \ InfoMoney"
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id009
   date: '2025-06-16T22:03:10+00:00'
   description: 'The risks are skewed in one direction: up.'
   image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fd33180-43b3-41a9-8bae-1580ee910c63_3205x2915.png
@@ -874,15 +881,6 @@
   image: https://substackcdn.com/image/fetch/$s_!kFIS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb253e1bc-ed16-44c8-b24f-42a446f68a28_2000x1277.jpeg
   path: https://www.apricitas.io/p/how-tariffs-are-breaking-us-trade
   title: How Tariffs Are Breaking US Trade
-- author: The Overshoot
-  categories: *id009
-  date: '2025-06-07T05:20:18+00:00'
-  description: The latest data available on the job market, inflation, and business
-    sentiment all suggest that the current constellation of interest rates is broadly
-    consistent with underlying economic conditions.
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d06aa9b-9fde-4e88-b74f-5aaa0998e065_3200x2980.png
-  path: https://theovershoot.co/p/the-us-economy-does-not-need-lower
-  title: The U.S. Economy Does Not Need Lower Interest Rates (Yet)
 - author: Apricitas Economics
   categories: *id010
   date: '2025-05-29T13:15:18+00:00'
