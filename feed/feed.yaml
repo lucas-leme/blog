@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-15T18:32:07.622108'
+  date: '2025-07-15T20:30:46.945094'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-15T18:32:07.620356'
+  date: '2025-07-15T20:30:46.943317'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-15T18:32:07.620352'
+  date: '2025-07-15T20:30:46.943313'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-15T18:32:07.620348'
+  date: '2025-07-15T20:30:46.943308'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-15T18:32:07.620338'
+  date: '2025-07-15T20:30:46.943298'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id003
   - Economia
   date: '2025-07-15T16:22:43+00:00'
   description: "<p>Achando que 34% j\xE1 \xE9 demais? Vem a\xED os 41%. O parecer\
@@ -480,13 +480,31 @@
   path: https://braziljournal.com/lira-elimina-teto-e-aliquota-agregada-pode-chegar-a-41/
   title: "Lira elimina teto e al\xEDquota agregada pode chegar a 41%"
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id001
   - CFA
   date: '2025-07-15T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/stocks-for-long-run-new-evidence-old-debates
   title: Stocks for the Long Run? New Evidence, Old Debates
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-07-15T00:00:00+00:00'
+  description: "After the passage of President Trump\u2019s \u201CBig Beautiful Bill,\u201D\
+    \ renewable energy companies are bracing for more challenging times. The law is\
+    \ set to end Biden-era subsidies for clean energy, with the Congressional Budget\
+    \ Office estimating that the industry could lose half a trillion dollars in tax\
+    \ incentives over the next decade. WSJ\u2019s David Uberti reports on the renewable\
+    \ energy pullback. And Annie Minofftalks to a co-owner of a North Carolina-based\
+    \ solar-panel-installation company about what the winding down of subsidies means\
+    \ for his business.\_  Further Listening: - The Healthcare Costs of Trump\u2019\
+    s \u2018Big Beautiful Bill\u2019\_ - How Trump\u2019s Megabill Squeaked Through\
+    \ the Senate\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.\_  Learn\
+    \ more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/2MulRwm1jCjFVNMXJAWzmb
+  title: The Uncertain Future of Renewable Energy
 - author: The Overshoot
   categories: &id009
   - Macro
@@ -499,7 +517,7 @@
   path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
   title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-07-14T15:44:26+00:00'
   description: This chatbot-style tool allows investment analysts to query complex
@@ -507,6 +525,13 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/07/14/rethinking-research-private-gpts-for-investment-analysis/
   title: 'Rethinking Research: Private GPTs for Investment Analysis'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-07-14T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/measuring-mutual-fund-flows
+  title: Measuring Mutual Fund Flows
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -527,8 +552,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/who-lends-to-households-and-firms/
   title: Who Lends to Households and Firms?
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id002
   date: '2025-07-14T00:00:00+00:00'
   description: "Last week, Grok went rogue. The AI chatbot \u2013 which users can\
     \ interact with on X \u2013 posted antisemitic comments and graphic descriptions\
@@ -542,7 +566,7 @@
   path: https://open.spotify.com/episode/7x7KBWcB1EybJhYj3jG11N
   title: "Why Elon Musk\u2019s AI Chatbot Went Rogue"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id003
   date: '2025-07-13T03:15:17+00:00'
   description: "<p>A carta de Donald Trump ao Presidente Lula re\xFAne, em poucas\
     \ linhas, a ess\xEAncia de seu estilo diplom\xE1tico: cobran\xE7a p\xFAblica,\
@@ -557,7 +581,7 @@
   path: https://braziljournal.com/opiniao-o-que-o-tarifaco-de-trump-tem-a-ver-com-os-brics/
   title: "OPINI\xC3O. O que o tarifa\xE7o de Trump tem a ver com os BRICS"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -580,23 +604,8 @@
   image: https://i4.ytimg.com/vi/Ov8JsEnNLCM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Ov8JsEnNLCM
   title: "I Designed a Python SDK That Relies on\u2026 Deep Inheritance?!"
-- author: The Journal.
-  categories: *id002
-  date: '2025-07-11T00:00:00+00:00'
-  description: "The man of steel is back in a new $225 million reboot. Riding on this\
-    \ weekend\u2019s release is the hope that DC Studios will finally begin to match\
-    \ the past successes of its archrival Marvel. Its parent company Warner Bros.\
-    \ Discovery views DC Studios as critical to its success or failure. WSJ\u2019\
-    s Ben Fritz talks to Jessica Mendoza about whether or not Superman can be the\
-    \ savior that DC and Warner are hoping for.  Further Listening:  - With Great\
-    \ Power: The Rise of Superhero Cinema\_ - Ron Howard and Brian Grazer on Longevity\
-    \ in Hollywood\_  Sign up for WSJ\u2019s free What\u2019s News newsletter.  Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/22yn5sV6Af8ujpyiMIGQal
-  title: Can Superman Save Warner?
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-07-10T12:00:00+00:00'
   description: "Timely insights on portfolio risk, inflation hedging, and market cycles\u2014\
     grounded in financial history and written for investment decision-makers."
@@ -604,7 +613,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/10/mind-the-inflation-gap-hedging-with-real-assets/
   title: 'Mind the Inflation Gap: Hedging with Real Assets'
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-07-10T00:00:00+00:00'
   description: "Aprenda a rastrear a\xE7\xF5es promissoras antes do consenso do mercado\
@@ -665,7 +674,7 @@
   path: https://open.spotify.com/episode/2oNZCbh4MKrlqzLZ0WV8Vw
   title: 'Venture forth: the VC race for the first trillion-dollar unicorn'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-07-09T14:00:38+00:00'
@@ -699,7 +708,7 @@
   path: https://www.youtube.com/watch?v=bMou1qUMHC4
   title: 'Samsung Z Fold/Flip 7 Impressions: Major Upgrades!'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-07-08T13:00:59+00:00'
   description: 'So you want to be a flagship?
 
@@ -727,7 +736,7 @@
   path: https://www.youtube.com/watch?v=4KbrxIpQgkM
   title: 'Nothing Phone 3 Review: They Lied!'
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-07-08T00:00:00+00:00'
   description: "FA\xC7A O DOWNLOAD GRATUITO DO LIVRO \"O PODER DA CHINA\", de Ricardo\
     \ Geromel: https://lp.mmakers.com.br/geromel-china-bussola-do-valor?xpromo=MI-M3CBUSSOLA-YT-DESCRICAO-X-20250708-DESCRICAOSOBREPODERDACHINA-mm-XO\
@@ -763,7 +772,7 @@
   title: "#232 | O M\xC9TODO CHIN\xCAS: CULTURA, TRABALHO, E A ESTRAT\xC9GIA SECRETA\
     \ DO GIGANTE ASI\xC1TICO"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-07-04T15:00:50+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWhy do Python projects turn into spaghetti so easily? In this video, I show\
@@ -780,13 +789,6 @@
   image: https://i4.ytimg.com/vi/SNqwNILX1Gg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=SNqwNILX1Gg
   title: How I Use Abstraction to Avoid Spaghetti Code
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2025-07-03T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-fasb-invitation-agenda-consultation
-  title: "Response to FASB Invitation to Comment \u2013 Agenda Consultation"
 - author: Outliers
   categories: &id008
   - Podcasts
