@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-16T18:32:01.898833'
+  date: '2025-07-16T20:30:52.531781'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T18:32:01.897083'
+  date: '2025-07-16T20:30:52.530026'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T18:32:01.897079'
+  date: '2025-07-16T20:30:52.530022'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T18:32:01.897074'
+  date: '2025-07-16T20:30:52.530018'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T18:32:01.897064'
+  date: '2025-07-16T20:30:52.530009'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-07-16T16:26:42+00:00'
   description: Phillip Toews challenges traditional portfolio construction, helping
@@ -492,6 +492,23 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/how-shadow-banking-reshapes-the-optimal-mix-of-regulation/
   title: How Shadow Banking Reshapes the Optimal Mix of Regulation
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-07-16T00:00:00+00:00'
+  description: "After talks with NATO allies, President Donald Trump gave Russia 50\
+    \ days to broker peace with Ukraine. If they can\u2019t make it happen, he says\
+    \ he\u2019ll impose tariffs on Russian goods to ratchet up economic pressure.\
+    \ The move underscores Trump\u2019s growing anger with Russian President Vladimir\
+    \ Putin. WSJ\u2019s Lara Seligman unpacks the latest and explores the evolving\
+    \ relationship between Trump and Putin. Jessica Mendoza hosts.\_  Further Listening:\
+    \ -Inside the Hunt for Putin\u2019s Sleeper Agents\_ -How Ukraine Built a Weapon\
+    \ to Control the Black Sea\_ -Ukraine Makes a Deal With Wall Street\_  Sign up\
+    \ for WSJ\u2019s free What\u2019s News newsletter.   Learn more about your ad\
+    \ choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/1JyOHCdwHqfGYrlUfydUEd
+  title: Trump Turns Up The Heat on Putin
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -508,7 +525,7 @@
   path: https://braziljournal.com/lira-elimina-teto-e-aliquota-agregada-pode-chegar-a-41/
   title: "Lira elimina teto e al\xEDquota agregada pode chegar a 41%"
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-07-15T12:00:00+00:00'
   description: ''
@@ -559,8 +576,7 @@
   path: https://open.spotify.com/episode/1qh25ecLdGj9NIjlJ1vQYi
   title: "#234 | UM DEBATE POL\xCAMICO SOBRE LIBERDADE, PODER E O FUTURO DO BRASIL"
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-07-15T00:00:00+00:00'
   description: "After the passage of President Trump\u2019s \u201CBig Beautiful Bill,\u201D\
     \ renewable energy companies are bracing for more challenging times. The law is\
@@ -607,7 +623,7 @@
   path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
   title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-07-14T15:44:26+00:00'
   description: This chatbot-style tool allows investment analysts to query complex
     research materials in plain language without ever exposing sensitive data.
@@ -615,26 +631,12 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/14/rethinking-research-private-gpts-for-investment-analysis/
   title: 'Rethinking Research: Private GPTs for Investment Analysis'
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-07-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/measuring-mutual-fund-flows
   title: Measuring Mutual Fund Flows
-- author: The Journal.
-  categories: *id003
-  date: '2025-07-14T00:00:00+00:00'
-  description: "Last week, Grok went rogue. The AI chatbot \u2013 which users can\
-    \ interact with on X \u2013 posted antisemitic comments and graphic descriptions\
-    \ of violence before being deactivated, leaving users with a question: Where were\
-    \ Grok\u2019s guardrails? WSJ\u2019s Alexander Saeedy breaks down what happened\
-    \ and what it means for Musk\u2019s company\u2019s plans for an AI future. Annie\
-    \ Minoff hosts.\_\_\_  Further Listening: - How Elon Musk Pulled X Back From the\
-    \ Brink\_ - The Musk-Twitter Saga\_  Sign up for WSJ\u2019s free What\u2019s News\
-    \ newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/7x7KBWcB1EybJhYj3jG11N
-  title: "Why Elon Musk\u2019s AI Chatbot Went Rogue"
 - author: "Economia \u2013 Brazil Journal"
   categories: *id004
   date: '2025-07-13T03:15:17+00:00'

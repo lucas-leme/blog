@@ -1,5 +1,19 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-16T18:51:39+00:00'
+  description: "Os EUA abriram uma investiga\xE7\xE3o contra o Brasil por supostas\
+    \ pr\xE1ticas desleais no com\xE9rcio internacional, e colocou o Pix na mira.\
+    \ Segundo o governo americano, o sistema brasileiro de pagamentos instant\xE2\
+    neos seria um exemplo de pol\xEDtica estatal que prejudica empresas estrangeiras\
+    \ de servi\xE7os financeiros \u2013 como Apple Pay, Paypal etc. Trump assume que\
+    \ a motiva\xE7\xE3o [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/o-pix-na-mira-de-trump-entenda-a-verdadeira-posicao-do-brasil-no-ranking-mundial-de-pagamentos-instantaneos/
+  title: "O Pix na mira de Trump: entenda a verdadeira posi\xE7\xE3o do Brasil no\
+    \ ranking mundial de pagamentos instant\xE2neos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-07-16T17:53:10+00:00'
   description: "Medida deve beneficiar cerca de 10 milh\xF5es de brasileiros, que\
@@ -9,8 +23,7 @@
   title: "Avan\xE7a na C\xE2mara proposta de isen\xE7\xE3o de Imposto de Renda para\
     \ quem ganha at\xE9 R$ 5 mil"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-16T14:24:21+00:00'
   description: "Presidente dos EUA pediu uma investiga\xE7\xE3o para apurar se algumas\
     \ medidas do governo brasileiro podem ser considerada desleais"
@@ -19,7 +32,7 @@
   title: "EUA iniciam investiga\xE7\xE3o sobre pr\xE1ticas comerciais do Brasil e\
     \ dispara contra Pix e rua 25 de Mar\xE7o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-07-15T20:37:33+00:00'
   description: "Governo mant\xE9m defesa do decreto original e descarta apresentar\
     \ alternativas"
@@ -27,12 +40,3 @@
   path: https://investnews.com.br/financas/conciliacao-sobre-iof-fracassa-e-stf-decidira-futuro-do-imposto-no-brasil/
   title: "Concilia\xE7\xE3o sobre IOF fracassa no STF. Alexandre de Moraes vai decidir\
     \ o futuro do imposto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-15T18:05:29+00:00'
-  description: "Lei autoriza o Brasil a adotar medidas como restri\xE7\xF5es de importa\xE7\
-    \xE3o e suspens\xE3o de investimentos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/lei-de-reciprocidade-comercial-entenda-o-que-que-muda-no-brasil-apos-as-tarifas-de-trump/
-  title: "Lei de Reciprocidade Comercial: entenda o que que muda no Brasil ap\xF3\
-    s as tarifas de Trump"
