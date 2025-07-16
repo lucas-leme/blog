@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-16T20:30:52.531781'
+  date: '2025-07-16T21:28:56.365704'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T20:30:52.530026'
+  date: '2025-07-16T21:28:56.363963'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T20:30:52.530022'
+  date: '2025-07-16T21:28:56.363959'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T20:30:52.530018'
+  date: '2025-07-16T21:28:56.363954'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-16T20:30:52.530009'
+  date: '2025-07-16T21:28:56.363944'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,8 +464,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-07-16T21:03:41+00:00'
+  description: "<p>Os pol\xEDticos brasileiros de esquerda que admiram e se inspiram\
+    \ na Fran\xE7a j\xE1 t\xEAm algo novo para copiar. Em face ao aumento da d\xED\
+    vida p\xFAblica, o primeiro-ministro Fran\xE7ois Bayrou apresentou uma proposta\
+    \ radical: eliminar dois feriados do calend\xE1rio nacional. \u201CToda a na\xE7\
+    \xE3o ter\xE1 que trabalhar mais para que a atividade do pa\xEDs como um todo\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/franca-quer-cortar-feriados-e-congelar-gastos-direita-e-esquerda-abominam-a-ideia/\"\
+    \ rel=\"nofollow\">Fran\xE7a quer cortar feriados e congelar gastos. Direita e\
+    \ esquerda se revoltam</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/franca-quer-cortar-feriados-e-congelar-gastos-direita-e-esquerda-abominam-a-ideia/
+  title: "Fran\xE7a quer cortar feriados e congelar gastos. Direita e esquerda se\
+    \ revoltam"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-07-16T16:26:42+00:00'
   description: Phillip Toews challenges traditional portfolio construction, helping
@@ -493,7 +510,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/how-shadow-banking-reshapes-the-optimal-mix-of-regulation/
   title: How Shadow Banking Reshapes the Optimal Mix of Regulation
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-07-16T00:00:00+00:00'
   description: "After talks with NATO allies, President Donald Trump gave Russia 50\
@@ -510,8 +527,7 @@
   path: https://open.spotify.com/episode/1JyOHCdwHqfGYrlUfydUEd
   title: Trump Turns Up The Heat on Putin
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2025-07-15T16:22:43+00:00'
   description: "<p>Achando que 34% j\xE1 \xE9 demais? Vem a\xED os 41%. O parecer\
     \ do Dep. Arthur\u202FLira (PP\u2011AL) ao Projeto de Lei n\xBA\u202F1087/2025\
@@ -525,7 +541,7 @@
   path: https://braziljournal.com/lira-elimina-teto-e-aliquota-agregada-pode-chegar-a-41/
   title: "Lira elimina teto e al\xEDquota agregada pode chegar a 41%"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-07-15T12:00:00+00:00'
   description: ''
@@ -576,7 +592,7 @@
   path: https://open.spotify.com/episode/1qh25ecLdGj9NIjlJ1vQYi
   title: "#234 | UM DEBATE POL\xCAMICO SOBRE LIBERDADE, PODER E O FUTURO DO BRASIL"
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-07-15T00:00:00+00:00'
   description: "After the passage of President Trump\u2019s \u201CBig Beautiful Bill,\u201D\
     \ renewable energy companies are bracing for more challenging times. The law is\
@@ -623,7 +639,7 @@
   path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
   title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-07-14T15:44:26+00:00'
   description: This chatbot-style tool allows investment analysts to query complex
     research materials in plain language without ever exposing sensitive data.
@@ -631,27 +647,12 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/14/rethinking-research-private-gpts-for-investment-analysis/
   title: 'Rethinking Research: Private GPTs for Investment Analysis'
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-07-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/measuring-mutual-fund-flows
   title: Measuring Mutual Fund Flows
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2025-07-13T03:15:17+00:00'
-  description: "<p>A carta de Donald Trump ao Presidente Lula re\xFAne, em poucas\
-    \ linhas, a ess\xEAncia de seu estilo diplom\xE1tico: cobran\xE7a p\xFAblica,\
-    \ cr\xEDtica ideol\xF3gica e puni\xE7\xE3o econ\xF4mica. Nela, Trump anunciou\
-    \ a tarifa de 50% sobre as importa\xE7\xF5es brasileiras nos Estados Unidos a\
-    \ partir de 1\xBA de agosto, questionou o julgamento de Jair Bolsonaro no STF,\
-    \ criticou a [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-que-o-tarifaco-de-trump-tem-a-ver-com-os-brics/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O que o tarifa\xE7o de Trump tem a ver com os BRICS</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-que-o-tarifaco-de-trump-tem-a-ver-com-os-brics/
-  title: "OPINI\xC3O. O que o tarifa\xE7o de Trump tem a ver com os BRICS"
 - author: ArjanCodes
   categories: &id007
   - Tech
