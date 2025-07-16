@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-16T17:53:10+00:00'
+  description: "Medida deve beneficiar cerca de 10 milh\xF5es de brasileiros, que\
+    \ ter\xE3o economia anual m\xE9dia de R$ 4.356,89 em impostos pagos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/avanca-na-camara-proposta-de-isencao-de-imposto-de-renda-para-quem-ganha-ate-r-5-mil/
+  title: "Avan\xE7a na C\xE2mara proposta de isen\xE7\xE3o de Imposto de Renda para\
+    \ quem ganha at\xE9 R$ 5 mil"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-07-16T14:24:21+00:00'
   description: "Presidente dos EUA pediu uma investiga\xE7\xE3o para apurar se algumas\
@@ -9,8 +19,7 @@
   title: "EUA iniciam investiga\xE7\xE3o sobre pr\xE1ticas comerciais do Brasil e\
     \ dispara contra Pix e rua 25 de Mar\xE7o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-15T20:37:33+00:00'
   description: "Governo mant\xE9m defesa do decreto original e descarta apresentar\
     \ alternativas"
@@ -19,7 +28,7 @@
   title: "Concilia\xE7\xE3o sobre IOF fracassa no STF. Alexandre de Moraes vai decidir\
     \ o futuro do imposto"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-07-15T18:05:29+00:00'
   description: "Lei autoriza o Brasil a adotar medidas como restri\xE7\xF5es de importa\xE7\
     \xE3o e suspens\xE3o de investimentos"
@@ -27,11 +36,3 @@
   path: https://investnews.com.br/economia/lei-de-reciprocidade-comercial-entenda-o-que-que-muda-no-brasil-apos-as-tarifas-de-trump/
   title: "Lei de Reciprocidade Comercial: entenda o que que muda no Brasil ap\xF3\
     s as tarifas de Trump"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-14T21:19:44+00:00'
-  description: "Praticamente todo o caixa da companhia \xE9 formado pela criptomoeda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/investimentos/meliuz-dispara-168-no-ano-com-bitcoin-em-alta-e-planos-para-listagem-nos-eua/
-  title: "M\xE9liuz dispara 168% no ano com bitcoin em alta e planos para listagem\
-    \ nos EUA"
