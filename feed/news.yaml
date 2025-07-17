@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-17T12:08:47+00:00'
+  description: "Ilan Benhamou, da equipe de vendas do banco, divulgou opini\xE3o sobre\
+    \ Fed em carta aos clientes do banco"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/independencia-do-fed/
+  title: "\u2018Independ\xEAncia do Fed \xE9 um mito\u2019, diz executivo do JPMorgan"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-07-16T21:59:59+00:00'
   description: "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF),\
@@ -12,8 +21,7 @@
   path: https://investnews.com.br/financas/moraes-mantem-aumento-do-iof-e-exclui-cobranca-sobre-risco-sacado/
   title: "Moraes mant\xE9m aumento do IOF e exclui cobran\xE7a sobre risco sacado"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-16T18:51:39+00:00'
   description: "Os EUA abriram uma investiga\xE7\xE3o contra o Brasil por supostas\
     \ pr\xE1ticas desleais no com\xE9rcio internacional, e colocou o Pix na mira.\
@@ -26,7 +34,7 @@
   title: "O Pix na mira de Trump: entenda a verdadeira posi\xE7\xE3o do Brasil no\
     \ ranking mundial de pagamentos instant\xE2neos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-07-16T17:53:10+00:00'
   description: "Medida deve beneficiar cerca de 10 milh\xF5es de brasileiros, que\
     \ ter\xE3o economia anual m\xE9dia de R$ 4.356,89 em impostos pagos"
@@ -34,12 +42,3 @@
   path: https://investnews.com.br/financas/avanca-na-camara-proposta-de-isencao-de-imposto-de-renda-para-quem-ganha-ate-r-5-mil/
   title: "Avan\xE7a na C\xE2mara proposta de isen\xE7\xE3o de Imposto de Renda para\
     \ quem ganha at\xE9 R$ 5 mil"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-16T14:24:21+00:00'
-  description: "Presidente dos EUA pediu uma investiga\xE7\xE3o para apurar se algumas\
-    \ medidas do governo brasileiro podem ser considerada desleais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-investigacao-governo-brasileiro/
-  title: "EUA iniciam investiga\xE7\xE3o sobre pr\xE1ticas comerciais do Brasil e\
-    \ dispara contra Pix e rua 25 de Mar\xE7o"
