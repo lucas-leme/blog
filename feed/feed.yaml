@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-18T20:30:37.621031'
+  date: '2025-07-18T21:28:51.517114'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T20:30:37.619203'
+  date: '2025-07-18T21:28:51.515359'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T20:30:37.619198'
+  date: '2025-07-18T21:28:51.515356'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T20:30:37.619193'
+  date: '2025-07-18T21:28:51.515352'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T20:30:37.619182'
+  date: '2025-07-18T21:28:51.515342'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -504,8 +504,23 @@
   image: https://substackcdn.com/image/fetch/$s_!fBqp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c8d522d-afbc-4f30-b67d-64160c58e865_3200x2895.png
   path: https://theovershoot.co/p/inflation-trump-and-the-fed
   title: Inflation, Trump, and the Fed
-- author: CFA Institute Enterprising Investor
+- author: The Journal.
   categories: &id001
+  - Podcasts
+  date: '2025-07-18T00:00:00+00:00'
+  description: "In 2003, Jeffrey Epstein got a gift for his 50th birthday, a leather-bound\
+    \ album containing letters, poems, photos and greetings from friends. One of the\
+    \ letters was from Donald Trump. The president says the letter \"is a fake thing.\"\
+    \ WSJ\u2019s Khadeeja Safdar reveals what\u2019s in the letter and Sadie Gurman\
+    \ explores what it means for Trump and the Department of Justice. Jessica Mendoza\
+    \ hosts.\_  Further Listening: -JPMorgan's $75 Million Jeffrey Epstein Settlement\_\
+    \  Sign up for WSJ\u2019s free What\u2019s News newsletter.   Learn more about\
+    \ your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/1NasbyvWG4eWSGCpRUw20l
+  title: "Trump\u2019s Letter to Jeffrey Epstein"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-07-17T12:54:06+00:00'
   description: "AI disruption, portfolio shifts, and timeless lessons\u2014these blogs\
@@ -559,8 +574,7 @@
   path: https://open.spotify.com/episode/7txEo3P3yRRsiqbYRYdTwk
   title: '#235 | O JEITO DE INVESTIR DE UM DOS MAIORES GANHADORES DA BOLSA BRASILEIRA'
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2025-07-17T00:00:00+00:00'
   description: "Amazon warehouses are more automated than ever. The company, a key\
     \ bellwether for the U.S. labor market, now has over a million robots packing\
@@ -624,7 +638,7 @@
   title: "Fran\xE7a quer cortar feriados e congelar gastos. Direita e esquerda se\
     \ revoltam"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-07-16T16:26:42+00:00'
   description: Phillip Toews challenges traditional portfolio construction, helping
     advisors build resilient strategies and coach clients through risk and bias.
@@ -650,22 +664,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/how-shadow-banking-reshapes-the-optimal-mix-of-regulation/
   title: How Shadow Banking Reshapes the Optimal Mix of Regulation
-- author: The Journal.
-  categories: *id002
-  date: '2025-07-16T00:00:00+00:00'
-  description: "After talks with NATO allies, President Donald Trump gave Russia 50\
-    \ days to broker peace with Ukraine. If they can\u2019t make it happen, he says\
-    \ he\u2019ll impose tariffs on Russian goods to ratchet up economic pressure.\
-    \ The move underscores Trump\u2019s growing anger with Russian President Vladimir\
-    \ Putin. WSJ\u2019s Lara Seligman unpacks the latest and explores the evolving\
-    \ relationship between Trump and Putin. Jessica Mendoza hosts.\_  Further Listening:\
-    \ -Inside the Hunt for Putin\u2019s Sleeper Agents\_ -How Ukraine Built a Weapon\
-    \ to Control the Black Sea\_ -Ukraine Makes a Deal With Wall Street\_  Sign up\
-    \ for WSJ\u2019s free What\u2019s News newsletter.   Learn more about your ad\
-    \ choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/1JyOHCdwHqfGYrlUfydUEd
-  title: Why Trump Is Ready to Send Missiles to Ukraine
 - author: "Economia \u2013 Brazil Journal"
   categories: *id003
   date: '2025-07-15T16:22:43+00:00'
