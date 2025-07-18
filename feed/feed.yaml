@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-18T02:14:59.568916'
+  date: '2025-07-18T11:07:42.863580'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T02:14:59.567139'
+  date: '2025-07-18T11:07:42.861816'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T02:14:59.567135'
+  date: '2025-07-18T11:07:42.861812'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T02:14:59.567130'
+  date: '2025-07-18T11:07:42.861807'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-18T02:14:59.567121'
+  date: '2025-07-18T11:07:42.861781'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: The Overshoot
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2025-07-18T06:22:14+00:00'
+  description: There is no sane reason for the Fed to cut much, if at all. But the
+    wannabe Erdogan (with a pinch of Nixon) has different ideas.
+  image: https://substackcdn.com/image/fetch/$s_!fBqp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0c8d522d-afbc-4f30-b67d-64160c58e865_3200x2895.png
+  path: https://theovershoot.co/p/inflation-trump-and-the-fed
+  title: Inflation, Trump, and the Fed
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -629,7 +639,7 @@
   path: https://braziljournal.com/lira-elimina-teto-e-aliquota-agregada-pode-chegar-a-41/
   title: "Lira elimina teto e al\xEDquota agregada pode chegar a 41%"
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-07-15T12:00:00+00:00'
   description: ''
@@ -679,7 +689,7 @@
   path: https://open.spotify.com/episode/1qh25ecLdGj9NIjlJ1vQYi
   title: "#234 | UM DEBATE POL\xCAMICO SOBRE LIBERDADE, PODER E O FUTURO DO BRASIL"
 - author: Outliers
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-07-15T00:00:00+00:00'
   description: "Se as mudan\xE7as do IOF e da MP 1.303/25 podem assustar alguns investidores,\
@@ -698,9 +708,7 @@
   path: https://open.spotify.com/episode/4ChJ6DQwAZCLllnMiUXqgU
   title: "#164 - Cr\xE9ditos estruturados com Tivio Capital | Outliers InfoMoney"
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2025-07-14T23:52:44+00:00'
   description: Policy tightening helped reduce inflation, stabilize the currency,
     and improve the country's fragile financial position. But Turks are still worse
@@ -709,14 +717,14 @@
   path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
   title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-07-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/measuring-mutual-fund-flows
   title: Measuring Mutual Fund Flows
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -740,7 +748,7 @@
   path: https://www.youtube.com/watch?v=Ov8JsEnNLCM
   title: "I Designed a Python SDK That Relies on\u2026 Deep Inheritance?!"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-07-09T14:00:38+00:00'
@@ -774,7 +782,7 @@
   path: https://www.youtube.com/watch?v=bMou1qUMHC4
   title: 'Samsung Z Fold/Flip 7 Impressions: Major Upgrades!'
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-07-08T13:00:59+00:00'
   description: 'So you want to be a flagship?
 
@@ -802,7 +810,7 @@
   path: https://www.youtube.com/watch?v=4KbrxIpQgkM
   title: 'Nothing Phone 3 Review: They Lied!'
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-07-04T15:00:50+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWhy do Python projects turn into spaghetti so easily? In this video, I show\
@@ -818,9 +826,9 @@
     19:56 Final Thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i4.ytimg.com/vi/SNqwNILX1Gg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=SNqwNILX1Gg
-  title: This Is Why Your Python Code Turns Into Spaghetti
+  title: How I Use Abstraction to Avoid Spaghetti Code
 - author: Outliers
-  categories: *id008
+  categories: *id009
   date: '2025-07-01T00:00:00+00:00'
   description: "Em uma vota\xE7\xE3o hist\xF3rica, o Congresso Nacional derrubou o\
     \ decreto presidencial que aumentava as al\xEDquotas do IOF. Ainda assim, outro\
@@ -870,13 +878,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/0tYnal1RYoZtpUWoPTaXTt
   title: "Mid-Year Outlook: At the Crossroads of Stagflation\u2014What\u2019s Next?"
-- author: The Overshoot
-  categories: *id009
-  date: '2025-06-16T22:03:10+00:00'
-  description: 'The risks are skewed in one direction: up.'
-  image: https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3fd33180-43b3-41a9-8bae-1580ee910c63_3205x2915.png
-  path: https://theovershoot.co/p/us-inflation-still-robust-even-before
-  title: U.S. Inflation Still Robust Even Before Tariff Impact
 - author: Apricitas Economics
   categories: &id010
   - Macro
