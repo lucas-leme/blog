@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-19T12:31:04.822881'
+  date: '2025-07-19T13:41:17.779134'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-19T12:31:04.821101'
+  date: '2025-07-19T13:41:17.777350'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-19T12:31:04.821097'
+  date: '2025-07-19T13:41:17.777345'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-19T12:31:04.821093'
+  date: '2025-07-19T13:41:17.777328'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-19T12:31:04.821083'
+  date: '2025-07-19T13:41:17.777318'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-07-19T13:00:00+00:00'
+  description: Can the shape of market moves predict FX stress? This post explores
+    a new path-based approach to forecast volatility and manage currency risk.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/19/how-the-trajectory-of-asset-prices-can-predict-fx-movements/
+  title: How the Trajectory of Asset Prices Can Predict FX Movements
 - author: Marques Brownlee
   categories: &id008
   - Tech
@@ -505,7 +514,7 @@
   path: https://theovershoot.co/p/inflation-trump-and-the-fed
   title: Inflation, Trump, and the Fed
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-07-18T00:00:00+00:00'
   description: "In 2003, Jeffrey Epstein got a gift for his 50th birthday, a leather-bound\
@@ -520,8 +529,7 @@
   path: https://open.spotify.com/episode/1NasbyvWG4eWSGCpRUw20l
   title: "Trump\u2019s Letter to Jeffrey Epstein"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-07-17T12:54:06+00:00'
   description: "AI disruption, portfolio shifts, and timeless lessons\u2014these blogs\
     \ topped the charts in Q2."
@@ -574,7 +582,7 @@
   path: https://open.spotify.com/episode/7txEo3P3yRRsiqbYRYdTwk
   title: '#235 | O JEITO DE INVESTIR DE UM DOS MAIORES GANHADORES DA BOLSA BRASILEIRA'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-07-17T00:00:00+00:00'
   description: "Amazon warehouses are more automated than ever. The company, a key\
     \ bellwether for the U.S. labor market, now has over a million robots packing\
@@ -637,14 +645,6 @@
   path: https://braziljournal.com/franca-quer-cortar-feriados-e-congelar-gastos-direita-e-esquerda-abominam-a-ideia/
   title: "Fran\xE7a quer cortar feriados e congelar gastos. Direita e esquerda se\
     \ revoltam"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-07-16T16:26:42+00:00'
-  description: Phillip Toews challenges traditional portfolio construction, helping
-    advisors build resilient strategies and coach clients through risk and bias.
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/16/book-review-the-behavioral-portfolio/
-  title: 'Book Review: The Behavioral Portfolio'
 - author: Liberty Street Economics
   categories:
   - Macro
