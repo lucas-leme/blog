@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-22T12:14:40.227713'
+  date: '2025-07-22T12:31:22.135478'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-22T12:14:40.225941'
+  date: '2025-07-22T12:31:22.133748'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-22T12:14:40.225937'
+  date: '2025-07-22T12:31:22.133744'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-22T12:14:40.225933'
+  date: '2025-07-22T12:31:22.133739'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-22T12:14:40.225923'
+  date: '2025-07-22T12:31:22.133727'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-07-22T12:24:07+00:00'
+  description: Explore historical bear markets to decode recession risk, valuation
+    impact, and which investment styles perform best in downturns and recoveries.
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/07/22/bear-market-playbook-decoding-recession-risk-valuation-impact-and-style-leadership/
+  title: 'Bear Market Playbook: Decoding Recession Risk, Valuation Impact, and Style
+    Leadership'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -482,7 +492,7 @@
   path: https://braziljournal.com/opiniao-o-jabuti-das-eolicas-na-mp-dos-data-centers/
   title: "OPINI\xC3O. O jabuti das e\xF3licas na MP dos data centers"
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-07-21T00:00:00+00:00'
   description: "Tiny rare-earth magnets are used for building phones, electric cars,\
@@ -513,8 +523,7 @@
   path: https://braziljournal.com/donald-trump-processa-o-wsj-rupert-murdoch-e-reporteres/
   title: "Donald Trump processa o WSJ, Rupert Murdoch e rep\xF3rteres"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-07-19T13:00:00+00:00'
   description: Can the shape of market moves predict FX stress? This post explores
     a new path-based approach to forecast volatility and manage currency risk.
@@ -562,7 +571,7 @@
   path: https://theovershoot.co/p/inflation-trump-and-the-fed
   title: Inflation, Trump, and the Fed
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-07-18T00:00:00+00:00'
   description: "In 2003, Jeffrey Epstein got a gift for his 50th birthday, a leather-bound\
     \ album containing letters, poems, photos and greetings from friends. One of the\
@@ -575,14 +584,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/1NasbyvWG4eWSGCpRUw20l
   title: "Trump\u2019s Letter to Jeffrey Epstein"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-07-17T12:54:06+00:00'
-  description: "AI disruption, portfolio shifts, and timeless lessons\u2014these blogs\
-    \ topped the charts in Q2."
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/17/top-10-most-read-blogs-from-q2-ai-alpha-and-a-shifting-global-order/
-  title: 'Top 10 Most Read Blogs from Q2: AI, Alpha, and a Shifting Global Order'
 - author: Market Makers
   categories: &id004
   - Podcasts
