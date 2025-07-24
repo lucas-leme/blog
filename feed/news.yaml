@@ -1,13 +1,22 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-07-24T17:02:41+00:00'
+  description: "Dinheiro s\xF3 pode ser sacado para compra da casa pr\xF3pria, aposentadoria,\
+    \ doen\xE7a grave e demiss\xE3o sem justa causa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lucro-do-fgts-caixa-deve-pagar-r-129-bilhoes-a-trabalhadores-em-2025-veja-quem-tem-direito/
+  title: "Lucro do FGTS: Caixa deve pagar R$ 12,9 bilh\xF5es a trabalhadores em 2025;\
+    \ veja quem tem direito"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-07-24T13:21:07+00:00'
   description: Saldos, senhas e extratos permaneceram protegidos
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/vazamento-de-dados-pix/
   title: "Vazamento recorde de dados ligados ao Pix atinge 11 milh\xF5es de pessoas"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories:
   - "Not\xEDcias"
   date: '2025-07-24T12:06:33+00:00'
   description: "Taxas de Trump entram em vigor a partir de 1\xBA de agosto"
@@ -16,7 +25,7 @@
   title: "\u2018Alguns pa\xEDses v\xE3o ser taxados em 50%, porque n\xE3o temos nos\
     \ dado muito bem\u2019, diz Trump"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id003
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -54,25 +63,8 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1m7udbs/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-23T17:15:27+00:00'
-  description: "A demanda por im\xF3veis e viagens cresce. Enquanto isso, o grosso\
-    \ da popula\xE7\xE3o aperta o cinto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/argentina-milei/
-  title: 'O de cima sobe e o de baixo desce: Argentina vive dualidade na era Milei'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-22T20:19:42+00:00'
-  description: "Amancio Ortega reinveste, de forma r\xE1pida, quase todo o valor dos\
-    \ dividendos que recebe para escapar de imposto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fundador-da-zara-precisaria-fugir-de-taxacao-sobre-seu-patrimonio-se-estivesse-no-brasil/
-  title: "Fundador da Zara precisaria \u2018fugir\u2019 de taxa\xE7\xE3o sobre seu\
-    \ patrim\xF4nio se estivesse no Brasil?"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id003
+  categories: *id002
   date: '2025-07-03T13:53:32+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone</p> <p>Whether you're\
     \ grinding Ethics at 2am questioning your life choices or trying to figure out\
