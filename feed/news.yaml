@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-07-24T13:21:07+00:00'
+  description: Saldos, senhas e extratos permaneceram protegidos
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/vazamento-de-dados-pix/
+  title: "Vazamento recorde de dados ligados ao Pix atinge 11 milh\xF5es de pessoas"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -55,8 +63,7 @@
   path: https://investnews.com.br/economia/argentina-milei/
   title: 'O de cima sobe e o de baixo desce: Argentina vive dualidade na era Milei'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-07-22T20:19:42+00:00'
   description: "Amancio Ortega reinveste, de forma r\xE1pida, quase todo o valor dos\
     \ dividendos que recebe para escapar de imposto"
@@ -64,15 +71,6 @@
   path: https://investnews.com.br/financas/fundador-da-zara-precisaria-fugir-de-taxacao-sobre-seu-patrimonio-se-estivesse-no-brasil/
   title: "Fundador da Zara precisaria \u2018fugir\u2019 de taxa\xE7\xE3o sobre seu\
     \ patrim\xF4nio se estivesse no Brasil?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-18T22:10:20+00:00'
-  description: "Medidas cautelares sobre Bolsonaro podem tornar mais dif\xEDcil uma\
-    \ negocia\xE7\xE3o com Trump"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ibovespa-cai-e-dolar-avanca-em-meio-a-preocupacao-sobre-o-futuro-das-tarifas/
-  title: "Ibovespa cai e d\xF3lar avan\xE7a em meio \xE0 preocupa\xE7\xE3o sobre o\
-    \ futuro das tarifas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
