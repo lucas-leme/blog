@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-25T14:50:44.139538'
+  date: '2025-07-25T15:50:19.657748'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-25T14:50:44.137765'
+  date: '2025-07-25T15:50:19.655990'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-25T14:50:44.137762'
+  date: '2025-07-25T15:50:19.655986'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-25T14:50:44.137757'
+  date: '2025-07-25T15:50:19.655982'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-25T14:50:44.137747'
+  date: '2025-07-25T15:50:19.655972'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-07-25T15:00:10+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I show you the Builder Pattern in Python. It\u2019s a practical\
+    \ and underrated design pattern you\u2019re probably already using without realizing\
+    \ it. We\u2019ll explore how it helps you build complex objects step by step with\
+    \ a clean, fluent API, avoiding massive constructors and fragile nested dictionaries.\
+    \ You\u2019ll see a hands-on example of generating an HTML UI and learn when (and\
+    \ when not) to use this pattern.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/builder.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:49 Step 1 \u2014 The Product\n2:45 What is the Builder Pattern?\n\
+    5:05 Step 2 \u2014 The Builder\n8:16 Quick Side Note: Why not just use a big constructor?\n\
+    9:02 Step 3 \u2014 Extend builder\n11:11 Bonus \u2014 Local Viewer (Infrastructure)\n\
+    12:10 When Should You Use the Builder Pattern?\n13:55 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/2f1FkGQTarc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=2f1FkGQTarc
+  title: 'The Builder Pattern in Python: Finally Explained!'
 - author: Marques Brownlee
   categories: &id005
   - Tech
@@ -697,10 +720,7 @@
   path: https://www.youtube.com/shorts/rCllEeHXjUw
   title: "\U0001F6A8 New YouTube Feature Alert \U0001F6A8"
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-07-18T15:00:11+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nIs SaaS dead?\
@@ -718,7 +738,7 @@
   path: https://www.youtube.com/watch?v=70uORDj3Lzc
   title: Is SaaS Dead? Here's a Senior Engineer's Perspective
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-07-18T06:22:14+00:00'
@@ -759,7 +779,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/how-shadow-banking-reshapes-the-optimal-mix-of-regulation/
   title: How Shadow Banking Reshapes the Optimal Mix of Regulation
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2025-07-15T12:00:00+00:00'
   description: ''
@@ -786,7 +806,7 @@
   path: https://open.spotify.com/episode/4ChJ6DQwAZCLllnMiUXqgU
   title: "#164 - Cr\xE9ditos estruturados com Tivio Capital | Outliers InfoMoney"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2025-07-14T23:52:44+00:00'
   description: Policy tightening helped reduce inflation, stabilize the currency,
     and improve the country's fragile financial position. But Turks are still worse
@@ -795,33 +815,12 @@
   path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
   title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2025-07-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/measuring-mutual-fund-flows
   title: Measuring Mutual Fund Flows
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-07-11T15:00:49+00:00'
-  description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
-    \ first purchase of a website or domain using code ARJANCODES.\n\nEver wondered\
-    \ how to build a clean Python SDK without a giant god class? In this video, I\u2019\
-    ll show you how I designed an SDK that uses multiple layers of inheritance to\
-    \ keep your code DRY and easy to scale.\n\n\U0001F477 Review code better and faster\
-    \ with my 3-Factor Framework: https://arjan.codes/diagnosis.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2025/sdk.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:33 Our Test API\n2:30 Building the SDK\n\
-    4:46 What NOT to Do \u2013 Avoid the God Class\n6:18 Squarespace Sponsored Section\n\
-    8:05 Option 1 \u2013 Pass the Client (Dependency Injection)\n11:33 Option 2 \u2013\
-    \ Global Client (Singleton-style Import)\n14:12 Design Issues\n15:23 The BaseAPIModel\n\
-    18:15 The User Model Becomes Simple\n18:55 Using the Model\n20:40 Pros and Cons\
-    \ of This Pattern\n21:37 Want to Go Further?\n22:32 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/Ov8JsEnNLCM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Ov8JsEnNLCM
-  title: "I Designed a Python SDK That Relies on\u2026 Deep Inheritance?!"
 - author: Outliers
   categories: *id009
   date: '2025-07-01T00:00:00+00:00'
