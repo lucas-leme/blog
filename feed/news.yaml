@@ -1,3 +1,26 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-07-25T18:18:53+00:00'
+  description: "Este \xE9 o primeiro retorno p\xFAblico do Goldman Sachs nos EUA desde\
+    \ 2017"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/goldman-sachs-etf/
+  title: Goldman Sachs volta a ser o principal formador de mercado de ETFs, oito anos
+    depois de ter abandonado o setor
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-25T16:33:01+00:00'
+  description: "O governo Trump est\xE1 elaborando uma nova &#8220;declara\xE7\xE3\
+    o de emerg\xEAncia&#8221; como base para impor tarifas ao Brasil, segundo fontes\
+    \ com conhecimento do assunto. A medida, que ainda n\xE3o foi oficializada, seria\
+    \ necess\xE1ria para viabilizar a tarifa de 50% prometida por Trump contra um\
+    \ pa\xEDs cuja situa\xE7\xE3o difere da de alvos de anteriores. Enquanto os demais\
+    \ [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-tentam-criar-base-legal-para-tarifa-de-50-ao-brasil-anunciada-por-trump/
+  title: EUA tentam criar base legal para tarifa de 50% ao Brasil anunciada por Trump
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +63,7 @@
   path: https://www.reddit.com/r/CFA/comments/1m8pbsz/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-24T23:05:23+00:00'
   description: "Projeto cobre lagos e barragens com pain\xE9is solares para reduzir\
     \ a evapora\xE7\xE3o e gerar energia ao mesmo tempo"
@@ -49,19 +71,8 @@
   path: https://investnews.com.br/economia/como-paineis-solares-flutuantes-estao-ajudando-a-salvar-trilhoes-de-litros-de-agua-na-australia/
   title: "Como pain\xE9is solares flutuantes est\xE3o ajudando a salvar trilh\xF5\
     es de litros de \xE1gua na Austr\xE1lia"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-24T21:56:38+00:00'
-  description: "Alckmin lidera comitiva brasileira ao M\xE9xico para negociar parcerias\
-    \ diante da ofensiva tarif\xE1ria de Trump, que amea\xE7a exporta\xE7\xF5es do\
-    \ Brasil e do M\xE9xico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/lula-e-sheinbaum-articulam-reacao-latino-americana-as-novas-barreiras-comerciais-dos-eua/
-  title: "Lula e Sheinbaum articulam rea\xE7\xE3o latino-americana \xE0s novas barreiras\
-    \ comerciais dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-07-24T17:02:41+00:00'
   description: "Dinheiro s\xF3 pode ser sacado para compra da casa pr\xF3pria, aposentadoria,\
     \ doen\xE7a grave e demiss\xE3o sem justa causa"
@@ -69,13 +80,6 @@
   path: https://investnews.com.br/economia/lucro-do-fgts-caixa-deve-pagar-r-129-bilhoes-a-trabalhadores-em-2025-veja-quem-tem-direito/
   title: "Lucro do FGTS: Caixa vai pagar R$ 12,9 bilh\xF5es a trabalhadores em 2025;\
     \ veja quem tem direito"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-24T13:21:07+00:00'
-  description: Saldos, senhas e extratos permaneceram protegidos
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/vazamento-de-dados-pix/
-  title: "Vazamento recorde de dados ligados ao Pix atinge 11 milh\xF5es de pessoas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
