@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-26T12:54:46+00:00'
+  description: "A grande quest\xE3o \xE9 que a ofensiva de Trump deu chances reais\
+    \ de reelei\xE7\xE3o para Lula, algo que o mercado n\xE3o esperava"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/gestores-de-fundos-temem-mais-o-efeito-politico-da-tarifa-de-50-do-que-o-economico/
+  title: "Gestores de fundos temem mais o efeito pol\xEDtico do que o econ\xF4mico\
+    \ da tarifa de 50%"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: Goldman Sachs volta a ser o principal formador de mercado de ETFs, oito anos
     depois de ter abandonado o setor
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-25T16:33:01+00:00'
   description: "O governo Trump est\xE1 elaborando uma nova &#8220;declara\xE7\xE3\
     o de emerg\xEAncia&#8221; como base para impor tarifas ao Brasil, segundo fontes\
@@ -62,15 +71,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1m8pbsz/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-24T23:05:23+00:00'
-  description: "Projeto cobre lagos e barragens com pain\xE9is solares para reduzir\
-    \ a evapora\xE7\xE3o e gerar energia ao mesmo tempo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/como-paineis-solares-flutuantes-estao-ajudando-a-salvar-trilhoes-de-litros-de-agua-na-australia/
-  title: "Como pain\xE9is solares flutuantes est\xE3o ajudando a salvar trilh\xF5\
-    es de litros de \xE1gua na Austr\xE1lia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-24T17:02:41+00:00'
