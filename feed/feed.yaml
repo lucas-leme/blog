@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-26T02:14:48.578676'
+  date: '2025-07-26T11:07:21.977085'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-26T02:14:48.576911'
+  date: '2025-07-26T11:07:21.975303'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-26T02:14:48.576903'
+  date: '2025-07-26T11:07:21.975300'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-26T02:14:48.576898'
+  date: '2025-07-26T11:07:21.975295'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-26T02:14:48.576889'
+  date: '2025-07-26T11:07:21.975285'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -464,6 +464,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: The Overshoot
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-07-26T08:19:33+00:00'
+  description: Methodological flaws encourage persistent imbalances and discourage
+    some reasonable responses by governments to protect their citizens.
+  image: https://substackcdn.com/image/fetch/$s_!fL69!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ffd760-94d6-472d-b76a-9999b46a6b0e_3202x3295.png
+  path: https://theovershoot.co/p/the-imfs-unreasonable-external-balance
+  title: The IMF's Unreasonable External Balance Benchmarks
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -741,9 +751,7 @@
   path: https://www.youtube.com/watch?v=70uORDj3Lzc
   title: Is SaaS Dead? Here's a Senior Engineer's Perspective
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-07-18T06:22:14+00:00'
   description: There is no sane reason for the Fed to cut much, if at all. But the
     wannabe Erdogan (with a pinch of Nixon) has different ideas.
@@ -808,15 +816,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a20533b49881e62a3586eadf6
   path: https://open.spotify.com/episode/4ChJ6DQwAZCLllnMiUXqgU
   title: "#164 - Cr\xE9ditos estruturados com Tivio Capital | Outliers InfoMoney"
-- author: The Overshoot
-  categories: *id007
-  date: '2025-07-14T23:52:44+00:00'
-  description: Policy tightening helped reduce inflation, stabilize the currency,
-    and improve the country's fragile financial position. But Turks are still worse
-    off than before thanks to rule-of-law concerns.
-  image: https://substack-post-media.s3.amazonaws.com/public/images/2e132157-cd2f-425a-b174-aa14e6f55f37_3210x2760.png
-  path: https://theovershoot.co/p/how-turkiye-pulled-it-off-ish
-  title: "How T\xFCrkiye Pulled It Off (-ish)"
 - author: CFA Institute Research and Policy Center
   categories: *id008
   date: '2025-07-14T12:00:00+00:00'
