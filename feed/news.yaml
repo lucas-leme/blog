@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-27T18:54:20+00:00'
+  description: "A\xE7o e alum\xEDnio n\xE3o entram no bolo: seguem taxados em 50%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/uniao-europeia-fecha-acordo-com-os-eua-e-tem-sua-tarifa-reduzida-para-15/
+  title: "Uni\xE3o Europeia e EUA fecham acordo. UE vai pagar 15% de tarifa; os Estados\
+    \ Unidos, zero"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Com medo da d\xEDvida americana, gestores fogem de t\xEDtulos p\xFAblicos\
     \ e mergulham no cr\xE9dito privado"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-26T19:12:29+00:00'
   description: "Tarifas de exporta\xE7\xE3o menores tornam o agro argentino mais competitivo\
     \ num mercado que o Brasil domina"
@@ -18,14 +26,6 @@
   path: https://investnews.com.br/economia/milei-reduz-tarifas-de-exportacao-da-soja-argentina-em-aceno-ao-agronegocio/
   title: "Milei reduz tarifas de exporta\xE7\xE3o da soja argentina para competir\
     \ com o agro brasileiro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-26T18:40:29+00:00'
-  description: "Futuro das opera\xE7\xE3o da Caterpillar e, claro, da Embraer, s\xE3\
-    o as maiores preocupa\xE7\xF5es \u2013 fora o agro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifa-de-trump-pode-reduzir-o-pib-de-sp-em-ate-27/
-  title: "Tarifa de Trump pode reduzir o PIB de SP em at\xE9 2,7%, diz Tarc\xEDsio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-25T18:18:53+00:00'
