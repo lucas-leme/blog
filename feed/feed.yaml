@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-28T14:52:15.836482'
+  date: '2025-07-28T15:50:49.954075'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T14:52:15.834716'
+  date: '2025-07-28T15:50:49.952325'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T14:52:15.834713'
+  date: '2025-07-28T15:50:49.952321'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T14:52:15.834708'
+  date: '2025-07-28T15:50:49.952316'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T14:52:15.834698'
+  date: '2025-07-28T15:50:49.952306'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-07-28T12:53:46+00:00'
   description: "<p>No asset is truly safe. But diversifying into steady, low-volatility\
@@ -477,15 +477,22 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/28/no-asset-is-safe-but-some-lose-less/
   title: "No Asset Is Safe\u2014But Some Lose Less"
 - author: CFA Institute Research and Policy Center
-  categories: &id008
+  categories: &id001
   - CFA
   date: '2025-07-28T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/financial-analysts-journal-third-quarter-2025-vol-81-no-3
   title: Financial Analysts Journal, Third Quarter 2025, Vol. 81 No. 3
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-07-28T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/synthetic-data-in-investment-management
+  title: Synthetic Data in Investment Management
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-07-27T00:00:00+00:00'
   description: "No epis\xF3dio #238 do Market Makers, mergulhamos em uma conversa\
@@ -528,7 +535,7 @@
   title: "#238 | O QUE N\xC3O TE CONTARAM SOBRE A PR\xD3XIMA REVOLU\xC7\xC3O DO MERCADO\
     \ FINANCEIRO"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-07-26T08:19:33+00:00'
@@ -538,7 +545,7 @@
   path: https://theovershoot.co/p/the-imfs-unreasonable-external-balance
   title: The IMF's Unreasonable External Balance Benchmarks
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -561,7 +568,7 @@
   path: https://www.youtube.com/watch?v=2f1FkGQTarc
   title: 'The Builder Pattern in Python: Finally Explained!'
 - author: The Journal.
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-07-25T00:00:00+00:00'
   description: "Last week, CBS cancelled \u201CThe Late Show with Stephen Colbert.\u201D\
@@ -579,7 +586,7 @@
   path: https://open.spotify.com/episode/70qkQlxdlK1RBSjs5OhC0G
   title: What Killed 'The Late Show'?
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-07-24T17:41:59+00:00'
@@ -618,7 +625,7 @@
   path: https://www.youtube.com/watch?v=FXrcFeuYtq8
   title: 'iOS 26 Hands-On: Liquid Glass!'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-07-24T10:54:38+00:00'
   description: "<p>For global investors, the signal is clear: Africa\u2019s moment\
     \ is here. The only question is, will you be part of building it?</p>\n<p>The\
@@ -630,7 +637,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/24/private-markets-public-promise-africas-investment-inflection-point/
   title: "Private Markets, Public Promise: Africa\u2019s Investment Inflection Point"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-07-24T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, gravado durante o Investor Day\
     \ do M3Club, recebemos Rodrigo Glatt (GTI) e Stephan Kautz (EQI Asset) para um\
@@ -670,7 +677,7 @@
   path: https://open.spotify.com/episode/4L2BJtAjYRgMWMXAUn2vjx
   title: '#237 | O MUNDO COMO CONHECEMOS ACABOU! E AGORA?'
 - author: The Journal.
-  categories: *id003
+  categories: *id004
   date: '2025-07-24T00:00:00+00:00'
   description: "Global diamond company De Beers spent decades convincing couples that\
     \ true love required a diamond. But now, lab-grown diamonds that are identical\
@@ -704,7 +711,7 @@
   path: https://open.spotify.com/episode/10XISax78WUREetQQA4OhR
   title: 'Chip lords: the world''s most important company'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2025-07-23T10:34:47+00:00'
   description: "<p>Esquecemos que os tribunais existem justamente para retirar o julgamento\
@@ -721,7 +728,7 @@
   title: "OPINI\xC3O. Foros e likes: o problema do c\xE1lculo pol\xEDtico nas decis\xF5\
     es penais"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2025-07-22T09:50:16+00:00'
   description: "<p>A Medida Provis\xF3ria n\xBA 1.307 \u2013 publicada na sexta-feira\
     \ e apelidada de \u201CMP dos Data Centers\u201D \u2013 objetiva modernizar o\
@@ -737,14 +744,14 @@
   path: https://braziljournal.com/opiniao-o-jabuti-das-eolicas-na-mp-dos-data-centers/
   title: "OPINI\xC3O. O jabuti das e\xF3licas na MP dos data centers"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-07-18T17:01:56+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/rCllEeHXjUw/hqdefault.jpg
   path: https://www.youtube.com/shorts/rCllEeHXjUw
   title: "\U0001F6A8 New YouTube Feature Alert \U0001F6A8"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-07-18T15:00:11+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nIs SaaS dead?\
@@ -762,7 +769,7 @@
   path: https://www.youtube.com/watch?v=70uORDj3Lzc
   title: Is SaaS Dead? Here's a Senior Engineer's Perspective
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-07-18T06:22:14+00:00'
   description: There is no sane reason for the Fed to cut much, if at all. But the
     wannabe Erdogan (with a pinch of Nixon) has different ideas.
@@ -800,13 +807,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/07/how-shadow-banking-reshapes-the-optimal-mix-of-regulation/
   title: How Shadow Banking Reshapes the Optimal Mix of Regulation
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-07-15T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2025/stocks-for-long-run-new-evidence-old-debates
-  title: Stocks for the Long Run? New Evidence, Old Debates
 - author: Outliers
   categories: &id009
   - Podcasts
