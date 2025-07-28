@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-07-28T14:09:24+00:00'
+  description: "O presidente dos Estados Unidos, Donald Trump, voltou a pedir ao Federal\
+    \ Reserve (Fed, o banco central dos EUA) nesta segunda-feira (28) que reduza os\
+    \ juros, afirmando que isso ajudar\xE1 a impulsionar a economia norte-americana.\
+    \ A Super Quarta &#8211; reuni\xE3o em que o Fed nos EUA e o Copom no Brasil divulgam\
+    \ as novas taxas [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/super-quarta-fed-julho/
+  title: "Super Quarta vem a\xED: Trump reitera pedido para que Fed reduza taxa de\
+    \ juros"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +47,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mb6cjd/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-27T18:54:20+00:00'
   description: "A\xE7o e alum\xEDnio n\xE3o entram no bolo: seguem taxados em 50%"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -52,15 +64,6 @@
   path: https://investnews.com.br/financas/investidores-globais-fogem-dos-titulos-publicos-e-mergulham-no-credito-privado/
   title: "Com medo da d\xEDvida americana, gestores fogem de t\xEDtulos p\xFAblicos\
     \ e mergulham no cr\xE9dito privado"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-26T19:12:29+00:00'
-  description: "Tarifas de exporta\xE7\xE3o menores tornam o agro argentino mais competitivo\
-    \ num mercado que o Brasil domina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-reduz-tarifas-de-exportacao-da-soja-argentina-em-aceno-ao-agronegocio/
-  title: "Milei reduz tarifas de exporta\xE7\xE3o da soja argentina para competir\
-    \ com o agro brasileiro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-25T18:18:53+00:00'
