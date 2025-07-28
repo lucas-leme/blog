@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-07-28T20:30:54.905057'
+  date: '2025-07-28T21:28:30.446777'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T20:30:54.903284'
+  date: '2025-07-28T21:28:30.444990'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T20:30:54.903280'
+  date: '2025-07-28T21:28:30.444986'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T20:30:54.903276'
+  date: '2025-07-28T21:28:30.444982'
   description: "<div class=\"ExternalClass276B5992DAD145FD92ED716DD9A6397B\"><p>\u200B\
     O ambiente externo mant\xE9m-se adverso e particularmente incerto em fun\xE7\xE3\
     o da conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-07-28T20:30:54.903266'
+  date: '2025-07-28T21:28:30.444972'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -465,7 +465,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-07-28T12:53:46+00:00'
   description: "<p>No asset is truly safe. But diversifying into steady, low-volatility\
@@ -491,8 +491,23 @@
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/synthetic-data-in-investment-management
   title: Synthetic Data in Investment Management
+- author: The Journal.
+  categories: &id002
+  - Podcasts
+  date: '2025-07-28T00:00:00+00:00'
+  description: "Earlier this month, President Donald Trump announced the U.S. would\
+    \ impose up to a 200% tariff on imported pharmaceuticals, though he would give\
+    \ them up to a year and a half before fully implementing the tariffs. Trump\u2019\
+    s goal is to bring more manufacturing to the United States, but one pharmaceutical\
+    \ CEO, Richard Saynor of Sandoz, says there is little incentive to build in the\
+    \ U.S. Jessica Mendoza hosts.   Further Listening:- Why Trump Pushed His Tariff\
+    \ Deadline - Inside the Surprise U.S.-China Trade Deal\_ Sign up for WSJ\u2019\
+    s free What\u2019s News newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/23qYHt916vE398hVCrHWHw
+  title: "A Pharmaceutical Executive on Trump\u2019s Tariff Strategy"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-07-27T00:00:00+00:00'
   description: "No epis\xF3dio #238 do Market Makers, mergulhamos em uma conversa\
@@ -568,8 +583,7 @@
   path: https://www.youtube.com/watch?v=2f1FkGQTarc
   title: 'The Builder Pattern in Python: Finally Explained!'
 - author: The Journal.
-  categories: &id004
-  - Podcasts
+  categories: *id002
   date: '2025-07-25T00:00:00+00:00'
   description: "Last week, CBS cancelled \u201CThe Late Show with Stephen Colbert.\u201D\
     \ The network said that ending the show was \u201Cpurely a financial decision.\u201D\
@@ -625,7 +639,7 @@
   path: https://www.youtube.com/watch?v=FXrcFeuYtq8
   title: 'iOS 26 Hands-On: Liquid Glass!'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-07-24T10:54:38+00:00'
   description: "<p>For global investors, the signal is clear: Africa\u2019s moment\
     \ is here. The only question is, will you be part of building it?</p>\n<p>The\
@@ -637,7 +651,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/24/private-markets-public-promise-africas-investment-inflection-point/
   title: "Private Markets, Public Promise: Africa\u2019s Investment Inflection Point"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-07-24T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, gravado durante o Investor Day\
     \ do M3Club, recebemos Rodrigo Glatt (GTI) e Stephan Kautz (EQI Asset) para um\
@@ -676,21 +690,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a687220f5a68e2b3980c7f901
   path: https://open.spotify.com/episode/4L2BJtAjYRgMWMXAUn2vjx
   title: '#237 | O MUNDO COMO CONHECEMOS ACABOU! E AGORA?'
-- author: The Journal.
-  categories: *id004
-  date: '2025-07-24T00:00:00+00:00'
-  description: "Global diamond company De Beers spent decades convincing couples that\
-    \ true love required a diamond. But now, lab-grown diamonds that are identical\
-    \ to naturally-mined ones are flooding the market with cheaper options and reshaping\
-    \ the diamond business completely. WSJ\u2019s Jenny Strasburg takes us inside\
-    \ the showdown in the diamond market, and we speak to a ring shopper weighing\
-    \ her options. Jessica Mendoza hosts.  Further Listening:-One American Company\
-    \ Taking on China's Rare-Earth Dominance-Can Pepsi Make a Comeback?-How Target\
-    \ Got Off TargetSign up for WSJ\u2019s free What\u2019s News newsletter.  Learn\
-    \ more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/3kib8uDzyilxoAvSRYN9IE
-  title: Are Diamonds Even a Luxury Anymore?
 - author: Money Talks from The Economist
   categories:
   - Podcasts
