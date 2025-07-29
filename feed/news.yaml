@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-07-28T21:57:45+00:00'
+  description: "Investidores que buscaram ap\xEAs menores devido \xE0 alta rentabilidade\
+    \ oferecida em plataformas, como Airbnb, devem ser os mais afetados; entenda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/nova-regra-limita-aluguel-por-temporada-e-afeta-mercado-de-apartamentos-compactos-em-sp/
+  title: Nova regra limita aluguel por temporada e afeta mercado de apartamentos compactos
+    em SP
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-07-28T19:53:31+00:00'
   description: "Um dos objetivos \xE9 aumentar a exposi\xE7\xE3o da Wise entre investidores\
     \ globais"
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/financas/wise-listagem-bolsa-eua/
   title: "Acionistas da Wise aprovam transfer\xEAncia de listagem para bolsa nos EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-07-28T16:54:55+00:00'
   description: "Tarifas de 50% sobre os produtos brasileiros devem come\xE7ar a valer\
@@ -18,7 +27,7 @@
   title: "Quais pa\xEDses j\xE1 fecharam acordos tarif\xE1rios com  Trump? Brasil\
     \ segue fora da lista"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-07-28T14:54:35+00:00'
   description: "Presidente do Fed, Jerome Powell, ainda est\xE1 sob intensa press\xE3\
     o de Trump"
@@ -60,15 +69,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mb6cjd/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-27T13:57:48+00:00'
-  description: "D\xE9ficits crescentes podem tirar dos Treasuries o papel de investimento\
-    \ mais seguro que existe"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investidores-globais-fogem-dos-titulos-publicos-e-mergulham-no-credito-privado/
-  title: "Com medo da d\xEDvida americana, gestores fogem de t\xEDtulos p\xFAblicos\
-    \ e mergulham no cr\xE9dito privado"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
