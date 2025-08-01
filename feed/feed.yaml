@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-01T14:51:32.923300'
+  date: '2025-08-01T15:50:46.567598'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-01T14:51:32.921543'
+  date: '2025-08-01T15:50:46.565806'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-01T14:51:32.921540'
+  date: '2025-08-01T15:50:46.565802'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-01T14:51:32.921536'
+  date: '2025-08-01T15:50:46.565797'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-01T14:51:32.921525'
+  date: '2025-08-01T15:50:46.565786'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -471,6 +471,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-08-01T15:00:26+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nPython\u2019s standard library is one of its greatest strengths, but many developers\
+    \ only scratch the surface. In this video, I explore 10 powerful and sometimes\
+    \ overlooked modules that can simplify your code, improve performance, and eliminate\
+    \ unnecessary dependencies. From dataclasses and pathlib to functools, graphlib,\
+    \ and heapq, you\u2019ll see practical, real-world examples of how to use these\
+    \ tools effectively.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/libraries.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:30 1. Toolz / PyToolz\n1:52 2. Tabulate\n2:54 3. Rich\n4:07 4. Hypothesis\n\
+    6:10 5. Pydantic-settings\n8:32 6. Httpx\n10:01 7. FastAPI-pagination\n11:51 8.\
+    \ FastStream\n13:07 9. NiceGUI\n14:35 10. Flet\n15:56 11. Reflex\n17:12 12. Textual\n\
+    18:41 13. LangGraph\n19:47 14. PydanticAI\n21:29 BONUS: Marimo\n23:42 Outro\n\n\
+    #arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/F09EK4ztG34/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=F09EK4ztG34
+  title: These Python Libraries Deserve More Attention
 - author: CFA Institute Research and Policy Center
   categories: &id004
   - CFA
@@ -662,7 +685,7 @@
   title: "Edward Yu \u2013 Bringing OTC On-Chain and the VariationalOMNI Perp Dex\
     \ (S7E18)"
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2025-07-29T18:48:19+00:00'
@@ -707,7 +730,7 @@
   path: https://theovershoot.co/p/the-us-is-not-winning-the-trade-war
   title: The U.S. Is Not "Winning the Trade War"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
+  categories: &id008
   - Economia
   date: '2025-07-29T04:17:14+00:00'
   description: "<p>Passados dois anos da privatiza\xE7\xE3o da Companhia Riograndense\
@@ -749,10 +772,7 @@
   path: https://theovershoot.co/p/the-imfs-unreasonable-external-balance
   title: The IMF's Unreasonable External Balance Benchmarks
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-07-25T15:00:10+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I show you the Builder Pattern in Python. It\u2019s a practical\
@@ -772,7 +792,7 @@
   path: https://www.youtube.com/watch?v=2f1FkGQTarc
   title: 'The Builder Pattern in Python: Finally Explained!'
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2025-07-24T17:41:59+00:00'
   description: 'Liquid glass(ish) and much more, coming to an Phone near you.
 
@@ -809,7 +829,7 @@
   path: https://www.youtube.com/watch?v=FXrcFeuYtq8
   title: 'iOS 26 Hands-On: Liquid Glass!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id007
+  categories: *id008
   date: '2025-07-23T10:34:47+00:00'
   description: "<p>Esquecemos que os tribunais existem justamente para retirar o julgamento\
     \ das ruas, onde a paix\xE3o impera. Ainda \xE9 valios\xEDssima a li\xE7\xE3o\
@@ -824,24 +844,6 @@
   path: https://braziljournal.com/opiniao-foros-e-likes-o-problema-do-calculo-politico-nas-decisoes-penais/
   title: "OPINI\xC3O. Foros e likes: o problema do c\xE1lculo pol\xEDtico nas decis\xF5\
     es penais"
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-07-18T15:00:11+00:00'
-  description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
-    \ first purchase of a website or domain using code ARJANCODES.\n\nIs SaaS dead?\
-    \ Some claim AI agents and vibe-coded micro-SaaS will replace traditional platforms.\
-    \ In this video, I break down why that\u2019s not the full story. In fact,many\
-    \ SaaS products solve much more than code. They handle regulations, partnerships,\
-    \ and compliance you can\u2019t just recreate overnight. What do you think?\n\n\
-    \U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:37 Premise\n3:09 Accounting System SaaS\n4:59 Web Hosting\n7:21\
-    \ Payment Provider SaaS\n8:20 Music Service SaaS\n9:00 What Will Happen\n12:10\
-    \ Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/70uORDj3Lzc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=70uORDj3Lzc
-  title: Is SaaS Dead? Here's a Senior Engineer's Perspective
 - author: The View From Apollo
   categories:
   - Podcasts
