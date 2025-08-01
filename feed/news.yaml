@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-01T12:32:07+00:00'
+  description: "Em conjunto, a al\xEDquota tarif\xE1ria m\xE9dia dos EUA vai subir\
+    \ para 15,2%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-eleva-tarifas/
+  title: "Com as novas tarifas, Trump remodela o com\xE9rcio global"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -50,8 +59,7 @@
   title: "O pre\xE7o da d\xFAvida: amea\xE7a de tarifa\xE7o impulsiona d\xF3lar e\
     \ derruba Ibovespa no m\xEAs"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-07-31T13:28:43+00:00'
   description: "Haddad prometeu prote\xE7\xE3o para a ind\xFAstria e o agroneg\xF3\
     cio"
@@ -59,15 +67,6 @@
   path: https://investnews.com.br/economia/brasil-vai-recorrer-tarifas-haddad/
   title: "Brasil vai recorrer da decis\xE3o sobre tarifa em inst\xE2ncias internacionais\
     \ e nos EUA, diz Haddad"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-07-31T11:34:08+00:00'
-  description: "Governo deve divulgar que quase 45% das exporta\xE7\xF5es estar\xE3\
-    o sujeitos \xE0 tarifa pr\xE9-existente de 10%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-exportacoes-eua-tarifas/
-  title: "Governo brasileiro calcula que 35,9% das exporta\xE7\xF5es aos EUA ter\xE3\
-    o tarifa de 50%"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-28T21:57:45+00:00'
