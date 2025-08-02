@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-02T20:16:00+00:00'
+  description: "Ar\xE1bia Saudita e seus parceiros pretendem adicionar 548 mil barris\
+    \ por dia para o pr\xF3ximo m\xEAs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/opep-sinaliza-expressivo-aumento-de-producao-de-petroleo-em-setembro/
+  title: "OPEP+ sinaliza expressivo aumento de produ\xE7\xE3o de petr\xF3leo em setembro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -7,8 +16,7 @@
   path: https://investnews.com.br/financas/apos-caso-banco-master-cmn-endurece-regras-sobre-risco-e-aporte-no-fgc/
   title: "Ap\xF3s caso Banco Master, CMN endurece regras sobre risco e aporte no FGC"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-01T18:07:16+00:00'
   description: "Segundo Marcelo Bacci, Vale segue analisando a eventual aquisi\xE7\
     \xE3o da Bamin"
@@ -16,15 +24,6 @@
   path: https://investnews.com.br/economia/vale-bamin/
   title: "Decis\xE3o da Vale sobre compra da Bamin depende de solu\xE7\xE3o econ\xF4\
     mica para projeto"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-01T17:37:46+00:00'
-  description: "Carta enviada ao governo brasileiro protesta contra di\xE1rias exorbitantes\
-    \ a 100 dias do evento ambiental"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cop30-na-amazonia-precos-abusivos-de-hospedagem-podem-tirar-evento-de-belem/
-  title: "COP30 na Amaz\xF4nia: pre\xE7os abusivos de hospedagem podem tirar evento\
-    \ de Bel\xE9m?"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-07-31T22:46:57+00:00'
