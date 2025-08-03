@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-03T15:38:55+00:00'
+  description: "Alta do d\xF3lar em julho est\xE1 levando alguns investidores a apostar\
+    \ em mais valoriza\xE7\xE3o nos pr\xF3ximos meses."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/investimentos/fundos-de-mercados-emergentes-mudam-de-rota-e-apostas-contra-o-dolar-perdem-espaco/
+  title: "Fundos de mercados emergentes mudam de rota, e apostas contra o d\xF3lar\
+    \ perdem espa\xE7o"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-08-02T20:16:00+00:00'
   description: "Ar\xE1bia Saudita e seus parceiros pretendem adicionar 548 mil barris\
@@ -8,15 +18,14 @@
   path: https://investnews.com.br/economia/opep-sinaliza-expressivo-aumento-de-producao-de-petroleo-em-setembro/
   title: "OPEP+ far\xE1 expressivo aumento de produ\xE7\xE3o de petr\xF3leo em setembro"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-01T22:47:31+00:00'
   description: "Mudan\xE7a entra em vigor em junho de 2026"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/apos-caso-banco-master-cmn-endurece-regras-sobre-risco-e-aporte-no-fgc/
   title: "Ap\xF3s caso Banco Master, CMN endurece regras sobre risco e aporte no FGC"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-08-01T18:07:16+00:00'
   description: "Segundo Marcelo Bacci, Vale segue analisando a eventual aquisi\xE7\
     \xE3o da Bamin"
@@ -24,12 +33,3 @@
   path: https://investnews.com.br/economia/vale-bamin/
   title: "Decis\xE3o da Vale sobre compra da Bamin depende de solu\xE7\xE3o econ\xF4\
     mica para projeto"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-07-31T22:46:57+00:00'
-  description: "Ibovespa cai mais de 4% e d\xF3lar vai aos R$ 5,60 no acumulado de\
-    \ julho"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/investimentos/o-preco-da-duvida-ameaca-de-tarifaco-impulsiona-dolar-e-derruba-ibovespa-no-mes/
-  title: "O pre\xE7o da d\xFAvida: amea\xE7a de tarifa\xE7o impulsiona d\xF3lar e\
-    \ derruba Ibovespa em julho"
