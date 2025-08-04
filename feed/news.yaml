@@ -1,6 +1,25 @@
 - author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-04T19:46:36+00:00'
+  description: Ministro afirmou ainda que o Brasil deseja ampliar parcerias com os
+    EUA
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-terras-raras-tarifas/
+  title: "Terras raras do Brasil podem entrar em acordos de coopera\xE7\xE3o com EUA,\
+    \ diz Haddad"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2025-08-04T19:37:10+00:00'
+  description: "Valor do patrim\xF4nio em bitcoins da Strategy \xE9 de mais de US$\
+    \ 71 bilh\xF5es a pre\xE7os atuais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/michael-saylor-bitcoin/
+  title: 'Michael Saylor faz sua terceira maior compra de bitcoin de todos os tempos:
+    US$ 2,46 bi'
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-08-04T18:02:08+00:00'
   description: "Apesar da desacelera\xE7\xE3o nas contrata\xE7\xF5es, a maioria das\
     \ empresas evitou demitir"
@@ -8,8 +27,7 @@
   path: https://investnews.com.br/economia/trabalho-consumo-eua/
   title: "Trabalho e consumo inst\xE1veis exp\xF5em riscos para economia dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-04T12:12:08+00:00'
   description: "O ouro dever\xE1 ser negociado entre US$ 3.300 e US$ 3.600 a on\xE7\
     a nos pr\xF3ximos tr\xEAs meses; hoje ele est\xE1 em US$ 3.000"
@@ -17,20 +35,3 @@
   path: https://investnews.com.br/financas/citi-ouro/
   title: "Analistas do Citi acreditam na valoriza\xE7\xE3o do ouro, com piora da economia\
     \ dos EUA"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-03T15:38:55+00:00'
-  description: "Alta do d\xF3lar em julho est\xE1 levando alguns investidores a apostar\
-    \ em mais valoriza\xE7\xE3o nos pr\xF3ximos meses."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/investimentos/fundos-de-mercados-emergentes-mudam-de-rota-e-apostas-contra-o-dolar-perdem-espaco/
-  title: "Impulso do d\xF3lar em julho reacende corrida de fundos emergentes pela\
-    \ moeda"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-02T20:16:00+00:00'
-  description: "Ar\xE1bia Saudita e seus parceiros pretendem adicionar 548 mil barris\
-    \ por dia para o pr\xF3ximo m\xEAs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/opep-sinaliza-expressivo-aumento-de-producao-de-petroleo-em-setembro/
-  title: "OPEP+ far\xE1 expressivo aumento de produ\xE7\xE3o de petr\xF3leo em setembro"
