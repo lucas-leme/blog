@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-04T15:51:18.806776'
+  date: '2025-08-04T18:32:17.571325'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T15:51:18.805012'
+  date: '2025-08-04T18:32:17.569528'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T15:51:18.805008'
+  date: '2025-08-04T18:32:17.569523'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T15:51:18.805004'
+  date: '2025-08-04T18:32:17.569519'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T15:51:18.804994'
+  date: '2025-08-04T18:32:17.569509'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -471,6 +471,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-08-04T17:04:08+00:00'
+  description: "<p>Uncover how idle capital distorts private equity returns and why\
+    \ measuring what\u2019s actually put to work gives investors a truer picture of\
+    \ performance.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/\"\
+    >Capital Deployment Matters: A Smarter Way to Assess PE Returns</a> appeared first\
+    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/
+  title: 'Capital Deployment Matters: A Smarter Way to Assess PE Returns'
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -483,7 +496,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-08-03T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
@@ -563,7 +576,7 @@
   path: https://www.youtube.com/watch?v=F09EK4ztG34
   title: These Python Libraries Deserve More Attention
 - author: The Journal.
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-08-01T00:00:00+00:00'
   description: "Over the last few months, President Donald Trump has struck numerous\
@@ -586,8 +599,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/thematic-investing-risk-based-perspective
   title: 'Thematic Investing: A Risk-Based Perspective'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-07-31T11:51:42+00:00'
   description: '<p>How is GenAI-generated synthetic data helping investment teams
     simulate markets, boost sentiment models, and extend insight beyond real-world
@@ -601,7 +613,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/31/how-genai-powered-synthetic-data-is-reshaping-investment-workflows/
   title: How GenAI-Powered Synthetic Data Is Reshaping Investment Workflows
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-07-31T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pelo MB | Mercado Bitcoin: https://www.mercadobitcoin.com.br/A\
     \ Faria Lima finalmente vai admitir que estava errada sobre o Bitcoin?No epis\xF3\
@@ -639,7 +651,7 @@
   path: https://open.spotify.com/episode/2Wx1qPhr1C1wmAT625Vre5
   title: "#240 | CUIDADO: ELE VAI MUDAR A SUA VIS\xC3O SOBRE BITCOIN"
 - author: The Journal.
-  categories: *id002
+  categories: *id003
   date: '2025-07-31T00:00:00+00:00'
   description: "When President Donald Trump posted that he'd been in talks with Coca-Cola,\
     \ and that the sodamaker would soon be making Coke with cane sugar, it sent the\
@@ -672,17 +684,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af81311962ed0fe392c3a2ad2
   path: https://open.spotify.com/episode/2i5zF7ISYhOL8jtI6rW9jG
   title: 'Artificial intelligentsia: an interview with the boss of Anthropic'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-07-30T13:22:12+00:00'
-  description: "<p>How over-diversification and redundant active management created\
-    \ a monstrous inefficiency in US public pension investing\u2014at taxpayers\u2019\
-    \ expense.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/07/30/frankensteins-index-fund/\"\
-    >Frankenstein\u2019s Index Fund</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
-    >CFA Institute Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/30/frankensteins-index-fund/
-  title: "Frankenstein\u2019s Index Fund"
 - author: Flirting with Models
   categories:
   - Podcasts
