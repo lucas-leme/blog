@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-04T21:29:37.933794'
+  date: '2025-08-05T00:48:30.807035'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T21:29:37.932029'
+  date: '2025-08-05T00:48:30.805269'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T21:29:37.932026'
+  date: '2025-08-05T00:48:30.805265'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T21:29:37.932022'
+  date: '2025-08-05T00:48:30.805260'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-04T21:29:37.932012'
+  date: '2025-08-05T00:48:30.805249'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo mant\xE9m-se adverso e particularmente\
@@ -472,7 +472,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/18062025
   title: "BC - Copom Ata - 271\xAA Reuni\xE3o - 17-18 junho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-08-04T17:04:08+00:00'
   description: "<p>Uncover how idle capital distorts private equity returns and why\
@@ -484,6 +484,22 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/
   title: 'Capital Deployment Matters: A Smarter Way to Assess PE Returns'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-08-04T00:00:00+00:00'
+  description: "On Friday, President Trump fired the top Bureau of Labor Statistics\
+    \ official after the government published new data showing that U.S. hiring slowed\
+    \ sharply this summer. The jobs report was the weakest in President Trump\u2019\
+    s second term. WSJ\u2019s Matt Grossman reports on the economist at the heart\
+    \ of the controversy, Erika McEntarfer, and on bigger concerns around data from\
+    \ the bureau. Jessica Mendoza hosts.  Further Listening: - Who Will Be the Next\
+    \ Fed Chair? Maybe Kevin  \u200B\u200B- Is Trump Winning His Trade War? - Is the\
+    \ Economy\u2026 OK?  Sign up for WSJ\u2019s free What\u2019s News newsletter.\
+    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/7EKpaHlHW7slqW2YHgLe6d
+  title: Trump vs. the Bureau of Labor Statistics
 - author: The Overshoot
   categories: &id005
   - Macro
@@ -496,7 +512,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-08-03T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
@@ -576,8 +592,7 @@
   path: https://www.youtube.com/watch?v=F09EK4ztG34
   title: These Python Libraries Deserve More Attention
 - author: The Journal.
-  categories: &id003
-  - Podcasts
+  categories: *id001
   date: '2025-08-01T00:00:00+00:00'
   description: "Over the last few months, President Donald Trump has struck numerous\
     \ trade deals with countries and continues to negotiate with others. The European\
@@ -599,7 +614,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/thematic-investing-risk-based-perspective
   title: 'Thematic Investing: A Risk-Based Perspective'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-07-31T11:51:42+00:00'
   description: '<p>How is GenAI-generated synthetic data helping investment teams
     simulate markets, boost sentiment models, and extend insight beyond real-world
@@ -613,7 +628,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/07/31/how-genai-powered-synthetic-data-is-reshaping-investment-workflows/
   title: How GenAI-Powered Synthetic Data Is Reshaping Investment Workflows
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-07-31T00:00:00+00:00'
   description: "Epis\xF3dio patrocinado pelo MB | Mercado Bitcoin: https://www.mercadobitcoin.com.br/A\
     \ Faria Lima finalmente vai admitir que estava errada sobre o Bitcoin?No epis\xF3\
@@ -650,20 +665,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a1097c12ed9864b113fb846c4
   path: https://open.spotify.com/episode/2Wx1qPhr1C1wmAT625Vre5
   title: "#240 | CUIDADO: ELE VAI MUDAR A SUA VIS\xC3O SOBRE BITCOIN"
-- author: The Journal.
-  categories: *id003
-  date: '2025-07-31T00:00:00+00:00'
-  description: "When President Donald Trump posted that he'd been in talks with Coca-Cola,\
-    \ and that the sodamaker would soon be making Coke with cane sugar, it sent the\
-    \ soda world into a fizz. WSJ's Laura Cooper explains why Coca-Cola and other\
-    \ sodamakers originally made the switch from sugar to high-fructose corn syrup\
-    \ and why it would be hard to go back. Annie Minoff hosts.  Further Listening:-\
-    \ \u2018It Came out of Nowhere\u2019: The Rise of Dr Pepper - Can Pepsi Make a\
-    \ Comeback?- The Fight to Kick Soda Out of Food Stamps Sign up for WSJ\u2019s\
-    \ free What\u2019s News newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/1bV2UCH2VSJ0uzqMZ6uVKR
-  title: Why Coke Isn't Getting Rid of High-Fructose Corn Syrup
 - author: Money Talks from The Economist
   categories:
   - Podcasts
