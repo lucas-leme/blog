@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-06T20:30:55.946911'
+  date: '2025-08-06T21:28:39.772449'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T20:30:55.945150'
+  date: '2025-08-06T21:28:39.770711'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T20:30:55.945146'
+  date: '2025-08-06T21:28:39.770707'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T20:30:55.945141'
+  date: '2025-08-06T21:28:39.770703'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T20:30:55.945131'
+  date: '2025-08-06T21:28:39.770692'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -449,7 +449,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-08-06T12:35:19+00:00'
   description: '<p>Explore Mike Harmon''s expert guide to financial restructuring
@@ -461,6 +461,21 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/08/06/book-review-the-financial-restructuring-tool-set/
   title: 'Book Review: The Financial Restructuring Tool Set'
+- author: The Journal.
+  categories: &id001
+  - Podcasts
+  date: '2025-08-06T00:00:00+00:00'
+  description: "Disney is grappling with how to push forward into a new AI era without\
+    \ losing control of its valuable intellectual property. WSJ\u2019s Jessica Toonkel\
+    \ takes us inside the company's complicated relationship with AI and its race\
+    \ to figure out how to leverage the new technology for maximum gain \u2013 without\
+    \ putting too much at risk. Jessica Mendoza hosts.  Further Listening: - The Download\
+    \ That Led to a Massive Hack at Disney - Disney Gets Into Gambling - Why Florida\
+    \ is Fighting with Walt Disney World Sign up for WSJ\u2019s free What\u2019s News\
+    \ newsletter.  Learn more about your ad choices. Visit megaphone.fm/adchoices"
+  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
+  path: https://open.spotify.com/episode/2whnJGLjzqGI288XFr7CWd
+  title: "Disney\u2019s Big AI Dilemma"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -527,8 +542,7 @@
   path: https://open.spotify.com/episode/2O6PaOgSRcX5IzXA0wOrJH
   title: "#242 | O QUE NINGU\xC9M FALA SOBRE O FRACASSO DA EDUCA\xC7\xC3O NO BRASIL"
 - author: The Journal.
-  categories: &id002
-  - Podcasts
+  categories: *id001
   date: '2025-08-05T00:00:00+00:00'
   description: "Dr. Marty Makary has criticized the Food and Drug Administration for\
     \ being \"captured\" by Big Food and Big Pharma. Now, the surgeon and former professor\
@@ -562,7 +576,7 @@
   title: "#166 - O novo mundo para al\xE9m do d\xF3lar com Luiz Parreiras, da Verde\
     \ Asset | Outliers InfoMoney - Expert XP 2025"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-08-04T17:04:08+00:00'
   description: "<p>Uncover how idle capital distorts private equity returns and why\
     \ measuring what\u2019s actually put to work gives investors a truer picture of\
@@ -573,21 +587,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/
   title: 'Capital Deployment Matters: A Smarter Way to Assess PE Returns'
-- author: The Journal.
-  categories: *id002
-  date: '2025-08-04T00:00:00+00:00'
-  description: "On Friday, President Trump fired the top Bureau of Labor Statistics\
-    \ official after the government published new data showing that U.S. hiring slowed\
-    \ sharply this summer. The jobs report was the weakest in President Trump\u2019\
-    s second term. WSJ\u2019s Matt Grossman reports on the economist at the heart\
-    \ of the controversy, Erika McEntarfer, and on bigger concerns around data from\
-    \ the bureau. Jessica Mendoza hosts.  Further Listening: - Who Will Be the Next\
-    \ Fed Chair? Maybe Kevin  \u200B\u200B- Is Trump Winning His Trade War? - Is the\
-    \ Economy\u2026 OK?  Sign up for WSJ\u2019s free What\u2019s News newsletter.\
-    \  Learn more about your ad choices. Visit megaphone.fm/adchoices"
-  image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
-  path: https://open.spotify.com/episode/7EKpaHlHW7slqW2YHgLe6d
-  title: Trump vs. the Bureau of Labor Statistics
 - author: The Overshoot
   categories: &id005
   - Macro
