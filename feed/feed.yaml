@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-06T12:32:03.935511'
+  date: '2025-08-06T13:47:49.043381'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T12:32:03.933769'
+  date: '2025-08-06T13:47:49.041612'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T12:32:03.933765'
+  date: '2025-08-06T13:47:49.041608'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T12:32:03.933760'
+  date: '2025-08-06T13:47:49.041604'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-06T12:32:03.933750'
+  date: '2025-08-06T13:47:49.041593'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-08-06T12:35:19+00:00'
+  description: '<p>Explore Mike Harmon''s expert guide to financial restructuring
+    tools, distressed debt, and bankruptcy strategies for investors and practitioners.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/08/06/book-review-the-financial-restructuring-tool-set/">Book
+    Review: The Financial Restructuring Tool Set</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/08/06/book-review-the-financial-restructuring-tool-set/
+  title: 'Book Review: The Financial Restructuring Tool Set'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -468,7 +481,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/08/a-check-in-on-the-mortgage-market/
   title: A Check&#8209;In on the Mortgage Market
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-08-05T00:00:00+00:00'
   description: "A escola p\xFAblica recebe bilh\xF5es e o professor ganha bem, por\
@@ -514,7 +527,7 @@
   path: https://open.spotify.com/episode/2O6PaOgSRcX5IzXA0wOrJH
   title: "#242 | O QUE NINGU\xC9M FALA SOBRE O FRACASSO DA EDUCA\xC7\xC3O NO BRASIL"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-08-05T00:00:00+00:00'
   description: "Dr. Marty Makary has criticized the Food and Drug Administration for\
@@ -549,8 +562,7 @@
   title: "#166 - O novo mundo para al\xE9m do d\xF3lar com Luiz Parreiras, da Verde\
     \ Asset | Outliers InfoMoney - Expert XP 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-08-04T17:04:08+00:00'
   description: "<p>Uncover how idle capital distorts private equity returns and why\
     \ measuring what\u2019s actually put to work gives investors a truer picture of\
@@ -562,7 +574,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/
   title: 'Capital Deployment Matters: A Smarter Way to Assess PE Returns'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-08-04T00:00:00+00:00'
   description: "On Friday, President Trump fired the top Bureau of Labor Statistics\
     \ official after the government published new data showing that U.S. hiring slowed\
@@ -588,7 +600,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-08-03T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
     \ 30 dias gr\xE1tis pra testar: https://go.adapta.org/campaign/adapta-mm-youtubeAprenda\
@@ -674,20 +686,6 @@
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/thematic-investing-risk-based-perspective
   title: 'Thematic Investing: A Risk-Based Perspective'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-07-31T11:51:42+00:00'
-  description: '<p>How is GenAI-generated synthetic data helping investment teams
-    simulate markets, boost sentiment models, and extend insight beyond real-world
-    limits?</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/07/31/how-genai-powered-synthetic-data-is-reshaping-investment-workflows/">How
-    GenAI-Powered Synthetic Data Is Reshaping Investment Workflows</a> appeared first
-    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/07/31/how-genai-powered-synthetic-data-is-reshaping-investment-workflows/
-  title: How GenAI-Powered Synthetic Data Is Reshaping Investment Workflows
 - author: Money Talks from The Economist
   categories:
   - Podcasts
