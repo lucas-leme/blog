@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-07T13:07:40+00:00'
+  description: "Trump elevou a al\xEDquota m\xE9dia para 15,2%, bem acima de 2,3%\
+    \ no ano passado - n\xEDvel mais alto desde a Segunda Guerra Mundial"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/tarifas-trump-em-vigor/
+  title: Tarifas de Trump entram em vigor e testam economia global
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -49,8 +58,7 @@
   title: "Na mira dos EUA: entenda a investiga\xE7\xE3o do Pix por poss\xEDvel pr\xE1\
     tica desleal. E o que est\xE1 em jogo"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-06T18:01:42+00:00'
   description: "Medida amea\xE7a complicar ainda mais as rela\xE7\xF5es entre os EUA\
     \ e a \xCDndia"
@@ -58,14 +66,6 @@
   path: https://investnews.com.br/economia/decreto-trump-india-tarifas/
   title: "Decreto de Trump imp\xF5e tarifa adicional de 25% sobre produtos da \xCD\
     ndia, totalizando 50%"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-06T11:24:03+00:00'
-  description: "Governo da \xCDndia achava que as taxas de importa\xE7\xE3o dos EUA\
-    \ seriam de 15%. Mas ficaram em 25%"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/negociacoes-india-eua/
-  title: "Como as negocia\xE7\xF5es comerciais entre \xCDndia e EUA fracassaram"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-08-04T19:37:10+00:00'
