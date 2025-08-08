@@ -1,3 +1,22 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-08T13:40:09+00:00'
+  description: "N\xFAmero de argentinos viajando para o exterior aumentou quase 60%\
+    \ este ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/argentinos-turismo-eua/
+  title: "Messi, Milei e Mickey Mouse est\xE3o levando mais turistas argentinos aos\
+    \ EUA"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-08T12:57:43+00:00'
+  description: "Empresas de tesouraria de ativos digitais anunciaram planos para levantar\
+    \ US$ 79 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/criptomoedas-tesouraria/
+  title: "Onda de acumula\xE7\xE3o de criptomoedas est\xE1 testando os nervos do mercado"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +59,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mkl8dj/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-07T21:03:47+00:00'
   description: "Desde a primeira vers\xE3o do tarifa\xE7o, em 2 de abril, os EUA aumentaram\
     \ as barreiras para 21 pa\xEDses \u2013 e o Brasil foi o mais atingido"
@@ -49,8 +67,7 @@
   path: https://investnews.com.br/economia/quais-paises-mais-perderam-com-a-nova-rodada-de-tarifas-de-trump/
   title: "Quais pa\xEDses mais perderam com a nova rodada de tarifas de Trump"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-07T19:09:33+00:00'
   description: "Mercado de tokeniza\xE7\xE3o do mundo real ainda \xE9 pequeno, com\
     \ um valor total de US$ 25 bilh\xF5es"
@@ -58,24 +75,6 @@
   path: https://investnews.com.br/financas/tokenizacao-auge/
   title: "Wall Street ainda n\xE3o est\xE1 mordendo a isca da tokeniza\xE7\xE3o, dizem\
     \ analistas do JPMorgan"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-07T13:07:40+00:00'
-  description: "Trump elevou a al\xEDquota m\xE9dia para 15,2%, bem acima de 2,3%\
-    \ no ano passado - n\xEDvel mais alto desde a Segunda Guerra Mundial"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifas-trump-em-vigor/
-  title: Tarifas de Trump entram em vigor e testam economia global
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-06T22:34:31+00:00'
-  description: "Representante Comercial dos EUA questiona se modelo brasileiro de\
-    \ pagamentos instant\xE2neos prejudica empresas como PayPal e Apple Pay; saiba\
-    \ o que \xE9 a investiga\xE7\xE3o do Pix"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/investigacao-do-pix-eua/
-  title: "Na mira dos EUA: entenda a investiga\xE7\xE3o do Pix por poss\xEDvel pr\xE1\
-    tica desleal. E o que est\xE1 em jogo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
