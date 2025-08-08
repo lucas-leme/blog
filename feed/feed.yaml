@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-08T14:53:58.531917'
+  date: '2025-08-08T15:53:12.813567'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-08T14:53:58.531913'
+  date: '2025-08-08T15:53:12.813563'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-08T14:53:58.531909'
+  date: '2025-08-08T15:53:12.813559'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -122,7 +122,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-08T14:53:58.531898'
+  date: '2025-08-08T15:53:12.813548'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -437,8 +437,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: CFA Institute Research and Policy Center
+- author: ArjanCodes
   categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-08-08T15:00:20+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I walk you through everything new in uv, including major improvements\
+    \ to performance, dependency management, and platform support. You\u2019ll learn\
+    \ how uv works through a hands-on demo\u2014initializing a project, installing\
+    \ and removing dependencies, syncing environments, and running code. We\u2019\
+    ll also cover the new build backend, now the default in uv 0.8.0, and explain\
+    \ what a build backend actually does.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:38 Walk-through: How uv Works (v0.8.0)\n4:34 Python\
+    \ Version and Platform Support\n5:34 Enhancements and Performance Improvements\n\
+    7:26 Bug Fixes and Quality-of-Life Improvements\n8:02 The New Build Backend\n\
+    9:26 Final thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/CJJzrtHeLGI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=CJJzrtHeLGI
+  title: UV Is Getting Better
+- author: CFA Institute Research and Policy Center
+  categories: &id005
   - CFA
   date: '2025-08-07T12:00:00+00:00'
   description: ''
@@ -618,7 +639,7 @@
   path: https://open.spotify.com/episode/2O6PaOgSRcX5IzXA0wOrJH
   title: "#242 | O QUE NINGU\xC9M FALA SOBRE O FRACASSO DA EDUCA\xC7\xC3O NO BRASIL"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-08-05T00:00:00+00:00'
   description: "As reviravoltas de Donald Trump n\xE3o tornam o dia-a-dia do mercado\
@@ -650,7 +671,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/04/capital-deployment-matters-a-smarter-way-to-assess-pe-returns/
   title: 'Capital Deployment Matters: A Smarter Way to Assess PE Returns'
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2025-08-03T22:24:16+00:00'
@@ -661,10 +682,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-08-01T15:00:26+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython\u2019s standard library is one of its greatest strengths, but many developers\
@@ -684,7 +702,7 @@
   path: https://www.youtube.com/watch?v=F09EK4ztG34
   title: Why Are Not More People Using These Python Libraries?
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-07-31T12:00:00+00:00'
   description: ''
   image: null
@@ -745,7 +763,7 @@
   path: https://www.youtube.com/watch?v=AphNalSmvlk
   title: 'iPadOS 26: Ready for Laptop Duty?'
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2025-07-29T05:52:13+00:00'
   description: Unilaterally raising costs for Americans can harm people in the rest
     of the world, but not much more than any other policy that reduces the purchasing
@@ -770,7 +788,7 @@
   path: https://braziljournal.com/opiniao-o-que-a-desestatizacao-da-corsan-ensina-a-outros-estados/
   title: "OPINI\xC3O. O que a desestatiza\xE7\xE3o da Corsan ensina a outros estados"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-07-29T00:00:00+00:00'
   description: "O Outliers InfoMoney marcou presen\xE7a na Expert XP 2025, maior festival\
     \ de neg\xF3cios do mundo que aconteceu em S\xE3o Paulo no \xFAltimo final de\
@@ -786,26 +804,6 @@
   path: https://open.spotify.com/episode/5Xzls2VRmju4HbzG91QqeE
   title: "#165 - O futuro da gest\xE3o de cr\xE9dito privado no Brasil com JiveMau\xE1\
     \ e JGP | Outliers InfoMoney - Expert XP 2025"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-07-25T15:00:10+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I show you the Builder Pattern in Python. It\u2019s a practical\
-    \ and underrated design pattern you\u2019re probably already using without realizing\
-    \ it. We\u2019ll explore how it helps you build complex objects step by step with\
-    \ a clean, fluent API, avoiding massive constructors and fragile nested dictionaries.\
-    \ You\u2019ll see a hands-on example of generating an HTML UI and learn when (and\
-    \ when not) to use this pattern.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/builder.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:49 Step 1 \u2014 The Product\n2:45 What is the Builder Pattern?\n\
-    5:05 Step 2 \u2014 The Builder\n8:16 Quick Side Note: Why not just use a big constructor?\n\
-    9:02 Step 3 \u2014 Extend builder\n11:11 Bonus \u2014 Local Viewer (Infrastructure)\n\
-    12:10 When Should You Use the Builder Pattern?\n13:55 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/2f1FkGQTarc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=2f1FkGQTarc
-  title: 'The Builder Pattern in Python: Finally Explained!'
 - author: Marques Brownlee
   categories: *id008
   date: '2025-07-24T17:41:59+00:00'
