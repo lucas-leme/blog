@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-09T15:32:49+00:00'
+  description: "Alerta das autoridades americanas fez pre\xE7os dispararem e ca\xED\
+    rem em poucas horas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/carta-eua-mercado-trilionario-ouro-tarifas/
+  title: "Como uma carta dos EUA abalou o trilion\xE1rio mercado do ouro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/financas/china-stablecoins/
   title: "China restringe promo\xE7\xE3o de stablecoins para acalmar frenesi"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-08T13:40:09+00:00'
   description: "N\xFAmero de argentinos viajando para o exterior aumentou quase 60%\
     \ este ano"
@@ -66,14 +74,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mkl8dj/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-07T21:03:47+00:00'
-  description: "Desde a primeira vers\xE3o do tarifa\xE7o, em 2 de abril, os EUA aumentaram\
-    \ as barreiras para 21 pa\xEDses \u2013 e o Brasil foi o mais atingido"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/quais-paises-mais-perderam-com-a-nova-rodada-de-tarifas-de-trump/
-  title: "Quais pa\xEDses mais perderam com a nova rodada de tarifas de Trump"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
