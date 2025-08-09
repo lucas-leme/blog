@@ -1,6 +1,16 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-08-09T19:16:48+00:00'
+  description: "Em liga\xE7\xE3o, l\xEDderes discutiram parceria estrat\xE9gica e\
+    \ poss\xEDvel resposta conjunta \xE0 tarifa de 50% imposta por Trump sobre produtos\
+    \ brasileiros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/lula-putin-reforcam-lacos-brics-tensao-eua/
+  title: "Em telefonema, Lula e Putin refor\xE7am la\xE7os no Brics em meio a tens\xE3\
+    o comercial com os EUA"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-08-09T15:32:49+00:00'
   description: "Alerta das autoridades americanas fez pre\xE7os dispararem e ca\xED\
     rem em poucas horas"
@@ -8,7 +18,7 @@
   path: https://investnews.com.br/economia/carta-eua-mercado-trilionario-ouro-tarifas/
   title: "Como uma carta dos EUA abalou o trilion\xE1rio mercado do ouro"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-08-08T19:52:03+00:00'
   description: "O plano de vender a Fannie Mae e a Freddie Mac poderia gerar US$ 500\
@@ -18,21 +28,12 @@
   title: "IPO de US$ 30 bilh\xF5es da Fannie Mae e Freddie Mac est\xE1 sendo considerado\
     \ para este ano"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-08-08T16:43:37+00:00'
   description: Medida visa controlar as stablecoins para evitar instabilidade
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/china-stablecoins/
   title: "China restringe promo\xE7\xE3o de stablecoins para acalmar frenesi"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-08T13:40:09+00:00'
-  description: "N\xFAmero de argentinos viajando para o exterior aumentou quase 60%\
-    \ este ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/argentinos-turismo-eua/
-  title: "Messi, Milei e Mickey Mouse est\xE3o levando mais turistas argentinos aos\
-    \ EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
