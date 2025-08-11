@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-11T14:03:21+00:00'
+  description: Mais de 70% da soja que o Brasil exporta tem a China como destino
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/soja-trump-china/
+  title: "Trump pressiona por mais soja americana na China e acende alerta no agroneg\xF3\
+    cio brasileiro"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mn335q/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-09T19:16:48+00:00'
   description: "Em liga\xE7\xE3o, l\xEDderes discutiram parceria estrat\xE9gica e\
     \ poss\xEDvel resposta conjunta \xE0 tarifa de 50% imposta por Trump sobre produtos\
@@ -44,14 +52,6 @@
   path: https://investnews.com.br/economia/lula-putin-reforcam-lacos-brics-tensao-eua/
   title: "Em telefonema, Lula e Putin refor\xE7am la\xE7os no Brics em meio a tens\xE3\
     o comercial com os EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-09T15:32:49+00:00'
-  description: "Alerta das autoridades americanas fez pre\xE7os dispararem e ca\xED\
-    rem em poucas horas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/carta-eua-mercado-trilionario-ouro-tarifas/
-  title: "Como uma carta dos EUA abalou o trilion\xE1rio mercado do ouro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
