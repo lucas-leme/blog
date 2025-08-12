@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-12T11:25:54.170092'
+  date: '2025-08-12T12:14:22.555074'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-12T11:25:54.168322'
+  date: '2025-08-12T12:14:22.553297'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-12T11:25:54.168318'
+  date: '2025-08-12T12:14:22.553293'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-12T11:25:54.168314'
+  date: '2025-08-12T12:14:22.553289'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-12T11:25:54.168303'
+  date: '2025-08-12T12:14:22.553278'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: CFA Institute Enterprising Investor
+- author: CFA Institute Research and Policy Center
   categories: &id002
+  - CFA
+  date: '2025-08-12T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/global-compliance-carbon-markets-structure-explained
+  title: 'Global Compliance Carbon Markets: Structure Explained'
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2025-08-11T15:59:29+00:00'
   description: '<p>Nonprofit portfolios underperform. A clear investment philosophy
@@ -522,7 +530,7 @@
   path: https://www.youtube.com/watch?v=We2ZD0-IXPM
   title: Investigating the Tesla Robotaxi!
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -557,15 +565,14 @@
   path: https://open.spotify.com/episode/0J9mNfqgdG3D1EOvx3pfDo
   title: The Game Making Baseball Fans Go Bananas
 - author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
+  categories: *id002
   date: '2025-08-07T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/explainable-ai-in-finance
   title: 'Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-08-07T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte aos outros 280 milh\xF5es de\
@@ -627,7 +634,7 @@
   path: https://open.spotify.com/episode/2hPFRA6lPNNao6642fZ21E
   title: "Stablecoins: is this crypto\u2019s big bang moment?"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-08-06T12:35:19+00:00'
   description: '<p>Explore Mike Harmon''s expert guide to financial restructuring
     tools, distressed debt, and bankruptcy strategies for investors and practitioners.</p>
@@ -639,7 +646,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/06/book-review-the-financial-restructuring-tool-set/
   title: 'Book Review: The Financial Restructuring Tool Set'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-08-05T00:00:00+00:00'
   description: "A escola p\xFAblica recebe bilh\xF5es e o professor ganha bem, por\
     \ que o resultado ainda \xE9 t\xE3o ruim?Neste epis\xF3dio 242 do Market Makers,\
@@ -715,7 +722,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-08-01T15:00:26+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython\u2019s standard library is one of its greatest strengths, but many developers\
@@ -734,13 +741,6 @@
   image: https://i3.ytimg.com/vi/F09EK4ztG34/hqdefault.jpg
   path: https://www.youtube.com/watch?v=F09EK4ztG34
   title: Why Are Not More People Using These Python Libraries?
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-07-31T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/thematic-investing-risk-based-perspective
-  title: 'Thematic Investing: A Risk-Based Perspective'
 - author: Flirting with Models
   categories:
   - Podcasts
