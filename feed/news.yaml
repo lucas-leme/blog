@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-12T21:15:49+00:00'
+  description: "D\xF3lar fechou a ter\xE7a-feira em R$ 5,387, menor cota\xE7\xE3o\
+    \ desde junho de 2024"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/inflacao-mais-suave-aqui-e-nos-eua-derruba-dolar-e-puxa-a-bolsa/
+  title: "Infla\xE7\xE3o mais suave \u2013 aqui e nos EUA \u2013 derruba d\xF3lar\
+    \ para menor n\xEDvel em 14 meses"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -6,7 +16,8 @@
     \ a pandemia"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/milei-defaults-corporativos/
-  title: Reformas cambiais de Milei geram onda de defaults corporativos
+  title: "Milei conseguiu estabilizar o d\xF3lar na Argentina, mas multiplicou os\
+    \ \u2018calotes\u2019 das empresas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -56,8 +67,7 @@
   path: https://investnews.com.br/economia/jbs-estrategia-diversificacao/
   title: "JBS deve refor\xE7ar estrat\xE9gia de diversifica\xE7\xE3o, diz CEO"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-08T19:52:03+00:00'
   description: "O plano de vender a Fannie Mae e a Freddie Mac poderia gerar US$ 500\
     \ bilh\xF5es"
@@ -65,13 +75,6 @@
   path: https://investnews.com.br/financas/ipo-fannie-mae-freddie-mac/
   title: "IPO de US$ 30 bilh\xF5es da Fannie Mae e Freddie Mac est\xE1 sendo considerado\
     \ para este ano"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-08T16:43:37+00:00'
-  description: Medida visa controlar as stablecoins para evitar instabilidade
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/china-stablecoins/
-  title: "China restringe promo\xE7\xE3o de stablecoins para acalmar frenesi"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
