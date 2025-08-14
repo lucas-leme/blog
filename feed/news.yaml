@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-14T12:36:19+00:00'
+  description: "O objetivo \xE9 reduzir os 408 milh\xF5es de metros quadrados que\
+    \ est\xE3o vagos na China"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-imoveis/
+  title: "China estuda usar estatais para salvar setor imobili\xE1rio e aliviar excesso\
+    \ de oferta"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mpq4on/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-13T16:12:09+00:00'
   description: "Programa Reintegra ser\xE1 estendido para todas empresas que exportam\
     \ para os EUA"
@@ -48,7 +57,7 @@
   title: "Plano contra tarifa\xE7o dos EUA tem linha de cr\xE9dito de R$ 30 bi, compras\
     \ do governo e suspens\xE3o de impostos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-08-13T13:12:58+00:00'
   description: "Valor total das criptomoedas j\xE1 est\xE1 em US$ 4,2 trilh\xF5es"
@@ -57,7 +66,7 @@
   title: "Criptomoedas: bitcoin e ethereum est\xE3o perto das m\xE1ximas hist\xF3\
     ricas"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-08-12T21:15:49+00:00'
   description: "D\xF3lar fechou a ter\xE7a-feira em R$ 5,387, menor cota\xE7\xE3o\
     \ desde junho de 2024"
@@ -65,15 +74,6 @@
   path: https://investnews.com.br/financas/inflacao-mais-suave-aqui-e-nos-eua-derruba-dolar-e-puxa-a-bolsa/
   title: "Infla\xE7\xE3o mais suave \u2013 aqui e nos EUA \u2013 derruba d\xF3lar\
     \ para menor n\xEDvel em 14 meses"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-12T18:57:03+00:00'
-  description: "Em 2025, a Argentina de MIlei vive o maior n\xFAmero de defaults desde\
-    \ a pandemia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-defaults-corporativos/
-  title: "Milei conseguiu estabilizar o d\xF3lar na Argentina, mas multiplicou os\
-    \ \u2018calotes\u2019 das empresas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
