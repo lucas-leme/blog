@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-14T11:26:08.582021'
+  date: '2025-08-14T12:15:00.831205'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-14T11:26:08.580264'
+  date: '2025-08-14T12:15:00.829439'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-14T11:26:08.580260'
+  date: '2025-08-14T12:15:00.829435'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-14T11:26:08.580256'
+  date: '2025-08-14T12:15:00.829430'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-14T11:26:08.580246'
+  date: '2025-08-14T12:15:00.829420'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-08-14T11:52:26+00:00'
+  description: "<p>A recente movimenta\xE7\xE3o legislativa e regulat\xF3ria nos Estados\
+    \ Unidos \u2013 envolvendo potenciais restri\xE7\xF5es a investimentos estrangeiros\
+    \ \u2013 acende um alerta para pa\xEDses e investidores que mant\xEAm rela\xE7\
+    \xF5es estreitas com o mercado americano. A possibilidade de aplica\xE7\xE3o discricion\xE1\
+    ria dessas medidas suscita preocupa\xE7\xF5es leg\xEDtimas sobre seguran\xE7a\
+    \ jur\xEDdica e previsibilidade, itens essenciais para o ambiente de neg\xF3cios\
+    \ e [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-dialogo-como-resposta-a-nova-relacao-brasil-eua/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. O di\xE1logo como resposta \xE0 nova rela\xE7\xE3\
+    o Brasil-EUA</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-dialogo-como-resposta-a-nova-relacao-brasil-eua/
+  title: "OPINI\xC3O. O di\xE1logo como resposta \xE0 nova rela\xE7\xE3o Brasil-EUA"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-08-13T22:52:42+00:00'
@@ -478,8 +495,7 @@
   path: https://www.youtube.com/watch?v=-7X5KukvABc
   title: Sports Tech I Actually Use (As a Professional Athlete)
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id009
-  - Economia
+  categories: *id001
   date: '2025-08-13T22:16:44+00:00'
   description: "<p>Liderados pelo Governador do Texas, Greg Abbott, os Republicanos\
     \ colocaram em marcha um plano para redesenhar os distritos eleitorais do estado\
@@ -494,7 +510,7 @@
   path: https://braziljournal.com/o-plano-dos-republicanos-para-redesenhar-distritos-e-vencer-em-2026/
   title: "O plano dos Republicanos para redesenhar distritos \u2013 e vencer em 2026"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-08-13T14:59:43+00:00'
   description: '<p>AI is reshaping portfolio construction. A real-world case study
@@ -528,7 +544,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/08/how-firms-spread-good-management/
   title: How Firms Spread Good Management
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-08-13T00:00:00+00:00'
   description: "QUER SER MEMBRO DO M3 CLUB? Fale com nossos atendentes. Eles v\xE3\
@@ -573,7 +589,7 @@
   title: "#244 | POR QUE AGORA PODE SER A \xDALTIMA OPORTUNIDADE PARA COMPRAR A\xC7\
     \xD5ES"
 - author: The Journal.
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
@@ -601,7 +617,7 @@
   path: https://open.spotify.com/episode/5oYTe2fKBzIsQqwH2TICvy
   title: The Asset-Backed Finance Market Is Having a Moment
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-08-12T12:00:00+00:00'
   description: ''
@@ -609,7 +625,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/global-compliance-carbon-markets-structure-explained
   title: 'Global Compliance Carbon Markets: Structure Explained'
 - author: The Journal.
-  categories: *id001
+  categories: *id002
   date: '2025-08-12T00:00:00+00:00'
   description: "Europe has mostly been spared from the synthetic opioid crisis that\
     \ has ravaged the U.S. over the past two decades. But now, a deadly new drug could\
@@ -625,7 +641,7 @@
   path: https://open.spotify.com/episode/0nZfgZqqzdQ7z96P8pPlsk
   title: The Drug You've Never Heard of Wreaking Havoc Across Europe
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-08-12T00:00:00+00:00'
   description: "Na vis\xE3o de Florian Bartunek, que \xE9 fundador, s\xF3cio e CIO\
@@ -643,7 +659,7 @@
   title: "#167 - Longevidade e estrat\xE9gia nas a\xE7\xF5es com Constellation | Outliers\
     \ InfoMoney - Expert XP 2025"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-08-11T15:59:29+00:00'
   description: '<p>Nonprofit portfolios underperform. A clear investment philosophy
     may be the key to breaking the cycle.</p>
@@ -656,7 +672,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/11/investment-philosophy-statement-a-way-out-of-the-underperformance-cycle/
   title: 'Investment Philosophy Statement: A Way out of the Underperformance Cycle?'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-08-08T23:44:20+00:00'
   description: 'I flew to Texas to take a bunch of Tesla Robotaxi and Waymo rides.
     Here''s what I found
@@ -679,7 +695,7 @@
   path: https://www.youtube.com/watch?v=We2ZD0-IXPM
   title: Investigating the Tesla Robotaxi!
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -700,14 +716,14 @@
   path: https://www.youtube.com/watch?v=CJJzrtHeLGI
   title: UV Is Getting Better
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-08-07T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/explainable-ai-in-finance
   title: 'Explainable AI in Finance: Addressing the Needs of Diverse Stakeholders'
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2025-08-07T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte aos outros 280 milh\xF5es de\
     \ usu\xE1rios agora mesmo: https://binance.onelink.me/y874/MarketMakerNo epis\xF3\
@@ -768,7 +784,7 @@
   path: https://open.spotify.com/episode/2hPFRA6lPNNao6642fZ21E
   title: "Stablecoins: is this crypto\u2019s big bang moment?"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-08-05T00:00:00+00:00'
   description: "As reviravoltas de Donald Trump n\xE3o tornam o dia-a-dia do mercado\
     \ financeiro um mar tranquilo. Tampouco a situa\xE7\xE3o macroecon\xF4mica do\
@@ -787,7 +803,7 @@
   title: "#166 - O novo mundo para al\xE9m do d\xF3lar com Luiz Parreiras, da Verde\
     \ Asset | Outliers InfoMoney - Expert XP 2025"
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-08-03T22:24:16+00:00'
@@ -798,7 +814,7 @@
   path: https://theovershoot.co/p/the-job-market-is-strong-inflation
   title: The Job Market Is Strong, Inflation Is Too Fast, and the Government Is Bananas
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2025-08-01T15:00:26+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython\u2019s standard library is one of its greatest strengths, but many developers\
@@ -846,7 +862,7 @@
   title: "Edward Yu \u2013 Bringing OTC On-Chain and the VariationalOMNI Perp Dex\
     \ (S7E18)"
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2025-07-29T05:52:13+00:00'
   description: Unilaterally raising costs for Americans can harm people in the rest
     of the world, but not much more than any other policy that reduces the purchasing
@@ -854,21 +870,6 @@
   image: https://substackcdn.com/image/fetch/$s_!FEdy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60c0eb1a-aa70-428d-8831-85cf5a9a2048_3200x3014.png
   path: https://theovershoot.co/p/the-us-is-not-winning-the-trade-war
   title: The U.S. Is Not "Winning the Trade War"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id009
-  date: '2025-07-29T04:17:14+00:00'
-  description: "<p>Passados dois anos da privatiza\xE7\xE3o da Companhia Riograndense\
-    \ de Saneamento (Corsan), uma iniciativa pioneira do Estado do Rio Grande do Sul,\
-    \ \xE9 poss\xEDvel fazer uma avalia\xE7\xE3o da desestatiza\xE7\xE3o e tamb\xE9\
-    m desse primeiro per\xEDodo de vig\xEAncia da nova concess\xE3o. \xC9 enorme a\
-    \ diferen\xE7a entre a realidade atual e aquela anterior \xE0 privatiza\xE7\xE3\
-    o: os n\xFAmeros de investimentos, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-que-a-desestatizacao-da-corsan-ensina-a-outros-estados/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O que a desestatiza\xE7\xE3o da Corsan ensina a\
-    \ outros estados</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-que-a-desestatizacao-da-corsan-ensina-a-outros-estados/
-  title: "OPINI\xC3O. O que a desestatiza\xE7\xE3o da Corsan ensina a outros estados"
 - author: Apricitas Economics
   categories: &id010
   - Macro
