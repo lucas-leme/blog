@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-15T14:50:08+00:00'
+  description: Organize seu roteiro, gastos e documentos com planilhas de viagem simples
+    e eficientes, ideais para qualquer destino
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/planilha-de-viagem/
+  title: "Planilhas de viagem: baixe modelos gratuitos ou fa\xE7a a sua"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -59,8 +68,7 @@
   path: https://investnews.com.br/financas/planilha-de-controle-financeiro-modelos-gratuitos/
   title: 'Planilhas de controle financeiro: modelos gratuitos para baixar'
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-14T12:36:19+00:00'
   description: "O objetivo \xE9 reduzir os 408 milh\xF5es de metros quadrados que\
     \ est\xE3o vagos na China"
@@ -68,15 +76,6 @@
   path: https://investnews.com.br/economia/china-imoveis/
   title: "China estuda usar estatais para salvar setor imobili\xE1rio e aliviar excesso\
     \ de oferta"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-13T16:12:09+00:00'
-  description: "Programa Reintegra ser\xE1 estendido para todas empresas que exportam\
-    \ para os EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tarifas-apoio-linhas-credito/
-  title: "Plano contra tarifa\xE7o dos EUA tem linha de cr\xE9dito de R$ 30 bi, compras\
-    \ do governo e suspens\xE3o de impostos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
