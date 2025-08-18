@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-18T18:12:11+00:00'
+  description: "Para diretor do BC, Diogo Guillen, comportamento do real tem rela\xE7\
+    \xE3o com movimento global do d\xF3lar"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/cambio-dolar/
+  title: "BC n\xE3o v\xEA anomalias no c\xE2mbio, se comparado com mercado de juros\
+    \ e bolsa de valores"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
   - "Not\xEDcias"
   date: '2025-08-18T14:18:11+00:00'
   description: "Quanto mais empresas e projetos dependerem do ethereum, mais valorizado\
@@ -64,8 +74,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mrcfo2/level_3_exam_day_megathread/
   title: Level 3 Exam Day Megathread
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-15T18:26:53+00:00'
   description: "Departamento do Tesouro dos EUA imp\xF5e novas restri\xE7\xF5es a\
     \ cr\xE9ditos fiscais utilizados por geradores de energia renov\xE1vel"
@@ -74,7 +83,7 @@
   title: "O mais recente ataque de Trump \xE0 energia limpa: reduzir isen\xE7\xF5\
     es fiscais"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
+  categories: *id003
   date: '2025-08-15T14:00:49+00:00'
   description: "A entrada de Buffett na UnitedHealth \xE9 uma garantia psicol\xF3\
     gica para muitos investidores"
@@ -82,12 +91,3 @@
   path: https://investnews.com.br/financas/buffett-acoes-unitedhealth/
   title: "Com uma \u2018ajudinha\u2019 de Warren Buffett, a\xE7\xF5es da UnitedHealth\
     \ sobem 11%"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-14T12:36:19+00:00'
-  description: "O objetivo \xE9 reduzir os 408 milh\xF5es de metros quadrados que\
-    \ est\xE3o vagos na China"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/china-imoveis/
-  title: "China estuda usar estatais para salvar setor imobili\xE1rio e aliviar excesso\
-    \ de oferta"
