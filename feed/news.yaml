@@ -1,5 +1,13 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-19T12:07:21+00:00'
+  description: "A Morat\xF3ria da Soja existia h\xE1 20 anos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/cade-moratoria-soja/
+  title: "Cade suspende acordo que vetava compra de soja produzida em \xE1reas desmatadas"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -39,8 +47,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-18T18:12:11+00:00'
   description: "Para diretor do BC, Diogo Guillen, comportamento do real tem rela\xE7\
     \xE3o com movimento global do d\xF3lar"
@@ -59,7 +66,7 @@
   title: "A nova miss\xE3o do ethereum: convencer o mercado financeiro de que ele\
     \ \xE9 mais do que uma moeda especulativa"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2025-08-15T22:24:27+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L3 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -78,15 +85,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mrcfo2/level_3_exam_day_megathread/
   title: Level 3 Exam Day Megathread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-15T18:26:53+00:00'
-  description: "Departamento do Tesouro dos EUA imp\xF5e novas restri\xE7\xF5es a\
-    \ cr\xE9ditos fiscais utilizados por geradores de energia renov\xE1vel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/energia-limpa-ataque-trump/
-  title: "O mais recente ataque de Trump \xE0 energia limpa: reduzir isen\xE7\xF5\
-    es fiscais"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id003
   date: '2025-08-15T14:00:49+00:00'
