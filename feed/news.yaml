@@ -1,13 +1,31 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-20T13:50:21+00:00'
+  description: "As pr\xF3ximas etapas incluem a san\xE7\xE3o do governador do DF Ibaneis\
+    \ Rocha e a conclus\xE3o da an\xE1lise pelo Banco Central"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/legislativo-do-df-autoriza-venda-do-banco-master-ao-brb-e-abre-caminho-para-aprovacao-do-bc/
+  title: "Legislativo do DF autoriza venda do Banco Master ao BRB e abre caminho para\
+    \ aprova\xE7\xE3o do BC"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-08-20T13:49:59+00:00'
+  description: "Controlar a entrada e a sa\xEDda de produtos \xE9 essencial para um\
+    \ bom gerenciamento dos recursos da empresa; baixe aqui planilhas prontas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/planilhas-controle-de-estoque/
+  title: "Planilha de controle de estoque: 7 modelos gr\xE1tis para baixar"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-08-19T12:07:21+00:00'
   description: "A Morat\xF3ria da Soja existia h\xE1 20 anos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/cade-moratoria-soja/
   title: "Cade suspende acordo que vetava compra de soja produzida em \xE1reas desmatadas"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -46,18 +64,8 @@
   path: https://www.reddit.com/r/CFA/comments/1mu84p9/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-18T18:12:11+00:00'
-  description: "Para diretor do BC, Diogo Guillen, comportamento do real tem rela\xE7\
-    \xE3o com movimento global do d\xF3lar"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cambio-dolar/
-  title: "BC n\xE3o v\xEA anomalias no c\xE2mbio, se comparado com mercado de juros\
-    \ e bolsa de valores"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-18T14:18:11+00:00'
   description: "Quanto mais empresas e projetos dependerem do ethereum, mais valorizado\
     \ ficar\xE1 o token"
@@ -66,7 +74,7 @@
   title: "A nova miss\xE3o do ethereum: convencer o mercado financeiro de que ele\
     \ \xE9 mais do que uma moeda especulativa"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2025-08-15T22:24:27+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L3 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -85,12 +93,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mrcfo2/level_3_exam_day_megathread/
   title: Level 3 Exam Day Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-15T14:00:49+00:00'
-  description: "A entrada de Buffett na UnitedHealth \xE9 uma garantia psicol\xF3\
-    gica para muitos investidores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/buffett-acoes-unitedhealth/
-  title: "Com uma \u2018ajudinha\u2019 de Warren Buffett, a\xE7\xF5es da UnitedHealth\
-    \ sobem 11%"
