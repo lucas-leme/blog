@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-08-19T21:27:15+00:00'
+  description: "Confira alguns modelos gratuitos e escolha a melhor op\xE7\xE3o para\
+    \ voc\xEA."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/planilha-de-investimentos/
+  title: 'Planilha de investimentos: as 7 melhores para baixar'
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -7,7 +16,7 @@
   path: https://investnews.com.br/economia/cade-moratoria-soja/
   title: "Cade suspende acordo que vetava compra de soja produzida em \xE1reas desmatadas"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -56,8 +65,7 @@
   title: "BC n\xE3o v\xEA anomalias no c\xE2mbio, se comparado com mercado de juros\
     \ e bolsa de valores"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-08-18T14:18:11+00:00'
   description: "Quanto mais empresas e projetos dependerem do ethereum, mais valorizado\
     \ ficar\xE1 o token"
@@ -66,7 +74,7 @@
   title: "A nova miss\xE3o do ethereum: convencer o mercado financeiro de que ele\
     \ \xE9 mais do que uma moeda especulativa"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2025-08-15T22:24:27+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L3 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -85,12 +93,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mrcfo2/level_3_exam_day_megathread/
   title: Level 3 Exam Day Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-15T14:00:49+00:00'
-  description: "A entrada de Buffett na UnitedHealth \xE9 uma garantia psicol\xF3\
-    gica para muitos investidores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/buffett-acoes-unitedhealth/
-  title: "Com uma \u2018ajudinha\u2019 de Warren Buffett, a\xE7\xF5es da UnitedHealth\
-    \ sobem 11%"
