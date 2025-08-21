@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2025-08-21T20:06:40+00:00'
+  description: "Confira alguns dos melhores modelos de planilha para facilitar o controle\
+    \ de suas finan\xE7as."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/planilha-de-orcamento/
+  title: "Planilha de or\xE7amento: como funciona, tipos e como montar"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -77,8 +86,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mvktw7/level_1_exam_day_megathread/
   title: Level 1 Exam Day Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2025-08-20T13:50:21+00:00'
   description: "As pr\xF3ximas etapas incluem a san\xE7\xE3o do governador do DF Ibaneis\
     \ Rocha e a conclus\xE3o da an\xE1lise pelo Banco Central"
@@ -86,12 +94,3 @@
   path: https://investnews.com.br/financas/legislativo-do-df-autoriza-venda-do-banco-master-ao-brb-e-abre-caminho-para-aprovacao-do-bc/
   title: "Legislativo do DF autoriza venda do Banco Master ao BRB e abre caminho para\
     \ aprova\xE7\xE3o do BC"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-18T14:18:11+00:00'
-  description: "Quanto mais empresas e projetos dependerem do ethereum, mais valorizado\
-    \ ficar\xE1 o token"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ethereum-mais-que-moeda/
-  title: "A nova miss\xE3o do ethereum: convencer o mercado financeiro de que ele\
-    \ \xE9 mais do que uma moeda especulativa"
