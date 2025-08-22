@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-22T14:48:55.006147'
+  date: '2025-08-22T15:48:03.017000'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-22T14:48:55.004344'
+  date: '2025-08-22T15:48:03.015199'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-22T14:48:55.004341'
+  date: '2025-08-22T15:48:03.015194'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-22T14:48:55.004336'
+  date: '2025-08-22T15:48:03.015190'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-22T14:48:55.004325'
+  date: '2025-08-22T15:48:03.015180'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,26 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-08-22T15:00:03+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nWe all have assumptions that quietly hold us back. I\u2019ve been guilty of\
+    \ this my whole career. In this video, I share a story from my startup days, how\
+    \ wrong assumptions shaped my work, and why questioning them is essential for\
+    \ growth. From coding frameworks to AI tools, we\u2019ll explore how labels and\
+    \ comfort zones limit us, and how letting go can change everything.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:33 My academia to startup story\n2:30 Assumptions\n4:02 Labels\n4:53 Survival\n\
+    5:24 What's different now and what to do\n6:20 My privilege\n7:15 A question to\
+    \ you\n\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/1THzmkEFQKA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=1THzmkEFQKA
+  title: We need to talk.
 - author: CFA Institute Enterprising Investor
   categories: &id003
   - CFA
@@ -479,7 +499,7 @@
   path: https://braziljournal.com/opiniao-o-direito-do-legislativo-de-rever-os-atos-do-executivo/
   title: "OPINI\xC3O. O direito do Legislativo de rever os atos do Executivo"
 - author: The Overshoot
-  categories: &id004
+  categories: &id005
   - Macro
   - Newsletters
   date: '2025-08-21T02:46:46+00:00'
@@ -570,7 +590,7 @@
   path: https://braziljournal.com/opiniao-menos-el-salvador-mais-chile-o-bom-combate-ao-crime-organizado/
   title: "OPINI\xC3O. Menos El Salvador, mais Chile: o bom combate ao crime organizado"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-08-20T16:01:17+00:00'
@@ -663,7 +683,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/19/adapt-to-lead-career-lessons-from-kam-shing-kwang-cfa/
   title: 'Adapt to Lead: Career Lessons from Kam Shing Kwang, CFA'
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-08-19T00:00:00+00:00'
   description: "Infla\xE7\xE3o persistente, juros elevados, aumento do endividamento\
@@ -706,10 +726,7 @@
   title: "Jeff Rosenberg \u2013 The Past, Present, and Future of Systematic Fixed\
     \ Income (S7E19)"
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2025-08-15T15:00:32+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nWant to learn\
@@ -729,7 +746,7 @@
   path: https://www.youtube.com/watch?v=EIV_ixKGPmc
   title: How to Write Great Unit Tests in Python
 - author: The Overshoot
-  categories: *id004
+  categories: *id005
   date: '2025-08-14T23:29:48+00:00'
   description: Even if we try to "look through" the impact of tariffs, which could
     be unwise, the inflationary trend remains persistently faster than before the
@@ -738,7 +755,7 @@
   path: https://theovershoot.co/p/inflation-is-moving-the-wrong-way
   title: Inflation Is Moving the Wrong Way
 - author: The Journal.
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -754,7 +771,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-08-13T22:52:42+00:00'
   description: "Yes, I am a professional ultimate frisbee player. Here's the sports\
     \ tech I actually use.\n\nEnter for free at https://geni.us/RidgeMKBHD for a chance\
@@ -802,7 +819,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/08/how-firms-spread-good-management/
   title: How Firms Spread Good Management
 - author: The Journal.
-  categories: *id006
+  categories: *id007
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
@@ -837,7 +854,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/global-compliance-carbon-markets-structure-explained
   title: 'Global Compliance Carbon Markets: Structure Explained'
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-08-12T00:00:00+00:00'
   description: "Na vis\xE3o de Florian Bartunek, que \xE9 fundador, s\xF3cio e CIO\
     \ da Constellation Asset Management, o futuro do mercado de a\xE7\xF5es passar\xE1\
@@ -853,24 +870,6 @@
   path: https://open.spotify.com/episode/7u79QDeB46RuLY9spvfnJ0
   title: "#167 - Longevidade e estrat\xE9gia nas a\xE7\xF5es com Constellation | Outliers\
     \ InfoMoney - Expert XP 2025"
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-08-08T15:00:20+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I walk you through everything new in uv, including major improvements\
-    \ to performance, dependency management, and platform support. You\u2019ll learn\
-    \ how uv works through a hands-on demo\u2014initializing a project, installing\
-    \ and removing dependencies, syncing environments, and running code. We\u2019\
-    ll also cover the new build backend, now the default in uv 0.8.0, and explain\
-    \ what a build backend actually does.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:38 Walk-through: How uv Works (v0.8.0)\n4:34 Python\
-    \ Version and Platform Support\n5:34 Enhancements and Performance Improvements\n\
-    7:26 Bug Fixes and Quality-of-Life Improvements\n8:02 The New Build Backend\n\
-    9:26 Final thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/CJJzrtHeLGI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=CJJzrtHeLGI
-  title: UV Just Got A Serious Upgrade
 - author: CFA Institute Research and Policy Center
   categories: *id009
   date: '2025-08-07T12:00:00+00:00'

@@ -1,5 +1,15 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-22T15:21:20+00:00'
+  description: "Visa alegou que decis\xE3o partiu de incertezas regulat\xF3rias sobre\
+    \ os direitos de dados dos consumidores"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/visa-abandona-open-banking/
+  title: Visa abandona Open Banking nos EUA enquanto o debate sobre acesso a dados
+    se intensifica
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -40,8 +50,7 @@
   path: https://www.reddit.com/r/CFA/comments/1mwwg0i/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-21T20:06:40+00:00'
   description: "Confira alguns dos melhores modelos de planilha para facilitar o controle\
     \ de suas finan\xE7as."
@@ -49,7 +58,7 @@
   path: https://investnews.com.br/financas/planilha-de-orcamento/
   title: "Planilha de or\xE7amento: como funciona, tipos e como montar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-08-21T12:48:02+00:00'
   description: "O excesso de petr\xF3leo vir\xE1 dos barris estocados \u200B\u200B\
@@ -59,7 +68,7 @@
   path: https://investnews.com.br/economia/petroleo-excesso-de-oferta/
   title: "Mercado de petr\xF3leo se prepara para o excesso de oferta"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-08-21T12:30:21+00:00'
   description: "Redu\xE7\xE3o de tarifa de importa\xE7\xE3o pelos EUA para 15% depende\
     \ de aprova\xE7\xE3o de nova lei tarif\xE1ria na UE"
@@ -68,7 +77,7 @@
   title: "EUA e Uni\xE3o Europeia assinam acordo, mas tarifa menor sobre autom\xF3\
     veis depende de nova legisla\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2025-08-20T17:10:28+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L1 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -87,12 +96,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1mvktw7/level_1_exam_day_megathread/
   title: Level 1 Exam Day Megathread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-20T13:50:21+00:00'
-  description: "As pr\xF3ximas etapas incluem a san\xE7\xE3o do governador do DF Ibaneis\
-    \ Rocha e a conclus\xE3o da an\xE1lise pelo Banco Central"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/legislativo-do-df-autoriza-venda-do-banco-master-ao-brb-e-abre-caminho-para-aprovacao-do-bc/
-  title: "Legislativo do DF autoriza venda do Banco Master ao BRB e abre caminho para\
-    \ aprova\xE7\xE3o do BC"
