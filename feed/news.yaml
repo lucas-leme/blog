@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-25T20:59:44+00:00'
+  description: "Chile e a Ar\xE1bia Saudita, dois importantes destinos para a carne\
+    \ de frango do Brasil, retiraram as restri\xE7\xF5es tempor\xE1rias \xE0 importa\xE7\
+    \xE3o do produto brasileiro que tinham sido impostas devido a um foco de gripe\
+    \ avi\xE1ria solucionado no primeiro semestre, de acordo com nota do Minist\xE9\
+    rio da Agricultura nesta segunda-feira. Al\xE9m dos dois pa\xEDses, Nam\xEDbia\
+    \ e [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/chile-e-a-arabia-saudita-retiram-embargo-a-carne-de-frango-do-brasil/
+  title: "Chile e a Ar\xE1bia Saudita retiram embargo \xE0 carne de frango do Brasil"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,15 +47,14 @@
   path: https://www.reddit.com/r/CFA/comments/1mzgkei/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-22T20:04:01+00:00'
   description: "BNDES j\xE1 havia liberado cr\xE9dito de R$ 30 bi para exportadores"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/governo-credito-tarifas/
   title: BNDES anuncia mais R$ 10 bi para empresas afetadas pelas tarifas dos EUA
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-08-22T18:36:58+00:00'
   description: Confira alguns modelos de planilha de fluxo de caixa para facilitar
@@ -51,7 +63,7 @@
   path: https://investnews.com.br/financas/planilha-de-fluxo-de-caixa/
   title: 'Planilha de fluxo de caixa: 5 modelos gratuitos para download'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-08-22T15:21:20+00:00'
   description: "Visa alegou que decis\xE3o partiu de incertezas regulat\xF3rias sobre\
     \ os direitos de dados dos consumidores"
@@ -59,15 +71,6 @@
   path: https://investnews.com.br/financas/visa-abandona-open-banking/
   title: Visa abandona Open Banking nos EUA enquanto o debate sobre acesso a dados
     se intensifica
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-21T12:48:02+00:00'
-  description: "O excesso de petr\xF3leo vir\xE1 dos barris estocados \u200B\u200B\
-    durante a pandemia e \xE0 expans\xE3o da produ\xE7\xE3o de v\xE1rios produtores,\
-    \ como o Brasil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petroleo-excesso-de-oferta/
-  title: "Mercado de petr\xF3leo se prepara para o excesso de oferta"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-08-20T17:10:28+00:00'
