@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-27T02:07:39.757349'
+  date: '2025-08-27T11:07:43.572191'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-27T02:07:39.755569'
+  date: '2025-08-27T11:07:43.570333'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-27T02:07:39.755566'
+  date: '2025-08-27T11:07:43.570329'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-27T02:07:39.755562'
+  date: '2025-08-27T11:07:43.570325'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-27T02:07:39.755551'
+  date: '2025-08-27T11:07:43.570314'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-08-27T09:50:51+00:00'
+  description: "<p>O Banco Central conquistou a autonomia operacional em 2021, refor\xE7\
+    ando sua blindagem contra interfer\xEAncias pol\xEDticas \u2013 mas, ao contr\xE1\
+    rio de outros bancos centrais, ainda n\xE3o possui independ\xEAncia financeira.\
+    \ A autonomia ficou pela metade. A PEC 65/23, que trata desse assunto, tramita\
+    \ no Senado e est\xE1 prestes a ser votada. O texto conta com o apoio [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/governo-emperra-pec-da-autonomia-financeira-do-bc/\"\
+    \ rel=\"nofollow\">Governo emperra PEC da autonomia financeira do BC</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/governo-emperra-pec-da-autonomia-financeira-do-bc/
+  title: Governo emperra PEC da autonomia financeira do BC
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-08-26T23:54:18+00:00'
   description: '<p>Why did puttable bonds vanish? This piece explores the gap between
@@ -485,8 +500,7 @@
   title: "#169 - Pr\xEAmio Outliers: KINEA e SPX  | Outliers InfoMoney - Expert XP\
     \ 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-08-25T22:50:59+00:00'
   description: "<p>Em 2015, quando a China enfrentou a amea\xE7a de uma retra\xE7\xE3\
     o acentuada no PIB, o pa\xEDs engendrou um gigantesco programa de incentivo ao\
@@ -607,7 +621,7 @@
   path: https://www.youtube.com/watch?v=1THzmkEFQKA
   title: We need to talk.
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-08-21T18:29:09+00:00'
   description: '<p>What a US sovereign wealth fund means for markets: state-backed
     capital reshaping risks and opportunities across key industries.</p>
@@ -619,21 +633,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/08/21/intel-tiktok-and-a-us-sovereign-wealth-fund-what-it-means-for-investors/
   title: 'Intel, TikTok, and a US Sovereign Wealth Fund: What It Means for Investors'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-08-21T09:50:58+00:00'
-  description: "<p>Muito antes de as Cortes constitucionais existirem, j\xE1 se reconhecia\
-    \ \u2013 como instrumento de limita\xE7\xE3o do poder estatal e de defesa da cidadania\
-    \ \u2013 o direito do Legislativo de rever os atos do Executivo. Na configura\xE7\
-    \xE3o contempor\xE2nea dos Estados Democr\xE1ticos de Direito, a compet\xEAncia\
-    \ do Parlamento para controlar o poder do chefe do Executivo \xE9 [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-o-direito-do-legislativo-de-rever-os-atos-do-executivo/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O direito do Legislativo de rever os atos do Executivo</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-direito-do-legislativo-de-rever-os-atos-do-executivo/
-  title: "OPINI\xC3O. O direito do Legislativo de rever os atos do Executivo"
 - author: The Overshoot
   categories: &id007
   - Macro
