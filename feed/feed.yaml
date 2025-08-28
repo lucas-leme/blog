@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-28T13:40:32.011780'
+  date: '2025-08-28T14:49:12.706338'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T13:40:32.010051'
+  date: '2025-08-28T14:49:12.704584'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T13:40:32.010047'
+  date: '2025-08-28T14:49:12.704580'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T13:40:32.010042'
+  date: '2025-08-28T14:49:12.704575'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T13:40:32.010032'
+  date: '2025-08-28T14:49:12.704565'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-08-28T13:43:23+00:00'
+  description: "<p>Numa rara investida contra o crime organizado, uma a\xE7\xE3o conjunta\
+    \ dos governos de S\xE3o Paulo e federal est\xE1 atacando frontalmente o arco\
+    \ que conecta o PCC \xE0 economia real, passando pelo mercado financeiro &#8212;\
+    \ num movimento que deve beneficiar o setor de combust\xEDveis e cujas reverbera\xE7\
+    \xF5es ainda n\xE3o s\xE3o totalmente claras.\_ A megaopera\xE7\xE3o \u201CCarbono\
+    \ Oculto\u201D [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/know-your-client-gasolina-pcc-faria-lima/\"\
+    \ rel=\"nofollow\">Know your client: Gasolina, PCC, Faria Lima</a> appeared first\
+    \ on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/know-your-client-gasolina-pcc-faria-lima/
+  title: 'Know your client: Gasolina, PCC, Faria Lima'
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-08-28T11:36:03+00:00'
   description: "<p>Stablecoins now hold hundreds of billions of dollars of US Treasuries,\
@@ -463,8 +478,7 @@
   title: "Stablecoins and Treasuries: A Fragile Funding Link Investors Can\u2019t\
     \ Ignore"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-08-27T22:44:25+00:00'
   description: "<p>Camaradas do MAGA, uni-vos! Aclamado pelo Vale do Sil\xEDcio e\
     \ Wall Street como a esperan\xE7a do capitalismo americano, Donald Trump agora\
@@ -478,7 +492,7 @@
   path: https://braziljournal.com/the-united-socialist-states-of-america-ussa/
   title: The United Socialist States of America (USSA)
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-08-27T14:12:19+00:00'
   description: "<p>From tokenized FX trades to stablecoin transfers, blockchain\u2019\
     s shift from pilot to practice is changing how capital moves across borders.</p>\n\
@@ -489,20 +503,14 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/08/27/blockchain-in-fx-and-remittances-from-pilot-to-portfolio-impact/
   title: 'Blockchain in FX and Remittances: From Pilot to Portfolio Impact'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-08-27T09:50:51+00:00'
-  description: "<p>O Banco Central conquistou a autonomia operacional em 2021, refor\xE7\
-    ando sua blindagem contra interfer\xEAncias pol\xEDticas \u2013 mas, ao contr\xE1\
-    rio de outros bancos centrais, ainda n\xE3o possui independ\xEAncia financeira.\
-    \ A autonomia ficou pela metade. A PEC 65/23, que trata desse assunto, tramita\
-    \ no Senado e est\xE1 prestes a ser votada. O texto conta com o apoio [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/governo-emperra-pec-da-autonomia-financeira-do-bc/\"\
-    \ rel=\"nofollow\">Governo emperra PEC da autonomia financeira do BC</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/governo-emperra-pec-da-autonomia-financeira-do-bc/
-  title: Governo emperra PEC da autonomia financeira do BC
+- author: CFA Institute Research and Policy Center
+  categories: &id005
+  - CFA
+  date: '2025-08-27T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/separating-positive-impact-from-warm-glow
+  title: Separating Positive Impact from Warm Glow
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -542,7 +550,7 @@
   path: https://open.spotify.com/episode/6C0WbrKZUjTIlG403sZlvb
   title: "#250 | ESQUE\xC7A TUDO O QUE VOC\xCA SABE SOBRE A BOLSA (ELA EST\xC1 MUDANDO)"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-08-26T00:00:00+00:00'
   description: "2024 foi um dos anos mais importantes da ind\xFAstria de fundos do\
@@ -652,7 +660,7 @@
   path: https://open.spotify.com/episode/4gR4AA72cKPr36G5BHQSpb
   title: "#249 | O BRASIL EST\xC1 PREPARADO PARA A NOVA ORDEM MUNDIAL?"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -672,7 +680,7 @@
   path: https://www.youtube.com/watch?v=1THzmkEFQKA
   title: We need to talk.
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-08-21T02:46:46+00:00'
@@ -734,8 +742,7 @@
   path: https://www.youtube.com/watch?v=269OsrzG3Ew
   title: 'Google Pixel 10/Pro/Fold Impressions: Magnets!'
 - author: CFA Institute Research and Policy Center
-  categories: &id009
-  - CFA
+  categories: *id005
   date: '2025-08-20T12:00:00+00:00'
   description: ''
   image: null
@@ -743,7 +750,7 @@
   title: Conversations with Frank Fabozzi, CFA, Featuring Joanne M. Hill, PhD, and
     Larry Siegel
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2025-08-19T00:00:00+00:00'
   description: "Infla\xE7\xE3o persistente, juros elevados, aumento do endividamento\
     \ global, protecionismo e guerra tarif\xE1ria: vivemos uma nova era da desglobaliza\xE7\
@@ -785,7 +792,7 @@
   title: "Jeff Rosenberg \u2013 The Past, Present, and Future of Systematic Fixed\
     \ Income (S7E19)"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-08-15T15:00:32+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nWant to learn\
@@ -805,7 +812,7 @@
   path: https://www.youtube.com/watch?v=EIV_ixKGPmc
   title: How to Write Great Unit Tests in Python
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-08-14T23:29:48+00:00'
   description: Even if we try to "look through" the impact of tariffs, which could
     be unwise, the inflationary trend remains persistently faster than before the
@@ -814,7 +821,7 @@
   path: https://theovershoot.co/p/inflation-is-moving-the-wrong-way
   title: Inflation Is Moving the Wrong Way
 - author: The Journal.
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -830,7 +837,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
@@ -856,13 +863,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afc51762c24072752605efb64
   path: https://open.spotify.com/episode/5oYTe2fKBzIsQqwH2TICvy
   title: The Asset-Backed Finance Market Is Having a Moment
-- author: CFA Institute Research and Policy Center
-  categories: *id009
-  date: '2025-08-12T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2025/global-compliance-carbon-markets-structure-explained
-  title: 'Global Compliance Carbon Markets: Structure Explained'
 - author: Apricitas Economics
   categories: &id010
   - Macro
