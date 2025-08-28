@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-28T11:24:59.134964'
+  date: '2025-08-28T12:13:50.489206'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T11:24:59.133176'
+  date: '2025-08-28T12:13:50.487418'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T11:24:59.133172'
+  date: '2025-08-28T12:13:50.487414'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T11:24:59.133168'
+  date: '2025-08-28T12:13:50.487410'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-28T11:24:59.133157'
+  date: '2025-08-28T12:13:50.487399'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-08-28T11:36:03+00:00'
+  description: "<p>Stablecoins now hold hundreds of billions of dollars of US Treasuries,\
+    \ linking crypto sentiment to safe-haven bonds and adding a new layer of risk\
+    \ for investors.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/08/28/stablecoins-and-treasuries-a-fragile-funding-link-investors-cant-ignore/\"\
+    >Stablecoins and Treasuries: A Fragile Funding Link Investors Can\u2019t Ignore</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/08/28/stablecoins-and-treasuries-a-fragile-funding-link-investors-cant-ignore/
+  title: "Stablecoins and Treasuries: A Fragile Funding Link Investors Can\u2019t\
+    \ Ignore"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-08-27T22:44:25+00:00'
   description: "<p>Camaradas do MAGA, uni-vos! Aclamado pelo Vale do Sil\xEDcio e\
@@ -464,8 +478,7 @@
   path: https://braziljournal.com/the-united-socialist-states-of-america-ussa/
   title: The United Socialist States of America (USSA)
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-08-27T14:12:19+00:00'
   description: "<p>From tokenized FX trades to stablecoin transfers, blockchain\u2019\
     s shift from pilot to practice is changing how capital moves across borders.</p>\n\
@@ -477,7 +490,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/27/blockchain-in-fx-and-remittances-from-pilot-to-portfolio-impact/
   title: 'Blockchain in FX and Remittances: From Pilot to Portfolio Impact'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-08-27T09:50:51+00:00'
   description: "<p>O Banco Central conquistou a autonomia operacional em 2021, refor\xE7\
     ando sua blindagem contra interfer\xEAncias pol\xEDticas \u2013 mas, ao contr\xE1\
@@ -528,18 +541,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5d710e72b3c071f4338cb46c
   path: https://open.spotify.com/episode/6C0WbrKZUjTIlG403sZlvb
   title: "#250 | ESQUE\xC7A TUDO O QUE VOC\xCA SABE SOBRE A BOLSA (ELA EST\xC1 MUDANDO)"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-08-26T23:54:18+00:00'
-  description: '<p>Why did puttable bonds vanish? This piece explores the gap between
-    rights and power, and why markets rejected a contract without control.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/08/26/rights-without-power-why-the-put-bond-failed/">Rights
-    Without Power: Why the Put Bond Failed</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/08/26/rights-without-power-why-the-put-bond-failed/
-  title: 'Rights Without Power: Why the Put Bond Failed'
 - author: Outliers
   categories: &id005
   - Podcasts
