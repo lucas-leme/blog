@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-29T18:31:19.396188'
+  date: '2025-08-29T20:28:05.648106'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-29T18:31:19.394404'
+  date: '2025-08-29T20:28:05.646172'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-29T18:31:19.394401'
+  date: '2025-08-29T20:28:05.646167'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-29T18:31:19.394396'
+  date: '2025-08-29T20:28:05.646160'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-29T18:31:19.394385'
+  date: '2025-08-29T20:28:05.646146'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,63 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: ArjanCodes
+- author: Marques Brownlee
   categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-08-29T18:43:10+00:00'
+  description: 'The Pixel 10 is right where it''s always been.
+
+
+    Get 10% off a Ridge Magnetic Power Bank at https://geni.us/pcsRTe
+
+
+    Pixel 10: https://geni.us/JbB7l
+
+    Pixel 10 Pro: https://geni.us/tsJYj
+
+    Pixel 10 Pro XL: https://geni.us/jjE7bz2
+
+
+    Auto Focus channel: http://youtube.com/AutoFocus
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by Google for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Intro
+
+    2:32 What''s Actually New
+
+    3:57 Let''s Talk Tensor
+
+    8:17 Pixel Snap is Dope
+
+    9:30 Cameras and Software
+
+    17:14 The Good News'
+  image: https://i2.ytimg.com/vi/i63u-iAnhuk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=i63u-iAnhuk
+  title: 'Pixel 10/Pro Review: Good News and Bad News!'
+- author: ArjanCodes
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -663,9 +718,7 @@
   title: "#169 - Pr\xEAmio Outliers: KINEA e SPX  | Outliers InfoMoney - Expert XP\
     \ 2025"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2025-08-25T21:18:02+00:00'
   description: 'That terrible Google event and the battle of switching cost...
 
@@ -713,7 +766,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/08/are-financial-markets-good-predictors-of-r-star/
   title: Are Financial Markets Good Predictors of R&#8209;Star?
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-08-22T15:00:03+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWe all have assumptions that quietly hold us back. I\u2019ve been guilty of\
@@ -740,42 +793,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Y5GT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f3799fc-5fd2-4ba2-906e-557b91e00dd9_3200x3030.png
   path: https://theovershoot.co/p/the-macro-impact-of-ai-on-gdp
   title: The Macro Impact of AI on GDP
-- author: Marques Brownlee
-  categories: *id005
-  date: '2025-08-20T16:01:17+00:00'
-  description: 'Pixel 10 is finally here - it''s more flagship, but mostly still very
-    Pixel.
-
-
-    Save 42% with code MKBHD at checkout when you bundle a Prism 2.0 and Ghost case
-    for the Pixel 10 with dbrand at http://dbrand.com/pixel-10
-
-
-    Google Pixel 10: https://geni.us/JbB7l
-
-    Google Pixel 10 Pro: https://geni.us/tsJYj
-
-    Google Pixel 10 Pro XL: https://geni.us/jjE7bz2
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/269OsrzG3Ew/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=269OsrzG3Ew
-  title: 'Google Pixel 10/Pro/Fold Impressions: Magnets!'
 - author: CFA Institute Research and Policy Center
   categories: *id006
   date: '2025-08-20T12:00:00+00:00'
