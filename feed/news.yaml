@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2025-08-30T17:29:48+00:00'
+  description: "O ataque foi confirmado pela Sinqia, mas a empresa n\xE3o citou valores"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/hackers-roubam-r-400-milhoes-do-hsbc-no-brasil/
+  title: "Hackers roubam R$ 400 milh\xF5es do HSBC no Brasil"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -80,20 +88,10 @@
   path: https://www.reddit.com/r/CFA/comments/1n1q5w9/level_2_exam_day_megathread/
   title: Level 2 Exam Day Megathread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2025-08-22T18:36:58+00:00'
   description: Confira alguns modelos de planilha de fluxo de caixa para facilitar
     o controle financeiro.
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/planilha-de-fluxo-de-caixa/
   title: 'Planilha de fluxo de caixa: 5 modelos gratuitos para download'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-08-22T15:21:20+00:00'
-  description: "Visa alegou que decis\xE3o partiu de incertezas regulat\xF3rias sobre\
-    \ os direitos de dados dos consumidores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/visa-abandona-open-banking/
-  title: Visa abandona Open Banking nos EUA enquanto o debate sobre acesso a dados
-    se intensifica
