@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-08-30T21:25:41.196483'
+  date: '2025-08-31T00:48:20.756582'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-30T21:25:41.194730'
+  date: '2025-08-31T00:48:20.754828'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-30T21:25:41.194726'
+  date: '2025-08-31T00:48:20.754825'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-30T21:25:41.194721'
+  date: '2025-08-31T00:48:20.754820'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-08-30T21:25:41.194711'
+  date: '2025-08-31T00:48:20.754810'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2025-08-30T22:48:50+00:00'
+  description: Suborning the central bank will obviously have implications for monetary
+    policy. But the power that could be exercised via regulatory and supervisory control
+    of the banking system is even greater.
+  image: https://substackcdn.com/image/fetch/$s_!A_Mu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F068edcd1-de6e-4c24-85bf-73f395f07cf3_3200x2945.png
+  path: https://theovershoot.co/p/what-is-the-federal-reserve-endgame
+  title: What is the Federal Reserve Endgame?
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -650,7 +661,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/08/27/blockchain-in-fx-and-remittances-from-pilot-to-portfolio-impact/
   title: 'Blockchain in FX and Remittances: From Pilot to Portfolio Impact'
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-08-27T12:00:00+00:00'
   description: ''
@@ -695,7 +706,7 @@
   path: https://open.spotify.com/episode/6C0WbrKZUjTIlG403sZlvb
   title: "#250 | ESQUE\xC7A TUDO O QUE VOC\xCA SABE SOBRE A BOLSA (ELA EST\xC1 MUDANDO)"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-08-26T00:00:00+00:00'
   description: "2024 foi um dos anos mais importantes da ind\xFAstria de fundos do\
@@ -783,9 +794,7 @@
   path: https://www.youtube.com/watch?v=1THzmkEFQKA
   title: We need to talk.
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2025-08-21T02:46:46+00:00'
   description: Even if the underlying technology turned out to be mostly useless,
     the spending occurring right now is massive. And it may not be fully captured
@@ -794,7 +803,7 @@
   path: https://theovershoot.co/p/the-macro-impact-of-ai-on-gdp
   title: The Macro Impact of AI on GDP
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-08-20T12:00:00+00:00'
   description: ''
   image: null
@@ -802,7 +811,7 @@
   title: Conversations with Frank Fabozzi, CFA, Featuring Joanne M. Hill, PhD, and
     Larry Siegel
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-08-19T00:00:00+00:00'
   description: "Infla\xE7\xE3o persistente, juros elevados, aumento do endividamento\
     \ global, protecionismo e guerra tarif\xE1ria: vivemos uma nova era da desglobaliza\xE7\
@@ -843,15 +852,6 @@
   path: https://open.spotify.com/episode/3oS9cVlhZIENi17nVp7mfp
   title: "Jeff Rosenberg \u2013 The Past, Present, and Future of Systematic Fixed\
     \ Income (S7E19)"
-- author: The Overshoot
-  categories: *id008
-  date: '2025-08-14T23:29:48+00:00'
-  description: Even if we try to "look through" the impact of tariffs, which could
-    be unwise, the inflationary trend remains persistently faster than before the
-    pandemic, and possibly faster than in 2024.
-  image: https://substackcdn.com/image/fetch/$s_!LNsp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0cecfe14-651b-4d08-a4d3-e588ffb68639_3200x3040.png
-  path: https://theovershoot.co/p/inflation-is-moving-the-wrong-way
-  title: Inflation Is Moving the Wrong Way
 - author: The Journal.
   categories: &id009
   - Podcasts
