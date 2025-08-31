@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-08-31T12:21:38+00:00'
+  description: "Decis\xE3o de tribunal mant\xE9m cobran\xE7as em vigor enquanto durar\
+    \ o processo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/impasse-judicial-sobre-tarifas-causa-confusao-entre-parceiros-comerciais-dos-eua/
+  title: "Impasse judicial sobre tarifas causa confus\xE3o entre parceiros comerciais\
+    \ dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -7,8 +17,7 @@
   path: https://investnews.com.br/financas/hackers-roubam-r-400-milhoes-do-hsbc-no-brasil/
   title: "Hackers roubam R$ 400 milh\xF5es do HSBC no Brasil"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-08-30T14:24:18+00:00'
   description: "Presidente dos EUA vem ampliando a ofensiva contra advers\xE1rios\
     \ e at\xE9 integrantes do pr\xF3prio governo"
@@ -16,16 +25,6 @@
   path: https://investnews.com.br/economia/verao-da-vinganca-de-trump-traz-riscos-que-o-mercado-ainda-nao-colocou-nos-precos/
   title: "Ver\xE3o da vingan\xE7a de Trump traz riscos que o mercado ainda n\xE3o\
     \ colocou nos pre\xE7os"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-08-29T22:41:23+00:00'
-  description: "Apela\xE7\xF5es apontam uso indevido de lei de emerg\xEAncia de 1977\
-    \ para justificar sobretaxas. Casa Branca diz que derrubar tarifas seria um \u201C\
-    desastre total\u201D para os EUA"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/justica-dos-eua-diz-que-tarifas-de-trump-sao-ilegais-mas-decisao-final-cabera-a-suprema-corte/
-  title: "Justi\xE7a dos EUA diz que tarifas de Trump s\xE3o ilegais, mas decis\xE3\
-    o final caber\xE1 \xE0 Suprema Corte"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
