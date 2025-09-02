@@ -1,3 +1,17 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-02T18:38:47+00:00'
+  description: "No emaranhado de n\xFAmeros mais fracos referentes ao PIB do segundo\
+    \ trimestre, um setor nada sexy acabou se destacando: a ind\xFAstria extrativa.\
+    \ \xC9 a\xED que est\xE3o reunidas as ind\xFAstrias de petr\xF3leo, g\xE1s natural\
+    \ e minera\xE7\xE3o &#8211; que contempla desde min\xE9rio de ferro at\xE9 os\
+    \ metais preciosos. Estamos falando, portanto, de um setor onde atuam gigantes\
+    \ [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/com-pre-sal-e-minerio-industria-extrativa-ganha-protagonismo-no-pib/
+  title: "Petr\xF3leo, min\xE9rio e ouro: quem destoou (para melhor) dentro do resultado\
+    \ fraco do PIB no Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +31,7 @@
   title: "Brasil volta a vender t\xEDtulos soberanos: ano \xE9 o mais movimentado\
     \ desde 2014"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-02T12:54:59+00:00'
   description: "Infla\xE7\xE3o segue estagnada acima da meta e a ansiedade aumenta\
     \ com a guerra comercial de Trump"
@@ -66,15 +79,6 @@
   path: https://www.reddit.com/r/CFA/comments/1n69opj/expand_your_network_and_resources_with_rcfa_join/
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-01T17:44:31+00:00'
-  description: "Ouro e prata mais do que dobraram de valor nos \xFAltimos tr\xEAs\
-    \ anos, impulsionados pelos crescentes riscos geopol\xEDticos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ouro-prata-precos-juros/
-  title: 'Rali dos metais: Ouro e prata sobem com aposta em queda dos juros nos Estados
-    Unidos'
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-08-27T19:10:50+00:00'
