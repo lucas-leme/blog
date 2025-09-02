@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-02T02:08:36.507179'
+  date: '2025-09-02T11:07:42.929001'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-02T02:08:36.505408'
+  date: '2025-09-02T11:07:42.927232'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-02T02:08:36.505405'
+  date: '2025-09-02T11:07:42.927228'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-02T02:08:36.505400'
+  date: '2025-09-02T11:07:42.927224'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-02T02:08:36.505390'
+  date: '2025-09-02T11:07:42.927213'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,45 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: Market Makers
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-09-02T09:50:38+00:00'
+  description: "<p>Num pa\xEDs onde o Fisco e os contribuintes vivem em p\xE9 de guerra,\
+    \ o combate \xE0 sonega\xE7\xE3o contumaz \xE9 um raro consenso em termos tribut\xE1\
+    rios. A sonega\xE7\xE3o \u2013 que n\xE3o se confunde com o inadimplemento circunstancial\
+    \ de tributos \u2013 subtrai valores importantes da economia, prejudica sobremaneira\
+    \ a arrecada\xE7\xE3o tribut\xE1ria e provoca uma concorr\xEAncia desleal desregulando\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-a-curiosa-tolerancia-com-o-devedor-contumaz/\"\
+    \ rel=\"nofollow\">OPINI\xC3O.\_A curiosa toler\xE2ncia com o devedor contumaz</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-a-curiosa-tolerancia-com-o-devedor-contumaz/
+  title: "OPINI\xC3O.\_A curiosa toler\xE2ncia com o devedor contumaz"
+- author: Flirting with Models
+  categories:
+  - Podcasts
+  - Quant
+  date: '2025-09-02T00:00:00+00:00'
+  description: "In this episode, I speak with Chris Carrano, Vice President of Strategic\
+    \ Research at Venn by Two Sigma.Chris has had a rare vantage point in the world\
+    \ of factors \u2014 spanning smart beta, long/short hedge funds, and risk modeling\
+    \ \u2014 and that experience has shaped a thoughtful view of what factors really\
+    \ are and how they can be practically used.We dive into the philosophy and design\
+    \ behind Venn: why it uses just 18 orthogonalized factors, how it blends Lasso\
+    \ and OLS to reduce overfitting, and why it prioritizes interpretability over\
+    \ complexity.We also tackle messy real-world challenges: how to analyze private\
+    \ markets with sparse data, how to trust synthetic return streams, and where to\
+    \ draw the line when using monthly snapshots that embed structural portfolio shifts.Finally,\
+    \ we explore what it means to make factor results actionable\u2014whether through\
+    \ stress testing, residual interpretation, or portfolio diagnostics.Please enjoy\
+    \ my conversation with Chris Carrano."
+  image: https://i.scdn.co/image/ab6765630000ba8ad1ebe70bd0cc265cd4220c91
+  path: https://open.spotify.com/episode/6z65mdwaXLHUjbTmxEIJIv
+  title: "Chris Carrano \u2013\_Designing Practical Factor Models (S7E20)"
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2025-08-31T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte aos outros 280 milh\xF5es de\
@@ -579,10 +616,9 @@
     \ #python"
   image: https://i2.ytimg.com/vi/-WB0T0XmDrY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-WB0T0XmDrY
-  title: 'PydanticAI: the AI Agent Framework Winner'
+  title: 'AI Agents Made Simple: PydanticAI Explained'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-08-28T13:43:23+00:00'
   description: "<p>Numa rara investida contra o crime organizado, uma a\xE7\xE3o conjunta\
     \ dos governos de S\xE3o Paulo e federal est\xE1 atacando frontalmente o arco\
@@ -610,7 +646,7 @@
   title: "Stablecoins and Treasuries: A Fragile Funding Link Investors Can\u2019t\
     \ Ignore"
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-08-28T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
     O DE GRANDES FORTUNAS: https://lp.mmakers.com.br/market-makers-legend?xpromo=MI-LEGEND-YT-DESCRICAO-EPISODIO251-20250828-POSTUNICOSOBRELEGEND-MM-XUSE\
@@ -674,20 +710,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a0fc811c89a36433a888b5d7b
   path: https://open.spotify.com/episode/4AzDm0lwSpxN7qQH3SNnj5
   title: "Gone fishing: our economics editor\u2019s Jackson Hole diary"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-08-27T22:44:25+00:00'
-  description: "<p>Camaradas do MAGA, uni-vos! Aclamado pelo Vale do Sil\xEDcio e\
-    \ Wall Street como a esperan\xE7a do capitalismo americano, Donald Trump agora\
-    \ promove o investimento estatal em ind\xFAstrias \u2018estrat\xE9gicas\u2019\
-    \ \u2013 seguindo o playbook do capitalismo m\xE1gico latino-americano.\_ O governo\
-    \ dos EUA ser\xE1 o maior acionista da Intel, com uma participa\xE7\xE3o de 10%\
-    \ no capital, depois de [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/the-united-socialist-states-of-america-ussa/\"\
-    \ rel=\"nofollow\">The United Socialist States of America (USSA)</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/the-united-socialist-states-of-america-ussa/
-  title: The United Socialist States of America (USSA)
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2025-08-27T14:12:19+00:00'
@@ -829,32 +851,6 @@
   path: https://open.spotify.com/episode/1tnJKSQymkOyGnQ8X6J0Eh
   title: '#168 - Wichmann e Eduardo Lopes, CIOs da XP e da Jubarte: riscos e oportunidades
     | Outliers InfoMoney - Expert XP 2025'
-- author: Flirting with Models
-  categories:
-  - Podcasts
-  - Quant
-  date: '2025-08-18T00:00:00+00:00'
-  description: "In this episode I speak with Jeffrey Rosenberg, Managing Director\
-    \ at BlackRock where he leads active and factor investments for mutual funds,\
-    \ ETFs, and institutional portfolios for the Systematic Fixed Income team.In the\
-    \ first half of the conversation we discuss the history of quant fixed income.\_\
-    Specifically, its evolution within the halls of sell-side institutions and how\
-    \ solutions were shaped by demand for underwriting, securitization, and derivatives.We\
-    \ then make the leap to the buyside, where Jeff outlines the topology of systematic\
-    \ fixed income solutions at BlackRock.\_We quickly dive into the details, discussing\
-    \ topics such as: why factor investing exists predominately in the credit space,\
-    \ why characteristic specificity within the fixed income space is so important,\
-    \ why quant fixed income needs more PMs but fewer researchers than quant equity,\
-    \ how ETFs changed the liquidity landscape, and whether the equity pod-shop model\
-    \ is possible for fixed income. \_What ultimately becomes clear, through both\
-    \ explanation and example, is that while the terms and ideas of systematic fixed\
-    \ income will be familiar to those in the quant equity space, the Devil lies deeply\
-    \ in the details of implementation.I hope you enjoy my conversation with Jeff\
-    \ Rosenberg."
-  image: https://i.scdn.co/image/ab6765630000ba8ab5b30800fc2775fd57e21c47
-  path: https://open.spotify.com/episode/3oS9cVlhZIENi17nVp7mfp
-  title: "Jeff Rosenberg \u2013 The Past, Present, and Future of Systematic Fixed\
-    \ Income (S7E19)"
 - author: The Journal.
   categories: &id009
   - Podcasts
