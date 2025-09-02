@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-02T12:54:59+00:00'
+  description: "Infla\xE7\xE3o segue estagnada acima da meta e a ansiedade aumenta\
+    \ com a guerra comercial de Trump"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/juros-altos-economia/
+  title: "Economia brasileira cresce 0,4% no 2\xBA trimestre, puxada por servi\xE7\
+    os e ind\xFAstria"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-02T09:00:00+00:00'
   description: "O melhor lugar para ganhar dinheiro em moeda forte, at\xE9 agora,\
@@ -49,8 +59,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-01T17:44:31+00:00'
   description: "Ouro e prata mais do que dobraram de valor nos \xFAltimos tr\xEAs\
     \ anos, impulsionados pelos crescentes riscos geopol\xEDticos"
@@ -59,22 +68,13 @@
   title: 'Rali dos metais: Ouro e prata sobem com aposta em queda dos juros nos Estados
     Unidos'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-01T16:52:13+00:00'
   description: "Token da fam\xEDlia Trump chegou a cair 16,5% no primeiro dia de negocia\xE7\
     \xE3o"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/tokens-trump/
   title: "Tokens da fam\xEDlia Trump come\xE7am a ser negociados"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-08-31T16:19:14+00:00'
-  description: "Motoristas indianos foram as redes sociais protestar contra decis\xE3\
-    o de misturar 20% de \xE1lcool no combust\xEDvel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mistura-de-etanol-e-gasolina-na-india-vai-parar-no-tribunal-apos-noticias-falsas/
-  title: "Mistura de etanol e gasolina na \xCDndia vai parar no tribunal ap\xF3s not\xED\
-    cias falsas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-08-27T19:10:50+00:00'
