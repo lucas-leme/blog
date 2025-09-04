@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-04T14:08:33+00:00'
+  description: "Fed \xE9 alvo do presidente americano Donald Trump, que tenta impor\
+    \ sua vontade sobre o banco central e pressiona por cortes nos juros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/fed-investidores-eua/
+  title: "Aumenta o temor de investidores dos EUA sobre a redu\xE7\xE3o da independ\xEA\
+    ncia do Fed"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1n806l3/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-03T19:49:28+00:00'
   description: "A Petrobras est\xE1 oferecendo t\xEDtulos com vencimento para cinco\
     \ e dez anos"
@@ -47,14 +56,6 @@
   path: https://investnews.com.br/financas/petrobras-titulos-de-divida/
   title: "Petrobras quebra jejum e se junta \xE0 onda global de emiss\xE3o de t\xED\
     tulos de d\xEDvida"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-09-03T18:23:46+00:00'
-  description: "Um grande impulsionador do rali s\xE3o os investidores chineses de\
-    \ varejo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/acoes-chinesas-rali/
-  title: "Para Goldman, rali das a\xE7\xF5es chinesas tem espa\xE7o para continuar"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
