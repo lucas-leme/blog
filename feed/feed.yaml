@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-05T14:48:22.307669'
+  date: '2025-09-05T15:48:21.000709'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T14:48:22.305924'
+  date: '2025-09-05T15:48:20.998959'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T14:48:22.305920'
+  date: '2025-09-05T15:48:20.998955'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T14:48:22.305916'
+  date: '2025-09-05T15:48:20.998951'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T14:48:22.305905'
+  date: '2025-09-05T15:48:20.998941'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-09-05T15:01:14+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nPython\u2019s standard library is one of its greatest strengths, but many developers\
+    \ only scratch the surface. In this video, we explore 10 powerful and sometimes\
+    \ overlooked modules that can simplify your code, improve performance, and eliminate\
+    \ unnecessary dependencies.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/standard.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:37 Dataclasses \u2013 Less Boilerplate, More Clarity\n2:32 Pathlib\
+    \ \u2013 Modern File Paths\n3:49 Functools \u2013 Caching and Higher-Order Functions\n\
+    5:57 Tomllib \u2013 Parsing TOML Configs\n7:00 Graphlib \u2013 Topological Sorting\
+    \ for Dependencies\n8:06 Heapq \u2013 Dynamic Priority Queues in Action\n10:04\
+    \ Secrets \u2013 Cryptographically Secure Random Numbers\n11:12 Shutil \u2013\
+    \ High-Level File Operations\n12:39 Textwrap \u2013 Formatting Text Neatly\n13:29\
+    \ Itertools \u2013 Powerful Iterators and Combinations\n15:20 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/eZ9RqnkJxsk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eZ9RqnkJxsk
+  title: 10 Standard Library Modules That Make Python Insanely Powerful
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -719,10 +743,7 @@
   path: https://www.youtube.com/watch?v=i63u-iAnhuk
   title: 'Pixel 10/Pro Review: Good News and Bad News!'
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-08-29T15:00:00+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nPydantic AI\
@@ -742,7 +763,7 @@
     \ #python"
   image: https://i2.ytimg.com/vi/-WB0T0XmDrY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-WB0T0XmDrY
-  title: 'AI Agents Made Simple: PydanticAI Explained'
+  title: 'PydanticAI: the AI Agent Framework Winner'
 - author: CFA Institute Research and Policy Center
   categories: &id007
   - CFA
@@ -774,23 +795,6 @@
   path: https://open.spotify.com/episode/6EUYmy2DdLEK4GmnxBMjKc
   title: "#169 - Pr\xEAmio Outliers: KINEA e SPX  | Outliers InfoMoney - Expert XP\
     \ 2025"
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-08-22T15:00:03+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nWe all have assumptions that quietly hold us back. I\u2019ve been guilty of\
-    \ this my whole career. In this video, I share a story from my startup days, how\
-    \ wrong assumptions shaped my work, and why questioning them is essential for\
-    \ growth. From coding frameworks to AI tools, we\u2019ll explore how labels and\
-    \ comfort zones limit us, and how letting go can change everything.\n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
-    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:33 My academia to startup story\n2:30 Assumptions\n4:02 Labels\n4:53 Survival\n\
-    5:24 What's different now and what to do\n6:20 My privilege\n7:15 A question to\
-    \ you\n\n\n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/1THzmkEFQKA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=1THzmkEFQKA
-  title: We need to talk.
 - author: The Overshoot
   categories: *id006
   date: '2025-08-21T02:46:46+00:00'
