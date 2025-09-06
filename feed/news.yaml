@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-06T20:51:56+00:00'
+  description: "Alian\xE7a liderada por Ar\xE1bia Saudita e R\xFAssia deve liberar\
+    \ 137 mil barris de petr\xF3leo por dia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/opep-producao-petroleo-outubro-2025/
+  title: "Opep+ deve reverter cortes e aumentar produ\xE7\xE3o petr\xF3leo j\xE1 em\
+    \ outubro"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-05T20:28:35+00:00'
   description: "FGC atua para garantir o ressarcimento dos investimentos em casos\
@@ -9,8 +19,7 @@
   title: "FGC: Como funciona a prote\xE7\xE3o dos seus investimentos e quando ela\
     \ \xE9 acionada"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-05T13:40:07+00:00'
   description: "Valor da barra subiu mais de 1%, atingindo uma nova m\xE1xima hist\xF3\
     rica de US$ 3.586,82 a on\xE7a"
@@ -18,7 +27,7 @@
   path: https://investnews.com.br/economia/ouro-recorde-historico/
   title: "Desemprego maior nos EUA empurra o ouro ao recorde hist\xF3rico"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-05T09:00:00+00:00'
   description: "JP Morgan testa um sistema para evitar que seus gestores de portf\xF3\
     lio percam a pr\xF3xima Nvidia. Veja mais iniciativas"
@@ -66,16 +75,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1n8vark/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-04T20:12:26+00:00'
-  description: "Ex-presidente do BC alerta que, diante da escalada da d\xEDvida, a\
-    \ conta sempre chega \u2014 seja via infla\xE7\xE3o, aumento de impostos ou desorganiza\xE7\
-    \xE3o do mercado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/campos-neto-ajuste-fiscal-governo/
-  title: "Campos Neto: Sem cortes, governo ter\xE1 de enfrentar ajuste fiscal em condi\xE7\
-    \xF5es piores"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-08-27T19:10:50+00:00'
