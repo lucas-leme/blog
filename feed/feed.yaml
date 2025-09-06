@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-05T21:26:12.004327'
+  date: '2025-09-06T00:48:08.395778'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T21:26:12.002576'
+  date: '2025-09-06T00:48:08.394031'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T21:26:12.002572'
+  date: '2025-09-06T00:48:08.394027'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T21:26:12.002568'
+  date: '2025-09-06T00:48:08.394023'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-05T21:26:12.002557'
+  date: '2025-09-06T00:48:08.394013'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2025-09-05T23:25:14+00:00'
+  description: Everything is tech! See if you can spot it...
+  image: https://i1.ytimg.com/vi/XUdic3Mwd2k/hqdefault.jpg
+  path: https://www.youtube.com/shorts/XUdic3Mwd2k
+  title: This NFL Tech is Hidden in Plain Sight
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -473,7 +482,7 @@
   path: https://www.youtube.com/watch?v=eZ9RqnkJxsk
   title: 10 Standard Library Modules That Make Python Insanely Powerful
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-09-05T09:50:26+00:00'
   description: "<p>Em uma semana de abertura nos juros longos em v\xE1rios pa\xED\
@@ -490,9 +499,7 @@
   title: "Tesouro faz emiss\xF5es \u2018t\xE1ticas\u2019 e refor\xE7a colch\xE3o para\
     \ 2026"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2025-09-04T19:26:55+00:00'
   description: My iPhone's camera is broken.
   image: https://i4.ytimg.com/vi/oeHtfMFdzIY/hqdefault.jpg
@@ -521,7 +528,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/09/are-businesses-scaling-back-hiring-due-to-ai/
   title: Are Businesses Scaling Back Hiring Due to AI?
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-09-04T12:47:24+00:00'
   description: "<p>Investors can cut through the hype: 5 critical conversations reveal\
@@ -534,7 +541,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/04/5-conversations-to-test-whether-your-asset-managers-ai-adds-value/
   title: "5 Conversations to Test Whether Your Asset Manager\u2019s AI Adds Value"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-09-04T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte aos outros 280 milh\xF5es de\
@@ -597,7 +604,7 @@
   path: https://open.spotify.com/episode/3Ctl4inpPv7yCM32kmwMRj
   title: 'Giving credit: the rise of buy now, pay later'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-09-03T18:07:52+00:00'
   description: "<p>Private equity\u2019s leverage, opacity, and continuation vehicles\
     \ raise systemic risks that may erode returns and complicate portfolio management.</p>\n\
@@ -608,7 +615,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/03/private-capital-and-systemic-risk/
   title: Private Capital and Systemic Risk
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-09-03T16:03:45+00:00'
   description: "<p>Quando se pensa em como fazer fortuna nos EUA, as pessoas logo\
     \ pensam em hedge funds de Wall Street ou equity em unic\xF3rnios do Vale do Sil\xED\
@@ -623,7 +630,7 @@
   title: "\u2018Stealthy wealthy\u2019: os empres\xE1rios \u2018boring\u2019 entre\
     \ os mais ricos dos EUA"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-09-02T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a escolher entre Lula e Bolsonaro em 2026?No\
     \ cora\xE7\xE3o do poder ga\xFAcho, o governador Eduardo Leite recebe o Market\
@@ -689,59 +696,6 @@
   image: https://substackcdn.com/image/fetch/$s_!A_Mu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F068edcd1-de6e-4c24-85bf-73f395f07cf3_3200x2945.png
   path: https://theovershoot.co/p/what-is-the-federal-reserve-endgame
   title: What is the Federal Reserve Endgame?
-- author: Marques Brownlee
-  categories: *id004
-  date: '2025-08-29T18:43:10+00:00'
-  description: 'The Pixel 10 is right where it''s always been.
-
-
-    Get 10% off a Ridge Magnetic Power Bank at https://geni.us/pcsRTe
-
-
-    Pixel 10: https://geni.us/JbB7l
-
-    Pixel 10 Pro: https://geni.us/tsJYj
-
-    Pixel 10 Pro XL: https://geni.us/jjE7bz2
-
-
-    Auto Focus channel: http://youtube.com/AutoFocus
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Intro Track: Jordyn Edmonds https://lnk.to/jordynedmonds
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Phone provided by Google for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD
-
-
-    0:00 Intro
-
-    2:32 What''s Actually New
-
-    3:57 Let''s Talk Tensor
-
-    8:17 Pixel Snap is Dope
-
-    9:30 Cameras and Software
-
-    17:14 The Good News'
-  image: https://i2.ytimg.com/vi/i63u-iAnhuk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=i63u-iAnhuk
-  title: 'Pixel 10/Pro Review: Good News and Bad News!'
 - author: ArjanCodes
   categories: *id005
   date: '2025-08-29T15:00:00+00:00'
