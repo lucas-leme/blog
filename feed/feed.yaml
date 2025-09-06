@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-06T00:48:08.395778'
+  date: '2025-09-06T02:02:45.997262'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-06T00:48:08.394031'
+  date: '2025-09-06T02:02:45.995526'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-06T00:48:08.394027'
+  date: '2025-09-06T02:02:45.995522'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-06T00:48:08.394023'
+  date: '2025-09-06T02:02:45.995518'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-06T00:48:08.394013'
+  date: '2025-09-06T02:02:45.995508'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: The Overshoot
+  categories: &id005
+  - Macro
+  - Newsletters
+  date: '2025-09-06T01:05:19+00:00'
+  description: 'Core measures of labor demand remain strong, while wage growth is
+    holding steady (or re-accelerating). But there are a few pockets of weakness that
+    bear watching. Plus: China''s investment slowdown.'
+  image: https://substackcdn.com/image/fetch/$s_!erRF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19f24fd9-d966-4d13-b586-c8548ac08f6b_3200x2865.png
+  path: https://theovershoot.co/p/us-job-market-still-surprisingly
+  title: U.S. Job Market Still (Surprisingly?) Good. Inflation Risk Is Paramount.
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -458,7 +469,7 @@
   path: https://www.youtube.com/shorts/XUdic3Mwd2k
   title: This NFL Tech is Hidden in Plain Sight
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -686,9 +697,7 @@
   path: https://open.spotify.com/episode/6z65mdwaXLHUjbTmxEIJIv
   title: "Chris Carrano \u2013\_Designing Practical Factor Models (S7E20)"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2025-08-30T22:48:50+00:00'
   description: Suborning the central bank will obviously have implications for monetary
     policy. But the power that could be exercised via regulatory and supervisory control
@@ -697,7 +706,7 @@
   path: https://theovershoot.co/p/what-is-the-federal-reserve-endgame
   title: What is the Federal Reserve Endgame?
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-08-29T15:00:00+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nPydantic AI\
@@ -749,15 +758,6 @@
   path: https://open.spotify.com/episode/6EUYmy2DdLEK4GmnxBMjKc
   title: "#169 - Pr\xEAmio Outliers: KINEA e SPX  | Outliers InfoMoney - Expert XP\
     \ 2025"
-- author: The Overshoot
-  categories: *id006
-  date: '2025-08-21T02:46:46+00:00'
-  description: Even if the underlying technology turned out to be mostly useless,
-    the spending occurring right now is massive. And it may not be fully captured
-    in the official GDP numbers.
-  image: https://substackcdn.com/image/fetch/$s_!Y5GT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f3799fc-5fd2-4ba2-906e-557b91e00dd9_3200x3030.png
-  path: https://theovershoot.co/p/the-macro-impact-of-ai-on-gdp
-  title: The Macro Impact of AI on GDP
 - author: CFA Institute Research and Policy Center
   categories: *id007
   date: '2025-08-20T12:00:00+00:00'
