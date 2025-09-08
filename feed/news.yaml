@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-08T14:08:14+00:00'
+  description: Investidores questionam a continuidade das reformas de Milei
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-derrota-titulos-argentinos/
+  title: "Milei mant\xE9m plano depois de derrota, enquanto t\xEDtulos argentinos\
+    \ despencam"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1nbdtet/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-07T20:20:11+00:00'
   description: "Com petr\xF3leo j\xE1 15% mais barato no ano, Opep+ aposta em ganhar\
     \ mercado apesar da previs\xE3o de excesso de oferta"
@@ -43,15 +51,6 @@
   path: https://investnews.com.br/economia/opep-confirma-aumento-producao-petroleo/
   title: "Opep+ confirma aumento da produ\xE7\xE3o de petr\xF3leo a partir de outubro\
     \ para recuperar participa\xE7\xE3o de mercado"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-09-07T12:43:03+00:00'
-  description: "Empresas j\xE1 relatam queda nas compras de clientes hisp\xE2nicos,\
-    \ antes motor da recupera\xE7\xE3o p\xF3s-pandemia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/consumo-eua-hispanicos-queda/
-  title: "Motor do consumo dos EUA, hisp\xE2nicos reduzem gastos em meio \xE0 infla\xE7\
-    \xE3o e repress\xE3o migrat\xF3ria"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
