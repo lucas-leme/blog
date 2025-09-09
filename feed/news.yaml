@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-09T18:20:18+00:00'
+  description: "Esclarecimento ocorre ap\xF3s informa\xE7\xF5es falsas que relacionam\
+    \ o Cadastro Imobili\xE1rio Brasileiro e um suposto aumento do IPTU"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/receita-federal-boatos-aumento-do-iptu/
+  title: "Receita Federal desmente boatos sobre aumento do IPTU relacionados ao CIB,\
+    \ o \u201CCPF do im\xF3vel\u201D"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -39,8 +49,7 @@
   title: 'Expand Your Network and Resources with r/CFA: Join Our Discord and LinkedIn
     Group!'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-08T18:58:30+00:00'
   description: "Retrofit ganha tra\xE7\xE3o no centro da cidade; veja como escolher\
     \ op\xE7\xE3o ideal"
@@ -48,7 +57,7 @@
   path: https://investnews.com.br/financas/retrofit-e-reforma-renovacao-predial-muda-jeito-de-morar-em-sp/
   title: "Retrofit \xE9 reforma? Renova\xE7\xE3o predial muda jeito de morar em SP"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-08T14:08:14+00:00'
   description: "Investidores questionam se as reformas econ\xF4micas v\xE3o continuar,\
@@ -58,7 +67,7 @@
   title: "Mercados reagem mal \xE0 derrota de Milei na elei\xE7\xE3o argentina: \xED\
     ndice Merval cai 12%"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-07T20:20:11+00:00'
   description: "Com petr\xF3leo j\xE1 15% mais barato no ano, Opep+ aposta em ganhar\
     \ mercado apesar da previs\xE3o de excesso de oferta"
@@ -66,15 +75,6 @@
   path: https://investnews.com.br/economia/opep-confirma-aumento-producao-petroleo/
   title: "Opep+ confirma aumento da produ\xE7\xE3o de petr\xF3leo a partir de outubro\
     \ para recuperar participa\xE7\xE3o de mercado"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-05T20:28:35+00:00'
-  description: "FGC atua para garantir o ressarcimento dos investimentos em casos\
-    \ de crise banc\xE1ria"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fgc-como-funciona-a-protecao-dos-seus-investimentos-e-quando-ela-e-acionada/
-  title: "FGC: Como funciona a prote\xE7\xE3o dos seus investimentos e quando ela\
-    \ \xE9 acionada"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
