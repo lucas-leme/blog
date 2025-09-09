@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-09T02:06:40.978716'
+  date: '2025-09-09T11:07:40.993544'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-09T02:06:40.976929'
+  date: '2025-09-09T11:07:40.991784'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-09T02:06:40.976925'
+  date: '2025-09-09T11:07:40.991780'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-09T02:06:40.976920'
+  date: '2025-09-09T11:07:40.991776'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-09T02:06:40.976910'
+  date: '2025-09-09T11:07:40.991765'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,8 +448,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
-- author: Market Makers
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-09-09T09:50:15+00:00'
+  description: "<p>Est\xE1 em discuss\xE3o na ANP uma consulta p\xFAblica que vai\
+    \ influenciar o futuro do mercado de g\xE1s natural no Brasil. Na pr\xE1tica,\
+    \ esta consulta equivale \xE0 primeira revis\xE3o tarif\xE1ria para as transportadoras\
+    \ de g\xE1s desde que a Petrobras vendeu as duas maiores redes de gasoduto do\
+    \ Pa\xEDs: a NTS e a TAG. Embora o assunto [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/opiniao-mudancas-na-regulacao-podem-aumentar-o-preco-do-gas-natural/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Mudan\xE7as na regula\xE7\xE3o podem aumentar o\
+    \ pre\xE7o do g\xE1s natural</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-mudancas-na-regulacao-podem-aumentar-o-preco-do-gas-natural/
+  title: "OPINI\xC3O. Mudan\xE7as na regula\xE7\xE3o podem aumentar o pre\xE7o do\
+    \ g\xE1s natural"
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2025-09-09T00:00:00+00:00'
   description: "Tarc\xEDsio declarou guerra ao STF e o Centr\xE3o j\xE1 articula a\
@@ -489,8 +506,7 @@
   title: "TARC\xCDSIO ATACA ALEXANDRE DE MORAES, ANISTIA VIRA PAUTA NO CONGRESSO E\
     \ BANCOS DESABAM EM CRISE"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-09-08T14:44:06+00:00'
   description: "<p>A fortaleza eleitoral do peronismo n\xE3o se rendeu a Javier Milei.\
     \ O presidente argentino sofreu uma dura derrota nas elei\xE7\xF5es legislativas\
@@ -519,7 +535,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/08/the-geopolitical-hedge-investors-overlook-rare-earths/
   title: 'The Geopolitical Hedge Investors Overlook: Rare Earths'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2025-09-07T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
     \ 30 dias gr\xE1tis pra testar: https://go.adapta.org/campaign/adapta-mm-youtubeA\
@@ -604,23 +620,7 @@
     \n#arjancodes #softwaredesign #python"
   image: https://i2.ytimg.com/vi/eZ9RqnkJxsk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=eZ9RqnkJxsk
-  title: 10 Standard Library Modules That Make Python Insanely Powerful
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-09-05T09:50:26+00:00'
-  description: "<p>Em uma semana de abertura nos juros longos em v\xE1rios pa\xED\
-    ses, o Tesouro Nacional fez duas grandes emiss\xF5es \u2013 uma de t\xEDtulos\
-    \ externos e uma de NTN-Bs no mercado local. Os resultados, dentro das possibilidades,\
-    \ foram bem-recebidos pelo mercado. Na coloca\xE7\xE3o de t\xEDtulos no mercado\
-    \ local, o Tesouro mudou sua maneira de atuar desde a [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/tesouro-faz-emissoes-taticas-e-reforca-colchao-para-2026/\"\
-    \ rel=\"nofollow\">Tesouro faz emiss\xF5es \u2018t\xE1ticas\u2019 e refor\xE7\
-    a colch\xE3o para 2026</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/tesouro-faz-emissoes-taticas-e-reforca-colchao-para-2026/
-  title: "Tesouro faz emiss\xF5es \u2018t\xE1ticas\u2019 e refor\xE7a colch\xE3o para\
-    \ 2026"
+  title: 'Python Has the Best Standard Library Ever: 10 Modules You Need to Know'
 - author: Marques Brownlee
   categories: *id003
   date: '2025-09-04T19:26:55+00:00'
