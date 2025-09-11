@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-11T02:05:34.365804'
+  date: '2025-09-11T11:07:14.626610'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T02:05:34.364055'
+  date: '2025-09-11T11:07:14.624845'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T02:05:34.364051'
+  date: '2025-09-11T11:07:14.624841'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T02:05:34.364047'
+  date: '2025-09-11T11:07:14.624837'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T02:05:34.364037'
+  date: '2025-09-11T11:07:14.624826'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -449,8 +449,21 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2025-09-11T10:45:10+00:00'
+  description: "<p>Book review: Charles Ellis\u2019s Rethinking Investing offers timeless\
+    \ lessons on savings, index funds, and long-term investing success.</p>\n<p>The\
+    \ post <a href=\"https://blogs.cfainstitute.org/investor/2025/09/11/book-review-rethinking-investing-a-very-short-guide-to-very-long-term-investing/\"\
+    >Book Review: Rethinking Investing: A Very Short Guide to Very Long-Term Investing</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/09/11/book-review-rethinking-investing-a-very-short-guide-to-very-long-term-investing/
+  title: 'Book Review: Rethinking Investing: A Very Short Guide to Very Long-Term
+    Investing'
+- author: CFA Institute Enterprising Investor
+  categories: *id001
   date: '2025-09-10T17:46:31+00:00'
   description: "<p>Lincoln\u2019s leadership lessons offer timeless guidance for investors\
     \ and advisors alike.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/09/10/abraham-lincolns-playbook-a-model-for-passive-investment-strategy/\"\
@@ -461,7 +474,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/10/abraham-lincolns-playbook-a-model-for-passive-investment-strategy/
   title: "Abraham Lincoln\u2019s Playbook: A Model for Passive Investment Strategy"
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2025-09-10T08:04:59+00:00'
@@ -501,14 +514,14 @@
   path: https://www.youtube.com/watch?v=idEAABFzpfg
   title: 'iPhone 17/Pro/Air Impressions: Spot the Red Flags!'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2025-09-10T02:54:04+00:00'
   description: First gen. Razor thin.
   image: https://i4.ytimg.com/vi/_yOTYsFlRQY/hqdefault.jpg
   path: https://www.youtube.com/shorts/_yOTYsFlRQY
   title: The iPhone AIR
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-09-09T09:50:15+00:00'
   description: "<p>Est\xE1 em discuss\xE3o na ANP uma consulta p\xFAblica que vai\
@@ -578,7 +591,7 @@
   path: https://open.spotify.com/episode/4XjeXPhL2hXTBzK91fM4I0
   title: '#170 - EUA, BRASIL e ARGENTINA com Vinland Capital | Outliers InfoMoney'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-09-08T14:44:06+00:00'
   description: "<p>A fortaleza eleitoral do peronismo n\xE3o se rendeu a Javier Milei.\
     \ O presidente argentino sofreu uma dura derrota nas elei\xE7\xF5es legislativas\
@@ -592,19 +605,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/buenos-aires-derrota-milei-que-fala-em-autocritica/
   title: "Buenos Aires derrota Milei, que fala em \u201Cautocr\xEDtica\u201D"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-09-08T08:58:03+00:00'
-  description: '<p>In a world where supply chains are vulnerable, rare earths are
-    more than a commodity story. They are a portfolio strategy for managing geopolitical
-    risk.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/09/08/the-geopolitical-hedge-investors-overlook-rare-earths/">The
-    Geopolitical Hedge Investors Overlook: Rare Earths</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/09/08/the-geopolitical-hedge-investors-overlook-rare-earths/
-  title: 'The Geopolitical Hedge Investors Overlook: Rare Earths'
 - author: Market Makers
   categories: *id004
   date: '2025-09-07T00:00:00+00:00'
@@ -682,7 +682,7 @@
     \n#arjancodes #softwaredesign #python"
   image: https://i2.ytimg.com/vi/eZ9RqnkJxsk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=eZ9RqnkJxsk
-  title: 10 Standard Library Modules That Make Python Insanely Powerful
+  title: 'Python Has the Best Standard Library Ever: 10 Modules You Need to Know'
 - author: Liberty Street Economics
   categories:
   - Macro
