@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-11T14:48:31.715679'
+  date: '2025-09-11T15:48:20.638484'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T14:48:31.713935'
+  date: '2025-09-11T15:48:20.636696'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T14:48:31.713931'
+  date: '2025-09-11T15:48:20.636692'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T14:48:31.713926'
+  date: '2025-09-11T15:48:20.636688'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-11T14:48:31.713916'
+  date: '2025-09-11T15:48:20.636678'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,6 +448,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id007
+  - CFA
+  date: '2025-09-11T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2025/integrating-esg-information-into-long-term-investment-strategy
+  title: Integrating ESG Information into Long-Term Investment Strategy
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -575,7 +583,7 @@
   title: "#256 | O QUE N\xC3O TE CONTARAM SOBRE O SETOR EL\xC9TRICO NO BRASIL (com\
     \ o CEO da Copel)"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-09-09T00:00:00+00:00'
   description: "O que a briga no FED dos EUA pode significar para a queda dos juros\
@@ -779,15 +787,14 @@
   path: https://www.youtube.com/watch?v=-WB0T0XmDrY
   title: 'PydanticAI: the AI Agent Framework Winner'
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id007
   date: '2025-08-27T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/separating-positive-impact-from-warm-glow
   title: Separating Positive Impact from Warm Glow
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-08-26T00:00:00+00:00'
   description: "2024 foi um dos anos mais importantes da ind\xFAstria de fundos do\
     \ Brasil. Isso porque, apesar da alta dos juros e da volatilidade, a ind\xFAstria\
@@ -808,14 +815,6 @@
   path: https://open.spotify.com/episode/6EUYmy2DdLEK4GmnxBMjKc
   title: "#169 - Pr\xEAmio Outliers: KINEA e SPX  | Outliers InfoMoney - Expert XP\
     \ 2025"
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-08-20T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2025/conversations-with-frank-fabozzi-featuring-joanne-hill-larry-siegel
-  title: Conversations with Frank Fabozzi, CFA, Featuring Joanne M. Hill, PhD, and
-    Larry Siegel
 - author: The Journal.
   categories: &id009
   - Podcasts
