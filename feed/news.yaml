@@ -1,6 +1,14 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-09-12T17:17:32+00:00'
+  description: "Moeda virtual vai se chamar USAT e ser\xE1 lan\xE7ada at\xE9 o final\
+    \ do ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/tether-planeja-nova-stablecoin/
+  title: "Tether planeja lan\xE7ar nova stablecoin nos EUA"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-09-12T12:24:21+00:00'
   description: "Ouro caminha para o quarto ganho semanal na expectativas de redu\xE7\
     \xE3o dos juros pelo Fed"
@@ -49,7 +57,7 @@
   path: https://www.reddit.com/r/CFA/comments/1nete9n/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-11T22:21:31+00:00'
   description: "O Supremo Tribunal Federal (STF) considerou Jair Bolsonaro culpado\
@@ -61,7 +69,7 @@
   path: https://investnews.com.br/economia/stf-condena-bolsonaro-a-27-anos-por-tentativa-de-golpe-de-estado/
   title: STF condena Bolsonaro a 27 anos, por tentativa de golpe de Estado
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-11T17:22:32+00:00'
   description: "Preparem as malas! Em 2026, o calend\xE1rio no Brasil ser\xE1 recheado\
     \ de feriados e pontos facultativos que prometem folgas e emendas nos finais de\
@@ -71,15 +79,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/feriados-2026-veja-todas-as-datas-para-descansar-e-viajar/
   title: 'Feriados 2026: veja todas as datas para descansar e viajar'
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-10T22:47:02+00:00'
-  description: "Entenda o mecanismo que faz esses derivativos explodirem de valor\
-    \ em certas situa\xE7\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/a-fabulosa-alta-de-2-800-nas-opcoes-de-compra-da-oracle-apos-a-alta-historica/
-  title: "A fabulosa alta de 2.800% nas op\xE7\xF5es de compra da Oracle, ap\xF3s\
-    \ o salto hist\xF3rico da a\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
