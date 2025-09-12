@@ -1,6 +1,17 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-09-11T22:21:31+00:00'
+  description: "O Supremo Tribunal Federal (STF) considerou Jair Bolsonaro culpado\
+    \ por tentar um golpe ap\xF3s sua derrota na elei\xE7\xE3o de 2022, fazendo dele\
+    \ o primeiro ex-presidente condenado por esse tipo de crime em um pa\xEDs h\xE1\
+    \ muito marcado por investidas \u2014 bem-sucedidas e frustradas \u2014 contra\
+    \ o poder. A pena \xE9 de 27 anos e 3 [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/stf-condena-bolsonaro-a-27-anos-por-tentativa-de-golpe-de-estado/
+  title: STF condena Bolsonaro a 27 anos, por tentativa de golpe de Estado
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-09-11T17:22:32+00:00'
   description: "Preparem as malas! Em 2026, o calend\xE1rio no Brasil ser\xE1 recheado\
     \ de feriados e pontos facultativos que prometem folgas e emendas nos finais de\
@@ -11,7 +22,7 @@
   path: https://investnews.com.br/economia/feriados-2026-veja-todas-as-datas-para-descansar-e-viajar/
   title: 'Feriados 2026: veja todas as datas para descansar e viajar'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-10T22:47:02+00:00'
   description: "Entenda o mecanismo que faz esses derivativos explodirem de valor\
@@ -21,7 +32,7 @@
   title: "A fabulosa alta de 2.800% nas op\xE7\xF5es de compra da Oracle, ap\xF3s\
     \ o salto hist\xF3rico da a\xE7\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-09T18:20:18+00:00'
   description: "Esclarecimento ocorre ap\xF3s informa\xE7\xF5es falsas que relacionam\
     \ o Cadastro Imobili\xE1rio Brasileiro e um suposto aumento do IPTU"
@@ -29,12 +40,3 @@
   path: https://investnews.com.br/financas/receita-federal-boatos-aumento-do-iptu/
   title: "Receita Federal desmente boatos sobre aumento do IPTU relacionados ao CIB,\
     \ o \u201CCPF do im\xF3vel\u201D"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-08T14:08:14+00:00'
-  description: "Investidores questionam se as reformas econ\xF4micas v\xE3o continuar,\
-    \ agora que a impopularidade delas ficou mais clara"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-derrota-titulos-argentinos/
-  title: "Mercados reagem mal \xE0 derrota de Milei na elei\xE7\xE3o argentina: \xED\
-    ndice Merval cai 12%"
