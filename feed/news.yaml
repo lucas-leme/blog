@@ -1,6 +1,14 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-09-16T17:05:49+00:00'
+  description: "Milei\_quer vender 44% das a\xE7\xF5es da Nucleoelectrica Argentina,\
+    \ empresa que opera tr\xEAs usinas nucleares no pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-usina-nuclear/
+  title: Governo Milei planeja privatizar parte da operadora de usinas nucleares
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-09-16T12:35:36+00:00'
   description: Na nova ordem, Fed deveria buscar taxas de juros moderadas para o longo
     prazo
@@ -9,7 +17,7 @@
   title: "Trip\xE9 que faz com que o Fed decida os juros nos EUA leva mercado de t\xED\
     tulos a rever regras"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-15T19:35:24+00:00'
   description: "Embora o bitcoin em si n\xE3o seja estranho \xE0s oscila\xE7\xF5es\
@@ -19,7 +27,7 @@
   title: "F\xE3s do bitcoin torcem o nariz para a chegada das altcoins aos balan\xE7\
     os corporativos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-14T22:09:41+00:00'
   description: "Dois quintos da economia global, incluindo pa\xEDses do G7 e Brasil,\
     \ anunciam decis\xF5es de pol\xEDtica monet\xE1ria na semana"
@@ -27,14 +35,3 @@
   path: https://investnews.com.br/investimentos/maratona-de-decisoes-de-juros-no-mundo-prepara-terreno-para-corte-historico-nos-eua/
   title: "\u2018Maratona\u2019 de decis\xF5es de juros no mundo prepara terreno para\
     \ corte hist\xF3rico nos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-11T22:21:31+00:00'
-  description: "O Supremo Tribunal Federal (STF) considerou Jair Bolsonaro culpado\
-    \ por tentar um golpe ap\xF3s sua derrota na elei\xE7\xE3o de 2022, fazendo dele\
-    \ o primeiro ex-presidente condenado por esse tipo de crime em um pa\xEDs h\xE1\
-    \ muito marcado por investidas \u2014 bem-sucedidas e frustradas \u2014 contra\
-    \ o poder. A pena \xE9 de 27 anos e 3 [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/stf-condena-bolsonaro-a-27-anos-por-tentativa-de-golpe-de-estado/
-  title: STF condena Bolsonaro a 27 anos, por tentativa de golpe de Estado
