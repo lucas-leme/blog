@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-16T02:03:26.966963'
+  date: '2025-09-16T11:07:32.358554'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-16T02:03:26.965220'
+  date: '2025-09-16T11:07:32.356748'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-16T02:03:26.965216'
+  date: '2025-09-16T11:07:32.356744'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-16T02:03:26.965212'
+  date: '2025-09-16T11:07:32.356739'
   description: "<div class=\"ExternalClass1BE7096A76144A1BB7BCEF2921A7DE6E\"><p>\u200B\
     O ambiente externo est\xE1 mais adverso e incerto em fun\xE7\xE3o da conjuntura\
     \ e da pol\xEDtica econ\xF4mica nos Estados Unidos, principalmente acerca de suas\
@@ -133,7 +133,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-16T02:03:26.965201'
+  date: '2025-09-16T11:07:32.356729'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -448,9 +448,37 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-09-16T10:01:22+00:00'
+  description: '<p>Emotional biases can distort risk profiling. Advisors who coach
+    investors through them help build resilience and better long-term outcomes.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/09/16/coaching-investors-beyond-risk-profiling-overcoming-emotional-biases/">Coaching
+    Investors Beyond Risk Profiling: Overcoming Emotional Biases</a> appeared first
+    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/09/16/coaching-investors-beyond-risk-profiling-overcoming-emotional-biases/
+  title: 'Coaching Investors Beyond Risk Profiling: Overcoming Emotional Biases'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id001
   - Economia
+  date: '2025-09-16T09:40:00+00:00'
+  description: "<p>O Brasil est\xE1 diante de uma verdadeira sangria fiscal e moral.\
+    \ A importa\xE7\xE3o irregular de nafta, recentemente desmascarada pela Opera\xE7\
+    \xE3o Carbono Oculto, \xE9 hoje um dos maiores esquemas de fraude no setor de\
+    \ combust\xEDveis. A perda de arrecada\xE7\xE3o \xE9 apenas parte do problema;\
+    \ o ponto central \xE9 a perda da soberania do Estado frente a [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/opiniao-precisamos-fechar-a-brecha-na-nafta/\"\
+    \ rel=\"nofollow\">OPINI\xC3O.\_Precisamos fechar a brecha na nafta</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-precisamos-fechar-a-brecha-na-nafta/
+  title: "OPINI\xC3O.\_Precisamos fechar a brecha na nafta"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2025-09-15T20:30:58+00:00'
   description: "<p>A Segunda Turma do STF decidiu pela aplica\xE7\xE3o da taxa Selic\
     \ como o \xEDndice de corre\xE7\xE3o monet\xE1ria das d\xEDvidas de processos\
@@ -465,8 +493,7 @@
   path: https://braziljournal.com/correcao-de-dividas-civis-e-pela-selic-decide-o-stf/
   title: "Corre\xE7\xE3o de d\xEDvidas civis \xE9 pela Selic, decide o STF"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2025-09-15T15:49:20+00:00'
   description: "<p>Private credit funds with ties to local European markets can look\
     \ to underserved lower mid-market enterprises to generate alpha.</p>\n<p>The post\
@@ -478,7 +505,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/15/from-inefficiency-to-alpha-europes-lower-mid-market-opportunity/
   title: "From Inefficiency to Alpha: Europe\u2019s Lower Mid-Market Opportunity"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-09-15T12:00:56+00:00'
@@ -492,7 +519,7 @@
   path: https://www.youtube.com/watch?v=GB0b6KFZVq0
   title: 'AirPods Pro 3 Review: I Understand It Now!'
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id003
   - CFA
   date: '2025-09-15T12:00:00+00:00'
   description: ''
@@ -500,7 +527,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/continuation-funds
   title: 'Continuation Funds: Ethics in Private Markets, Part I'
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id003
   date: '2025-09-15T12:00:00+00:00'
   description: ''
   image: null
@@ -540,7 +567,7 @@
   path: https://theovershoot.co/p/inflation-is-persistent-and-consumers
   title: Inflation is Persistent and Consumers are Flush. Falling Rates Could be Dangerous.
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-09-14T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte a outros 280 milh\xF5es de usu\xE1\
@@ -602,21 +629,8 @@
   image: https://i1.ytimg.com/vi/8_liatgLkLc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=8_liatgLkLc
   title: These Patterns Will Change How You Write AI Agent Code in Python
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-09-11T10:45:10+00:00'
-  description: "<p>Book review: Charles Ellis\u2019s Rethinking Investing offers timeless\
-    \ lessons on savings, index funds, and long-term investing success.</p>\n<p>The\
-    \ post <a href=\"https://blogs.cfainstitute.org/investor/2025/09/11/book-review-rethinking-investing-a-very-short-guide-to-very-long-term-investing/\"\
-    >Book Review: Rethinking Investing: A Very Short Guide to Very Long-Term Investing</a>\
-    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
-    \ Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/09/11/book-review-rethinking-investing-a-very-short-guide-to-very-long-term-investing/
-  title: 'Book Review: Rethinking Investing: A Very Short Guide to Very Long-Term
-    Investing'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-09-11T00:00:00+00:00'
   description: "Se Lula \xE9 considerado a alma e o rosto do partido, o convidado\
     \ do epis\xF3dio 257 do Market Makers foi por muito tempo o c\xE9rebro e o arquiteto.\
@@ -672,7 +686,7 @@
   path: https://open.spotify.com/episode/42sbgUOz1shLEnypxrZWzu
   title: 'Human ChatGPT: putting Tyler Cowen to the test'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-09-10T08:04:59+00:00'
   description: 'Everything new from Apple''s 2025 September event
 
@@ -709,22 +723,6 @@
   image: https://i2.ytimg.com/vi/idEAABFzpfg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=idEAABFzpfg
   title: 'iPhone 17/Pro/Air Impressions: Spot the Red Flags!'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2025-09-09T09:50:15+00:00'
-  description: "<p>Est\xE1 em discuss\xE3o na ANP uma consulta p\xFAblica que vai\
-    \ influenciar o futuro do mercado de g\xE1s natural no Brasil. Na pr\xE1tica,\
-    \ esta consulta equivale \xE0 primeira revis\xE3o tarif\xE1ria para as transportadoras\
-    \ de g\xE1s desde que a Petrobras vendeu as duas maiores redes de gasoduto do\
-    \ Pa\xEDs: a NTS e a TAG. Embora o assunto [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/opiniao-mudancas-na-regulacao-podem-aumentar-o-preco-do-gas-natural/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Mudan\xE7as na regula\xE7\xE3o podem aumentar o\
-    \ pre\xE7o do g\xE1s natural</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-mudancas-na-regulacao-podem-aumentar-o-preco-do-gas-natural/
-  title: "OPINI\xC3O. Mudan\xE7as na regula\xE7\xE3o podem aumentar o pre\xE7o do\
-    \ g\xE1s natural"
 - author: Outliers
   categories: &id008
   - Podcasts
