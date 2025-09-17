@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-17T19:27:21+00:00'
+  description: "Nova proje\xE7\xE3o amplia cortes de juros para 0,50 pp at\xE9 o fim\
+    \ do ano. Mas deixa praticamente inalterada a previs\xE3o para o final 2026."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fed-projeta-cortar-mais-duas-vezes-em-2025-e-ve-taxa-no-fim-do-ciclo-em-torno-de-3/
+  title: "Fed projeta mais dois cortes para 2025. Mesmo assim, o d\xF3lar sobe. Entenda"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Frenesi pelo Labubu desaparece e a\xE7\xF5es perdem US$ 13 bilh\xF5es \u2013\
     \ uma Embraer inteira e mais um pouco"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-17T13:24:11+00:00'
   description: "Mercado financeiro olha para a sinaliza\xE7\xE3o do Fed sobre a trajet\xF3\
     ria dos juros"
@@ -27,10 +35,3 @@
   path: https://investnews.com.br/economia/juros-eua-corte/
   title: "Operadores de t\xEDtulos apostam em cortes nos juros dos EUA em todas reuni\xF5\
     es do Fed deste ano"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-17T12:46:53+00:00'
-  description: "Para economistas, cada corte \xE9 mais dif\xEDcil do que o anterior"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/juros-eua-trabalho/
-  title: Corte nos juros dos EUA aqueceria o mercado de trabalho
