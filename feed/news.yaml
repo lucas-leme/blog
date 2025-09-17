@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-09-17T18:01:44+00:00'
+  description: "Autoridade monet\xE1ria americana reduz taxa para faixa entre 4% e\
+    \ 4,25% ao ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/investimentos/fed-corta-o-juro-em-025-ponto-e-deixa-espaco-aberto-para-mais-alivio-monetario/
+  title: "Fed corta o juro em 0,25 ponto em placar dividido; indicado de Trump defendeu\
+    \ redu\xE7\xE3o maior"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-09-17T14:15:30+00:00'
   description: "A Pop Mart, a dona do Labubu, perdeu um quarto do valor em menos de\
     \ um m\xEAs."
@@ -9,7 +18,7 @@
   title: "Frenesi pelo Labubu desaparece e a\xE7\xF5es perdem US$ 13 bilh\xF5es \u2013\
     \ uma Embraer inteira e mais um pouco"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-17T13:24:11+00:00'
   description: "Mercado financeiro olha para a sinaliza\xE7\xE3o do Fed sobre a trajet\xF3\
@@ -19,19 +28,9 @@
   title: "Operadores de t\xEDtulos apostam em cortes nos juros dos EUA em todas reuni\xF5\
     es do Fed deste ano"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-17T12:46:53+00:00'
   description: "Para economistas, cada corte \xE9 mais dif\xEDcil do que o anterior"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/juros-eua-trabalho/
   title: Corte nos juros dos EUA aqueceria o mercado de trabalho
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-16T21:03:20+00:00'
-  description: "Jurisprud\xEAncia do STJ refor\xE7a que posse exclusiva, atos de propriet\xE1\
-    rio e in\xE9rcia dos demais herdeiros abrem caminho para usucapi\xE3o de im\xF3\
-    vel herdado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/herdeiro-que-paga-contas-e-cuida-de-imovel-pode-ser-reconhecido-como-dono-decide-stj/
-  title: "Herdeiro que paga contas e cuida de im\xF3vel pode ser reconhecido como\
-    \ dono, decide STJ"
