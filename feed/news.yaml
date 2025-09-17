@@ -1,5 +1,22 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-17T13:24:11+00:00'
+  description: "Mercado financeiro olha para a sinaliza\xE7\xE3o do Fed sobre a trajet\xF3\
+    ria dos juros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/juros-eua-corte/
+  title: "Operadores de t\xEDtulos apostam em cortes nos juros dos EUA em todas reuni\xF5\
+    es do Fed deste ano"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-09-17T12:46:53+00:00'
+  description: "Para economistas, cada corte \xE9 mais dif\xEDcil do que o anterior"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/juros-eua-trabalho/
+  title: Corte nos juros dos EUA aqueceria o mercado de trabalho
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-16T21:03:20+00:00'
   description: "Jurisprud\xEAncia do STJ refor\xE7a que posse exclusiva, atos de propriet\xE1\
@@ -10,7 +27,7 @@
   title: "Herdeiro que paga contas e cuida de im\xF3vel pode ser reconhecido como\
     \ dono, decide STJ"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-16T20:03:54+00:00'
   description: "A regulamenta\xE7\xE3o e a conformidade direcionaram uma onda sem\
     \ precedentes de dinheiro da aposentadoria nos Estados Unidos para ativos privados,\
@@ -21,24 +38,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/fundos-de-pensao-acumulam-quase-us-5-tri-em-mercados-privados/
   title: "Fundos de pens\xE3o acumulam quase US$ 5 trilh\xF5es em mercados privados"
-- author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-09-16T17:05:49+00:00'
-  description: "Milei\_quer vender 44% das a\xE7\xF5es da Nucleoelectrica Argentina,\
-    \ empresa que opera tr\xEAs usinas nucleares no pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-usina-nuclear/
-  title: Governo Milei planeja privatizar parte da operadora de usinas nucleares
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-16T12:35:36+00:00'
-  description: Na nova ordem, Fed deveria buscar taxas de juros moderadas para o longo
-    prazo
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fed-decisao-sobre-juros-eua/
-  title: "Trip\xE9 que faz com que o Fed decida os juros nos EUA leva mercado de t\xED\
-    tulos a rever regras"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
