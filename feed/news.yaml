@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-17T14:15:30+00:00'
+  description: "Dona do Labubu perdeu um quarto do valor em menos de um m\xEAs."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/labubu-queda-acoes/
+  title: "Frenesi pelo Labubu desaparece e a\xE7\xF5es perdem US$ 13 bilh\xF5es \u2013\
+    \ uma Embraer inteira e mais um pouco"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +25,7 @@
   path: https://investnews.com.br/economia/juros-eua-trabalho/
   title: Corte nos juros dos EUA aqueceria o mercado de trabalho
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-16T21:03:20+00:00'
   description: "Jurisprud\xEAncia do STJ refor\xE7a que posse exclusiva, atos de propriet\xE1\
     rio e in\xE9rcia dos demais herdeiros abrem caminho para usucapi\xE3o de im\xF3\
@@ -26,18 +34,6 @@
   path: https://investnews.com.br/financas/herdeiro-que-paga-contas-e-cuida-de-imovel-pode-ser-reconhecido-como-dono-decide-stj/
   title: "Herdeiro que paga contas e cuida de im\xF3vel pode ser reconhecido como\
     \ dono, decide STJ"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-16T20:03:54+00:00'
-  description: "A regulamenta\xE7\xE3o e a conformidade direcionaram uma onda sem\
-    \ precedentes de dinheiro da aposentadoria nos Estados Unidos para ativos privados,\
-    \ mostra um novo relat\xF3rio da Bloomberg Intelligence. Isso lan\xE7a uma luz\
-    \ sobre os riscos reais do cont\xEDnuo avan\xE7o das finan\xE7as em \xE1reas fora\
-    \ da supervis\xE3o tradicional dos reguladores. Os analistas constataram que,\
-    \ sozinhos, os 20 [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fundos-de-pensao-acumulam-quase-us-5-tri-em-mercados-privados/
-  title: "Fundos de pens\xE3o acumulam quase US$ 5 trilh\xF5es em mercados privados"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
