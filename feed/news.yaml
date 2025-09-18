@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-18T18:46:15+00:00'
+  description: "Notas com vencimento em 2035 chegaram ao menor valor em quase um ano,\
+    \ ap\xF3s cinco semanas consecutivas de perdas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/titulos-argentinos-menor-nivel/
+  title: "T\xEDtulos da Argentina despencam em meio \xE0 press\xE3o crescente sobre\
+    \ Milei"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -16,8 +26,7 @@
   path: https://investnews.com.br/economia/copom-nao-tem-a-menor-pressa-de-cortar-juros-diz-jose-julio-senna/
   title: "Copom n\xE3o tem a menor pressa de cortar juros, diz Jos\xE9 J\xFAlio Senna"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-17T18:01:44+00:00'
   description: "Autoridade monet\xE1ria americana reduz taxa para faixa entre 4% e\
     \ 4,25% ao ano"
@@ -25,12 +34,3 @@
   path: https://investnews.com.br/investimentos/fed-corta-o-juro-em-025-ponto-e-deixa-espaco-aberto-para-mais-alivio-monetario/
   title: "Fed corta o juro em 0,25 ponto em placar dividido; indicado de Trump defendeu\
     \ redu\xE7\xE3o maior"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-17T14:15:30+00:00'
-  description: "A Pop Mart, a dona do Labubu, perdeu um quarto do valor em menos de\
-    \ um m\xEAs."
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/labubu-queda-acoes/
-  title: "Frenesi pelo Labubu desaparece e a\xE7\xF5es perdem US$ 13 bilh\xF5es \u2013\
-    \ uma Embraer inteira e mais um pouco"
