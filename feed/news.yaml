@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-19T15:02:00+00:00'
+  description: "Se voc\xEA faz ou pretende fazer parte do mercado de valores mobili\xE1\
+    rios, precisa conhecer o seu 'xerife'"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/o-que-e-cvm/
+  title: "O que \xE9 CVM? Entenda a import\xE2ncia do \xF3rg\xE3o para o investidor"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +49,7 @@
   path: https://www.reddit.com/r/CFA/comments/1nktiih/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-18T18:46:15+00:00'
   description: "Notas com vencimento em 2035 chegaram ao menor valor em quase um ano,\
     \ ap\xF3s cinco semanas consecutivas de perdas"
@@ -50,7 +58,7 @@
   title: "T\xEDtulos da Argentina despencam em meio \xE0 press\xE3o crescente sobre\
     \ Milei"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-18T11:54:10+00:00'
   description: "Governo dos EUA j\xE1 desembolsou US$ 40 bilh\xF5es  aos agricultores\
@@ -59,22 +67,13 @@
   path: https://investnews.com.br/economia/agricultores-eua/
   title: Agricultores dos EUA pedem ajuda financeira urgente ao governo Trump
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-17T23:19:30+00:00'
   description: "Para ex-diretor do BC, autoridade monet\xE1ria ainda precisa ver a\
     \ infla\xE7\xE3o voltar para a meta antes de sinalizar um corte da Selic"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/copom-nao-tem-a-menor-pressa-de-cortar-juros-diz-jose-julio-senna/
   title: "Copom n\xE3o tem a menor pressa de cortar juros, diz Jos\xE9 J\xFAlio Senna"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-17T18:01:44+00:00'
-  description: "Autoridade monet\xE1ria americana reduz taxa para faixa entre 4% e\
-    \ 4,25% ao ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/investimentos/fed-corta-o-juro-em-025-ponto-e-deixa-espaco-aberto-para-mais-alivio-monetario/
-  title: "Fed corta o juro em 0,25 ponto em placar dividido; indicado de Trump defendeu\
-    \ redu\xE7\xE3o maior"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'

@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-19T14:48:26.064238'
+  date: '2025-09-19T15:48:19.666849'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-19T14:48:26.062479'
+  date: '2025-09-19T15:48:19.664988'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-19T14:48:26.062476'
+  date: '2025-09-19T15:48:19.664983'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-19T14:48:26.062471'
+  date: '2025-09-19T15:48:19.664969'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-19T14:48:26.062462'
+  date: '2025-09-19T15:48:19.664960'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -441,6 +441,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-09-19T15:01:44+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nSingletons are often criticized for introducing global state and making code\
+    \ harder to test\u2014but there\u2019s more to the story. In this video, we explore\
+    \ the real problems with Singletons in Python, why module-level patterns are usually\
+    \ better, and where Singleton\u2019s hidden strength can actually be useful. I\u2019\
+    ll use a simple metaclass-based Singleton, discuss thread safety, and wrap up\
+    \ with a practical use case you might not expect.\n\nFor more design patterns,\
+    \ check out this playlist: https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/singleton.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:54 The Problem: Global Shared State\n4:36 The Classic Singleton\n7:26 The Real\
+    \ Pythonic Singleton\n9:13 Problems With Singleton in Python\n12:50 Controlled\
+    \ Instantiation\n14:59 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/p_UQ7tzUFLo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=p_UQ7tzUFLo
+  title: 'Python Singleton Pattern: Smarter Than You Think?'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -666,7 +689,7 @@
   title: "CORTE DE JUROS, D\xD3LAR EM QUEDA E IBOVESPA NA M\xC1XIMA: E AGORA? | Market\
     \ Makers #258"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-09-16T00:00:00+00:00'
   description: "No epis\xF3dio 171 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -698,7 +721,7 @@
   path: https://www.youtube.com/watch?v=GB0b6KFZVq0
   title: 'AirPods Pro 3 Review: I Understand It Now!'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-09-15T12:00:00+00:00'
   description: ''
@@ -728,7 +751,7 @@
   path: https://open.spotify.com/episode/6CIxw87qX8YjkQpdvvegc9
   title: Antti Ilmanen - Understanding Return Expectations (S7E21)
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-09-14T05:37:30+00:00'
@@ -739,10 +762,7 @@
   path: https://theovershoot.co/p/inflation-is-persistent-and-consumers
   title: Inflation is Persistent and Consumers are Flush. Falling Rates Could be Dangerous.
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-09-12T15:00:26+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nIf you\u2019\
@@ -762,14 +782,14 @@
   path: https://www.youtube.com/watch?v=8_liatgLkLc
   title: 'Avoid Messy Code: Design Patterns for AI Agents in Python'
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-09-12T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/spending-rule-article
   title: The Only Other Spending Rule Article You Will Ever Need
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-09-09T00:00:00+00:00'
   description: "O que a briga no FED dos EUA pode significar para a queda dos juros\
     \ americanos? Ser\xE1 que o \u201Cplano Milei\u201D na Argentina est\xE1 chegando\
@@ -784,7 +804,7 @@
   path: https://open.spotify.com/episode/4XjeXPhL2hXTBzK91fM4I0
   title: '#170 - EUA, BRASIL e ARGENTINA com Vinland Capital'
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-09-06T01:05:19+00:00'
   description: 'Core measures of labor demand remain strong, while wage growth is
     holding steady (or re-accelerating). But there are a few pockets of weakness that
@@ -792,27 +812,6 @@
   image: https://substackcdn.com/image/fetch/$s_!erRF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19f24fd9-d966-4d13-b586-c8548ac08f6b_3200x2865.png
   path: https://theovershoot.co/p/us-job-market-still-surprisingly
   title: U.S. Job Market Still (Surprisingly?) Good. Inflation Risk Is Paramount.
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-09-05T15:01:14+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nPython\u2019s standard library is one of its greatest strengths, but many developers\
-    \ only scratch the surface. In this video, we explore 10 powerful and sometimes\
-    \ overlooked modules that can simplify your code, improve performance, and eliminate\
-    \ unnecessary dependencies.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/standard.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:37 Dataclasses \u2013 Less Boilerplate, More Clarity\n2:32 Pathlib\
-    \ \u2013 Modern File Paths\n3:49 Functools \u2013 Caching and Higher-Order Functions\n\
-    5:57 Tomllib \u2013 Parsing TOML Configs\n7:00 Graphlib \u2013 Topological Sorting\
-    \ for Dependencies\n8:06 Heapq \u2013 Dynamic Priority Queues in Action\n10:04\
-    \ Secrets \u2013 Cryptographically Secure Random Numbers\n11:12 Shutil \u2013\
-    \ High-Level File Operations\n12:39 Textwrap \u2013 Formatting Text Neatly\n13:29\
-    \ Itertools \u2013 Powerful Iterators and Combinations\n15:20 Final Thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/eZ9RqnkJxsk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=eZ9RqnkJxsk
-  title: 'Python Has the Best Standard Library Ever: 10 Modules You Need to Know'
 - author: The Journal.
   categories: &id009
   - Podcasts
