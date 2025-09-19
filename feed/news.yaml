@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-19T20:53:00+00:00'
+  description: "Primeira parcela precisa ser paga pelas empresas at\xE9 30 de novembro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/decimo-terceiro-salario-calcule-o-valor-e-saiba-o-que-fazer-com-o-dinheiro/
+  title: "13\xBA sal\xE1rio: o que \xE9, quem tem direito e como calcular o valor?"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -10,8 +18,7 @@
   title: "Argentina est\xE1 queimando d\xF3lares para evitar desvaloriza\xE7\xE3o\
     \ do peso"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-19T19:30:15+00:00'
   description: "As regras de transi\xE7\xE3o da Reforma da Previd\xEAncia continuar\xE3\
     o ajustando requisitos como idade m\xEDnima, tempo de contribui\xE7\xE3o e pontua\xE7\
@@ -20,14 +27,6 @@
   path: https://investnews.com.br/financas/aposentadoria-inss-2026/
   title: "Aposentadoria INSS 2026: idade m\xEDnima muda no ano que vem; veja como\
     \ acessar benef\xEDcio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-09-19T19:30:00+00:00'
-  description: "Benef\xEDcio pode baratear viagens de avi\xE3o, mas \xE9 preciso estrat\xE9\
-    gia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/programa-de-milhas-entenda-como-funciona/
-  title: 'Programa de milhas: entenda como funciona'
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
