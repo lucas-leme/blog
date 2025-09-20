@@ -1,5 +1,13 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-20T12:42:26+00:00'
+  description: "Invas\xE3o afetou os aeroportos de Londres, Berlim e Bruxelas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/entenda-o-ataque-hacker-causou-atrasos-em-aeroportos-europeus/
+  title: Entenda o ataque hacker causou atrasos em aeroportos europeus
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-19T20:53:00+00:00'
   description: "Primeira parcela precisa ser paga pelas empresas at\xE9 30 de novembro"
@@ -7,8 +15,7 @@
   path: https://investnews.com.br/financas/decimo-terceiro-salario-calcule-o-valor-e-saiba-o-que-fazer-com-o-dinheiro/
   title: "13\xBA sal\xE1rio: o que \xE9, quem tem direito e como calcular o valor?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-19T19:59:16+00:00'
   description: "Argentina est\xE1 endurecendo as restri\xE7\xF5es financeiras para\
     \ evitar uma desvaloriza\xE7\xE3o que prejudicaria o plano de estabiliza\xE7\xE3\
@@ -18,7 +25,7 @@
   title: "Argentina est\xE1 queimando d\xF3lares para evitar desvaloriza\xE7\xE3o\
     \ do peso"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-19T19:30:15+00:00'
   description: "As regras de transi\xE7\xE3o da Reforma da Previd\xEAncia continuar\xE3\
     o ajustando requisitos como idade m\xEDnima, tempo de contribui\xE7\xE3o e pontua\xE7\
@@ -68,14 +75,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1nktiih/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-18T11:54:10+00:00'
-  description: "Governo dos EUA j\xE1 desembolsou US$ 40 bilh\xF5es  aos agricultores\
-    \ em 2025"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/agricultores-eua/
-  title: Agricultores dos EUA pedem ajuda financeira urgente ao governo Trump
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-07-03T13:53:32+00:00'
