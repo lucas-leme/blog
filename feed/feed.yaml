@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-22T18:31:48.449293'
+  date: '2025-09-22T20:29:14.652712'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-22T18:31:48.447549'
+  date: '2025-09-22T20:29:14.650959'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-22T18:31:48.447545'
+  date: '2025-09-22T20:29:14.650955'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-22T18:31:48.447541'
+  date: '2025-09-22T20:29:14.650951'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-22T18:31:48.447532'
+  date: '2025-09-22T20:29:14.650942'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo est\xE1 mais adverso e incerto em\
@@ -441,6 +441,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/30072025
   title: "BC - Copom Ata - 272\xAA Reuni\xE3o - 29-30 julho, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id005
+  - CFA
+  date: '2025-09-22T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/causality-factor-investing
+  title: 'Causality and Factor Investing: A Primer'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -571,7 +579,7 @@
   path: https://open.spotify.com/episode/7D4qdgcfnl7nQ7yL2xmBYf
   title: '#261 | DISCIPLINA, VALORES E A CHOCANTE REALIDADE DO EMPREENDEDOR NO BRASIL'
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2025-09-19T22:06:58+00:00'
@@ -609,7 +617,7 @@
   path: https://www.youtube.com/watch?v=7gtc1DW2Tgo
   title: Wait... Smart Glasses are Suddenly Good?
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -794,15 +802,14 @@
   path: https://open.spotify.com/episode/2zOA3jclsK1TpCbvCt7MfC
   title: "#171 - Arm\xEDnio Fraga: economia, pol\xEDtica e mercado"
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id005
   date: '2025-09-15T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2025/continuation-funds
   title: 'Continuation Funds: Ethics in Private Markets, Part I'
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2025-09-14T05:37:30+00:00'
   description: Current income is already rising fast enough to finance broad price
     increases, with borrowing muted thanks to high rates. Lower rates could lead to
@@ -811,7 +818,7 @@
   path: https://theovershoot.co/p/inflation-is-persistent-and-consumers
   title: Inflation is Persistent and Consumers are Flush. Falling Rates Could be Dangerous.
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-09-12T15:00:26+00:00'
   description: "Check out https://www.squarespace.com/arjancodes to save 10% off your\
     \ first purchase of a website or domain using code ARJANCODES.\n\nIf you\u2019\
@@ -830,13 +837,6 @@
   image: https://i1.ytimg.com/vi/8_liatgLkLc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=8_liatgLkLc
   title: 'Avoid Messy Code: Design Patterns for AI Agents in Python'
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2025-09-12T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/spending-rule-article
-  title: The Only Other Spending Rule Article You Will Ever Need
 - author: Outliers
   categories: *id008
   date: '2025-09-09T00:00:00+00:00'
