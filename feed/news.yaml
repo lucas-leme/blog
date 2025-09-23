@@ -1,15 +1,26 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-09-22T21:20:49+00:00'
-  description: "A Berkshire comprou 10% da montadora chinesa em 2008. Come\xE7ou a\
-    \ vender em 2022. No domingo, a CNBC noticiou a sa\xEDda completa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/como-warren-buffett-foi-diminuindo-sua-posicao-na-byd-ate-zera-la-com-um-lucro-astronomico/
-  title: "Como Warren Buffett foi diminuindo sua posi\xE7\xE3o na BYD \u2013\_at\xE9\
-    \ zer\xE1-la com um lucro astron\xF4mico"
-- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-23T17:29:37+00:00'
+  description: "Embraer e Oce\xE2nica captaram no exterior ap\xF3s a Superquarta;\
+    \ CSN, Vamos e Aegea preparam emiss\xF5es em meio a cen\xE1rio favor\xE1vel para\
+    \ bonds"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/negocios/bonds-embraer-oceanica-csn-vamos-aegea/
+  title: "Embraer e Oce\xE2nica reabrem emiss\xF5es de d\xEDvida no exterior; CSN\
+    \ e Vamos est\xE3o na fila"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
+  date: '2025-09-23T15:53:12+00:00'
+  description: "Pagamento de R$ 1,03 bilh\xE3o beneficiar\xE1 387.277 contribuintes\
+    \ no dia 30 de setembro, incluindo declara\xE7\xF5es entregues fora do prazo e\
+    \ com pend\xEAncias resolvidas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/restituicao-imposto-de-renda-5o-lote/
+  title: "Restitui\xE7\xE3o Imposto de Renda: Receita libera consulta ao 5\xBA lote;\
+    \ saiba como acessar"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-09-22T20:43:56+00:00'
   description: "Al\xE9m do visto H-1B, outras regras para entrevistas e checagem de\
@@ -20,7 +31,7 @@
   title: "Trump eleva custo do visto H-1B para R$ 536 mil e endurece regras para brasileiros;\
     \ entenda as mudan\xE7as"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-09-22T14:56:32+00:00'
   description: "Pix tem quase 160 milh\xF5es de usu\xE1rios por m\xEAs, movimentando\
     \ R$ 3 trilh\xF5es"
@@ -28,10 +39,3 @@
   path: https://investnews.com.br/economia/ameacas-trump-pix/
   title: "Pesadelo das empresas de cart\xE3o de cr\xE9dito, Pix ganhou espa\xE7o entre\
     \ os brasileiros"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-19T20:53:00+00:00'
-  description: "Primeira parcela precisa ser paga pelas empresas at\xE9 30 de novembro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/decimo-terceiro-salario-calcule-o-valor-e-saiba-o-que-fazer-com-o-dinheiro/
-  title: "13\xBA sal\xE1rio: o que \xE9, quem tem direito e como calcular o valor?"
