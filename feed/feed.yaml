@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-24T14:48:19.020821'
+  date: '2025-09-24T15:48:28.156685'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-24T14:48:19.019081'
+  date: '2025-09-24T15:48:28.154908'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-24T14:48:19.019077'
+  date: '2025-09-24T15:48:28.154903'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-24T14:48:19.019073'
+  date: '2025-09-24T15:48:28.154899'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-24T14:48:19.019063'
+  date: '2025-09-24T15:48:28.154889'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-09-24T15:04:34+00:00'
+  description: '<p>EBITDA can mask CAPEX risks. Monitoring capital allocation is key
+    to spotting whether investments create cash flow or quietly drain value.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/09/24/hiding-in-plain-sight-accounting-for-capex-can-mask-accounting-free-cash-flow-in-capex-heavy-industries/">Hiding
+    in Plain Sight: Accounting for Capex</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/09/24/hiding-in-plain-sight-accounting-for-capex-can-mask-accounting-free-cash-flow-in-capex-heavy-industries/
+  title: 'Hiding in Plain Sight: Accounting for Capex'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -459,8 +472,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/09/tokenized-investment-funds/
   title: "The Financial Stability Implications of\_Tokenized\_Investment Funds"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2025-09-23T14:38:20+00:00'
   description: '<p>As AI transforms investment management with powerful tools for
     decision making, it still exposes markets to cognitive, regulatory, and systemic
@@ -474,7 +486,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/23/ai-in-investment-management-5-lessons-from-the-risk-frontier/
   title: 'AI in Investment Management: 5 Lessons from the Risk Frontier'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-09-23T01:22:47+00:00'
@@ -522,7 +534,7 @@
   path: https://www.youtube.com/watch?v=tDARtYjUiHs
   title: 'iPhone Air Review: Beauty is Pain'
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-09-23T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
@@ -576,7 +588,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/causality-factor-investing
   title: 'Causality and Factor Investing: A Primer'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-09-22T09:50:01+00:00'
   description: "<p>No apagar das luzes da \xFAltima sexta-feira, o Presidente da Rep\xFA\
@@ -618,7 +630,7 @@
   path: https://open.spotify.com/episode/0wE4AL4QsLoXgftKDsUtqk
   title: "Vladimir Novakovski \u2013 Lighter: The Orderbook for all of Ethereum (S7E22)"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-09-21T10:10:15+00:00'
   description: "<p>O Brasil pol\xEDtico tem dois andares. No de cima, as manchetes:\
     \ Lula contra Bolsonaro, Congresso contra STF, vil\xF5es e her\xF3is. \xC9 o andar\
@@ -633,7 +645,7 @@
   path: https://braziljournal.com/opiniao-o-brasil-real-nao-esta-nas-manchetes/
   title: "OPINI\xC3O. O Brasil real n\xE3o est\xE1 nas manchetes"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-09-21T00:00:00+00:00'
   description: "Neste epis\xF3dio 261 do Market Makers, Thiago Salom\xE3o e Josu\xE9\
     \ Guedes recebem Tallis Gomes, para um papo reto e sem filtros sobre a realidade\
@@ -690,7 +702,7 @@
   path: https://theovershoot.co/p/chinas-anti-involution-campaign-global
   title: 'China''s "Anti-Involution" Campaign: Global Implications'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-09-19T17:37:19+00:00'
   description: 'Trying the Meta Rayban Display glasses
 
@@ -749,18 +761,6 @@
   path: https://open.spotify.com/episode/7snWu45UQFiL7ou6vrOqBk
   title: 'Tensions Rising: The Fed Meeting, Stagflation Signals, and What It Can Mean
     for Portfolios'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-09-18T13:04:15+00:00'
-  description: '<p>As policymakers weigh semiannual earnings, data suggest quarterly
-    reports still give investors vital insight.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/09/18/quarterly-earnings-signal-vs-noise-cost-vs-benefit/">Quarterly
-    Earnings: Signal vs. Noise, Cost vs. Benefit</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/09/18/quarterly-earnings-signal-vs-noise-cost-vs-benefit/
-  title: 'Quarterly Earnings: Signal vs. Noise, Cost vs. Benefit'
 - author: Money Talks from The Economist
   categories:
   - Podcasts

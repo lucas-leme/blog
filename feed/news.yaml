@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-24T14:51:12+00:00'
+  description: "A ideia \xE9 oferecer ao presidente Javier Milei \u201Cuma ponte\u201D\
+    \ at\xE9 as elei\xE7\xF5es legislativas de meio de mandato no pr\xF3ximo m\xEA\
+    s"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/argentina-trump-ajuda/
+  title: "Argentina negocia empr\xE9stimo de US$ 20 bilh\xF5es com o governo dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -20,8 +30,7 @@
   title: "Restitui\xE7\xE3o Imposto de Renda: Receita libera consulta ao 5\xBA lote;\
     \ saiba como acessar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-22T20:43:56+00:00'
   description: "Al\xE9m do visto H-1B, outras regras para entrevistas e checagem de\
     \ redes sociais aumentam a rigidez do processo para estudantes, intercambistas\
@@ -30,13 +39,3 @@
   path: https://investnews.com.br/economia/visto-h-1b/
   title: "Trump eleva custo do visto H-1B para R$ 536 mil e endurece regras para brasileiros;\
     \ entenda as mudan\xE7as"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-22T09:00:00+00:00'
-  description: "O patamar de moeda americana nos bancos centrais j\xE1 \xE9 o menor\
-    \ em tr\xEAs d\xE9cadas. E n\xE3o \xE9 s\xF3 o ouro que entra no lugar: a participa\xE7\
-    \xE3o de outras moedas sobe de forma consistente"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/dolar-em-crise-fatia-da-moeda-nas-reservas-internacionais-do-planeta-cai-20-desde-2016/
-  title: "D\xF3lar em crise: fatia da moeda nas reservas internacionais do planeta\
-    \ cai 20% em 10 anos"
