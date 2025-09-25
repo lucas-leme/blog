@@ -1,5 +1,14 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-09-25T12:16:16+00:00'
+  description: "Em tr\xEAs meses, o peso argentino perdeu cerca de 20% do valor em\
+    \ rela\xE7\xE3o ao d\xF3lar, o pior desempenho entre todas as moedas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-ajuda-eua/
+  title: "An\xE1lise: Grande problema de Milei vai al\xE9m da ajuda dos EUA"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -38,8 +47,7 @@
   path: https://www.reddit.com/r/CFA/comments/1npwzz3/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-09-24T14:51:12+00:00'
   description: "A ideia \xE9 oferecer ao presidente Javier Milei \u201Cuma ponte\u201D\
     \ at\xE9 as elei\xE7\xF5es legislativas de meio de mandato no pr\xF3ximo m\xEA\
@@ -48,7 +56,7 @@
   path: https://investnews.com.br/economia/argentina-trump-ajuda/
   title: "Argentina discute com governo dos EUA empr\xE9stimo de US$ 20 bilh\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2025-09-23T21:15:00+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>I\u2019ve posted about this in\
     \ comments and DMs, but it\u2019s clear we need to make a larger announcement.</p>\
@@ -98,7 +106,7 @@
   path: https://www.reddit.com/r/CFA/comments/1notnca/psa_no_vibe_coded_ai_generated_qbanks_are_not/
   title: 'PSA: No, vibe coded, AI generated Qbanks are not something we need.'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   date: '2025-09-23T17:29:37+00:00'
   description: "Embraer e Oce\xE2nica captaram no exterior ap\xF3s a Superquarta;\
@@ -109,7 +117,7 @@
   title: "Embraer e Oce\xE2nica reabrem emiss\xF5es de d\xEDvida no exterior; CSN\
     \ e Vamos est\xE3o na fila"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
+  categories: *id003
   date: '2025-09-23T15:53:12+00:00'
   description: "Pagamento de R$ 1,03 bilh\xE3o beneficiar\xE1 387.277 contribuintes\
     \ no dia 30 de setembro, incluindo declara\xE7\xF5es entregues fora do prazo e\
@@ -118,13 +126,3 @@
   path: https://investnews.com.br/financas/restituicao-imposto-de-renda-5o-lote/
   title: "Restitui\xE7\xE3o Imposto de Renda: Receita libera consulta ao 5\xBA lote;\
     \ saiba como acessar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2025-09-22T20:43:56+00:00'
-  description: "Al\xE9m do visto H-1B, outras regras para entrevistas e checagem de\
-    \ redes sociais aumentam a rigidez do processo para estudantes, intercambistas\
-    \ e trabalhadores estrangeiros"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/visto-h-1b/
-  title: "Trump eleva custo do visto H-1B para R$ 536 mil e endurece regras para brasileiros;\
-    \ entenda as mudan\xE7as"
