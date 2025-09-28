@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-28T14:14:15+00:00'
+  description: "Lideran\xE7as da organiza\xE7\xE3o v\xE3o se reunir em 5 de outubro\
+    \ para debater o tema"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/opep-pretende-elevar-de-novo-a-producao-de-petroleo-em-novembro/
+  title: "Opep pretende elevar de novo a produ\xE7\xE3o de petr\xF3leo em novembro"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +28,7 @@
   title: "Investidor iniciante: como evitar erros comuns e diversificar seu dinheiro\
     \ com seguran\xE7a"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-25T12:16:16+00:00'
   description: "Em tr\xEAs meses, o peso argentino perdeu cerca de 20% do valor em\
     \ rela\xE7\xE3o ao d\xF3lar, o pior desempenho entre todas as moedas"
@@ -28,12 +36,3 @@
   path: https://investnews.com.br/economia/milei-ajuda-eua/
   title: "An\xE1lise: Mais do que a economia, o problema de Milei \xE9 mesmo a pol\xED\
     tica argentina"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-24T14:51:12+00:00'
-  description: "A ideia \xE9 oferecer ao presidente Javier Milei \u201Cuma ponte\u201D\
-    \ at\xE9 as elei\xE7\xF5es legislativas de meio de mandato no pr\xF3ximo m\xEA\
-    s"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/argentina-trump-ajuda/
-  title: "Argentina discute com governo dos EUA empr\xE9stimo de US$ 20 bilh\xF5es"
