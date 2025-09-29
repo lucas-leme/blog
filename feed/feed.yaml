@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-09-29T11:25:01.178561'
+  date: '2025-09-29T12:14:40.824431'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-29T11:25:01.176785'
+  date: '2025-09-29T12:14:40.822618'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -21,13 +21,13 @@
     \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
     \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/19092025
-  title: "BC - Focus - Relat\xF3rio de Mercado - 19/09/2025"
+  path: https://www.bcb.gov.br/publicacoes/focus/26092025
+  title: "BC - Focus - Relat\xF3rio de Mercado - 26/09/2025"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
   - BC
-  date: '2025-09-29T11:25:01.176781'
+  date: '2025-09-29T12:14:40.822614'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-29T11:25:01.176776'
+  date: '2025-09-29T12:14:40.822609'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-09-29T11:25:01.176766'
+  date: '2025-09-29T12:14:40.822598'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2025-09-29T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/alternative-credit-rise-of-consumer-lending
+  title: 'Alternative Credit: The Rise of Consumer Lending'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id005
   - Economia
@@ -496,7 +504,7 @@
   path: https://open.spotify.com/episode/3PvvPDZu2jaQDhwPfNwvQs
   title: "A BOLHA DE US$ 1,2 TRILH\xC3O: O FUTURO DA INTELIG\xCANCIA ARTIFICIAL"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-09-26T21:00:43+00:00'
@@ -652,8 +660,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/09/24/hiding-in-plain-sight-accounting-for-capex-can-mask-accounting-free-cash-flow-in-capex-heavy-industries/
   title: 'Hiding in Plain Sight: Accounting for Capex'
 - author: CFA Institute Research and Policy Center
-  categories: &id004
-  - CFA
+  categories: *id003
   date: '2025-09-24T12:00:00+00:00'
   description: ''
   image: null
@@ -684,7 +691,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/09/tokenized-investment-funds/
   title: "The Financial Stability Implications of\_Tokenized\_Investment Funds"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-09-23T01:22:47+00:00'
   description: 'The thinnest and most interesting iPhone in years... is a preview
     for an even more interesting iPhone
@@ -729,13 +736,6 @@
   image: https://i1.ytimg.com/vi/tDARtYjUiHs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=tDARtYjUiHs
   title: 'iPhone Air Review: Beauty is Pain'
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2025-09-22T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2025/causality-factor-investing
-  title: 'Causality and Factor Investing: A Primer'
 - author: "Economia \u2013 Brazil Journal"
   categories: *id005
   date: '2025-09-22T09:50:01+00:00'
