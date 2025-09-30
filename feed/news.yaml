@@ -1,3 +1,11 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-09-30T14:20:44+00:00'
+  description: "Visa quer tornar os pagamentos internacionais mais r\xE1pidos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/visa-stablecoins/
+  title: Visa testa uso de stablecoins para pagamentos no exterior
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +26,7 @@
   title: "Como a paralisa\xE7\xE3o do governo americano pode atrapalhar a vida de\
     \ quem planeja aproveitar o outono nos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-09-26T18:17:19+00:00'
   description: "Pela nova medida, os operadores devem esperar 90 dias entre a compra\
     \ de d\xF3lares pela taxa de c\xE2mbio oficial mais baixa e a venda no mercado\
@@ -28,12 +35,3 @@
   path: https://investnews.com.br/financas/banco-central-argentina-dolares/
   title: "BC da Argentina imp\xF5e novo per\xEDodo de car\xEAncia para evitar vendas\
     \ lucrativas de d\xF3lares"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-26T17:00:00+00:00'
-  description: "Descubra os passos essenciais para come\xE7ar a investir e construir\
-    \ um patrim\xF4nio sustent\xE1vel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/10-dicas-de-investimentos-para-iniciantes/
-  title: "Investidor iniciante: como evitar erros comuns e diversificar seu dinheiro\
-    \ com seguran\xE7a"
