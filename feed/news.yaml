@@ -1,6 +1,25 @@
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-10-02T17:17:30+00:00'
+  description: "Tarifas abriram espa\xE7o para rivais sul-americanos, e agricultores\
+    \ americanos aumentam a press\xE3o sobre a Casa Branca"
+  image: https://media.investnews.com.br/uploads/2025/02/426675464-_1_.webp
+  path: https://investnews.com.br/economia/soja-tarifas-eua-china-brasil-argentina/
+  title: "Soja dos EUA perde espa\xE7o para Brasil e Argentina, e Trump apela \xE0\
+    \ China"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-02T16:22:44+00:00'
+  description: "C\xE2mara aprovou projeto que isenta do IR rendas mensais de at\xE9\
+    \ R$ 5 mil; veja a nova tabela do Imposto de Renda e o impacto no bolso do contribuinte"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/nova-tabela-do-imposto-de-renda/
+  title: "Como ficar\xE1 a nova tabela do Imposto de Renda com a isen\xE7\xE3o para\
+    \ quem ganha at\xE9 R$ 5 mil; confira economia anual estimada"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-10-02T13:58:28+00:00'
   description: "Investidores questionam apoio do governo Trump \xE0 Argentina"
   image: https://media.investnews.com.br/uploads/2024/11/412614036_65.webp
@@ -8,8 +27,7 @@
   title: "Bessent contra parede: Promessa de socorro \xE0 Argentina \xE9 posta \xE0\
     \ prova com ataque ao peso"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-02T11:20:35+00:00'
   description: "C\xE2mara aprova projeto que amplia faixa de isen\xE7\xE3o do Imposto\
     \ de Renda; medida ainda depende do Senado"
@@ -17,19 +35,3 @@
   path: https://investnews.com.br/financas/isencao-do-imposto-de-renda-2025-2026/
   title: "C\xE2mara aprova isen\xE7\xE3o do Imposto de Renda para quem ganha at\xE9\
     \ R$ 5 mil; veja tabela atualizada"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-01T15:44:57+00:00'
-  description: "Com o shutdown nos Estados Unidos, investidores se preocupam com os\
-    \ efeitos da paralisa\xE7\xE3o tempor\xE1ria de servi\xE7os p\xFAblicos; confira\
-    \ o que significa o termo e casos semelhantes no Brasil e em outros pa\xEDses"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/o-que-e-shutdown/
-  title: "O que \xE9 shutdown? Entenda a paralisa\xE7\xE3o nos EUA e impactos globais"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-09-30T14:20:44+00:00'
-  description: "Visa quer tornar os pagamentos internacionais mais r\xE1pidos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/visa-stablecoins/
-  title: Visa testa uso de stablecoins para pagamentos no exterior
