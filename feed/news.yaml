@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-02T13:58:28+00:00'
+  description: "Investidores questionam apoio do governo Trump \xE0 Argentina"
+  image: https://media.investnews.com.br/uploads/2024/11/412614036_65.webp
+  path: https://investnews.com.br/economia/bessent-resgate-argentina/
+  title: "Bessent contra parede: Promessa de socorro \xE0 Argentina \xE9 posta \xE0\
+    \ prova com ataque ao peso"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -48,8 +57,7 @@
   path: https://www.reddit.com/r/CFA/comments/1nvtqzf/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-01T15:44:57+00:00'
   description: "Com o shutdown nos Estados Unidos, investidores se preocupam com os\
     \ efeitos da paralisa\xE7\xE3o tempor\xE1ria de servi\xE7os p\xFAblicos; confira\
@@ -57,15 +65,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/o-que-e-shutdown/
   title: "O que \xE9 shutdown? Entenda a paralisa\xE7\xE3o nos EUA e impactos globais"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-01T12:12:51+00:00'
-  description: "Shutdown corre o risco de acrescentar ainda mais\_press\xE3o sobre\
-    \ o d\xF3lar"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/shutdown-ouro-dolar/
-  title: "Primeiro \u2018shutdown\u2019 em sete anos nos EUA abala os mercados: ouro\
-    \ dispara e d\xF3lar est\xE1 sob press\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-09-30T14:20:44+00:00'
