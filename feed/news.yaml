@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-06T16:47:25+00:00'
+  description: "A cada m\xEAs, centenas de milhares de argentinos fazem viagens de\
+    \ compras no exterior, esgotando as\_reservas em moeda forte"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/argentinos-compras-chile/
+  title: "Argentinos torram bilh\xF5es em compras e agravam crise cambial"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,23 +17,13 @@
   path: https://investnews.com.br/financas/ipo-eua-shutdown/
   title: "Nos EUA, IPOs ficam no limbo com paralisa\xE7\xE3o do governo"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-03T17:16:40+00:00'
   description: "Sem espa\xE7o no maior comprador global de soja, Donald Trump promete\
     \ levar a soja \xE0 mesa em reuni\xE3o com Xi Jinping nas pr\xF3ximas semanas."
   image: https://media.investnews.com.br/uploads/2024/10/soja-AdobeStock_285320860.webp
   path: https://investnews.com.br/economia/china-soja-eua-nova-safra-trump/
   title: "A China n\xE3o comprou um gr\xE3o sequer da nova safra de soja dos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-02T17:17:30+00:00'
-  description: "Tarifas abriram espa\xE7o para rivais sul-americanos, e agricultores\
-    \ americanos aumentam a press\xE3o sobre a Casa Branca"
-  image: https://media.investnews.com.br/uploads/2025/02/426675464-_1_.webp
-  path: https://investnews.com.br/economia/soja-tarifas-eua-china-brasil-argentina/
-  title: "Soja dos EUA perde espa\xE7o para Brasil e Argentina, e Trump apela \xE0\
-    \ China"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-10-02T16:22:44+00:00'
