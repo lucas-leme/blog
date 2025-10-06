@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-06T14:33:12+00:00'
+  description: "Sem um acordo para encerrar o impasse no Congresso americano, advogados\
+    \ est\xE3o aconselhando os clientes de IPO a aguardarem"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ipo-eua-shutdown/
+  title: "Nos EUA, IPOs ficam no limbo com paralisa\xE7\xE3o do governo"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   title: "Soja dos EUA perde espa\xE7o para Brasil e Argentina, e Trump apela \xE0\
     \ China"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-02T16:22:44+00:00'
   description: "C\xE2mara aprovou projeto que isenta do IR rendas mensais de at\xE9\
     \ R$ 5 mil; veja a nova tabela do Imposto de Renda e o impacto no bolso do contribuinte"
@@ -26,12 +34,3 @@
   path: https://investnews.com.br/financas/nova-tabela-do-imposto-de-renda/
   title: "Como ficar\xE1 a nova tabela do Imposto de Renda com a isen\xE7\xE3o para\
     \ quem ganha at\xE9 R$ 5 mil; confira economia anual estimada"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-02T11:20:35+00:00'
-  description: "C\xE2mara aprova projeto que amplia faixa de isen\xE7\xE3o do Imposto\
-    \ de Renda; medida ainda depende do Senado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/isencao-do-imposto-de-renda-2025-2026/
-  title: "C\xE2mara aprova isen\xE7\xE3o do Imposto de Renda para quem ganha at\xE9\
-    \ R$ 5 mil; veja tabela atualizada"
