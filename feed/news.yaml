@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-08T18:30:23+00:00'
+  description: "Governo argentino paga caro para manter moeda local valorizada e evitar\
+    \ mais infla\xE7\xE3o \xE0s v\xE9speras de elei\xE7\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/vendas-de-dolares-da-milei-impulsionam-o-peso-mas-alimentam-apostas-de-desvalorizacao/
+  title: "Vendas de d\xF3lares da Milei impulsionam o peso, mas alimentam apostas\
+    \ de desvaloriza\xE7\xE3o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Inspirado no Brasil, Pix colombiano j\xE1 nasce com 32 milh\xF5es de usu\xE1\
     rios: como funciona o Bre-B"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-07T16:03:57+00:00'
   description: "Benef\xEDcios incentivaram projetos de energia renov\xE1vel, mas oneraram\
     \ a conta dos consumidores"
@@ -18,14 +27,6 @@
   path: https://investnews.com.br/economia/aneel-muda-regra-para-reduzir-desconto-bilionario-a-geradores-de-energia-renovavel/
   title: "Aneel muda regra para reduzir desconto bilion\xE1rio a geradores de energia\
     \ renov\xE1vel"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-07T13:19:12+00:00'
-  description: "Em uma semana, governo Milei vendeu cerca de US$ 1,3 bilh\xE3o, esgotando\
-    \ a j\xE1 escassa posi\xE7\xE3o de caixa do Tesouro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/argentina-vende-dolares/
-  title: "Argentina vende d\xF3lares pelo quinto dia seguido e reduz reservas"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
