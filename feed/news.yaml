@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2025-10-08T14:08:03+00:00'
+  description: "Pix colombiano tem at\xE9 participa\xE7\xE3o brasileira, da fintech\
+    \ Ebanx, de Curitiba (PR)"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/inspirado-no-brasil-pix-colombiano-ja-nasce-com-32-milhoes-de-usuarios-como-funciona-o-bre-b/
+  title: "Inspirado no Brasil, Pix colombiano j\xE1 nasce com 32 milh\xF5es de usu\xE1\
+    rios: como funciona o Bre-B"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -50,8 +60,7 @@
   path: https://www.reddit.com/r/CFA/comments/1o01vov/psa_results_posts_will_be_removed/
   title: 'PSA: Results Posts Will Be Removed'
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2025-10-06T20:35:11+00:00'
   description: "Projeto de isen\xE7\xE3o do Imposto de Renda at\xE9 R$ 5 mil depende\
     \ de aval do Senado e reacende o debate sobre taxa\xE7\xE3o de lucros e dividendos"
@@ -59,11 +68,3 @@
   path: https://investnews.com.br/financas/isencao-do-imposto-de-renda-dividendos/
   title: "Isen\xE7\xE3o do Imposto de Renda at\xE9 R$ 5 mil: o que falta para o Senado\
     \ aprovar e como ficam os dividendos"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2025-10-06T14:33:12+00:00'
-  description: "Sem um acordo para encerrar o impasse no Congresso americano, advogados\
-    \ est\xE3o aconselhando os clientes de IPO a aguardarem"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ipo-eua-shutdown/
-  title: "Nos EUA, IPOs ficam no limbo com paralisa\xE7\xE3o do governo"

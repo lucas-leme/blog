@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-08T13:41:02.153525'
+  date: '2025-10-08T14:49:59.852852'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-08T13:41:02.151699'
+  date: '2025-10-08T14:49:59.851081'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-08T13:41:02.151695'
+  date: '2025-10-08T14:49:59.851077'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-08T13:41:02.151690'
+  date: '2025-10-08T14:49:59.851073'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-08T13:41:02.151680'
+  date: '2025-10-08T14:49:59.851062'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-10-08T14:03:33+00:00'
+  description: "<p>Hong Kong's IPO market reasserts its role as the gateway for Mainland\
+    \ China listings, offering investors new access but persistent concentration risk.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/10/08/hong-kongs-ipo-boom-gateway-or-risk-trap-for-investors/\"\
+    >Hong Kong\u2019s IPO Boom: Gateway or Risk Trap for Investors?</a> appeared first\
+    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/08/hong-kongs-ipo-boom-gateway-or-risk-trap-for-investors/
+  title: "Hong Kong\u2019s IPO Boom: Gateway or Risk Trap for Investors?"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-10-08T13:11:17+00:00'
@@ -502,7 +515,7 @@
   path: https://braziljournal.com/opiniao-a-mp-1303-e-ruim-para-todos/
   title: "OPINI\xC3O. A MP 1303 \xE9 ruim para todos"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-10-07T00:00:00+00:00'
   description: "Abra sua conta na Binance e se junte aos outros 280 milh\xF5es de\
@@ -563,8 +576,7 @@
   title: 'Investir fora do Brasil vale a pena? Entenda a renda fixa global | Espresso
     Outliers InfoMoney #1'
 - author: CFA Institute Enterprising Investor
-  categories: &id004
-  - CFA
+  categories: *id002
   date: '2025-10-06T15:00:39+00:00'
   description: "<p>Quantum computing is closer than you think. Future-proof your firm\u2019\
     s security today to stay resilient in the quantum era and safeguard data.</p>\n\
@@ -598,7 +610,7 @@
   path: https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai
   title: The Tariff Exemption Behind the AI Boom
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-10-05T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
     \ https://conteudo.btgpactual.com/iof-zero?utm_channel=parceiros&amp;utm_medium=partners&amp;utm_source=market-makers&amp;utm_campaign=PAR_PERF_BUBANK_iof-zero_202509&amp;utm_content=descricao&amp;utm_term=20250918Tenha\
@@ -641,7 +653,7 @@
   path: https://open.spotify.com/episode/5UBWCC1ia45jtC1GZBf3Vm
   title: '#267 | O PLANO DO GOVERNO QUE VAI QUEBRAR O BRASIL (com Economista Sincero)'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-10-03T19:57:29+00:00'
   description: Somebody copy this with high quality parts please
   image: https://i4.ytimg.com/vi/GAdT6gYE54U/hqdefault.jpg
@@ -670,20 +682,6 @@
   image: https://i2.ytimg.com/vi/Af6Zr0tNNdE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Af6Zr0tNNdE
   title: Anatomy of a Scalable Python Project (FastAPI)
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-10-03T13:28:42+00:00'
-  description: '<p>Readers and investors will learn how to turn charitable giving
-    into a strategy to save on taxes, maximize charitable impact, and give smarter.
-    </p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/03/book-review-the-tax-smart-donor-optimize-your-lifetime-giving-plan/">Book
-    Review: The Tax-Smart Donor: Optimize Your Lifetime Giving Plan</a> appeared first
-    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/03/book-review-the-tax-smart-donor-optimize-your-lifetime-giving-plan/
-  title: 'Book Review: The Tax-Smart Donor: Optimize Your Lifetime Giving Plan'
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA
