@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-13T13:41:42.881227'
+  date: '2025-10-13T14:49:03.474755'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-13T13:41:42.879458'
+  date: '2025-10-13T14:49:03.472971'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-13T13:41:42.879454'
+  date: '2025-10-13T14:49:03.472968'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-13T13:41:42.879449'
+  date: '2025-10-13T14:49:03.472963'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-13T13:41:42.879439'
+  date: '2025-10-13T14:49:03.472953'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-10-13T14:15:58+00:00'
+  description: '<p>Five forces shaping investor sentiment in 2025: AI hype, rising
+    fees, market timing, behavioral traps, and renewed focus on discipline.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/13/from-ai-fomo-to-fee-fatigue-investor-sentiment-2025/">From
+    AI FOMO to Fee Fatigue: Investor Sentiment 2025</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/13/from-ai-fomo-to-fee-fatigue-investor-sentiment-2025/
+  title: 'From AI FOMO to Fee Fatigue: Investor Sentiment 2025'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -489,7 +502,7 @@
   title: "Jay Rajamony \u2013 Beyond Factors: Reimagining Quant Equity for the Modern\
     \ Era\_(S7E23)"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-10-12T00:00:00+00:00'
   description: "Acesse para ter mais informa\xE7\xF5es sobre a fam\xEDlia Synergy:Neste\
@@ -561,8 +574,7 @@
   path: https://theovershoot.co/p/guest-post-dear-imf-its-not-only
   title: 'Guest Post: Dear IMF, It''s Not *Only* Fiscal'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-10-09T13:57:22+00:00'
   description: '<p>Explore how culture, ideology, and group norms influence economic
     behavior in ways that go beyond standard behavioral finance models.</p>
@@ -593,7 +605,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/10/end-of-month-activity-across-the-treasury-market/
   title: End&#8209;of&#8209;Month Activity Across the Treasury Market
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-10-09T00:00:00+00:00'
   description: "No Market Makers 269, Sergio Rial, um dos executivos mais influentes\
     \ do mundo, abre o jogo sobre as m\xFAltiplas vidas que viveu no capitalismo brasileiro\
@@ -678,18 +690,6 @@
   image: https://i1.ytimg.com/vi/Tl8RS0sR-qA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Tl8RS0sR-qA
   title: 'Google Pixel Pro Fold Review: Not Compatible!'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-10-08T14:03:33+00:00'
-  description: "<p>Hong Kong's IPO market reasserts its role as the gateway for Mainland\
-    \ China listings, offering investors new access but persistent concentration risk.</p>\n\
-    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/10/08/hong-kongs-ipo-boom-gateway-or-risk-trap-for-investors/\"\
-    >Hong Kong\u2019s IPO Boom: Gateway or Risk Trap for Investors?</a> appeared first\
-    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/08/hong-kongs-ipo-boom-gateway-or-risk-trap-for-investors/
-  title: "Hong Kong\u2019s IPO Boom: Gateway or Risk Trap for Investors?"
 - author: Marques Brownlee
   categories: *id004
   date: '2025-10-08T13:11:17+00:00'
