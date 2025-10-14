@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-14T18:52:27+00:00'
+  description: "O excedente previsto \xE9 cerca de 18% superior ao que foi estimado\
+    \ no m\xEAs passado"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petroleo-recorde-oferta/
+  title: "Produ\xE7\xE3o global de petr\xF3leo caminha para oferta recorde em 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Receio sobre t\xEDtulos de d\xEDvida de empresas chega \xE0 Ra\xEDzen: queda\
     \ de quase 20% em uma semana"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-14T13:54:50+00:00'
   description: "O transporte mar\xEDtimo \xE9 apenas um ponto de disc\xF3rdia na rela\xE7\
     \xE3o China-EUA, que tem deixado os investidores globais nervosos"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/china-disputa-comercial-eua/
   title: "China intensifica disputa com os EUA e imp\xF5e restri\xE7\xF5es ao transporte\
     \ mar\xEDtimo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-14T12:58:35+00:00'
-  description: "Consumidores de renda m\xE9dia fora de Pequim e Xangai passam a dar\
-    \ mais valor a produtos de luxo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/luxo-chineses-consumo/
-  title: "Pequenos luxos, grandes neg\xF3cios: a revolu\xE7\xE3o silenciosa do consumo\
-    \ nas pequenas cidades chinesas"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-10-10T19:29:29+00:00'

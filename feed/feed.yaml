@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-14T18:31:57.940237'
+  date: '2025-10-14T20:29:22.395040'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T18:31:57.938423'
+  date: '2025-10-14T20:29:22.393262'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T18:31:57.938415'
+  date: '2025-10-14T20:29:22.393258'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T18:31:57.938410'
+  date: '2025-10-14T20:29:22.393247'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T18:31:57.938400'
+  date: '2025-10-14T20:29:22.393237'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-10-14T18:56:16+00:00'
+  description: '<p>Top 10 blogs from Q3 reveal what investors read most: Fed pivots,
+    private GPTs, and the resilience of low-volatility strategies.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/14/top-10-blogs-from-q3-fed-pivots-private-gpts-and-the-case-for-low-vol/">Top
+    10 Blogs from Q3: Fed Pivots, Private GPTs, and the Case for Low-Vol</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/14/top-10-blogs-from-q3-fed-pivots-private-gpts-and-the-case-for-low-vol/
+  title: 'Top 10 Blogs from Q3: Fed Pivots, Private GPTs, and the Case for Low-Vol'
 - author: CFA Institute Research and Policy Center
   categories: &id006
   - CFA
@@ -465,8 +479,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/10/consumption-sensitivity-of-uncertain-households/
   title: Consumption Sensitivity of Uncertain Households
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-10-13T14:15:58+00:00'
   description: '<p>Five forces shaping investor sentiment in 2025: AI hype, rising
     fees, market timing, behavioral traps, and renewed focus on discipline.</p>
@@ -478,7 +491,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/13/from-ai-fomo-to-fee-fatigue-investor-sentiment-2025/
   title: 'From AI FOMO to Fee Fatigue: Investor Sentiment 2025'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-10-13T04:35:41+00:00'
   description: "<p>A C\xE2mara dos Deputados aprovou em vota\xE7\xE3o-rel\xE2mpago\
@@ -495,7 +508,7 @@
   title: "OPINI\xC3O. O sucesso do lobby dos agentes de sa\xFAde \xE9 uma aula de\
     \ Brasil"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-10-13T04:35:08+00:00'
   description: "<p>OIAPOQUE e MACAP\xC1 \u2013 Em um dos pontos mais extremos do Brasil,\
     \ todos os dias chegam pessoas de diferentes partes do Pa\xEDs atra\xEDdas pelas\
@@ -603,18 +616,6 @@
   image: https://substackcdn.com/image/fetch/$s_!AwPg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8671456-5deb-4edc-877e-82eefc4dddd9_452x418.png
   path: https://theovershoot.co/p/guest-post-dear-imf-its-not-only
   title: 'Guest Post: Dear IMF, It''s Not *Only* Fiscal'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-10-09T13:57:22+00:00'
-  description: '<p>Explore how culture, ideology, and group norms influence economic
-    behavior in ways that go beyond standard behavioral finance models.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/09/book-review-irrational-together/">Book
-    Review: Irrational Together</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/09/book-review-irrational-together/
-  title: 'Book Review: Irrational Together'
 - author: Market Makers
   categories: *id003
   date: '2025-10-09T00:00:00+00:00'
