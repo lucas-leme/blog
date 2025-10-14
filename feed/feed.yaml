@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-14T14:50:00.179912'
+  date: '2025-10-14T15:48:15.868250'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T14:50:00.178117'
+  date: '2025-10-14T15:48:15.866482'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T14:50:00.178114'
+  date: '2025-10-14T15:48:15.866474'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T14:50:00.178109'
+  date: '2025-10-14T15:48:15.866470'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-14T14:50:00.178100'
+  date: '2025-10-14T15:48:15.866460'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id006
+  - CFA
+  date: '2025-10-14T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/codes-and-standards/codes/inclusion-code-australia
+  title: CFA Institute Inclusion Code (Australia)
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -562,7 +570,7 @@
   path: https://open.spotify.com/episode/5hZ1CNCpqEm1p5prcToMSK
   title: "#270 | A OPORTUNIDADE IRRECUS\xC1VEL DA BOLSA BRASILEIRA"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -729,8 +737,7 @@
   title: 'Investir fora do Brasil vale a pena? Entenda a renda fixa global | Espresso
     Outliers InfoMoney #1'
 - author: CFA Institute Research and Policy Center
-  categories: &id007
-  - CFA
+  categories: *id006
   date: '2025-10-06T12:00:00+00:00'
   description: ''
   image: null
@@ -759,7 +766,7 @@
   path: https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai
   title: The Tariff Exemption Behind the AI Boom
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-10-03T15:00:28+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, we break down the anatomy of a scalable Python project using\
@@ -778,13 +785,6 @@
   image: https://i2.ytimg.com/vi/Af6Zr0tNNdE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Af6Zr0tNNdE
   title: Anatomy of a Scalable Python Project (FastAPI)
-- author: CFA Institute Research and Policy Center
-  categories: *id007
-  date: '2025-10-02T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/codes-and-standards/codes/inclusion-code-singapore
-  title: CFA Institute Inclusion Code (Singapore)
 - author: Outliers
   categories: *id008
   date: '2025-09-30T00:00:00+00:00'
