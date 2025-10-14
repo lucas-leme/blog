@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-14T14:39:12+00:00'
+  description: "T\xEDtulos de d\xEDvida da Ra\xEDzen registraram perdas de quase 19%\
+    \ na semana passada"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/raizen-queda-titulos/
+  title: "Turbul\xEAncia em bonds corporativos derruba t\xEDtulos da Ra\xEDzen"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -20,23 +29,13 @@
   title: "Pent\xE1gono planeja comprar US$ 1 bilh\xE3o em minerais cr\xEDticos, diz\
     \ jornal"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-10T19:29:29+00:00'
   description: "Mas entre os pessimistas sobre o d\xF3lar est\xE3o o Goldman Sachs,\
     \ o JPMorgan e o Morgan Stanley"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/aposta-contra-o-dolar/
   title: "Apostar contra o d\xF3lar pode sair caro para os investidores"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-10T16:58:27+00:00'
-  description: "Entenda como ficam os juros, o teto do SFH e o que muda para quem\
-    \ quer comprar a casa pr\xF3pria com o novo financiamento imobili\xE1rio"
-  image: https://media.investnews.com.br/uploads/2025/10/AdobeStock_199979241-1536x1024-2.webp
-  path: https://investnews.com.br/financas/financiamento-imobiliario-caixa/
-  title: "Governo ajusta regras de financiamento imobili\xE1rio para atender a classe\
-    \ m\xE9dia"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
