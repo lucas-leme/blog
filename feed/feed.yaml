@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-15T18:32:08.760180'
+  date: '2025-10-15T20:30:00.679640'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-15T18:32:08.758399'
+  date: '2025-10-15T20:30:00.677873'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-15T18:32:08.758395'
+  date: '2025-10-15T20:30:00.677869'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-15T18:32:08.758390'
+  date: '2025-10-15T20:30:00.677864'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-15T18:32:08.758379'
+  date: '2025-10-15T20:30:00.677855'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,9 +434,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2025-10-15T20:06:35+00:00'
+  description: "<p>O Brasil est\xE1 diante de uma escolha decisiva. Ap\xF3s anos de\
+    \ debate e amadurecimento, o Congresso aprovou a Lei Geral do Licenciamento Ambiental,\
+    \ resultado de amplo di\xE1logo entre t\xE9cnicos, parlamentares e sociedade.\
+    \ Agora, cabe ao Parlamento garantir que este avan\xE7o n\xE3o seja perdido: nesta\
+    \ quinta-feira, votaremos a derrubada dos vetos presidenciais ao texto original\
+    \ do [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-precisamos-de-um-licenciamento-ambiental-moderno/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Precisamos de um licenciamento ambiental moderno</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-precisamos-de-um-licenciamento-ambiental-moderno/
+  title: "OPINI\xC3O. Precisamos de um licenciamento ambiental moderno"
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
+  date: '2025-10-15T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/many-facets-of-stock-momentum
+  title: 'The Many Facets of Stock Momentum: Distinguishing Factor and Stock Components'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
   date: '2025-10-15T12:00:00+00:00'
   description: ''
   image: null
@@ -528,13 +551,6 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/14/top-10-blogs-from-q3-private-market-reckoning-fed-pivots-the-case-for-low-vol/
   title: 'Top 10 Blogs from Q3: Private Market Reckoning, Fed Pivots, the Case for
     Low-Vol'
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2025-10-14T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/codes-and-standards/codes/inclusion-code-australia
-  title: CFA Institute Inclusion Code (Australia)
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -585,8 +601,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/13/from-ai-fomo-to-fee-fatigue-investor-sentiment-2025/
   title: 'From AI FOMO to Fee Fatigue: Investor Sentiment 2025'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id003
   date: '2025-10-13T04:35:41+00:00'
   description: "<p>A C\xE2mara dos Deputados aprovou em vota\xE7\xE3o-rel\xE2mpago\
     \ a PEC 14/2021, que concede privil\xE9gios corporativos e benef\xEDcios previdenci\xE1\
@@ -601,20 +616,6 @@
   path: https://braziljournal.com/opiniao-o-sucesso-do-lobby-dos-agentes-de-saude-e-uma-aula-de-brasil/
   title: "OPINI\xC3O. O sucesso do lobby dos agentes de sa\xFAde \xE9 uma aula de\
     \ Brasil"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2025-10-13T04:35:08+00:00'
-  description: "<p>OIAPOQUE e MACAP\xC1 \u2013 Em um dos pontos mais extremos do Brasil,\
-    \ todos os dias chegam pessoas de diferentes partes do Pa\xEDs atra\xEDdas pelas\
-    \ riquezas do petr\xF3leo \xE0 beira da Amaz\xF4nia.\_ Elas circulam pela pequena\
-    \ Oiapoque, esta cidade de 25 mil habitantes que faz divisa com a Guiana Francesa\
-    \ e onde s\xF3 se fala das [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/na-foz-do-amazonas-o-amapa-sonha-com-os-bilhoes-de-petrodolares/\"\
-    \ rel=\"nofollow\">Na Foz do Amazonas, o Amap\xE1 sonha com os bilh\xF5es de petrod\xF3\
-    lares</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/na-foz-do-amazonas-o-amapa-sonha-com-os-bilhoes-de-petrodolares/
-  title: "Na Foz do Amazonas, o Amap\xE1 sonha com os bilh\xF5es de petrod\xF3lares"
 - author: Flirting with Models
   categories:
   - Podcasts
