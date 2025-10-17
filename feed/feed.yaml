@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-17T14:48:41.837086'
+  date: '2025-10-17T15:48:17.466056'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T14:48:41.835330'
+  date: '2025-10-17T15:48:17.464324'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T14:48:41.835326'
+  date: '2025-10-17T15:48:17.464320'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T14:48:41.835322'
+  date: '2025-10-17T15:48:17.464315'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T14:48:41.835312'
+  date: '2025-10-17T15:48:17.464305'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-10-17T15:01:30+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIf your code is littered with endless if-elif chains just to handle different\
+    \ formats, behaviors, or commands, there\u2019s a better way. In this video, I\u2019\
+    ll show you how the Registry Pattern can help you clean up your logic, make your\
+    \ code extensible, and even power a dynamic CLI with plugin support. We\u2019\
+    ll start with a simple example and then build a real-world textutils CLI using\
+    \ Python and Typer, complete with Rich-powered output and zero hardcoded logic.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/registry.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:48 What Is the Registry Pattern?\n1:20 Quick Example: The Exporter Problem\n\
+    8:22 Full Example: CLI text utils\n9:50 Registry Implementation. Overview\n11:25\
+    \ Wiring It Up with Typer\n12:33 Extending the CLI\n13:56 Benefits of This Pattern\
+    \ (Now That You\u2019ve Seen It in Action)\n14:18 Pitfalls to Watch Out For\n\
+    14:48 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/g7EGMWvJ1fI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=g7EGMWvJ1fI
+  title: Stop Writing If-Elif Chains and Start Doing This Instead
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -587,7 +611,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/mercer-cfa-institute-global-pension-index-2025
   title: Mercer CFA Institute Global Pension Index 2025
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-10-15T00:00:00+00:00'
   description: "Em um momento em que o mundo se divide entre tens\xF5es geopol\xED\
@@ -705,10 +729,7 @@
   title: "Jay Rajamony \u2013 Beyond Factors: Reimagining Quant Equity for the Modern\
     \ Era\_(S7E23)"
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-10-10T15:00:54+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython 3.14 is here, and it\u2019s not just about pi. In this video, I\u2019\
@@ -728,7 +749,7 @@
   path: https://www.youtube.com/watch?v=S_shhw4VV68
   title: My 4 Favorite Python 3.14 Features
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2025-10-10T06:02:35+00:00'
@@ -739,7 +760,7 @@
   path: https://theovershoot.co/p/guest-post-dear-imf-its-not-only
   title: 'Guest Post: Dear IMF, It''s Not *Only* Fiscal'
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2025-10-08T05:45:42+00:00'
   description: Discouraging underconsumption abroad is normally a good use of American
     financial resources. But still.
@@ -747,7 +768,7 @@
   path: https://theovershoot.co/p/what-should-the-us-try-to-achieve
   title: What Should the U.S. Try to Achieve in Argentina?
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-10-07T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar-se no sof\xE1 e entender, de uma forma\
@@ -787,26 +808,6 @@
   image: https://substackcdn.com/image/fetch/$s_!b7rr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f8b5bc-3aa9-4983-8c19-32d3648bb019_2886x1843.png
   path: https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai
   title: The Tariff Exemption Behind the AI Boom
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-10-03T15:00:28+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, we break down the anatomy of a scalable Python project using\
-    \ FastAPI and uv. You\u2019ll learn how to set up a clean folder structure, manage\
-    \ configuration with .env, add centralized logging, and write simple but effective\
-    \ tests. We\u2019ll also cover how to use pyproject.toml, .python-version, Docker,\
-    \ and docker-compose for consistent environments and easy onboarding.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2025/project. \n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:38 What \u201C\
-    Scalable\u201D Means Here\n1:40 Folder Structure (Balanced, Not Bloated)\n12:33\
-    \ Config Management (Centralized, Boring, Safe)\n13:03 Logging (One Door In)\n\
-    13:20 Dependency Injection: Frameworks vs FastAPI Built\u2011Ins\n14:58 UserService\
-    \ as the \u201CBusiness Seam\u201D\n15:52 Testing (Fast and Hermetic)\n17:08 Python\
-    \ Path and Tooling\n20:42 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/Af6Zr0tNNdE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Af6Zr0tNNdE
-  title: Anatomy of a Scalable Python Project (FastAPI)
 - author: The Journal.
   categories: &id009
   - Podcasts

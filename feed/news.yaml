@@ -1,15 +1,26 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-17T15:35:28+00:00'
+  description: "Com R$ 270 bilh\xF5es sob gest\xE3o, Previ passa por transi\xE7\xE3\
+    o ap\xF3s realocar R$ 30 bilh\xF5es para renda fixa e encerrar ciclo de atua\xE7\
+    \xE3o agressiva no mercado de a\xE7\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/previ-sai-fukunaga-chiumento/
+  title: "Mudan\xE7as na Previ: Fukunaga renuncia e M\xE1rcio Chiumento assume o maior\
+    \ fundo de pens\xE3o do pa\xEDs"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-10-17T14:14:40+00:00'
   description: "Paraguai est\xE1 entre os pa\xEDses cujos produtos agora pagam tarifa\
     \ de 10% para entrar nos Estados Unidos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/paraguai-aposta-no-brasil/
-  title: Paraguai aposta no Brasil para contornar briga comercial entre EUA e China
+  title: "Paraguai estreita rela\xE7\xE3o com Brasil para contornar briga comercial\
+    \ entre EUA e China"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-16T20:01:12+00:00'
   description: "Por enquanto, a postura mais amig\xE1vel de Washington est\xE1 ajudando\
     \ a Hyperliquid a crescer"
@@ -18,7 +29,7 @@
   title: "Hyperliquid: A bolsa de cripto ainda pouco conhecida, mas que atrai alto\
     \ volume de opera\xE7\xF5es"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-10-15T15:24:27+00:00'
   description: "Vendas foram puxadas pela China, que representa dois ter\xE7os do\
     \ montante a n\xEDvel global"
@@ -26,15 +37,6 @@
   path: https://investnews.com.br/economia/vendas-globais-de-veiculos-eletricos-batem-recorde-em-setembro-a-21-milhoes/
   title: "Vendas globais de ve\xEDculos el\xE9tricos batem recorde em setembro a 2,1\
     \ milh\xF5es"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-14T14:39:12+00:00'
-  description: "T\xEDtulos de d\xEDvida da Ra\xEDzen registraram perdas de quase 19%\
-    \ na semana passada"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/raizen-queda-titulos/
-  title: "Receio sobre t\xEDtulos de d\xEDvida de empresas chega \xE0 Ra\xEDzen: queda\
-    \ de quase 20% em uma semana"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
