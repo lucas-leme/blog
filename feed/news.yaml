@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-17T16:33:46+00:00'
+  description: "Estados Unidos compraram a moeda na taxa de c\xE2mbio paralela, conhecida\
+    \ entre os investidores como \u201Cswap blue chip\""
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/peso-argentino-cai-apos-nova-intervencao-do-tesouro-dos-eua/
+  title: "Peso argentino cai ap\xF3s nova interven\xE7\xE3o do Tesouro dos EUA"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-10-17T15:35:28+00:00'
   description: "Com R$ 270 bilh\xF5es sob gest\xE3o, Previ passa por transi\xE7\xE3\
@@ -10,8 +19,7 @@
   title: "Mudan\xE7as na Previ: Fukunaga renuncia e M\xE1rcio Chiumento assume o maior\
     \ fundo de pens\xE3o do pa\xEDs"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-17T14:14:40+00:00'
   description: "Paraguai est\xE1 entre os pa\xEDses cujos produtos agora pagam tarifa\
     \ de 10% para entrar nos Estados Unidos"
@@ -20,7 +28,7 @@
   title: "Paraguai estreita rela\xE7\xE3o com Brasil para contornar briga comercial\
     \ entre EUA e China"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-10-16T20:01:12+00:00'
   description: "Por enquanto, a postura mais amig\xE1vel de Washington est\xE1 ajudando\
     \ a Hyperliquid a crescer"
@@ -28,15 +36,6 @@
   path: https://investnews.com.br/financas/hyperliquid-bolsa-de-cripto/
   title: "Hyperliquid: A bolsa de cripto ainda pouco conhecida, mas que atrai alto\
     \ volume de opera\xE7\xF5es"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-15T15:24:27+00:00'
-  description: "Vendas foram puxadas pela China, que representa dois ter\xE7os do\
-    \ montante a n\xEDvel global"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/vendas-globais-de-veiculos-eletricos-batem-recorde-em-setembro-a-21-milhoes/
-  title: "Vendas globais de ve\xEDculos el\xE9tricos batem recorde em setembro a 2,1\
-    \ milh\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
