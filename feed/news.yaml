@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-17T14:14:40+00:00'
+  description: "Paraguai est\xE1 entre os pa\xEDses cujos produtos agora pagam tarifa\
+    \ de 10% para entrar nos Estados Unidos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/paraguai-aposta-no-brasil/
+  title: Paraguai aposta no Brasil para contornar briga comercial entre EUA e China
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Hyperliquid: A bolsa de cripto ainda pouco conhecida, mas que atrai alto\
     \ volume de opera\xE7\xF5es"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-15T15:24:27+00:00'
   description: "Vendas foram puxadas pela China, que representa dois ter\xE7os do\
     \ montante a n\xEDvel global"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/vendas-globais-de-veiculos-eletricos-batem-recorde-em-setembro-a-21-milhoes/
   title: "Vendas globais de ve\xEDculos el\xE9tricos batem recorde em setembro a 2,1\
     \ milh\xF5es"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-15T14:38:48+00:00'
-  description: "Com as restri\xE7\xF5es da China, os EUA buscam reformular a cadeia\
-    \ de suprimentos de terras raras"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/brasil-pode-se-tornar-o-contraponto-a-china-no-mercado-global-de-terras-raras/
-  title: "Brasil pode se tornar o contraponto \xE0 China no mercado global de terras\
-    \ raras"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-10-14T14:39:12+00:00'
