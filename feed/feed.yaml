@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-17T02:06:06.114767'
+  date: '2025-10-17T11:07:40.158660'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T02:06:06.112980'
+  date: '2025-10-17T11:07:40.156897'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T02:06:06.112977'
+  date: '2025-10-17T11:07:40.156893'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T02:06:06.112973'
+  date: '2025-10-17T11:07:40.156889'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-17T02:06:06.112963'
+  date: '2025-10-17T11:07:40.156879'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-10-17T09:50:28+00:00'
+  description: "<p>O Brasil \xE0s vezes atravessa a rua para pisar na casca de banana.\
+    \ Isso pode acontecer de novo, caso o Senado Federal aprove o Projeto de Lei 1.087\
+    \ sobre tributa\xE7\xE3o de dividendos na vers\xE3o que recebeu da C\xE2mara dos\
+    \ Deputados, nesse ponto igual \xE0 proposta original do governo federal. Os debates\
+    \ acalorados sobre redistribui\xE7\xE3o da [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/opiniao-mais-um-custo-para-o-investidor-estrangeiro/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Mais um custo para o investidor estrangeiro?</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-mais-um-custo-para-o-investidor-estrangeiro/
+  title: "OPINI\xC3O. Mais um custo para o investidor estrangeiro?"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-10-16T13:21:02+00:00'
   description: '<p>Longevity is reshaping investment careers and workplaces, challenging
@@ -467,7 +483,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/10/the-shadow-value-of-central-bank-lending/
   title: The Shadow Value of Central Bank Lending
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-10-16T00:00:00+00:00'
   description: "Pe\xE7a o seu kit de amostras SuperCoffee, pague s\xF3 o frete de\
@@ -532,7 +548,7 @@
   path: https://open.spotify.com/episode/3HByRyfQuBSysjFFHAKUU2
   title: "Prize guys: we speak to this year\u2019s Nobel-winning economists"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-10-15T22:19:51+00:00'
@@ -541,8 +557,7 @@
   path: https://www.youtube.com/shorts/xIFkrVU5Krk
   title: This or the iPhone?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id001
   date: '2025-10-15T20:06:35+00:00'
   description: "<p>O Brasil est\xE1 diante de uma escolha decisiva. Ap\xF3s anos de\
     \ debate e amadurecimento, o Congresso aprovou a Lei Geral do Licenciamento Ambiental,\
@@ -557,7 +572,7 @@
   path: https://braziljournal.com/opiniao-precisamos-de-um-licenciamento-ambiental-moderno/
   title: "OPINI\xC3O. Precisamos de um licenciamento ambiental moderno"
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-10-15T12:00:00+00:00'
   description: ''
@@ -565,7 +580,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/many-facets-of-stock-momentum
   title: 'The Many Facets of Stock Momentum: Distinguishing Factor and Stock Components'
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-10-15T12:00:00+00:00'
   description: ''
   image: null
@@ -592,7 +607,7 @@
   path: https://open.spotify.com/episode/12PHS09G7sGNlHRCRo1pde
   title: '#173 - Os desafios do mercado global, com Caio Megale'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-10-14T21:56:26+00:00'
   description: 'This phone is absolutely built around one-upping the iPhone.
 
@@ -617,7 +632,7 @@
   path: https://www.youtube.com/watch?v=eou_g_cYCew
   title: 'Xiaomi 17 Pro Max: An iPhone... But Better!'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-10-14T18:56:16+00:00'
   description: '<p>Top 10 blogs from Q3 reveal what investors read most: a private
     market reckoning, Fed pivots, and the resilience of low-volatility strategies.</p>
@@ -631,7 +646,7 @@
   title: 'Top 10 Blogs from Q3: Private Market Reckoning, Fed Pivots, the Case for
     Low-Vol'
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-10-14T00:00:00+00:00'
   description: "Acesse os relat\xF3rios \"Charting Disruption 2025\" e o \"Relat\xF3\
     rio de Ur\xE2nio\": https://lp.globalxetfs.com.br/market-makersSer\xE1 que o jeito\
@@ -666,22 +681,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8af42f33e50e70cb21dcbf26a5
   path: https://open.spotify.com/episode/6IxoOwgSrT38spA6vP6BjE
   title: "#271 | A ESTRAT\xC9GIA PARA LUCRAR COM OUTRO LADO DA INTELIG\xCANCIA ARTIFICIAL"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2025-10-13T04:35:41+00:00'
-  description: "<p>A C\xE2mara dos Deputados aprovou em vota\xE7\xE3o-rel\xE2mpago\
-    \ a PEC 14/2021, que concede privil\xE9gios corporativos e benef\xEDcios previdenci\xE1\
-    rios aos Agentes Comunit\xE1rios de Sa\xFAde (ACS) e Agentes de Controle de Endemias\
-    \ (ACE). A medida vai na contram\xE3o da reforma da previd\xEAncia de 2019, e\
-    \ vai aumentar o problema fiscal severamente. Os dois turnos de vota\xE7\xE3o\
-    \ da PEC [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-sucesso-do-lobby-dos-agentes-de-saude-e-uma-aula-de-brasil/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O sucesso do lobby dos agentes de sa\xFAde \xE9\
-    \ uma aula de Brasil</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-sucesso-do-lobby-dos-agentes-de-saude-e-uma-aula-de-brasil/
-  title: "OPINI\xC3O. O sucesso do lobby dos agentes de sa\xFAde \xE9 uma aula de\
-    \ Brasil"
 - author: Flirting with Models
   categories:
   - Podcasts
