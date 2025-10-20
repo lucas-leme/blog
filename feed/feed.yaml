@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-20T15:48:18.137021'
+  date: '2025-10-20T18:32:06.834329'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-20T15:48:18.135272'
+  date: '2025-10-20T18:32:06.832590'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-20T15:48:18.135268'
+  date: '2025-10-20T18:32:06.832586'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-20T15:48:18.135262'
+  date: '2025-10-20T18:32:06.832582'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-20T15:48:18.135252'
+  date: '2025-10-20T18:32:06.832572'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: CFA Institute Research and Policy Center
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2025-10-20T17:24:56+00:00'
+  description: "<p>AI\u2019s CFA exam success underscores finance\u2019s next frontier:\
+    \ mastering technology while keeping human judgment at the core.</p>\n<p>The post\
+    \ <a href=\"https://blogs.cfainstitute.org/investor/2025/10/20/ai-can-pass-the-cfa-exam-but-it-cannot-replace-analysts/\"\
+    >AI Can Pass the CFA Exam, But It Cannot Replace Analysts</a> appeared first on\
+    \ <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/20/ai-can-pass-the-cfa-exam-but-it-cannot-replace-analysts/
+  title: AI Can Pass the CFA Exam, But It Cannot Replace Analysts
+- author: CFA Institute Research and Policy Center
+  categories: &id003
   - CFA
   date: '2025-10-20T12:00:00+00:00'
   description: ''
@@ -468,7 +481,7 @@
   path: https://braziljournal.com/o-risco-que-construiu-a-america/
   title: "O risco que construiu a Am\xE9rica"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-10-19T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
@@ -508,7 +521,7 @@
   path: https://open.spotify.com/episode/4tRAxiubHqw15cFKZqzkOD
   title: "#273 | DE ANDAIMES A GIGANTE DE BILH\xD5ES: A HIST\xD3RIA DA PRINER (PRNR3)"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-10-17T21:40:13+00:00'
@@ -556,8 +569,7 @@
   path: https://braziljournal.com/opiniao-mais-um-custo-para-o-investidor-estrangeiro/
   title: "OPINI\xC3O. Mais um custo para o investidor estrangeiro?"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id002
   date: '2025-10-16T13:21:02+00:00'
   description: '<p>Longevity is reshaping investment careers and workplaces, challenging
     firms to manage five generations and sustain learning, productivity, and well-being.</p>
@@ -569,7 +581,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/16/6-ways-longevity-is-transforming-investment-careers/
   title: 6 Ways Longevity Is Transforming Investment Careers
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2025-10-16T12:00:00+00:00'
   description: ''
   image: null
@@ -595,7 +607,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/10/the-shadow-value-of-central-bank-lending/
   title: The Shadow Value of Central Bank Lending
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-10-16T00:00:00+00:00'
   description: "Pe\xE7a o seu kit de amostras SuperCoffee, pague s\xF3 o frete de\
     \ R$19,90 e receba o valor de volta em voucher na Black Friday. O kit vem com\
@@ -659,7 +671,7 @@
   path: https://open.spotify.com/episode/3HByRyfQuBSysjFFHAKUU2
   title: "Prize guys: we speak to this year\u2019s Nobel-winning economists"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-10-15T22:19:51+00:00'
   description: Xiaomi 17 Pro Max?
   image: https://i1.ytimg.com/vi/xIFkrVU5Krk/hqdefault.jpg
@@ -685,20 +697,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8aae2cfa86c0bd5385aa05ff12
   path: https://open.spotify.com/episode/12PHS09G7sGNlHRCRo1pde
   title: '#173 - Os desafios do mercado global, com Caio Megale'
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-10-14T18:56:16+00:00'
-  description: '<p>Top 10 blogs from Q3 reveal what investors read most: a private
-    market reckoning, Fed pivots, and the resilience of low-volatility strategies.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/14/top-10-blogs-from-q3-private-market-reckoning-fed-pivots-the-case-for-low-vol/">Top
-    10 Blogs from Q3: Private Market Reckoning, Fed Pivots, the Case for Low-Vol</a>
-    appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute
-    Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/14/top-10-blogs-from-q3-private-market-reckoning-fed-pivots-the-case-for-low-vol/
-  title: 'Top 10 Blogs from Q3: Private Market Reckoning, Fed Pivots, the Case for
-    Low-Vol'
 - author: Flirting with Models
   categories:
   - Podcasts
