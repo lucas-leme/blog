@@ -1,6 +1,16 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-10-20T18:34:33+00:00'
+  description: "Reda\xE7\xE3o do Projeto de Lei 1.087/2025 abre brecha para que a\
+    \ Uni\xE3o tribute opera\xE7\xF5es j\xE1 alcan\xE7adas pelo ITCMD, de compet\xEA\
+    ncia dos Estados, segundo advogados"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitributacao-doacoes-herancas/
+  title: "PL do Imposto de Renda pode gerar bitributa\xE7\xE3o sobre doa\xE7\xF5es\
+    \ e heran\xE7as, alertam especialistas"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-10-20T17:55:46+00:00'
   description: "EUA informou que vai continuar a apoiar financeiramente a Argentina\
     \ enquanto o governo de Milei perseguir boas pol\xEDticas, independentemente do\
@@ -9,7 +19,7 @@
   path: https://investnews.com.br/financas/argentina-assina-swap-eua/
   title: "Argentina assina acordo de\_swap\_de US$ 20 bilh\xF5es com os EUA"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-10-20T15:53:53+00:00'
   description: "Pa\xEDses ensaiam retomada das negocia\xE7\xF5es e tr\xE9gua comercial"
@@ -18,23 +28,13 @@
   title: "Trump lista principais exig\xEAncias \xE0 China antes de negocia\xE7\xF5\
     es"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-10-19T14:53:54+00:00'
   description: "Alta do metal amarelo elevana a confian\xE7a dos investidores em pa\xED\
     ses que produzem (e acumulam) o metal."
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/rali-historico-do-ouro-traz-ganhos-inesperados-aos-paises-emergentes/
   title: "Rali hist\xF3rico do ouro traz ganhos inesperados aos pa\xEDses emergentes"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-17T15:35:28+00:00'
-  description: "Com R$ 270 bilh\xF5es sob gest\xE3o, Previ passa por transi\xE7\xE3\
-    o ap\xF3s realocar R$ 30 bilh\xF5es para renda fixa e encerrar ciclo de atua\xE7\
-    \xE3o agressiva no mercado de a\xE7\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/previ-sai-fukunaga-chiumento/
-  title: "Mudan\xE7as na Previ: Fukunaga renuncia e M\xE1rcio Chiumento assume o maior\
-    \ fundo de pens\xE3o do pa\xEDs"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
