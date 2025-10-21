@@ -1,6 +1,19 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-10-21T20:20:00+00:00'
+  description: "O secret\xE1rio do Tesouro americano, Scott Bessent, interveio para\
+    \ impulsionar os ativos da Argentina mais uma vez nesta ter\xE7a-feira, e classificou\
+    \ a\_linha de swap de US$ 20 bilh\xF5es\_assinada um dia antes como um acordo\
+    \ de \u201Cestabiliza\xE7\xE3o econ\xF4mica\u201D. Bessent, em uma\_publica\xE7\
+    \xE3o no X, chamou o acordo com o banco central do pa\xEDs de \u201Cuma ponte\
+    \ para [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/titulos-argentinos-sobem-apos-acordo-de-estabilizacao-dos-eua/
+  title: "T\xEDtulos argentinos sobem ap\xF3s acordo de \u2018estabiliza\xE7\xE3o\u2019\
+    \ dos EUA"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-10-21T16:39:58+00:00'
   description: "Governo dos EUA interveio no mercado \xE0 vista argentino para sustentar\
     \ a moeda"
@@ -8,7 +21,7 @@
   path: https://investnews.com.br/economia/titulos-argentinos-sobem/
   title: "T\xEDtulos argentinos sobem com acordo de estabiliza\xE7\xE3o dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-10-21T13:44:24+00:00'
   description: "Demanda por ouro esfriou, com os presidentes dos EUA e da China em\
@@ -17,7 +30,7 @@
   path: https://investnews.com.br/financas/ouro-queda-rali/
   title: Depois de bater recorde, ouro tem maior queda em quatro anos
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-10-20T18:34:33+00:00'
   description: "Reda\xE7\xE3o do Projeto de Lei 1.087/2025 abre brecha para que a\
     \ Uni\xE3o tribute opera\xE7\xF5es j\xE1 alcan\xE7adas pelo ITCMD, de compet\xEA\
@@ -26,14 +39,6 @@
   path: https://investnews.com.br/financas/bitributacao-doacoes-herancas/
   title: "PL do Imposto de Renda pode gerar bitributa\xE7\xE3o sobre doa\xE7\xF5es\
     \ e heran\xE7as, alertam especialistas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-20T15:53:53+00:00'
-  description: "Pa\xEDses ensaiam retomada das negocia\xE7\xF5es e tr\xE9gua comercial"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-lista-principais-exigencias-a-china-antes-de-negociacoes/
-  title: "Trump lista principais exig\xEAncias \xE0 China antes de negocia\xE7\xF5\
-    es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
