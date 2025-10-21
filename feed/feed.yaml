@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-21T15:48:45.807786'
+  date: '2025-10-21T18:31:57.549549'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T15:48:45.806037'
+  date: '2025-10-21T18:31:57.547727'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T15:48:45.806032'
+  date: '2025-10-21T18:31:57.547723'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T15:48:45.806028'
+  date: '2025-10-21T18:31:57.547718'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T15:48:45.806019'
+  date: '2025-10-21T18:31:57.547708'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,39 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2025-10-21T17:02:11+00:00'
+  description: 'This is the Vision Pro 2 with M5.
+
+
+    Samsung''s XR headset: https://youtu.be/az5QL_NLBvg
+
+
+    VR headsets vs Smart Glasses: https://youtu.be/_XdD-TQseU4
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Headset provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/rU9aqBv0YdY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=rU9aqBv0YdY
+  title: What's Going on with Apple Vision Pro?
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
@@ -490,7 +523,7 @@
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-10-20T17:24:56+00:00'
   description: "<p>AI\u2019s CFA exam success underscores finance\u2019s next frontier:\
@@ -512,7 +545,7 @@
   path: https://www.apricitas.io/p/california-keeps-losing-tech-jobs
   title: California Keeps Losing Tech Jobs
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-10-19T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
@@ -552,9 +585,7 @@
   path: https://open.spotify.com/episode/4tRAxiubHqw15cFKZqzkOD
   title: "#273 | DE ANDAIMES A GIGANTE DE BILH\xD5ES: A HIST\xD3RIA DA PRINER (PRNR3)"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2025-10-17T21:40:13+00:00'
   description: Straight from the Jetsons
   image: https://i3.ytimg.com/vi/rZMMySvsKAA/hqdefault.jpg
@@ -585,7 +616,7 @@
   path: https://www.youtube.com/watch?v=g7EGMWvJ1fI
   title: 'I Hate Long If-Elif Chains: This Design Pattern Solved It Once and For All'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-10-16T13:21:02+00:00'
   description: '<p>Longevity is reshaping investment careers and workplaces, challenging
     firms to manage five generations and sustain learning, productivity, and well-being.</p>
@@ -616,7 +647,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/10/the-shadow-value-of-central-bank-lending/
   title: The Shadow Value of Central Bank Lending
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-10-16T00:00:00+00:00'
   description: "Pe\xE7a o seu kit de amostras SuperCoffee, pague s\xF3 o frete de\
     \ R$19,90 e receba o valor de volta em voucher na Black Friday. O kit vem com\
@@ -679,13 +710,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a524961398b1c87186ef76012
   path: https://open.spotify.com/episode/3HByRyfQuBSysjFFHAKUU2
   title: "Prize guys: we speak to this year\u2019s Nobel-winning economists"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2025-10-15T22:19:51+00:00'
-  description: Xiaomi 17 Pro Max?
-  image: https://i1.ytimg.com/vi/xIFkrVU5Krk/hqdefault.jpg
-  path: https://www.youtube.com/shorts/xIFkrVU5Krk
-  title: This or the iPhone?
 - author: Outliers
   categories: &id008
   - Podcasts
