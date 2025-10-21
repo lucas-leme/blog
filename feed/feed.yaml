@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-21T12:31:42.825322'
+  date: '2025-10-21T13:43:58.682650'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T12:31:42.823544'
+  date: '2025-10-21T13:43:58.680897'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T12:31:42.823540'
+  date: '2025-10-21T13:43:58.680894'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T12:31:42.823535'
+  date: '2025-10-21T13:43:58.680889'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-21T12:31:42.823524'
+  date: '2025-10-21T13:43:58.680879'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2025-10-21T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-investor-emotions
+  title: 'In Practice Brief: Investor Emotions and Asset Prices'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -475,7 +483,7 @@
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-10-20T17:24:56+00:00'
   description: "<p>AI\u2019s CFA exam success underscores finance\u2019s next frontier:\
@@ -488,8 +496,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/20/ai-can-pass-the-cfa-exam-but-it-cannot-replace-analysts/
   title: AI Can Pass the CFA Exam, But It Cannot Replace Analysts
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-10-20T12:00:00+00:00'
   description: ''
   image: null
@@ -579,7 +586,7 @@
   path: https://www.youtube.com/watch?v=g7EGMWvJ1fI
   title: 'I Hate Long If-Elif Chains: This Design Pattern Solved It Once and For All'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-10-16T13:21:02+00:00'
   description: '<p>Longevity is reshaping investment careers and workplaces, challenging
     firms to manage five generations and sustain learning, productivity, and well-being.</p>
@@ -590,13 +597,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/10/16/6-ways-longevity-is-transforming-investment-careers/
   title: 6 Ways Longevity Is Transforming Investment Careers
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2025-10-16T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/first-80-years-financial-analysts-journal
-  title: The First 80 Years of the Financial Analysts Journal
 - author: Liberty Street Economics
   categories:
   - Macro
