@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-22T14:22:23+00:00'
+  description: "Ambipar informou que cobran\xE7a de garantias n\xE3o tinham respaldo\
+    \ contratual"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/swaps-ambipar/
+  title: "Deutsche Bank diz que swaps com Ambipar foram realizados de acordo com padr\xF5\
+    es da ind\xFAstria"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   title: "Nova primeira-ministra do Jap\xE3o vai cortejar Trump com promessas para\
     \ comprar picapes e soja"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-22T12:18:26+00:00'
   description: "PicPay, Ita\xFA e Nubank foram as primeiras institui\xE7\xF5es a permitir\
     \ que clientes transfiram dinheiro do WhatsApp"
@@ -26,14 +35,6 @@
   path: https://investnews.com.br/financas/whatsapp-vitrine-financeira/
   title: "Intelig\xEAncia artificial no WhatsApp transforma o Brasil em vitrine financeira\
     \ para o mundo"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-21T13:44:24+00:00'
-  description: "Demanda por ouro esfriou, com os presidentes dos EUA e da China em\
-    \ vias de resolver suas diferen\xE7as comerciais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ouro-queda-rali/
-  title: Depois de bater recorde, ouro tem maior queda em quatro anos
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
