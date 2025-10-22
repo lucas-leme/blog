@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-22T15:48:23.279903'
+  date: '2025-10-22T18:32:23.488843'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-22T15:48:23.278080'
+  date: '2025-10-22T18:32:23.487081'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-22T15:48:23.278076'
+  date: '2025-10-22T18:32:23.487077'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-22T15:48:23.278071'
+  date: '2025-10-22T18:32:23.487073'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-22T15:48:23.278061'
+  date: '2025-10-22T18:32:23.487063'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-10-22T17:00:19+00:00'
+  description: "<p>Nigeria\u2019s experience with LDI offers lessons for building\
+    \ financial resilience and managing long-term investment risks in frontier markets.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/10/22/ldi-in-frontier-markets-building-resilience-the-nigeria-case-study/\"\
+    >LDI in Frontier Markets: Building Resilience, the Nigeria Case Study</a> appeared\
+    \ first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/22/ldi-in-frontier-markets-building-resilience-the-nigeria-case-study/
+  title: 'LDI in Frontier Markets: Building Resilience, the Nigeria Case Study'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-10-21T17:02:11+00:00'
@@ -498,7 +511,7 @@
   path: https://braziljournal.com/a-vaga-no-supremo-o-muro-e-as-mulheres/
   title: A vaga no Supremo, o muro e as mulheres
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-10-21T00:00:00+00:00'
   description: "Pe\xE7a o seu kit de amostras SuperCoffee, pague s\xF3 o frete de\
@@ -581,8 +594,7 @@
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2025-10-20T17:24:56+00:00'
   description: "<p>AI\u2019s CFA exam success underscores finance\u2019s next frontier:\
     \ mastering technology while keeping human judgment at the core.</p>\n<p>The post\
@@ -603,7 +615,7 @@
   path: https://www.apricitas.io/p/california-keeps-losing-tech-jobs
   title: California Keeps Losing Tech Jobs
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-10-19T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
     \ https://conteudo.btgpactual.com/iof-zero?utm_channel=parceiros&amp;utm_medium=partners&amp;utm_source=market-makers&amp;utm_campaign=PAR_AWN_BUBANK_iof-zero-speech-mmks_202509&amp;utm_content=qr-code&amp;utm_term=20250909Tenha\
@@ -642,7 +654,7 @@
   path: https://open.spotify.com/episode/4tRAxiubHqw15cFKZqzkOD
   title: "#273 | DE ANDAIMES A GIGANTE DE BILH\xD5ES: A HIST\xD3RIA DA PRINER (PRNR3)"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-10-17T21:40:13+00:00'
   description: Straight from the Jetsons
   image: https://i3.ytimg.com/vi/rZMMySvsKAA/hqdefault.jpg
@@ -672,18 +684,6 @@
   image: https://i4.ytimg.com/vi/g7EGMWvJ1fI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=g7EGMWvJ1fI
   title: 'I Hate Long If-Elif Chains: This Design Pattern Solved It Once and For All'
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-10-16T13:21:02+00:00'
-  description: '<p>Longevity is reshaping investment careers and workplaces, challenging
-    firms to manage five generations and sustain learning, productivity, and well-being.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/10/16/6-ways-longevity-is-transforming-investment-careers/">6
-    Ways Longevity Is Transforming Investment Careers</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/16/6-ways-longevity-is-transforming-investment-careers/
-  title: 6 Ways Longevity Is Transforming Investment Careers
 - author: Liberty Street Economics
   categories:
   - Macro
