@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-23T13:42:58.686083'
+  date: '2025-10-23T14:50:15.266500'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-23T13:42:58.684313'
+  date: '2025-10-23T14:50:15.264728'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-23T13:42:58.684309'
+  date: '2025-10-23T14:50:15.264724'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-23T13:42:58.684305'
+  date: '2025-10-23T14:50:15.264720'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-23T13:42:58.684295'
+  date: '2025-10-23T14:50:15.264710'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-10-23T14:20:41+00:00'
+  description: "<p>Gold\u2019s 2025 rally has turned volatile. Its sharp pullback\
+    \ tests whether gold\u2019s role as a safe-haven and portfolio cornerstone can\
+    \ endure under market stress.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/10/23/from-hedge-to-test-case-golds-volatility-and-the-limits-of-safety/\"\
+    >From Hedge to Test Case: Gold\u2019s Volatility and the Limits of Safety</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/23/from-hedge-to-test-case-golds-volatility-and-the-limits-of-safety/
+  title: "From Hedge to Test Case: Gold\u2019s Volatility and the Limits of Safety"
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
@@ -450,8 +463,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2025/reframing-financial-markets-as-complex-systems
   title: Reframing Financial Markets as Complex Systems
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-10-22T17:00:19+00:00'
   description: "<p>Nigeria\u2019s experience with LDI offers lessons for building\
     \ financial resilience and managing long-term investment risks in frontier markets.</p>\n\
@@ -496,7 +508,7 @@
   path: https://www.youtube.com/watch?v=rU9aqBv0YdY
   title: What's Going on with Apple Vision Pro?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-10-21T09:45:00+00:00'
   description: "<p>Cristina de Pisano nasceu em Veneza, mas com apenas quatro anos\
@@ -569,7 +581,7 @@
   title: "#174 - Tarifas, problemas estruturais do Brasil e poss\xEDveis oportunidades,\
     \ com o economista Marcos Lisboa"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-10-20T23:37:40+00:00'
   description: "<p>A Bol\xEDvia acaba de eleger Rodrigo Paz Pereira, da centro-direita,\
     \ como seu novo presidente \u2013 dando fim a duas d\xE9cadas de governos de esquerda\
@@ -593,18 +605,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Hh6B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F89740388-60d2-4e9f-b861-7952dc2090f5_3200x2905.png
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-10-20T17:24:56+00:00'
-  description: "<p>AI\u2019s CFA exam success underscores finance\u2019s next frontier:\
-    \ mastering technology while keeping human judgment at the core.</p>\n<p>The post\
-    \ <a href=\"https://blogs.cfainstitute.org/investor/2025/10/20/ai-can-pass-the-cfa-exam-but-it-cannot-replace-analysts/\"\
-    >AI Can Pass the CFA\xAE Exam, But It Cannot Replace Analysts</a> appeared first\
-    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/20/ai-can-pass-the-cfa-exam-but-it-cannot-replace-analysts/
-  title: "AI Can Pass the CFA\xAE Exam, But It Cannot Replace Analysts"
 - author: Apricitas Economics
   categories: &id009
   - Macro
