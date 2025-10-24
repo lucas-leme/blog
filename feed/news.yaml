@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-24T20:24:51+00:00'
+  description: Apenas 17% dos participantes descreveram a economia como boa
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/aprovacao-de-milei-atinge-nova-minima-antes-das-eleicoes-de-meio-de-mandato/
+  title: "Aprova\xE7\xE3o de Milei atinge nova m\xEDnima antes das elei\xE7\xF5es\
+    \ de meio de mandato"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -20,8 +29,7 @@
   path: https://www.reddit.com/r/CFA/comments/1of6s2e/delayed_level_3_score_sheets/
   title: Delayed Level 3 Score Sheets
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-24T19:15:00+00:00'
   description: "Analistas afirmam que, se a coaliz\xE3o La Libertad Avanza conseguir\
     \ garantir um ter\xE7o das cadeiras no Congresso, os mercados poder\xE3o ver uma\
@@ -30,14 +38,6 @@
   path: https://investnews.com.br/economia/cautela-milei/
   title: "Cautela domina mercado de t\xEDtulos argentinos antes da prova de fogo para\
     \ Milei"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-24T18:26:47+00:00'
-  description: "Os n\xFAmeros estavam programados para serem publicados em 13 de novembro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inflacao-de-outubro-eua-shutdown/
-  title: "Com a paralisa\xE7\xE3o do governo dos EUA, infla\xE7\xE3o de outubro dificilmente\
-    \ ser\xE1 publicada"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
