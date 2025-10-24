@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-24T13:39:16+00:00'
+  description: "Crescente produ\xE7\xE3o de etanol de milho afastou os processadores\
+    \ de cana do mercado de biocombust\xEDveis, o que fez com que destinassem uma\
+    \ parcela recorde da safra para a produ\xE7\xE3o de a\xE7\xFAcar"
+  image: https://media.investnews.com.br/uploads/2021/08/2021-08-23T224738Z_1_LYNXMPEH7M0ZR_RTROPTP_4_USA-CHINA-ETHANOL-scaled.jpg
+  path: https://investnews.com.br/economia/etanol-de-milho-derruba-precos/
+  title: "Expans\xE3o do etanol de milho no Brasil muda o jogo e derruba o pre\xE7\
+    o do a\xE7\xFAcar"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -24,8 +35,7 @@
   path: https://www.reddit.com/r/CFA/comments/1oeoe8p/finally_done_w_my_cfa_journey/
   title: Finally DONE w my CFA journey!
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-23T19:03:57+00:00'
   description: "O Brasil, que j\xE1 exportava menos gr\xE3os de caf\xE9, seria ainda\
     \ mais afetado pelo clima adverso"
@@ -41,15 +51,6 @@
   path: https://investnews.com.br/financas/previ-inflacao-exterior/
   title: "Previ investe em t\xEDtulos atrelados \xE0 infla\xE7\xE3o e em ativos no\
     \ exterior"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-23T16:58:58+00:00'
-  description: "JPMorgan e o Citigroup atuaram no mercado \xE0 vista de c\xE2mbio\
-    \ da Argentina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-ceos-eleicoes/
-  title: "Milei vai se reunir com CEO do JPMorgan dois dias antes das elei\xE7\xF5\
-    es de meio de mandato"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-10-23T12:09:45+00:00'
