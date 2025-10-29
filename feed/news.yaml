@@ -1,3 +1,14 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-29T21:14:26+00:00'
+  description: "Entenda o que \xE9 o FGC, como ele protege dep\xF3sitos e investimentos,\
+    \ quais produtos t\xEAm cobertura, limites garantidos e como acionar a restitui\xE7\
+    \xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/fgc-fundo-garantidor-de-creditos/
+  title: "O que \xE9 o FGC e como ele funciona: cobertura, limites e como acionar\
+    \ a garantia"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -21,8 +32,7 @@
   path: https://investnews.com.br/economia/fed-juro-eua-outubro/
   title: Fed reduz juros dos EUA em 0,25 ponto percentual, para 4% ao ano
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-28T20:43:23+00:00'
   description: "Projeto que atualiza o valor dos im\xF3veis (PGV) vai a segundo turno\
     \ e deve definir o impacto do IPTU no bolso do contribuinte"
@@ -30,16 +40,6 @@
   path: https://investnews.com.br/financas/iptu-2026-sao-paulo/
   title: "O IPTU vai subir em 2026? C\xE2mara de S\xE3o Paulo vota aumento nesta semana;\
     \ veja quem vai pagar mais"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-27T22:38:36+00:00'
-  description: "Entenda em detalhes como o Fundo Garantidor de Cr\xE9ditos (FGC) protege\
-    \ o investidor, quais produtos t\xEAm cobertura, quando ocorre o pagamento, quais\
-    \ s\xE3o os limites e exemplos de acionamento no Brasil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fgc-fundo-garantidor-de-creditos/
-  title: "Como receber do FGC? Como funciona o fundo, quando \xE9 acionado e quais\
-    \ investimentos est\xE3o protegidos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
