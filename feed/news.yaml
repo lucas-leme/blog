@@ -1,3 +1,17 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-28T22:04:38+00:00'
+  description: "O secret\xE1rio do Minist\xE9rio do Desenvolvimento, Ind\xFAstria,\
+    \ Com\xE9rcio e Servi\xE7os Uallace Moreira afirmou nesta ter\xE7a-feira (28)\
+    \ que algumas montadoras de autom\xF3veis no pa\xEDs podem paralisar suas produ\xE7\
+    \xF5es dentro de duas a tr\xEAs semanas se uma crise internacional na oferta de\
+    \ chips persistir. &#8220;Se n\xE3o houver uma solu\xE7\xE3o nesse espa\xE7o de\
+    \ tempo curto, em duas ou [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/montadoras-no-brasil-podem-parar-producao-se-crise-externa-em-oferta-de-chips-persistir-diz-secretario-de-alckmin/
+  title: "Montadoras no Brasil podem parar produ\xE7\xE3o se crise externa em oferta\
+    \ de chips persistir, diz secret\xE1rio de Alckmin"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +23,7 @@
   title: "O IPTU vai subir em 2026? C\xE2mara de S\xE3o Paulo vota aumento nesta semana;\
     \ veja quem vai pagar mais"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-10-28T20:28:30+00:00'
   description: "Reuni\xF5es com executivos do setor refor\xE7am interesse americano\
     \ em minerais estrat\xE9gicos e ampliam ofensiva geopol\xEDtica de Washington\
@@ -19,14 +32,6 @@
   path: https://investnews.com.br/economia/diplomata-dos-eua-discute-terras-raras-com-mineradoras-brasileiras-em-meio-a-negociacoes-sobre-tarifas/
   title: "Diplomata dos EUA discute terras raras com mineradoras brasileiras em meio\
     \ a negocia\xE7\xF5es sobre tarifas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-28T14:24:15+00:00'
-  description: "Segundo especialistas, n\xE3o h\xE1 raz\xE3o para a China continuar\
-    \ comprando soja dos EUA se a oferta no Brasil for maior e mais barata"
-  image: https://media.investnews.com.br/uploads/2024/07/GettyImages-1129883796.webp
-  path: https://investnews.com.br/economia/soja-china/
-  title: Com maior poder de barganha, China muda o mapa da soja no mundo
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-10-27T22:38:36+00:00'
