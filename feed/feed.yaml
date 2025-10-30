@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-30T00:48:31.153376'
+  date: '2025-10-30T02:11:53.584588'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T00:48:31.151585'
+  date: '2025-10-30T02:11:53.582827'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T00:48:31.151581'
+  date: '2025-10-30T02:11:53.582823'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T00:48:31.151577'
+  date: '2025-10-30T02:11:53.582819'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T00:48:31.151567'
+  date: '2025-10-30T02:11:53.582809'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,6 +434,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-10-30T01:46:49+00:00'
+  description: 'Rant. We have a problem.
+
+    Joanna''s WSJ video: https://youtu.be/f3c4mQty_so?si=XfZ9c5-3VKjYPeru
+
+    The Neo humanoid robot: https://x.com/1x_tech/status/1983233494575952138
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Intro Track: Jordyn Edmonds
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/j31dmodZ-5c/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=j31dmodZ-5c
+  title: The Problem with this Humanoid Robot
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -452,7 +482,7 @@
   title: "OPINI\xC3O. Mudar as leis e reportar os fatos: condi\xE7\xF5es para combater\
     \ o crime"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-10-29T15:45:55+00:00'
   description: '<p>The rise of continuation funds reflects private equity''s longer
@@ -480,16 +510,14 @@
   path: https://braziljournal.com/opiniao-um-dialogo-sobre-a-dor-em-israel-e-na-palestina/
   title: "OPINI\xC3O. Um di\xE1logo sobre a dor em Israel e na Palestina"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-10-28T20:42:14+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/PTf_Z8A2Usc/hqdefault.jpg
   path: https://www.youtube.com/shorts/PTf_Z8A2Usc
   title: This Zoom is Ridiculous
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-10-28T00:00:00+00:00'
   description: "CESSE GRATUITAMENTE A MENTORIA EXCLUSIVA DO CRISTIANO SOUZA PARA O\
@@ -545,7 +573,7 @@
   title: "Previd\xEAncia complementar: vantagens e como escolher o produto certo |\
     \ Espresso Outliers InfoMoney #2"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-10-27T16:44:40+00:00'
   description: "<p>Bitcoin challenges financial orthodoxy, valuation models, and regulation,\
     \ forcing professionals to rethink what money and value really mean.</p>\n<p>The\
@@ -557,7 +585,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/27/why-financial-advisors-struggle-to-embrace-bitcoins-rise/
   title: "Why Financial Advisors Struggle to Embrace Bitcoin\u2019s Rise"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-10-26T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
     \ https://conteudo.btgpactual.com/iof-zero?utm_channel=parceiros&amp;utm_medium=partners&amp;utm_source=market-makers&amp;utm_campaign=PAR_AWN_BUBANK_iof-zero-speech-mmks_202509&amp;utm_content=qr-code&amp;utm_term=20250909SEJA\
@@ -617,13 +645,6 @@
   image: https://i3.ytimg.com/vi/N_ypJwV8Q8I/hqdefault.jpg
   path: https://www.youtube.com/watch?v=N_ypJwV8Q8I
   title: The Best Way to Share Code Between Python Apps
-- author: Marques Brownlee
-  categories: *id004
-  date: '2025-10-24T02:20:38+00:00'
-  description: ''
-  image: https://i3.ytimg.com/vi/v5lc7UAAats/hqdefault.jpg
-  path: https://www.youtube.com/shorts/v5lc7UAAats
-  title: This or Apple Vision Pro?
 - author: CFA Institute Research and Policy Center
   categories: &id005
   - CFA
