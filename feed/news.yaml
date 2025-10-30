@@ -1,6 +1,26 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2025-10-29T23:20:00+00:00'
+  description: "Queda do d\xF3lar no ano ajuda a conter a infla\xE7\xE3o, mas efeito\
+    \ 'j\xE1 se exauriu', diz ex-secret\xE1rio do Tesouro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/sem-ajuda-do-cambio-queda-da-selic-depende-ainda-mais-do-cenario-fiscal-diz-carlos-kawall/
+  title: "Sem \u2018ajuda\u2019 do c\xE2mbio, queda da Selic depende ainda mais do\
+    \ cen\xE1rio fiscal, diz Carlos Kawall"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-10-29T22:33:33+00:00'
+  description: "C\xE2mara aprova atualiza\xE7\xE3o da PGV e fixa limite de 10% ao\
+    \ ano para reajuste do IPTU; im\xF3veis de menor valor e localizados em ZEIS ter\xE3\
+    o isen\xE7\xE3o ampliada"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/iptu-2026-sao-paulo/
+  title: "IPTU 2026 em S\xE3o Paulo mais caro: C\xE2mara aprova nova PGV com aumento\
+    \ limitado a 10% ao ano"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2025-10-29T21:14:26+00:00'
   description: "Entenda o que \xE9 o FGC, como ele protege dep\xF3sitos e investimentos,\
     \ quais produtos t\xEAm cobertura, limites garantidos e como acionar a restitui\xE7\
@@ -10,8 +30,7 @@
   title: "O que \xE9 o FGC e como ele funciona: cobertura, limites e como acionar\
     \ a garantia"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-29T19:03:08+00:00'
   description: "O presidente do Federal Reserve, Jerome Powell, afirmou nesta quarta-feira\
     \ (29) que outro corte na taxa de juros em dezembro n\xE3o \xE9 garantido. &#8220;Uma\
@@ -23,23 +42,6 @@
   path: https://investnews.com.br/economia/presidente-do-fed-outubro/
   title: "Presidente do Fed afirma que novo corte de juros em dezembro est\xE1 longe\
     \ de ser uma certeza"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-29T18:09:29+00:00'
-  description: Fed anunciou que vai reiniciar as compras limitadas de Treasuries depois
-    que mercados deram sinais de que a liquidez estava se tornando escassa
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fed-juro-eua-outubro/
-  title: Fed reduz juros dos EUA em 0,25 ponto percentual, para 4% ao ano
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-28T20:43:23+00:00'
-  description: "Projeto que atualiza o valor dos im\xF3veis (PGV) vai a segundo turno\
-    \ e deve definir o impacto do IPTU no bolso do contribuinte"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/iptu-2026-sao-paulo/
-  title: "O IPTU vai subir em 2026? C\xE2mara de S\xE3o Paulo vota aumento nesta semana;\
-    \ veja quem vai pagar mais"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
