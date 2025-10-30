@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-30T02:11:53.584588'
+  date: '2025-10-30T11:07:54.132997'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T02:11:53.582827'
+  date: '2025-10-30T11:07:54.131236'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T02:11:53.582823'
+  date: '2025-10-30T11:07:54.131233'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T02:11:53.582819'
+  date: '2025-10-30T11:07:54.131228'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-30T02:11:53.582809'
+  date: '2025-10-30T11:07:54.131218'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,37 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: Marques Brownlee
+- author: CFA Institute Enterprising Investor
   categories: &id002
+  - CFA
+  date: '2025-10-30T10:23:46+00:00'
+  description: "<p>Why factor investing often fails in practice \u2014 and how causal\
+    \ reasoning helps quant models perform in the real world.</p>\n<p>The post <a\
+    \ href=\"https://blogs.cfainstitute.org/investor/2025/10/30/the-factor-mirage-how-quant-models-go-wrong/\"\
+    >The Factor Mirage: How Quant Models Go Wrong</a> appeared first on <a href=\"\
+    https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/10/30/the-factor-mirage-how-quant-models-go-wrong/
+  title: 'The Factor Mirage: How Quant Models Go Wrong'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-10-30T09:50:24+00:00'
+  description: "<p>A reforma administrativa do Estado brasileiro \u2013 um dos projetos\
+    \ priorit\xE1rios do Presidente da C\xE2mara, Hugo Motta \u2013 prop\xF5e (finalmente)\
+    \ limitar os penduricalhos salariais do funcionalismo, regulamentar a avalia\xE7\
+    \xE3o dos servidores, acabar com f\xE9rias de 60 dias e dar fim \xE0s promo\xE7\
+    \xF5es autom\xE1ticas por tempo de servi\xE7o. Mas desde que a reforma entrou\
+    \ em tramita\xE7\xE3o, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/sindicatos-fazem-a-caveira-da-reforma-administrativa-1-manobrando-os-outros-99/\"\
+    \ rel=\"nofollow\">Sindicatos fazem a caveira da reforma administrativa; \u201C\
+    1% manobrando os outros 99%\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/sindicatos-fazem-a-caveira-da-reforma-administrativa-1-manobrando-os-outros-99/
+  title: "Sindicatos fazem a caveira da reforma administrativa; \u201C1% manobrando\
+    \ os outros 99%\u201D"
+- author: Marques Brownlee
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-10-30T01:46:49+00:00'
@@ -465,8 +494,7 @@
   path: https://www.youtube.com/watch?v=j31dmodZ-5c
   title: The Problem with this Humanoid Robot
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2025-10-29T21:51:19+00:00'
   description: "<p>O Rio de Janeiro vive um conflito armado, e opera\xE7\xF5es policiais\
     \ s\xE3o essenciais para que o Estado reestabele\xE7a sua soberania nos territ\xF3\
@@ -482,8 +510,7 @@
   title: "OPINI\xC3O. Mudar as leis e reportar os fatos: condi\xE7\xF5es para combater\
     \ o crime"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-10-29T15:45:55+00:00'
   description: '<p>The rise of continuation funds reflects private equity''s longer
     hold periods for assets amid higher rates and narrowing exit strategies. </p>
@@ -494,23 +521,8 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/10/29/private-equitys-new-exit-playbook/
   title: "Private Equity\u2019s New Exit Playbook"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2025-10-29T09:50:15+00:00'
-  description: "<p>Nossa sobrinha, Samia, ouviu uma voz no trailer de um filme na\
-    \ internet e comentou: \u201CMinha av\xF3!\u201D A av\xF3, palestina, mora na\
-    \ Cisjord\xE2nia. Tia de Zeina Latif, com quem sou casado. Era o trailer do document\xE1\
-    rio Notas sobre um desterro, que ser\xE1 apresentado hoje na Mostra Internacional\
-    \ de Cinema, na Cinemateca Brasileira, na Vila Clementina. [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/opiniao-um-dialogo-sobre-a-dor-em-israel-e-na-palestina/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Um di\xE1logo sobre a dor em Israel e na Palestina</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-um-dialogo-sobre-a-dor-em-israel-e-na-palestina/
-  title: "OPINI\xC3O. Um di\xE1logo sobre a dor em Israel e na Palestina"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-10-28T20:42:14+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/PTf_Z8A2Usc/hqdefault.jpg
@@ -572,18 +584,6 @@
   path: https://open.spotify.com/episode/7FeBZTw2yi98S4auRvegoT
   title: "Previd\xEAncia complementar: vantagens e como escolher o produto certo |\
     \ Espresso Outliers InfoMoney #2"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-10-27T16:44:40+00:00'
-  description: "<p>Bitcoin challenges financial orthodoxy, valuation models, and regulation,\
-    \ forcing professionals to rethink what money and value really mean.</p>\n<p>The\
-    \ post <a href=\"https://blogs.cfainstitute.org/investor/2025/10/27/why-financial-advisors-struggle-to-embrace-bitcoins-rise/\"\
-    >Why Financial Advisors Struggle to Embrace Bitcoin\u2019s Rise</a> appeared first\
-    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/10/27/why-financial-advisors-struggle-to-embrace-bitcoins-rise/
-  title: "Why Financial Advisors Struggle to Embrace Bitcoin\u2019s Rise"
 - author: Market Makers
   categories: *id004
   date: '2025-10-26T00:00:00+00:00'
