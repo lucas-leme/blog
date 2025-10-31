@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-10-31T15:48:59.692198'
+  date: '2025-10-31T18:32:17.367677'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-31T15:48:59.690659'
+  date: '2025-10-31T18:32:17.365947'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-31T15:48:59.690655'
+  date: '2025-10-31T18:32:17.365942'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-31T15:48:59.690649'
+  date: '2025-10-31T18:32:17.365937'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-10-31T15:48:59.690639'
+  date: '2025-10-31T18:32:17.365928'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -434,8 +434,47 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-10-31T16:00:52+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nTired of passing five arguments to every function? In this video, I clean up\
+    \ a realistic Python codebase using the Context Object Pattern. You\u2019ll see\
+    \ how to go from messy, repetitive function signatures to a cleaner and more maintainable\
+    \ design. We\u2019ll introduce context objects, explore how they help reduce parameter\
+    \ bloat, discuss the trade-offs (like increased coupling), and show how to use\
+    \ Protocols to keep things decoupled and testable. \n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2025/context.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n1:07 The Before Version: Too Many Arguments\n3:43 Introducing\
+    \ the Context Object Pattern\n9:35 But Wait \u2014 Aren't We Adding a Bunch of\
+    \ Coupling?\n10:56 Making a Distinction Between High-Level vs Low-Level Code\n\
+    13:33 High-Level Convenience, Low-Level Clarity\n15:07 Using Abstraction\n17:22\
+    \ When Should You Use Context Objects?\n18:51 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i2.ytimg.com/vi/UG5jbLReDiM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=UG5jbLReDiM
+  title: "You\u2019re Passing Way Too Many Arguments (and How to Fix It)"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2025-10-31T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-spot-bitcoin-etfs
+  title: 'In Practice Brief: Spot Bitcoin ETFs: The Struggle Was Worth It'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-10-31T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-true-value-investing
+  title: 'In Practice Brief: True Value Investing in the Corporate Bond Market'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-10-30T13:47:56+00:00'
@@ -445,7 +484,7 @@
   path: https://theovershoot.co/p/inside-americas-consumption-recovery
   title: Inside America's Consumption Recovery
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-10-30T10:23:46+00:00'
   description: "<p>Why factor investing often fails in practice \u2014 and how causal\
@@ -457,7 +496,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/30/the-factor-mirage-how-quant-models-go-wrong/
   title: 'The Factor Mirage: How Quant Models Go Wrong'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-10-30T09:50:24+00:00'
   description: "<p>A reforma administrativa do Estado brasileiro \u2013 um dos projetos\
@@ -474,7 +513,7 @@
   title: "Sindicatos fazem a caveira da reforma administrativa; \u201C1% manobrando\
     \ os outros 99%\u201D"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-10-30T01:46:49+00:00'
@@ -504,7 +543,7 @@
   path: https://www.youtube.com/watch?v=j31dmodZ-5c
   title: The Problem with this Humanoid Robot
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2025-10-30T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
@@ -572,7 +611,7 @@
   path: https://open.spotify.com/episode/4Fu6osekXj6cJg1ftQALrU
   title: "Budget balancing act: an interview with France\u2019s finance minister"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-10-29T21:51:19+00:00'
   description: "<p>O Rio de Janeiro vive um conflito armado, e opera\xE7\xF5es policiais\
     \ s\xE3o essenciais para que o Estado reestabele\xE7a sua soberania nos territ\xF3\
@@ -588,7 +627,7 @@
   title: "OPINI\xC3O. Mudar as leis e reportar os fatos: condi\xE7\xF5es para combater\
     \ o crime"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-10-29T15:45:55+00:00'
   description: '<p>The rise of continuation funds reflects private equity''s longer
     hold periods for assets amid higher rates and narrowing exit strategies. </p>
@@ -600,14 +639,14 @@
   path: https://blogs.cfainstitute.org/investor/2025/10/29/private-equitys-new-exit-playbook/
   title: "Private Equity\u2019s New Exit Playbook"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-10-28T20:42:14+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/PTf_Z8A2Usc/hqdefault.jpg
   path: https://www.youtube.com/shorts/PTf_Z8A2Usc
   title: This Zoom is Ridiculous
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2025-10-28T00:00:00+00:00'
   description: "CESSE GRATUITAMENTE A MENTORIA EXCLUSIVA DO CRISTIANO SOUZA PARA O\
     \ M3 CLUB: https://lp.mmakers.com.br/cristiano-souza?xpromo=MI-MENTORIACRISTIANOS-YT-DESCRICAO-X-20251028-DESCRICAOSOBRECRISTIANOSOUZA-MM-XTenha\
@@ -641,7 +680,7 @@
   title: "#277 | LI\xC7\xD5ES DE INVESTIMENTO EM A\xC7\xD5ES que V\xC3O MUDAR A FORMA\
     \ como VOC\xCA V\xCA O MERCADO"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-10-28T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
@@ -662,10 +701,7 @@
   title: "Previd\xEAncia complementar: vantagens e como escolher o produto certo |\
     \ Espresso Outliers InfoMoney #2"
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-10-24T15:00:46+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nIn this video, I show you how to use uv workspaces\
@@ -683,21 +719,6 @@
   image: https://i3.ytimg.com/vi/N_ypJwV8Q8I/hqdefault.jpg
   path: https://www.youtube.com/watch?v=N_ypJwV8Q8I
   title: The Best Way to Share Code Between Python Apps
-- author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
-  date: '2025-10-23T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2025/geoeconomic-decade
-  title: The Geoeconomic Decade
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-10-23T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2025/reframing-financial-markets-as-complex-systems
-  title: Reframing Financial Markets as Complex Systems
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -711,7 +732,7 @@
   title: "What\u2019s Driving the Shift in Portfolio Construction: Private Credit,\
     \ Private Equity, and the New Market Reality"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-10-21T00:00:00+00:00'
   description: "No epis\xF3dio 174 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra recebem o economista Marcos Lisboa, ex-presidente do Insper, ex-secret\xE1\
@@ -729,7 +750,7 @@
   title: "#174 - Tarifas, problemas estruturais do Brasil e poss\xEDveis oportunidades,\
     \ com o economista Marcos Lisboa"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-10-20T23:12:07+00:00'
   description: The U.S. Treasury's interventions on behalf of Argentina are unlikely
     to succeed as long as the country's fiscal probity fails to offset monetary laxity
@@ -746,27 +767,6 @@
   image: https://substackcdn.com/image/fetch/$s_!PfvV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faab5f797-df8f-40ba-883b-dbb3a0725072_2886x1843.png
   path: https://www.apricitas.io/p/california-keeps-losing-tech-jobs
   title: California Keeps Losing Tech Jobs
-- author: ArjanCodes
-  categories: *id008
-  date: '2025-10-17T15:01:30+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIf your code is littered with endless if-elif chains just to handle different\
-    \ formats, behaviors, or commands, there\u2019s a better way. In this video, I\u2019\
-    ll show you how the Registry Pattern can help you clean up your logic, make your\
-    \ code extensible, and even power a dynamic CLI with plugin support. We\u2019\
-    ll start with a simple example and then build a real-world textutils CLI using\
-    \ Python and Typer, complete with Rich-powered output and zero hardcoded logic.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/registry.\n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
-    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:48 What Is the Registry Pattern?\n1:20 Quick Example: The Exporter Problem\n\
-    8:22 Full Example: CLI text utils\n9:50 Registry Implementation. Overview\n11:25\
-    \ Wiring It Up with Typer\n12:33 Extending the CLI\n13:56 Benefits of This Pattern\
-    \ (Now That You\u2019ve Seen It in Action)\n14:18 Pitfalls to Watch Out For\n\
-    14:48 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/g7EGMWvJ1fI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=g7EGMWvJ1fI
-  title: 'I Hate Long If-Elif Chains: This Design Pattern Solved It Once and For All'
 - author: Liberty Street Economics
   categories:
   - Macro

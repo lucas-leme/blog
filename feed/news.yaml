@@ -1,24 +1,33 @@
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2025-10-31T17:16:24+00:00'
+  description: "Leil\xF5es v\xE3o ser realizados em 2026 e 2027 e podem gerar arrecada\xE7\
+    \xE3o de R$ 19 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/governo-planeja-licitar-projetos-de-transmissao-com-investimentos-previstos-de-r-665-bilhoes/
+  title: "Governo planeja licitar projetos de transmiss\xE3o, com investimentos previstos\
+    \ de R$ 66,5 bilh\xF5es"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-10-31T14:21:56+00:00'
+  description: "Baixa demanda por d\xEDvidas de empresas nacionais reduz capta\xE7\
+    \xE3o no mercado de d\xEDvida"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/turbulencia-no-mercado-de-credito-abala-vendas-de-titulos/
+  title: "Emiss\xE3o de t\xEDtulos em moeda forte por empresas brasileiras cai mais\
+    \ de 50% em um ano"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-10-31T11:34:07+00:00'
   description: "Reuni\xE3o acontece nesta sexta-feira, enquanto as tens\xF5es entre\
     \ Jap\xE3o e China continuam latentes"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/lideres-chineses-japoneses-terras-raras/
   title: "L\xEDderes da China e Jap\xE3o se re\xFAnem para discutir terras raras"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-10-31T09:00:00+00:00'
-  description: "Mesmo com gera\xE7\xE3o recorde de energia, o brasileiro continua\
-    \ pagando caro. Entenda como contratos antigos, subs\xEDdios e inefici\xEAncias\
-    \ do sistema travam a queda nas tarifas"
-  image: https://media.investnews.com.br/uploads/2024/09/GettyImages-2167953386-copy.webp
-  path: https://investnews.com.br/economia/sobra-energia-no-brasil-mas-a-conta-de-luz-nao-cai-por-que/
-  title: "Sobra energia no Brasil, mas a conta de luz n\xE3o cai. Por qu\xEA?"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-10-29T22:33:33+00:00'
   description: "C\xE2mara aprova atualiza\xE7\xE3o da PGV e fixa limite de 10% ao\
     \ ano para reajuste do IPTU; im\xF3veis de menor valor e localizados em ZEIS ter\xE3\
@@ -27,13 +36,3 @@
   path: https://investnews.com.br/financas/iptu-2026-sao-paulo/
   title: "IPTU 2026 em S\xE3o Paulo mais caro: C\xE2mara aprova nova PGV com aumento\
     \ limitado a 10% ao ano"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-10-29T21:14:26+00:00'
-  description: "Entenda o que \xE9 o FGC, como ele protege dep\xF3sitos e investimentos,\
-    \ quais produtos t\xEAm cobertura, limites garantidos e como acionar a restitui\xE7\
-    \xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/fgc-fundo-garantidor-de-creditos/
-  title: "O que \xE9 FGC e como ele funciona: cobertura, limites e como acionar a\
-    \ garantia"
