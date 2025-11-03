@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-03T13:42:02.577160'
+  date: '2025-11-03T14:49:54.896555'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-03T13:42:02.575409'
+  date: '2025-11-03T14:49:54.894823'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-03T13:42:02.575405'
+  date: '2025-11-03T14:49:54.894819'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-03T13:42:02.575400'
+  date: '2025-11-03T14:49:54.894815'
   description: "<div class=\"ExternalClass89BEC3FC87B24E52A58CCAB893399235\"><p>\u200B\
     <span>O ambiente</span><span> externo se mant\xE9m incerto em fun\xE7\xE3o da\
     \ conjuntura e da pol\xEDtica econ\xF4mica nos Estados Unidos. Consequentemente,\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-03T13:42:02.575390'
+  date: '2025-11-03T14:49:54.894805'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -435,8 +435,24 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id001
   - Economia
+  date: '2025-11-03T14:14:51+00:00'
+  description: "<p>A opera\xE7\xE3o contra o Comando Vermelho no Rio de Janeiro e\
+    \ a Opera\xE7\xE3o Carbono \u2013 que documentou a presen\xE7a do PCC na cadeia\
+    \ dos combust\xEDveis e sua lavagem de dinheiro no mercado financeiro \u2013 serviram\
+    \ para mostrar que, de S\xE3o Paulo \xE0 Amaz\xF4nia, n\xE3o h\xE1 Estado da federa\xE7\
+    \xE3o que n\xE3o sinta a presen\xE7a do crime [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/opiniao-estamos-lidando-com-a-mafia-o-pl-do-governo-nao-e-forte-o-suficiente/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Estamos lidando com a m\xE1fia. O PL do Governo\
+    \ n\xE3o \xE9 forte o suficiente</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-estamos-lidando-com-a-mafia-o-pl-do-governo-nao-e-forte-o-suficiente/
+  title: "OPINI\xC3O. Estamos lidando com a m\xE1fia. O PL do Governo n\xE3o \xE9\
+    \ forte o suficiente"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2025-11-02T23:29:00+00:00'
   description: "<p>Na semana passada, mal havia terminado a mega opera\xE7\xE3o da\
     \ pol\xEDcia nas favelas do Rio de Janeiro, uma outra guerra rapidamente se instalou\
@@ -516,7 +532,7 @@
   path: https://www.youtube.com/watch?v=UG5jbLReDiM
   title: "You\u2019re Passing Way Too Many Arguments (and How to Fix It)"
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-10-31T12:00:00+00:00'
   description: ''
@@ -524,7 +540,7 @@
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-spot-bitcoin-etfs
   title: 'In Practice Brief: Spot Bitcoin ETFs: The Struggle Was Worth It'
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-10-31T12:00:00+00:00'
   description: ''
   image: null
@@ -552,22 +568,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/10/30/the-factor-mirage-how-quant-models-go-wrong/
   title: 'The Factor Mirage: How Quant Models Go Wrong'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-10-30T09:50:24+00:00'
-  description: "<p>A reforma administrativa do Estado brasileiro \u2013 um dos projetos\
-    \ priorit\xE1rios do Presidente da C\xE2mara, Hugo Motta \u2013 prop\xF5e (finalmente)\
-    \ limitar os penduricalhos salariais do funcionalismo, regulamentar a avalia\xE7\
-    \xE3o dos servidores, acabar com f\xE9rias de 60 dias e dar fim \xE0s promo\xE7\
-    \xF5es autom\xE1ticas por tempo de servi\xE7o. Mas desde que a reforma entrou\
-    \ em tramita\xE7\xE3o, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/sindicatos-fazem-a-caveira-da-reforma-administrativa-1-manobrando-os-outros-99/\"\
-    \ rel=\"nofollow\">Sindicatos fazem a caveira da reforma administrativa; \u201C\
-    1% manobrando os outros 99%\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/sindicatos-fazem-a-caveira-da-reforma-administrativa-1-manobrando-os-outros-99/
-  title: "Sindicatos fazem a caveira da reforma administrativa; \u201C1% manobrando\
-    \ os outros 99%\u201D"
 - author: Marques Brownlee
   categories: &id005
   - Tech
