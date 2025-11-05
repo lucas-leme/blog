@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-11-05T20:29:46+00:00'
+  description: "Redes de blockchain n\xE3o t\xEAm bot\xE3o de delete. E isso atrapalhou\
+    \ os planos do BC."
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/por-que-o-bc-desligou-o-drex/
+  title: "Por que o BC \u2018desligou\u2019 o Drex? Entenda as raz\xF5es t\xE9cnicas\
+    \ por tr\xE1s da suspens\xE3o"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-11-05T18:24:16+00:00'
   description: As medidas fazem parte de um acordo entre o presidente americano Donald
     Trump e Xi Jinping
@@ -9,7 +18,7 @@
   title: "China acaba com tarifas sobre produtos agr\xEDcolas dos EUA e eleva otimismo\
     \ com retomada do mercado"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-11-05T17:42:29+00:00'
   description: "O Cadastro de Im\xF3veis Brasileiro (CIB), conhecido como \u201CCPF\
@@ -48,7 +57,7 @@
   path: https://www.reddit.com/r/CFA/comments/1op6xvj/i_dont_like_this_feelingif_youre_cfa_level_1/
   title: I don't like this feeling..(If you're CFA level 1 candidate please ignore)
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-11-03T19:30:40+00:00'
   description: "Datas variam conforme finais de semana e feriados; a seguir, entenda\
     \ como fazer o c\xE1lculo do quinto dia \xFAtil"
@@ -56,15 +65,6 @@
   path: https://investnews.com.br/financas/quinto-dia-util-pagamento-de-salarios/
   title: "Quando \xE9 o quinto dia \xFAtil do m\xEAs? Veja calend\xE1rio de pagamento\
     \ de sal\xE1rios at\xE9 2026"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-02T19:41:53+00:00'
-  description: "Pa\xEDses membros far\xE3o pequena eleva\xE7\xE3o na produ\xE7\xE3\
-    o em dezembro, mas com pausa no primeiro trimestre de 2026"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/opep-suspende-aumento-na-producao/
-  title: "Com risco de excesso de petr\xF3leo, Opep+ suspende aumento na produ\xE7\
-    \xE3o a partir do ano que vem"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
