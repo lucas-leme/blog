@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-06T18:32:18.245939'
+  date: '2025-11-06T20:30:27.459123'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T18:32:18.244595'
+  date: '2025-11-06T20:30:27.457476'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T18:32:18.244583'
+  date: '2025-11-06T20:30:27.457472'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T18:32:18.244578'
+  date: '2025-11-06T20:30:27.457463'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T18:32:18.244568'
+  date: '2025-11-06T20:30:27.457453'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -433,8 +433,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-11-06T19:03:15+00:00'
+  description: "<p>O Brasil est\xE1 em uma armadilha, preso entre reformas t\xEDmidas\
+    \ e um volume crescente de tens\xF5es macroecon\xF4micas, disse a consultoria\
+    \ canadense BCA Research, que acaba de publicar um relat\xF3rio duro e \u2018\
+    realista\u2019 sobre o que ela diz ser perspectivas pouco animadoras para os ativos\
+    \ brasileiros. O tom da an\xE1lise pode ser resumido assim: Brazil? Curb [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/nem-vitoria-da-direita-salva-os-ativos-brasileiros-diz-a-bca-research/\"\
+    \ rel=\"nofollow\">Nem vit\xF3ria da direita \u2018salva\u2019 os ativos brasileiros,\
+    \ diz a BCA Research\_</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/nem-vitoria-da-direita-salva-os-ativos-brasileiros-diz-a-bca-research/
+  title: "Nem vit\xF3ria da direita \u2018salva\u2019 os ativos brasileiros, diz a\
+    \ BCA Research"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-11-06T12:08:32+00:00'
   description: "<p>Chinese Mainland firms shift from Wall Street to HKEX as reforms,\
@@ -467,8 +484,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/economic-capital-a-better-measure-of-bank-failure/
   title: 'Economic Capital: A Better Measure of Bank Failure?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-11-06T09:40:10+00:00'
   description: "<p>Pelo andar do bus\xE3o, vem a\xED mais uma meia entrada \u2013\
     \ e uma mega carona eleitoral. \u201CConvenci o Presidente Lula de que o Brasil\
@@ -501,7 +517,7 @@
   path: https://open.spotify.com/episode/3KePOXPkVf8MM4cMnC3P8T
   title: 'Amazon crime: how to fix the economics destroying the rainforest'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-11-05T15:45:32+00:00'
   description: "<p>The line between financial engineering and sustainable value creation\
     \ in PE exits is thin, and strategic buyers must be prepared to tell the difference.</p>\n\
@@ -511,21 +527,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/11/05/a-strategic-buyers-guide-to-pe-exits/
   title: "A Strategic Buyer\u2019s Guide to PE Exits"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-11-05T09:50:54+00:00'
-  description: "<p>Os planos de sa\xFAde mal se recuperaram dos desafios dos \xFA\
-    ltimos anos e j\xE1 est\xE3o lidando com uma\_nova bomba.\_ O STF vai julgar nesta\
-    \ quarta-feira uma A\xE7\xE3o Declarat\xF3ria de Constitucionalidade (ADC) que\
-    \ pode evitar ou confirmar preju\xEDzos bilion\xE1rios para as operadoras de sa\xFA\
-    de &#8212; e provar, mais uma vez, que no Brasil at\xE9 o passado [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/o-julgamento-no-stf-que-tira-o-sono-das-operadoras-de-saude/\"\
-    \ rel=\"nofollow\">O julgamento no STF que tira o sono das operadoras de sa\xFA\
-    de</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-julgamento-no-stf-que-tira-o-sono-das-operadoras-de-saude/
-  title: "O julgamento no STF que tira o sono das operadoras de sa\xFAde"
 - author: CFA Institute Research and Policy Center
   categories: &id003
   - CFA
