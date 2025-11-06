@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-06T12:34:05+00:00'
+  description: "O indicadores apontam que as a\xE7\xF5es est\xE3o supervalorizadas\
+    \ e ecoa preocupa\xE7\xF5es sobre um comportamento semelhante a uma bolha"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/sinais-de-alerta-indicadores-buffett-e-barclays-indicam-euforia-no-mercado-americano/
+  title: 'Sinais de alerta: indicadores Buffett e Barclays indicam euforia no mercado
+    americano'
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -48,8 +58,7 @@
   title: "Se quiser cumprir a meta de infla\xE7\xE3o, BC deve segurar a Selic em 15%\
     \ at\xE9 mar\xE7o de 2026, diz Volpon"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-05T22:04:40+00:00'
   description: "Senado aprovou projeto que isenta do IR rendas mensais de at\xE9 R$\
     \ 5 mil; veja a nova tabela do Imposto de Renda e o impacto no bolso do contribuinte"
@@ -57,15 +66,6 @@
   path: https://investnews.com.br/financas/nova-tabela-do-imposto-de-renda/
   title: "Como ficar\xE1 a nova tabela do Imposto de Renda com a isen\xE7\xE3o para\
     \ quem ganha at\xE9 R$ 5 mil; confira economia anual estimada"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-05T22:00:02+00:00'
-  description: Medida ainda reduz o imposto de renda, gradualmente, para aqueles que
-    ganham entre R$ 5 mil e R$ 7.350
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/senado-aprova-isencao-ir-5-mil/
-  title: "Senado aprova isen\xE7\xE3o de IR para quem ganha at\xE9 R$ 5 mil por m\xEA\
-    s; texto vai para san\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
   categories: *id002
   date: '2025-11-05T21:36:08+00:00'
