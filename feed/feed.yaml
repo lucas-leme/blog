@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-06T02:11:22.648160'
+  date: '2025-11-06T11:08:01.277005'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T02:11:22.646548'
+  date: '2025-11-06T11:08:01.275500'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T02:11:22.646535'
+  date: '2025-11-06T11:08:01.275496'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T02:11:22.646530'
+  date: '2025-11-06T11:08:01.275485'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T02:11:22.646520'
+  date: '2025-11-06T11:08:01.275475'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -433,8 +433,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-11-06T09:40:10+00:00'
+  description: "<p>Pelo andar do bus\xE3o, vem a\xED mais uma meia entrada \u2013\
+    \ e uma mega carona eleitoral. \u201CConvenci o Presidente Lula de que o Brasil\
+    \ precisa da tarifa zero,\u201D disse o deputado Jilmar Tatto (PT-SP) numa entrevista\
+    \ recente ao site Congresso em Foco. Tatto \xE9 o autor do projeto que cria a\
+    \ gratuidade dos transportes p\xFAblicos [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/tarifa-zero-quem-paga-a-conta/\" rel=\"nofollow\">Tarifa\
+    \ zero: quem paga a conta?</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/tarifa-zero-quem-paga-a-conta/
+  title: 'Tarifa zero: quem paga a conta?'
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-11-05T15:45:32+00:00'
   description: "<p>The line between financial engineering and sustainable value creation\
@@ -446,8 +461,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/05/a-strategic-buyers-guide-to-pe-exits/
   title: "A Strategic Buyer\u2019s Guide to PE Exits"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-11-05T09:50:54+00:00'
   description: "<p>Os planos de sa\xFAde mal se recuperaram dos desafios dos \xFA\
     ltimos anos e j\xE1 est\xE3o lidando com uma\_nova bomba.\_ O STF vai julgar nesta\
@@ -462,7 +476,7 @@
   path: https://braziljournal.com/o-julgamento-no-stf-que-tira-o-sono-das-operadoras-de-saude/
   title: "O julgamento no STF que tira o sono das operadoras de sa\xFAde"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-11-04T15:03:33+00:00'
   description: "<p>AI can help LPs structure data, enhance due diligence, and improve\
     \ oversight, while keeping human judgment central.</p>\n<p>The post <a href=\"\
@@ -496,21 +510,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/banking-system-vulnerability-2025-update/
   title: 'Banking System Vulnerability: 2025 Update'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-11-04T09:40:43+00:00'
-  description: "<p>A impressionante vota\xE7\xE3o un\xE2nime do PL 1087/25 na C\xE2\
-    mara dos Deputados (493 x 0), que ampliou a faixa de isen\xE7\xE3o do Imposto\
-    \ de Renda e instituiu uma tributa\xE7\xE3o sobre os chamados \u201Csuper ricos\u201D\
-    , parece confirmar a c\xE9lebre advert\xEAncia de Nelson Rodrigues: \u201Ctoda\
-    \ unanimidade \xE9 burra; quem pensa com a unanimidade n\xE3o precisa pensar.\u201D\
-    \ N\xE3o se [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-senado-vai-consertar-a-tributacao-de-dividendos/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. O Senado vai consertar a tributa\xE7\xE3o de dividendos?</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-senado-vai-consertar-a-tributacao-de-dividendos/
-  title: "OPINI\xC3O. O Senado vai consertar a tributa\xE7\xE3o de dividendos?"
 - author: Outliers
   categories: &id005
   - Podcasts
