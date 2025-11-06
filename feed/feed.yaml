@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-06T12:14:35.192636'
+  date: '2025-11-06T12:31:23.447806'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T12:14:35.191130'
+  date: '2025-11-06T12:31:23.446058'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T12:14:35.191126'
+  date: '2025-11-06T12:31:23.446044'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T12:14:35.191122'
+  date: '2025-11-06T12:31:23.446039'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-06T12:14:35.191112'
+  date: '2025-11-06T12:31:23.446029'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -433,8 +433,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-11-06T12:08:32+00:00'
+  description: "<p>Chinese Mainland firms shift from Wall Street to HKEX as reforms,\
+    \ delistings, and policy alignment drive record listings and new investor access.\
+    \ </p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/11/06/china-inc-returns-whats-driving-hkexs-boom/\"\
+    >China Inc. Returns: What\u2019s Driving HKEX\u2019s Boom</a> appeared first on\
+    \ <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/11/06/china-inc-returns-whats-driving-hkexs-boom/
+  title: "China Inc. Returns: What\u2019s Driving HKEX\u2019s Boom"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-11-06T09:40:10+00:00'
   description: "<p>Pelo andar do bus\xE3o, vem a\xED mais uma meia entrada \u2013\
@@ -449,8 +462,7 @@
   path: https://braziljournal.com/tarifa-zero-quem-paga-a-conta/
   title: 'Tarifa zero: quem paga a conta?'
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-11-05T15:45:32+00:00'
   description: "<p>The line between financial engineering and sustainable value creation\
     \ in PE exits is thin, and strategic buyers must be prepared to tell the difference.</p>\n\
@@ -461,7 +473,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/05/a-strategic-buyers-guide-to-pe-exits/
   title: "A Strategic Buyer\u2019s Guide to PE Exits"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-11-05T09:50:54+00:00'
   description: "<p>Os planos de sa\xFAde mal se recuperaram dos desafios dos \xFA\
     ltimos anos e j\xE1 est\xE3o lidando com uma\_nova bomba.\_ O STF vai julgar nesta\
@@ -475,20 +487,8 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-julgamento-no-stf-que-tira-o-sono-das-operadoras-de-saude/
   title: "O julgamento no STF que tira o sono das operadoras de sa\xFAde"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-11-04T15:03:33+00:00'
-  description: "<p>AI can help LPs structure data, enhance due diligence, and improve\
-    \ oversight, while keeping human judgment central.</p>\n<p>The post <a href=\"\
-    https://blogs.cfainstitute.org/investor/2025/11/04/the-augmented-lp-6-ways-ai-can-enhance-the-allocators-workflow/\"\
-    >The Augmented LP: 6 Ways AI Can Enhance the Allocator\u2019s Workflow</a> appeared\
-    \ first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/11/04/the-augmented-lp-6-ways-ai-can-enhance-the-allocators-workflow/
-  title: "The Augmented LP: 6 Ways AI Can Enhance the Allocator\u2019s Workflow"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2025-11-04T12:00:00+00:00'
   description: ''
@@ -510,8 +510,55 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/banking-system-vulnerability-2025-update/
   title: 'Banking System Vulnerability: 2025 Update'
+- author: Market Makers
+  categories: &id003
+  - Podcasts
+  date: '2025-11-04T00:00:00+00:00'
+  description: "Conhe\xE7a a plataforma da Credit Guide:https://creditguide.com.br/?utm_source=Second+Level&amp;utm_medium=videoTenha\
+    \ acesso a +15 modelos de IA, cursos, ferramentas exclusivas e 30 dias gr\xE1\
+    tis pra testar: https://go.adapta.org/campaign/adapta-mm-youtubeNo epis\xF3dio\
+    \ 280 do Market Makers, recebemos o deputado federal Eduardo Bolsonaro diretamente\
+    \ dos Estados Unidos. Ele comenta a not\xEDcia de que o STF (Suprema Tribunal\
+    \ Federal), sob relatoria de Alexandre de Moraes, marca o julgamento que pode\
+    \ torn\xE1-lo r\xE9u por coa\xE7\xE3o. Eduardo classifica a a\xE7\xE3o como uma\
+    \ persegui\xE7\xE3o e uma tentativa de \"tapet\xE3o\" para torn\xE1-lo ineleg\xED\
+    vel, visando as elei\xE7\xF5es de 2026.Durante o papo, Eduardo Bolsonaro admite\
+    \ e diz \"se orgulhar\" de ter contribu\xEDdo para as san\xE7\xF5es internacionais\
+    \ (Lei Magnitsky) aplicadas contra Moraes, que, segundo ele, \xE9 um \"psicopata\"\
+    \ cujo objetivo \xE9 \"matar\" Jair Bolsonaro \"literalmente\".Sobre o futuro\
+    \ da direita, Eduardo critica a pulveriza\xE7\xE3o e as brigas internas (citando\
+    \ o caso de Carlos Bolsonaro e Ana Campagnolo) e faz duras cr\xEDticas ao governador\
+    \ de S\xE3o Paulo, Tarc\xEDsio de Freitas. Ele define Tarc\xEDsio como a \"direita\
+    \ permitida\" pelo establishment e questiona nomea\xE7\xF5es em seu governo ligadas\
+    \ a Fernando Haddad (PT) e ao PSOL. Eduardo Bolsonaro tamb\xE9m confirma: caso\
+    \ seu pai, Jair Bolsonaro, n\xE3o possa concorrer, ele deseja colocar seu pr\xF3\
+    prio nome na disputa presidencial.O deputado detalha ainda seu plano para o Brasil,\
+    \ focado em duas frentes:-Seguran\xE7a: Implementar o \"Modelo Bukele\" de El\
+    \ Salvador, quebrando o trip\xE9 da inseguran\xE7a (desarmamento, tr\xE1fico e\
+    \ desencarceramento).-Economia: Reduzir o tamanho do estado, argumentando que\
+    \ Lula n\xE3o pode fazer o mesmo, pois manter um \"estado gigantesco\" alimentado\
+    \ por impostos \xE9 a \xFAnica forma de sobreviv\xEAncia pol\xEDtica do PT.Por\
+    \ fim, Eduardo faz uma autocr\xEDtica sobre o governo Bolsonaro (2019-2022), apontando\
+    \ erros na nomea\xE7\xE3o de ministros \"t\xE9cnicos\" que n\xE3o o defendiam\
+    \ publicamente e no corte dr\xE1stico do or\xE7amento de comunica\xE7\xE3o (gest\xE3\
+    o Santos Cruz), que impediu o governo de rebater narrativas internacionais, como\
+    \ as de Macron sobre a Amaz\xF4nia.\U0001F4CC Inscreva-se no canal e ative as\
+    \ notifica\xE7\xF5es para n\xE3o perder nenhum epis\xF3dio!\U0001F4E2Apoie o Market\
+    \ Makers e ajude a fortalecer o mercado de capitais no Brasil! Clique no link\
+    \ e torne-se membro do nosso canal por apenas R$7,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
+    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
+    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
+    \ Market Makers: https://mmakers.com.br/biblioteca-market-makers/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
+    \ - - - - - - - -| Market Makers #280Apresentadores: Thiago Salom\xE3o (Apresentador\
+    \ e analista do Market makers)Convidado: Eduardo Bolsonaro (3\xBA filho do ex-presidente\
+    \ Jair Bolsonaro, exerce o cargo de deputado federal de S\xE3o Paulo desde 2015)#EDUARDOBOLSONARO\
+    \ #BOLSONARO #TRUMP #ALEXANDREDEMORAES #BRASIL #INVESTIMENTOS #MERCADOFINANCEIRO\
+    \ #MARKETMAKERS #THIAGOSALOM\xC3O"
+  image: https://i.scdn.co/image/ab6765630000ba8a08eda45da58e2f59273438d5
+  path: https://open.spotify.com/episode/7BoDJ1JiZ5ZpDS0PsVrr3m
+  title: "#280 | AS IDEIAS E OPINI\xD5ES POL\xCAMICAS DE EDUARDO BOLSONARO"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-11-04T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
@@ -534,8 +581,49 @@
   path: https://open.spotify.com/episode/1bxb7lVay2Fek6YK8GF1zC
   title: "Entenda tudo sobre investimentos no setor de cr\xE9dito | Espresso Outliers\
     \ InfoMoney #3"
+- author: Market Makers
+  categories: *id003
+  date: '2025-11-02T00:00:00+00:00'
+  description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthAcesse\
+    \ o e-book gratuito: https://lp.mmakers.com.br/governadores?xpromo=MI-GOVERNADORES-YT-DESCRICAO-X-20251101-DESCRICAOSOBRERAFAELFONTELES-MM-X\xC9\
+    \ poss\xEDvel ser do PT, defender o mercado financeiro e ter responsabilidade\
+    \ fiscal?No Market Makers de hoje, Thiago Salom\xE3o recebe Rafael Fonteles, Governador\
+    \ do Piau\xED e talvez o pol\xEDtico com o curr\xEDculo mais \"Faria Lima\" do\
+    \ Brasil: mestre em economia matem\xE1tica pelo IMPA, medalhista internacional\
+    \ de ci\xEAncias e ex-assessor de investimentos da XP.Neste papo, Fonteles, que\
+    \ \xE9 filiado ao Partido dos Trabalhadores, encara o mercado e explica como trocou\
+    \ a carreira de empreendedor pela gest\xE3o p\xFAblica. Ele defende sua tese principal:\
+    \ o equil\xEDbrio fiscal n\xE3o \xE9 uma \"bandeira da direita\", mas sim uma\
+    \ \"premissa\" essencial para executar o verdadeiro objetivo da esquerda, a redu\xE7\
+    \xE3o da desigualdade social.Ele apresenta o Piau\xED como \"o melhor lugar do\
+    \ mundo para investir\", detalhando a revolu\xE7\xE3o silenciosa que est\xE1 acontecendo\
+    \ no estado. Fonteles revela que o Piau\xED tem um excedente de 6 GW de energia\
+    \ (99,7% limpa), pronta para atrair a industrializa\xE7\xE3o verde, como usinas\
+    \ de hidrog\xEAnio e data centers.Al\xE9m disso, o governador explica a transforma\xE7\
+    \xE3o na educa\xE7\xE3o p\xFAblica (com IA e rob\xF3tica obrigat\xF3rias) e na\
+    \ seguran\xE7a (com um sistema que j\xE1 recupera mais celulares do que s\xE3\
+    o roubados).Na pauta nacional, Fonteles analisa o governo Lula 3, defende o Ministro\
+    \ Fernando Haddad, afirma que o arcabou\xE7o fiscal \"est\xE1 sendo cumprido\"\
+    \ e aponta os \"super sal\xE1rios\" e \"incentivos fiscais\" como os verdadeiros\
+    \ problemas fiscais do Brasil.Voc\xEA concorda com a vis\xE3o de Rafael Fonteles\
+    \ de que o \"equil\xEDbrio fiscal \xE9 uma premissa, e n\xE3o uma ideologia\"\
+    ? Acha que o Piau\xED \xE9 realmente a pr\xF3xima fronteira de investimentos do\
+    \ Brasil?\U0001F4CC Inscreva-se no canal e ative as notifica\xE7\xF5es para n\xE3\
+    o perder nenhum epis\xF3dio!\U0001F4E2Apoie o Market Makers e ajude a fortalecer\
+    \ o mercado de capitais no Brasil! Clique no link e torne-se membro do nosso canal\
+    \ por apenas R$7,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
+    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
+    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
+    \ Market Makers: https://mmakers.com.br/biblioteca-market-makers/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
+    \ - - - - - - - -| Market Makers #279Apresentadores: Thiago Salom\xE3o (Apresentador\
+    \ e analista do Market makers)Convidado: Rafael Fonteles (Governador do Estado\
+    \ do Piau\xED)#BRASIL #BOLSADEVALORES #INVESTIMENTOS #MERCADOFINANCEIRO #MARKETMAKERS\
+    \ #THIAGOSALOM\xC3O"
+  image: https://i.scdn.co/image/ab6765630000ba8a3b2ba43741865991bca581b1
+  path: https://open.spotify.com/episode/3CqjSUnaeW6aHMT6Zif8g5
+  title: "#279 | O QUE PENSA A NOVA GERA\xC7\xC3O DA ESQUERDA BRASILEIRA?"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -559,14 +647,14 @@
   path: https://www.youtube.com/watch?v=UG5jbLReDiM
   title: "You\u2019re Passing Way Too Many Arguments (and How to Fix It)"
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2025-10-31T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-spot-bitcoin-etfs
   title: 'In Practice Brief: Spot Bitcoin ETFs: The Struggle Was Worth It'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-10-30T13:47:56+00:00'
@@ -576,7 +664,7 @@
   path: https://theovershoot.co/p/inside-americas-consumption-recovery
   title: Inside America's Consumption Recovery
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-10-30T01:46:49+00:00'
@@ -623,14 +711,14 @@
   path: https://open.spotify.com/episode/4Fu6osekXj6cJg1ftQALrU
   title: "Budget balancing act: an interview with France\u2019s finance minister"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-10-28T20:42:14+00:00'
   description: ''
   image: https://i1.ytimg.com/vi/PTf_Z8A2Usc/hqdefault.jpg
   path: https://www.youtube.com/shorts/PTf_Z8A2Usc
   title: This Zoom is Ridiculous
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2025-10-28T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar no sof\xE1 e entender, de uma forma\
@@ -650,7 +738,7 @@
   title: "Previd\xEAncia complementar: vantagens e como escolher o produto certo |\
     \ Espresso Outliers InfoMoney #2"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-10-24T15:00:46+00:00'
   description: "\u2705 Learn how to build robust and scalable software architecture:\
     \ https://arjan.codes/checklist.\n\nIn this video, I show you how to use uv workspaces\
@@ -681,7 +769,7 @@
   title: "What\u2019s Driving the Shift in Portfolio Construction: Private Credit,\
     \ Private Equity, and the New Market Reality"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-10-20T23:12:07+00:00'
   description: The U.S. Treasury's interventions on behalf of Argentina are unlikely
     to succeed as long as the country's fiscal probity fails to offset monetary laxity
@@ -690,7 +778,7 @@
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-10-19T12:07:35+00:00'
@@ -722,14 +810,14 @@
   title: "Jay Rajamony \u2013 Beyond Factors: Reimagining Quant Equity for the Modern\
     \ Era\_(S7E23)"
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-10-05T13:45:26+00:00'
   description: Data Centers get Tariff-Free Imports. Why Shouldn't we All?
   image: https://substackcdn.com/image/fetch/$s_!b7rr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f8b5bc-3aa9-4983-8c19-32d3648bb019_2886x1843.png
   path: https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai
   title: The Tariff Exemption Behind the AI Boom
 - author: The Journal.
-  categories: &id009
+  categories: &id010
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -745,7 +833,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id009
+  categories: *id010
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
