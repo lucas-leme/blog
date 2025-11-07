@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-07T13:40:16.058567'
+  date: '2025-11-07T14:48:56.682958'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T13:40:16.057033'
+  date: '2025-11-07T14:48:56.681432'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T13:40:16.057029'
+  date: '2025-11-07T14:48:56.681427'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T13:40:16.057017'
+  date: '2025-11-07T14:48:56.681414'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T13:40:16.057007'
+  date: '2025-11-07T14:48:56.681403'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -433,8 +433,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-11-07T13:56:09+00:00'
+  description: '<p>Without an AI taxonomy, investment firms risk overrelying on agentic
+    AI and underutilizing it for optimal capital allocation.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/11/07/design-beats-luck-how-ai-taxonomy-can-help-investment-firms-evolve/">Design
+    Beats Luck: How AI Taxonomy Can Help Investment Firms Evolve</a> appeared first
+    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/11/07/design-beats-luck-how-ai-taxonomy-can-help-investment-firms-evolve/
+  title: 'Design Beats Luck: How AI Taxonomy Can Help Investment Firms Evolve'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-11-06T19:03:15+00:00'
   description: "<p>O Brasil est\xE1 em uma armadilha, preso entre reformas t\xEDmidas\
@@ -450,8 +464,7 @@
   path: https://braziljournal.com/nem-a-direita-salva-os-ativos-brasileiros-diz-a-bca-research/
   title: Nem a direita salva os ativos brasileiros, diz a BCA Research
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-11-06T12:08:32+00:00'
   description: "<p>Chinese Mainland firms shift from Wall Street to HKEX as reforms,\
     \ delistings, and policy alignment drive record listings and new investor access.\
@@ -483,7 +496,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/economic-capital-a-better-measure-of-bank-failure/
   title: 'Economic Capital: A Better Measure of Bank Failure?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-11-06T09:40:10+00:00'
   description: "<p>Pelo andar do bus\xE3o, vem a\xED mais uma meia entrada \u2013\
     \ e uma mega carona eleitoral. \u201CConvenci o Presidente Lula de que o Brasil\
@@ -515,17 +528,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8abcf3bdc5548e13c488f7a6e5
   path: https://open.spotify.com/episode/3KePOXPkVf8MM4cMnC3P8T
   title: 'Amazon crime: how to fix the economics destroying the rainforest'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-11-05T15:45:32+00:00'
-  description: "<p>The line between financial engineering and sustainable value creation\
-    \ in PE exits is thin, and strategic buyers must be prepared to tell the difference.</p>\n\
-    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/11/05/a-strategic-buyers-guide-to-pe-exits/\"\
-    >A Strategic Buyer\u2019s Guide to PE Exits</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
-    >CFA Institute Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/11/05/a-strategic-buyers-guide-to-pe-exits/
-  title: "A Strategic Buyer\u2019s Guide to PE Exits"
 - author: CFA Institute Research and Policy Center
   categories: &id003
   - CFA
