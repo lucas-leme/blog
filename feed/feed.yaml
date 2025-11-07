@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-07T14:48:56.682958'
+  date: '2025-11-07T15:48:25.480566'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T14:48:56.681432'
+  date: '2025-11-07T15:48:25.479056'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T14:48:56.681427'
+  date: '2025-11-07T15:48:25.479052'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T14:48:56.681414'
+  date: '2025-11-07T15:48:25.479043'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-07T14:48:56.681403'
+  date: '2025-11-07T15:48:25.479033'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo se mant\xE9m incerto em fun\xE7\xE3\
@@ -433,8 +433,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17092025
   title: "BC - Copom Ata - 273\xAA Reuni\xE3o - 16-17 setembro, 2025"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2025-11-07T15:03:08+00:00'
+  description: "<p>O EBITDA consolidou-se como um indicador amplamente utilizado no\
+    \ mercado, mas seu uso como m\xE9trica de gera\xE7\xE3o de caixa \xE9 uma armadilha\
+    \ perigosa. Simples e de c\xE1lculo r\xE1pido, ele pode ser \xFAtil em compara\xE7\
+    \xF5es e opera\xE7\xF5es de cr\xE9dito. Por\xE9m ignora elementos cr\xEDticos,\
+    \ como necessidades de capital de giro, pagamento de imposto de renda e custo\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-a-ilusao-do-ebitda/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. A ilus\xE3o do EBITDA</a> appeared first on <a\
+    \ href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-a-ilusao-do-ebitda/
+  title: "OPINI\xC3O. A ilus\xE3o do EBITDA"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2025-11-07T13:56:09+00:00'
   description: '<p>Without an AI taxonomy, investment firms risk overrelying on agentic
@@ -448,8 +463,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/07/design-beats-luck-how-ai-taxonomy-can-help-investment-firms-evolve/
   title: 'Design Beats Luck: How AI Taxonomy Can Help Investment Firms Evolve'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-11-06T19:03:15+00:00'
   description: "<p>O Brasil est\xE1 em uma armadilha, preso entre reformas t\xEDmidas\
     \ e um volume crescente de tens\xF5es macroecon\xF4micas, disse a consultoria\
@@ -464,7 +478,7 @@
   path: https://braziljournal.com/nem-a-direita-salva-os-ativos-brasileiros-diz-a-bca-research/
   title: Nem a direita salva os ativos brasileiros, diz a BCA Research
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-11-06T12:08:32+00:00'
   description: "<p>Chinese Mainland firms shift from Wall Street to HKEX as reforms,\
     \ delistings, and policy alignment drive record listings and new investor access.\
@@ -495,20 +509,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/economic-capital-a-better-measure-of-bank-failure/
   title: 'Economic Capital: A Better Measure of Bank Failure?'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-11-06T09:40:10+00:00'
-  description: "<p>Pelo andar do bus\xE3o, vem a\xED mais uma meia entrada \u2013\
-    \ e uma mega carona eleitoral. \u201CConvenci o Presidente Lula de que o Brasil\
-    \ precisa da tarifa zero,\u201D disse o deputado Jilmar Tatto (PT-SP) numa entrevista\
-    \ recente ao site Congresso em Foco. Tatto \xE9 o autor do projeto que cria a\
-    \ gratuidade dos transportes p\xFAblicos [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/tarifa-zero-quem-paga-a-conta/\" rel=\"nofollow\">Tarifa\
-    \ zero: quem paga a conta?</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/tarifa-zero-quem-paga-a-conta/
-  title: 'Tarifa zero: quem paga a conta?'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
