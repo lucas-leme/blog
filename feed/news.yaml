@@ -1,5 +1,22 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-08T12:59:20+00:00'
+  description: "Proibi\xE7\xE3o chinesa havia sido decretada em maio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-encerra-embargo-apos-seis-meses-e-retoma-importacoes-de-frango-do-brasil/
+  title: "China encerra embargo ap\xF3s seis meses e retoma importa\xE7\xF5es de frango\
+    \ do Brasil"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2025-11-08T12:48:22+00:00'
+  description: "Presidente dos EUA afirma que empresas manipulam pre\xE7os da carne"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-manda-investigar-frigorificos-e-culpa-empresas-estrangeiras-por-alta-da-carne/
+  title: "Trump manda investigar frigor\xEDficos e culpa empresas estrangeiras por\
+    \ alta da carne"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-11-07T15:04:14+00:00'
   description: "V\xE1rias outras empresas estudam acelerar pagamentos, tendo em vista\
@@ -50,7 +67,7 @@
   path: https://www.reddit.com/r/CFA/comments/1oqll3t/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-11-06T21:58:29+00:00'
   description: "Pa\xEDs se prepara para a maior mudan\xE7a no IR em d\xE9cadas, com\
     \ isen\xE7\xE3o para rendas de at\xE9 R$ 5 mil, cria\xE7\xE3o de um imposto m\xED\
@@ -59,24 +76,6 @@
   path: https://investnews.com.br/financas/tributacao-de-dividendos-ir/
   title: "Tributa\xE7\xE3o de dividendos: veja o que muda no Imposto de Renda a partir\
     \ de 2026"
-- author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2025-11-06T21:35:47+00:00'
-  description: "\xC9 a 4\xAA emiss\xE3o do ano. Isso n\xE3o acontece desde 2010"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-tenta-captar-mais-us-225-bilhoes-em-divida-externa-pagando-cerca-de-6-em-dolar/
-  title: "Governo tenta captar mais US$ 2,25 bilh\xF5es em d\xEDvida externa, pagando\
-    \ cerca de 6% em d\xF3lar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-05T23:30:09+00:00'
-  description: "Banco Central manteve a taxa em 15%, indicando novamente que ela ficar\xE1\
-    \ assim \"por um per\xEDodo prolongado\""
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/se-quiser-cumprir-a-meta-de-inflacao-bc-deve-segurar-a-selic-em-15-ate-marco-de-2026-diz-volpon/
-  title: "Se quiser cumprir a meta de infla\xE7\xE3o, BC deve segurar a Selic em 15%\
-    \ at\xE9 mar\xE7o de 2026, diz Volpon"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
