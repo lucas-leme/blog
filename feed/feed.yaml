@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-12T13:43:46.978186'
+  date: '2025-11-12T14:50:31.864828'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-12T13:43:46.976660'
+  date: '2025-11-12T14:50:31.863288'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-12T13:43:46.976656'
+  date: '2025-11-12T14:50:31.863282'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-12T13:43:46.976649'
+  date: '2025-11-12T14:50:31.863277'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-12T13:43:46.976639'
+  date: '2025-11-12T14:50:31.863266'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-11-12T14:29:19+00:00'
+  description: "<p>Sharpe\u2019s arithmetic explained markets at rest. Pedersen\u2019\
+    s model shows markets in motion and how active management creates real economic\
+    \ value.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/11/12/from-sharpe-to-pedersen-why-active-management-isnt-zero-sum-after-all/\"\
+    >From Sharpe to Pedersen: Why Active Management Isn\u2019t Zero-Sum After All</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/11/12/from-sharpe-to-pedersen-why-active-management-isnt-zero-sum-after-all/
+  title: "From Sharpe to Pedersen: Why Active Management Isn\u2019t Zero-Sum After\
+    \ All"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -421,7 +435,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/how-has-treasury-market-liquidity-fared-in-2025/
   title: How Has Treasury Market Liquidity Fared in 2025?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-11-12T09:50:33+00:00'
   description: "<p>Entrou na fase final de testes a infraestrutura tecnol\xF3gica\
@@ -438,8 +452,7 @@
   title: "A duplicata eletr\xF4nica pode destravar o cr\xE9dito para as PJs. A hora\
     \ chegou"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-11-11T14:22:03+00:00'
   description: '<p>A collection of witty insightful essays by Larry Siegel explore
     progress, investing, and the ideas shaping modern economics.</p>
@@ -451,7 +464,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/11/book-review-on-progress-and-prosperity/
   title: 'Book Review: On Progress and Prosperity'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-11-11T12:53:35+00:00'
   description: "<p>A Opera\xE7\xE3o Carbono Oculto reabriu um intenso debate sobre\
     \ a necessidade de aumentar o controle sobre as fintechs. Com sua menor regulamenta\xE7\
@@ -467,7 +480,7 @@
   title: "OPINI\xC3O. Nas fintechs, ponderar a regula\xE7\xE3o para n\xE3o matar a\
     \ inova\xE7\xE3o"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-11-11T00:00:00+00:00'
   description: "Tenha acesso a +15 modelos de IA, cursos, ferramentas exclusivas e\
@@ -535,7 +548,7 @@
   title: '#175 - "FIDCs" da gringa: entenda os CLOs, com Marc Foster, da Franklin
     Templeton'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-11-09T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
     O DE GRANDES FORTUNAS: https://lp.mmakers.com.br/market-makers-legend?xpromo=MI-LEGEND-YT-DESCRICAO-EPISODIO251-20250828-POSTUNICOSOBRELEGEND-MM-XGARANTA\
@@ -601,19 +614,6 @@
   image: https://i3.ytimg.com/vi/bsU7AFjh4m8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=bsU7AFjh4m8
   title: "Why Your Code Isn\u2019t Pythonic (And How to Fix It)"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-11-07T13:56:09+00:00'
-  description: '<p>Without an AI taxonomy, investment firms risk overrelying on agentic
-    AI and underutilizing it for optimal capital allocation.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/11/07/design-beats-luck-how-ai-taxonomy-can-help-investment-firms-evolve/">Design
-    Beats Luck: How AI Taxonomy Can Help Investment Firms Evolve</a> appeared first
-    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/11/07/design-beats-luck-how-ai-taxonomy-can-help-investment-firms-evolve/
-  title: 'Design Beats Luck: How AI Taxonomy Can Help Investment Firms Evolve'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
