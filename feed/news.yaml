@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-12T22:33:23+00:00'
+  description: "A medida inclui um teto de 3,6% para a taxa cobrada de restaurantes\
+    \ e supermercados pelas operadoras desses cart\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/novas-regras-para-vale-alimentacao-podem-gerar-economia-anual-de-r8-bi-estima-fazenda/
+  title: "Novas regras para vale-alimenta\xE7\xE3o podem gerar economia anual de R$8\
+    \ bi, estima Fazenda"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-11-12T20:02:47+00:00'
   description: "Empresas t\xEAm at\xE9 20 de dezembro para pagar a segunda parcela\
@@ -9,8 +19,7 @@
   path: https://investnews.com.br/financas/13o-salario-2025/
   title: "13\xBA sal\xE1rio 2025: veja prazos, regras e quem tem direito"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-11T21:23:37+00:00'
   description: "Governo limita taxas cobradas pelas operadoras, amplia a rede de aceita\xE7\
     \xE3o do vale-refei\xE7\xE3o e do vale-alimenta\xE7\xE3o e reduz o prazo de repasse\
@@ -20,7 +29,7 @@
   title: "Vale-refei\xE7\xE3o e alimenta\xE7\xE3o ter\xE3o novas regras: veja o que\
     \ muda no seu benef\xEDcio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-11-10T14:18:37+00:00'
   description: "Para o Morgan Stanley, os robustos resultados corporativos impulsionar\xE3\
     o o rali das a\xE7\xF5es dos Estados Unidos"
@@ -62,15 +71,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ot53p3/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-09T18:37:41+00:00'
-  description: "Williams citou que a decis\xE3o do Fed em dezembro ser\xE1 um 'exerc\xED\
-    cio de equil\xEDbrio\""
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/presidente-do-fed-de-nova-york-ve-aperto-da-classe-media-como-risco-a-resiliencia-economica-dos-eua/
-  title: "Presidente do Fed de Nova York v\xEA aperto da classe m\xE9dia como risco\
-    \ \xE0 resili\xEAncia econ\xF4mica dos EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
