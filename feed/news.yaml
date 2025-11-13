@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-13T11:44:31+00:00'
+  description: "Os funcion\xE1rios federais devem retornar ao trabalho a partir desta\
+    \ quinta-feira"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fim-do-shutdown-trump-sanciona-acordo-para-acabar-paralisacao-mais-longa-da-historia-dos-eua/
+  title: "Fim do Shutdown: Trump sanciona acordo para acabar\_paralisa\xE7\xE3o mais\
+    \ longa da hist\xF3ria dos EUA"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ovsefk/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-12T22:33:23+00:00'
   description: "A medida inclui um teto de 3,6% para a taxa cobrada de restaurantes\
     \ e supermercados pelas operadoras desses cart\xF5es"
@@ -57,16 +66,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/13o-salario-2025/
   title: "13\xBA sal\xE1rio 2025: veja prazos, regras e quem tem direito"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-11T21:23:37+00:00'
-  description: "Governo limita taxas cobradas pelas operadoras, amplia a rede de aceita\xE7\
-    \xE3o do vale-refei\xE7\xE3o e do vale-alimenta\xE7\xE3o e reduz o prazo de repasse\
-    \ aos estabelecimentos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/vale-refeicao-e-alimentacao-vr-e-va/
-  title: "Vale-refei\xE7\xE3o e alimenta\xE7\xE3o ter\xE3o novas regras: veja o que\
-    \ muda no seu benef\xEDcio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-11-10T14:18:37+00:00'
