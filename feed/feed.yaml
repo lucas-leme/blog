@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-14T15:48:18.985684'
+  date: '2025-11-14T18:31:56.493755'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-14T15:48:18.984165'
+  date: '2025-11-14T18:31:56.492017'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-14T15:48:18.984160'
+  date: '2025-11-14T18:31:56.492010'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-14T15:48:18.984153'
+  date: '2025-11-14T18:31:56.492006'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-14T15:48:18.984143'
+  date: '2025-11-14T18:31:56.491997'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-11-14T16:00:25+00:00'
+  description: "\u2192 Python Programming Fundamentals course (DataCamp): https://datacamp.pxf.io/POPxVR\n\
+    \n\u2192 Associate Python Developer track (DataCamp): https://datacamp.pxf.io/Dy2oea\n\
+    \nPython is often praised as the easiest programming language to learn, but that\
+    \ simplicity can be deceptive. In this video, I break down the real Python learning\
+    \ curve and show you how to go from basic syntax to writing clean, testable, professional-grade\
+    \ software. We\u2019ll cover the steps I\u2019d take if I had to learn Python\
+    \ all over again: mastering the core, writing Pythonic code, understanding types\
+    \ and protocols, designing better abstractions, and more.\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2025/learn.\n\n\U0001F393 ArjanCodes Courses:\
+    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:30 Step 1: Master the Core Through Small\
+    \ Transformations\n5:27 Step 2: Write Pythonic Code on Purpose\n6:55 Step 3: Build\
+    \ Tools, Not Just Apps\n8:49 Step 4: Learn How Python Thinks\n12:58 Step 5: Use\
+    \ Abstractions and Types to Understand Your Data\n18:33 Step 6: Design Your Code\
+    \ Like a Software Engineer\n20:06 Step 7: Write Tests Like a Pro\n23:49 Step 8:\
+    \ Dive Into Internals (When Ready)\n24:34 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i1.ytimg.com/vi/8_Pf4y5yqCE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
+  title: How To Not Plateau When Learning Python
 - author: CFA Institute Research and Policy Center
   categories: &id004
   - CFA
@@ -631,7 +657,7 @@
   title: "#283 | O QUE NINGU\xC9M TE CONTA SOBRE O RISCO FISCAL DO BRASIL: \"N\xC3\
     O \xC9 O MAIOR PROBLEMA\""
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-11-11T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 175 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -652,10 +678,7 @@
   title: '#175 - "FIDCs" da gringa: entenda os CLOs, com Marc Foster, da Franklin
     Templeton'
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2025-11-07T16:00:58+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWhat does it actually mean to write *Pythonic* code? In this video, we answer\
@@ -679,7 +702,7 @@
   path: https://www.youtube.com/watch?v=bsU7AFjh4m8
   title: "Why Your Code Isn\u2019t Pythonic (And How to Fix It)"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-11-04T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar no sof\xE1 e entender, de uma forma\
@@ -700,27 +723,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a2aae4440ee9d99b990e36ccd
   path: https://open.spotify.com/episode/1bxb7lVay2Fek6YK8GF1zC
   title: "O novo momento do cr\xE9dito privado | Espresso Outliers InfoMoney #3"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-10-31T16:00:52+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nTired of passing five arguments to every function? In this video, I clean up\
-    \ a realistic Python codebase using the Context Object Pattern. You\u2019ll see\
-    \ how to go from messy, repetitive function signatures to a cleaner and more maintainable\
-    \ design. We\u2019ll introduce context objects, explore how they help reduce parameter\
-    \ bloat, discuss the trade-offs (like increased coupling), and show how to use\
-    \ Protocols to keep things decoupled and testable. \n\n\U0001F525 GitHub Repository:\
-    \ https://git.arjan.codes/2025/context.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n1:07 The Before Version: Too Many Arguments\n3:43 Introducing\
-    \ the Context Object Pattern\n9:35 But Wait \u2014 Aren't We Adding a Bunch of\
-    \ Coupling?\n10:56 Making a Distinction Between High-Level vs Low-Level Code\n\
-    13:33 High-Level Convenience, Low-Level Clarity\n15:07 Using Abstraction\n17:22\
-    \ When Should You Use Context Objects?\n18:51 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i2.ytimg.com/vi/UG5jbLReDiM/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=UG5jbLReDiM
-  title: "You\u2019re Passing Way Too Many Arguments (and How to Fix It)"
 - author: The Overshoot
   categories: &id008
   - Macro
