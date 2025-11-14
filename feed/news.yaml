@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-14T15:14:45+00:00'
+  description: "Um acordo final seria alcan\xE7ado dois ou tr\xEAs meses depois do\
+    \ provis\xF3rio, que resolveria definitivamente todas as quest\xF5es pendentes\
+    \ entre os pa\xEDses"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-acordo-comercial-estados-unidos/
+  title: "Brasil prev\xEA acordo comercial provis\xF3rio com EUA ainda este m\xEAs"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +50,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ownm7c/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-13T13:30:28+00:00'
   description: "A divulga\xE7\xE3o de dados econ\xF4micos foi cancelada ou atrasada\
     \ e nenhuma nova estat\xEDstica sobre pre\xE7os e empregos foi coletada"
@@ -49,15 +58,6 @@
   path: https://investnews.com.br/economia/ressaca-economica-as-consequencias-do-maior-shutdown-da-historia-dos-eua/
   title: "\u2018Ressaca econ\xF4mica\u2019: as consequ\xEAncias do maior Shutdown\
     \ da hist\xF3ria dos EUA"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-13T11:44:31+00:00'
-  description: "Os funcion\xE1rios federais devem retornar ao trabalho a partir desta\
-    \ quinta-feira"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fim-do-shutdown-trump-sanciona-acordo-para-acabar-paralisacao-mais-longa-da-historia-dos-eua/
-  title: "Fim do Shutdown: Trump sanciona acordo para acabar\_paralisa\xE7\xE3o mais\
-    \ longa da hist\xF3ria dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
