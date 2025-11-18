@@ -1,8 +1,23 @@
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2025-11-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
+  title: 'Chapter 10: Ethical AI in Finance'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-11-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-9-quantum-computing-for-finance
+  title: 'Chapter 9: Quantum Computing for Finance'
 - author: AQR
   categories:
   - Quant
   - Papers
-  date: '2025-11-17T20:30:24.114402'
+  date: '2025-11-18T00:48:26.620076'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +28,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-17T20:30:24.112642'
+  date: '2025-11-18T00:48:26.618380'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +42,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-17T20:30:24.112639'
+  date: '2025-11-18T00:48:26.618377'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +59,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-17T20:30:24.112630'
+  date: '2025-11-18T00:48:26.618372'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-17T20:30:24.112620'
+  date: '2025-11-18T00:48:26.618362'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,8 +419,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2025-11-17T22:18:43+00:00'
+  description: "<p>Es la seguridad, est\xFApido. Em toda e qualquer elei\xE7\xE3o\
+    \ ser\xE1 estupidez atribuir a vit\xF3ria de um candidato a um \xFAnico fator.\
+    \ Mas, assim como no Brasil e em outros pa\xEDses da Am\xE9rica Latina, a (in)seguran\xE7\
+    a p\xFAblica despontou como uma das maiores preocupa\xE7\xF5es dos eleitores chilenos\
+    \ e deve ser um dos fatores determinantes no segundo turno [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/chile-da-sinal-de-que-e-mais-um-a-virar-a-direita-gracas-a-criminalidade/\"\
+    \ rel=\"nofollow\">Chile d\xE1 sinal de que \xE9 mais um a virar \xE0 direita.\
+    \ Gra\xE7as \xE0 criminalidade\_</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/chile-da-sinal-de-que-e-mais-um-a-virar-a-direita-gracas-a-criminalidade/
+  title: "Chile d\xE1 sinal de que \xE9 mais um a virar \xE0 direita. Gra\xE7as \xE0\
+    \ criminalidade"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id005
   - CFA
   date: '2025-11-17T19:51:08+00:00'
   description: "<p>Private credit\u2019s resale market is booming. Secondaries offer\
@@ -418,8 +450,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/17/private-credit-secondaries-from-niche-strategy-to-core-portfolio-tool/
   title: 'Private Credit Secondaries: From Niche Strategy to Core Portfolio Tool'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id002
   date: '2025-11-17T09:50:41+00:00'
   description: "<p>BEL\xC9M \u2013 Os bancos brasileiros se movimentam para recuperar\
     \ o que o mercado de carbono mais perdeu nos \xFAltimos dois anos: credibilidade.\_\
@@ -434,7 +465,7 @@
   path: https://braziljournal.com/o-mercado-de-carbono-quebrou-os-bancos-querem-consertar/
   title: O mercado de carbono quebrou. Os bancos querem consertar
 - author: Market Makers
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2025-11-17T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
@@ -498,16 +529,8 @@
   image: https://i1.ytimg.com/vi/8_Pf4y5yqCE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
   title: "Learning Python Feels Easy. Until It Isn\u2019t."
-- author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
-  date: '2025-11-14T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-response-uk-fca-cp25-part-11
-  title: "Consultation Response to UK FCA CP25/25 \u2013 Part II"
 - author: Market Makers
-  categories: *id001
+  categories: *id003
   date: '2025-11-14T00:00:00+00:00'
   description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthConhe\xE7\
     a a plataforma da Credit Guide:https://creditguide.com.br/?utm_source=Second+Level&amp;utm_medium=videoO\
@@ -543,7 +566,7 @@
   path: https://open.spotify.com/episode/7a3zmKCiYWagVPY6cBzHth
   title: '#284 |COMO DETECTAR MENTIROSOS NO MERCADO (AULA DE LINGUAGEM CORPORAL)'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-11-13T14:36:14+00:00'
@@ -552,7 +575,7 @@
   path: https://www.youtube.com/shorts/jrzK4xL_W4Q
   title: This is not normal
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id004
   date: '2025-11-13T14:30:53+00:00'
   description: 'The OnePlus 15 is not a normal refresh.
 
@@ -577,7 +600,7 @@
   path: https://www.youtube.com/watch?v=2MdQWo9fHZs
   title: 'OnePlus 15 Review: This is Not Normal!'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id005
   date: '2025-11-13T13:14:35+00:00'
   description: '<p>Retail access to private markets is growing, but opacity, illiquidity,
     and weak governance raise serious concerns for investors.</p>
@@ -588,22 +611,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/11/13/private-markets-why-retail-investors-should-stay-away/
   title: 'Private Markets: Why Retail Investors Should Stay Away'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2025-11-13T09:50:58+00:00'
-  description: "<p>BRAS\xCDLIA \u2013 H\xE1 pouco mais de dois meses no cargo, Wadih\
-    \ Damous, o novo diretor-presidente da Ag\xEAncia Nacional de Sa\xFAde Suplementar\
-    \ (ANS), tem mandado diversos recados para as operadoras.\_ O primeiro \xE9 que\
-    \ a sustentabilidade da sa\xFAde privada e o equil\xEDbrio econ\xF4mico e financeiro\
-    \ do setor n\xE3o s\xE3o prerrogativa apenas das operadoras.\_ \u201CA sustentabilidade\
-    \ n\xE3o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/equilibrio-financeiro-nao-e-so-para-as-operadoras-diz-novo-chefe-da-ans/\"\
-    \ rel=\"nofollow\">Equil\xEDbrio financeiro n\xE3o \xE9 s\xF3 para as operadoras,\
-    \ diz novo chefe da ANS</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2025/11/balanca.jpg
-  path: https://braziljournal.com/equilibrio-financeiro-nao-e-so-para-as-operadoras-diz-novo-chefe-da-ans/
-  title: "Equil\xEDbrio financeiro n\xE3o \xE9 s\xF3 para as operadoras, diz novo\
-    \ chefe da ANS"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -623,14 +630,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8abfe10f34f3c8e1edbd5986e5
   path: https://open.spotify.com/episode/12uTruix8tC0br1L0kd6Vz
   title: 'The dollar depreciation society: why Taiwan likes its currency weak'
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2025-11-12T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2025/financing-sustainable-development-goals
-  title: 'Financing the Sustainable Development Goals: Exploring the Role of Government
-    Bond Investors'
 - author: Liberty Street Economics
   categories:
   - Macro
