@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-18T15:50:07.613800'
+  date: '2025-11-18T18:32:09.933421'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-18T15:50:07.612433'
+  date: '2025-11-18T18:32:09.931670'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-18T15:50:07.612430'
+  date: '2025-11-18T18:32:09.931667'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-18T15:50:07.612417'
+  date: '2025-11-18T18:32:09.931663'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-18T15:50:07.612407'
+  date: '2025-11-18T18:32:09.931653'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -419,8 +419,23 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/banks-develop-a-nonbank-footprint-to-better-manage-liquidity-needs/
   title: Banks Develop a Nonbank Footprint to Better Manage Liquidity Needs
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Research and Policy Center
   categories: &id001
+  - CFA
+  date: '2025-11-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
+  title: 'Chapter 10: Ethical AI in Finance'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2025-11-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-9-quantum-computing-for-finance
+  title: 'Chapter 9: Quantum Computing for Finance'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-11-17T22:18:43+00:00'
   description: "<p>Es la seguridad, est\xFApido. Em toda e qualquer elei\xE7\xE3o\
@@ -437,7 +452,7 @@
   title: "Chile d\xE1 sinal de que \xE9 mais um a virar \xE0 direita. Gra\xE7as \xE0\
     \ criminalidade"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-11-17T19:51:08+00:00'
   description: "<p>Private credit\u2019s resale market is booming. Secondaries offer\
@@ -450,7 +465,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/17/private-credit-secondaries-from-niche-strategy-to-core-portfolio-tool/
   title: 'Private Credit Secondaries: From Niche Strategy to Core Portfolio Tool'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-11-17T09:50:41+00:00'
   description: "<p>BEL\xC9M \u2013 Os bancos brasileiros se movimentam para recuperar\
     \ o que o mercado de carbono mais perdeu nos \xFAltimos dois anos: credibilidade.\_\
@@ -465,7 +480,7 @@
   path: https://braziljournal.com/o-mercado-de-carbono-quebrou-os-bancos-querem-consertar/
   title: O mercado de carbono quebrou. Os bancos querem consertar
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-11-17T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
@@ -504,7 +519,7 @@
   title: 'A MENTE BRILHANTE QUE COMANDOU A PETROBRAS E A VALE | Roberto Castello Branco
     | Market Makers #285'
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -530,7 +545,7 @@
   path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
   title: "Learning Python Feels Easy. Until It Isn\u2019t."
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-11-14T00:00:00+00:00'
   description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthConhe\xE7\
     a a plataforma da Credit Guide:https://creditguide.com.br/?utm_source=Second+Level&amp;utm_medium=videoO\
@@ -566,7 +581,7 @@
   path: https://open.spotify.com/episode/7a3zmKCiYWagVPY6cBzHth
   title: '#284 |COMO DETECTAR MENTIROSOS NO MERCADO (AULA DE LINGUAGEM CORPORAL)'
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2025-11-13T14:36:14+00:00'
@@ -575,7 +590,7 @@
   path: https://www.youtube.com/shorts/jrzK4xL_W4Q
   title: This is not normal
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2025-11-13T14:30:53+00:00'
   description: 'The OnePlus 15 is not a normal refresh.
 
@@ -600,7 +615,7 @@
   path: https://www.youtube.com/watch?v=2MdQWo9fHZs
   title: 'OnePlus 15 Review: This is Not Normal!'
 - author: CFA Institute Enterprising Investor
-  categories: *id004
+  categories: *id005
   date: '2025-11-13T13:14:35+00:00'
   description: '<p>Retail access to private markets is growing, but opacity, illiquidity,
     and weak governance raise serious concerns for investors.</p>
@@ -631,7 +646,7 @@
   path: https://open.spotify.com/episode/12uTruix8tC0br1L0kd6Vz
   title: 'The dollar depreciation society: why Taiwan likes its currency weak'
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-11-11T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 175 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -652,7 +667,7 @@
   title: '#175 - "FIDCs" da gringa: entenda os CLOs, com Marc Foster, da Franklin
     Templeton'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-11-07T16:00:58+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nWhat does it actually mean to write *Pythonic* code? In this video, we answer\
@@ -676,7 +691,7 @@
   path: https://www.youtube.com/watch?v=bsU7AFjh4m8
   title: "Why Your Code Isn\u2019t Pythonic (And How to Fix It)"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-11-04T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar no sof\xE1 e entender, de uma forma\
@@ -698,7 +713,7 @@
   path: https://open.spotify.com/episode/1bxb7lVay2Fek6YK8GF1zC
   title: "O novo momento do cr\xE9dito privado | Espresso Outliers InfoMoney #3"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-10-30T13:47:56+00:00'
@@ -720,7 +735,7 @@
   title: "What\u2019s Driving the Shift in Portfolio Construction: Private Credit,\
     \ Private Equity, and the New Market Reality"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-10-20T23:12:07+00:00'
   description: The U.S. Treasury's interventions on behalf of Argentina are unlikely
     to succeed as long as the country's fiscal probity fails to offset monetary laxity
@@ -729,7 +744,7 @@
   path: https://theovershoot.co/p/the-latest-argentina-bailout-will
   title: The Latest Argentina Bailout will (Probably) Fail
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2025-10-19T12:07:35+00:00'
@@ -761,14 +776,14 @@
   title: "Jay Rajamony \u2013 Beyond Factors: Reimagining Quant Equity for the Modern\
     \ Era\_(S7E23)"
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2025-10-05T13:45:26+00:00'
   description: Data Centers get Tariff-Free Imports. Why Shouldn't we All?
   image: https://substackcdn.com/image/fetch/$s_!b7rr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb7f8b5bc-3aa9-4983-8c19-32d3648bb019_2886x1843.png
   path: https://www.apricitas.io/p/the-tariff-exemption-behind-the-ai
   title: The Tariff Exemption Behind the AI Boom
 - author: The Journal.
-  categories: &id009
+  categories: &id010
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -784,7 +799,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id009
+  categories: *id010
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
