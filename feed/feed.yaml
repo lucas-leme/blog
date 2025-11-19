@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-19T20:28:22.958832'
+  date: '2025-11-19T21:25:32.656903'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-19T20:28:22.957095'
+  date: '2025-11-19T21:25:32.655137'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-19T20:28:22.957091'
+  date: '2025-11-19T21:25:32.655133'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-19T20:28:22.957087'
+  date: '2025-11-19T21:25:32.655128'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-19T20:28:22.957077'
+  date: '2025-11-19T21:25:32.655117'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2025-11-19T20:52:13+00:00'
+  description: "<p>Markets move on change, not levels. Spot shifts in growth, inflation,\
+    \ and liquidity early to stay ahead of the global cycle.</p>\n<p>The post <a href=\"\
+    https://blogs.cfainstitute.org/investor/2025/11/19/mind-the-cycle-from-macro-shifts-to-portfolio-plays/\"\
+    >Mind the Cycle:\_From Macro Shifts to Portfolio Plays\_</a> appeared first on\
+    \ <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/11/19/mind-the-cycle-from-macro-shifts-to-portfolio-plays/
+  title: "Mind the Cycle:\_From Macro Shifts to Portfolio Plays"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -467,7 +480,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-9-quantum-computing-for-finance
   title: 'Chapter 9: Quantum Computing for Finance'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-11-18T00:00:00+00:00'
   description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthMentoria\
@@ -552,8 +565,7 @@
   title: "Chile d\xE1 sinal de que \xE9 mais um a virar \xE0 direita. Gra\xE7as \xE0\
     \ criminalidade"
 - author: CFA Institute Enterprising Investor
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2025-11-17T19:51:08+00:00'
   description: "<p>Private credit\u2019s resale market is booming. Secondaries offer\
     \ liquidity but reveal growing strain in traditional exits.</p>\n<p>The post <a\
@@ -565,7 +577,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/17/private-credit-secondaries-from-niche-strategy-to-core-portfolio-tool/
   title: 'Private Credit Secondaries: From Niche Strategy to Core Portfolio Tool'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-11-17T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
     O DE GRANDES FORTUNAS: https://lp.mmakers.com.br/market-makers-legend?xpromo=MI-LEGEND-YT-DESCRICAO-EPISODIO251-20250828-POSTUNICOSOBRELEGEND-MM-XGARANTA\
@@ -629,7 +641,7 @@
   path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
   title: "Learning Python Feels Easy. Until It Isn\u2019t."
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-11-13T14:36:14+00:00'
@@ -638,7 +650,7 @@
   path: https://www.youtube.com/shorts/jrzK4xL_W4Q
   title: This is not normal
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-11-13T14:30:53+00:00'
   description: 'The OnePlus 15 is not a normal refresh.
 
@@ -662,18 +674,6 @@
   image: https://i3.ytimg.com/vi/2MdQWo9fHZs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=2MdQWo9fHZs
   title: 'OnePlus 15 Review: This is Not Normal!'
-- author: CFA Institute Enterprising Investor
-  categories: *id005
-  date: '2025-11-13T13:14:35+00:00'
-  description: '<p>Retail access to private markets is growing, but opacity, illiquidity,
-    and weak governance raise serious concerns for investors.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/11/13/private-markets-why-retail-investors-should-stay-away/">Private
-    Markets: Why Retail Investors Should Stay Away</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/11/13/private-markets-why-retail-investors-should-stay-away/
-  title: 'Private Markets: Why Retail Investors Should Stay Away'
 - author: Money Talks from The Economist
   categories:
   - Podcasts
