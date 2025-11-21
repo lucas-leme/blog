@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-21T15:47:52.017182'
+  date: '2025-11-21T18:31:25.197570'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-21T15:47:52.015423'
+  date: '2025-11-21T18:31:25.195850'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-21T15:47:52.015419'
+  date: '2025-11-21T18:31:25.195846'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-21T15:47:52.015415'
+  date: '2025-11-21T18:31:25.195842'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-21T15:47:52.015404'
+  date: '2025-11-21T18:31:25.195831'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,34 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-11-21T16:01:30+00:00'
+  description: "\u2192 Try Flox for free: https://flox.dev/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=Arjan&amp;utm_content=homepage\n\
+    \nIn this video, I explore how to build an inventory system using the event sourcing\
+    \ pattern in Python, step by step. You\u2019ll learn what event sourcing is, why\
+    \ it\u2019s useful, and how it lets you track every change over time instead of\
+    \ just storing the final state. We\u2019ll start with a basic implementation using\
+    \ string events, add caching for performance, then evolve the system with structured\
+    \ Item objects and projections to analyze the data. Plus, we\u2019ll look at real-world\
+    \ parallels like Git and blockchain, and discuss when (and when not) to use this\
+    \ pattern in your own projects.\n\nDesign pattern playlist: https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\
+    \n\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/event.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:30 What Is Event Sourcing?\n1:32 Step 1: The Basic Example (String-Based Inventory)\n\
+    12:57 Step 2: Add Caching to Avoid Replaying on Every Read\n17:55 Step 3: Make\
+    \ It More Realistic with a Full Item Object\n21:08 Step 4: Add Projections for\
+    \ Analytics\n22:44 Pros of Event Sourcing\n23:19 Cons of Event Sourcing\n23:50\
+    \ When Should You Use It?\n24:26 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i1.ytimg.com/vi/t-LC1dWLpNs/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=t-LC1dWLpNs
+  title: Stop Overwriting State And Use Event Sourcing Instead
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -601,7 +629,7 @@
   title: "#286 CAPITALISMO SEM DEMOCRACIA \xC9 O FUTURO? A CHINA EST\xC1 MUDANDO AS\
     \ REGRAS DO JOGO"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-11-18T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
@@ -640,10 +668,7 @@
   title: "Chile d\xE1 sinal de que \xE9 mais um a virar \xE0 direita. Gra\xE7as \xE0\
     \ criminalidade"
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-11-14T16:00:25+00:00'
   description: "\u2192 Python Programming Fundamentals course (DataCamp): https://datacamp.pxf.io/POPxVR\n\
     \n\u2192 Associate Python Developer track (DataCamp): https://datacamp.pxf.io/Dy2oea\n\
@@ -666,7 +691,7 @@
   path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
   title: "Learning Python Feels Easy. Until It Isn\u2019t."
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-11-13T14:36:14+00:00'
@@ -675,7 +700,7 @@
   path: https://www.youtube.com/shorts/jrzK4xL_W4Q
   title: This is not normal
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-11-13T14:30:53+00:00'
   description: 'The OnePlus 15 is not a normal refresh.
 
@@ -700,7 +725,7 @@
   path: https://www.youtube.com/watch?v=2MdQWo9fHZs
   title: 'OnePlus 15 Review: This is Not Normal!'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-11-11T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 175 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra iniciam uma nova s\xE9rie dedicada a revelar as melhores oportunidades\
@@ -719,30 +744,6 @@
   path: https://open.spotify.com/episode/1SIV0L8ZJ3EFX5Tdrt803M
   title: '#175 - "FIDCs" da gringa: entenda os CLOs, com Marc Foster, da Franklin
     Templeton'
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-11-07T16:00:58+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nWhat does it actually mean to write *Pythonic* code? In this video, we answer\
-    \ that question by taking a small, messy script and refactoring it step by step\
-    \ using the core principles of idiomatic Python. Along the way, you\u2019ll learn\
-    \ how to think like a Pythonista: using functions instead of unnecessary classes,\
-    \ leveraging dataclasses, writing readable control flow, embracing tools like\
-    \ pathlib and logging, and applying the Zen of Python in practice.\n\n\U0001F6CD\
-    \uFE0F Check out ArjanCodes merch: https://shop.arjancodes.com.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2025/pythonic.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:18 What does\
-    \ Pythonic mean?\n2:08 Before\n3:13 Step 1 \u2013 Prefer Functions Over Classes\n\
-    4:32 Step 2 \u2013 Use Context Managers\n6:42 Step 3 \u2013 Add Type Annotations\n\
-    10:46 Step 4 \u2013 Favor EAFP Over LBYL\n12:06 Step 5 \u2013 Use Dataclasses\
-    \ for Structured Data\n17:09 Step 6 \u2013 Centralize File Paths and Use\n19:19\
-    \ Step 7: Rely on Python's strengths\n23:10 Step 8 \u2013 Add Logging Instead\
-    \ of Print\n24:10 Step 9 \u2013 Add a Main Function\n25:56 Final Thoughts\n\n\
-    #arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/bsU7AFjh4m8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=bsU7AFjh4m8
-  title: "Why Your Code Isn\u2019t Pythonic (And How to Fix It)"
 - author: The Overshoot
   categories: *id008
   date: '2025-10-30T13:47:56+00:00'
