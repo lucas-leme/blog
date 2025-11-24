@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-11-24T16:34:55+00:00'
+  description: "MED 2.0 amplia rastreamento de valores desviados em golpes e busca\
+    \ aumentar a seguran\xE7a do Pix"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/pix-med-2-0/
+  title: "Pix: entra em vigor novo mecanismo de recupera\xE7\xE3o de dinheiro em casos\
+    \ de golpe"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "Al\xEDvio para os EUA: retirada da tarifa sobre caf\xE9 e carne do Brasil\
     \ reduz press\xE3o sobre alimentos"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-11-12T20:02:47+00:00'
   description: "Empresas t\xEAm at\xE9 20 de dezembro para pagar a segunda parcela\
     \ do 13\xBA sal\xE1rio 2025; veja como calcular o valor, quem recebe e o que fazer\
@@ -27,11 +36,3 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/13o-salario-2025/
   title: "13\xBA sal\xE1rio 2025: veja prazos, regras e quem tem direito"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-10T14:18:37+00:00'
-  description: "Para o Morgan Stanley, os robustos resultados corporativos impulsionar\xE3\
-    o o rali das a\xE7\xF5es dos Estados Unidos"
-  image: https://media.investnews.com.br/uploads/2024/12/421821669.jpg
-  path: https://investnews.com.br/financas/lucros-solidos-devem-impulsionar-acoes-dos-eua-em-2026/
-  title: "Lucros s\xF3lidos devem impulsionar a\xE7\xF5es dos EUA em 2026"
