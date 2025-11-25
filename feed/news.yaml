@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-25T19:59:06+00:00'
+  description: "Hassett \xE9 visto como alinhado \xE0 vis\xE3o de Trump sobre a economia,\
+    \ incluindo a necessidade de reduzir as taxas de juros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/kevin-hassett-favorito-trump-comandar-fed/
+  title: Kevin Hassett surge como favorito de Trump para comandar o Federal Reserve
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -44,8 +53,7 @@
   path: https://www.reddit.com/r/CFA/comments/1p58ab2/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-22T12:49:39+00:00'
   description: "Ex-presidente cumpre pris\xE3o domiciliar desde agosto e foi condenado\
     \ a 27 anos por tentativa de golpe de Estado"
@@ -53,15 +61,6 @@
   path: https://investnews.com.br/economia/bolsonaro-prisao-preventiva-moraes/
   title: "Bolsonaro \xE9 preso preventivamente ap\xF3s STF apontar risco de fuga e\
     \ descumprimento de medidas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-22T11:57:50+00:00'
-  description: "Mercado v\xEA volta da oferta brasileira como forma de moderar pre\xE7\
-    os ap\xF3s meses de aperto no caf\xE9 e na carne bovina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/efeito-fim-tarifa-eua-cafe-carne/
-  title: "Al\xEDvio para os EUA: retirada da tarifa sobre caf\xE9 e carne do Brasil\
-    \ reduz press\xE3o sobre alimentos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-11-12T20:02:47+00:00'
