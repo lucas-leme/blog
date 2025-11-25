@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-25T15:50:16.750397'
+  date: '2025-11-25T18:32:28.778908'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-25T15:50:16.748667'
+  date: '2025-11-25T18:32:28.777165'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-25T15:50:16.748663'
+  date: '2025-11-25T18:32:28.777162'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-25T15:50:16.748658'
+  date: '2025-11-25T18:32:28.777157'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-25T15:50:16.748647'
+  date: '2025-11-25T18:32:28.777147'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-11-25T16:58:37+00:00'
+  description: '<p>A simple cognitive trick helps advisors reframe client fear, restore
+    perspective, and guide decisions grounded in long-term goals.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/11/25/managing-client-fear-the-cognitive-skill-every-financial-analyst-should-master/">Managing
+    Client Fear: The Cognitive Skill Every Financial Analyst Should Master</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/11/25/managing-client-fear-the-cognitive-skill-every-financial-analyst-should-master/
+  title: 'Managing Client Fear: The Cognitive Skill Every Financial Analyst Should
+    Master'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -421,8 +436,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/the-future-of-payment-infrastructure-could-be-permissionless/
   title: The Future of Payment Infrastructure Could Be Permissionless
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-11-24T15:59:04+00:00'
   description: '<p>How financial analysts can approach digital asset valuation through
     a structured, five-step fair value framework.</p>
@@ -434,7 +448,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/11/24/how-to-value-digital-tokens-a-5-step-fair-value-framework/
   title: 'How to Value Digital Tokens: A 5-Step Fair Value Framework'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-11-24T08:20:59+00:00'
   description: "<p>A liquida\xE7\xE3o do Banco Master demonstra mais uma vez que o\
@@ -463,7 +477,7 @@
   path: https://open.spotify.com/episode/4LaYBCRbohFvHcYQjUs68F
   title: 'Private Equity: Alpha in an Evolving Market'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-11-23T03:10:56+00:00'
   description: "<p>A seguran\xE7a p\xFAblica no Brasil deixou de ser apenas um desafio\
     \ \u2014 tornou-se um condicionante do pr\xF3prio funcionamento da vida social,\
@@ -591,19 +605,6 @@
   image: https://i1.ytimg.com/vi/t-LC1dWLpNs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=t-LC1dWLpNs
   title: Stop Overwriting State And Use Event Sourcing Instead
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-11-20T15:19:15+00:00'
-  description: '<p>From forecasting to foresight: how scenario thinking enhances risk
-    awareness and long-term resilience in finance.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/11/20/from-risk-to-resilience-what-finance-can-learn-from-the-futures/">From
-    Risk to Resilience: What Finance Can Learn from the Futures</a> appeared first
-    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/11/20/from-risk-to-resilience-what-finance-can-learn-from-the-futures/
-  title: 'From Risk to Resilience: What Finance Can Learn from the Futures'
 - author: Market Makers
   categories: *id003
   date: '2025-11-20T00:00:00+00:00'

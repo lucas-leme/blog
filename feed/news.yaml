@@ -1,15 +1,6 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
-  date: '2025-11-25T15:15:00+00:00'
-  description: "O Gemini 3 \xE9, segundo relatos, mais r\xE1pido, mais preciso e apresenta\
-    \ um racioc\xEDnio mais profundo do que o ChatGPT, o Grok e o Perplexity"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/vitorias-ia-google-ma-noticia-nvidia/
-  title: "Por que as vit\xF3rias da Intelig\xEAncia Artificial do Google s\xE3o uma\
-    \ m\xE1 not\xEDcia para as a\xE7\xF5es da Nvidia"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
   date: '2025-11-24T16:34:55+00:00'
   description: "MED 2.0 amplia rastreamento de valores desviados em golpes e busca\
     \ aumentar a seguran\xE7a do Pix"
@@ -53,7 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1p58ab2/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
   date: '2025-11-22T12:49:39+00:00'
   description: "Ex-presidente cumpre pris\xE3o domiciliar desde agosto e foi condenado\
@@ -63,7 +54,7 @@
   title: "Bolsonaro \xE9 preso preventivamente ap\xF3s STF apontar risco de fuga e\
     \ descumprimento de medidas"
 - author: "Economia \u2013 InvestNews"
-  categories: *id002
+  categories: *id001
   date: '2025-11-22T11:57:50+00:00'
   description: "Mercado v\xEA volta da oferta brasileira como forma de moderar pre\xE7\
     os ap\xF3s meses de aperto no caf\xE9 e na carne bovina"
@@ -71,6 +62,15 @@
   path: https://investnews.com.br/economia/efeito-fim-tarifa-eua-cafe-carne/
   title: "Al\xEDvio para os EUA: retirada da tarifa sobre caf\xE9 e carne do Brasil\
     \ reduz press\xE3o sobre alimentos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id002
+  date: '2025-11-12T20:02:47+00:00'
+  description: "Empresas t\xEAm at\xE9 20 de dezembro para pagar a segunda parcela\
+    \ do 13\xBA sal\xE1rio 2025; veja como calcular o valor, quem recebe e o que fazer\
+    \ em caso de atraso"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/13o-salario-2025/
+  title: "13\xBA sal\xE1rio 2025: veja prazos, regras e quem tem direito"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
