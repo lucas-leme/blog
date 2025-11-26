@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-26T00:48:29.869043'
+  date: '2025-11-26T02:12:10.536896'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-26T00:48:29.867293'
+  date: '2025-11-26T02:12:10.535150'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-26T00:48:29.867289'
+  date: '2025-11-26T02:12:10.535146'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-26T00:48:29.867286'
+  date: '2025-11-26T02:12:10.535141'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-26T00:48:29.867276'
+  date: '2025-11-26T02:12:10.535131'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2025-11-26T01:27:07+00:00'
+  description: ''
+  image: https://i3.ytimg.com/vi/n4Xe6yQ1jIs/hqdefault.jpg
+  path: https://www.youtube.com/shorts/n4Xe6yQ1jIs
+  title: This feels illegal
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -475,7 +484,7 @@
   title: "#289 | O MAPA GEOPOL\xCDTICO DA PR\xD3XIMA D\xC9CADA (com PROFESSOR HOC\
     \ E MARCOS TROYJO)"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-11-25T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 176 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -576,9 +585,7 @@
   path: https://open.spotify.com/episode/6ekCuRAbIjHYOHQDSR4EYH
   title: '#288 | COMO FUNCIONA UMA MICROSTRATEGY? (ORANJEBTC)?'
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id004
   date: '2025-11-21T19:00:50+00:00'
   description: 'Thanks Google for having #sponsored a portion of this video #shopwithgoogle.
     Look like the hero when you find the perfect gift for friends and family this
@@ -628,7 +635,7 @@
   path: https://www.youtube.com/watch?v=RvP-uVNwnXo
   title: 'Dope Tech: STILL so good!'
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -683,7 +690,7 @@
   path: https://theovershoot.co/p/the-sell-america-trade-qt-and-foreign
   title: The "Sell America Trade", QT, and Foreign Banks
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-11-18T12:00:00+00:00'
   description: ''
@@ -691,14 +698,14 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
   title: 'Chapter 10: Ethical AI in Finance'
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-11-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-9-quantum-computing-for-finance
   title: 'Chapter 9: Quantum Computing for Finance'
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2025-11-18T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar no sof\xE1 e entender, de uma forma\
@@ -720,7 +727,7 @@
   title: "Bolhas de IA e alta da bolsa: \xE9 preciso tirar o ru\xEDdo da mesa | Espresso\
     \ Outliers #4"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-11-14T16:00:25+00:00'
   description: "\u2192 Python Programming Fundamentals course (DataCamp): https://datacamp.pxf.io/POPxVR\n\
     \n\u2192 Associate Python Developer track (DataCamp): https://datacamp.pxf.io/Dy2oea\n\
@@ -742,13 +749,6 @@
   image: https://i1.ytimg.com/vi/8_Pf4y5yqCE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
   title: "Learning Python Feels Easy. Until It Isn\u2019t."
-- author: Marques Brownlee
-  categories: *id007
-  date: '2025-11-13T14:36:14+00:00'
-  description: ''
-  image: https://i3.ytimg.com/vi/jrzK4xL_W4Q/hqdefault.jpg
-  path: https://www.youtube.com/shorts/jrzK4xL_W4Q
-  title: This is not normal
 - author: The Overshoot
   categories: *id008
   date: '2025-10-30T13:47:56+00:00'
