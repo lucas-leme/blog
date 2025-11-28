@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-11-28T15:48:20.027285'
+  date: '2025-11-28T18:31:55.110070'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-28T15:48:20.025537'
+  date: '2025-11-28T18:31:55.108320'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-28T15:48:20.025533'
+  date: '2025-11-28T18:31:55.108316'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-28T15:48:20.025528'
+  date: '2025-11-28T18:31:55.108311'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-11-28T15:48:20.025518'
+  date: '2025-11-28T18:31:55.108301'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-11-28T16:01:02+00:00'
+  description: "\u2192 Check out Thesys here: https://www.thesys.dev/?utm_source=youtube&amp;utm_medium=creators&amp;utm_campaign=arjan\n\
+    \nIn this video, I explore how Dependency Injection can make your Python code\
+    \ cleaner, more testable, and easier to extend, using a real-world data pipeline\
+    \ example. I start with a tightly coupled version and progressively refactor it\
+    \ using manual injection, a lightweight custom DI container, and even show how\
+    \ frameworks like FastAPI handle DI under the hood.\n\nDesign pattern playlist:\
+    \ https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\n\
+    \U0001F525 GitHub Repository: https://git.arjan.codes/2025/di.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
+    \ https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:57 The Problem:\
+    \ No DI\n1:29 What Is Dependency Injection?\n2:13 Refactoring with Manual DI\n\
+    17:19 Going Further: A Simple DI Container\n28:04 Dependency Injection in FastAPI\n\
+    29:53 Use Cases for Dependency Injection\n30:52 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/Xhzn1eAxoXk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Xhzn1eAxoXk
+  title: Tightly Coupled Code? Use This Pattern Instead
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -591,7 +614,7 @@
   title: "#289 | O MAPA GEOPOL\xCDTICO DA PR\xD3XIMA D\xC9CADA (com PROFESSOR HOC\
     \ E MARCOS TROYJO)"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-11-25T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 176 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -643,10 +666,7 @@
   path: https://open.spotify.com/episode/4LaYBCRbohFvHcYQjUs68F
   title: 'Private Equity: Alpha in an Evolving Market'
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-11-21T16:01:30+00:00'
   description: "\u2192 Try Flox for free: https://flox.dev/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=Arjan&amp;utm_content=homepage\n\
     \nIn this video, I explore how to build an inventory system using the event sourcing\
@@ -682,7 +702,7 @@
   path: https://theovershoot.co/p/the-sell-america-trade-qt-and-foreign
   title: The "Sell America Trade", QT, and Foreign Banks
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-11-18T12:00:00+00:00'
   description: ''
@@ -690,14 +710,14 @@
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
   title: 'Chapter 10: Ethical AI in Finance'
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-11-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-9-quantum-computing-for-finance
   title: 'Chapter 9: Quantum Computing for Finance'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-11-18T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, uma pausa na correria do\
     \ dia a dia para pegar um caf\xE9, sentar no sof\xE1 e entender, de uma forma\
@@ -718,29 +738,6 @@
   path: https://open.spotify.com/episode/3am9yUIAA9anvkYGuPLijz
   title: "Bolhas de IA e alta da bolsa: \xE9 preciso tirar o ru\xEDdo da mesa | Espresso\
     \ Outliers #4"
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-11-14T16:00:25+00:00'
-  description: "\u2192 Python Programming Fundamentals course (DataCamp): https://datacamp.pxf.io/POPxVR\n\
-    \n\u2192 Associate Python Developer track (DataCamp): https://datacamp.pxf.io/Dy2oea\n\
-    \nPython is often praised as the easiest programming language to learn, but that\
-    \ simplicity can be deceptive. In this video, I break down the real Python learning\
-    \ curve and show you how to go from basic syntax to writing clean, testable, professional-grade\
-    \ software. We\u2019ll cover the steps I\u2019d take if I had to learn Python\
-    \ all over again: mastering the core, writing Pythonic code, understanding types\
-    \ and protocols, designing better abstractions, and more.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2025/learn.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n1:30 Step 1: Master the Core Through Small\
-    \ Transformations\n5:27 Step 2: Write Pythonic Code on Purpose\n6:55 Step 3: Build\
-    \ Tools, Not Just Apps\n8:49 Step 4: Learn How Python Thinks\n12:58 Step 5: Use\
-    \ Abstractions and Types to Understand Your Data\n18:33 Step 6: Design Your Code\
-    \ Like a Software Engineer\n20:06 Step 7: Write Tests Like a Pro\n23:49 Step 8:\
-    \ Dive Into Internals (When Ready)\n24:34 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i1.ytimg.com/vi/8_Pf4y5yqCE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=8_Pf4y5yqCE
-  title: "Learning Python Feels Easy. Until It Isn\u2019t."
 - author: The Overshoot
   categories: *id008
   date: '2025-10-30T13:47:56+00:00'
