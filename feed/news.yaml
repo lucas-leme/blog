@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-11-28T14:14:56+00:00'
+  description: "O m\xEAs de dezembro deve registrar um fluxo de remessas de lucros\
+    \ e dividendos de at\xE9 US$ 10 bilh\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/saida-us10bilhoes-dividendos-cambio/
+  title: "Sa\xEDdas de US$ 10 bilh\xF5es em dividendos devem pressionar o c\xE2mbio.\
+    \ Entenda"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +50,7 @@
   path: https://www.reddit.com/r/CFA/comments/1p8mbjw/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-27T19:43:42+00:00'
   description: "Entenda como trabalhador PJ pode compensar a aus\xEAncia de benef\xED\
     cios com planejamento, reservas e investimentos"
@@ -49,15 +58,6 @@
   path: https://investnews.com.br/financas/trabalhador-pj-13o-salario-fgts/
   title: "Como trabalhador PJ pode se organizar para reservar o dinheiro do 13\xBA\
     \ sal\xE1rio e do FGTS"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-27T15:40:58+00:00'
-  description: "Nova regra do FGTS amplia teto, iguala contratos e muda acesso ao\
-    \ financiamento imobili\xE1rio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/nova-regra-do-fgts/
-  title: "Nova regra do FGTS: uso para im\xF3veis de at\xE9 R$ 2,25 milh\xF5es \xE9\
-    \ liberado; veja o que muda"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
