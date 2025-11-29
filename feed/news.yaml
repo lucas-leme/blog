@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2025-11-29T14:28:19+00:00'
+  description: "O aviso \xE9 para que companhias a\xE9reas n\xE3o sobrevoem o territ\xF3\
+    rio venezuelano e acontece enquanto for\xE7as americanas se concentram na regi\xE3\
+    o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-anuncia-o-fechamento-do-espaco-aereo-na-venezuela/
+  title: "Trump anuncia o fechamento do espa\xE7o a\xE9reo na Venezuela"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2025-11-29T12:14:13+00:00'
   description: "Companhias a\xE9reas do mundo todo cancelaram centenas de voos depois\
     \ que uma grande falha de software da Airbus for\xE7ou a fabricante a fazer um\
@@ -11,7 +20,7 @@
   path: https://investnews.com.br/economia/recall-do-airbus-a320-causa-centenas-de-cancelamentos-de-voos-mundo-afora/
   title: Recall do Airbus A320 causa centenas de cancelamentos de voos mundo afora
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-11-28T14:14:56+00:00'
   description: "O m\xEAs de dezembro deve registrar um fluxo de remessas de lucros\
@@ -62,7 +71,7 @@
   path: https://www.reddit.com/r/CFA/comments/1p8mbjw/rcfa_friday_happy_hour_a_new_tradition/
   title: r/CFA Friday Happy Hour - A New Tradition
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-11-27T19:43:42+00:00'
   description: "Entenda como trabalhador PJ pode compensar a aus\xEAncia de benef\xED\
     cios com planejamento, reservas e investimentos"
@@ -70,14 +79,6 @@
   path: https://investnews.com.br/financas/trabalhador-pj-13o-salario-fgts/
   title: "Como trabalhador PJ pode se organizar para reservar o dinheiro do 13\xBA\
     \ sal\xE1rio e do FGTS"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-25T19:59:06+00:00'
-  description: "Hassett \xE9 visto como alinhado \xE0 vis\xE3o de Trump sobre a economia,\
-    \ incluindo a necessidade de reduzir as taxas de juros"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/kevin-hassett-favorito-trump-comandar-fed/
-  title: Kevin Hassett surge como favorito de Trump para comandar o Federal Reserve
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
