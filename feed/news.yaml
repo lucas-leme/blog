@@ -1,3 +1,16 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-01T12:25:09+00:00'
+  description: "O presidente Luiz In\xE1cio Lula da Silva afirmou em pronunciamento\
+    \ em rede nacional neste domingo (30) que a isen\xE7\xE3o do Imposto de Renda\
+    \ para quem ganha at\xE9 R$5 mil mensais vai injetar R$ 28 bilh\xF5es na economia\
+    \ em 2026, segundo c\xE1lculos da Receita Federal. &#8220;Um est\xEDmulo extraordin\xE1\
+    rio para o com\xE9rcio, para a ind\xFAstria, o setor [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/isencao-ir-r28bilhoes-economia-2026/
+  title: "Isen\xE7\xE3o de IR para quem ganha at\xE9 R$ 5 mil injetar\xE1 R$ 28 bi\
+    \ na economia em 2026, diz Lula"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +47,7 @@
   path: https://www.reddit.com/r/CFA/comments/1pb3zk1/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-11-30T17:09:05+00:00'
   description: "A Opep+ vai manter os planos de pausar os aumentos de produ\xE7\xE3\
     o no primeiro trimestre, em meio a sinais crescentes de excesso de oferta no mercado\
@@ -46,15 +58,6 @@
   path: https://investnews.com.br/economia/opep-mantem-planos-de-pausar-alta-de-producao-de-petroleo-no-inicio-de-2026/
   title: "Opep+ mant\xE9m planos de pausar alta de produ\xE7\xE3o de petr\xF3leo no\
     \ in\xEDcio de 2026"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-11-29T22:28:10+00:00'
-  description: "Empr\xE9stimo banc\xE1rio com garantia da Uni\xE3o acende alerta sobre\
-    \ trajet\xF3ria da d\xEDvida p\xFAblica e limita espa\xE7o para cortes na Selic"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-dara-aval-aval-para-ser-fiador-de-um-emprestimo-de-r-20-bilhoes-aos-correios-diz-a-folha/
-  title: "Governo topou ser o fiador do empr\xE9stimo de R$ 20 bilh\xF5es aos Correios,\
-    \ diz Folha"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
