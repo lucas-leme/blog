@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-02T19:48:58+00:00'
+  description: O presidente afirmou que considerou cerca de 10 candidatos para o cargo
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-novo-presidente-fed-inicio-2026/
+  title: "Donald Trump diz que anunciar\xE1 novo presidente do Fed no in\xEDcio de\
+    \ 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Governo revisa para baixo proje\xE7\xE3o do sal\xE1rio m\xEDnimo de 2026;\
     \ entenda a corre\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-02T15:33:37+00:00'
   description: "SEC planeja facilitar que pequenas empresas abram capital por meio\
     \ da redu\xE7\xE3o de divulga\xE7\xF5es obrigat\xF3rias"
@@ -18,15 +26,6 @@
   path: https://investnews.com.br/economia/eua-estudam-flexibilizar-regras-para-aumentar-numero-de-pequenas-empresas-na-bolsa/
   title: "EUA estudam flexibilizar regras para aumentar n\xFAmero de pequenas empresas\
     \ na bolsa"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-02T12:27:00+00:00'
-  description: "A OCDE elevou as proje\xE7\xF5es de crescimento para os EUA e a zona\
-    \ do euro para este ano e o pr\xF3ximo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/economia-mundial-resiliencia-tarifas-eua/
-  title: "Economia mundial mostra resili\xEAncia surpreendente \xE0s tarifas, diz\
-    \ OCDE"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
