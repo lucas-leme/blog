@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-03T02:13:14.249124'
+  date: '2025-12-03T11:08:44.568098'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-03T02:13:14.247333'
+  date: '2025-12-03T11:08:44.566370'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-03T02:13:14.247329'
+  date: '2025-12-03T11:08:44.566366'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-03T02:13:14.247324'
+  date: '2025-12-03T11:08:44.566361'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-03T02:13:14.247314'
+  date: '2025-12-03T11:08:44.566351'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: The Overshoot
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2025-12-03T09:30:53+00:00'
+  description: Coordination and mobilization of existing resources would transform
+    the continent into a superpower. The ongoing failure to do so is largely the fault
+    of narrow-minded technocrats.
+  image: https://substackcdn.com/image/fetch/$s_!tse-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca520939-e76d-41cc-a59f-7f9b8d13573a_3200x2930.png
+  path: https://theovershoot.co/p/waking-the-sleeping-european-giant
+  title: Waking the Sleeping European Giant
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -428,7 +439,7 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: &id007
+  categories: &id008
   - CFA
   date: '2025-12-02T12:00:00+00:00'
   description: ''
@@ -731,9 +742,7 @@
   path: https://www.youtube.com/watch?v=t-LC1dWLpNs
   title: Stop Overwriting State And Use Event Sourcing Instead
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2025-11-18T23:22:26+00:00'
   description: '"Foreign-related institutions" have shed ~$400 billion in dollar deposits
     at the Fed since July while reducing their overall U.S. exposure. That has balance
@@ -742,20 +751,12 @@
   path: https://theovershoot.co/p/the-sell-america-trade-qt-and-foreign
   title: The "Sell America Trade", QT, and Foreign Banks
 - author: CFA Institute Research and Policy Center
-  categories: *id007
+  categories: *id008
   date: '2025-11-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
   title: 'Chapter 10: Ethical AI in Finance'
-- author: The Overshoot
-  categories: *id008
-  date: '2025-10-30T13:47:56+00:00'
-  description: High earners monetizing asset price gains are always important, but
-    they are far from single-handedly keeping America out of a downturn.
-  image: https://substackcdn.com/image/fetch/$s_!B--r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc562d841-8531-4711-bdce-681c3115065c_3200x2930.png
-  path: https://theovershoot.co/p/inside-americas-consumption-recovery
-  title: Inside America's Consumption Recovery
 - author: Apricitas Economics
   categories: *id009
   date: '2025-10-19T12:07:35+00:00'
