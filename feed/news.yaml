@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-02T21:57:57+00:00'
+  description: "Quem fizer aportes no PGBL at\xE9 31 de dezembro pode garantir desconto\
+    \ no IR 2026; veja como funciona o benef\xEDcio fiscal"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/pgbl-imposto-de-renda-2026/
+  title: "Imposto de Renda 2026: ainda d\xE1 tempo de garantir desconto com previd\xEA\
+    ncia privada"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-12-02T19:48:58+00:00'
   description: O presidente afirmou que considerou cerca de 10 candidatos para o cargo
@@ -8,8 +18,7 @@
   title: "Donald Trump diz que anunciar\xE1 novo presidente do Fed no in\xEDcio de\
     \ 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-02T15:35:58+00:00'
   description: "Com o arrefecimento da infla\xE7\xE3o, governo reduz o valor estimado\
     \ do sal\xE1rio m\xEDnimo 2026; veja o que muda"
@@ -18,7 +27,7 @@
   title: "Governo revisa para baixo proje\xE7\xE3o do sal\xE1rio m\xEDnimo de 2026;\
     \ entenda a corre\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-12-02T15:33:37+00:00'
   description: "SEC planeja facilitar que pequenas empresas abram capital por meio\
     \ da redu\xE7\xE3o de divulga\xE7\xF5es obrigat\xF3rias"
@@ -61,15 +70,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1pb3zk1/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-11-28T14:14:56+00:00'
-  description: "O m\xEAs de dezembro deve registrar um fluxo de remessas de lucros\
-    \ e dividendos de at\xE9 US$ 10 bilh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/saida-us10bilhoes-dividendos-cambio/
-  title: "Sa\xEDdas de US$ 10 bilh\xF5es em dividendos devem pressionar o c\xE2mbio.\
-    \ Entenda"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-10-23T10:01:33+00:00'
