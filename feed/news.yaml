@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-03T11:30:32+00:00'
+  description: "Em outubro, os Correios anunciaram negocia\xE7\xF5es para o empr\xE9\
+    stimo, na esperan\xE7a de conseguir fortalecer liquidez financeira de curto prazo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/tesouro-barra-correios-emprestimo-de-r-20-bi/
+  title: "Tesouro barra Correios de seguir com contrata\xE7\xE3o de empr\xE9stimo\
+    \ de R$ 20 bilh\xF5es com bancos"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-12-02T21:57:57+00:00'
   description: "Quem fizer aportes no PGBL at\xE9 31 de dezembro pode garantir desconto\
@@ -9,8 +19,7 @@
   title: "Imposto de Renda 2026: ainda d\xE1 tempo de garantir desconto com previd\xEA\
     ncia privada"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-02T19:48:58+00:00'
   description: O presidente afirmou que considerou cerca de 10 candidatos para o cargo
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
@@ -18,7 +27,7 @@
   title: "Donald Trump diz que anunciar\xE1 novo presidente do Fed no in\xEDcio de\
     \ 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-12-02T15:35:58+00:00'
   description: "Com o arrefecimento da infla\xE7\xE3o, governo reduz o valor estimado\
     \ do sal\xE1rio m\xEDnimo 2026; veja o que muda"
@@ -26,15 +35,6 @@
   path: https://investnews.com.br/financas/salario-minimo-2026/
   title: "Governo revisa para baixo proje\xE7\xE3o do sal\xE1rio m\xEDnimo de 2026;\
     \ entenda a corre\xE7\xE3o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2025-12-02T15:33:37+00:00'
-  description: "SEC planeja facilitar que pequenas empresas abram capital por meio\
-    \ da redu\xE7\xE3o de divulga\xE7\xF5es obrigat\xF3rias"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-estudam-flexibilizar-regras-para-aumentar-numero-de-pequenas-empresas-na-bolsa/
-  title: "EUA estudam flexibilizar regras para aumentar n\xFAmero de pequenas empresas\
-    \ na bolsa"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
