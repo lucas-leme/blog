@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-04T12:39:08+00:00'
+  description: "Crescimento fraco refor\xE7a sinal de desacelera\xE7\xE3o da economia\
+    \ brasileira no fim de 2025"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/crescimento-pib-desacelera-01-3o-trim/
+  title: "Crescimento do PIB do Brasil desacelera a 0,1% no 3\xBA trimestre e fica\
+    \ abaixo do esperado"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1pdr9x9/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-03T12:43:36+00:00'
   description: "John Martinis afirma que avan\xE7os recentes mostram a China reduziu\
     \ a vantagem dos EUA em computa\xE7\xE3o qu\xE2ntica"
@@ -47,15 +56,6 @@
   path: https://investnews.com.br/economia/china-alcancar-eua-corrida-quantica/
   title: "Nobel em f\xEDsica alerta: China est\xE1 a \u2018nanosegundos\u2019 de alcan\xE7\
     ar os EUA na corrida qu\xE2ntica"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-03T11:30:32+00:00'
-  description: "Em outubro, os Correios anunciaram negocia\xE7\xF5es para o empr\xE9\
-    stimo, na esperan\xE7a de conseguir fortalecer liquidez financeira de curto prazo"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tesouro-barra-correios-emprestimo-de-r-20-bi/
-  title: "Tesouro barra Correios de seguir com contrata\xE7\xE3o de empr\xE9stimo\
-    \ de R$ 20 bilh\xF5es com bancos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"

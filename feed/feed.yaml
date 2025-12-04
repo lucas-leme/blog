@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-04T12:32:17.476758'
+  date: '2025-12-04T13:45:39.181015'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T12:32:17.475023'
+  date: '2025-12-04T13:45:39.179255'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T12:32:17.475019'
+  date: '2025-12-04T13:45:39.179251'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T12:32:17.475014'
+  date: '2025-12-04T13:45:39.179247'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T12:32:17.475005'
+  date: '2025-12-04T13:45:39.179237'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,8 +404,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Research and Policy Center
   categories: &id001
+  - CFA
+  date: '2025-12-04T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
+  title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2025-12-04T09:50:02+00:00'
   description: "<p>Surgiu um novo nome na lista de poss\xEDveis indicados para a presid\xEA\
@@ -420,7 +428,7 @@
   path: https://braziljournal.com/quem-e-ferdinando-lunardi-que-pode-comandar-a-cvm/
   title: "Quem \xE9 Ferdinando Lunardi, que pode comandar a CVM"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-12-03T09:30:53+00:00'
@@ -431,7 +439,7 @@
   path: https://theovershoot.co/p/waking-the-sleeping-european-giant
   title: Waking the Sleeping European Giant
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-12-03T00:00:00+00:00'
   description: "GARANTA O SEU CART\xC3O BTG COM IOF ZERO EM COMPRAS INTERNACIONAIS:\
@@ -470,7 +478,7 @@
   path: https://open.spotify.com/episode/6LEa95eDAVFX0z8eyj7MZ3
   title: "#292| O PLANO CHIN\xCAS PARA DOMINAR O MERCADO GLOBAL DE CARROS"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-12-02T17:16:26+00:00'
   description: '<p>Market timing rarely pays. Patience, and investing in high-quality
@@ -493,15 +501,14 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: &id008
-  - CFA
+  categories: *id001
   date: '2025-12-02T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-only-other-spending-rule-article
   title: 'In Practice Brief: The Only Other Spending Rule Article You Will Ever Need'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-12-02T09:50:41+00:00'
   description: "<p>O copy trading \u2013 a pr\xE1tica em que o investidor seleciona\
     \ um trader l\xEDder, com suposto conhecimento e experi\xEAncia de mercado e passa\
@@ -516,7 +523,7 @@
   path: https://braziljournal.com/opiniao-precisamos-regular-melhor-o-copy-trading/
   title: "OPINI\xC3O. Precisamos regular melhor o \u2018copy trading\u2019"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2025-12-02T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -540,7 +547,7 @@
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #05'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-12-01T17:36:00+00:00'
   description: '<p>European voluntary delistings often involve earnings management.
     This study shows the patterns and implications for investors.</p>
@@ -552,7 +559,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/12/01/the-earnings-dip-before-a-sweet-deal-going-private-in-europe/
   title: 'The Earnings Dip Before a Sweet Deal: Going Private in Europe'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-11-30T00:00:00+00:00'
   description: "MENTORIA EXCLUSIVA DO RUY ALVES: https://lp.mmakers.com.br/mentoria-ruy-alves?xpromo=MI-MENTORIARUYALVES-YT-DESCRICAO-X-20251130-DESCRICAOSOBREEDICAOPODCAST-MM-XTenha\
     \ acesso a +15 modelos de IA, cursos, ferramentas exclusivas e 30 dias gr\xE1\
@@ -587,7 +594,7 @@
   path: https://open.spotify.com/episode/21PoEPFLCKHUwq0xqvxdhe
   title: "#291 | O LADO ASSUSTADOR DA TECNOLOGIA E COMO ELA EST\xC1 MUDANDO O MUNDO"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2025-11-28T19:35:27+00:00'
@@ -599,7 +606,7 @@
   path: https://www.youtube.com/watch?v=Qqyp00JPJZI
   title: '"Siri Isn''t That Bad"'
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -639,7 +646,7 @@
   path: https://open.spotify.com/episode/05b53xPaxYiw341Xz66AGE
   title: 'Special (offers) agent: why retailers should be worried about AI'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2025-11-26T19:27:30+00:00'
   description: 'A daily driver tour.
 
@@ -695,7 +702,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/11/the-future-of-payment-infrastructure-could-be-permissionless/
   title: The Future of Payment Infrastructure Could Be Permissionless
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2025-11-25T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 176 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra seguem destrinchando as melhores oportunidades de investimento no exterior.\
@@ -719,7 +726,7 @@
   path: https://open.spotify.com/episode/4LaYBCRbohFvHcYQjUs68F
   title: 'Private Equity: Alpha in an Evolving Market'
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-11-21T16:01:30+00:00'
   description: "\u2192 Try Flox for free: https://flox.dev/?utm_source=youtube&amp;utm_medium=social&amp;utm_campaign=Arjan&amp;utm_content=homepage\n\
     \nIn this video, I explore how to build an inventory system using the event sourcing\
@@ -744,7 +751,7 @@
   path: https://www.youtube.com/watch?v=t-LC1dWLpNs
   title: Stop Overwriting State And Use Event Sourcing Instead
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-11-18T23:22:26+00:00'
   description: '"Foreign-related institutions" have shed ~$400 billion in dollar deposits
     at the Fed since July while reducing their overall U.S. exposure. That has balance
@@ -752,13 +759,6 @@
   image: https://substackcdn.com/image/fetch/$s_!C5KV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19810516-5b39-4a50-ba89-bb2f72583f27_3200x2895.png
   path: https://theovershoot.co/p/the-sell-america-trade-qt-and-foreign
   title: The "Sell America Trade", QT, and Foreign Banks
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-11-18T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2025/chapter-10-ethical-ai-in-finance
-  title: 'Chapter 10: Ethical AI in Finance'
 - author: Apricitas Economics
   categories: *id009
   date: '2025-10-19T12:07:35+00:00'
