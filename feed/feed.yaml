@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-04T14:51:26.364842'
+  date: '2025-12-04T15:51:07.442837'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T14:51:26.363102'
+  date: '2025-12-04T15:51:07.441306'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T14:51:26.363099'
+  date: '2025-12-04T15:51:07.441302'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T14:51:26.363094'
+  date: '2025-12-04T15:51:07.441297'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T14:51:26.363084'
+  date: '2025-12-04T15:51:07.441288'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,8 +404,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
-- author: CFA Institute Research and Policy Center
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2025-12-04T15:12:49+00:00'
+  description: "<p>How CIOs can slash costs, scale alpha, and modernize their investment\
+    \ engine with a high-impact Human+AI strategy.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/\"\
+    >Reducing the Cost of Alpha: A CIO\u2019s Framework for Human+AI Integration</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/
+  title: "Reducing the Cost of Alpha: A CIO\u2019s Framework for Human+AI Integration"
+- author: CFA Institute Research and Policy Center
+  categories: &id002
   - CFA
   date: '2025-12-04T12:00:00+00:00'
   description: ''
@@ -413,7 +425,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
   title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2025-12-04T09:50:02+00:00'
   description: "<p>Surgiu um novo nome na lista de poss\xEDveis indicados para a presid\xEA\
@@ -478,8 +490,7 @@
   path: https://open.spotify.com/episode/6LEa95eDAVFX0z8eyj7MZ3
   title: "#292| O PLANO CHIN\xCAS PARA DOMINAR O MERCADO GLOBAL DE CARROS"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2025-12-02T17:16:26+00:00'
   description: '<p>Market timing rarely pays. Patience, and investing in high-quality
     companies, equal long-term outperformance.</p>
@@ -501,14 +512,14 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2025-12-02T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-only-other-spending-rule-article
   title: 'In Practice Brief: The Only Other Spending Rule Article You Will Ever Need'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-12-02T09:50:41+00:00'
   description: "<p>O copy trading \u2013 a pr\xE1tica em que o investidor seleciona\
     \ um trader l\xEDder, com suposto conhecimento e experi\xEAncia de mercado e passa\
@@ -546,18 +557,6 @@
   path: https://open.spotify.com/episode/76ufc1BkUlOHPmRui6Se9A
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #05'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-12-01T17:36:00+00:00'
-  description: '<p>European voluntary delistings often involve earnings management.
-    This study shows the patterns and implications for investors.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/01/the-earnings-dip-before-a-sweet-deal-going-private-in-europe/">The
-    Earnings Dip Before a Sweet Deal: Going Private in Europe</a> appeared first on
-    <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/01/the-earnings-dip-before-a-sweet-deal-going-private-in-europe/
-  title: 'The Earnings Dip Before a Sweet Deal: Going Private in Europe'
 - author: Market Makers
   categories: *id004
   date: '2025-11-30T00:00:00+00:00'
