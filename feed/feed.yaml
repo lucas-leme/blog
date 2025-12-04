@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-04T02:13:35.983014'
+  date: '2025-12-04T11:09:07.197569'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T02:13:35.981264'
+  date: '2025-12-04T11:09:07.195875'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T02:13:35.981260'
+  date: '2025-12-04T11:09:07.195871'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T02:13:35.981255'
+  date: '2025-12-04T11:09:07.195866'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-04T02:13:35.981245'
+  date: '2025-12-04T11:09:07.195854'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2025-12-04T09:50:02+00:00'
+  description: "<p>Surgiu um novo nome na lista de poss\xEDveis indicados para a presid\xEA\
+    ncia da CVM: o advogado paulista Ferdinando Lunardi, s\xF3cio do E.Munhoz Advogados,\
+    \ especializado em lit\xEDgio, direito societ\xE1rio e reestrutura\xE7\xE3o. A\
+    \ coluna Capital trouxe em primeira m\xE3o que ele \xE9 o favorito do Ministro\
+    \ Fernando Haddad para o cargo.\_\_ Visto como uma indica\xE7\xE3o de perfil [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/quem-e-ferdinando-lunardi-que-pode-comandar-a-cvm/\"\
+    \ rel=\"nofollow\">Quem \xE9 Ferdinando Lunardi, que pode comandar a CVM</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/quem-e-ferdinando-lunardi-que-pode-comandar-a-cvm/
+  title: "Quem \xE9 Ferdinando Lunardi, que pode comandar a CVM"
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -455,7 +470,7 @@
   path: https://open.spotify.com/episode/6LEa95eDAVFX0z8eyj7MZ3
   title: "#292| O PLANO CHIN\xCAS PARA DOMINAR O MERCADO GLOBAL DE CARROS"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2025-12-02T17:16:26+00:00'
   description: '<p>Market timing rarely pays. Patience, and investing in high-quality
@@ -486,8 +501,7 @@
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-only-other-spending-rule-article
   title: 'In Practice Brief: The Only Other Spending Rule Article You Will Ever Need'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2025-12-02T09:50:41+00:00'
   description: "<p>O copy trading \u2013 a pr\xE1tica em que o investidor seleciona\
     \ um trader l\xEDder, com suposto conhecimento e experi\xEAncia de mercado e passa\
@@ -526,7 +540,7 @@
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #05'
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2025-12-01T17:36:00+00:00'
   description: '<p>European voluntary delistings often involve earnings management.
     This study shows the patterns and implications for investors.</p>
@@ -537,22 +551,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/12/01/the-earnings-dip-before-a-sweet-deal-going-private-in-europe/
   title: 'The Earnings Dip Before a Sweet Deal: Going Private in Europe'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2025-12-01T09:50:34+00:00'
-  description: "<p>A PEC Seguran\xE7a, apresentada pelo Governo em abril, teve o m\xE9\
-    rito de abrir o debate sobre a necessidade de reformar o arcabou\xE7o constitucional\
-    \ para o enfrentamento do crime \u2013 mas \xE9 uma proposta \u201Ccosm\xE9tica\u201D\
-    \ e precisa ser endurecida. A partir dessa avalia\xE7\xE3o, o deputado Mendon\xE7\
-    a Filho (Uni\xE3o-PE), o relator da Proposta de Emenda Constitucional, disse [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/relator-da-pec-da-seguranca-quer-endurecer-proposta-cosmetica-do-governo/\"\
-    \ rel=\"nofollow\">Relator da PEC da Seguran\xE7a quer endurecer proposta \u2018\
-    cosm\xE9tica\u2019 do Governo</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/relator-da-pec-da-seguranca-quer-endurecer-proposta-cosmetica-do-governo/
-  title: "Relator da PEC da Seguran\xE7a quer endurecer proposta \u2018cosm\xE9tica\u2019\
-    \ do Governo"
 - author: Market Makers
   categories: *id003
   date: '2025-11-30T00:00:00+00:00'
