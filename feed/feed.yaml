@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-05T21:27:51.381338'
+  date: '2025-12-06T00:48:24.479749'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-05T21:27:51.379558'
+  date: '2025-12-06T00:48:24.477989'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-05T21:27:51.379554'
+  date: '2025-12-06T00:48:24.477985'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-05T21:27:51.379549'
+  date: '2025-12-06T00:48:24.477981'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-05T21:27:51.379539'
+  date: '2025-12-06T00:48:24.477957'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2025-12-05T21:43:39+00:00'
+  description: "Xiaomi (yes, that Xiaomi) made a ridiculously good car for the price.\n\
+    \nGet yourself or someone a gift they\u2019ll actually use every day with Ridge.\
+    \ Get up to 47% off at https://geni.us/RidgeMKBHD\n\nAuto Focus video coming soon:\
+    \ http://youtube.com/AutoFocus\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist\
+    \ of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\n0:00 Intro\n0:34 The\
+    \ Xiaomi SU7\n3:06 Interior Features\n6:34 It's Modular!\n8:03 Driving Impressions\n\
+    13:39 Are we cooked?"
+  image: https://i2.ytimg.com/vi/Mb6H7trzMfI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Mb6H7trzMfI
+  title: 'Driving Xiaomi''s Electric Car: Are we Cooked?'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -421,7 +437,7 @@
   path: https://braziljournal.com/opiniao-fed-dividido-bc-ancorado-o-contraste-da-superquarta/
   title: "OPINI\xC3O. Fed dividido, BC ancorado \u2013 o contraste da \u2018Superquarta\u2019"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -660,9 +676,7 @@
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #05'
 - author: Marques Brownlee
-  categories: &id006
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2025-11-28T19:35:27+00:00'
   description: "I expected nothing less from you all\n\nSave up to 47% with Ridge\u2019\
     s Black Friday sales event at https://ridge.com/MKBHD\n\n@JxmyHighroller: https://www.youtube.com/@JxmyHighroller\n\
@@ -672,7 +686,7 @@
   path: https://www.youtube.com/watch?v=Qqyp00JPJZI
   title: '"Siri Isn''t That Bad"'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2025-11-28T16:01:02+00:00'
   description: "\u2192 Check out Thesys here: https://www.thesys.dev/?utm_source=youtube&amp;utm_medium=creators&amp;utm_campaign=arjan\n\
     \nIn this video, I explore how Dependency Injection can make your Python code\
@@ -691,46 +705,6 @@
   image: https://i1.ytimg.com/vi/Xhzn1eAxoXk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Xhzn1eAxoXk
   title: 'Stop Hardcoding Everything: Use Dependency Injection'
-- author: Marques Brownlee
-  categories: *id006
-  date: '2025-11-26T19:27:30+00:00'
-  description: 'A daily driver tour.
-
-
-    Save up to 40% with dbrand during their Black Friday sale at https://dbrand.com/bfcm-deals
-
-
-    The new MKBHD merch refresh: https://MKBHD.com
-
-
-    Calendar widget: https://play.google.com/store/apps/details?id=com.candl.auge&amp;hl=en_US
-
-    Blip: https://blip.net/
-
-    Raindrop: https://raindrop.io/
-
-
-    Nuecast: https://neuecast.app/
-
-    Athlytic: https://www.athlyticapp.com/
-
-
-    Apps You''ll ACTUALLY Use: https://youtu.be/vC9N7PgIvEM?si=P1isCJ6vdQaMANFz
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/KW21q_7U6Ao/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=KW21q_7U6Ao
-  title: What's on my Phone 2026!
 - author: Liberty Street Economics
   categories:
   - Macro
