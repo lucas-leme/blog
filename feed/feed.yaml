@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-08T13:44:45.748060'
+  date: '2025-12-08T14:50:49.088338'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T13:44:45.746325'
+  date: '2025-12-08T14:50:49.086592'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T13:44:45.746322'
+  date: '2025-12-08T14:50:49.086588'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T13:44:45.746318'
+  date: '2025-12-08T14:50:49.086583'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T13:44:45.746309'
+  date: '2025-12-08T14:50:49.086573'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-12-08T14:30:29+00:00'
+  description: '<p>AI is boosting productivity, yet circular financing and concentrated
+    capital flows raise valuation and balance-sheet risks. </p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/08/the-two-ai-stories-measurable-gains-and-hidden-balance-sheet-pressure/">The
+    Two AI Stories: Measurable Gains and Hidden Balance-Sheet Pressure</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/08/the-two-ai-stories-measurable-gains-and-hidden-balance-sheet-pressure/
+  title: 'The Two AI Stories: Measurable Gains and Hidden Balance-Sheet Pressure'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -422,7 +436,7 @@
   title: "OPINI\xC3O. Os EUA e a Argentina t\xEAm \u2018fracking\u2019. O Brasil tem\
     \ preconceitos"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-12-06T00:00:00+00:00'
   description: "Acesse a plataforma da Credit Guide: https://creditguide.com.br/?utm_source=Market+Markers&amp;utm_medium=videoSer\xE1\
@@ -530,8 +544,7 @@
   path: https://www.youtube.com/watch?v=ENnDxEOAKKc
   title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-12-04T15:12:49+00:00'
   description: "<p>How CIOs can slash costs, scale alpha, and modernize their investment\
     \ engine with a high-impact Human+AI strategy.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/\"\
@@ -550,7 +563,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
   title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2025-12-04T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
     O DE GRANDES FORTUNAS: https://lp.mmakers.com.br/market-makers-legend?xpromo=MI-LEGEND-YT-DESCRICAO-EPISODIO251-20250828-POSTUNICOSOBRELEGEND-MM-XTenha\
@@ -633,18 +646,6 @@
   image: https://substackcdn.com/image/fetch/$s_!tse-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca520939-e76d-41cc-a59f-7f9b8d13573a_3200x2930.png
   path: https://theovershoot.co/p/waking-the-sleeping-european-giant
   title: Waking the Sleeping European Giant
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-12-02T17:16:26+00:00'
-  description: '<p>Market timing rarely pays. Patience, and investing in high-quality
-    companies, equal long-term outperformance.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/02/patience-pays-why-quality-shares-outperform-in-the-long-run/">Patience
-    Pays: Why Quality Shares Outperform in the Long Run</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/02/patience-pays-why-quality-shares-outperform-in-the-long-run/
-  title: 'Patience Pays: Why Quality Shares Outperform in the Long Run'
 - author: Apricitas Economics
   categories: &id009
   - Macro
