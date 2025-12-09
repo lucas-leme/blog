@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-09T15:49:18.803017'
+  date: '2025-12-09T18:31:59.733939'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-09T15:49:18.801297'
+  date: '2025-12-09T18:31:59.732221'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-09T15:49:18.801293'
+  date: '2025-12-09T18:31:59.732218'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-09T15:49:18.801289'
+  date: '2025-12-09T18:31:59.732213'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-09T15:49:18.801279'
+  date: '2025-12-09T18:31:59.732203'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-12-09T16:16:52+00:00'
+  description: "<p>Evidence shows quarterly reporting is not the cause of corporate\
+    \ myopia. Incentive structures exert far greater pressure.</p>\n<p>The post <a\
+    \ href=\"https://blogs.cfainstitute.org/investor/2025/12/09/corporate-myopia-less-frequent-reporting-wont-reduce-managerial-short-termism/\"\
+    >Corporate Myopia: Less-Frequent Reporting Won\u2019t Reduce Managerial Short-Termism</a>\
+    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
+    \ Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/09/corporate-myopia-less-frequent-reporting-wont-reduce-managerial-short-termism/
+  title: "Corporate Myopia: Less-Frequent Reporting Won\u2019t Reduce Managerial Short-Termism"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -421,7 +434,7 @@
   path: https://braziljournal.com/opiniao-os-impactos-nocivos-da-reforma-do-irpf/
   title: "OPINI\xC3O. Os impactos nocivos da \u2018reforma\u2019 do IRPF"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-12-08T21:54:05+00:00'
@@ -483,8 +496,7 @@
   path: https://braziljournal.com/confianca-dos-americanos-na-economia-cai-ao-menor-nivel-historico/
   title: "Confian\xE7a dos americanos na economia cai ao menor n\xEDvel hist\xF3rico"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-12-08T14:30:29+00:00'
   description: '<p>AI is boosting productivity, yet circular financing and concentrated
     capital flows raise valuation and balance-sheet risks. </p>
@@ -545,7 +557,7 @@
   title: "#294 | JUROS ALTOS, FRAUDES E FGC: O QUE EST\xC1 POR TR\xC1S DO MERCADO\
     \ DE CR\xC9DITO NO BRASIL"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-12-05T21:43:39+00:00'
   description: "Xiaomi (yes, that Xiaomi) made a ridiculously good car for the price.\n\
     \nGet yourself or someone a gift they\u2019ll actually use every day with Ridge.\
@@ -586,17 +598,6 @@
   image: https://i2.ytimg.com/vi/ENnDxEOAKKc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ENnDxEOAKKc
   title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-12-04T15:12:49+00:00'
-  description: "<p>How CIOs can slash costs, scale alpha, and modernize their investment\
-    \ engine with a high-impact Human+AI strategy.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/\"\
-    >Reducing the Cost of Alpha: A CIO\u2019s Framework for Human+AI Integration</a>\
-    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
-    \ Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/
-  title: "Reducing the Cost of Alpha: A CIO\u2019s Framework for Human+AI Integration"
 - author: CFA Institute Research and Policy Center
   categories: &id005
   - CFA
