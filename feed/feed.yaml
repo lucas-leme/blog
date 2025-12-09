@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-08T21:26:46.987173'
+  date: '2025-12-09T00:48:33.702397'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T21:26:46.985435'
+  date: '2025-12-09T00:48:33.700867'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T21:26:46.985431'
+  date: '2025-12-09T00:48:33.700863'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T21:26:46.985427'
+  date: '2025-12-09T00:48:33.700858'
   description: "<div class=\"ExternalClassD3D3D4CD8A4E4499AECF06FB55771461\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -125,7 +125,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-08T21:26:46.985417'
+  date: '2025-12-09T00:48:33.700847'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -404,6 +404,53 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-12-08T21:54:05+00:00'
+  description: 'The best (and worst) smartphones of 2025!
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Intro
+
+    1:28 Best Big Phone
+
+    3:34 Best Small Phone
+
+    6:09 Best Camera
+
+    10:47 Best Value
+
+    14:16 Best Battery
+
+    17:04 The Design Award
+
+    21:03 Best Foldable
+
+    23:38 Most Improved
+
+    25:45 Bust of the Year
+
+    28:15 Phone of the Year'
+  image: https://i4.ytimg.com/vi/sfyL4BswUeE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=sfyL4BswUeE
+  title: Smartphone Awards 2025!
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -421,7 +468,7 @@
   path: https://braziljournal.com/confianca-dos-americanos-na-economia-cai-ao-menor-nivel-historico/
   title: "Confian\xE7a dos americanos na economia cai ao menor n\xEDvel hist\xF3rico"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2025-12-08T14:30:29+00:00'
   description: '<p>AI is boosting productivity, yet circular financing and concentrated
@@ -451,7 +498,7 @@
   title: "OPINI\xC3O. Os EUA e a Argentina t\xEAm \u2018fracking\u2019. O Brasil tem\
     \ preconceitos"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-12-06T00:00:00+00:00'
   description: "Acesse a plataforma da Credit Guide: https://creditguide.com.br/?utm_source=Market+Markers&amp;utm_medium=videoSer\xE1\
@@ -499,9 +546,7 @@
   title: "#294 | JUROS ALTOS, FRAUDES E FGC: O QUE EST\xC1 POR TR\xC1S DO MERCADO\
     \ DE CR\xC9DITO NO BRASIL"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-12-05T21:43:39+00:00'
   description: "Xiaomi (yes, that Xiaomi) made a ridiculously good car for the price.\n\
     \nGet yourself or someone a gift they\u2019ll actually use every day with Ridge.\
@@ -543,7 +588,7 @@
   path: https://www.youtube.com/watch?v=ENnDxEOAKKc
   title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2025-12-04T15:12:49+00:00'
   description: "<p>How CIOs can slash costs, scale alpha, and modernize their investment\
     \ engine with a high-impact Human+AI strategy.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/\"\
@@ -554,7 +599,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/12/04/reducing-the-cost-of-alpha-a-cios-framework-for-humanai-integration/
   title: "Reducing the Cost of Alpha: A CIO\u2019s Framework for Human+AI Integration"
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id005
   - CFA
   date: '2025-12-04T12:00:00+00:00'
   description: ''
@@ -562,7 +607,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
   title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-12-04T00:00:00+00:00'
   description: "SEJA LEGEND E TENHA ACESSO \xC0 INTELIG\xCANCIA POR TR\xC1S DA GEST\xC3\
     O DE GRANDES FORTUNAS: https://lp.mmakers.com.br/market-makers-legend?xpromo=MI-LEGEND-YT-DESCRICAO-EPISODIO251-20250828-POSTUNICOSOBRELEGEND-MM-XTenha\
@@ -656,7 +701,7 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: *id004
+  categories: *id005
   date: '2025-12-02T12:00:00+00:00'
   description: ''
   image: null
@@ -686,16 +731,6 @@
   path: https://open.spotify.com/episode/76ufc1BkUlOHPmRui6Se9A
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #05'
-- author: Marques Brownlee
-  categories: *id005
-  date: '2025-11-28T19:35:27+00:00'
-  description: "I expected nothing less from you all\n\nSave up to 47% with Ridge\u2019\
-    s Black Friday sales event at https://ridge.com/MKBHD\n\n@JxmyHighroller: https://www.youtube.com/@JxmyHighroller\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/Qqyp00JPJZI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Qqyp00JPJZI
-  title: '"Siri Isn''t That Bad"'
 - author: ArjanCodes
   categories: *id006
   date: '2025-11-28T16:01:02+00:00'
