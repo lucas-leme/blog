@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-12T11:28:27+00:00'
+  description: "Os exportadores ter\xE3o que pedir permiss\xE3o para enviar uma s\xE9\
+    rie de produtos sider\xFArgicos a partir de 1\xBA de janeiro"
+  image: https://media.investnews.com.br/uploads/2025/01/423544169-min-scaled.jpg
+  path: https://investnews.com.br/economia/em-meio-a-tensoes-comerciais-china-anuncia-controle-sobre-exportacoes-de-aco-em-2026/
+  title: "Em meio a tens\xF5es comerciais, China anuncia controle sobre exporta\xE7\
+    \xF5es de a\xE7o em 2026"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -40,8 +50,7 @@
   path: https://investnews.com.br/financas/ipva-sp-2026/
   title: "IPVA SP 2026: confira calend\xE1rio, valores, descontos e formas de pagamento"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-11T17:08:21+00:00'
   description: "Medida atinge setores como vestu\xE1rio, metais e autope\xE7as, com\
     \ foco na produ\xE7\xE3o chinesa, e entra em vigor no pr\xF3ximo ano"
@@ -49,15 +58,6 @@
   path: https://investnews.com.br/economia/mexico-aprova-tarifas-de-ate-50-e-amplia-ofensiva-contra-importacoes-da-asia/
   title: "Sob press\xE3o de Trump, M\xE9xico aprova aumento de tarifas contra Brasil,\
     \ China e outros pa\xEDses"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-10T22:26:21+00:00'
-  description: "Decis\xE3o de hoje refor\xE7a que, a despeito da expectativa dos economistas,\
-    \ ainda h\xE1 trabalho a fazer para controlar a infla\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/por-que-o-bc-nao-cortou-o-juro/
-  title: "Por que o BC resiste a cortar os juros quando o mundo inteiro j\xE1 fez\
-    \ isso?"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-12-10T19:08:23+00:00'
