@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-12T15:50:02.096417'
+  date: '2025-12-12T18:32:25.987915'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T15:50:02.094611'
+  date: '2025-12-12T18:32:25.986061'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T15:50:02.094607'
+  date: '2025-12-12T18:32:25.986058'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T15:50:02.094602'
+  date: '2025-12-12T18:32:25.986053'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T15:50:02.094593'
+  date: '2025-12-12T18:32:25.986043'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -405,6 +405,45 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-12-12T16:01:25+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nUntangling deeply nested if/else logic is one of the hardest parts of working\
+    \ in real-world Python codebases. In this video, I take a brutally messy example\
+    \ full of indentation, duplicated conditions, and hidden business rules, and systematically\
+    \ break it down into clean, readable logic. You\u2019ll see how to write characterization\
+    \ tests to protect the existing behavior, how to flatten the structure using guard\
+    \ clauses, how to simplify and combine conditions, and how to deal with special\
+    \ cases like admin overrides without breaking anything. By the end, you\u2019\
+    ll understand exactly how to transform complicated boolean logic into code that\u2019\
+    s easy to read, easy to test, and easy to extend.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2025/logic.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:48 Why Code Like This Happens\n2:57 Write Characterization\
+    \ Tests (Your Safety Net)\n6:04 Flatten the Nesting with Guard Clauses\n11:26\
+    \ Remove Unnecessary Try/Except Blocks\n13:10 Simplify and Name Conditions\n15:26\
+    \ Simplify Loops and Comprehensions\n16:28 Merge Duplicate Logic\n19:07 Move Rules\
+    \ to Data\n22:01 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/mH7e7fs9gaE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=mH7e7fs9gaE
+  title: How to Refactor Insanely Complicated Business Logic (Step by Step)
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-12-12T15:57:22+00:00'
+  description: '<p>Clare Flynn Levy reflects on how reduced reporting frequency would
+    alter real-world investment decisions, influencing which firms gain or fall behind.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/12/winners-and-losers-in-a-world-without-quarterly-earnings/">Winners
+    and Losers in a World Without Quarterly Earnings</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/12/winners-and-losers-in-a-world-without-quarterly-earnings/
+  title: Winners and Losers in a World Without Quarterly Earnings
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -488,7 +527,7 @@
   path: https://open.spotify.com/episode/3Kel6SlVmxtoYxtXG31iif
   title: 'Tinseltown tussle: the battle for Warner Brothers'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-12-10T22:12:02+00:00'
   description: "<p>As perspectivas para o emprego s\xE3o \u201Cassustadoras\u201D\
@@ -505,8 +544,7 @@
   path: https://braziljournal.com/ai-reserva-futuro-assustador-para-os-empregos-diz-howard-marks/
   title: "AI reserva futuro \u2018assustador\u2019 para os empregos, diz Howard Marks"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2025-12-10T16:58:50+00:00'
   description: '<p>A simple framework helps VC investors assess and identify durable
     long-term value when investing capital in AI.</p>
@@ -518,7 +556,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/12/10/ai-in-venture-capital-separating-signal-from-noise/
   title: 'AI in Venture Capital: Separating Signal from Noise'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-12-10T04:45:02+00:00'
   description: "<p>Keir Starmer liderou a volta do Partido Trabalhista ao poder em\
     \ julho do ano passado, depois de 14 anos de governos conservadores no Reino Unido.\
@@ -532,18 +570,6 @@
   path: https://braziljournal.com/britanicos-se-cansam-do-tax-and-spend-e-a-direita-so-cresce/
   title: "Brit\xE2nicos se cansam do \u2018tax and spend\u2019 \u2013 e a direita\
     \ s\xF3 cresce"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2025-12-09T16:16:52+00:00'
-  description: "<p>Evidence shows quarterly reporting is not the cause of corporate\
-    \ myopia. Incentive structures exert far greater pressure.</p>\n<p>The post <a\
-    \ href=\"https://blogs.cfainstitute.org/investor/2025/12/09/corporate-myopia-less-frequent-reporting-wont-reduce-managerial-short-termism/\"\
-    >Corporate Myopia: Less-Frequent Reporting Won\u2019t Reduce Managerial Short-Termism</a>\
-    \ appeared first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute\
-    \ Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/09/corporate-myopia-less-frequent-reporting-wont-reduce-managerial-short-termism/
-  title: "Corporate Myopia: Less-Frequent Reporting Won\u2019t Reduce Managerial Short-Termism"
 - author: Market Makers
   categories: *id003
   date: '2025-12-09T00:00:00+00:00'
@@ -582,7 +608,7 @@
   path: https://open.spotify.com/episode/4YLsnod0jMKbSgHGoyjcrp
   title: '#295 | A VERDADE SOBRE A CRISE FISCAL CONTRATADA PARA 2027'
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-12-09T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -666,10 +692,7 @@
   path: https://www.youtube.com/watch?v=Mb6H7trzMfI
   title: 'Driving Xiaomi''s Electric Car: Are we Cooked?'
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2025-12-05T16:00:25+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I dive deep into the **Lazy Loading pattern,** one of the simplest\
@@ -695,7 +718,7 @@
   path: https://www.youtube.com/watch?v=ENnDxEOAKKc
   title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
 - author: CFA Institute Research and Policy Center
-  categories: &id005
+  categories: &id006
   - CFA
   date: '2025-12-04T12:00:00+00:00'
   description: ''
@@ -724,14 +747,14 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: *id005
+  categories: *id006
   date: '2025-12-02T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-only-other-spending-rule-article
   title: 'In Practice Brief: The Only Other Spending Rule Article You Will Ever Need'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-12-02T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -753,26 +776,6 @@
   path: https://open.spotify.com/episode/76ufc1BkUlOHPmRui6Se9A
   title: 'Juros alto no Brasil potencializando seus investimentos globais? | Espresso
     Outliers #5'
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-11-28T16:01:02+00:00'
-  description: "\u2192 Check out Thesys here: https://www.thesys.dev/?utm_source=youtube&amp;utm_medium=creators&amp;utm_campaign=arjan\n\
-    \nIn this video, I explore how Dependency Injection can make your Python code\
-    \ cleaner, more testable, and easier to extend, using a real-world data pipeline\
-    \ example. I start with a tightly coupled version and progressively refactor it\
-    \ using manual injection, a lightweight custom DI container, and even show how\
-    \ frameworks like FastAPI handle DI under the hood.\n\nDesign pattern playlist:\
-    \ https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\n\
-    \U0001F525 GitHub Repository: https://git.arjan.codes/2025/di.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:57 The Problem:\
-    \ No DI\n1:29 What Is Dependency Injection?\n2:13 Refactoring with Manual DI\n\
-    17:19 Going Further: A Simple DI Container\n28:04 Dependency Injection in FastAPI\n\
-    29:53 Use Cases for Dependency Injection\n30:52 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/Xhzn1eAxoXk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=Xhzn1eAxoXk
-  title: 'Stop Hardcoding Everything: Use Dependency Injection'
 - author: The View From Apollo
   categories:
   - Podcasts
