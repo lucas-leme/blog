@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-12T21:28:18.486318'
+  date: '2025-12-13T00:48:25.246788'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T21:28:18.484602'
+  date: '2025-12-13T00:48:25.245058'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T21:28:18.484598'
+  date: '2025-12-13T00:48:25.245054'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T21:28:18.484594'
+  date: '2025-12-13T00:48:25.245049'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-12T21:28:18.484584'
+  date: '2025-12-13T00:48:25.245039'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -405,6 +405,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2025-12-12T23:26:44+00:00'
+  description: America's central bankers have, in the aggregate, lowered the "appropriate"
+    path for interest rates despite an improved growth outlook and a worsening inflation
+    picture. There is no good explanation.
+  image: https://substackcdn.com/image/fetch/$s_!HKg2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94ce845f-db08-450c-87da-7e09684ef27c_3205x2955.png
+  path: https://theovershoot.co/p/the-fed-submits
+  title: The Fed Submits?
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -608,7 +619,7 @@
   path: https://open.spotify.com/episode/4YLsnod0jMKbSgHGoyjcrp
   title: '#295 | A VERDADE SOBRE A CRISE FISCAL CONTRATADA PARA 2027'
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-12-09T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -718,7 +729,7 @@
   path: https://www.youtube.com/watch?v=ENnDxEOAKKc
   title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id007
   - CFA
   date: '2025-12-04T12:00:00+00:00'
   description: ''
@@ -726,9 +737,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
   title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2025-12-03T09:30:53+00:00'
   description: Coordination and mobilization of existing resources would transform
     the continent into a superpower. The ongoing failure to do so is largely the fault
@@ -747,14 +756,14 @@
   path: https://www.apricitas.io/p/america-is-flying-blind-on-immigration
   title: America is Flying Blind on Immigration
 - author: CFA Institute Research and Policy Center
-  categories: *id006
+  categories: *id007
   date: '2025-12-02T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2025/in-practice-brief-only-other-spending-rule-article
   title: 'In Practice Brief: The Only Other Spending Rule Article You Will Ever Need'
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2025-12-02T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -789,15 +798,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a623bbd31b2b3abbfbc85ac30
   path: https://open.spotify.com/episode/4LaYBCRbohFvHcYQjUs68F
   title: 'Private Equity: Alpha in an Evolving Market'
-- author: The Overshoot
-  categories: *id008
-  date: '2025-11-18T23:22:26+00:00'
-  description: '"Foreign-related institutions" have shed ~$400 billion in dollar deposits
-    at the Fed since July while reducing their overall U.S. exposure. That has balance
-    of payments implications.'
-  image: https://substackcdn.com/image/fetch/$s_!C5KV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19810516-5b39-4a50-ba89-bb2f72583f27_3200x2895.png
-  path: https://theovershoot.co/p/the-sell-america-trade-qt-and-foreign
-  title: The "Sell America Trade", QT, and Foreign Banks
 - author: Apricitas Economics
   categories: *id009
   date: '2025-10-19T12:07:35+00:00'
