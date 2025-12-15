@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-15T14:53:49.579614'
+  date: '2025-12-15T15:51:53.162181'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-15T14:53:49.578437'
+  date: '2025-12-15T15:51:53.160875'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-15T14:53:49.578434'
+  date: '2025-12-15T15:51:53.160871'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-15T14:53:49.578429'
+  date: '2025-12-15T15:51:53.160866'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-15T14:53:49.578420'
+  date: '2025-12-15T15:51:53.160856'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -405,6 +405,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05112025
   title: "BC - Copom Ata - 274\xAA Reuni\xE3o - 4-5 novembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2025-12-15T14:56:47+00:00'
+  description: '<p>AI offers real promise for investors, but reliability gaps and
+    oversight needs mean its impact will be more measured than early hype suggests.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/15/ai-in-investment-management-from-exuberance-to-realism/">AI
+    in Investment Management: From Exuberance to Realism</a> appeared first on <a
+    href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/15/ai-in-investment-management-from-exuberance-to-realism/
+  title: 'AI in Investment Management: From Exuberance to Realism'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -460,8 +473,7 @@
   path: https://www.youtube.com/watch?v=mH7e7fs9gaE
   title: How to Refactor Insanely Complicated Business Logic (Step by Step)
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2025-12-12T15:57:22+00:00'
   description: '<p>Clare Flynn Levy reflects on how reduced reporting frequency would
     alter real-world investment decisions, influencing which firms gain or fall behind.</p>
@@ -506,18 +518,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ai-reserva-futuro-assustador-para-os-empregos-diz-howard-marks/
   title: "AI reserva futuro \u2018assustador\u2019 para os empregos, diz Howard Marks"
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2025-12-10T16:58:50+00:00'
-  description: '<p>A simple framework helps VC investors assess and identify durable
-    long-term value when investing capital in AI.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/10/ai-in-venture-capital-separating-signal-from-noise/">AI
-    in Venture Capital: Separating Signal from Noise</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/10/ai-in-venture-capital-separating-signal-from-noise/
-  title: 'AI in Venture Capital: Separating Signal from Noise'
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2025-12-10T04:45:02+00:00'
@@ -739,3 +739,14 @@
   image: https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409
   path: https://open.spotify.com/episode/6GFarbvdU5O14csxmOxIzG
   title: "How Intel\u2019s CEO Became a Political Liability"
+- author: The Morgan Housel Podcast
+  categories:
+  - Podcasts
+  date: '2024-11-15T00:00:00+00:00'
+  description: "If you're a student of history, you know that most things have gotten\
+    \ better for most people over time. But read the news and what do you hear? Pessimism,\
+    \ pessimism, pessimism.\_There are several reasons why.\_Special thanks to my\
+    \ friends at Readwise -- check out Readwise.IO/morgan."
+  image: https://i.scdn.co/image/ab6765630000ba8a2f8b83e947c127b5de927720
+  path: https://open.spotify.com/episode/2lqBPtQDJOdSd9BuSKAeXa
+  title: Why Pessimism Sounds So Smart
