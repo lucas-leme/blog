@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-16T16:34:55+00:00'
+  description: "A bolsa pediu permiss\xE3o SEC para adicionar uma sess\xE3o de negocia\xE7\
+    \xE3o, das 21h \xE0s 4h"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/nasdaq-segunda-maior-bolsa-dos-estados-unidos-pede-autorizacao-para-operar-23-horas-por-dia/
+  title: "Nasdaq, segunda maior bolsa dos Estados Unidos, pede autoriza\xE7\xE3o para\
+    \ operar 23 horas por dia"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2025-12-15T20:50:31+00:00'
   description: "A partir de 2026, as bandas de negocia\xE7\xE3o do peso acompanhar\xE3\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/economia/banco-central-da-argentina-anuncia-mudancas-na-politica-cambial/
   title: "Banco Central da Argentina anuncia mudan\xE7as na pol\xEDtica cambial"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-15T19:00:51+00:00'
   description: "Publica\xE7\xE3o da tabela oficial permite que propriet\xE1rios consultem\
     \ o valor venal de seus ve\xEDculos e j\xE1 se preparem para o c\xE1lculo do IPVA\
@@ -54,7 +63,7 @@
   path: https://www.reddit.com/r/CFA/comments/1pmz1p2/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2025-12-14T19:08:49+00:00'
   description: "Minist\xE9rio pretende se reunir com governador e prefeito de S\xE3\
     o Paulo para a\xE7\xE3o conjunta"
@@ -62,15 +71,6 @@
   path: https://investnews.com.br/economia/governo-federal-afirma-que-enel-pode-perder-concessao-se-nao-cumprir-contrato/
   title: "Governo federal afirma que Enel pode perder concess\xE3o em SP se n\xE3\
     o cumprir contrato"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-12-12T16:50:19+00:00'
-  description: Veja o que o motorista fluminense precisa saber para quitar o IPVA
-    RJ 2026
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ipva-rj-2026/
-  title: "IPVA RJ 2026: confira calend\xE1rio, valores, descontos e formas de pagamento\
-    \ no Rio de Janeiro"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-12-12T06:35:24+00:00'
