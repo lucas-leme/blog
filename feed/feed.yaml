@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-17T13:44:00.403633'
+  date: '2025-12-17T14:52:27.280919'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-17T13:44:00.401908'
+  date: '2025-12-17T14:52:27.279179'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-17T13:44:00.401903'
+  date: '2025-12-17T14:52:27.279176'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-17T13:44:00.401899'
+  date: '2025-12-17T14:52:27.279171'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-17T13:44:00.401889'
+  date: '2025-12-17T14:52:27.279162'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -398,6 +398,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2025-12-17T14:34:20+00:00'
+  description: '<p>Momentum investing endures but smart construction, signal diversification,
+    and risk management are essential for capturing its alpha.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/17/momentum-investing-a-stronger-more-resilient-framework-for-long-term-allocators/">Momentum
+    Investing: A Stronger, More Resilient Framework for Long-Term Allocators</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/17/momentum-investing-a-stronger-more-resilient-framework-for-long-term-allocators/
+  title: 'Momentum Investing: A Stronger, More Resilient Framework for Long-Term Allocators'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -499,8 +513,7 @@
   title: "OPINI\xC3O. Na \u2018reforma\u2019 do IR, o Governo d\xE1 com uma m\xE3\
     o \u2013 e tira muito mais com a outra"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2025-12-16T16:44:17+00:00'
   description: '<p>Investors are revisiting insurance-linked securities for yield,
     diversification, and resilience amid rising catastrophe risk.</p>
@@ -512,7 +525,7 @@
   path: https://blogs.cfainstitute.org/investor/2025/12/16/the-growth-story-behind-insurance-linked-securities/
   title: The Growth Story Behind Insurance-Linked Securities
 - author: Outliers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2025-12-16T00:00:00+00:00'
   description: "Aten\xE7\xE3o: esta vers\xE3o do epis\xF3dio do Outliers InfoMoney\
@@ -531,7 +544,7 @@
   path: https://open.spotify.com/episode/3QDiLwiVcCQU1mnJBWGlXK
   title: "[PT-BR] #177 - As apostas do Morgan Stanley para o pr\xF3ximo ciclo global"
 - author: Outliers
-  categories: *id002
+  categories: *id003
   date: '2025-12-16T00:00:00+00:00'
   description: "Aten\xE7\xE3o:\_esta vers\xE3o de Outliers InfoMoney com Jeff Mueller,\
     \ do Morgan Stanley, \xE9 original. As respostas do executivo est\xE3o em ingl\xEA\
@@ -550,18 +563,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a1a517c994f2faa08509c666e
   path: https://open.spotify.com/episode/2dQErioiFptpBQfcrAF9Yi
   title: "[ENG] #177 - As apostas do Morgan Stanley para o pr\xF3ximo ciclo global"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-12-15T14:56:47+00:00'
-  description: '<p>AI offers real promise for investors, but reliability gaps and
-    oversight needs mean its impact will be more measured than early hype suggests.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/15/ai-in-investment-management-from-exuberance-to-realism/">AI
-    in Investment Management: From Exuberance to Realism</a> appeared first on <a
-    href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/15/ai-in-investment-management-from-exuberance-to-realism/
-  title: 'AI in Investment Management: From Exuberance to Realism'
 - author: Market Makers
   categories: *id004
   date: '2025-12-14T00:00:00+00:00'
