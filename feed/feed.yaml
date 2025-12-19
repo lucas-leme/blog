@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-19T15:50:23.079300'
+  date: '2025-12-19T18:32:11.547852'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T15:50:23.077569'
+  date: '2025-12-19T18:32:11.546123'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T15:50:23.077564'
+  date: '2025-12-19T18:32:11.546118'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T15:50:23.077559'
+  date: '2025-12-19T18:32:11.546114'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -134,7 +134,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T15:50:23.077549'
+  date: '2025-12-19T18:32:11.546105'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -406,6 +406,33 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: ArjanCodes
+  categories: &id007
+  - Tech
+  - Code
+  - Youtube
+  date: '2025-12-19T16:00:08+00:00'
+  description: "\U0001F449 Get real-time, search result data from Google, Youtube\
+    \ and more with SerpApi: https://serpapi.link/arjan-codes.\n\nThis video shows\
+    \ you how to stop your Python code from crashing when APIs, networks, or LLMs\
+    \ fail at random. I walk through the Retry Pattern step-by-step: starting with\
+    \ a flaky example, adding simple retries, improving them with exponential backoff,\
+    \ turning the logic into a clean decorator, and finally adding fallback routes\
+    \ when retrying the same thing no longer makes sense. You\u2019ll also see how\
+    \ retries help when working with LLMs that sometimes return invalid JSON. By the\
+    \ end, you\u2019ll know exactly when to retry, when not to, and how to make your\
+    \ applications far more resilient.\n\nDesign pattern playlist: https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\
+    \n\U0001F525 GitHub Repository:https://git.arjan.codes/2025/retry.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:53 The Problem: Transient Failures\n1:35 A Simple Retry Function\n7:14 Exponential\
+    \ Backoff\n9:32 Using a Decorator (with @wraps)\n12:53 LLM Example (JSON with\
+    \ the New API)\n14:48 When You Shouldn\u2019t Retry the Same Thing\n21:06 Production-Ready\
+    \ Option with Tenacity\n21:47 When (Not) to Use the Retry Pattern\n23:15 Final\
+    \ Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/43vH_lnM7x0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=43vH_lnM7x0
+  title: 'Stop Your Code from Crashing: Use the Retry Pattern'
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -681,10 +708,7 @@
   path: https://theovershoot.co/p/the-fed-submits
   title: The Fed Submits?
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id007
   date: '2025-12-12T16:01:25+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nUntangling deeply nested if/else logic is one of the hardest parts of working\
@@ -706,32 +730,6 @@
   image: https://i2.ytimg.com/vi/mH7e7fs9gaE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=mH7e7fs9gaE
   title: How to Refactor Insanely Complicated Business Logic (Step by Step)
-- author: ArjanCodes
-  categories: *id007
-  date: '2025-12-05T16:00:25+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I dive deep into the **Lazy Loading pattern,** one of the simplest\
-    \ and most effective ways to make Python applications feel instantly responsive.\
-    \ I start with a painfully slow CSV-loading example and progressively improve\
-    \ it using **lazy evaluation**, **generators**, **caching**, **time-limited caching**,\
-    \ and even **background preloading**. Along the way, you\u2019ll learn when (and\
-    \ when not) to use lazy loading, how it\u2019s used in real-world libraries, and\
-    \ how to apply it cleanly in your own projects. By the end, you\u2019ll understand\
-    \ how to avoid unnecessary work, reduce memory usage, and make your Python code\
-    \ dramatically faster without overcomplicating your design.\n\nDesign pattern\
-    \ playlist: https://www.youtube.com/playlist?list=PLC0nd42SBTaNf0bVJVd9e2oBV-mcUuxS0\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2025/lazy.\n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
-    \ Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:48 A Bit of History (and Where You Already See It)\n1:53 The Naive (Eager) Approach\n\
-    2:29 Lazy Loading\n3:38 Simple Caching with functools.cache\n5:15 Adding a Remote\
-    \ Operation\n9:24 Now With Custom Caching\n11:13 Lazy Streaming with Generators\n\
-    15:20 Smarter Preloading\n17:21 When (and When Not) to Use Lazy Loading\n18:08\
-    \ Common Mistakes with Lazy Loading\n18:52 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i2.ytimg.com/vi/ENnDxEOAKKc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ENnDxEOAKKc
-  title: 'The Lazy Loading Pattern: How to Make Python Programs Feel Instant'
 - author: CFA Institute Research and Policy Center
   categories: *id008
   date: '2025-12-04T12:00:00+00:00'
