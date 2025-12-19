@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-19T02:15:07.643727'
+  date: '2025-12-19T11:08:28.520282'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T02:15:07.641957'
+  date: '2025-12-19T11:08:28.518567'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T02:15:07.641953'
+  date: '2025-12-19T11:08:28.518563'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T02:15:07.641949'
+  date: '2025-12-19T11:08:28.518559'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-19T02:15:07.641939'
+  date: '2025-12-19T11:08:28.518549'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -398,6 +398,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2025-12-19T08:43:28+00:00'
+  description: Look through the noise attributable to the government shutdown, and
+    little has changed over the past six months.
+  image: https://substackcdn.com/image/fetch/$s_!X9M7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fc89010-cbbf-47e0-8012-f2e21145b147_3200x3235.png
+  path: https://theovershoot.co/p/us-wages-still-rising-briskly-employment
+  title: U.S. Wages Still Rising Briskly, Employment Holding Up, and Inflation Still
+    Sticky (Probably)
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -653,9 +664,7 @@
   path: https://open.spotify.com/episode/2dQErioiFptpBQfcrAF9Yi
   title: "[ENG] #177 - As apostas do Morgan Stanley para o pr\xF3ximo ciclo global"
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2025-12-12T23:26:44+00:00'
   description: America's central bankers have, in the aggregate, lowered the "appropriate"
     path for interest rates despite an improved growth outlook and a worsening inflation
@@ -664,7 +673,7 @@
   path: https://theovershoot.co/p/the-fed-submits
   title: The Fed Submits?
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -690,7 +699,7 @@
   path: https://www.youtube.com/watch?v=mH7e7fs9gaE
   title: How to Refactor Insanely Complicated Business Logic (Step by Step)
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2025-12-05T16:00:25+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn this video, I dive deep into the **Lazy Loading pattern,** one of the simplest\
@@ -723,15 +732,6 @@
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
   title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
-- author: The Overshoot
-  categories: *id007
-  date: '2025-12-03T09:30:53+00:00'
-  description: Coordination and mobilization of existing resources would transform
-    the continent into a superpower. The ongoing failure to do so is largely the fault
-    of narrow-minded technocrats.
-  image: https://substackcdn.com/image/fetch/$s_!tse-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca520939-e76d-41cc-a59f-7f9b8d13573a_3200x2930.png
-  path: https://theovershoot.co/p/waking-the-sleeping-european-giant
-  title: Waking the Sleeping European Giant
 - author: Apricitas Economics
   categories: &id009
   - Macro
