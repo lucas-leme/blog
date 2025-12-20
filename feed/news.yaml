@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-20T14:51:09+00:00'
+  description: "Resist\xEAncia de pa\xEDses como a It\xE1lia trava pacto bilion\xE1\
+    rio enquanto UE tenta sair da \xF3rbita de EUA e China"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/acordo-com-o-mercosul-vira-prova-de-fogo-para-a-ambicao-global-da-uniao-europeia/
+  title: "Acordo com o Mercosul vira prova de fogo para a ambi\xE7\xE3o global da\
+    \ Uni\xE3o Europeia"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ppidhi/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-17T15:13:13+00:00'
   description: "Trump ordenou na ter\xE7a-feira um bloqueio de todos os navios petroleiros\
     \ sancionados que entram e saem da Venezuela"
@@ -47,15 +56,6 @@
   path: https://investnews.com.br/economia/petroleo-sobe-com-tensoes-entre-russia-e-venezuela-mas-excesso-de-oferta-reduz-espaco-para-alta/
   title: "Petr\xF3leo volta a subir com bloqueio de navios da Venezuela pelos Estados\
     \ Unidos e escalada das tens\xF5es geopol\xEDticas"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-17T09:00:00+00:00'
-  description: "Cortes nobres ficaram no negativo neste ano, mas oferta menor de boi\
-    \ pressiona pre\xE7os \xE0 frente"
-  image: https://media.investnews.com.br/uploads/2025/12/in-ilustra-picanha.webp
-  path: https://investnews.com.br/economia/preco-picanha-2026-carnes/
-  title: "Pre\xE7os da picanha e do fil\xE9 mignon caem em 2025, mas \u2018ciclo do\
-    \ boi\u2019 aponta para alta em 2026"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
