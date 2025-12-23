@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2025-12-23T16:37:47+00:00'
+  description: As autoridades que supervisionam as 10 moedas mais negociadas somaram
+    8,5 pontos percentuais de cortes
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/principais-bcs-do-mundo-realizam-em-2025-maior-corte-nos-juros-em-mais-de-uma-decada/
+  title: "Principais BCs do mundo realizam em 2025 maior corte nos juros em mais de\
+    \ uma d\xE9cada"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -52,8 +62,7 @@
   path: https://investnews.com.br/economia/impasse-com-a-europa-empurra-mercosul-para-outros-acordos-globais/
   title: Impasse com a Europa empurra Mercosul para outros acordos globais
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2025-12-16T16:34:55+00:00'
   description: "A bolsa pediu permiss\xE3o SEC para adicionar uma sess\xE3o de negocia\xE7\
     \xE3o, das 21h \xE0s 4h"
@@ -61,16 +70,6 @@
   path: https://investnews.com.br/financas/nasdaq-segunda-maior-bolsa-dos-estados-unidos-pede-autorizacao-para-operar-23-horas-por-dia/
   title: "Nasdaq, segunda maior bolsa dos Estados Unidos, pede autoriza\xE7\xE3o para\
     \ operar 23 horas por dia"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2025-12-15T19:00:51+00:00'
-  description: "Publica\xE7\xE3o da tabela oficial permite que propriet\xE1rios consultem\
-    \ o valor venal de seus ve\xEDculos e j\xE1 se preparem para o c\xE1lculo do IPVA\
-    \ 2026 SP"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ipva-2026-sp-valores-venais/
-  title: "IPVA 2026 SP: Sefaz divulga valores venais que servir\xE3o de base para\
-    \ c\xE1lculo do imposto; confira"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-12-12T06:35:24+00:00'
