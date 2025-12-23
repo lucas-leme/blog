@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-23T14:50:52.297772'
+  date: '2025-12-23T15:50:01.555348'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-23T14:50:52.295995'
+  date: '2025-12-23T15:50:01.553631'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-23T14:50:52.295991'
+  date: '2025-12-23T15:50:01.553627'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-23T14:50:52.295986'
+  date: '2025-12-23T15:50:01.553622'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-23T14:50:52.295976'
+  date: '2025-12-23T15:50:01.553613'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -409,8 +409,21 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id004
+  categories: &id001
   - CFA
+  date: '2025-12-23T15:32:53+00:00'
+  description: '<p>The best investors read widely about people, systems, bias, and
+    failure because investing is more than numbers.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/23/what-successful-investors-read-book-recommendations-from-professionals/">What
+    Successful Investors Read: Book Recommendations from Professionals</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2025/12/23/what-successful-investors-read-book-recommendations-from-professionals/
+  title: 'What Successful Investors Read: Book Recommendations from Professionals'
+- author: CFA Institute Enterprising Investor
+  categories: *id001
   date: '2025-12-23T14:28:20+00:00'
   description: '<p>Major financial institutions are advancing blockchain-based settlement,
     signaling gradual but meaningful change in market infrastructure.</p>
@@ -441,7 +454,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/12/tariffs-trade-and-tumbling-credit-scores-the-top-5-lse-posts-of-2025/
   title: 'Tariffs, Trade, and Tumbling Credit Scores: The Top 5 LSE Posts of 2025'
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2025-12-23T00:51:58+00:00'
@@ -465,7 +478,7 @@
   path: https://www.youtube.com/watch?v=v-sCZN3FbR0
   title: Every Mistake I Made in 2025
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2025-12-22T12:34:03+00:00'
   description: "<p>O impasse em torno do acordo entre a Uni\xE3o Europeia e o Mercosul\
@@ -481,7 +494,7 @@
   path: https://braziljournal.com/opiniao-o-custo-de-persistir-no-fechamento-da-economia/
   title: "OPINI\xC3O. O custo de persistir no fechamento da economia"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2025-12-22T12:31:32+00:00'
   description: "<p>Com as canetas emagrecedoras, perder os quilinhos a mais ficou\
     \ f\xE1cil \u2013 o duro, para muitas pessoas, \xE9 o medo de voltar ao peso original.\
@@ -495,7 +508,7 @@
   path: https://braziljournal.com/depois-da-caneta-vem-ai-a-pilula/
   title: "Depois da caneta, vem a\xED a p\xEDlula"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2025-12-21T00:00:00+00:00'
   description: "Garanta o seu cart\xE3o BTG com IOF zero em compras internacionais:\
@@ -576,14 +589,14 @@
   title: U.S. Wages Still Rising Briskly, Employment Holding Up, and Inflation Still
     Sticky (Probably)
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2025-12-18T22:39:54+00:00'
   description: ''
   image: https://i3.ytimg.com/vi/NC1nzXq6Rh4/hqdefault.jpg
   path: https://www.youtube.com/shorts/NC1nzXq6Rh4
   title: PROOF the Trifold is Awesome!
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2025-12-18T00:00:00+00:00'
   description: "Garanta o seu cart\xE3o BTG com IOF zero em compras internacionais:\
     \ https://conteudo.btgpactual.com/iof-zeroutm_channel=parceiros&amp;utm_medium=partners&amp;utm_source=market-makers&amp;utm_campaign=PAR_AWN_BUBANK_iof-zero-speech-mmks_202509&amp;utm_content=qr-code&amp;utm_term=20250909Conhe\xE7\
@@ -637,19 +650,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a69902338bc8d0c42b8aaa97e
   path: https://open.spotify.com/episode/4Q0nD29NL9ov8wO7UNSfHe
   title: 'Money Trivia: our annual Christmas quiz'
-- author: CFA Institute Enterprising Investor
-  categories: *id004
-  date: '2025-12-17T14:34:20+00:00'
-  description: '<p>Momentum investing endures but smart construction, signal diversification,
-    and risk management are essential for capturing its alpha.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/17/momentum-investing-a-stronger-more-resilient-framework-for-long-term-allocators/">Momentum
-    Investing: A Stronger, More Resilient Framework for Long-Term Allocators</a> appeared
-    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/17/momentum-investing-a-stronger-more-resilient-framework-for-long-term-allocators/
-  title: 'Momentum Investing: A Stronger, More Resilient Framework for Long-Term Allocators'
 - author: The View From Apollo
   categories:
   - Podcasts
