@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-23T19:06:50+00:00'
+  description: "Empresas e investidores na Argentina est\xE3o recorrendo a t\xEDtulos\
+    \ de d\xEDvida para contornar controles cambiais de Javier Milei"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/argentina-empresas-investidores-cambio/
+  title: "Na Argentina, investidores e empresas driblam controle cambial com t\xED\
+    tulos de curto prazo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Principais BCs do mundo realizam em 2025 maior corte nos juros em mais de\
     \ uma d\xE9cada"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-22T16:42:44+00:00'
   description: "Participantes do mercado agora veem um risco de interrup\xE7\xE3o\
     \ das exporta\xE7\xF5es de petr\xF3leo venezuelano por causa do embargo americano"
@@ -53,14 +62,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1psr21k/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-21T12:26:27+00:00'
-  description: "Bloco sul-americano amplia negocia\xE7\xF5es ap\xF3s mais de duas\
-    \ d\xE9cadas de espera pelo pacto com a UE"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/impasse-com-a-europa-empurra-mercosul-para-outros-acordos-globais/
-  title: Impasse com a Europa empurra Mercosul para outros acordos globais
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-12-16T16:34:55+00:00'
