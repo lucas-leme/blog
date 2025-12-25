@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2025-12-25T15:24:35+00:00'
+  description: "Apesar de acordo entre China e Trump, compradores americanos relatam\
+    \ restri\xE7\xF5es"
+  image: https://media.investnews.com.br/uploads/2025/07/minerios_terras-raras_2.jpg
+  path: https://investnews.com.br/economia/terras-raras-eua-china-restricoes-compra/
+  title: Setor de tecnologia dos EUA ainda sofre com falta de insumos chineses de
+    terras raras
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1pv5rmg/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-23T19:06:50+00:00'
   description: "Empresas e investidores na Argentina est\xE3o recorrendo a t\xEDtulos\
     \ de d\xEDvida para contornar controles cambiais de Javier Milei"
@@ -57,15 +66,6 @@
   path: https://investnews.com.br/financas/principais-bcs-do-mundo-realizam-em-2025-maior-corte-nos-juros-em-mais-de-uma-decada/
   title: "Principais BCs do mundo realizam em 2025 maior corte nos juros em mais de\
     \ uma d\xE9cada"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-22T16:42:44+00:00'
-  description: "Participantes do mercado agora veem um risco de interrup\xE7\xE3o\
-    \ das exporta\xE7\xF5es de petr\xF3leo venezuelano por causa do embargo americano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petroleo-eua-venezuela-precos/
-  title: "Petr\xF3leo sobe \xE0 medida que EUA intensificam a\xE7\xF5es contra navios-tanque\
-    \ da Venezuela"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-12-16T16:34:55+00:00'
