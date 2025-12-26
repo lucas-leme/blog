@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2025-12-26T14:49:44.679425'
+  date: '2025-12-26T15:49:12.813269'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-26T14:49:44.677899'
+  date: '2025-12-26T15:49:12.811739'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-26T14:49:44.677895'
+  date: '2025-12-26T15:49:12.811735'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-26T14:49:44.677890'
+  date: '2025-12-26T15:49:12.811731'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2025-12-26T14:49:44.677881'
+  date: '2025-12-26T15:49:12.811720'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,8 +408,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: Marques Brownlee
   categories: &id002
+  - Tech
+  - Youtube
+  date: '2025-12-26T15:00:12+00:00'
+  description: "I shrunk myself down to explore the scale of transistors.\n\nWatch\
+    \ the companion video from @EpicSpaceman \n\nMKBHD Merch: http://shop.MKBHD.com\n\
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
+    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i3.ytimg.com/vi/Jh9pFp1oM7E/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Jh9pFp1oM7E
+  title: I shrunk down into an M5 chip
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
   - Economia
   date: '2025-12-23T17:01:46+00:00'
   description: "<p>O Governo Trump est\xE1 fazendo um recall de quase 30 diplomatas,\
@@ -470,9 +482,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2025/12/tariffs-trade-and-tumbling-credit-scores-the-top-5-lse-posts-of-2025/
   title: 'Tariffs, Trade, and Tumbling Credit Scores: The Top 5 LSE Posts of 2025'
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2025-12-23T00:51:58+00:00'
   description: 'I miss annotations.
 
@@ -510,7 +520,7 @@
   path: https://open.spotify.com/episode/1vTcNjI6W5qvmt7Hx2QcUA
   title: "#178 - Invista offshore e conhe\xE7a as tend\xEAncias da PIMCO"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2025-12-22T12:34:03+00:00'
   description: "<p>O impasse em torno do acordo entre a Uni\xE3o Europeia e o Mercosul\
     \ reacendeu, no Brasil, um debate que nunca foi plenamente resolvido: o papel\
@@ -605,13 +615,6 @@
   path: https://theovershoot.co/p/us-wages-still-rising-briskly-employment
   title: U.S. Wages Still Rising Briskly, Employment Holding Up, and Inflation Still
     Sticky (Probably)
-- author: Marques Brownlee
-  categories: *id003
-  date: '2025-12-18T22:39:54+00:00'
-  description: ''
-  image: https://i3.ytimg.com/vi/NC1nzXq6Rh4/hqdefault.jpg
-  path: https://www.youtube.com/shorts/NC1nzXq6Rh4
-  title: PROOF the Trifold is Awesome!
 - author: Market Makers
   categories: *id004
   date: '2025-12-18T00:00:00+00:00'
