@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-02T11:59:16+00:00'
+  description: "Limites \xE0 produ\xE7\xE3o na China e custos elevados de energia\
+    \ na Europa reduzem estoques e elevam os pre\xE7os"
+  image: https://media.investnews.com.br/uploads/2025/10/aluminio-2-GettyImages-255568-001.jpg
+  path: https://investnews.com.br/economia/aluminio-supera-us-3-000-por-tonelada-chega-ao-maior-valor-dos-ultimos-tres-anos/
+  title: "Alum\xEDnio supera US$ 3.000 por tonelada chega ao maior valor dos \xFA\
+    ltimos tr\xEAs anos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1q0w7yk/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2025-12-31T12:20:08+00:00'
   description: "As cotas entrar\xE3o em vigor a partir de 1\xBA de janeiro, ap\xF3\
     s autoridades chinesas constatarem que o aumento das importa\xE7\xF5es vinha prejudicando\
@@ -47,16 +56,6 @@
   image: https://media.investnews.com.br/uploads/2024/10/carne-boi-bovina-GettyImages-1285894405.webp
   path: https://investnews.com.br/economia/china-anuncia-tarifa-de-55-para-importacao-de-carne-bovina-brasileira/
   title: "China anuncia tarifa de 55% para importa\xE7\xE3o de carne bovina brasileira"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-30T17:38:01+00:00'
-  description: "Programa de anistia fiscal trouxe mais de US$ 20 bilh\xF5es ao sistema\
-    \ financeiro e colocar\xE1 \xE0 prova, a partir de 2026, a confian\xE7a dos argentinos\
-    \ no governo Milei e nos bancos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/o-desafio-de-milei-convencer-argentinos-a-confiar-novamente-no-sistema-financeiro/
-  title: 'O desafio de Milei: convencer argentinos a confiar novamente no sistema
-    financeiro'
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
