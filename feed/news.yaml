@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-03T12:22:00+00:00'
+  description: "Pam Bondi, procuradora-geral dos EUA, diz que Maduro logo sentir\xE1\
+    \ a \"f\xFAria\" da Justi\xE7a americana"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-atacam-venezuela-e-trump-afirma-ter-capturado-maduro/
+  title: "EUA capturam Maduro ap\xF3s ataque \xE0 Venezuela. Ditador ser\xE1 julgado\
+    \ em Nova York"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Isen\xE7\xE3o do IR entra em vigor: veja quem paga menos e quanto sobra\
     \ no bolso"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-02T11:59:16+00:00'
   description: "Limites \xE0 produ\xE7\xE3o na China e custos elevados de energia\
     \ na Europa reduzem estoques e elevam os pre\xE7os"
@@ -57,15 +66,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1q0w7yk/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2025-12-31T12:20:08+00:00'
-  description: "As cotas entrar\xE3o em vigor a partir de 1\xBA de janeiro, ap\xF3\
-    s autoridades chinesas constatarem que o aumento das importa\xE7\xF5es vinha prejudicando\
-    \ a ind\xFAstria dom\xE9stica"
-  image: https://media.investnews.com.br/uploads/2024/10/carne-boi-bovina-GettyImages-1285894405.webp
-  path: https://investnews.com.br/economia/china-anuncia-tarifa-de-55-para-importacao-de-carne-bovina-brasileira/
-  title: "China anuncia tarifa de 55% para importa\xE7\xE3o de carne bovina brasileira"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2025-12-29T18:51:35+00:00'
