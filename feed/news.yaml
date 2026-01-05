@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-05T11:39:10+00:00'
+  description: "Investidores ponderam impacto geopol\xEDtico da captura de Nicol\xE1\
+    s Maduro pelos EUA em um mercado ainda marcado por oferta abundante"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/petroleo-opera-estavel-com-investidores-avaliando-crise-na-venezuela/
+  title: "Petr\xF3leo opera est\xE1vel com investidores avaliando crise na Venezuela"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1q4co4e/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-04T21:00:24+00:00'
   description: "Secret\xE1rio de Estado dos EUA afirmou que o pa\xEDs aplicar\xE1\
     \ uma \"quarentena\" da commodity para obter concess\xF5es da lideran\xE7a venezuelana"
@@ -43,15 +51,6 @@
   path: https://investnews.com.br/economia/embargo-ao-petroleo-moeda-de-troca/
   title: "EUA imp\xF5em exig\xEAncias \xE0 Venezuela \u2013 e o embargo ao petr\xF3\
     leo \xE9 a moeda de troca"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-04T17:55:55+00:00'
-  description: Mercado global deve absorver primeiro choque, enquanto especialistas
-    buscam entender efeitos para a cadeia global da commodity
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/impactos-para-os-precos-do-petroleo-venezuela/
-  title: "Efeito domin\xF3 ou solu\xE7o? Os impactos para os pre\xE7os do petr\xF3\
-    leo ap\xF3s os ataques \xE0 Venezuela"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
