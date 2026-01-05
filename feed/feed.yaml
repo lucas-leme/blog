@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-05T12:16:21.998691'
+  date: '2026-01-05T12:32:59.554554'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-05T12:16:21.996952'
+  date: '2026-01-05T12:32:59.553030'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-05T12:16:21.996948'
+  date: '2026-01-05T12:32:59.553027'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-05T12:16:21.996944'
+  date: '2026-01-05T12:32:59.553023'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-05T12:16:21.996934'
+  date: '2026-01-05T12:32:59.553012'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,6 +408,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id003
+  - CFA
+  date: '2026-01-05T12:16:02+00:00'
+  description: '<p>GenAI is transforming investment workflows, raising critical questions
+    about human judgment, task design, and the future of the profession.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/05/ai-in-finance-changing-workflows-growing-demand-for-human-judgment/">AI
+    in Finance: Changing Workflows, Growing Demand for Human Judgment</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/05/ai-in-finance-changing-workflows-growing-demand-for-human-judgment/
+  title: 'AI in Finance: Changing Workflows, Growing Demand for Human Judgment'
 - author: Market Makers
   categories: &id002
   - Podcasts
@@ -564,8 +578,7 @@
   path: https://open.spotify.com/episode/48NtBxkIU0WWnws6YLhnap
   title: 'Poverty of notions: is Adam Smith overrated?'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id003
   date: '2025-12-30T13:00:00+00:00'
   description: '<p>The Enterprising Investor blogs that resonated most with readers
     in 2025 were those that used historical evidence to illuminate present-day dynamics.</p>
@@ -577,18 +590,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2025/12/30/top-10-blogs-of-2025-insights-on-market-cycles-and-financial-history/
   title: 'Top 10 Blogs of 2025: Insights on Market Cycles and Financial History'
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2025-12-29T13:00:00+00:00'
-  description: '<p>These popular publications from CFA Institute Research and Policy
-    Center offer practical insight for leaders shaping investment decisions.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2025/12/29/research-and-policy-center-top-10-publications-from-2025/">Research
-    and Policy Center Top 10 Publications from 2025</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2025/12/29/research-and-policy-center-top-10-publications-from-2025/
-  title: Research and Policy Center Top 10 Publications from 2025
 - author: Flirting with Models
   categories:
   - Podcasts
