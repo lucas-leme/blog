@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id008
+  categories: &id001
   - CFA
   date: '2026-01-14T12:00:00+00:00'
   description: ''
@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-06T18:32:27.335956'
+  date: '2026-01-06T20:31:25.263462'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-06T18:32:27.334226'
+  date: '2026-01-06T20:31:25.261940'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-06T18:32:27.334215'
+  date: '2026-01-06T20:31:25.261936'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-06T18:32:27.334211'
+  date: '2026-01-06T20:31:25.261921'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-06T18:32:27.334200'
+  date: '2026-01-06T20:31:25.261911'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -418,8 +418,15 @@
   image: https://substackcdn.com/image/fetch/$s_!rpND!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F392cc901-bb80-4418-8b8c-fc1c0386129a_2886x1843.png
   path: https://www.apricitas.io/p/america-is-losing-blue-collar-jobs
   title: America is Losing Blue Collar Jobs
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-01-06T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/proposed-ammendments-sasb-standards-ifrs-s2-guidelines
+  title: Proposed Amendments to SASB Standards and IFRS S2 Guidance
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-01-05T21:29:28+00:00'
   description: "<p>Um ano atr\xE1s, em seu tradicional relat\xF3rio de maiores riscos\
@@ -435,7 +442,7 @@
   path: https://braziljournal.com/os-grandes-riscos-de-2026-segundo-a-eurasia-e-de-arrancar-os-cabelos/
   title: "Os grandes riscos de 2026, segundo a Eurasia.\_(\xC9 de arrancar os cabelos)"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2026-01-05T12:16:02+00:00'
   description: '<p>GenAI is transforming investment workflows, raising critical questions
@@ -469,7 +476,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/which-entrepreneurs-boost-productivity/
   title: Which Entrepreneurs Boost Productivity?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-01-04T00:00:00+00:00'
   description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthO\
@@ -507,7 +514,7 @@
   path: https://open.spotify.com/episode/0DmSs8bJwhH4HwXDbMHXsb
   title: "#306 | A VERDADE POR TR\xC1S DO ATRASO ECON\xD4MICO BRASILEIRO"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-01-03T23:06:26+00:00'
   description: "<p>A interven\xE7\xE3o americana na Venezuela deu \xE0 esquerda brasileira\
     \ a chance de se manter coerente com a sua incoer\xEAncia. Hugo Ch\xE1vez governou\
@@ -522,7 +529,7 @@
   path: https://braziljournal.com/editorial-um-grande-dia-para-a-venezuela-nem-tanto-para-o-brasil/
   title: EDITORIAL. Um grande dia para a Venezuela. Nem tanto para o Brasil
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -544,7 +551,7 @@
   path: https://www.youtube.com/watch?v=b6RnBKvQ40o
   title: I Made a Classic Refactoring Mistake
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-01-01T00:00:00+00:00'
   description: "Conhe\xE7a a Credi Guide: https://creditguide.com.br/?utm_source=Market+Markers&amp;utm_medium=videoO\
     \ mercado j\xE1 percebeu que a chance do Lula ganhar aumentou \u2013 e a direita\
@@ -607,7 +614,7 @@
   path: https://open.spotify.com/episode/48NtBxkIU0WWnws6YLhnap
   title: 'Poverty of notions: is Adam Smith overrated?'
 - author: CFA Institute Enterprising Investor
-  categories: *id003
+  categories: *id004
   date: '2025-12-30T13:00:00+00:00'
   description: '<p>The Enterprising Investor blogs that resonated most with readers
     in 2025 were those that used historical evidence to illuminate present-day dynamics.</p>
@@ -647,7 +654,7 @@
   path: https://open.spotify.com/episode/4JH3bugCCu3A82A4FAXudk
   title: "Annanay Kapila \u2013\_Perpetual Futures Everywhere and All the Time (S7E24)"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2025-12-26T16:00:25+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nYour code works locally: you\u2019ve tested the endpoint, the numbers add up,\
@@ -671,7 +678,7 @@
   path: https://www.youtube.com/watch?v=GMBiCMsEsq8
   title: How to Tell If Your Code Is Actually Production-Ready
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2025-12-26T15:00:12+00:00'
@@ -683,7 +690,7 @@
   path: https://www.youtube.com/watch?v=Jh9pFp1oM7E
   title: I shrunk down into an M5 chip
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2025-12-23T00:51:58+00:00'
   description: 'I miss annotations.
 
@@ -705,7 +712,7 @@
   path: https://www.youtube.com/watch?v=v-sCZN3FbR0
   title: Every Mistake I Made in 2025
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2025-12-23T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 178 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -721,7 +728,7 @@
   path: https://open.spotify.com/episode/1vTcNjI6W5qvmt7Hx2QcUA
   title: "#178 - Invista offshore e conhe\xE7a as tend\xEAncias da PIMCO"
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2025-12-19T08:43:28+00:00'
@@ -746,7 +753,7 @@
   path: https://open.spotify.com/episode/5igekgXgEZIj9x64jGkSbK
   title: '2026 Outlook: Resilience Meets Momentum'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2025-12-16T00:00:00+00:00'
   description: "Aten\xE7\xE3o: esta vers\xE3o do epis\xF3dio do Outliers InfoMoney\
     \ com Jeff Mueller, do Morgan Stanley, \xE9 dublada, com as respostas do executivo\
@@ -764,7 +771,7 @@
   path: https://open.spotify.com/episode/3QDiLwiVcCQU1mnJBWGlXK
   title: "[PT-BR] #177 - As apostas do Morgan Stanley para o pr\xF3ximo ciclo global"
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2025-12-12T23:26:44+00:00'
   description: America's central bankers have, in the aggregate, lowered the "appropriate"
     path for interest rates despite an improved growth outlook and a worsening inflation
@@ -772,13 +779,6 @@
   image: https://substackcdn.com/image/fetch/$s_!HKg2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94ce845f-db08-450c-87da-7e09684ef27c_3205x2955.png
   path: https://theovershoot.co/p/the-fed-submits
   title: The Fed Submits?
-- author: CFA Institute Research and Policy Center
-  categories: *id008
-  date: '2025-12-04T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/consultation-uk-fca-cp25-28-part-1
-  title: "Consultation Response to UK FCA CP25/28 \u2013 Part I"
 - author: Apricitas Economics
   categories: *id009
   date: '2025-12-02T13:15:47+00:00'
