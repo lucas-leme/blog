@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-07T18:13:40+00:00'
+  description: "Secret\xE1rio de Estado americano afirmou a parlamentares que objetivo\
+    \ \xE9 negociar com a Dinamarca, relata o Wall Street Journal"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/invadir-para-que-estados-unidos-querem-comprar-a-groenlandia-diz-rubio/
+  title: "Invadir para qu\xEA? Estados Unidos querem comprar a Groenl\xE2ndia, diz\
+    \ Rubio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   title: "Aposentadoria INSS 2026: idade m\xEDnima muda neste ano; veja como acessar\
     \ benef\xEDcio"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-05T11:39:10+00:00'
   description: "Investidores ponderam impacto geopol\xEDtico da captura de Nicol\xE1\
     s Maduro pelos EUA em um mercado ainda marcado por oferta abundante"
@@ -62,15 +71,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1q4co4e/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-04T21:00:24+00:00'
-  description: "Secret\xE1rio de Estado dos EUA afirmou que o pa\xEDs aplicar\xE1\
-    \ uma \"quarentena\" da commodity para obter concess\xF5es da lideran\xE7a venezuelana"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/embargo-ao-petroleo-moeda-de-troca/
-  title: "EUA imp\xF5em exig\xEAncias \xE0 Venezuela \u2013 e o embargo ao petr\xF3\
-    leo \xE9 a moeda de troca"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2025-12-12T06:35:24+00:00'
