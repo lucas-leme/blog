@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-07T11:28:26.910380'
+  date: '2026-01-07T12:16:16.493406'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-07T11:28:26.908619'
+  date: '2026-01-07T12:16:16.491667'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-07T11:28:26.908616'
+  date: '2026-01-07T12:16:16.491664'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-07T11:28:26.908611'
+  date: '2026-01-07T12:16:16.491659'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-07T11:28:26.908602'
+  date: '2026-01-07T12:16:16.491650'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,6 +408,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-01-07T11:37:54+00:00'
+  description: "<p>\u201CPara todo problema complexo existe sempre uma solu\xE7\xE3\
+    o simples, elegante e completamente errada,\u201D ensinou Henry Louis Mencken.\
+    \ No apagar das luzes de 2025, enquanto empresas e investidores ainda digeriam\
+    \ os impactos da recente aprova\xE7\xE3o da tributa\xE7\xE3o dos dividendos, o\
+    \ Executivo e o Congresso Nacional fustigaram novamente o pagador de impostos\
+    \ com mais uma medida que [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/no-apagar-das-luzes-um-corte-de-beneficios-fiscais-que-ninguem-viu-chegar/\"\
+    \ rel=\"nofollow\">No apagar das luzes, um corte de \u2018benef\xEDcios fiscais\u2019\
+    \ que ningu\xE9m viu chegar</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-apagar-das-luzes-um-corte-de-beneficios-fiscais-que-ninguem-viu-chegar/
+  title: "No apagar das luzes, um corte de \u2018benef\xEDcios fiscais\u2019 que ningu\xE9\
+    m viu chegar"
 - author: Apricitas Economics
   categories: &id009
   - Macro
@@ -426,7 +443,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/proposed-ammendments-sasb-standards-ifrs-s2-guidelines
   title: Proposed Amendments to SASB Standards and IFRS S2 Guidance
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-01-06T00:00:00+00:00'
   description: "Os Estados Unidos podem invadir a Venezuela em nome da democracia\
@@ -463,8 +480,7 @@
   path: https://open.spotify.com/episode/3Ge0FKPiphDr9saECv5har
   title: "#307 | EUA x VENEZUELA: ATAQUE \xC0 SOBERANIA OU LIBERTA\xC7\xC3O?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-01-05T21:29:28+00:00'
   description: "<p>Um ano atr\xE1s, em seu tradicional relat\xF3rio de maiores riscos\
     \ globais, a Eurasia previu a volta da lei da selva nas rela\xE7\xF5es internacionais.\
@@ -513,7 +529,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/which-entrepreneurs-boost-productivity/
   title: Which Entrepreneurs Boost Productivity?
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-01-04T00:00:00+00:00'
   description: "Acesse a plataforma da Binance aqui: https://www.binance.com/pt-BR/wealthO\
     \ Brasil est\xE1 crescendo de verdade ou apenas \u201Cqueimando o tanque de combust\xED\
@@ -549,21 +565,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8d7a8e030718bd70a24e91cd
   path: https://open.spotify.com/episode/0DmSs8bJwhH4HwXDbMHXsb
   title: "#306 | A VERDADE POR TR\xC1S DO ATRASO ECON\xD4MICO BRASILEIRO"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-01-03T23:06:26+00:00'
-  description: "<p>A interven\xE7\xE3o americana na Venezuela deu \xE0 esquerda brasileira\
-    \ a chance de se manter coerente com a sua incoer\xEAncia. Hugo Ch\xE1vez governou\
-    \ a Venezuela por 14 anos, desde sua elei\xE7\xE3o em 1998 at\xE9 sua morte em\
-    \ mar\xE7o de 2013. Nicol\xE1s Maduro mandou por outros 13 anos. Um mesmo grupo\
-    \ pol\xEDtico evitou a altern\xE2ncia de poder [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/editorial-um-grande-dia-para-a-venezuela-nem-tanto-para-o-brasil/\"\
-    \ rel=\"nofollow\">EDITORIAL. Um grande dia para a Venezuela. Nem tanto para o\
-    \ Brasil</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/editorial-um-grande-dia-para-a-venezuela-nem-tanto-para-o-brasil/
-  title: EDITORIAL. Um grande dia para a Venezuela. Nem tanto para o Brasil
 - author: ArjanCodes
   categories: &id005
   - Tech
