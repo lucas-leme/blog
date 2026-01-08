@@ -1,6 +1,14 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-01-08T00:26:25+00:00'
+  description: "Em ano marcado por tarifa\xE7o, exporta\xE7\xF5es batem recorde; caf\xE9\
+    \ e carne ganham protagonismo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/balanca-comercial-2025/
+  title: "Raio-X: os maiores destaques da balan\xE7a comercial em 2025"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-01-07T18:13:40+00:00'
   description: "Secret\xE1rio de Estado americano afirmou a parlamentares que objetivo\
     \ \xE9 negociar com a Dinamarca, relata o Wall Street Journal"
@@ -9,7 +17,7 @@
   title: "Invadir para qu\xEA? Estados Unidos querem comprar a Groenl\xE2ndia, diz\
     \ Rubio"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-01-06T18:44:54+00:00'
   description: "Confira faixas e al\xEDquotas das novas tabelas do Imposto de Renda\
@@ -19,7 +27,7 @@
   title: "Imposto de Renda 2026: novas regras j\xE1 est\xE3o em vigor, mas efeito\
     \ no sal\xE1rio come\xE7a em fevereiro"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-01-05T18:02:25+00:00'
   description: "As regras de transi\xE7\xE3o da Reforma da Previd\xEAncia continuar\xE3\
     o ajustando requisitos como idade m\xEDnima, tempo de contribui\xE7\xE3o e pontua\xE7\
@@ -28,14 +36,6 @@
   path: https://investnews.com.br/financas/aposentadoria-inss-2026/
   title: "Aposentadoria INSS 2026: idade m\xEDnima muda neste ano; veja como acessar\
     \ benef\xEDcio"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-05T11:39:10+00:00'
-  description: "Investidores ponderam impacto geopol\xEDtico da captura de Nicol\xE1\
-    s Maduro pelos EUA em um mercado ainda marcado por oferta abundante"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petroleo-opera-estavel-com-investidores-avaliando-crise-na-venezuela/
-  title: "Petr\xF3leo opera est\xE1vel com investidores avaliando crise na Venezuela"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
