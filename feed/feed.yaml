@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-01-14T12:00:00+00:00'
   description: ''
@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-08T14:53:24.182061'
+  date: '2026-01-08T15:52:29.001114'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-08T14:53:24.180324'
+  date: '2026-01-08T15:52:28.999390'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-08T14:53:24.180321'
+  date: '2026-01-08T15:52:28.999386'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-08T14:53:24.180316'
+  date: '2026-01-08T15:52:28.999381'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-08T14:53:24.180307'
+  date: '2026-01-08T15:52:28.999370'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -409,8 +409,21 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
 - author: CFA Institute Enterprising Investor
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2026-01-08T14:44:57+00:00'
+  description: "<p>Earnings and stock prices move together long term, but shifts in\
+    \ their correlation offer little value for predicting future market returns.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/01/08/what-earnings-explain-and-what-they-dont-insights-from-150-years-of-market-data/\"\
+    >What Earnings Explain, and What They Don\u2019t: Insights from 150 Years of Market\
+    \ Data</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
+    >CFA Institute Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/08/what-earnings-explain-and-what-they-dont-insights-from-150-years-of-market-data/
+  title: "What Earnings Explain, and What They Don\u2019t: Insights from 150 Years\
+    \ of Market Data"
+- author: CFA Institute Enterprising Investor
+  categories: *id001
   date: '2026-01-07T12:33:11+00:00'
   description: '<p>Private markets increasingly resemble a speculative supply chain,
     where rational actors and aligned incentives quietly compound systemic risk.</p>
@@ -445,7 +458,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/what-is-a-carbon-tariff-and-why-is-the-eu-imposing-one/
   title: What Is a Carbon Tariff and Why Is the EU Imposing One?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-01-07T11:37:54+00:00'
   description: "<p>\u201CPara todo problema complexo existe sempre uma solu\xE7\xE3\
@@ -472,7 +485,7 @@
   path: https://www.apricitas.io/p/america-is-losing-blue-collar-jobs
   title: America is Losing Blue Collar Jobs
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-01-06T12:00:00+00:00'
   description: ''
   image: null
@@ -516,7 +529,7 @@
   path: https://open.spotify.com/episode/3Ge0FKPiphDr9saECv5har
   title: "#307 | EUA x VENEZUELA: ATAQUE \xC0 SOBERANIA OU LIBERTA\xC7\xC3O?"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2026-01-05T21:29:28+00:00'
   description: "<p>Um ano atr\xE1s, em seu tradicional relat\xF3rio de maiores riscos\
     \ globais, a Eurasia previu a volta da lei da selva nas rela\xE7\xF5es internacionais.\
@@ -530,19 +543,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/os-grandes-riscos-de-2026-segundo-a-eurasia-e-de-arrancar-os-cabelos/
   title: "Os grandes riscos de 2026, segundo a Eurasia.\_(\xC9 de arrancar os cabelos)"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2026-01-05T12:16:02+00:00'
-  description: '<p>GenAI is transforming investment workflows, raising critical questions
-    about human judgment, task design, and the future of the profession.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/05/ai-in-finance-changing-workflows-growing-demand-for-human-judgment/">AI
-    in Finance: Changing Workflows, Growing Demand for Human Judgment</a> appeared
-    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/05/ai-in-finance-changing-workflows-growing-demand-for-human-judgment/
-  title: 'AI in Finance: Changing Workflows, Growing Demand for Human Judgment'
 - author: Market Makers
   categories: *id004
   date: '2026-01-04T00:00:00+00:00'
