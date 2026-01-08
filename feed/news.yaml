@@ -1,3 +1,15 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-08T16:22:58+00:00'
+  description: "A corrida pela intelig\xEAncia artificial e o aumento dos gastos com\
+    \ defesa devem intensificar a escassez projetada de cobre, conforme os produtores\
+    \ enfrentam dificuldades para expandir a oferta, de acordo com um novo estudo\
+    \ da S&#38;P Global. O crescimento da demanda est\xE1 acelerando justamente quando\
+    \ a oferta das minas enfrenta limites estruturais, elevando o risco [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/falta-de-cobre-deve-se-agravar-com-ia-defesa-e-robos-diz-sp/
+  title: "Falta de cobre deve se agravar com IA, defesa e rob\xF4s, diz S&P"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +21,7 @@
   title: "Imposto de Renda: veja tabelas atualizadas para 2026 e 2027 com a faixa\
     \ de isen\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-08T11:49:09+00:00'
   description: "O retorno dos barris venezuelanos aos compradores dos EUA pode marcar\
     \ uma das mudan\xE7as mais significativas nos mercados globais de energia nos\
@@ -19,15 +30,6 @@
   path: https://investnews.com.br/economia/eua-assumem-controle-de-50-milhoes-de-barris-venezuelanos-e-provocam-corrida-no-mercado-de-petroleo/
   title: "EUA assumem controle de 50 milh\xF5es de barris venezuelanos e provocam\
     \ corrida no mercado de petr\xF3leo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-08T09:00:00+00:00'
-  description: "Estrangeiros podem alocar mais de US$ 500 bilh\xF5es por l\xE1 nos\
-    \ pr\xF3ximos cinco anos \u2013 e o Brasil tamb\xE9m est\xE1 nessa corrida"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ouro-gas-e-petroleo-as-riquezas-da-venezuela-sob-controle-dos-eua-e-a-ruptura-com-a-china/
-  title: "Petr\xF3leo, g\xE1s e mais: dinheiro grande j\xE1 se mexe em busca de oportunidades\
-    \ na \u2018nova Venezuela\u2019"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
