@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-01-14T12:00:00+00:00'
   description: ''
@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-09T14:52:06.102390'
+  date: '2026-01-09T15:50:49.061247'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T14:52:06.100659'
+  date: '2026-01-09T15:50:49.059493'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T14:52:06.100655'
+  date: '2026-01-09T15:50:49.059489'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T14:52:06.100651'
+  date: '2026-01-09T15:50:49.059484'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T14:52:06.100641'
+  date: '2026-01-09T15:50:49.059474'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,6 +408,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-01-09T15:46:24+00:00'
+  description: "<p>O aiatol\xE1 Ali Khamenei, o l\xEDder supremo do Ir\xE3, condenou\
+    \ hoje os protestos no pa\xEDs, afirmando que eles trabalham em benef\xEDcio dos\
+    \ EUA. \u201CH\xE1 pessoas cujo trabalho \xE9 a destrui\xE7\xE3o,\u201D disse\
+    \ Khamenei em um discurso transmitido pela TV estatal enquanto seus apoiadores\
+    \ entoavam \u201CMorte aos Estados Unidos\u201D e \u201CMorte a Israel,\u201D\
+    \ em cenas divulgadas pelo [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/ira-decide-nas-ruas-o-futuro-dos-aiatolas-agora-vai/\"\
+    \ rel=\"nofollow\">Ir\xE3 decide nas ruas o futuro dos aiatol\xE1s. Agora vai?</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/ira-decide-nas-ruas-o-futuro-dos-aiatolas-agora-vai/
+  title: "Ir\xE3 decide nas ruas o futuro dos aiatol\xE1s. Agora vai?"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -440,7 +456,7 @@
   title: "What Earnings Explain, and What They Don\u2019t: Insights from 150 Years\
     \ of Market Data"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-01-08T00:00:00+00:00'
   description: "Em 3 de janeiro de 2026, os EUA capturam Nicol\xE1s Maduro \u2014\
@@ -500,8 +516,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/07/incentives-are-dangerously-aligned-in-private-markets/
   title: Incentives Are Dangerously Aligned in Private Markets
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id002
   date: '2026-01-07T11:37:54+00:00'
   description: "<p>\u201CPara todo problema complexo existe sempre uma solu\xE7\xE3\
     o simples, elegante e completamente errada,\u201D ensinou Henry Louis Mencken.\
@@ -527,14 +542,14 @@
   path: https://www.apricitas.io/p/america-is-losing-blue-collar-jobs
   title: America is Losing Blue Collar Jobs
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2026-01-06T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/proposed-ammendments-sasb-standards-ifrs-s2-guidelines
   title: Proposed Amendments to SASB Standards and IFRS S2 Guidance
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-01-06T00:00:00+00:00'
   description: "Os Estados Unidos podem invadir a Venezuela em nome da democracia\
     \ ou isso \xE9 apenas uma guerra por petr\xF3leo?No epis\xF3dio 306 do Market\
@@ -569,21 +584,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a00efe66443bb5b45535912c3
   path: https://open.spotify.com/episode/3Ge0FKPiphDr9saECv5har
   title: "#307 | EUA x VENEZUELA: ATAQUE \xC0 SOBERANIA OU LIBERTA\xC7\xC3O?"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-01-05T21:29:28+00:00'
-  description: "<p>Um ano atr\xE1s, em seu tradicional relat\xF3rio de maiores riscos\
-    \ globais, a Eurasia previu a volta da lei da selva nas rela\xE7\xF5es internacionais.\
-    \ Olhando pelo retrovisor, \xE9 dif\xEDcil discordar. O ano de \u2018salve-se\
-    \ quem puder\u2019 na geopol\xEDtica teve seu gran finale no \xFAltimo fim de\
-    \ semana, com a pris\xE3o de Nicol\xE1s Maduro e a demonstra\xE7\xE3o [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/os-grandes-riscos-de-2026-segundo-a-eurasia-e-de-arrancar-os-cabelos/\"\
-    \ rel=\"nofollow\">Os grandes riscos de 2026, segundo a Eurasia.\_(\xC9 de arrancar\
-    \ os cabelos)</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/os-grandes-riscos-de-2026-segundo-a-eurasia-e-de-arrancar-os-cabelos/
-  title: "Os grandes riscos de 2026, segundo a Eurasia.\_(\xC9 de arrancar os cabelos)"
 - author: ArjanCodes
   categories: &id005
   - Tech
