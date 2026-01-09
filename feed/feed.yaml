@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-09T15:50:49.061247'
+  date: '2026-01-09T18:32:30.961844'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T15:50:49.059493'
+  date: '2026-01-09T18:32:30.960313'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T15:50:49.059489'
+  date: '2026-01-09T18:32:30.960309'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T15:50:49.059484'
+  date: '2026-01-09T18:32:30.960305'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-09T15:50:49.059474'
+  date: '2026-01-09T18:32:30.960294'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,6 +408,26 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-01-09T16:00:14+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nAI can write code, but without\
+    \ solid software design, it quickly turns into an unmaintainable mess. In this\
+    \ video, I show why prompting alone isn\u2019t enough and how thinking in terms\
+    \ of responsibilities, structure, and design allows you to truly direct AI coding\
+    \ agents to produce better, cleaner, and more scalable code. Using a real example,\
+    \ I walk through how design reduces complexity, improves AI interactions, and\
+    \ future-proofs your work.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:20 AI Assisted Development Issues\n1:52 Fluent Interface\
+    \ Chat Walkthrough\n25:07 SDM\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/8Pi6vGRlp1c/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8Pi6vGRlp1c
+  title: The Right Way to Use AI for Writing Maintainable Code
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -585,10 +605,7 @@
   path: https://open.spotify.com/episode/3Ge0FKPiphDr9saECv5har
   title: "#307 | EUA x VENEZUELA: ATAQUE \xC0 SOBERANIA OU LIBERTA\xC7\xC3O?"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2026-01-02T16:01:05+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nIn my previous video on refactoring complicated business logic, I made several\
@@ -633,30 +650,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac8c47ecff0200734af06e4ec
   path: https://open.spotify.com/episode/4JH3bugCCu3A82A4FAXudk
   title: "Annanay Kapila \u2013\_Perpetual Futures Everywhere and All the Time (S7E24)"
-- author: ArjanCodes
-  categories: *id005
-  date: '2025-12-26T16:00:25+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nYour code works locally: you\u2019ve tested the endpoint, the numbers add up,\
-    \ and everything looks fine in the terminal. But is it really ready for production?\
-    \ In this video, I take a small FastAPI app that \u201Cjust works\u201D and walk\
-    \ you through the key steps to make it production-ready. You\u2019ll learn how\
-    \ to add validation, logging, rate limiting, configuration management, proper\
-    \ database handling, error handling, deployment with Docker, and more.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2025/production.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes\n\n\U0001F516 Chapters:\n0:00 Intro\n0:46 What Does\
-    \ Production-Ready Actually Mean?\n2:14 Step 1 \u2013 Use Proper Types (Decimal\
-    \ over float)\n3:41 Step 2 \u2013 Validate Input\n5:00 Step 3 \u2013 Extract Business\
-    \ Logic into a Service\n9:56 Step 4 \u2013 Add Persistence (and Use It in the\
-    \ Service)\n15:27 Step 5 \u2013 Add Health Check + Migrations\n16:19 Step 6 \u2013\
-    \ Defensive Programming + Error Handling\n18:10 Step 7 \u2013 Configuration Management\n\
-    19:17 Step 8 \u2013 Rate Limiting\n20:50 Step 9 \u2013 Write Tests\n22:24 Step\
-    \ 10 \u2013 Monitoring & Logging\n23:12 Step 11 \u2013 Deployment (Docker + GitHub\
-    \ Actions)\n23:58 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GMBiCMsEsq8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GMBiCMsEsq8
-  title: How to Tell If Your Code Is Actually Production-Ready
 - author: Marques Brownlee
   categories: &id006
   - Tech
