@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-12T11:30:17+00:00'
+  description: Powell, presidente do Fed, disse que pretende continuar exercendo seu
+    cargo
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/jerome-powell-diz-que-fed-foi-intimado-pela-justica/
+  title: "Jerome Powell diz que Fed foi intimado pela Justi\xE7a"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qalzkq/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-11T11:01:26+00:00'
   description: "Corrida por insumos para intelig\xEAncia artificial refor\xE7a interesse\
     \ americano por recursos estrat\xE9gicos na Am\xE9rica Latina"
@@ -43,18 +51,6 @@
   path: https://investnews.com.br/economia/minerais-venezuela-trump-maduro/
   title: "N\xE3o \xE9 s\xF3 petr\xF3leo: minerais cr\xEDticos entram no c\xE1lculo\
     \ dos EUA na queda de Maduro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-09T20:06:46+00:00'
-  description: "Depois de mais de duas d\xE9cadas de idas e vindas, a Uni\xE3o Europeia\
-    \ deu aval pol\xEDtico nesta sexta-feira (9) ao acordo de livre-com\xE9rcio com\
-    \ o Mercosul. A decis\xE3o destrava a etapa de assinatura \u2014 prevista para\
-    \ 17 de janeiro \u2014 e abre o caminho para a ratifica\xE7\xE3o no Parlamento\
-    \ Europeu e, do lado sul-americano, nos [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/acordo-mercosul-uniao-europeia-brasil/
-  title: "At\xE9 US$ 9 bilh\xF5es a mais no PIB: o impacto positivo do acordo Mercosul-UE\
-    \ para o Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
