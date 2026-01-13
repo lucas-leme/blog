@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-13T15:52:16.766791'
+  date: '2026-01-13T18:32:27.284834'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T15:52:16.765051'
+  date: '2026-01-13T18:32:27.283100'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T15:52:16.765047'
+  date: '2026-01-13T18:32:27.283096'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T15:52:16.765042'
+  date: '2026-01-13T18:32:27.283092'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T15:52:16.765032'
+  date: '2026-01-13T18:32:27.283082'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,6 +408,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-01-13T15:55:43+00:00'
+  description: "<p>Os presidentes dos principais bancos centrais do mundo e representantes\
+    \ do Bank of International Settlements \u2013 o BC dos BCs \u2013 publicaram hoje\
+    \ uma carta de apoio a Jerome Powell ante a escalada de ataques desferidos por\
+    \ Donald Trump. \u201CA independ\xEAncia dos bancos centrais \xE9 um pilar fundamental\
+    \ da estabilidade de pre\xE7os, financeira e econ\xF4mica, [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/bcs-do-mundo-se-unem-em-apoio-a-independencia-do-fed/\"\
+    \ rel=\"nofollow\">BCs do mundo se unem em apoio \xE0 independ\xEAncia do Fed\_\
+    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/bcs-do-mundo-se-unem-em-apoio-a-independencia-do-fed/
+  title: "BCs do mundo se unem em apoio \xE0 independ\xEAncia do Fed"
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -424,7 +440,7 @@
   title: Synthetic Risk Transfers Are the Talk of the Town. But Are They as Scary
     as They Look?
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-01-13T00:26:17+00:00'
@@ -494,8 +510,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/disability-in-the-labor-market-earnings/
   title: 'Disability in the Labor Market: Earnings'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-01-12T09:50:10+00:00'
   description: "<p>Ap\xF3s mais de duas d\xE9cadas de negocia\xE7\xF5es intermitentes,\
     \ o acordo comercial entre Mercosul e Uni\xE3o Europeia finalmente avan\xE7ou\
@@ -570,7 +585,7 @@
   path: https://open.spotify.com/episode/2uPcScu4yFPp7bavl7SU4y
   title: '#309 | O JEITO DE INVESTIR DE UM DOS MAIORES GANHADORES DA BOLSA EM 2025'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2026-01-09T23:21:29+00:00'
   description: "Do not buy this phone. And don\u2019t fall for their website slop.\n\
     \nMKBHD Merch: http://shop.MKBHD.com\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
@@ -598,21 +613,6 @@
   image: https://i1.ytimg.com/vi/8Pi6vGRlp1c/hqdefault.jpg
   path: https://www.youtube.com/watch?v=8Pi6vGRlp1c
   title: The Right Way to Use AI for Writing Maintainable Code
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-01-09T15:46:24+00:00'
-  description: "<p>O aiatol\xE1 Ali Khamenei, o l\xEDder supremo do Ir\xE3, condenou\
-    \ hoje os protestos no pa\xEDs, afirmando que eles trabalham em benef\xEDcio dos\
-    \ EUA. \u201CH\xE1 pessoas cujo trabalho \xE9 a destrui\xE7\xE3o,\u201D disse\
-    \ Khamenei em um discurso transmitido pela TV estatal enquanto seus apoiadores\
-    \ entoavam \u201CMorte aos Estados Unidos\u201D e \u201CMorte a Israel,\u201D\
-    \ em cenas divulgadas pelo [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/ira-decide-nas-ruas-o-futuro-dos-aiatolas-agora-vai/\"\
-    \ rel=\"nofollow\">Ir\xE3 decide nas ruas o futuro dos aiatol\xE1s. Agora vai?</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/ira-decide-nas-ruas-o-futuro-dos-aiatolas-agora-vai/
-  title: "Ir\xE3 decide nas ruas o futuro dos aiatol\xE1s. Agora vai?"
 - author: Market Makers
   categories: *id004
   date: '2026-01-08T00:00:00+00:00'
