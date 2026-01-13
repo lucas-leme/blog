@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-13T14:54:11.507410'
+  date: '2026-01-13T15:52:16.766791'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T14:54:11.505882'
+  date: '2026-01-13T15:52:16.765051'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T14:54:11.505878'
+  date: '2026-01-13T15:52:16.765047'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T14:54:11.505873'
+  date: '2026-01-13T15:52:16.765042'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T14:54:11.505859'
+  date: '2026-01-13T15:52:16.765032'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -408,8 +408,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: Marques Brownlee
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2026-01-13T14:48:38+00:00'
+  description: '<p>SRTs help banks free up capital, but growing use has raised concerns
+    about rollover risk, investor concentration, and leverage.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/13/srts-are-the-talk-of-the-town-but-are-they-as-scary-as-they-look/">Synthetic
+    Risk Transfers Are the Talk of the Town. But Are They as Scary as They Look?</a>
+    appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute
+    Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/13/srts-are-the-talk-of-the-town-but-are-they-as-scary-as-they-look/
+  title: Synthetic Risk Transfers Are the Talk of the Town. But Are They as Scary
+    as They Look?
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2026-01-13T00:26:17+00:00'
@@ -447,8 +462,7 @@
   path: https://theovershoot.co/p/is-japan-normal-again
   title: Is Japan "Normal" Again?
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2026-01-12T12:59:56+00:00'
   description: '<p>US government equity is entering strategic supply chains. For investors,
     this is changing how risk, returns, and capital allocation are priced.</p>
@@ -480,7 +494,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/disability-in-the-labor-market-earnings/
   title: 'Disability in the Labor Market: Earnings'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-01-12T09:50:10+00:00'
   description: "<p>Ap\xF3s mais de duas d\xE9cadas de negocia\xE7\xF5es intermitentes,\
@@ -556,7 +570,7 @@
   path: https://open.spotify.com/episode/2uPcScu4yFPp7bavl7SU4y
   title: '#309 | O JEITO DE INVESTIR DE UM DOS MAIORES GANHADORES DA BOLSA EM 2025'
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2026-01-09T23:21:29+00:00'
   description: "Do not buy this phone. And don\u2019t fall for their website slop.\n\
     \nMKBHD Merch: http://shop.MKBHD.com\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
@@ -585,7 +599,7 @@
   path: https://www.youtube.com/watch?v=8Pi6vGRlp1c
   title: The Right Way to Use AI for Writing Maintainable Code
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2026-01-09T15:46:24+00:00'
   description: "<p>O aiatol\xE1 Ali Khamenei, o l\xEDder supremo do Ir\xE3, condenou\
     \ hoje os protestos no pa\xEDs, afirmando que eles trabalham em benef\xEDcio dos\
@@ -599,19 +613,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ira-decide-nas-ruas-o-futuro-dos-aiatolas-agora-vai/
   title: "Ir\xE3 decide nas ruas o futuro dos aiatol\xE1s. Agora vai?"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2026-01-08T14:44:57+00:00'
-  description: "<p>Earnings and stock prices move together long term, but shifts in\
-    \ their correlation offer little value for predicting future market returns.</p>\n\
-    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/01/08/what-earnings-explain-and-what-they-dont-insights-from-150-years-of-market-data/\"\
-    >What Earnings Explain, and What They Don\u2019t: Insights from 150 Years of Market\
-    \ Data</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
-    >CFA Institute Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/08/what-earnings-explain-and-what-they-dont-insights-from-150-years-of-market-data/
-  title: "What Earnings Explain, and What They Don\u2019t: Insights from 150 Years\
-    \ of Market Data"
 - author: Market Makers
   categories: *id004
   date: '2026-01-08T00:00:00+00:00'
