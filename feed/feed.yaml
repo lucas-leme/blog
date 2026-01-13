@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id006
+  categories: &id001
   - CFA
   date: '2026-01-14T12:00:00+00:00'
   description: ''
@@ -10,7 +10,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-13T18:32:27.284834'
+  date: '2026-01-13T20:31:27.482445'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -21,7 +21,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T18:32:27.283100'
+  date: '2026-01-13T20:31:27.480734'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -35,7 +35,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T18:32:27.283096'
+  date: '2026-01-13T20:31:27.480730'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -52,7 +52,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T18:32:27.283092'
+  date: '2026-01-13T20:31:27.480726'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -136,7 +136,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-13T18:32:27.283082'
+  date: '2026-01-13T20:31:27.480716'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -409,7 +409,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-01-13T15:55:43+00:00'
   description: "<p>Os presidentes dos principais bancos centrais do mundo e representantes\
@@ -425,7 +425,7 @@
   path: https://braziljournal.com/bcs-do-mundo-se-unem-em-apoio-a-independencia-do-fed/
   title: "BCs do mundo se unem em apoio \xE0 independ\xEAncia do Fed"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-01-13T14:48:38+00:00'
   description: '<p>SRTs help banks free up capital, but growing use has raised concerns
@@ -439,8 +439,15 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/13/srts-are-the-talk-of-the-town-but-are-they-as-scary-as-they-look/
   title: Synthetic Risk Transfers Are the Talk of the Town. But Are They as Scary
     as They Look?
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-01-13T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/esg-ratings-esg-news-sentiment-firm-credit-risk-perception
+  title: ESG Ratings, ESG News Sentiment, and Firm Credit Risk Perception
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-01-13T00:26:17+00:00'
@@ -478,7 +485,7 @@
   path: https://theovershoot.co/p/is-japan-normal-again
   title: Is Japan "Normal" Again?
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2026-01-12T12:59:56+00:00'
   description: '<p>US government equity is entering strategic supply chains. For investors,
     this is changing how risk, returns, and capital allocation are priced.</p>
@@ -510,7 +517,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/disability-in-the-labor-market-earnings/
   title: 'Disability in the Labor Market: Earnings'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2026-01-12T09:50:10+00:00'
   description: "<p>Ap\xF3s mais de duas d\xE9cadas de negocia\xE7\xF5es intermitentes,\
     \ o acordo comercial entre Mercosul e Uni\xE3o Europeia finalmente avan\xE7ou\
@@ -547,7 +554,7 @@
   path: https://open.spotify.com/episode/7MQwU7rgQSsrAMzBzTD45L
   title: "Moritz Heiden & Moritz Seibert \u2013\_Trend-Following Spreads (S7E25)"
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-01-11T14:31:01+00:00'
@@ -557,7 +564,7 @@
   path: https://www.apricitas.io/p/the-no-hire-economy
   title: The 'No Hire' Economy
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-01-11T00:00:00+00:00'
   description: "O Market Makers FIA fechou 2025 com 48,8% de rentabilidade. Neste\
@@ -585,7 +592,7 @@
   path: https://open.spotify.com/episode/2uPcScu4yFPp7bavl7SU4y
   title: '#309 | O JEITO DE INVESTIR DE UM DOS MAIORES GANHADORES DA BOLSA EM 2025'
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-01-09T23:21:29+00:00'
   description: "Do not buy this phone. And don\u2019t fall for their website slop.\n\
     \nMKBHD Merch: http://shop.MKBHD.com\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
@@ -614,7 +621,7 @@
   path: https://www.youtube.com/watch?v=8Pi6vGRlp1c
   title: The Right Way to Use AI for Writing Maintainable Code
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2026-01-08T00:00:00+00:00'
   description: "Em 3 de janeiro de 2026, os EUA capturam Nicol\xE1s Maduro \u2014\
     \ e isso acende um novo debate: petr\xF3leo vai cair? ouro vai disparar? d\xF3\
@@ -661,20 +668,13 @@
   path: https://open.spotify.com/episode/1aFuH8bHEaR6tf50lLW7aF
   title: "Oil or nothing: will Trump\u2019s Venezuela gamble pay off?"
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id006
   date: '2026-01-06T13:31:43+00:00'
   description: For the First Time Since Early COVID & the Great Recession, the US
     is Losing Jobs in Manufacturing, Construction, & Other Blue Collar Industries
   image: https://substackcdn.com/image/fetch/$s_!rpND!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F392cc901-bb80-4418-8b8c-fc1c0386129a_2886x1843.png
   path: https://www.apricitas.io/p/america-is-losing-blue-collar-jobs
   title: America is Losing Blue Collar Jobs
-- author: CFA Institute Research and Policy Center
-  categories: *id006
-  date: '2026-01-06T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/mutual-fund-selection-when-borrowing-is-restricted
-  title: Mutual Fund Selection When Borrowing Is Restricted
 - author: ArjanCodes
   categories: *id007
   date: '2026-01-02T16:01:05+00:00'
