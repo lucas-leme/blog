@@ -1,6 +1,14 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-01-14T16:44:41+00:00'
+  description: "Ainda n\xE3o se sabe se a medida afetar\xE1 vistos voltados ao turismo\
+    \ no pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-suspendem-emissao-de-vistos-do-brasil-e-de-mais-74-paises/
+  title: "EUA suspendem emiss\xE3o de vistos do Brasil e de mais 74 pa\xEDses"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-01-13T22:37:05+00:00'
   description: "Segundo um funcion\xE1rio da Casa Branca, os Estados Unidos est\xE3\
     o estudando maneiras de ajudar a financiar a enorme tarefa de reconstruir a infraestrutura\
@@ -12,7 +20,7 @@
   path: https://investnews.com.br/economia/eua-financiar-a-reconstrucao-da-venezuela/
   title: "EUA estudam como financiar a reconstru\xE7\xE3o da infraestrutura da Venezuela"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-01-13T20:00:23+00:00'
   description: "Confira o calend\xE1rio de feriados banc\xE1rios 2026, datas sem expediente\
@@ -22,20 +30,12 @@
   title: "Feriados banc\xE1rios em 2026: veja quando n\xE3o haver\xE1 atendimento\
     \ nas ag\xEAncias"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-01-13T11:57:14+00:00'
   description: "Contribuinte pode enviar vers\xE3o corrigida em at\xE9 cinco anos"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/declaracao-retificadora/
   title: "Imposto de Renda: como corrigir uma declara\xE7\xE3o antiga ou com erros?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-13T11:40:03+00:00'
-  description: "Os parceiros do Ir\xE3 incluem n\xE3o apenas pa\xEDses vizinhos, mas\
-    \ tamb\xE9m grandes economias como a \xCDndia, a Turquia e a China"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-anuncia-tarifa-de-25-a-paises-que-fazem-negocios-com-ira/
-  title: "Trump anuncia tarifa de 25% a pa\xEDses que fazem neg\xF3cios com Ir\xE3"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"

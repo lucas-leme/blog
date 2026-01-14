@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-14T15:50:42.456806'
+  date: '2026-01-14T18:32:47.249855'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T15:50:42.455084'
+  date: '2026-01-14T18:32:47.248108'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T15:50:42.455080'
+  date: '2026-01-14T18:32:47.248104'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T15:50:42.455075'
+  date: '2026-01-14T18:32:47.248100'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T15:50:42.455065'
+  date: '2026-01-14T18:32:47.248089'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -401,7 +401,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-01-14T14:28:04+00:00'
   description: "<p>O livro Trump: The Art of the Deal \xE9 um relato autobiogr\xE1\
@@ -417,7 +417,7 @@
   title: "OPINI\xC3O. N\xE3o h\xE1 \u2018art of the deal\u2019 com a credibilidade\
     \ do Fed"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-01-14T14:14:57+00:00'
   description: '<p>With valuations stretched in the US, international markets are
@@ -431,8 +431,15 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/14/shifting-tides-in-global-markets-the-reemergence-of-international-investing/
   title: 'Shifting Tides in Global Markets: The Reemergence of International Investing'
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2026-01-14T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-many-facets-stock-momentum
+  title: 'In Practice Brief: The Many Facets of Stock Momentum'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
   date: '2026-01-14T12:00:00+00:00'
   description: ''
   image: null
@@ -459,7 +466,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/understating-rising-quality-means-import-price-inflation-is-overstated/
   title: Understating Rising Quality Means Import Price Inflation Is Overstated
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-01-13T15:55:43+00:00'
   description: "<p>Os presidentes dos principais bancos centrais do mundo e representantes\
     \ do Bank of International Settlements \u2013 o BC dos BCs \u2013 publicaram hoje\
@@ -474,7 +481,7 @@
   path: https://braziljournal.com/bcs-do-mundo-se-unem-em-apoio-a-independencia-do-fed/
   title: "BCs do mundo se unem em apoio \xE0 independ\xEAncia do Fed"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2026-01-13T14:48:38+00:00'
   description: '<p>SRTs help banks free up capital, but growing use has raised concerns
     about rollover risk, investor concentration, and leverage.</p>
@@ -487,13 +494,6 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/13/srts-are-the-talk-of-the-town-but-are-they-as-scary-as-they-look/
   title: Synthetic Risk Transfers Are the Talk of the Town. But Are They as Scary
     as They Look?
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-01-13T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/esg-ratings-esg-news-sentiment-firm-credit-risk-perception
-  title: ESG Ratings, ESG News Sentiment, and Firm Credit Risk Perception
 - author: Marques Brownlee
   categories: &id005
   - Tech
