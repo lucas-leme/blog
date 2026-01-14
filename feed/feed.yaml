@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-14T13:47:09.902406'
+  date: '2026-01-14T14:53:44.727347'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T13:47:09.900894'
+  date: '2026-01-14T14:53:44.725628'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T13:47:09.900890'
+  date: '2026-01-14T14:53:44.725624'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T13:47:09.900886'
+  date: '2026-01-14T14:53:44.725620'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-14T13:47:09.900875'
+  date: '2026-01-14T14:53:44.725610'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,8 +400,38 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: CFA Institute Research and Policy Center
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2026-01-14T14:28:04+00:00'
+  description: "<p>O livro Trump: The Art of the Deal \xE9 um relato autobiogr\xE1\
+    fico da filosofia de neg\xF3cios de Donald Trump, baseado em sua trajet\xF3ria\
+    \ no mercado imobili\xE1rio de Nova York nas d\xE9cadas de 1970 e 1980.\_ A obra\
+    \ retrata um negociador barulhento, decisivo e tolerante ao risco, cujo sucesso\
+    \ se deveu, em igual medida, a um [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-nao-ha-art-of-the-deal-com-a-credibilidade-do-fed/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. N\xE3o h\xE1 \u2018art of the deal\u2019 com a\
+    \ credibilidade do Fed</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-nao-ha-art-of-the-deal-com-a-credibilidade-do-fed/
+  title: "OPINI\xC3O. N\xE3o h\xE1 \u2018art of the deal\u2019 com a credibilidade\
+    \ do Fed"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-01-14T14:14:57+00:00'
+  description: '<p>With valuations stretched in the US, international markets are
+    emerging as a compelling new source of growth.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/14/shifting-tides-in-global-markets-the-reemergence-of-international-investing/">Shifting
+    Tides in Global Markets: The Reemergence of International Investing</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/14/shifting-tides-in-global-markets-the-reemergence-of-international-investing/
+  title: 'Shifting Tides in Global Markets: The Reemergence of International Investing'
+- author: CFA Institute Research and Policy Center
+  categories: &id003
   - CFA
   date: '2026-01-14T12:00:00+00:00'
   description: ''
@@ -429,8 +459,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/understating-rising-quality-means-import-price-inflation-is-overstated/
   title: Understating Rising Quality Means Import Price Inflation Is Overstated
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id001
   date: '2026-01-13T15:55:43+00:00'
   description: "<p>Os presidentes dos principais bancos centrais do mundo e representantes\
     \ do Bank of International Settlements \u2013 o BC dos BCs \u2013 publicaram hoje\
@@ -445,8 +474,7 @@
   path: https://braziljournal.com/bcs-do-mundo-se-unem-em-apoio-a-independencia-do-fed/
   title: "BCs do mundo se unem em apoio \xE0 independ\xEAncia do Fed"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-01-13T14:48:38+00:00'
   description: '<p>SRTs help banks free up capital, but growing use has raised concerns
     about rollover risk, investor concentration, and leverage.</p>
@@ -460,7 +488,7 @@
   title: Synthetic Risk Transfers Are the Talk of the Town. But Are They as Scary
     as They Look?
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id003
   date: '2026-01-13T12:00:00+00:00'
   description: ''
   image: null
@@ -538,33 +566,6 @@
   image: https://substackcdn.com/image/fetch/$s_!kdNF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87fa3e52-b330-4518-b39a-305c7d50fb09_3200x2830.png
   path: https://theovershoot.co/p/is-japan-normal-again
   title: Is Japan "Normal" Again?
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-12T12:59:56+00:00'
-  description: '<p>US government equity is entering strategic supply chains. For investors,
-    this is changing how risk, returns, and capital allocation are priced.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/12/how-us-state-capital-is-reshaping-strategic-supply-chains/">How
-    US State Capital Is Reshaping Strategic Supply Chains</a> appeared first on <a
-    href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/12/how-us-state-capital-is-reshaping-strategic-supply-chains/
-  title: How US State Capital Is Reshaping Strategic Supply Chains
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-01-12T09:50:10+00:00'
-  description: "<p>Ap\xF3s mais de duas d\xE9cadas de negocia\xE7\xF5es intermitentes,\
-    \ o acordo comercial entre Mercosul e Uni\xE3o Europeia finalmente avan\xE7ou\
-    \ \u2014 em grande medida ancorado no trabalho t\xE9cnico e pol\xEDtico conduzido\
-    \ em 2019, quando Marcos Troyjo liderou as negocia\xE7\xF5es pelo lado do Minist\xE9\
-    rio da Economia. Ent\xE3o \xE0 frente da Secretaria Especial de Com\xE9rcio Exterior\
-    \ e Assuntos Internacionais, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/brasil-precisara-de-mais-reformas-depois-de-acordo-ue-mercosul/\"\
-    \ rel=\"nofollow\">\u201CBrasil precisar\xE1 de mais reformas depois de acordo\
-    \ UE-Mercosul\u201D</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/brasil-precisara-de-mais-reformas-depois-de-acordo-ue-mercosul/
-  title: "\u201CBrasil precisar\xE1 de mais reformas depois de acordo UE-Mercosul\u201D"
 - author: Flirting with Models
   categories:
   - Podcasts
