@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-14T21:12:08+00:00'
+  description: "O ativo digital original subiu at\xE9 3,9%, chegando a US$ 97.694\
+    \ na quarta-feira, seu maior valor intradi\xE1rio desde 14 de novembro"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/bitcoin-dispara-para-maior-cotacao-em-dois-meses/
+  title: "Bitcoin dispara para maior cota\xE7\xE3o em dois meses"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +26,7 @@
   path: https://investnews.com.br/economia/eua-suspendem-emissao-de-vistos-do-brasil-e-de-mais-74-paises/
   title: "EUA suspendem emiss\xE3o de vistos do Brasil e de mais 74 pa\xEDses"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-13T20:00:23+00:00'
   description: "Confira o calend\xE1rio de feriados banc\xE1rios 2026, datas sem expediente\
     \ nas ag\xEAncias, dias com hor\xE1rio especial e orienta\xE7\xF5es da Febraban"
@@ -26,13 +34,6 @@
   path: https://investnews.com.br/financas/feriados-bancarios-2026/
   title: "Feriados banc\xE1rios em 2026: veja quando n\xE3o haver\xE1 atendimento\
     \ nas ag\xEAncias"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-13T11:57:14+00:00'
-  description: "Contribuinte pode enviar vers\xE3o corrigida em at\xE9 cinco anos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/declaracao-retificadora/
-  title: "Imposto de Renda: como corrigir uma declara\xE7\xE3o antiga ou com erros?"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
