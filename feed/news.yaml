@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-15T13:57:06+00:00'
+  description: "Contribuintes j\xE1 podem acessar os valores do IPTU 2026 no site\
+    \ da Secretaria Municipal da Fazenda; pagamento \xE0 vista oferece desconto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/consulta-iptu-2026/
+  title: "Prefeitura de S\xE3o Paulo libera consulta aos valores do IPTU 2026"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id001
   - "Not\xEDcias"
@@ -56,8 +65,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qdahze/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-14T21:12:08+00:00'
   description: "O ativo digital original subiu at\xE9 3,9%, chegando a US$ 97.694\
     \ na quarta-feira, seu maior valor intradi\xE1rio desde 14 de novembro"
@@ -65,7 +73,7 @@
   path: https://investnews.com.br/financas/bitcoin-dispara-para-maior-cotacao-em-dois-meses/
   title: "Bitcoin dispara para maior cota\xE7\xE3o em dois meses"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   date: '2026-01-14T19:09:50+00:00'
   description: Produtores e analistas esperam que o cacau mais barato comece a chegar
@@ -75,19 +83,10 @@
   title: "Cacau fica mais barato, mas pre\xE7o do chocolate s\xF3 deve cair no segundo\
     \ semestre"
 - author: "Economia \u2013 InvestNews"
-  categories: *id002
+  categories: *id003
   date: '2026-01-14T16:44:41+00:00'
   description: "Ainda n\xE3o se sabe se a medida afetar\xE1 vistos voltados ao turismo\
     \ no pa\xEDs"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/eua-suspendem-emissao-de-vistos-do-brasil-e-de-mais-74-paises/
   title: "EUA suspendem emiss\xE3o de vistos do Brasil e de mais 74 pa\xEDses"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2026-01-13T20:00:23+00:00'
-  description: "Confira o calend\xE1rio de feriados banc\xE1rios 2026, datas sem expediente\
-    \ nas ag\xEAncias, dias com hor\xE1rio especial e orienta\xE7\xF5es da Febraban"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/feriados-bancarios-2026/
-  title: "Feriados banc\xE1rios em 2026: veja quando n\xE3o haver\xE1 atendimento\
-    \ nas ag\xEAncias"
