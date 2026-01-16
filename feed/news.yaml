@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-16T12:07:03+00:00'
+  description: "A decis\xE3o da Maersk de retomar rotas pelo Canal de Suez sinaliza\
+    \ maior confian\xE7a na seguran\xE7a da regi\xE3o, mas pode pressionar fretes\
+    \ e receitas do setor"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/navios-comecam-a-voltar-ao-mar-vermelho-em-marco-relevante-para-o-comercio-global/
+  title: "Navios come\xE7am a voltar ao Mar Vermelho em marco relevante para o com\xE9\
+    rcio global"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -37,8 +48,7 @@
   path: https://investnews.com.br/financas/bitcoin-dispara-para-maior-cotacao-em-dois-meses/
   title: "Bitcoin dispara para maior cota\xE7\xE3o em dois meses"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-14T19:09:50+00:00'
   description: Produtores e analistas esperam que o cacau mais barato comece a chegar
     aos supermercados apenas na segunda metade deste ano
@@ -46,14 +56,6 @@
   path: https://investnews.com.br/economia/cacau-fica-mais-barato-mas-preco-do-chocolate-so-deve-cair-no-segundo-semestre/
   title: "Cacau fica mais barato, mas pre\xE7o do chocolate s\xF3 deve cair no segundo\
     \ semestre"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-14T16:44:41+00:00'
-  description: "Ainda n\xE3o se sabe se a medida afetar\xE1 vistos voltados ao turismo\
-    \ no pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-suspendem-emissao-de-vistos-do-brasil-e-de-mais-74-paises/
-  title: "EUA suspendem emiss\xE3o de vistos do Brasil e de mais 74 pa\xEDses"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-13T10:01:36+00:00'
