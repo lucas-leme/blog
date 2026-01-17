@@ -1,15 +1,24 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2026-01-17T15:45:30+00:00'
-  description: "L\xEDder da oposi\xE7\xE3o venezuelana presenteou presidente americano\
-    \ com medalha do pr\xEAmio e abandonou exig\xEAncias eleitorais em troca de apoio"
-  image: https://media.investnews.com.br/uploads/2026/01/447740468_69.webp
-  path: https://investnews.com.br/economia/maria-corina-presenteia-trump-com-nobel-e-muda-tatica-para-tentar-chegar-ao-poder-na-venezuela/
-  title: "Mar\xEDa Corina presenteia Trump com Nobel e muda t\xE1tica para tentar\
-    \ chegar ao poder na Venezuela"
-- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-17T17:52:45+00:00'
+  description: "Medida atinge oito pa\xEDses, incluindo Alemanha, Fran\xE7a e Reino\
+    \ Unido, e amplia tens\xE3o entre EUA e aliados da Otan"
+  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_6.webp
+  path: https://investnews.com.br/economia/trump-anuncia-tarifa-contra-paises-europeus-que-apoiam-a-dinamarca-na-disputa-pela-groenlandia/
+  title: "Trump anuncia tarifa contra pa\xEDses europeus que apoiam a Dinamarca na\
+    \ disputa pela Groenl\xE2ndia"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
+  date: '2026-01-17T17:09:05+00:00'
+  description: "Tratado firmado no Paraguai cria uma das maiores zonas de livre com\xE9\
+    rcio do planeta"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/apos-25-anos-de-negociacoes-mercosul-e-uniao-europeia-selam-acordo-comercial/
+  title: "Ap\xF3s 25 anos de negocia\xE7\xF5es, Mercosul e Uni\xE3o Europeia selam\
+    \ acordo de livre com\xE9rcio"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-01-16T14:01:52+00:00'
   description: "O investidor Mark Mobius, investidor veterano, disse que o ouro se\
@@ -19,7 +28,7 @@
   title: "Por que Mark Mobius, investidor veterano, n\xE3o vai comprar ouro apesar\
     \ da alta hist\xF3rica"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-01-16T12:50:25+00:00'
   description: "Entrega antecipada, declara\xE7\xE3o pr\xE9-preenchida e Pix com CPF\
     \ como chave ajudam a entrar nos primeiros lotes de restitui\xE7\xE3o da Receita\
@@ -28,16 +37,6 @@
   path: https://investnews.com.br/financas/restituicao-do-imposto-de-renda-2026/
   title: "Imposto de Renda 2026: o que fazer para receber a restitui\xE7\xE3o o quanto\
     \ antes?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-16T12:07:03+00:00'
-  description: "A decis\xE3o da Maersk de retomar rotas pelo Canal de Suez sinaliza\
-    \ maior confian\xE7a na seguran\xE7a da regi\xE3o, mas pode pressionar fretes\
-    \ e receitas do setor"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/navios-comecam-a-voltar-ao-mar-vermelho-em-marco-relevante-para-o-comercio-global/
-  title: "Navios come\xE7am a voltar ao Mar Vermelho em marco relevante para o com\xE9\
-    rcio global"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
