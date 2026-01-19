@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-19T11:51:09+00:00'
+  description: "\xC0 medida que a futura for\xE7a de trabalho encolhe e a popula\xE7\
+    \xE3o envelhece, o perfil demogr\xE1fico cada vez mais desfavor\xE1vel amea\xE7\
+    a pesar sobre a economia"
+  image: https://media.investnews.com.br/uploads/2026/01/447766005_1_1_23-1.jpg
+  path: https://investnews.com.br/economia/china-registra-menor-taxa-de-natalidade-desde-1949/
+  title: China registra menor taxa de natalidade desde 1949
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qgv0l7/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-18T12:43:05+00:00'
   description: "Tarifas anunciadas contra pa\xEDses europeus rompem tr\xE9gua firmada\
     \ em julho"
@@ -43,15 +52,6 @@
   path: https://investnews.com.br/economia/ameaca-de-trump-sobre-a-groenlandia-reacende-a-tensao-comercial-entre-eua-e-europa/
   title: "Amea\xE7a de Trump sobre a Groenl\xE2ndia reacende a tens\xE3o comercial\
     \ entre EUA e Europa"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-17T17:52:45+00:00'
-  description: "Medida atinge oito pa\xEDses, incluindo Alemanha, Fran\xE7a e Reino\
-    \ Unido, e amplia tens\xE3o entre EUA e aliados da Otan"
-  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_6.webp
-  path: https://investnews.com.br/economia/trump-anuncia-tarifa-contra-paises-europeus-que-apoiam-a-dinamarca-na-disputa-pela-groenlandia/
-  title: "Trump anuncia tarifa contra pa\xEDses europeus que apoiam a Dinamarca na\
-    \ disputa pela Groenl\xE2ndia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
