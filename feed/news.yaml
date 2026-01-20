@@ -1,3 +1,17 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-19T22:59:16+00:00'
+  description: "A fabricante francesa de autom\xF3veis Renault est\xE1 avan\xE7ando\
+    \ com planos para auxiliar os esfor\xE7os de Defesa do pa\xEDs em um momento de\
+    \ crescentes tens\xF5es geopol\xEDticas, enquanto a Europa busca uma resposta\
+    \ \xE0s amea\xE7as dos Estados Unidos em rela\xE7\xE3o \xE0 Groenl\xE2ndia. &#8220;Abordado\
+    \ pelo Minist\xE9rio das For\xE7as Armadas da Fran\xE7a, o Grupo Renault foi convidado\
+    \ a contribuir [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/negocios/como-a-montadora-renault-ajudara-a-franca-a-desenvolver-sua-industria-de-drones/
+  title: "Como a montadora Renault ajudar\xE1 a Fran\xE7a a desenvolver sua ind\xFA\
+    stria de drones"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +23,7 @@
   title: "Imposto de Renda 2026: at\xE9 quando as empresas devem enviar o informe\
     \ de rendimentos"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-19T12:41:28+00:00'
   description: "No s\xE1bado, Trump anunciou uma tarifa de 10% sobre produtos de oito\
     \ pa\xEDses europeus a partir de 1\xBA de fevereiro"
@@ -18,50 +31,6 @@
   path: https://investnews.com.br/economia/uniao-europeia-cogita-tarifas-sobre-us-108-bilhoes-em-produtos-dos-estados-unidos-apos-ameaca-de-trump/
   title: "Uni\xE3o Europeia cogita tarifas sobre US$ 108 bilh\xF5es em produtos dos\
     \ Estados Unidos ap\xF3s amea\xE7a de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-19T11:51:09+00:00'
-  description: "\xC0 medida que a futura for\xE7a de trabalho encolhe e a popula\xE7\
-    \xE3o envelhece, o perfil demogr\xE1fico cada vez mais desfavor\xE1vel amea\xE7\
-    a pesar sobre a economia"
-  image: https://media.investnews.com.br/uploads/2026/01/447766005_1_1_23-1.jpg
-  path: https://investnews.com.br/economia/china-registra-menor-taxa-de-natalidade-desde-1949/
-  title: China registra menor taxa de natalidade desde 1949
-- author: "\u201CSuperior returns guaranteed\""
-  categories: &id003
-  - "Not\xEDcias"
-  - CFA
-  - Reddit
-  date: '2026-01-19T05:01:50+00:00'
-  description: "<!-- SC_OFF --><div class=\"md\"><p>Hey there!</p> <p>Welcome to Mental\
-    \ Health Monday! We hope everyone is doing well. We wanted to create a safe space\
-    \ for everyone to come together, share our experiences, and discuss the mental\
-    \ health challenges that often accompany this rigorous process.</p> <p>Feel free\
-    \ to use this thread to check in on how you're doing mentally and share any stressors\
-    \ or concerns you might have. Whether it's dealing with study burnout, imposter\
-    \ syndrome, time management struggles, or just needing a listening ear, this community\
-    \ is here to support you. We're all in this together! </p> <p><strong>If you feel\
-    \ like you need immediate professional help please see our</strong> <a href=\"\
-    https://new.reddit.com/r/CFA/wiki/mental_health/\">resources page</a><strong>.\
-    \ If you\u2019re in active crisis please call your local emergency services.</strong></p>\
-    \ <p>Here are a few questions to get the discussion started:</p> <ul> <li>How\
-    \ are you feeling mentally as you prepare for your CFA exam?</li> <li>What are\
-    \ some stressors you've been facing recently?</li> <li>Have you found any strategies\
-    \ or coping mechanisms that have helped you manage stress and maintain a healthy\
-    \ work-life balance?</li> <li>Are there any specific challenges you'd like advice\
-    \ or support on?</li> </ul> <p><strong>Note:</strong> We won't be removing mental\
-    \ health-related posts on off days, but it would be nice to keep everything contained\
-    \ to these threads. This way, we can maintain an organized and supportive space\
-    \ for mental health discussions.</p> <p>Please be kind and respectful to one another\
-    \ in the comments. Let's foster a supportive and empathetic environment where\
-    \ we can open up about our mental health without judgment.</p> </div><!-- SC_ON\
-    \ --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"\
-    > /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/CFA/comments/1qgv0l7/mental_health_monday_your_weekly_cfa_mental/\"\
-    >[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/CFA/comments/1qgv0l7/mental_health_monday_your_weekly_cfa_mental/\"\
-    >[comments]</a></span>"
-  image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
-  path: https://www.reddit.com/r/CFA/comments/1qgv0l7/mental_health_monday_your_weekly_cfa_mental/
-  title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-01-16T14:01:52+00:00'
@@ -72,7 +41,10 @@
   title: "Por que Mark Mobius, investidor veterano, n\xE3o vai comprar ouro apesar\
     \ da alta hist\xF3rica"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id003
+  categories: &id003
+  - "Not\xEDcias"
+  - CFA
+  - Reddit
   date: '2026-01-15T10:01:39+00:00'
   description: <!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
     best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
@@ -89,3 +61,21 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1qdfn0k/official_november_2025_level_2_results_megathread/
   title: Official November 2025 Level 2 Results Megathread
+- author: "\u201CSuperior returns guaranteed\""
+  categories: *id003
+  date: '2026-01-13T10:01:36+00:00'
+  description: <!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
+    best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
+    <p>As is tradition, we'll be removing all other related posts (I passed, I failed,
+    How close was I?) because this is the designated place to celebrate or commiserate.</p>
+    <p><strong>Results Survey</strong></p> <p>Please consider participating in our
+    Level 1 results survey <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbqOvx8vvhFJn9pr107aHEgpdggWlSwcsYg7n3aLVy383Vvw/viewform">here</a>
+    once results are released. I've updated it once again to hopefully work out some
+    kinks. Your responses could help other candidates prepare for the exam in the
+    future.</p> <p><a href="https://discord.gg/AGDqnT6FkV">Join us on Discord here.</a></p>
+    </div><!-- SC_ON --> &#32; submitted by &#32; <a href="https://www.reddit.com/user/third_najarian">
+    /u/third_najarian </a> <br /> <span><a href="https://www.reddit.com/r/CFA/comments/1qbnhnj/official_november_2025_level_1_results_megathread/">[link]</a></span>
+    &#32; <span><a href="https://www.reddit.com/r/CFA/comments/1qbnhnj/official_november_2025_level_1_results_megathread/">[comments]</a></span>
+  image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
+  path: https://www.reddit.com/r/CFA/comments/1qbnhnj/official_november_2025_level_1_results_megathread/
+  title: Official November 2025 Level 1 Results Megathread
