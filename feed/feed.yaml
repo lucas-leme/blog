@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-20T15:54:41.545501'
+  date: '2026-01-20T18:33:01.706617'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T15:54:41.543782'
+  date: '2026-01-20T18:33:01.704885'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T15:54:41.543778'
+  date: '2026-01-20T18:33:01.704881'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T15:54:41.543773'
+  date: '2026-01-20T18:33:01.704876'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T15:54:41.543763'
+  date: '2026-01-20T18:33:01.704866'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,6 +400,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-01-20T17:26:05+00:00'
+  description: '<p>Key trends shaping US defined contribution plans in 2026, from
+    technology and education to investment strategy, regulation, and plan design decisions.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/20/defined-contribution-top-trends-for-2026-what-plan-sponsors-need-to-get-right/">Defined
+    Contribution Top Trends for 2026: What Plan Sponsors Need to Get Right</a> appeared
+    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/20/defined-contribution-top-trends-for-2026-what-plan-sponsors-need-to-get-right/
+  title: 'Defined Contribution Top Trends for 2026: What Plan Sponsors Need to Get
+    Right'
 - author: Apricitas Economics
   categories: &id006
   - Macro
@@ -477,8 +492,7 @@
   path: https://www.youtube.com/watch?v=YTsJQ4ixq88
   title: "7 Things You Didn\u2019t Know Dataclasses Could Do"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-01-15T14:54:40+00:00'
   description: '<p>Closed-end funds have their place in a diversified portfolio, but
     investors shouldn''t expect to make a quick buck. </p>
@@ -548,19 +562,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a951b645d5073a3ac653e92a2
   path: https://open.spotify.com/episode/1YlDMCzZMC0Ivrx0SlqFU0
   title: "Powell move: how Trump\u2019s Fed fight could backfire"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-14T14:14:57+00:00'
-  description: '<p>With valuations stretched in the US, international markets are
-    emerging as a compelling new source of growth.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/14/shifting-tides-in-global-markets-the-reemergence-of-international-investing/">Shifting
-    Tides in Global Markets: The Reemergence of International Investing</a> appeared
-    first on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/14/shifting-tides-in-global-markets-the-reemergence-of-international-investing/
-  title: 'Shifting Tides in Global Markets: The Reemergence of International Investing'
 - author: CFA Institute Research and Policy Center
   categories: &id003
   - CFA
