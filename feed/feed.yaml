@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-20T18:33:01.706617'
+  date: '2026-01-20T20:36:03.765726'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T18:33:01.704885'
+  date: '2026-01-20T20:36:03.763988'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T18:33:01.704881'
+  date: '2026-01-20T20:36:03.763984'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T18:33:01.704876'
+  date: '2026-01-20T20:36:03.763979'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-20T18:33:01.704866'
+  date: '2026-01-20T20:36:03.763969'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,6 +400,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-01-20T18:46:10+00:00'
+  description: "<p>Em uma defesa enf\xE1tica da soberania europeia, Emmanuel Macron\
+    \ criticou a irracionalidade do Governo Trump em seu discurso de hoje no F\xF3\
+    rum Econ\xF4mico Mundial de Davos. Horas depois de Trump vazar uma mensagem privada\
+    \ em que Macron dizia \u201Cn\xE3o entender\u201D as amea\xE7as de Trump na Groenl\xE2\
+    ndia, o presidente franc\xEAs afirmou que a Europa entende a [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/emmanuel-macron-o-porta-voz-da-resistencia/\"\
+    \ rel=\"nofollow\">Emmanuel Macron, o porta-voz da resist\xEAncia</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/emmanuel-macron-o-porta-voz-da-resistencia/
+  title: "Emmanuel Macron, o porta-voz da resist\xEAncia"
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
@@ -426,9 +441,17 @@
   image: https://substackcdn.com/image/fetch/$s_!j5VF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56dfb0bc-aef2-43be-bb71-adc3ce868bc7_2886x1843.png
   path: https://www.apricitas.io/p/the-economic-legacy-of-doge
   title: The Economic Legacy of DOGE
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2026-01-20T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2026/stocks-for-the-long-run-revisited
+  title: "Stocks for the Long Run Revisited: Dividends and \u201CThe Return Nobody\
+    \ Got\u201D"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-01-20T00:49:15+00:00'
   description: "<p>O ministro da Fazenda, Fernando Haddad, apresentou uma proposta\
     \ ao Governo para transferir da CVM para o Banco Central a regula\xE7\xE3o e a\
@@ -443,22 +466,6 @@
   path: https://braziljournal.com/efeito-master-haddad-quer-transferir-regulacao-de-fundos-da-cvm-para-o-bc/
   title: "Efeito Master: Haddad quer transferir regula\xE7\xE3o de fundos da CVM para\
     \ o BC"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2026-01-19T20:10:55+00:00'
-  description: "<p>O Presidente Donald Trump enviou uma carta ao primeiro-ministro\
-    \ noruegu\xEAs, Jonas Gahr St\xF8re, associando o fato de n\xE3o ter sido agraciado\
-    \ com o Pr\xEAmio Nobel da Paz com seus planos de tomar a Groenl\xE2ndia. \_A\
-    \ mensagem de Trump \u2014 que ignora o fato de que o Nobel possui um comit\xEA\
-    \ independente do governo noruegu\xEAs \u2014 [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/sem-nobel-trump-nao-se-sente-mais-obrigado-a-pensar-apenas-na-paz/\"\
-    \ rel=\"nofollow\">Sem Nobel, Trump n\xE3o se sente mais \u201Cobrigado a pensar\
-    \ apenas na paz\u201D\_</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/sem-nobel-trump-nao-se-sente-mais-obrigado-a-pensar-apenas-na-paz/
-  title: "Sem Nobel, Trump n\xE3o se sente mais \u201Cobrigado a pensar apenas na\
-    \ paz\u201D"
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -563,20 +570,12 @@
   path: https://open.spotify.com/episode/1YlDMCzZMC0Ivrx0SlqFU0
   title: "Powell move: how Trump\u2019s Fed fight could backfire"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id003
   date: '2026-01-14T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/concept-release-foreign-private-issuer-eligibility
   title: Concept Release on Foreign Private Issuer Eligibility
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-01-14T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-many-facets-stock-momentum
-  title: 'In Practice Brief: The Many Facets of Stock Momentum'
 - author: Liberty Street Economics
   categories:
   - Macro
