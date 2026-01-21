@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-21T13:49:05.759766'
+  date: '2026-01-21T14:55:43.725782'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-21T13:49:05.758049'
+  date: '2026-01-21T14:55:43.723978'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-21T13:49:05.758045'
+  date: '2026-01-21T14:55:43.723975'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-21T13:49:05.758041'
+  date: '2026-01-21T14:55:43.723970'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-21T13:49:05.758030'
+  date: '2026-01-21T14:55:43.723960'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,6 +400,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-01-21T14:45:54+00:00'
+  description: "<p>Tight stop-losses feel disciplined but can erode long-term returns.\
+    \ Robust investing favors resilience over optimization.</p>\n<p>The post <a href=\"\
+    https://blogs.cfainstitute.org/investor/2026/01/21/why-tight-stop-losses-often-hurt-investors-and-what-robust-capital-growth-really-requires/\"\
+    >Why Tight Stop-Losses Often Hurt Investors \u2014 and What Robust Capital Growth\
+    \ Really Requires</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
+    >CFA Institute Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/21/why-tight-stop-losses-often-hurt-investors-and-what-robust-capital-growth-really-requires/
+  title: "Why Tight Stop-Losses Often Hurt Investors \u2014 and What Robust Capital\
+    \ Growth Really Requires"
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -441,8 +455,7 @@
   path: https://braziljournal.com/emmanuel-macron-o-porta-voz-da-resistencia/
   title: "Emmanuel Macron, o porta-voz da resist\xEAncia"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-01-20T17:26:05+00:00'
   description: '<p>Key trends shaping US defined contribution plans in 2026, from
     technology and education to investment strategy, regulation, and plan design decisions.</p>
@@ -567,18 +580,6 @@
   image: https://i2.ytimg.com/vi/YTsJQ4ixq88/hqdefault.jpg
   path: https://www.youtube.com/watch?v=YTsJQ4ixq88
   title: "7 Things You Didn\u2019t Know Dataclasses Could Do"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-15T14:54:40+00:00'
-  description: '<p>Closed-end funds have their place in a diversified portfolio, but
-    investors shouldn''t expect to make a quick buck. </p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/15/book-review-a-dollar-for-fifty-cents/">Book
-    Review: A Dollar for Fifty Cents</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/15/book-review-a-dollar-for-fifty-cents/
-  title: 'Book Review: A Dollar for Fifty Cents'
 - author: Market Makers
   categories: *id003
   date: '2026-01-15T00:00:00+00:00'
