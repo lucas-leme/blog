@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-22T11:20:12+00:00'
+  description: "O Conselho da Paz sinaliza o impulso de Trump para avan\xE7ar para\
+    \ a segunda fase de seu plano de paz para Gaza, mesmo com a recusa do Hamas em\
+    \ entregar suas armas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-lanca-conselho-da-paz-entenda-o-que-visa-a-organizacao/
+  title: "Trump lan\xE7a Conselho da Paz. Entenda o que visa a organiza\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qjlhdz/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-21T22:53:38+00:00'
   description: "Powell deixar\xE1 a presid\xEAncia do Fed em breve, mas pode permanecer\
     \ no conselho da autarquia"
@@ -47,13 +56,6 @@
   path: https://investnews.com.br/economia/trump-avisa-que-powell-nao-ficara-muito-feliz-se-permanecer-no-fed/
   title: "Trump avisa que Powell n\xE3o ficar\xE1 \u201Cmuito feliz\u201D se permanecer\
     \ no Fed"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-21T20:11:25+00:00'
-  description: "As tarifas estavam programadas para entrar em vigor em 1\xBA de fevereiro"
-  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_7.webp
-  path: https://investnews.com.br/economia/donald-trump-recua-de-taxar-europa-por-groenlandia-e-cita-futuro-acordo/
-  title: "Donald Trump recua de taxar Europa por Groenl\xE2ndia e cita futuro acordo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
