@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-23T14:53:20.615206'
+  date: '2026-01-23T15:52:14.279690'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T14:53:20.613470'
+  date: '2026-01-23T15:52:14.277942'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T14:53:20.613466'
+  date: '2026-01-23T15:52:14.277938'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T14:53:20.613461'
+  date: '2026-01-23T15:52:14.277933'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T14:53:20.613451'
+  date: '2026-01-23T15:52:14.277923'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -430,7 +430,7 @@
   path: https://braziljournal.com/fraqueza-do-pt-chama-atencao-e-lula-pode-perder-diz-consultor/
   title: "Fraqueza do PT chama aten\xE7\xE3o e Lula pode perder, diz consultor"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-01-22T19:45:23+00:00'
@@ -476,6 +476,14 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/01/22/auditor-specialization-a-signal-for-financial-analysts/
   title: 'Auditor Specialization: A Signal for Financial Analysts'
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2026-01-22T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/performance-small-business-investment-companies
+  title: The Performance of Small Business Investment Companies
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2026-01-22T00:39:03+00:00'
@@ -544,8 +552,7 @@
   path: https://www.apricitas.io/p/the-economic-legacy-of-doge
   title: The Economic Legacy of DOGE
 - author: CFA Institute Research and Policy Center
-  categories: &id005
-  - CFA
+  categories: *id003
   date: '2026-01-20T12:00:00+00:00'
   description: ''
   image: null
@@ -553,7 +560,7 @@
   title: "Stocks for the Long Run Revisited: Dividends and \u201CThe Return Nobody\
     \ Got\u201D"
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-01-20T00:00:00+00:00'
   description: "Thiago Salom\xE3o recebe Mansueto Almeida (economista-chefe do BTG\
@@ -613,7 +620,7 @@
   title: "#179 - Venezuela, Groenl\xE2ndia, geopol\xEDtica e fiscal: a reorganiza\xE7\
     \xE3o econ\xF4mica"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-01-16T21:56:34+00:00'
   description: Sorry dinner is late, I had to charge my knife
   image: https://i1.ytimg.com/vi/PTd98UnJnnU/hqdefault.jpg
@@ -643,7 +650,7 @@
   path: https://www.youtube.com/watch?v=YTsJQ4ixq88
   title: "7 Things You Didn\u2019t Know Dataclasses Could Do"
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2026-01-15T00:00:00+00:00'
   description: "GARANTA SUA VAGA NO MAPA DA BOLSA 2026: https://lp.mmakers.com.br/webnario-mapa-da-bolsa-2026?xpromo=MI-TRPT-YT-DESCRICAO-X-20260113-DESCRICAOSOBREPODCAST-MM-XO\
     \ Brasil est\xE1 caminhando para uma nova crise fiscal \u2014 e o mercado ainda\
@@ -681,13 +688,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a44fa4f2f53cea0502dbceb61
   path: https://open.spotify.com/episode/1l4azr3iiUwBdLS8Yy5ELV
   title: "#311 | LULA 4 E O RISCO IMINENTE QUE O MERCADO EST\xC1 IGNORANDO"
-- author: CFA Institute Research and Policy Center
-  categories: *id005
-  date: '2026-01-14T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/concept-release-foreign-private-issuer-eligibility
-  title: Concept Release on Foreign Private Issuer Eligibility
 - author: Liberty Street Economics
   categories:
   - Macro
