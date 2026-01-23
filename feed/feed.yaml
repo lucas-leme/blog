@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-23T15:52:14.279690'
+  date: '2026-01-23T18:32:41.132787'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T15:52:14.277942'
+  date: '2026-01-23T18:32:41.131066'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T15:52:14.277938'
+  date: '2026-01-23T18:32:41.131062'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T15:52:14.277933'
+  date: '2026-01-23T18:32:41.131057'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T15:52:14.277923'
+  date: '2026-01-23T18:32:41.131047'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,6 +400,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-01-23T16:00:35+00:00'
+  description: "\U0001F449 Get real-time, search result data from Google, Youtube\
+    \ and more with SerpApi: https://serpapi.link/arjan-codes-jan-2025.\n\nBusiness\
+    \ rules have a nasty habit of spreading across your codebase: copied into APIs,\
+    \ reports, scripts, and slowly drifting out of sync. In this video, I start with\
+    \ a very real, very messy example of duplicated if-statements and show how it\
+    \ escalates into bugs and confusion. Then I refactor it step by step using the\
+    \ Specification Pattern, in a practical, Pythonic style that lets you compose\
+    \ rules, test them in isolation, and even turn your logic into data that can live\
+    \ in config files.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/spec.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:49 What is the Specification Pattern\n3:47 The Goal: Reusable, Composable\
+    \ Rules\n4:21 Step 1: The Simplest Possible Predicate\n13:56 Step 2: Make Defining\
+    \ Predicates Pleasant\n16:48 Step 3: Generalize With Generics and Rule Factories\n\
+    20:00 Step 4: A Single @Rule Decorator for All Rules\n24:54 Step 5: Composing\
+    \ Rules in the User Domain\n25:36 Step 6: Loading Rules From Config (Real Specification\
+    \ Power)\n28:30 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/KqfMiuL3cx4/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=KqfMiuL3cx4
+  title: This Pattern Is Horrifyingly Overengineered
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -530,7 +556,7 @@
   path: https://open.spotify.com/episode/00zbjeQw8Qzbzs0aqs0uH4
   title: 'When AI gets physical: a peek inside the factories of the future'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-01-20T20:53:02+00:00'
@@ -541,7 +567,7 @@
   path: https://theovershoot.co/p/is-the-market-underpricing-the-risk
   title: Is the Market Underpricing the Risk of Fed Hikes?
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-01-20T13:03:00+00:00'
@@ -560,7 +586,7 @@
   title: "Stocks for the Long Run Revisited: Dividends and \u201CThe Return Nobody\
     \ Got\u201D"
 - author: Market Makers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-01-20T00:00:00+00:00'
   description: "Thiago Salom\xE3o recebe Mansueto Almeida (economista-chefe do BTG\
@@ -627,10 +653,7 @@
   path: https://www.youtube.com/shorts/PTd98UnJnnU
   title: This TECH Knife is Insane!
 - author: ArjanCodes
-  categories: &id008
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2026-01-16T16:01:02+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nDataclasses are often treated as nothing more than a shortcut for generating\
@@ -650,7 +673,7 @@
   path: https://www.youtube.com/watch?v=YTsJQ4ixq88
   title: "7 Things You Didn\u2019t Know Dataclasses Could Do"
 - author: Market Makers
-  categories: *id005
+  categories: *id006
   date: '2026-01-15T00:00:00+00:00'
   description: "GARANTA SUA VAGA NO MAPA DA BOLSA 2026: https://lp.mmakers.com.br/webnario-mapa-da-bolsa-2026?xpromo=MI-TRPT-YT-DESCRICAO-X-20260113-DESCRICAOSOBREPODCAST-MM-XO\
     \ Brasil est\xE1 caminhando para uma nova crise fiscal \u2014 e o mercado ainda\
@@ -709,7 +732,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/01/understating-rising-quality-means-import-price-inflation-is-overstated/
   title: Understating Rising Quality Means Import Price Inflation Is Overstated
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-01-12T23:51:02+00:00'
   description: After decades of trying, it looks as if inflation and nominal income
     growth have finally reset to a new, faster baseline. That explains the actions
@@ -740,30 +763,13 @@
   path: https://open.spotify.com/episode/7MQwU7rgQSsrAMzBzTD45L
   title: "Moritz Heiden & Moritz Seibert \u2013\_Trend-Following Spreads (S7E25)"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2026-01-11T14:31:01+00:00'
   description: US Job Growth has Zeroed Out as Hiring Rates Sink, Hitting Young &
     Low Income Workers the Hardest
   image: https://substackcdn.com/image/fetch/$s_!Wy7H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4022caac-6ea1-4230-bcee-0558fc278931_2886x1843.png
   path: https://www.apricitas.io/p/the-no-hire-economy
   title: The 'No Hire' Economy
-- author: ArjanCodes
-  categories: *id008
-  date: '2026-01-09T16:00:14+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nAI can write code, but without\
-    \ solid software design, it quickly turns into an unmaintainable mess. In this\
-    \ video, I show why prompting alone isn\u2019t enough and how thinking in terms\
-    \ of responsibilities, structure, and design allows you to truly direct AI coding\
-    \ agents to produce better, cleaner, and more scalable code. Using a real example,\
-    \ I walk through how design reduces complexity, improves AI interactions, and\
-    \ future-proofs your work.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:20 AI Assisted Development Issues\n1:52 Fluent Interface\
-    \ Chat Walkthrough\n25:07 SDM\n\n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/8Pi6vGRlp1c/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=8Pi6vGRlp1c
-  title: The Right Way to Use AI for Writing Maintainable Code
 - author: Outliers
   categories: *id009
   date: '2025-12-23T00:00:00+00:00'
