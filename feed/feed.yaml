@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-23T13:48:27.060040'
+  date: '2026-01-23T14:53:20.615206'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T13:48:27.058285'
+  date: '2026-01-23T14:53:20.613470'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T13:48:27.058281'
+  date: '2026-01-23T14:53:20.613466'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T13:48:27.058277'
+  date: '2026-01-23T14:53:20.613461'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-23T13:48:27.058267'
+  date: '2026-01-23T14:53:20.613451'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,8 +400,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2026-01-23T14:27:23+00:00'
+  description: '<p>AI automates tasks in finance and boosts efficiency, but reflexive
+    markets ensure interpretation and oversight remain irreducibly human work.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/23/keynesian-folly-why-ai-will-never-fully-automate-finance/">Keynesian
+    Folly: Why AI Will Never Fully Automate Finance</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/23/keynesian-folly-why-ai-will-never-fully-automate-finance/
+  title: 'Keynesian Folly: Why AI Will Never Fully Automate Finance'
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2026-01-22T20:48:40+00:00'
   description: "<p>A candidatura do Presidente Lula para a reelei\xE7\xE3o em 2026\
@@ -451,8 +464,7 @@
   path: https://www.youtube.com/watch?v=DqAKQwagCDg
   title: Xiaomi 17 Ultra - More Camera than Phone!
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-01-22T15:27:01+00:00'
   description: '<p>For financial analysts covering government contractors across defense,
     healthcare, and IT, auditor specialization signals earnings quality, reporting
@@ -465,7 +477,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/22/auditor-specialization-a-signal-for-financial-analysts/
   title: 'Auditor Specialization: A Signal for Financial Analysts'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-01-22T00:39:03+00:00'
   description: "<p>O Fundo Garantidor do Cr\xE9dito (FGC) dever\xE1 fazer uma chamada\
     \ de capital de cerca de R$ 30 bilh\xF5es em \u201Cadiantamento de contribui\xE7\
@@ -509,19 +521,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a0fec9cc9c64418cdddf5e743
   path: https://open.spotify.com/episode/00zbjeQw8Qzbzs0aqs0uH4
   title: 'When AI gets physical: a peek inside the factories of the future'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-21T14:45:54+00:00'
-  description: "<p>Tight stop-losses feel disciplined but can erode long-term returns.\
-    \ Robust investing favors resilience over optimization.</p>\n<p>The post <a href=\"\
-    https://blogs.cfainstitute.org/investor/2026/01/21/why-tight-stop-losses-often-hurt-investors-and-what-robust-capital-growth-really-requires/\"\
-    >Why Tight Stop-Losses Often Hurt Investors \u2014 and What Robust Capital Growth\
-    \ Really Requires</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
-    >CFA Institute Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/21/why-tight-stop-losses-often-hurt-investors-and-what-robust-capital-growth-really-requires/
-  title: "Why Tight Stop-Losses Often Hurt Investors \u2014 and What Robust Capital\
-    \ Growth Really Requires"
 - author: The Overshoot
   categories: &id006
   - Macro
