@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-25T15:09:08+00:00'
+  description: "Primeira reuni\xE3o do Fed no ano deve marcar pausa no corte de juros,\
+    \ ao contr\xE1rio do que deseja Donald Trump"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/bc-americano-deve-manter-juro-inalterado/
+  title: "BC americano sob tens\xE3o deve liderar outros pa\xEDses e manter juros\
+    \ inalterados"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Riscos geopol\xEDticos e incertezas sobre o Fed impulsionam ouro \xE0 melhor\
     \ semana desde 2020"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-23T11:40:46+00:00'
   description: "Lideran\xE7a global na produ\xE7\xE3o de baterias e experi\xEAncia\
     \ na integra\xE7\xE3o \xE0s redes el\xE9tricas colocam empresas chinesas em posi\xE7\
@@ -18,15 +27,6 @@
   image: https://media.investnews.com.br/uploads/2026/01/448028571_3_26.jpg
   path: https://investnews.com.br/economia/como-a-china-deve-ser-a-grande-vitoriosa-do-boom-de-baterias-no-brasil/
   title: Como a China deve ser a grande vitoriosa do boom de baterias no Brasil
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-22T14:24:10+00:00'
-  description: "Um dos aliados geopol\xEDticos mais pr\xF3ximos de Trump, Milei tem\
-    \ tentado manter um equil\xEDbrio delicado entre Washington e Pequim"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/em-davos-milei-defende-comercio-com-a-china-e-busca-acordo-com-os-estados-unidos/
-  title: "Em Davos, Milei defende com\xE9rcio com a China e busca acordo com os Estados\
-    \ Unidos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
