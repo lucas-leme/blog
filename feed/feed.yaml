@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-26T15:53:34.631624'
+  date: '2026-01-26T18:33:01.041748'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T15:53:34.629850'
+  date: '2026-01-26T18:33:01.040004'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T15:53:34.629846'
+  date: '2026-01-26T18:33:01.040000'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T15:53:34.629840'
+  date: '2026-01-26T18:33:01.039995'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T15:53:34.629830'
+  date: '2026-01-26T18:33:01.039985'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,8 +400,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: Market Makers
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2026-01-26T16:09:31+00:00'
+  description: "<p>How Lincoln\u2019s approach to innovation, labor, and law offers\
+    \ a framework for ethical AI and long-term value creation.</p>\n<p>The post <a\
+    \ href=\"https://blogs.cfainstitute.org/investor/2026/01/26/lincolns-blueprint-for-ethical-ai/\"\
+    >Lincoln\u2019s Blueprint for Ethical AI</a> appeared first on <a href=\"https://blogs.cfainstitute.org/investor\"\
+    >CFA Institute Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/26/lincolns-blueprint-for-ethical-ai/
+  title: "Lincoln\u2019s Blueprint for Ethical AI"
+- author: Market Makers
+  categories: &id002
   - Podcasts
   date: '2026-01-25T00:00:00+00:00'
   description: "O STF virou \u201Cum poder sem limites\u201D e j\xE1 manda no Brasil\
@@ -461,8 +473,7 @@
   path: https://www.youtube.com/watch?v=KqfMiuL3cx4
   title: This Design Pattern Scares Me To Death
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-01-23T14:27:23+00:00'
   description: '<p>AI automates tasks in finance and boosts efficiency, but reflexive
     markets ensure interpretation and oversight remain irreducibly human work.</p>
@@ -474,7 +485,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/01/23/keynesian-folly-why-ai-will-never-fully-automate-finance/
   title: 'Keynesian Folly: Why AI Will Never Fully Automate Finance'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2026-01-23T00:00:00+00:00'
   description: "O esc\xE2ndalo do Banco Master pode expor um dos maiores esquemas\
     \ de poder entre mercado financeiro, pol\xEDtica e STF no Brasil?Neste epis\xF3\
@@ -558,19 +569,6 @@
   image: https://i1.ytimg.com/vi/DqAKQwagCDg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=DqAKQwagCDg
   title: Xiaomi 17 Ultra - More Camera than Phone!
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-22T15:27:01+00:00'
-  description: '<p>For financial analysts covering government contractors across defense,
-    healthcare, and IT, auditor specialization signals earnings quality, reporting
-    credibility, and filing timeliness.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/22/auditor-specialization-a-signal-for-financial-analysts/">Auditor
-    Specialization: A Signal for Financial Analysts</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/22/auditor-specialization-a-signal-for-financial-analysts/
-  title: 'Auditor Specialization: A Signal for Financial Analysts'
 - author: CFA Institute Research and Policy Center
   categories: &id004
   - CFA
