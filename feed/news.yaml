@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-26T13:09:06+00:00'
+  description: "At\xE9 agora, os sistemas el\xE9tricos evitaram cortes de grande escala,\
+    \ mas temperaturas abaixo de zero e sensa\xE7\xF5es t\xE9rmicas perigosas devem\
+    \ persistir ao longo da semana"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/tempestade-de-inverno-coloca-a-prova-as-redes-eletricas-dos-estados-unidos/
+  title: "Tempestade de inverno coloca \xE0 prova as redes el\xE9tricas dos Estados\
+    \ Unidos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -6,8 +17,8 @@
     \ term\xF4metro do medo nos mercados"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/ouro-ultrapassa-us-5-000-com-turbulencia-global-intensificando-corrida-por-protecao/
-  title: "Ouro ultrapassa US$ 5.000 com turbul\xEAncia global intensificando corrida\
-    \ por prote\xE7\xE3o"
+  title: "Ouro ultrapassa US$ 5 mil a on\xE7a com turbul\xEAncia global intensificando\
+    \ corrida por prote\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -44,8 +55,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qn6qkk/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-25T17:29:34+00:00'
   description: "Investidores buscam formas de se proteger contra vaiv\xE9m do presidente\
     \ americano em rela\xE7\xE3o \xE0s constantes amea\xE7as a outros pa\xEDses"
@@ -53,15 +63,6 @@
   path: https://investnews.com.br/investimentos/trump-volatilidade-mercados-protecao/
   title: "Trump volta a sacudir os mercados. Para uma parte dos investidores, isso\
     \ j\xE1 importa menos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-25T15:09:08+00:00'
-  description: "Primeira reuni\xE3o do Fed no ano deve marcar pausa no corte de juros,\
-    \ ao contr\xE1rio do que deseja Donald Trump"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/bc-americano-deve-manter-juro-inalterado/
-  title: "BC americano sob tens\xE3o deve liderar outros pa\xEDses e manter juros\
-    \ inalterados"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-01-23T18:43:55+00:00'
