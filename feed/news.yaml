@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-27T14:36:34+00:00'
+  description: "A China comprou cerca de 12 milh\xF5es de toneladas de soja dos EUA\
+    \ nos \xFAltimos tr\xEAs meses, cumprindo um compromisso anunciado pela administra\xE7\
+    \xE3o Trump em novembro"
+  image: https://media.investnews.com.br/uploads/2025/11/soja-1.webp
+  path: https://investnews.com.br/economia/apos-tregua-com-washington-china-amplia-encomendas-de-soja-do-brasil/
+  title: "Ap\xF3s tr\xE9gua com Washington, China amplia encomendas de soja do Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -10,24 +20,13 @@
   title: "Reforma tribut\xE1ria n\xE3o muda o ITBI, mas refor\xE7a fiscaliza\xE7\xE3\
     o e amplia disputas com munic\xEDpios"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-26T21:40:39+00:00'
   description: "Redu\xE7\xE3o de 5,2% na boca da refinaria tiraria menos de 0,1 ponto\
     \ percentual da infla\xE7\xE3o"
   image: https://media.investnews.com.br/uploads/2023/06/cafeina_0206.jpg
   path: https://investnews.com.br/economia/efeito-da-queda-do-preco-da-gasolina-no-ipca-pode-ser-menor-do-que-parece/
   title: "Efeito da queda do pre\xE7o da gasolina no IPCA pode ser menor do que parece"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-26T13:09:06+00:00'
-  description: "At\xE9 agora, os sistemas el\xE9tricos evitaram cortes de grande escala,\
-    \ mas temperaturas abaixo de zero e sensa\xE7\xF5es t\xE9rmicas perigosas devem\
-    \ persistir ao longo da semana"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/tempestade-de-inverno-coloca-a-prova-as-redes-eletricas-dos-estados-unidos/
-  title: "Tempestade de inverno coloca \xE0 prova as redes el\xE9tricas dos Estados\
-    \ Unidos"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-01-26T12:13:16+00:00'
