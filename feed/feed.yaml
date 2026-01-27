@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-26T21:31:14.639524'
+  date: '2026-01-27T00:49:03.556044'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T21:31:14.637777'
+  date: '2026-01-27T00:49:03.554308'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T21:31:14.637773'
+  date: '2026-01-27T00:49:03.554304'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T21:31:14.637768'
+  date: '2026-01-27T00:49:03.554299'
   description: "<div class=\"ExternalClassCDCBFF1C33134307B946FED3C094CD9C\"><p>\u200B\
     O ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -128,7 +128,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-26T21:31:14.637758'
+  date: '2026-01-27T00:49:03.554289'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,8 +400,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
-- author: Marques Brownlee
+- author: "Economia \u2013 Brazil Journal"
   categories: &id003
+  - Economia
+  date: '2026-01-26T22:38:23+00:00'
+  description: "<p>A prata chegou a subir 14% hoje \u2013 uma alta n\xE3o vista em\
+    \ quase duas d\xE9cadas \u2013 e o ouro alcan\xE7ou um novo patamar hist\xF3rico,\
+    \ superando pela primeira vez os US$ 5.000 por on\xE7a. A valoriza\xE7\xE3o dos\
+    \ metais espelha o enfraquecimento global do d\xF3lar \u2013 um trade que vem\
+    \ sendo chamado de debasement, o \u2018rebaixamento\u2019 [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/jakurski-trump-passou-dos-limites-e-isso-enfraquece-o-dolar-e-infla-emergentes/\"\
+    \ rel=\"nofollow\">Jakurski: Trump \u2018passou dos limites\u2019, e isso enfraquece\
+    \ o d\xF3lar e infla emergentes</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/jakurski-trump-passou-dos-limites-e-isso-enfraquece-o-dolar-e-infla-emergentes/
+  title: "Jakurski: Trump \u2018passou dos limites\u2019, e isso enfraquece o d\xF3\
+    lar e infla emergentes"
+- author: Marques Brownlee
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-01-26T19:13:01+00:00'
@@ -534,8 +551,7 @@
   path: https://open.spotify.com/episode/3NZPw8t6KexRF5q8Wg6OQO
   title: "#313 | O CASO MASTER \xE9 MUITO PIOR do que VOC\xCA IMAGINAVA"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id003
   date: '2026-01-22T20:48:40+00:00'
   description: "<p>A candidatura do Presidente Lula para a reelei\xE7\xE3o em 2026\
     \ est\xE1 enfraquecida, principalmente por uma menor for\xE7a no Nordeste, e as\
@@ -550,7 +566,7 @@
   path: https://braziljournal.com/fraqueza-do-pt-chama-atencao-e-lula-pode-perder-diz-consultor/
   title: "Fraqueza do PT chama aten\xE7\xE3o e Lula pode perder, diz consultor"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-01-22T19:45:23+00:00'
   description: 'All that Leica branding had me nervous...
 
@@ -595,21 +611,6 @@
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/performance-small-business-investment-companies
   title: The Performance of Small Business Investment Companies
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-01-22T00:39:03+00:00'
-  description: "<p>O Fundo Garantidor do Cr\xE9dito (FGC) dever\xE1 fazer uma chamada\
-    \ de capital de cerca de R$ 30 bilh\xF5es em \u201Cadiantamento de contribui\xE7\
-    \xF5es\u201D para recompor o fundo depois do buraco aberto com o ressarcimento\
-    \ dos investidores do Banco Master. \xC9 dif\xEDcil calcular o impacto da chamada\
-    \ de capital para cada banco, especialmente porque n\xE3o se sabe [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/o-fgc-deve-chamar-r-30-bi-o-impacto-nos-bancos-ainda-nao-esta-claro/\"\
-    \ rel=\"nofollow\">O FGC deve chamar R$ 30 bi. O impacto nos bancos ainda n\xE3\
-    o est\xE1 claro</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-fgc-deve-chamar-r-30-bi-o-impacto-nos-bancos-ainda-nao-esta-claro/
-  title: "O FGC deve chamar R$ 30 bi. O impacto nos bancos ainda n\xE3o est\xE1 claro"
 - author: The View From Apollo
   categories:
   - Podcasts
