@@ -1,3 +1,16 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-28T12:30:20+00:00'
+  description: "O ouro disparou para um recorde hist\xF3rico acima de US$ 5.300 a\
+    \ on\xE7a, estendendo uma alta vertiginosa impulsionada pela fraqueza do d\xF3\
+    lar americano e pela fuga de investidores de t\xEDtulos soberanos e moedas. O\
+    \ metal precioso avan\xE7ou at\xE9 2,5%, ap\xF3s j\xE1 ter subido 3,4% na ter\xE7\
+    a-feira \u2014 o maior ganho di\xE1rio desde abril. O presidente [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/ouro-atinge-recorde-acima-de-us-5-300-com-comentarios-de-trump-sobre-o-dolar/
+  title: "Ouro atinge recorde acima de US$ 5.300 com coment\xE1rios de Trump sobre\
+    \ o d\xF3lar"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +31,7 @@
   path: https://investnews.com.br/economia/apos-tregua-com-washington-china-amplia-encomendas-de-soja-do-brasil/
   title: "Ap\xF3s tr\xE9gua com Washington, China amplia encomendas de soja do Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-27T13:29:35+00:00'
   description: "Imposto ficou fora do novo sistema sobre consumo, mas novas regras\
     \ e o cruzamento de dados fortalecem a cobran\xE7a e aumentam o risco de autua\xE7\
@@ -28,15 +40,6 @@
   path: https://investnews.com.br/financas/reforma-tributaria-itbi/
   title: "Reforma tribut\xE1ria n\xE3o muda o ITBI, mas refor\xE7a fiscaliza\xE7\xE3\
     o e amplia disputas com munic\xEDpios"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-26T12:13:16+00:00'
-  description: "Os ganhos expressivos do ouro refor\xE7am seu papel hist\xF3rico como\
-    \ term\xF4metro do medo nos mercados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/ouro-ultrapassa-us-5-000-com-turbulencia-global-intensificando-corrida-por-protecao/
-  title: "Ouro ultrapassa US$ 5 mil a on\xE7a com turbul\xEAncia global intensificando\
-    \ corrida por prote\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
