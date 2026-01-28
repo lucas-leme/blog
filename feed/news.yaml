@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-28T19:14:57+00:00'
+  description: "Fed mant\xE9m a taxa inalterada. BC deve fazer o mesmo por aqui. Mas\
+    \ o futuro pr\xF3ximo aponta para estradas opostas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fed-banco-central-dos-estados-unidos-mantem-juros-apos-tres-cortes-consecutivos/
+  title: "Superquarta: a diferen\xE7a fundamental entre os rumos dos juros nos EUA\
+    \ e no Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -12,8 +22,7 @@
   title: "Ouro atinge recorde acima de US$ 5.300 com coment\xE1rios de Trump sobre\
     \ o d\xF3lar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-27T17:31:15+00:00'
   description: "L\xEDderes da Uni\xE3o Europeia e da \xCDndia durante a assinatura\
     \ do hist\xF3rico acordo de livre-com\xE9rcio"
@@ -21,15 +30,6 @@
   path: https://investnews.com.br/economia/o-acordo-historico-entre-uniao-europeia-e-india-em-resposta-as-tarifas-de-trump/
   title: "O acordo hist\xF3rico entre Uni\xE3o Europeia e \xCDndia em resposta \xE0\
     s tarifas de Trump"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-27T14:36:34+00:00'
-  description: "A China comprou cerca de 12 milh\xF5es de toneladas de soja dos EUA\
-    \ nos \xFAltimos tr\xEAs meses, cumprindo um compromisso anunciado pela administra\xE7\
-    \xE3o Trump em novembro"
-  image: https://media.investnews.com.br/uploads/2025/11/soja-1.webp
-  path: https://investnews.com.br/economia/apos-tregua-com-washington-china-amplia-encomendas-de-soja-do-brasil/
-  title: "Ap\xF3s tr\xE9gua com Washington, China amplia encomendas de soja do Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-01-27T13:29:35+00:00'
