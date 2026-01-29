@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-29T12:28:43+00:00'
+  description: "O cobre tem sido, h\xE1 muito tempo, um favorito dos investidores\
+    \ que veem a transi\xE7\xE3o energ\xE9tica e o crescimento dos data centers impulsionando\
+    \ a demanda"
+  image: https://media.investnews.com.br/uploads/2024/05/AdobeStock_719716858.webp
+  path: https://investnews.com.br/economia/cobre-atinge-maior-nivel-em-mais-de-16-anos/
+  title: "Cobre atinge maior n\xEDvel em mais de 16 anos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,23 +48,13 @@
   path: https://www.reddit.com/r/CFA/comments/1qpzbs5/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-28T21:31:44+00:00'
   description: "Decis\xE3o do Copom era amplamente esperada pelo mercado financeiro"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/copom-selic-juros-bc-jan-2026/
   title: "Na primeira reuni\xE3o de 2026, Banco Central mant\xE9m taxa Selic em 15%\
     \ e indica corte em mar\xE7o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-28T19:14:57+00:00'
-  description: "Os bancos centrais dos dois pa\xEDses tomaram a mesma decis\xE3o:\
-    \ manter suas taxas juros. Mas o futuro pr\xF3ximo aponta para estradas opostas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fed-banco-central-dos-estados-unidos-mantem-juros-apos-tres-cortes-consecutivos/
-  title: "Superquarta: a diferen\xE7a fundamental entre o rumo dos juros nos EUA e\
-    \ no Brasil"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
