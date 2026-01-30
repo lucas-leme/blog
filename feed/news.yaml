@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-29T21:33:15+00:00'
+  description: "Lei Complementar 214/2025 criou novos tributos e aumentou a carga\
+    \ para donos de im\xF3veis usados em plataformas como Airbnb e Booking"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/reforma-tributaria-aluguel-de-temporada/
+  title: "Imposto sobre renda com Airbnb pode ultrapassar 40% ap\xF3s a reforma tribut\xE1\
+    ria"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -56,8 +66,7 @@
   title: "Na primeira reuni\xE3o de 2026, Banco Central mant\xE9m taxa Selic em 15%\
     \ e indica corte em mar\xE7o"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-28T12:30:20+00:00'
   description: "O ouro disparou para um recorde hist\xF3rico acima de US$ 5.300 a\
     \ on\xE7a, estendendo uma alta vertiginosa impulsionada pela fraqueza do d\xF3\
@@ -68,16 +77,6 @@
   path: https://investnews.com.br/financas/ouro-atinge-recorde-acima-de-us-5-300-com-comentarios-de-trump-sobre-o-dolar/
   title: "Ouro atinge recorde acima de US$ 5.300 com coment\xE1rios de Trump sobre\
     \ o d\xF3lar"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-27T13:29:35+00:00'
-  description: "Imposto ficou fora do novo sistema sobre consumo, mas novas regras\
-    \ e o cruzamento de dados fortalecem a cobran\xE7a e aumentam o risco de autua\xE7\
-    \xF5es em opera\xE7\xF5es com im\xF3veis"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/reforma-tributaria-itbi/
-  title: "Reforma tribut\xE1ria n\xE3o muda o ITBI, mas refor\xE7a fiscaliza\xE7\xE3\
-    o e amplia disputas com munic\xEDpios"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-13T10:01:36+00:00'
