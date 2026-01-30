@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-01-30T11:28:10+00:00'
+  description: "Pessoas familiarizadas com o assunto afirmam que a escolha ainda n\xE3\
+    o \xE9 definitiva e depende de um an\xFAncio formal de Trump"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/kevin-warsh-quem-e-o-economista-que-pode-comandar-o-fed/
+  title: "Kevin Warsh: quem \xE9 o economista que pode comandar o Fed"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Imposto sobre renda com Airbnb pode ultrapassar 40% ap\xF3s a reforma tribut\xE1\
     ria"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-01-29T12:28:43+00:00'
   description: "O cobre tem sido, h\xE1 muito tempo, um favorito dos investidores\
     \ que veem a transi\xE7\xE3o energ\xE9tica e o crescimento dos data centers impulsionando\
@@ -57,14 +65,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1qpzbs5/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-01-28T21:31:44+00:00'
-  description: "Decis\xE3o do Copom era amplamente esperada pelo mercado financeiro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/copom-selic-juros-bc-jan-2026/
-  title: "Na primeira reuni\xE3o de 2026, Banco Central mant\xE9m taxa Selic em 15%\
-    \ e indica corte em mar\xE7o"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-01-28T12:30:20+00:00'
