@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-30T11:30:07.623524'
+  date: '2026-01-30T12:20:18.618986'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T11:30:07.622135'
+  date: '2026-01-30T12:20:18.617241'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T11:30:07.622131'
+  date: '2026-01-30T12:20:18.617236'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T11:30:07.622126'
+  date: '2026-01-30T12:20:18.617227'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T11:30:07.622116'
+  date: '2026-01-30T12:20:18.617217'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -399,6 +399,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-01-30T12:08:26+00:00'
+  description: "<p>Yann LeCun\u2019s testimony reframed for investment leaders: why\
+    \ AI sovereignty, platform control, and LLM economics shape organizational risk.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/01/30/ai-strategy-after-the-llm-boom-maintain-sovereignty-avoid-capture/\"\
+    >AI Strategy After the LLM Boom: Maintain Sovereignty, Avoid Capture</a> appeared\
+    \ first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/01/30/ai-strategy-after-the-llm-boom-maintain-sovereignty-avoid-capture/
+  title: 'AI Strategy After the LLM Boom: Maintain Sovereignty, Avoid Capture'
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -431,8 +444,7 @@
   path: https://braziljournal.com/spread-das-debentures-de-infra-volta-a-fechar/
   title: "Spread das deb\xEAntures de infra volta a fechar"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-01-29T12:25:29+00:00'
   description: "<p>US debt increasingly functions as market infrastructure, shaped\
     \ by who holds it and how systems like stablecoins are reshaping Treasury demand.</p>\n\
@@ -497,18 +509,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad0ed01b297cd0ff453ce41d6
   path: https://open.spotify.com/episode/1ZQPGhIZNoug6NCEQjBntN
   title: "\u2018Sell America\u2019: is US market supremacy under threat?"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-28T14:16:24+00:00'
-  description: '<p>Decompose CTA returns into fast, medium, and slow trend horizons
-    to reveal true risk drivers, benchmark overlap, and behavior during market stress.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/01/28/decoding-cta-allocations-by-trend-horizon/">Decoding
-    CTA Allocations by Trend Horizon</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/28/decoding-cta-allocations-by-trend-horizon/
-  title: Decoding CTA Allocations by Trend Horizon
 - author: Marques Brownlee
   categories: &id004
   - Tech
