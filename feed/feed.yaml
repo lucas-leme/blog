@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-01-30T02:16:39.359249'
+  date: '2026-01-30T11:15:04.243630'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T02:16:39.357513'
+  date: '2026-01-30T11:15:04.241895'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T02:16:39.357508'
+  date: '2026-01-30T11:15:04.241891'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T02:16:39.357504'
+  date: '2026-01-30T11:15:04.241886'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-01-30T02:16:39.357494'
+  date: '2026-01-30T11:15:04.241876'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -400,8 +400,24 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/10122025
   title: "BC - Copom Ata - 275\xAA Reuni\xE3o - 9-10 dezembro, 2025"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id001
   - Economia
+  date: '2026-01-30T09:50:59+00:00'
+  description: "<p>H\xE1 uma s\xE9rie de for\xE7as empurrando o d\xF3lar para baixo,\
+    \ mas duas parecem ter acelerado a onda mais recente de desvaloriza\xE7\xE3o:\
+    \ os ataques de Donald Trump ao Federal Reserve e suas amea\xE7as \xE0 Groenl\xE2\
+    ndia, colocando em d\xFAvida a coes\xE3o da alian\xE7a com a Europa. Esta \xE9\
+    \ a opini\xE3o de Barry Eichengreen, professor de economia e [&#8230;]</p>\n<p>The\
+    \ post <a href=\"https://braziljournal.com/mundo-quer-hedge-contra-o-dolar-mas-nao-ha-para-onde-correr-diz-eichengreen/\"\
+    \ rel=\"nofollow\">Mundo quer hedge contra o d\xF3lar, mas n\xE3o h\xE1 para onde\
+    \ correr, diz Eichengreen</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/mundo-quer-hedge-contra-o-dolar-mas-nao-ha-para-onde-correr-diz-eichengreen/
+  title: "Mundo quer hedge contra o d\xF3lar, mas n\xE3o h\xE1 para onde correr, diz\
+    \ Eichengreen"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2026-01-29T21:36:18+00:00'
   description: "<p>Depois de tr\xEAs meses abrindo, os yields das deb\xEAntures incentivadas\
     \ de infraestrutura voltaram a fechar de maneira significativa este m\xEAs. A\
@@ -415,7 +431,7 @@
   path: https://braziljournal.com/spread-das-debentures-de-infra-volta-a-fechar/
   title: "Spread das deb\xEAntures de infra volta a fechar"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-01-29T12:25:29+00:00'
   description: "<p>US debt increasingly functions as market infrastructure, shaped\
@@ -482,7 +498,7 @@
   path: https://open.spotify.com/episode/1ZQPGhIZNoug6NCEQjBntN
   title: "\u2018Sell America\u2019: is US market supremacy under threat?"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2026-01-28T14:16:24+00:00'
   description: '<p>Decompose CTA returns into fast, medium, and slow trend horizons
     to reveal true risk drivers, benchmark overlap, and behavior during market stress.</p>
@@ -493,20 +509,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/01/28/decoding-cta-allocations-by-trend-horizon/
   title: Decoding CTA Allocations by Trend Horizon
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-01-27T20:13:52+00:00'
-  description: "<p>O Federal Reserve iniciou um ciclo de al\xEDvio monet\xE1rio em\
-    \ setembro de 2024, trazendo a taxa b\xE1sica de 5,5% para o patamar atual entre\
-    \ 3,75% e 3,5%. Mas em vez de acompanhar esse movimento, a curva dos juros longos\
-    \ empinou. O que explica esse \u201Cmist\xE9rio\u201D? Torsten Slok, o economista-chefe\
-    \ da Apollo Global Management, destrinchou os [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/por-que-a-curva-de-juros-empinou-nos-eua/\" rel=\"nofollow\"\
-    >Por que a curva de juros empinou nos EUA</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/por-que-a-curva-de-juros-empinou-nos-eua/
-  title: Por que a curva de juros empinou nos EUA
 - author: Marques Brownlee
   categories: &id004
   - Tech
