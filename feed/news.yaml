@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-01-31T14:25:44+00:00'
+  description: "Companhias avaliam que investimentos no pa\xEDs ainda t\xEAm muitos\
+    \ riscos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/exxon-e-chevron-ainda-resistem-ao-apelo-de-trump-para-investir-us-100-bilhoes-na-venezuela/
+  title: "Exxon e Chevron ainda resistem ao apelo de Trump para investir US$ 100 bilh\xF5\
+    es na Venezuela"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -38,8 +48,7 @@
   title: "O STF refor\xE7ou a imunidade do ITBI, mas os munic\xEDpios encontraram\
     \ outro jeito de cobrar o imposto"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-01-30T15:14:30+00:00'
   description: "Trump assinou uma ordem executiva que primeiro identificar\xE1 quais\
     \ pa\xEDses fornecem petr\xF3leo a Cuba"
@@ -47,14 +56,6 @@
   path: https://investnews.com.br/economia/trump-ameaca-aplicar-tarifas-a-paises-que-exportam-petroleo-para-cuba/
   title: "Trump amea\xE7a aplicar tarifas a pa\xEDses que exportam petr\xF3leo para\
     \ Cuba"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-01-30T12:02:45+00:00'
-  description: "O economista sucede Jerome Powell e assume o comando do banco central\
-    \ dos EUA em um momento delicado para a pol\xEDtica monet\xE1ria"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-nomeia-kevin-warsh-para-comandar-o-fed/
-  title: Trump nomeia Kevin Warsh como presidente do Fed
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-29T05:01:33+00:00'
