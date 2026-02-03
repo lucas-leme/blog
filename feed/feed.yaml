@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-03T18:36:38.649647'
+  date: '2026-02-03T20:33:07.239724'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T18:36:38.647909'
+  date: '2026-02-03T20:33:07.237981'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T18:36:38.647906'
+  date: '2026-02-03T20:33:07.237977'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T18:36:38.647901'
+  date: '2026-02-03T20:33:07.237972'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T18:36:38.647893'
+  date: '2026-02-03T20:33:07.237963'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -397,8 +397,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id001
+  - Economia
+  date: '2026-02-03T19:15:58+00:00'
+  description: "<p>O novo presidente da Bol\xEDvia, Rodrigo Paz, disse que pretende\
+    \ apresentar \u201Cnos pr\xF3ximos dias ou meses\u201D um amplo pacote de reformas\
+    \ econ\xF4micas chamado \u201CCapitalismo para Todos\u201D, para aumentar os investimentos\
+    \ externos no pa\xEDs. O novo l\xEDder do pa\xEDs andino disse ao Financial Times\
+    \ que seu governo est\xE1 elaborando propostas que visam modernizar o setor de\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/\"\
+    \ rel=\"nofollow\">Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D\
+    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/
+  title: "Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
   - CFA
   date: '2026-02-03T18:12:25+00:00'
   description: '<p>A rigorous exploration of bitcoin reveals a new framework for understanding
@@ -446,8 +462,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2026/five-financial-eras
   title: Five Financial Eras
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2026-02-03T09:50:49+00:00'
   description: "<p>As novas regras do leil\xE3o de capacidade \u2013 publicadas na\
     \ semana passada \u2013 n\xE3o podem colocar em risco a seguran\xE7a do suprimento\
@@ -535,7 +550,7 @@
   path: https://www.youtube.com/watch?v=cXl-AUXHHZY
   title: "10 Python Features You\u2019re Not Using (But Really Should)"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2026-01-30T12:08:26+00:00'
   description: "<p>Yann LeCun\u2019s testimony reframed for investment leaders: why\
     \ AI sovereignty, platform control, and LLM economics shape organizational risk.</p>\n\
@@ -546,22 +561,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/01/30/ai-strategy-after-the-llm-boom-maintain-sovereignty-avoid-capture/
   title: 'AI Strategy After the LLM Boom: Maintain Sovereignty, Avoid Capture'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-01-30T09:50:59+00:00'
-  description: "<p>H\xE1 uma s\xE9rie de for\xE7as empurrando o d\xF3lar para baixo,\
-    \ mas duas parecem ter acelerado a onda mais recente de desvaloriza\xE7\xE3o:\
-    \ os ataques de Donald Trump ao Federal Reserve e suas amea\xE7as \xE0 Groenl\xE2\
-    ndia, colocando em d\xFAvida a coes\xE3o da alian\xE7a com a Europa. Esta \xE9\
-    \ a opini\xE3o de Barry Eichengreen, professor de economia e [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/mundo-quer-hedge-contra-o-dolar-mas-nao-ha-para-onde-correr-diz-eichengreen/\"\
-    \ rel=\"nofollow\">Mundo quer hedge contra o d\xF3lar, mas n\xE3o h\xE1 para onde\
-    \ correr, diz Eichengreen</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/mundo-quer-hedge-contra-o-dolar-mas-nao-ha-para-onde-correr-diz-eichengreen/
-  title: "Mundo quer hedge contra o d\xF3lar, mas n\xE3o h\xE1 para onde correr, diz\
-    \ Eichengreen"
 - author: Market Makers
   categories: *id003
   date: '2026-01-29T00:00:00+00:00'
