@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-03T12:21:27.103487'
+  date: '2026-02-03T13:53:56.720533'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T12:21:27.101755'
+  date: '2026-02-03T13:53:56.718829'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T12:21:27.101751'
+  date: '2026-02-03T13:53:56.718825'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T12:21:27.101746'
+  date: '2026-02-03T13:53:56.718821'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-03T12:21:27.101735'
+  date: '2026-02-03T13:53:56.718812'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -397,6 +397,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: &id005
+  - CFA
+  date: '2026-02-03T12:00:00+00:00'
+  description: This monograph maps nine centuries of data into financial eras, showing
+    how trade, war, inflation, and government drive shifting equity risk premia, bond
+    returns, and regime-based asset allocation decisions today.
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2026/five-financial-eras
+  title: Five Financial Eras
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -463,7 +473,7 @@
   path: https://www.youtube.com/shorts/Qr4anBkL2_A
   title: This is NOT an iPhone
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -608,15 +618,14 @@
   title: "Fundos no Brasil ultrapassam R$10 tri: o que muda para voc\xEA? | Espresso\
     \ Outliers InfoMoney #07"
 - author: CFA Institute Research and Policy Center
-  categories: &id006
-  - CFA
+  categories: *id005
   date: '2026-01-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/big-data-meets-turbulent-oil-market
   title: Big Data Meets the Turbulent Oil Market
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-01-23T16:00:35+00:00'
   description: "\U0001F449 Get real-time, search result data from Google, Youtube\
     \ and more with SerpApi: https://serpapi.link/arjan-codes-jan-2025.\n\nBusiness\
@@ -638,13 +647,6 @@
   image: https://i4.ytimg.com/vi/KqfMiuL3cx4/hqdefault.jpg
   path: https://www.youtube.com/watch?v=KqfMiuL3cx4
   title: This Design Pattern Scares Me To Death
-- author: CFA Institute Research and Policy Center
-  categories: *id006
-  date: '2026-01-22T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/performance-small-business-investment-companies
-  title: The Performance of Small Business Investment Companies
 - author: The View From Apollo
   categories:
   - Podcasts
