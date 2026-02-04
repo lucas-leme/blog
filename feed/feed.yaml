@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-04T12:21:33.326743'
+  date: '2026-02-04T13:53:09.716026'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-04T12:21:33.324982'
+  date: '2026-02-04T13:53:09.714262'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-04T12:21:33.324978'
+  date: '2026-02-04T13:53:09.714257'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-04T12:21:33.324973'
+  date: '2026-02-04T13:53:09.714253'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-04T12:21:33.324964'
+  date: '2026-02-04T13:53:09.714243'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -397,8 +397,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
-- author: "Economia \u2013 Brazil Journal"
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2026-02-04T13:34:47+00:00'
+  description: '<p>Why S&#038;P 500 reliance can undermine retirement outcomes, and
+    how diversification, valuation discipline, and withdrawals reshape long-term portfolio
+    risk.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/04/three-risks-of-relying-on-the-sp-500-in-retirement-planning/">Three
+    Risks of Relying on the S&amp;P 500 in Retirement Planning</a> appeared first
+    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
+    Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/02/04/three-risks-of-relying-on-the-sp-500-in-retirement-planning/
+  title: Three Risks of Relying on the S&P 500 in Retirement Planning
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2026-02-03T19:15:58+00:00'
   description: "<p>O novo presidente da Bol\xEDvia, Rodrigo Paz, disse que pretende\
@@ -414,8 +429,7 @@
   path: https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/
   title: "Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-02-03T18:12:25+00:00'
   description: '<p>A rigorous exploration of bitcoin reveals a new framework for understanding
     money beyond traditional financial models.</p>
@@ -462,7 +476,7 @@
   path: https://rpc.cfainstitute.org/research/foundation/2026/five-financial-eras
   title: Five Financial Eras
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-02-03T09:50:49+00:00'
   description: "<p>As novas regras do leil\xE3o de capacidade \u2013 publicadas na\
     \ semana passada \u2013 n\xE3o podem colocar em risco a seguran\xE7a do suprimento\
@@ -570,18 +584,6 @@
   image: https://i4.ytimg.com/vi/cXl-AUXHHZY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=cXl-AUXHHZY
   title: "10 Python Features You\u2019re Not Using (But Really Should)"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-01-30T12:08:26+00:00'
-  description: "<p>Yann LeCun\u2019s testimony reframed for investment leaders: why\
-    \ AI sovereignty, platform control, and LLM economics shape organizational risk.</p>\n\
-    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/01/30/ai-strategy-after-the-llm-boom-maintain-sovereignty-avoid-capture/\"\
-    >AI Strategy After the LLM Boom: Maintain Sovereignty, Avoid Capture</a> appeared\
-    \ first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/01/30/ai-strategy-after-the-llm-boom-maintain-sovereignty-avoid-capture/
-  title: 'AI Strategy After the LLM Boom: Maintain Sovereignty, Avoid Capture'
 - author: Market Makers
   categories: *id003
   date: '2026-01-29T00:00:00+00:00'
