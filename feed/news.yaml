@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-04T20:17:12+00:00'
+  description: "A consultoria Rystad estima que projetos\u2011estrat\xE9gicos nos\
+    \ tr\xEAs pa\xEDses adicionar\xE3o mais de 700 mil barris por dia \xE0 produ\xE7\
+    \xE3o de petr\xF3leo este ano"
+  image: https://media.investnews.com.br/uploads/2025/10/Petroleo_-GettyImages.jpg
+  path: https://investnews.com.br/economia/brasil-argentina-e-guiana-lideram-expansao-da-producao-de-petroleo-na-america-do-sul/
+  title: "Brasil, Argentina e Guiana lideram expans\xE3o da produ\xE7\xE3o de petr\xF3\
+    leo na Am\xE9rica do Sul"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -12,8 +23,7 @@
   title: "IR 2026: isen\xE7\xE3o j\xE1 vale no sal\xE1rio em fevereiro; simule o impacto\
     \ nas calculadoras"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-03T15:03:02+00:00'
   description: "A parceria tem como objetivo encontrar, de forma conjunta, maneiras\
     \ de obter minerais cr\xEDticos sem depender da China"
@@ -21,15 +31,6 @@
   path: https://investnews.com.br/economia/uniao-europeia-propoe-parceria-com-estados-unidos-em-minerais-criticos/
   title: "Uni\xE3o Europeia prop\xF5e parceria com Estados Unidos em minerais cr\xED\
     ticos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-02-02T18:51:58+00:00'
-  description: "A medida oferece al\xEDvio significativo para Nova D\xE9lhi, que vinha\
-    \ tentando h\xE1 meses negociar uma tarifa menor com Washington"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-anuncia-corte-de-tarifas-para-18-apos-india-suspender-compras-de-petroleo-russo/
-  title: "Trump anuncia corte de tarifas para 18% ap\xF3s \xCDndia suspender compras\
-    \ de petr\xF3leo russo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
