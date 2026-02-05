@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-05T15:59:34.422616'
+  date: '2026-02-05T18:34:29.935506'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-05T15:59:34.420826'
+  date: '2026-02-05T18:34:29.933762'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-05T15:59:34.420821'
+  date: '2026-02-05T18:34:29.933759'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-05T15:59:34.420817'
+  date: '2026-02-05T18:34:29.933754'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-05T15:59:34.420807'
+  date: '2026-02-05T18:34:29.933744'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2026-02-05T17:01:35+00:00'
+  description: "<p>AI\u2019s growing capabilities challenge traditional investment\
+    \ skill, shifting competitive advantage toward governance, process, and judgment.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/02/05/where-ai-ends-and-investment-judgment-begins/\"\
+    >Where AI Ends and Investment Judgment Begins</a> appeared first on <a href=\"\
+    https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/02/05/where-ai-ends-and-investment-judgment-begins/
+  title: Where AI Ends and Investment Judgment Begins
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -431,7 +443,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/02/does-the-phillips-curve-steepen-when-costs-surge/
   title: Does the Phillips Curve Steepen When Costs Surge?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-02-05T09:50:30+00:00'
   description: "<p>Um brasileiro entra em uma loja em Lisboa e pede um caf\xE9. Escaneia\
@@ -446,9 +458,25 @@
   path: https://braziljournal.com/opiniao-pix-roaming-quando-a-experiencia-de-pagamentos-cruza-fronteiras/
   title: "OPINI\xC3O. \u2018Pix Roaming\u2019: quando a experi\xEAncia de pagamentos\
     \ cruza fronteiras"
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2026-02-05T00:00:00+00:00'
+  description: "Japan\u2019s prime minister looks set for a big victory in this week\u2019\
+    s snap election. In a bid to address Japan\u2019s prolonged stagnation and rising\
+    \ cost of living, Takaichi Sanae has promised tax cuts and high government spending.\
+    \ How could her plans reshape the economy\u2014and why have they rattled global\
+    \ markets?Hosts: Ethan Wu, Mike Bird and Alice Fulwood. Guest: Tobias Harris,\
+    \ founder of Japan Foresight.Transcripts of our podcasts are available via economist.com/podcasts.Listen\
+    \ to what matters most, from global politics and business to science and technology\u2014\
+    subscribe to Economist Podcasts+.For more information about how to access Economist\
+    \ Podcasts+, please visit our FAQs page or watch our video explaining how to link\
+    \ your account."
+  image: https://i.scdn.co/image/ab6765630000ba8a13419eae25234592e175b424
+  path: https://open.spotify.com/episode/54jOHp7SzqynmOWsSruM6F
+  title: "Japan\u2019s election: why investors are worried"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-02-04T13:34:47+00:00'
   description: '<p>Why S&#038;P 500 reliance can undermine retirement outcomes, and
     how diversification, valuation discipline, and withdrawals reshape long-term portfolio
@@ -487,7 +515,7 @@
   path: https://open.spotify.com/episode/0UqP3WaAHfJqKisw44TRiv
   title: '#318 | UMA AULA SOBRE ECONOMIA E INVESTIMENTOS COM DUAS LENDAS DO MERCADO'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-02-03T19:15:58+00:00'
   description: "<p>O novo presidente da Bol\xEDvia, Rodrigo Paz, disse que pretende\
     \ apresentar \u201Cnos pr\xF3ximos dias ou meses\u201D um amplo pacote de reformas\
@@ -501,18 +529,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/
   title: "Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D"
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-02-03T18:12:25+00:00'
-  description: '<p>A rigorous exploration of bitcoin reveals a new framework for understanding
-    money beyond traditional financial models.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/03/book-review-principles-of-bitcoin/">Book
-    Review: Principles of Bitcoin</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/02/03/book-review-principles-of-bitcoin/
-  title: 'Book Review: Principles of Bitcoin'
 - author: CFA Institute Research and Policy Center
   categories: *id003
   date: '2026-02-03T12:00:00+00:00'
@@ -615,24 +631,6 @@
   image: https://i4.ytimg.com/vi/cXl-AUXHHZY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=cXl-AUXHHZY
   title: "10 Python Features You\u2019re Not Using (But Really Should)"
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2026-01-29T00:00:00+00:00'
-  description: "From assaults on Federal Reserve independence to his threats to seize\
-    \ Greenland, the first year of Donald Trump\u2019s second stint in the White House\
-    \ has been head-spinning. But so far, one cohort at least appears unfazed: investors.\
-    \ The S&amp;P 500 has risen 15% over the past 12 months and hit yet another all-time\
-    \ high on January 27th. So what, if anything, would it take for investors to \u201C\
-    sell America\u201D?Hosts: Mike Bird, Alice Fulwood and Ethan Wu. Guest: Marko\
-    \ Papic from BCA Research.Transcripts of our podcasts are available via economist.com/podcasts.Listen\
-    \ to what matters most, from global politics and business to science and technology\u2014\
-    subscribe to Economist Podcasts+.For more information about how to access Economist\
-    \ Podcasts+, please visit our FAQs page or watch our video explaining how to link\
-    \ your account."
-  image: https://i.scdn.co/image/ab6765630000ba8ad0ed01b297cd0ff453ce41d6
-  path: https://open.spotify.com/episode/1ZQPGhIZNoug6NCEQjBntN
-  title: "\u2018Sell America\u2019: is US market supremacy under threat?"
 - author: Marques Brownlee
   categories: *id005
   date: '2026-01-27T17:36:20+00:00'
