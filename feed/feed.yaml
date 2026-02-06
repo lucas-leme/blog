@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-06T15:59:16.338900'
+  date: '2026-02-06T18:34:19.911170'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T15:59:16.337154'
+  date: '2026-02-06T18:34:19.909437'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T15:59:16.337150'
+  date: '2026-02-06T18:34:19.909433'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T15:59:16.337145'
+  date: '2026-02-06T18:34:19.909429'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T15:59:16.337136'
+  date: '2026-02-06T18:34:19.909418'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,34 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-02-06T16:01:06+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nIn this video, I take a small but realistic Python animation API and refactor\
+    \ it step by step into a fluent interface that reads like a story instead of a\
+    \ configuration file. You\u2019ll see a clear \u201Cbefore\u201D version with\
+    \ clunky lists and hard-to-read setup, and then watch how the same behavior becomes\
+    \ more expressive and maintainable by introducing method chaining and domain-specific\
+    \ fluent methods. Along the way, I explain what the fluent interface pattern actually\
+    \ is, how it differs from the builder pattern, where you already use it in Python\
+    \ without realizing it, and when you should not use it.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2026/fluent.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:58 What Is a Fluent Interface? (Quick Definition)\n1:43 Real-Life\
+    \ Fluent Interfaces in Python (You Already Use Them)\n2:13 The Domain: A Tiny\
+    \ Animation Engine\n6:17 Before Version: Non-Fluent Animation Definition\n7:30\
+    \ The Engine: How play_scene Works\n8:17 Refactor Step 1: Add an add() Method\n\
+    9:47 Refactor Step 2: Turn add() into a Fluent API\n11:20 Refactor Step 3: Domain-Specific\
+    \ Fluent Methods\n14:49 When to Use Fluent Interfaces\n15:18 When NOT to Use Fluent\
+    \ Interfaces\n16:34 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/f1Nb_JV_s8Y/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
+  title: 'The Fluent Interface Pattern: A Better Way to Design Python APIs'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -575,7 +603,7 @@
   path: https://theovershoot.co/p/russian-war-spending-may-be-maxed
   title: Russian War Spending May be Maxed Out
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-02-03T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -595,7 +623,7 @@
   title: "Entenda como a pol\xEDtica e a economia impactam os investimentos | Espresso\
     \ Outliers InfoMoney #08"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2026-01-30T19:34:19+00:00'
@@ -604,10 +632,7 @@
   path: https://www.youtube.com/shorts/Qr4anBkL2_A
   title: This is NOT an iPhone
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2026-01-30T16:01:02+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nPython has a lot of powerful features hiding in plain sight, and many developers\
@@ -629,14 +654,14 @@
   path: https://www.youtube.com/watch?v=cXl-AUXHHZY
   title: "10 Python Features You\u2019re Not Using (But Really Should)"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2026-01-27T17:36:20+00:00'
   description: AR glasses at night
   image: https://i1.ytimg.com/vi/LXmNeVLM4e4/hqdefault.jpg
   path: https://www.youtube.com/shorts/LXmNeVLM4e4
   title: 'PSA: You look like this'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-01-27T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -654,30 +679,6 @@
   path: https://open.spotify.com/episode/2UmIo4HLgyKrTFxBceRJWI
   title: "Fundos no Brasil ultrapassam R$10 tri: o que muda para voc\xEA? | Espresso\
     \ Outliers InfoMoney #07"
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-01-23T16:00:35+00:00'
-  description: "\U0001F449 Get real-time, search result data from Google, Youtube\
-    \ and more with SerpApi: https://serpapi.link/arjan-codes-jan-2025.\n\nBusiness\
-    \ rules have a nasty habit of spreading across your codebase: copied into APIs,\
-    \ reports, scripts, and slowly drifting out of sync. In this video, I start with\
-    \ a very real, very messy example of duplicated if-statements and show how it\
-    \ escalates into bugs and confusion. Then I refactor it step by step using the\
-    \ Specification Pattern, in a practical, Pythonic style that lets you compose\
-    \ rules, test them in isolation, and even turn your logic into data that can live\
-    \ in config files.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/spec.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:49 What is the Specification Pattern\n3:47 The Goal: Reusable, Composable Rules\n\
-    4:21 Step 1: The Simplest Possible Predicate\n13:56 Step 2: Make Defining Predicates\
-    \ Pleasant\n16:48 Step 3: Generalize With Generics and Rule Factories\n20:00 Step\
-    \ 4: A Single @Rule Decorator for All Rules\n24:54 Step 5: Composing Rules in\
-    \ the User Domain\n25:36 Step 6: Loading Rules From Config (Real Specification\
-    \ Power)\n28:30 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/KqfMiuL3cx4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=KqfMiuL3cx4
-  title: This Design Pattern Scares Me To Death
 - author: The View From Apollo
   categories:
   - Podcasts
