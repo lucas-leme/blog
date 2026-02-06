@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-06T18:34:19.911170'
+  date: '2026-02-06T20:32:43.088535'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T18:34:19.909437'
+  date: '2026-02-06T20:32:43.086965'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T18:34:19.909433'
+  date: '2026-02-06T20:32:43.086960'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T18:34:19.909429'
+  date: '2026-02-06T20:32:43.086955'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-06T18:34:19.909418'
+  date: '2026-02-06T20:32:43.086944'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-02-06T20:25:19+00:00'
+  description: "<p>LISBOA \u2014 Ao ser eleito deputado pela primeira vez em 2019,\
+    \ Andr\xE9 Ventura tinha acabado de criar o partido ultraconservador Chega. Na\
+    \ campanha, o ent\xE3o candidato disse que em oito anos seu partido se tornaria\
+    \ a maior for\xE7a pol\xEDtica de Portugal. N\xE3o errou por muito. Com 60 deputados,\
+    \ o Chega tem hoje a segunda maior [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/em-portugal-um-ultraconservador-que-nem-a-direita-quer/\"\
+    \ rel=\"nofollow\">Em Portugal, um ultraconservador que nem a direita quer\_</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/em-portugal-um-ultraconservador-que-nem-a-direita-quer/
+  title: Em Portugal, um ultraconservador que nem a direita quer
 - author: ArjanCodes
   categories: &id005
   - Tech
@@ -437,7 +452,7 @@
     \ Interfaces\n16:34 Final Thoughts\n\n#arjancodes #softwaredesign #python"
   image: https://i3.ytimg.com/vi/f1Nb_JV_s8Y/hqdefault.jpg
   path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
-  title: 'The Fluent Interface Pattern: A Better Way to Design Python APIs'
+  title: 'Stop Building Ugly APIs: Use the Fluent Interface Pattern'
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -452,7 +467,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/02/06/stockholms-capital-markets-success-more-than-meatballs/
   title: "Stockholm\u2019s Capital Markets Success: More Than Meatballs"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-02-06T00:00:00+00:00'
   description: "Como uma fraude bilion\xE1ria conseguiu crescer por anos sem ser interrompida?Neste\
@@ -511,8 +526,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/02/does-the-phillips-curve-steepen-when-costs-surge/
   title: Does the Phillips Curve Steepen When Costs Surge?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-02-05T09:50:30+00:00'
   description: "<p>Um brasileiro entra em uma loja em Lisboa e pede um caf\xE9. Escaneia\
     \ um QR Code e paga com Pix. O valor sai instantaneamente da sua conta em reais,\
@@ -544,7 +558,7 @@
   path: https://open.spotify.com/episode/54jOHp7SzqynmOWsSruM6F
   title: "Japan\u2019s election: why investors are worried"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-02-04T00:00:00+00:00'
   description: "O que vai acontecer com os juros, o d\xF3lar e a bolsa no Brasil?Neste\
     \ epis\xF3dio do Market Makers, Thiago Salom\xE3o recebe Alfredo Menezes (Armor\
@@ -567,21 +581,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ab6adece349eeeb1c19ca9b1e
   path: https://open.spotify.com/episode/0UqP3WaAHfJqKisw44TRiv
   title: '#318 | UMA AULA SOBRE ECONOMIA E INVESTIMENTOS COM DUAS LENDAS DO MERCADO'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-02-03T19:15:58+00:00'
-  description: "<p>O novo presidente da Bol\xEDvia, Rodrigo Paz, disse que pretende\
-    \ apresentar \u201Cnos pr\xF3ximos dias ou meses\u201D um amplo pacote de reformas\
-    \ econ\xF4micas chamado \u201CCapitalismo para Todos\u201D, para aumentar os investimentos\
-    \ externos no pa\xEDs. O novo l\xEDder do pa\xEDs andino disse ao Financial Times\
-    \ que seu governo est\xE1 elaborando propostas que visam modernizar o setor de\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/\"\
-    \ rel=\"nofollow\">Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D\
-    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/novo-presidente-da-bolivia-quer-capitalismo-para-todos/
-  title: "Novo presidente da Bol\xEDvia quer \u201Ccapitalismo para todos\u201D"
 - author: CFA Institute Research and Policy Center
   categories: *id004
   date: '2026-02-03T12:00:00+00:00'
