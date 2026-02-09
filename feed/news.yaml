@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-09T14:00:02+00:00'
+  description: "O governo alertou as companhias a\xE9reas internacionais de que n\xE3\
+    o \xE9 mais poss\xEDvel reabastecerem em seu principal aeroporto em Havana"
+  image: https://media.investnews.com.br/uploads/2025/08/Cuba_GettyImages.jpg
+  path: https://investnews.com.br/economia/sem-combustivel-cuba-corre-o-risco-de-perder-servicos-aereos/
+  title: "Sem combust\xEDvel, Cuba avisa a\xE9reas internacionais que n\xE3o pode\
+    \ mais reabastecer em Havana"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1qzv91d/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-07T15:35:04+00:00'
   description: "Autoridade monet\xE1ria chinesa iniciou o ciclo mais recente de compras\
     \ do metal precioso em novembro de 2024 e seguiu comprando mesmo com as oscila\xE7\
@@ -43,15 +52,6 @@
   image: https://media.investnews.com.br/uploads/2025/09/Ouro_Getty_Images.jpg
   path: https://investnews.com.br/economia/bc-china-continua-compra-de-ouro/
   title: "Para o banco central da China, a ordem ainda \xE9 de compra de ouro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-02-06T22:04:08+00:00'
-  description: "Medida eleva exporta\xE7\xF5es a 100 mil toneladas e pressiona produtores\
-    \ americanos em meio a escassez hist\xF3rica de gado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/carne-argentina-cota-eua-2026/
-  title: "Trump aumenta cota de importa\xE7\xE3o de carne argentina para baratear\
-    \ hamb\xFArguer nos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
