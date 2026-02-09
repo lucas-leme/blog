@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-09T20:33:54.472611'
+  date: '2026-02-09T21:34:13.965059'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-09T20:33:54.470856'
+  date: '2026-02-09T21:34:13.963288'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-09T20:33:54.470853'
+  date: '2026-02-09T21:34:13.963283'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-09T20:33:54.470848'
+  date: '2026-02-09T21:34:13.963279'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-09T20:33:54.470838'
+  date: '2026-02-09T21:34:13.963269'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-02-09T20:29:07+00:00'
+  description: "<p>Leveraged ETFs aren\u2019t about more risk, they\u2019re about\
+    \ using less capital to achieve a desired risk profile in household portfolios.</p>\n\
+    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/02/09/rethinking-household-asset-allocation-under-capital-constraints/\"\
+    >Rethinking Household Asset Allocation Under Capital Constraints</a> appeared\
+    \ first on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
+    \ Investor</a>.</p>"
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/02/09/rethinking-household-asset-allocation-under-capital-constraints/
+  title: Rethinking Household Asset Allocation Under Capital Constraints
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -450,7 +463,7 @@
   path: https://braziljournal.com/opiniao-destravando-o-potencial-do-brasil/
   title: "OPINI\xC3O. Destravando o potencial do Brasil"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-02-08T00:00:00+00:00'
   description: "A China entrou na fase mais dif\xEDcil do seu modelo \u2014 e isso\
@@ -545,8 +558,7 @@
   path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
   title: 'Stop Building Ugly APIs: Use the Fluent Interface Pattern'
 - author: CFA Institute Enterprising Investor
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2026-02-06T14:22:11+00:00'
   description: "<p>Stockholm\u2019s capital-market success reflects more than IPOs\
     \ and PE activity. It offers a case study in how culture, institutions, and incentives\
@@ -558,7 +570,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/02/06/stockholms-capital-markets-success-more-than-meatballs/
   title: "Stockholm\u2019s Capital Markets Success: More Than Meatballs"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-02-06T00:00:00+00:00'
   description: "Como uma fraude bilion\xE1ria conseguiu crescer por anos sem ser interrompida?Neste\
     \ epis\xF3dio, Malu Gaspar explica os bastidores do caso Banco Master e revela\
@@ -584,17 +596,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a11f32a81f8eae43aa2a0bfef
   path: https://open.spotify.com/episode/1PEWxSnLEiO0S6a4417Jru
   title: "#319 | A MULHER QUE EXP\xD4S OS SEGREDOS DO BANCO MASTER (MALU GASPAR)"
-- author: CFA Institute Enterprising Investor
-  categories: *id003
-  date: '2026-02-05T17:01:35+00:00'
-  description: "<p>AI\u2019s growing capabilities challenge traditional investment\
-    \ skill, shifting competitive advantage toward governance, process, and judgment.</p>\n\
-    <p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/02/05/where-ai-ends-and-investment-judgment-begins/\"\
-    >Where AI Ends and Investment Judgment Begins</a> appeared first on <a href=\"\
-    https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/02/05/where-ai-ends-and-investment-judgment-begins/
-  title: Where AI Ends and Investment Judgment Begins
 - author: Liberty Street Economics
   categories:
   - Macro
