@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-10T12:29:36.349763'
+  date: '2026-02-10T14:02:37.644411'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T12:29:36.347992'
+  date: '2026-02-10T14:02:37.642163'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T12:29:36.347988'
+  date: '2026-02-10T14:02:37.642145'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T12:29:36.347983'
+  date: '2026-02-10T14:02:37.642140'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T12:29:36.347974'
+  date: '2026-02-10T14:02:37.642131'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,8 +410,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
-- author: "Economia \u2013 Brazil Journal"
+- author: Apricitas Economics
+  categories: &id009
+  - Macro
+  - Newsletters
+  date: '2026-02-10T13:30:25+00:00'
+  description: US AI-Related Investment Keeps Breaking Records, With Total Software,
+    Computer, & Data Center Spending Now Exceeding $1T Per Year
+  image: https://substackcdn.com/image/fetch/$s_!nF_P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0b56f7-b0b4-429d-8d35-0a301466c076_2886x1843.png
+  path: https://www.apricitas.io/p/americas-1t-ai-gamble
+  title: America's $1T AI Gamble
+- author: CFA Institute Enterprising Investor
   categories: &id001
+  - CFA
+  date: '2026-02-10T13:11:18+00:00'
+  description: '<p>In competitive PE markets, successful LBOs depend on durable business
+    models, recurring cash flows, defensible market positions, and disciplined target
+    selection.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/10/what-makes-an-ideal-leveraged-buyout-candidate/">What
+    Makes an Ideal Leveraged Buyout Candidate?</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/02/10/what-makes-an-ideal-leveraged-buyout-candidate/
+  title: What Makes an Ideal Leveraged Buyout Candidate?
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
   - Economia
   date: '2026-02-09T21:47:55+00:00'
   description: "<p>Surfando a demanda por cr\xE9dito e equity nos mercados emergentes\
@@ -426,8 +450,7 @@
   path: https://braziljournal.com/tesouro-capta-us-45-bi-com-bond-de-10-anos-e-reabertura-do-global-56/
   title: Tesouro capta US$ 4,5 bi com bond de 10 anos e reabertura do Global 56
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-02-09T20:29:07+00:00'
   description: "<p>Leveraged ETFs aren\u2019t about more risk, they\u2019re about\
     \ using less capital to achieve a desired risk profile in household portfolios.</p>\n\
@@ -463,7 +486,7 @@
   path: https://open.spotify.com/episode/3U9aT2aqCS2ohZdoVBqxuY
   title: Angana Jacob - Data as the True Competitive Moat (S7E26)
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-02-08T23:00:50+00:00'
   description: "<p>Do dono do supermercado de bairro ao propriet\xE1rio de restaurantes,\
     \ da fundadora de cl\xEDnicas m\xE9dicas \xE0 dona de uma desenvolvedora de software,\
@@ -557,18 +580,6 @@
   image: https://i3.ytimg.com/vi/f1Nb_JV_s8Y/hqdefault.jpg
   path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
   title: 'Stop Building Ugly APIs: Use the Fluent Interface Pattern'
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-02-06T14:22:11+00:00'
-  description: "<p>Stockholm\u2019s capital-market success reflects more than IPOs\
-    \ and PE activity. It offers a case study in how culture, institutions, and incentives\
-    \ shape durable capital formation.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/02/06/stockholms-capital-markets-success-more-than-meatballs/\"\
-    >Stockholm\u2019s Capital Markets Success: More Than Meatballs</a> appeared first\
-    \ on <a href=\"https://blogs.cfainstitute.org/investor\">CFA Institute Enterprising\
-    \ Investor</a>.</p>"
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/02/06/stockholms-capital-markets-success-more-than-meatballs/
-  title: "Stockholm\u2019s Capital Markets Success: More Than Meatballs"
 - author: Market Makers
   categories: *id003
   date: '2026-02-06T00:00:00+00:00'
@@ -744,9 +755,7 @@
   path: https://theovershoot.co/p/is-the-market-underpricing-the-risk
   title: Is the Market Underpricing the Risk of Fed Hikes?
 - author: Apricitas Economics
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id009
   date: '2026-01-20T13:03:00+00:00'
   description: DOGE is the Largest Peacetime Cut to the Federal Workforce in Modern
     US History, But it Failed its Supposed Budget-Cutting Goals & Broke Important
@@ -754,14 +763,6 @@
   image: https://substackcdn.com/image/fetch/$s_!j5VF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56dfb0bc-aef2-43be-bb71-adc3ce868bc7_2886x1843.png
   path: https://www.apricitas.io/p/the-economic-legacy-of-doge
   title: The Economic Legacy of DOGE
-- author: Apricitas Economics
-  categories: *id009
-  date: '2026-01-11T14:31:01+00:00'
-  description: US Job Growth has Zeroed Out as Hiring Rates Sink, Hitting Young &
-    Low Income Workers the Hardest
-  image: https://substackcdn.com/image/fetch/$s_!Wy7H!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4022caac-6ea1-4230-bcee-0558fc278931_2886x1843.png
-  path: https://www.apricitas.io/p/the-no-hire-economy
-  title: The 'No Hire' Economy
 - author: The Journal.
   categories: &id010
   - Podcasts
