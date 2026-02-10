@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id001
   - CFA
   date: '2026-03-11T12:00:00+00:00'
   description: In this upcoming conversation with Frank Fabozzi, CFA, Tasitsiomi explains
@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-10T14:02:37.644411'
+  date: '2026-02-10T15:08:31.471928'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T14:02:37.642163'
+  date: '2026-02-10T15:08:31.470402'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T14:02:37.642145'
+  date: '2026-02-10T15:08:31.470399'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T14:02:37.642140'
+  date: '2026-02-10T15:08:31.470394'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T14:02:37.642131'
+  date: '2026-02-10T15:08:31.470384'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -421,7 +421,7 @@
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-02-10T13:11:18+00:00'
   description: '<p>In competitive PE markets, successful LBOs depend on durable business
@@ -434,8 +434,15 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/02/10/what-makes-an-ideal-leveraged-buyout-candidate/
   title: What Makes an Ideal Leveraged Buyout Candidate?
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-02-10T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/financial-analysts-journal-first-quarter-2026-vol-82-no-1
+  title: Financial Analysts Journal, First Quarter 2026, Vol. 82 No. 1
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-02-09T21:47:55+00:00'
   description: "<p>Surfando a demanda por cr\xE9dito e equity nos mercados emergentes\
@@ -450,7 +457,7 @@
   path: https://braziljournal.com/tesouro-capta-us-45-bi-com-bond-de-10-anos-e-reabertura-do-global-56/
   title: Tesouro capta US$ 4,5 bi com bond de 10 anos e reabertura do Global 56
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2026-02-09T20:29:07+00:00'
   description: "<p>Leveraged ETFs aren\u2019t about more risk, they\u2019re about\
     \ using less capital to achieve a desired risk profile in household portfolios.</p>\n\
@@ -486,7 +493,7 @@
   path: https://open.spotify.com/episode/3U9aT2aqCS2ohZdoVBqxuY
   title: Angana Jacob - Data as the True Competitive Moat (S7E26)
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2026-02-08T23:00:50+00:00'
   description: "<p>Do dono do supermercado de bairro ao propriet\xE1rio de restaurantes,\
     \ da fundadora de cl\xEDnicas m\xE9dicas \xE0 dona de uma desenvolvedora de software,\
@@ -500,7 +507,7 @@
   path: https://braziljournal.com/opiniao-destravando-o-potencial-do-brasil/
   title: "OPINI\xC3O. Destravando o potencial do Brasil"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-02-08T00:00:00+00:00'
   description: "A China entrou na fase mais dif\xEDcil do seu modelo \u2014 e isso\
@@ -581,7 +588,7 @@
   path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
   title: 'Stop Building Ugly APIs: Use the Fluent Interface Pattern'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-02-06T00:00:00+00:00'
   description: "Como uma fraude bilion\xE1ria conseguiu crescer por anos sem ser interrompida?Neste\
     \ epis\xF3dio, Malu Gaspar explica os bastidores do caso Banco Master e revela\
@@ -644,15 +651,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a13419eae25234592e175b424
   path: https://open.spotify.com/episode/54jOHp7SzqynmOWsSruM6F
   title: "Japan\u2019s election: why investors are worried"
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2026-02-03T12:00:00+00:00'
-  description: This monograph maps nine centuries of data into financial eras, showing
-    how trade, war, inflation, and government drive shifting equity risk premia, bond
-    returns, and regime-based asset allocation decisions today.
-  image: null
-  path: https://rpc.cfainstitute.org/research/foundation/2026/five-financial-eras
-  title: Five Financial Eras
 - author: The Overshoot
   categories: &id008
   - Macro
