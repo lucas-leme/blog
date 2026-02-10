@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-10T20:34:34.385454'
+  date: '2026-02-10T21:34:14.092493'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T20:34:34.383704'
+  date: '2026-02-10T21:34:14.090727'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T20:34:34.383700'
+  date: '2026-02-10T21:34:14.090723'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T20:34:34.383696'
+  date: '2026-02-10T21:34:14.090718'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-10T20:34:34.383685'
+  date: '2026-02-10T21:34:14.090708'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-02-10T20:46:47+00:00'
+  description: "<p>No setor el\xE9trico brasileiro, volta e meia repetimos velhos\
+    \ erros como se fossem grandes descobertas. O mais recente \xE9 a defini\xE7\xE3\
+    o dos pre\xE7os\u2011teto para o pr\xF3ximo leil\xE3o de capacidade, em mar\xE7\
+    o. Em vez desses pre\xE7os refletirem a conjuntura internacional \u2014 na qual\
+    \ turbinas, motores e equipamentos essenciais est\xE3o em patamares recordes \u2014\
+    \ os tetos foram [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-no-leilao-das-termicas-governo-se-da-ao-luxo-perigoso-de-ignorar-o-mercado/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. No leil\xE3o das t\xE9rmicas, Governo se d\xE1\
+    \ ao luxo perigoso de ignorar o mercado</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-no-leilao-das-termicas-governo-se-da-ao-luxo-perigoso-de-ignorar-o-mercado/
+  title: "OPINI\xC3O. No leil\xE3o das t\xE9rmicas, Governo se d\xE1 ao luxo perigoso\
+    \ de ignorar o mercado"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -447,7 +464,7 @@
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-02-10T13:11:18+00:00'
   description: '<p>In competitive PE markets, successful LBOs depend on durable business
@@ -468,8 +485,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/financial-analysts-journal-first-quarter-2026-vol-82-no-1
   title: Financial Analysts Journal, First Quarter 2026, Vol. 82 No. 1
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-02-09T21:47:55+00:00'
   description: "<p>Surfando a demanda por cr\xE9dito e equity nos mercados emergentes\
     \ \u2013 quem diria \u2013 o Tesouro Nacional voltou ao mercado internacional\
@@ -483,7 +499,7 @@
   path: https://braziljournal.com/tesouro-capta-us-45-bi-com-bond-de-10-anos-e-reabertura-do-global-56/
   title: Tesouro capta US$ 4,5 bi com bond de 10 anos e reabertura do Global 56
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2026-02-09T20:29:07+00:00'
   description: "<p>Leveraged ETFs aren\u2019t about more risk, they\u2019re about\
     \ using less capital to achieve a desired risk profile in household portfolios.</p>\n\
@@ -518,20 +534,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8da0b2420988ec85afaac16b
   path: https://open.spotify.com/episode/3U9aT2aqCS2ohZdoVBqxuY
   title: Angana Jacob - Data as the True Competitive Moat (S7E26)
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-02-08T23:00:50+00:00'
-  description: "<p>Do dono do supermercado de bairro ao propriet\xE1rio de restaurantes,\
-    \ da fundadora de cl\xEDnicas m\xE9dicas \xE0 dona de uma desenvolvedora de software,\
-    \ este \xE9 um Pa\xEDs que se vira, luta contra a adversidade e d\xE1 seu jeito.\
-    \ Um pa\xEDs de empreendedores. Somos tamb\xE9m o 2\xB0 pa\xEDs do mundo em \u201C\
-    empreendedores potenciais\u201D, pessoas que querem construir [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/opiniao-destravando-o-potencial-do-brasil/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Destravando o potencial do Brasil\_</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-destravando-o-potencial-do-brasil/
-  title: "OPINI\xC3O. Destravando o potencial do Brasil"
 - author: Market Makers
   categories: &id004
   - Podcasts
