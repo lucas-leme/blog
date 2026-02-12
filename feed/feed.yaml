@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id001
   - CFA
   date: '2026-03-11T12:00:00+00:00'
   description: In this upcoming conversation with Frank Fabozzi, CFA, Tasitsiomi explains
@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-12T20:36:11.415535'
+  date: '2026-02-12T21:33:08.115315'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-12T20:36:11.413809'
+  date: '2026-02-12T21:33:08.113578'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-12T20:36:11.413805'
+  date: '2026-02-12T21:33:08.113574'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-12T20:36:11.413800'
+  date: '2026-02-12T21:33:08.113569'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-12T20:36:11.413790'
+  date: '2026-02-12T21:33:08.113559'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -411,7 +411,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-02-12T14:17:45+00:00'
   description: "<p>Wealth management\u2019s 2026 outlook: growth will hinge on transparency,\
@@ -423,6 +423,13 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/02/12/evolving-your-wealth-management-practice-for-2026-and-beyond/
   title: Evolving Your Wealth Management Practice for 2026 and Beyond
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-02-12T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-financing-the-sustainable-development-goals
+  title: 'In Practice Brief: Financing the Sustainable Development Goals'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -455,7 +462,7 @@
   path: https://open.spotify.com/episode/1SJbtYssv48WEYUu5C9jB9
   title: An interview with a king of chipmaking
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-02-11T21:42:37+00:00'
   description: "<p>Ao longo da \xFAltima d\xE9cada, a energia deixou de ser apenas\
@@ -471,7 +478,7 @@
   path: https://braziljournal.com/opiniao-no-setor-de-energia-quem-planeja-o-futuro/
   title: "OPINI\xC3O. No setor de energia, quem planeja o futuro?"
 - author: CFA Institute Enterprising Investor
-  categories: *id001
+  categories: *id002
   date: '2026-02-11T17:05:58+00:00'
   description: '<p>AI is exposing the limits of legacy bank controls, making governance
     quality critical to resilience and investor confidence.</p>
@@ -483,7 +490,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/02/11/ai-is-reshaping-bank-risk/
   title: AI Is Reshaping Bank Risk
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: *id003
   date: '2026-02-10T20:46:47+00:00'
   description: "<p>No setor el\xE9trico brasileiro, volta e meia repetimos velhos\
     \ erros como se fossem grandes descobertas. O mais recente \xE9 a defini\xE7\xE3\
@@ -508,13 +515,6 @@
   image: https://substackcdn.com/image/fetch/$s_!nF_P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0b56f7-b0b4-429d-8d35-0a301466c076_2886x1843.png
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-02-10T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/financial-analysts-journal-first-quarter-2026-vol-82-no-1
-  title: Financial Analysts Journal, First Quarter 2026, Vol. 82 No. 1
 - author: Market Makers
   categories: &id004
   - Podcasts
