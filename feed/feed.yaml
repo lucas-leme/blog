@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-13T12:21:29.436511'
+  date: '2026-02-13T13:52:13.375987'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-13T12:21:29.434744'
+  date: '2026-02-13T13:52:13.374231'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-13T12:21:29.434740'
+  date: '2026-02-13T13:52:13.374227'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-13T12:21:29.434735'
+  date: '2026-02-13T13:52:13.374223'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-13T12:21:29.434709'
+  date: '2026-02-13T13:52:13.374214'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,8 +410,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
-- author: CFA Institute Enterprising Investor
+- author: "Economia \u2013 Brazil Journal"
   categories: &id002
+  - Economia
+  date: '2026-02-13T13:51:16+00:00'
+  description: "<p>O Congresso argentino deu duas grandes vit\xF3rias a Javier Milei\
+    \ na noite de ontem. Enquanto o Senado aprovou por 42 a 30 o projeto de reforma\
+    \ trabalhista do governo, a C\xE2mara passou com 149 votos a 100 uma lei que reduz\
+    \ a maioridade penal no pa\xEDs de 16 anos para 14. Agora as propostas trocam\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/milei-aprova-reformas-trabalhista-e-penal-na-mesma-noite/\"\
+    \ rel=\"nofollow\">Milei aprova reformas trabalhista e penal na mesma noite</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/milei-aprova-reformas-trabalhista-e-penal-na-mesma-noite/
+  title: Milei aprova reformas trabalhista e penal na mesma noite
+- author: CFA Institute Enterprising Investor
+  categories: &id003
   - CFA
   date: '2026-02-12T14:17:45+00:00'
   description: "<p>Wealth management\u2019s 2026 outlook: growth will hinge on transparency,\
@@ -490,8 +505,7 @@
   path: https://open.spotify.com/episode/1SJbtYssv48WEYUu5C9jB9
   title: An interview with a king of chipmaking
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-02-11T21:42:37+00:00'
   description: "<p>Ao longo da \xFAltima d\xE9cada, a energia deixou de ser apenas\
     \ um insumo econ\xF4mico para se tornar a principal vari\xE1vel na competi\xE7\
@@ -506,7 +520,7 @@
   path: https://braziljournal.com/opiniao-no-setor-de-energia-quem-planeja-o-futuro/
   title: "OPINI\xC3O. No setor de energia, quem planeja o futuro?"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2026-02-11T17:05:58+00:00'
   description: '<p>AI is exposing the limits of legacy bank controls, making governance
     quality critical to resilience and investor confidence.</p>
@@ -517,22 +531,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/02/11/ai-is-reshaping-bank-risk/
   title: AI Is Reshaping Bank Risk
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-02-10T20:46:47+00:00'
-  description: "<p>No setor el\xE9trico brasileiro, volta e meia repetimos velhos\
-    \ erros como se fossem grandes descobertas. O mais recente \xE9 a defini\xE7\xE3\
-    o dos pre\xE7os\u2011teto para o pr\xF3ximo leil\xE3o de capacidade, em mar\xE7\
-    o. Em vez desses pre\xE7os refletirem a conjuntura internacional \u2014 na qual\
-    \ turbinas, motores e equipamentos essenciais est\xE3o em patamares recordes \u2014\
-    \ os tetos foram [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-no-leilao-das-termicas-governo-se-da-ao-luxo-perigoso-de-ignorar-o-mercado/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. No leil\xE3o das t\xE9rmicas, Governo se d\xE1\
-    \ ao luxo perigoso de ignorar o mercado</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-no-leilao-das-termicas-governo-se-da-ao-luxo-perigoso-de-ignorar-o-mercado/
-  title: "OPINI\xC3O. No leil\xE3o das t\xE9rmicas, Governo se d\xE1 ao luxo perigoso\
-    \ de ignorar o mercado"
 - author: Apricitas Economics
   categories: &id009
   - Macro
