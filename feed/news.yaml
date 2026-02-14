@@ -1,6 +1,24 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2026-02-14T15:29:33+00:00'
+  description: "Vendas de carros el\xE9tricos novos caiu 36%, enquanto os usados cresceram\
+    \ 13% no quarto trimestre"
+  image: https://media.investnews.com.br/uploads/2024/10/GettyImages-2161304855.jpg
+  path: https://investnews.com.br/economia/mercado-de-eletricos-usados-acelera-nos-eua-na-contramao-das-vendas-de-carros-a-bateria-zero-km/
+  title: "Mercado de el\xE9tricos usados acelera nos EUA na contram\xE3o das vendas\
+    \ de carros a bateria zero km"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-14T15:09:32+00:00'
+  description: "Novos modelos de IA amea\xE7am tornar menos relevantes o trabalho\
+    \ humano em corretoras, gestoras e at\xE9 bancos"
+  image: https://media.investnews.com.br/uploads/2025/01/ilustra-cripto-ia.webp
+  path: https://investnews.com.br/financas/a-nova-vitima-da-iapocalipse-o-setor-financeiro/
+  title: "A nova v\xEDtima da \u201CIApocalipse\u201D: o setor financeiro"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2026-02-13T17:19:12+00:00'
   description: "Entenda quem pode ser dependente ou alimentando na hora de preencher\
     \ a declara\xE7\xE3o e os documentos necess\xE1rios"
@@ -8,8 +26,7 @@
   path: https://investnews.com.br/financas/pensao-alimenticia-pagamento-ir-2026/
   title: "Como declarar pens\xE3o aliment\xEDcia paga no Imposto de Renda 2026?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-02-13T12:19:57+00:00'
   description: "No ano passado, Trump imp\xF4s uma tarifa de 50% sobre o a\xE7o e\
     \ o alum\xEDnio estrangeiros, em uma medida destinada a combater a sobrecapacidade\
@@ -18,27 +35,6 @@
   path: https://investnews.com.br/economia/governo-trump-estuda-reduzir-tarifas-sobre-produtos-de-aco-e-aluminio/
   title: "Governo Trump estuda reduzir tarifas sobre produtos de a\xE7o e alum\xED\
     nio"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-02-12T23:22:32+00:00'
-  description: "Quase 90% do impacto econ\xF4mico das tarifas impostas em 2025 recaiu\
-    \ sobre empresas e consumidores americanos, e n\xE3o sobre exportadores estrangeiros,\
-    \ segundo estudo do Federal Reserve (Fed) de Nova York. Com dados at\xE9 novembro,\
-    \ os economistas estimam que 94% do custo das tarifas foi repassado ao mercado\
-    \ dom\xE9stico nos primeiros oito meses do ano. Mesmo [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/efeito-tarifas-trump-fed-ny/
-  title: Mais de 90% do custo das tarifas de Trump ficou com empresas e consumidores
-    dos EUA, diz Fed de NY
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-12T18:26:29+00:00'
-  description: "Entenda em quais situa\xE7\xF5es o microempreendedor \xE9 obrigado\
-    \ a declarar o IR em 2026, como calcular o lucro e quais erros levam \xE0 malha\
-    \ fina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mei-e-imposto-de-renda-2026/
-  title: 'MEI e Imposto de Renda 2026: quem precisa declarar e como evitar malha fina'
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
