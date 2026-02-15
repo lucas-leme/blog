@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-15T16:10:46+00:00'
+  description: "Desde 2008, as moedas dos pa\xEDses em desenvolvimento n\xE3o oscilaram\
+    \ t\xE3o pouco na compara\xE7\xE3o com as dos seus pares do G7"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/investimentos/o-carry-trade-e-as-commodities-tornam-as-moedas-de-mercados-emergentes-mais-estaveis-do-que-as-do-g-7/
+  title: "Juros e commodities tornam as moedas emergentes, como o real, mais est\xE1\
+    veis \u200B\u200Bdo que as do G7"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-02-14T20:21:17+00:00'
   description: "BCE quer aproveitar instabilidade da posi\xE7\xE3o internacional dos\
@@ -9,8 +19,7 @@
   title: "BCE estende linha em euros a BCs estrangeiros para ampliar papel da moeda\
     \ como alternativa ao d\xF3lar"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-14T15:29:33+00:00'
   description: "Vendas de carros el\xE9tricos novos caiu 36%, enquanto os usados cresceram\
     \ 13% no quarto trimestre"
@@ -19,23 +28,13 @@
   title: "Mercado de el\xE9tricos usados acelera nos EUA na contram\xE3o das vendas\
     \ de carros a bateria zero km"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-02-14T15:09:32+00:00'
   description: "Novos modelos de IA amea\xE7am tornar menos relevantes o trabalho\
     \ humano em corretoras, gestoras e at\xE9 bancos"
   image: https://media.investnews.com.br/uploads/2025/01/ilustra-cripto-ia.webp
   path: https://investnews.com.br/financas/a-nova-vitima-da-iapocalipse-o-setor-financeiro/
   title: "A nova v\xEDtima da \u201CIApocalipse\u201D: o setor financeiro"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-13T12:19:57+00:00'
-  description: "No ano passado, Trump imp\xF4s uma tarifa de 50% sobre o a\xE7o e\
-    \ o alum\xEDnio estrangeiros, em uma medida destinada a combater a sobrecapacidade\
-    \ chinesa"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/governo-trump-estuda-reduzir-tarifas-sobre-produtos-de-aco-e-aluminio/
-  title: "Governo Trump estuda reduzir tarifas sobre produtos de a\xE7o e alum\xED\
-    nio"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
