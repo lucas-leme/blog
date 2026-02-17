@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-03-11T12:00:00+00:00'
   description: In this upcoming conversation with Frank Fabozzi, CFA, Tasitsiomi explains
@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-17T15:03:38.758674'
+  date: '2026-02-17T16:04:55.441040'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T15:03:38.756778'
+  date: '2026-02-17T16:04:55.439298'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T15:03:38.756774'
+  date: '2026-02-17T16:04:55.439294'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T15:03:38.756769'
+  date: '2026-02-17T16:04:55.439289'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T15:03:38.756758'
+  date: '2026-02-17T16:04:55.439279'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,13 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-02-17T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/regulating-cryptoasset-activities-consultation-response
+  title: 'Consultation Response to UK FCA CP25/40: Regulating Cryptoasset Activities'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -547,7 +554,7 @@
   path: https://www.youtube.com/watch?v=Spp-uzXzzdE
   title: 'CQRS in Python: Clean Reads, Clean Writes'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-02-13T14:05:42+00:00'
   description: "<p>O Governo praticamente dobrou os pre\xE7os-teto para projetos de\
@@ -563,7 +570,7 @@
   path: https://braziljournal.com/governo-dobra-precos-de-leilao-de-energia-apos-alarme-das-empresas/
   title: "Governo dobra pre\xE7os de leil\xE3o de energia ap\xF3s alarme das empresas"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-02-13T13:51:16+00:00'
   description: "<p>O Congresso argentino deu duas grandes vit\xF3rias a Javier Milei\
     \ na noite de ontem. Enquanto o Senado aprovou por 42 a 30 o projeto de reforma\
@@ -576,13 +583,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/milei-aprova-reformas-trabalhista-e-penal-na-mesma-noite/
   title: Milei aprova reformas trabalhista e penal na mesma noite
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-02-13T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-big-data-meets-turbulent-oil-market
-  title: 'In Practice Brief: Big Data Meets the Turbulent Oil Market'
 - author: CFA Institute Enterprising Investor
   categories: &id004
   - CFA
