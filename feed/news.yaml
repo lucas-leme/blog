@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-17T18:01:24+00:00'
+  description: "Enquanto o petr\xF3leo bruto \xE9 exportado para o mundo todo, g\xE1\
+    s serve de ferramenta para a economia dom\xE9stica"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guiana-prepara-um-novo-gasoduto-para-diversificar-sua-economia-alem-do-petroleo/
+  title: "Guiana prepara um novo gasoduto para diversificar sua economia al\xE9m do\
+    \ petr\xF3leo"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-02-16T11:00:00+00:00'
   description: "As chamadas benfeitorias n\xE3o aumentam o valor do imposto devido\
@@ -44,8 +54,7 @@
   path: https://www.reddit.com/r/CFA/comments/1r60jn3/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-15T16:10:46+00:00'
   description: "Desde 2008, as moedas dos pa\xEDses em desenvolvimento n\xE3o oscilaram\
     \ t\xE3o pouco na compara\xE7\xE3o com as dos seus pares do G7"
@@ -54,7 +63,7 @@
   title: "Juros e commodities tornam as moedas emergentes, como o real, mais est\xE1\
     veis \u200B\u200Bdo que as do G7"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-02-14T20:21:17+00:00'
   description: "BCE quer aproveitar instabilidade da posi\xE7\xE3o internacional dos\
     \ EUA para desafiar a hegemonia do d\xF3lar"
@@ -62,15 +71,6 @@
   path: https://investnews.com.br/financas/bce-estende-linha-a-bcs-estrangeiros-para-ampliar-papel-do-euro-como-alternativa-ao-dolar/
   title: "BCE estende linha em euros a BCs estrangeiros para ampliar papel da moeda\
     \ como alternativa ao d\xF3lar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-14T15:29:33+00:00'
-  description: "Vendas de carros el\xE9tricos novos caiu 36%, enquanto os usados cresceram\
-    \ 13% no quarto trimestre"
-  image: https://media.investnews.com.br/uploads/2024/10/GettyImages-2161304855.jpg
-  path: https://investnews.com.br/economia/mercado-de-eletricos-usados-acelera-nos-eua-na-contramao-das-vendas-de-carros-a-bateria-zero-km/
-  title: "Mercado de el\xE9tricos usados acelera nos EUA na contram\xE3o das vendas\
-    \ de carros a bateria zero km"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-29T05:01:33+00:00'
