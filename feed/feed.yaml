@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-17T11:22:15.512144'
+  date: '2026-02-17T12:23:39.349476'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T11:22:15.510397'
+  date: '2026-02-17T12:23:39.347734'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T11:22:15.510393'
+  date: '2026-02-17T12:23:39.347730'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T11:22:15.510389'
+  date: '2026-02-17T12:23:39.347726'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-17T11:22:15.510380'
+  date: '2026-02-17T12:23:39.347715'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-02-17T12:00:00+00:00'
+  description: "Data releases for inflation have been scarce over the past four months\
+    \ due to the government shutdown. As a result, until January 22 no personal consumer\
+    \ expenditures (PCE) data were available beyond September and the consumer price\
+    \ index (CPI) had many missing entries for the one-month changes for October and\
+    \ November. In this post, we use an extended version of the New York Fed's Multivariate\
+    \ Core Trend (MCT) inflation model to examine changes in underlying inflation\
+    \ over this period. The MCT model is well-suited to do so because it decomposes\
+    \ sectoral inflation rates into a trend (\u201Cpersistent\u201D) and a transitory\
+    \ component. In contrast to core (ex-food and energy) inflation, its aim is to\
+    \ remove <em>all</em> transitory factors, thus identifying the underlying trend.\
+    \ In addition, since the model can handle missing data\u2014like for October\u2014\
+    it can produce values for trend inflation for months where little or no data were\
+    \ released. Our findings suggest caution: while the fragmented data from November\
+    \ initially signaled a deceleration in price pressures, the integration of December\
+    \ data indicates that these reductions were largely transitory. Once the full\
+    \ data set is used, the aggregate trend for December stands at 2.83&#160;percent,\
+    \ an increase from 2.55 percent in September."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/02/seeing-through-the-shutdowns-missing-inflation-data/
+  title: "Seeing Through the Shutdown\u2019s Missing Inflation Data"
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -553,19 +579,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/02/12/evolving-your-wealth-management-practice-for-2026-and-beyond/
   title: Evolving Your Wealth Management Practice for 2026 and Beyond
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-02-12T12:00:00+00:00'
-  description: "Over the course of 2025, the average tariff rate on U.S. imports increased\
-    \ from 2.6 to 13 percent. In this blog post, we ask how much of the tariffs were\
-    \ paid by the U.S., using import data through November 2025. We find that\_nearly\
-    \ 90 percent\_of the tariffs\u2019 economic burden fell on U.S. firms and consumers."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/02/who-is-paying-for-the-2025-u-s-tariffs/
-  title: Who Is Paying for the 2025 U.S. Tariffs?
 - author: Market Makers
   categories: *id003
   date: '2026-02-12T00:00:00+00:00'
