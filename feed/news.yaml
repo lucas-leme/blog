@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-19T19:28:27+00:00'
+  description: "Plantio de soja deve passar de 81,2 milh\xF5es de acres, registradas\
+    \ em 2025, para 85 milh\xF5es este ano"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/agricultores-dos-eua-trocam-plantio-milho-por-soja-diante-de-demanda-da-china-e-busca-por-maior-renda/
+  title: Agricultores dos EUA trocam milho por soja diante de demanda da China e busca
+    por maior renda
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-02-19T17:44:17+00:00'
   description: "Progressividade obrigat\xF3ria, base no valor de mercado e tributa\xE7\
@@ -10,8 +20,7 @@
   title: "ITCMD muda com a reforma tribut\xE1ria: como heran\xE7as e doa\xE7\xF5es\
     \ passam a ser tributadas a partir de 2026"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-19T14:02:59+00:00'
   description: "O Financial Times noticiou, na quarta-feira, que Lagarde quer permitir\
     \ que Macron e o chanceler alem\xE3o, Friedrich Merz, encontrem seu substituto"
@@ -59,7 +68,7 @@
   path: https://www.reddit.com/r/CFA/comments/1r8q8zd/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-02-18T19:56:02+00:00'
   description: "O locador deve informar na declara\xE7\xE3o de Imposto de Renda seus\
     \ rendimentos obtidos com a loca\xE7\xE3o do im\xF3vel durante todo o exerc\xED\
@@ -67,15 +76,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/como-declarar-o-aluguel-recebido-no-imposto-de-renda-2026/
   title: Como declarar o aluguel recebido no Imposto de Renda 2026?
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-17T18:01:24+00:00'
-  description: "Enquanto o petr\xF3leo bruto \xE9 exportado para o mundo todo, g\xE1\
-    s serve de ferramenta para a economia dom\xE9stica"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/guiana-prepara-um-novo-gasoduto-para-diversificar-sua-economia-alem-do-petroleo/
-  title: "Guiana prepara um novo gasoduto para diversificar sua economia al\xE9m do\
-    \ petr\xF3leo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-29T05:01:33+00:00'
