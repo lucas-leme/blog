@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-20T02:16:59.718334'
+  date: '2026-02-20T11:16:44.859334'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T02:16:59.716630'
+  date: '2026-02-20T11:16:44.857605'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T02:16:59.716626'
+  date: '2026-02-20T11:16:44.857601'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T02:16:59.716622'
+  date: '2026-02-20T11:16:44.857597'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T02:16:59.716611'
+  date: '2026-02-20T11:16:44.857588'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id004
+  - Economia
+  date: '2026-02-20T03:46:41+00:00'
+  description: "<p>A maior disputa tribut\xE1ria do Pa\xEDs neste momento pode finalmente\
+    \ chegar a um desfecho &#8212; colocando fim a mais de seis anos de discuss\xE3\
+    o e potencialmente gerando um ganho de quase R$ 40 bilh\xF5es aos contribuintes.\
+    \ O julgamento sobre a exclus\xE3o do ISS na base de c\xE1lculo do PIS/Cofins,\
+    \ em debate no STF desde 2020, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/no-stf-o-iss-chega-a-reta-final-em-jogo-um-alivio-de-r-40-bi-para-o-contribuinte/\"\
+    \ rel=\"nofollow\">No STF, o ISS chega \xE0 reta final. Em jogo: um al\xEDvio\
+    \ de R$ 40 bi para o contribuinte</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-stf-o-iss-chega-a-reta-final-em-jogo-um-alivio-de-r-40-bi-para-o-contribuinte/
+  title: "No STF, o ISS chega \xE0 reta final. Em jogo: um al\xEDvio de R$ 40 bi para\
+    \ o contribuinte"
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -675,8 +691,7 @@
   path: https://www.youtube.com/watch?v=Spp-uzXzzdE
   title: 'CQRS in Python: Clean Reads, Clean Writes'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id004
   date: '2026-02-13T14:05:42+00:00'
   description: "<p>O Governo praticamente dobrou os pre\xE7os-teto para projetos de\
     \ termel\xE9tricas a g\xE1s no leil\xE3o de capacidade de energia agendado para\
@@ -690,20 +705,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/governo-dobra-precos-de-leilao-de-energia-apos-alarme-das-empresas/
   title: "Governo dobra pre\xE7os de leil\xE3o de energia ap\xF3s alarme das empresas"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-02-13T13:51:16+00:00'
-  description: "<p>O Congresso argentino deu duas grandes vit\xF3rias a Javier Milei\
-    \ na noite de ontem. Enquanto o Senado aprovou por 42 a 30 o projeto de reforma\
-    \ trabalhista do governo, a C\xE2mara passou com 149 votos a 100 uma lei que reduz\
-    \ a maioridade penal no pa\xEDs de 16 anos para 14. Agora as propostas trocam\
-    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/milei-aprova-reformas-trabalhista-e-penal-na-mesma-noite/\"\
-    \ rel=\"nofollow\">Milei aprova reformas trabalhista e penal na mesma noite</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/milei-aprova-reformas-trabalhista-e-penal-na-mesma-noite/
-  title: Milei aprova reformas trabalhista e penal na mesma noite
 - author: Apricitas Economics
   categories: &id009
   - Macro
