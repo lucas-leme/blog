@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-20T15:56:59.795537'
+  date: '2026-02-20T18:34:11.093061'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T15:56:59.793998'
+  date: '2026-02-20T18:34:11.091645'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T15:56:59.793994'
+  date: '2026-02-20T18:34:11.091640'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T15:56:59.793989'
+  date: '2026-02-20T18:34:11.091635'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T15:56:59.793978'
+  date: '2026-02-20T18:34:11.091625'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,33 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-02-20T16:01:30+00:00'
+  description: "\U0001F9D1\u200D\U0001F4BB Join the Software Design Mastery waitlist\
+    \ here: https://www.arjancodes.com/mastery.\n\nIn this video, I break down when\
+    \ something in Python should be a property and when it should be a method, and\
+    \ why that choice matters more than it looks. Using a simple example, I show how\
+    \ properties and methods communicate different promises about cost, safety, and\
+    \ behaviour.\n\nI\u2019ll also look at why async properties are usually a design\
+    \ smell, and how to keep async work explicit without breaking clean object design.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/props.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n1:17 Setup:\
+    \ One Example for the Whole Video (Synchronous Version)\n2:29 Properties vs Methods\n\
+    3:48 Derived State: A Perfect Use Case for Properties\n6:14 Under the Hood: Why\
+    \ @property Works\n6:59 Read-Only vs Writable Properties\n8:58 When Setters Should\
+    \ Not Do I/O\n10:29 Abstractions: Properties Are Part of the Contract\n13:13 Question:\
+    \ Can a Property Be Async?\n16:09 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i4.ytimg.com/vi/wHLZ_uTrCYA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=wHLZ_uTrCYA
+  title: "Python Properties vs Methods: The Contract You Didn\u2019t Know You Were\
+    \ Making"
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -424,7 +451,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/02/20/why-static-portfolios-fail-when-risk-regimes-change/
   title: Why Static Portfolios Fail When Risk Regimes Change
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-02-20T03:46:41+00:00'
   description: "<p>A maior disputa tribut\xE1ria do Pa\xEDs neste momento pode finalmente\
@@ -518,7 +545,7 @@
   path: https://open.spotify.com/episode/5tXR5zhIqa3OSWfL2IcreZ
   title: A love letter to private equity
 - author: Marques Brownlee
-  categories: &id006
+  categories: &id007
   - Tech
   - Youtube
   date: '2026-02-18T15:00:48+00:00'
@@ -593,7 +620,7 @@
   path: https://open.spotify.com/episode/29WZv6z93b7f5oITcBmfR5
   title: "#324 | O QUE O GOVERNO N\xC3O QUER QUE VOC\xCA SAIBA SOBRE O FUTURO DO BRASIL"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-02-17T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -667,10 +694,7 @@
   path: https://theovershoot.co/p/australia-is-raising-rates-why-not
   title: Australia Is Raising Rates. Why Not the Fed?
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-02-13T16:00:46+00:00'
   description: "\U0001F4A1 Check out MongoDB Atlas: https://www.mongodb.com/atlas.\n\
     \nWhen your FastAPI list endpoint starts pulling full documents just to compute\
@@ -691,7 +715,7 @@
   path: https://www.youtube.com/watch?v=Spp-uzXzzdE
   title: 'CQRS in Python: Clean Reads, Clean Writes'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-02-13T14:05:42+00:00'
   description: "<p>O Governo praticamente dobrou os pre\xE7os-teto para projetos de\
     \ termel\xE9tricas a g\xE1s no leil\xE3o de capacidade de energia agendado para\
@@ -716,7 +740,7 @@
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-02-10T00:00:00+00:00'
   description: "De que \xE9 feita a melhor gestora de fundos do Brasil? Esta \xE9\
     \ a pergunta que a edi\xE7\xE3o 180 do Outliers InfoMoney tenta responder. Para\
@@ -735,7 +759,7 @@
   path: https://open.spotify.com/episode/0RWdk7riX4qLJ1R2UjUwGe
   title: "#180 - ELEI\xC7\xD5ES e TENS\xD5ES GEOPOL\xCDTICAS com CEO do ITA\xDA ASSET"
 - author: Marques Brownlee
-  categories: *id006
+  categories: *id007
   date: '2026-02-06T21:03:37+00:00'
   description: 'Silicon carbon batteries are kinda incredible, but for some reason
     aren''t everywhere yet...
@@ -757,31 +781,6 @@
   image: https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=zPAY2VxfFBk
   title: The Problem with these Smartphone Batteries
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-02-06T16:01:06+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nIn this video, I take a small but realistic Python animation API and refactor\
-    \ it step by step into a fluent interface that reads like a story instead of a\
-    \ configuration file. You\u2019ll see a clear \u201Cbefore\u201D version with\
-    \ clunky lists and hard-to-read setup, and then watch how the same behavior becomes\
-    \ more expressive and maintainable by introducing method chaining and domain-specific\
-    \ fluent methods. Along the way, I explain what the fluent interface pattern actually\
-    \ is, how it differs from the builder pattern, where you already use it in Python\
-    \ without realizing it, and when you should not use it.\n\n\U0001F525 GitHub Repository:\
-    \ https://git.arjan.codes/2026/fluent.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
-    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:58 What Is a Fluent Interface? (Quick Definition)\n1:43 Real-Life\
-    \ Fluent Interfaces in Python (You Already Use Them)\n2:13 The Domain: A Tiny\
-    \ Animation Engine\n6:17 Before Version: Non-Fluent Animation Definition\n7:30\
-    \ The Engine: How play_scene Works\n8:17 Refactor Step 1: Add an add() Method\n\
-    9:47 Refactor Step 2: Turn add() into a Fluent API\n11:20 Refactor Step 3: Domain-Specific\
-    \ Fluent Methods\n14:49 When to Use Fluent Interfaces\n15:18 When NOT to Use Fluent\
-    \ Interfaces\n16:34 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/f1Nb_JV_s8Y/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=f1Nb_JV_s8Y
-  title: 'Stop Building Ugly APIs: Use the Fluent Interface Pattern'
 - author: The Overshoot
   categories: *id008
   date: '2026-02-03T08:49:39+00:00'
