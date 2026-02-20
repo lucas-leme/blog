@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-20T12:21:31.390036'
+  date: '2026-02-20T13:51:47.532386'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T12:21:31.388315'
+  date: '2026-02-20T13:51:47.530628'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T12:21:31.388311'
+  date: '2026-02-20T13:51:47.530624'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T12:21:31.388307'
+  date: '2026-02-20T13:51:47.530618'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T12:21:31.388297'
+  date: '2026-02-20T13:51:47.530608'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Enterprising Investor
+  categories: &id001
+  - CFA
+  date: '2026-02-20T13:26:04+00:00'
+  description: '<p>Why static portfolio frameworks fail when risk regimes shift, drawing
+    lessons from the very different market breakdowns of 2020 and 2022.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/20/why-static-portfolios-fail-when-risk-regimes-change/">Why
+    Static Portfolios Fail When Risk Regimes Change</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/02/20/why-static-portfolios-fail-when-risk-regimes-change/
+  title: Why Static Portfolios Fail When Risk Regimes Change
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -427,8 +440,7 @@
   title: "No STF, o ISS chega \xE0 reta final. Em jogo: um al\xEDvio de R$ 40 bi para\
     \ o contribuinte"
 - author: CFA Institute Enterprising Investor
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2026-02-19T15:23:31+00:00'
   description: "<p>Market-implied discount rates reveal how investors price risk,\
     \ often diverging from WACC and reshaping capital decisions.</p>\n<p>The post\
@@ -505,18 +517,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a36dca2a6ae02823be90913ac
   path: https://open.spotify.com/episode/5tXR5zhIqa3OSWfL2IcreZ
   title: A love letter to private equity
-- author: CFA Institute Enterprising Investor
-  categories: *id001
-  date: '2026-02-18T15:13:24+00:00'
-  description: '<p>AI tools may favor popular stocks over overlooked ones, embedding
-    attention bias into investment decisions.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/18/attention-bias-in-ai-driven-investing/">Attention
-    Bias in AI-Driven Investing</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/02/18/attention-bias-in-ai-driven-investing/
-  title: Attention Bias in AI-Driven Investing
 - author: Marques Brownlee
   categories: &id006
   - Tech
