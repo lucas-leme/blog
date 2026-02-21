@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-21T15:51:34.530368'
+  date: '2026-02-21T18:32:48.974120'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-21T15:51:34.528600'
+  date: '2026-02-21T18:32:48.972393'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-21T15:51:34.528596'
+  date: '2026-02-21T18:32:48.972389'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-21T15:51:34.528591'
+  date: '2026-02-21T18:32:48.972384'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-21T15:51:34.528581'
+  date: '2026-02-21T18:32:48.972374'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2026-02-21T17:41:03+00:00'
+  description: Charting the Impact of the Supreme Court Ruling and What Comes Next
+  image: https://substackcdn.com/image/fetch/$s_!4mla!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8051a18f-6ce0-4f02-a583-7311f33ba549_2886x1843.png
+  path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
+  title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
 - author: The Overshoot
   categories: &id004
   - Macro
@@ -555,7 +564,7 @@
   path: https://open.spotify.com/episode/5tXR5zhIqa3OSWfL2IcreZ
   title: A love letter to private equity
 - author: Marques Brownlee
-  categories: &id008
+  categories: &id009
   - Tech
   - Youtube
   date: '2026-02-18T15:00:48+00:00'
@@ -630,7 +639,7 @@
   path: https://open.spotify.com/episode/29WZv6z93b7f5oITcBmfR5
   title: "#324 | O QUE O GOVERNO N\xC3O QUER QUE VOC\xCA SAIBA SOBRE O FUTURO DO BRASIL"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2026-02-17T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -738,9 +747,7 @@
   path: https://braziljournal.com/governo-dobra-precos-de-leilao-de-energia-apos-alarme-das-empresas/
   title: "Governo dobra pre\xE7os de leil\xE3o de energia ap\xF3s alarme das empresas"
 - author: Apricitas Economics
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2026-02-10T13:30:25+00:00'
   description: US AI-Related Investment Keeps Breaking Records, With Total Software,
     Computer, & Data Center Spending Now Exceeding $1T Per Year
@@ -748,7 +755,7 @@
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2026-02-10T00:00:00+00:00'
   description: "De que \xE9 feita a melhor gestora de fundos do Brasil? Esta \xE9\
     \ a pergunta que a edi\xE7\xE3o 180 do Outliers InfoMoney tenta responder. Para\
@@ -767,7 +774,7 @@
   path: https://open.spotify.com/episode/0RWdk7riX4qLJ1R2UjUwGe
   title: "#180 - ELEI\xC7\xD5ES e TENS\xD5ES GEOPOL\xCDTICAS com CEO do ITA\xDA ASSET"
 - author: Marques Brownlee
-  categories: *id008
+  categories: *id009
   date: '2026-02-06T21:03:37+00:00'
   description: 'Silicon carbon batteries are kinda incredible, but for some reason
     aren''t everywhere yet...
@@ -789,15 +796,6 @@
   image: https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=zPAY2VxfFBk
   title: The Problem with these Smartphone Batteries
-- author: Apricitas Economics
-  categories: *id009
-  date: '2026-01-20T13:03:00+00:00'
-  description: DOGE is the Largest Peacetime Cut to the Federal Workforce in Modern
-    US History, But it Failed its Supposed Budget-Cutting Goals & Broke Important
-    Agencies
-  image: https://substackcdn.com/image/fetch/$s_!j5VF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56dfb0bc-aef2-43be-bb71-adc3ce868bc7_2886x1843.png
-  path: https://www.apricitas.io/p/the-economic-legacy-of-doge
-  title: The Economic Legacy of DOGE
 - author: The Journal.
   categories: &id010
   - Podcasts
