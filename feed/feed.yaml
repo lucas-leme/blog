@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-20T21:31:28.330575'
+  date: '2026-02-21T00:51:40.548475'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T21:31:28.328812'
+  date: '2026-02-21T00:51:40.546700'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T21:31:28.328808'
+  date: '2026-02-21T00:51:40.546696'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T21:31:28.328804'
+  date: '2026-02-21T00:51:40.546691'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-20T21:31:28.328794'
+  date: '2026-02-21T00:51:40.546682'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,8 +410,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
-- author: ArjanCodes
+- author: The Overshoot
   categories: &id004
+  - Macro
+  - Newsletters
+  date: '2026-02-20T21:57:24+00:00'
+  description: The Supreme Court has ruled that the President cannot use "emergency"
+    authority to impose tariffs at will. Inflation is still going to be a problem.
+  image: https://substackcdn.com/image/fetch/$s_!1E2-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9928e8dd-1f1f-46c3-adcb-1d9708517535_3195x2910.png
+  path: https://theovershoot.co/p/arbitrary-us-tariffs-are-gone-whats
+  title: Arbitrary U.S. Tariffs Are Gone. What's Next?
+- author: ArjanCodes
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -451,7 +461,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/02/20/why-static-portfolios-fail-when-risk-regimes-change/
   title: Why Static Portfolios Fail When Risk Regimes Change
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2026-02-20T03:46:41+00:00'
   description: "<p>A maior disputa tribut\xE1ria do Pa\xEDs neste momento pode finalmente\
@@ -545,7 +555,7 @@
   path: https://open.spotify.com/episode/5tXR5zhIqa3OSWfL2IcreZ
   title: A love letter to private equity
 - author: Marques Brownlee
-  categories: &id007
+  categories: &id008
   - Tech
   - Youtube
   date: '2026-02-18T15:00:48+00:00'
@@ -620,7 +630,7 @@
   path: https://open.spotify.com/episode/29WZv6z93b7f5oITcBmfR5
   title: "#324 | O QUE O GOVERNO N\xC3O QUER QUE VOC\xCA SAIBA SOBRE O FUTURO DO BRASIL"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-02-17T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -684,9 +694,7 @@
   path: https://open.spotify.com/episode/47DPE37bsDoTLATmvlQlUY
   title: "Ruslan Fakhrutdinov \u2013\_Extended Exchange and Vault Tokenization (S7E27)"
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2026-02-13T19:52:55+00:00'
   description: The U.S. economy is accelerating, yet policymakers are still unreasonably
     concerned about downside risks.
@@ -694,7 +702,7 @@
   path: https://theovershoot.co/p/australia-is-raising-rates-why-not
   title: Australia Is Raising Rates. Why Not the Fed?
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2026-02-13T16:00:46+00:00'
   description: "\U0001F4A1 Check out MongoDB Atlas: https://www.mongodb.com/atlas.\n\
     \nWhen your FastAPI list endpoint starts pulling full documents just to compute\
@@ -715,7 +723,7 @@
   path: https://www.youtube.com/watch?v=Spp-uzXzzdE
   title: 'CQRS in Python: Clean Reads, Clean Writes'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2026-02-13T14:05:42+00:00'
   description: "<p>O Governo praticamente dobrou os pre\xE7os-teto para projetos de\
     \ termel\xE9tricas a g\xE1s no leil\xE3o de capacidade de energia agendado para\
@@ -740,7 +748,7 @@
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-02-10T00:00:00+00:00'
   description: "De que \xE9 feita a melhor gestora de fundos do Brasil? Esta \xE9\
     \ a pergunta que a edi\xE7\xE3o 180 do Outliers InfoMoney tenta responder. Para\
@@ -759,7 +767,7 @@
   path: https://open.spotify.com/episode/0RWdk7riX4qLJ1R2UjUwGe
   title: "#180 - ELEI\xC7\xD5ES e TENS\xD5ES GEOPOL\xCDTICAS com CEO do ITA\xDA ASSET"
 - author: Marques Brownlee
-  categories: *id007
+  categories: *id008
   date: '2026-02-06T21:03:37+00:00'
   description: 'Silicon carbon batteries are kinda incredible, but for some reason
     aren''t everywhere yet...
@@ -781,15 +789,6 @@
   image: https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=zPAY2VxfFBk
   title: The Problem with these Smartphone Batteries
-- author: The Overshoot
-  categories: *id008
-  date: '2026-02-03T08:49:39+00:00'
-  description: The official budget deficit surged last year, as did off-balance sheet
-    military spending via the banking system and unpaid bills. That might be tough
-    to sustain, especially with lower oil revenues.
-  image: https://substackcdn.com/image/fetch/$s_!2zXq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F322c6587-b2fa-4847-960e-791c6ff92eee_3195x2885.png
-  path: https://theovershoot.co/p/russian-war-spending-may-be-maxed
-  title: Russian War Spending May be Maxed Out
 - author: Apricitas Economics
   categories: *id009
   date: '2026-01-20T13:03:00+00:00'
