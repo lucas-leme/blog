@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-24T15:05:24.274519'
+  date: '2026-02-24T16:07:26.458674'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-24T15:05:24.272997'
+  date: '2026-02-24T16:07:26.456934'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-24T15:05:24.272993'
+  date: '2026-02-24T16:07:26.456930'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-24T15:05:24.272989'
+  date: '2026-02-24T16:07:26.456925'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-24T15:05:24.272978'
+  date: '2026-02-24T16:07:26.456916'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -417,6 +417,24 @@
   image: null
   path: https://rpc.cfainstitute.org/research/foundation/2026/strengthening-pension-savings-emerging-markets
   title: Strengthening Pension Savings in Emerging Markets
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-02-24T12:00:00+00:00'
+  description: Understanding how short- and long-term assets are priced is one of
+    the fundamental questions in finance. The term structure of risk premia allows
+    us to perform net present value calculations, test asset pricing models, and potentially
+    explain the sources of many cross-sectional asset pricing anomalies. In this post,
+    I construct a forward-looking estimate of the term structure of risk premia in
+    the corporate bond market following Jankauskas (2024). The U.S. corporate bond
+    market is an ideal laboratory for studying the relationship between risk premia
+    and maturity because of its large size (standing at roughly $16 trillion as of
+    the end of 2024) and because the maturities are well defined (in contrast to equities).
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/02/estimating-the-term-structure-of-corporate-bond-risk-premia/
+  title: Estimating the Term Structure of Corporate Bond Risk Premia
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -553,23 +571,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/02/20/why-static-portfolios-fail-when-risk-regimes-change/
   title: Why Static Portfolios Fail When Risk Regimes Change
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-02-19T12:00:00+00:00'
-  description: "Why do workers still segregate by sex across occupations, industries,\
-    \ and firms? Recent research has focused on how preferences for job amenities,\
-    \ like flexibility, may differ by sex. However, one \u201Camenity\u201D that has\
-    \ received relatively little attention is the sex composition of a job itself.\
-    \ In a recent <a href=\"https://www.newyorkfed.org/research/staff_reports/sr1092\"\
-    >paper</a>, I conducted a survey experiment to estimate men\u2019s and women\u2019\
-    s preferences for sex composition in the workplace. One result is that women and\
-    \ young single men prefer jobs with at least half female coworkers."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/02/what-workplace-composition-are-job-candidates-looking-for/
-  title: What Workplace Composition Are Job Candidates Looking For?
 - author: Market Makers
   categories: &id004
   - Podcasts
