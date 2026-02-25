@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-02-25T16:08:47.908914'
+  date: '2026-02-25T18:40:23.359107'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-25T16:08:47.907145'
+  date: '2026-02-25T18:40:23.357351'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-25T16:08:47.907141'
+  date: '2026-02-25T18:40:23.357347'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-25T16:08:47.907136'
+  date: '2026-02-25T18:40:23.357343'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-02-25T16:08:47.907126'
+  date: '2026-02-25T18:40:23.357333'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,40 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2026-02-25T18:00:45+00:00'
+  description: 'Galaxy S26 Ultra has one pretty sick privacy display feature
+
+
+    Protect your Samsung S26 with dbrand at http://dbrand.com/shop/s26-ultra
+
+
+    That shirt: http://MKBHD.com
+
+
+    Affiliate Links:
+
+    Samsung Galaxy S26 Ultra: https://geni.us/6Bh61
+
+    Samsung Galaxy S26: https://geni.us/TZA66
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/FRI78tq9Eik/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=FRI78tq9Eik
+  title: 'Samsung Galaxy S26/Ultra Impressions: 1 Crazy Display Feature!'
 - author: CFA Institute Enterprising Investor
   categories: &id003
   - CFA
@@ -512,7 +546,7 @@
   title: "Governo \u201Cescuta\u201D a viol\xEAncia e Lula recua de decreto sobre\
     \ hidrovias"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-02-24T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 181 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -577,7 +611,7 @@
   path: https://open.spotify.com/episode/08nBFDosH5aIUkTRbx7njt
   title: Richard Craib - Crowd-Sourced Alpha with Numerai (S7E28)
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2026-02-21T17:41:03+00:00'
@@ -586,7 +620,7 @@
   path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
   title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-02-20T21:57:24+00:00'
@@ -596,7 +630,7 @@
   path: https://theovershoot.co/p/arbitrary-us-tariffs-are-gone-whats
   title: Arbitrary U.S. Tariffs Are Gone. What's Next?
 - author: ArjanCodes
-  categories: &id007
+  categories: &id008
   - Tech
   - Code
   - Youtube
@@ -672,9 +706,7 @@
   path: https://open.spotify.com/episode/5tXR5zhIqa3OSWfL2IcreZ
   title: A love letter to private equity
 - author: Marques Brownlee
-  categories: &id009
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2026-02-18T15:00:48+00:00'
   description: 'The biggest difference between the Pixel 10A and 9A might just be
     the name.
@@ -700,7 +732,7 @@
   path: https://www.youtube.com/watch?v=iCSg_ul3G2w
   title: 'Google Pixel 10A Impressions: (Never) Seen This Before'
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-02-17T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -735,7 +767,7 @@
   title: "Allocation Insights: Asset-Backed Finance Is the Engine Behind Private Credit\u2019\
     s Next Chapter"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-02-13T19:52:55+00:00'
   description: The U.S. economy is accelerating, yet policymakers are still unreasonably
     concerned about downside risks.
@@ -743,7 +775,7 @@
   path: https://theovershoot.co/p/australia-is-raising-rates-why-not
   title: Australia Is Raising Rates. Why Not the Fed?
 - author: ArjanCodes
-  categories: *id007
+  categories: *id008
   date: '2026-02-13T16:00:46+00:00'
   description: "\U0001F4A1 Check out MongoDB Atlas: https://www.mongodb.com/atlas.\n\
     \nWhen your FastAPI list endpoint starts pulling full documents just to compute\
@@ -764,36 +796,13 @@
   path: https://www.youtube.com/watch?v=Spp-uzXzzdE
   title: 'CQRS in Python: Clean Reads, Clean Writes'
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2026-02-10T13:30:25+00:00'
   description: US AI-Related Investment Keeps Breaking Records, With Total Software,
     Computer, & Data Center Spending Now Exceeding $1T Per Year
   image: https://substackcdn.com/image/fetch/$s_!nF_P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0b56f7-b0b4-429d-8d35-0a301466c076_2886x1843.png
   path: https://www.apricitas.io/p/americas-1t-ai-gamble
   title: America's $1T AI Gamble
-- author: Marques Brownlee
-  categories: *id009
-  date: '2026-02-06T21:03:37+00:00'
-  description: 'Silicon carbon batteries are kinda incredible, but for some reason
-    aren''t everywhere yet...
-
-
-    MKBHD Merch: http://MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i3.ytimg.com/vi/zPAY2VxfFBk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=zPAY2VxfFBk
-  title: The Problem with these Smartphone Batteries
 - author: The Journal.
   categories: &id010
   - Podcasts
