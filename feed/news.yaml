@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-02-25T18:41:56+00:00'
+  description: "As duas op\xE7\xF5es de previd\xEAncia privada t\xEAm tratamentos\
+    \ tribut\xE1rios diferentes junto \xE0 Receita Federal; entenda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/previdencia-privada-pgbl-vgbl-imposto-de-renda-2026/
+  title: Como declarar PGBL e VGBL no Imposto de Renda 2026?
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-02-25T14:24:56+00:00'
   description: Medida reduz gradualmente a jornada de 48 para 40 horas em quatro anos
@@ -9,8 +18,7 @@
   title: "M\xE9xico aprova redu\xE7\xE3o da jornada para 40 horas semanais e folga\
     \ remunerada"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-02-24T19:12:08+00:00'
   description: "Valores provenientes de aluguel s\xE3o considerados rendimentos tribut\xE1\
     veis \u200B\u200Bsomente para o locat\xE1rio; entenda"
@@ -18,7 +26,7 @@
   path: https://investnews.com.br/financas/aluguel-pago-imposto-de-renda-2026/
   title: Como declarar aluguel pago no Imposto de Renda 2026?
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-02-24T13:44:42+00:00'
   description: "Mudan\xE7as aprovadas no Parlamento podem ampliar prazos e endurecer\
     \ exig\xEAncias para a cidadania portuguesa, mas novas regras ainda dependem de\
@@ -27,14 +35,6 @@
   path: https://investnews.com.br/economia/cidadania-portuguesa-residencia-o-que-muda/
   title: "Cidadania e resid\xEAncia em Portugal: como \xE9 hoje e o que pode mudar\
     \ para brasileiros"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-24T11:52:41+00:00'
-  description: "Ap\xF3s o Carnaval, come\xE7a a organiza\xE7\xE3o para a declara\xE7\
-    \xE3o do IR; veja quem deve declarar e quais documentos separar"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-2026-comprovantes/
-  title: "Imposto de Renda 2026: comprovantes devem ser entregues at\xE9 27 de fevereiro"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
