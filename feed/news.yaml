@@ -1,5 +1,5 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-02-27T16:06:14+00:00'
   description: "Na pr\xE1tica, \xE9 uma alternativa estrat\xE9gica para acessar o\
@@ -9,7 +9,7 @@
   title: "IPO reverso: o que \xE9, como funciona e como empresas entram na bolsa sem\
     \ abertura de capital"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
   date: '2026-02-27T14:03:18+00:00'
   description: "Presidente argentino quer flexibilizar regras ambientais que, segundo\
@@ -18,8 +18,16 @@
   path: https://investnews.com.br/economia/boom-bilionario-do-cobre-na-argentina-depende-de-mudanca-na-lei-das-geleiras/
   title: "Boom bilion\xE1rio do cobre na Argentina depende de mudan\xE7a na Lei das\
     \ Geleiras"
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: *id001
+  date: '2026-02-27T13:42:48+00:00'
+  description: "A UE e o Mercosul fecharam um dos maiores acordos de livre com\xE9\
+    rcio do mundo em janeiro, ap\xF3s 25 anos de negocia\xE7\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/uniao-europeia-aplicara-provisoriamente-acordo-comercial-com-o-mercosul/
+  title: "Uni\xE3o Europeia aplicar\xE1 provisoriamente acordo comercial com o Mercosul"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id002
   date: '2026-02-27T13:01:52+00:00'
   description: "Transfer\xEAncias patrimoniais elevadas exigem aten\xE7\xE3o redobrada\
     \ na ficha de Bens e Direitos, no registro de rendimentos isentos e na compatibiliza\xE7\
@@ -66,15 +74,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1rf16c5/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-02-25T14:24:56+00:00'
-  description: Medida reduz gradualmente a jornada de 48 para 40 horas em quatro anos
-    e garante um dia de descanso semanal totalmente remunerado
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mexico-aprova-reducao-da-jornada-para-40-horas-semanais-e-folga-remunerada/
-  title: "M\xE9xico aprova redu\xE7\xE3o da jornada para 40 horas semanais e folga\
-    \ remunerada"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-01-29T05:01:33+00:00'
