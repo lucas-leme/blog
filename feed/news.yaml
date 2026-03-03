@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2026-03-03T17:03:11+00:00'
+  description: "Produtoras de petr\xF3leo como YPF e Vista Energy, al\xE9m da empresa\
+    \ de energia Pampa Energ\xEDa, afirmaram que est\xE3o avaliando aderir ao programa"
+  image: https://media.investnews.com.br/uploads/2025/03/vaca-muerta-argentina-petroleo-GettyImages-2187783779.webp
+  path: https://investnews.com.br/economia/milei-amplia-programa-de-incentivos-e-deve-acelerar-investimentos-em-petroleo-em-vaca-muerta/
+  title: "Milei amplia programa de incentivos e deve acelerar investimentos em petr\xF3\
+    leo em Vaca Muerta"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id001
   - "Not\xEDcias"
@@ -62,8 +72,7 @@
   path: https://investnews.com.br/financas/meu-imposto-de-renda-aplicativo-como-baixar-receita-federal/
   title: "Meu Imposto de Renda acabou: saiba onde fazer a declara\xE7\xE3o pelo celular"
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2026-03-02T13:52:58+00:00'
   description: "Principal insumo do biodiesel, commodity reage \xE0 alta do petr\xF3\
     leo em meio \xE0 tens\xE3o no Oriente M\xE9dio"
@@ -71,12 +80,3 @@
   path: https://investnews.com.br/economia/oleo-de-soja-alta-petroleo-ira/
   title: "\xD3leo de soja dispara e puxa alta das commodities agr\xEDcolas em meio\
     \ ao avan\xE7o do petr\xF3leo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2026-03-02T12:22:43+00:00'
-  description: "Decis\xE3o das gigantes de navega\xE7\xE3o reflete temor de novos\
-    \ ataques de rebeldes apoiados pelo Ir\xE3 no sul do Mar Vermelho e amplia incerteza\
-    \ sobre a seguran\xE7a da rota pelo Canal de Suez"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/novo-conflito-no-oriente-medio-frustra-retomada-do-canal-de-suez/
-  title: "Novo conflito no Oriente M\xE9dio frustra retomada do Canal de Suez"
