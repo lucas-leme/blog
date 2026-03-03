@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id004
+  categories: &id001
   - CFA
   date: '2026-03-11T12:00:00+00:00'
   description: In this upcoming conversation with Frank Fabozzi, CFA, Tasitsiomi explains
@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-03T13:51:28.397993'
+  date: '2026-03-03T15:03:27.667633'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-03T13:51:28.396094'
+  date: '2026-03-03T15:03:27.665886'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-03T13:51:28.396090'
+  date: '2026-03-03T15:03:27.665882'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-03T13:51:28.396085'
+  date: '2026-03-03T15:03:27.665877'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-03T13:51:28.396076'
+  date: '2026-03-03T15:03:27.665867'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -413,6 +413,25 @@
 - author: CFA Institute Enterprising Investor
   categories: &id002
   - CFA
+  date: '2026-03-03T14:17:25+00:00'
+  description: '<p>Can algorithms that analyze central bank language help predict
+    the next move in the yield curve?</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/03/03/nlp-and-yield-curve-prediction-from-central-bank-minutes/">NLP
+    and Yield Curve Prediction From Central Bank Minutes</a> appeared first on <a
+    href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/03/03/nlp-and-yield-curve-prediction-from-central-bank-minutes/
+  title: NLP and Yield Curve Prediction From Central Bank Minutes
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-03-03T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2026/mind-gender-gap-edition-3
+  title: Mind the Gender Gap, Edition 3
+- author: CFA Institute Enterprising Investor
+  categories: *id002
   date: '2026-03-02T17:26:02+00:00'
   description: '<p>Venture capitalists often emphasize their ability to pick winners.
     Yet the data tell a harsher story: roughly 90% of early-stage VCs fail to outperform
@@ -442,7 +461,7 @@
   path: https://open.spotify.com/episode/67WiKQkhllVXunt3eM9Hc8
   title: 'Trailer: Money Talks'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-03-01T00:00:00+00:00'
   description: "O STF vive a maior crise da sua hist\xF3ria?Banco Master, Toffoli,\
@@ -469,7 +488,7 @@
   path: https://open.spotify.com/episode/06TtAmMymNWvJ5egdhlUQj
   title: "#328 | O QUE N\xC3O TE CONTARAM SOBRE A MAIOR CRISE DA HIST\xD3RIA DO STF"
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-02-28T22:55:15+00:00'
@@ -534,7 +553,7 @@
   path: https://www.youtube.com/watch?v=Y9_h7ehjhO4
   title: "You\u2019ve Been Underusing Dataclasses (These Tricks Are Wild)"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id003
   date: '2026-02-26T17:00:39+00:00'
   description: S26 Ultra "horizon lock" is impressive
   image: https://i2.ytimg.com/vi/eGKYiPA1wio/hqdefault.jpg
@@ -555,20 +574,8 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/larry-summers-se-aposenta-em-harvard/
   title: Larry Summers se aposenta em Harvard
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-02-26T14:31:48+00:00'
-  description: '<p>A framework for identifying material geopolitical shocks, translating
-    them into portfolio impacts, and documenting risk for oversight and governance.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/02/26/geopolitical-risk-and-portfolio-oversight/">Geopolitical
-    Risk and Portfolio Oversight</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
-    Institute Enterprising Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/02/26/geopolitical-risk-and-portfolio-oversight/
-  title: Geopolitical Risk and Portfolio Oversight
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-02-26T00:00:00+00:00'
   description: "CONHE\xC7A O CURSO DO PROTOCOLO ANTI-RISCO: https://lp.mmakers.com.br/protocolo-anti-risco-economia-para-investidores-lista-de-interesse?xpromo=MI-TRPT-YT-DESCRICAO-X-20260226-DESCRICAOSOBREPODCAST-MM-XNo\
     \ epis\xF3dio 327 do Market Makers, Jos\xE9 Faria Junior destrincha, de forma\
@@ -638,13 +645,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2026/02/the-post-pandemic-global-r/
   title: The Post&#8209;Pandemic Global R*
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2026-02-24T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/response-uk-fca-mills-ai-retail-financial-services
-  title: 'Response to UK FCA Mills Review: AI in Retail Financial Services'
 - author: "Economia \u2013 Brazil Journal"
   categories: *id005
   date: '2026-02-24T04:35:53+00:00'
