@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-05T14:47:14+00:00'
+  description: "Os acordos, concebidos como um meio de contornar as san\xE7\xF5es\
+    \ dos EUA para financiar o regime socialista, envolviam campos de petr\xF3leo\
+    \ em todo o pa\xEDs"
+  image: https://media.investnews.com.br/uploads/2024/08/414902427.jpg
+  path: https://investnews.com.br/economia/contratos-secretos-de-petroleo-de-maduro-atraem-atencao-dos-estados-unidos/
+  title: "Contratos secretos de petr\xF3leo de Maduro atraem aten\xE7\xE3o dos Estados\
+    \ Unidos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id002
   - "Not\xEDcias"
@@ -38,8 +49,7 @@
   path: https://www.reddit.com/r/CFA/comments/1rl8m1m/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-04T17:35:16+00:00'
   description: "Interfer\xEAncias eletr\xF4nicas e o desligamento de transponders\
     \ criam uma n\xE9voa digital que dificulta o rastreamento por sat\xE9lite e obscurece\
@@ -47,15 +57,6 @@
   image: https://media.investnews.com.br/uploads/2025/02/navio-conteiner-AdobeStock_483855922.webp
   path: https://investnews.com.br/economia/navegacao-entra-em-colapso-no-estreito-de-ormuz/
   title: "Navega\xE7\xE3o entra em colapso no Estreito de Ormuz"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-04T16:51:20+00:00'
-  description: "Scott Bessent n\xE3o especificou a quais parceiros comerciais a tarifa\
-    \ mais alta se aplicaria."
-  image: https://media.investnews.com.br/uploads/2025/04/trump-tarifas-min.webp
-  path: https://investnews.com.br/economia/tarifas-de-trump-devem-subir-a-15-nesta-semana-diz-secretario-do-tesouro-dos-eua/
-  title: "Tarifas de Trump devem subir a 15% nesta semana, diz secret\xE1rio do Tesouro\
-    \ dos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
