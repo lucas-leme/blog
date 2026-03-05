@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-05T12:23:27.260933'
+  date: '2026-03-05T13:52:08.996447'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-05T12:23:27.259150'
+  date: '2026-03-05T13:52:08.994694'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-05T12:23:27.259146'
+  date: '2026-03-05T13:52:08.994690'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-05T12:23:27.259141'
+  date: '2026-03-05T13:52:08.994686'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-05T12:23:27.259131'
+  date: '2026-03-05T13:52:08.994675'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: Apricitas Economics
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2026-03-05T13:31:25+00:00'
+  description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
+    GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
+    to Keep it.
+  image: https://substackcdn.com/image/fetch/$s_!KzVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F02221d07-d1e5-403f-9e1d-661e1ec0d14d_2886x1843.png
+  path: https://www.apricitas.io/p/taiwans-modern-miracle
+  title: Taiwan's Modern Miracle
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -638,7 +649,7 @@
   path: https://www.youtube.com/watch?v=wRaDbRjVrc4
   title: 'Samsung Galaxy Buds 4 Pro Review: Better than AirPods!'
 - author: The Overshoot
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-02-28T09:08:37+00:00'
@@ -649,7 +660,7 @@
   path: https://theovershoot.co/p/tariffs-and-international-payments
   title: Tariffs and "International Payments Problems"
 - author: ArjanCodes
-  categories: &id008
+  categories: &id009
   - Tech
   - Code
   - Youtube
@@ -725,16 +736,14 @@
   path: https://open.spotify.com/episode/08nBFDosH5aIUkTRbx7njt
   title: Richard Craib - Crowd-Sourced Alpha with Numerai (S7E28)
 - author: Apricitas Economics
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id007
   date: '2026-02-21T17:41:03+00:00'
   description: Charting the Impact of the Supreme Court Ruling and What Comes Next
   image: https://substackcdn.com/image/fetch/$s_!4mla!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8051a18f-6ce0-4f02-a583-7311f33ba549_2886x1843.png
   path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
   title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
 - author: The Overshoot
-  categories: *id007
+  categories: *id008
   date: '2026-02-20T21:57:24+00:00'
   description: The Supreme Court has ruled that the President cannot use "emergency"
     authority to impose tariffs at will. Inflation is still going to be a problem.
@@ -742,7 +751,7 @@
   path: https://theovershoot.co/p/arbitrary-us-tariffs-are-gone-whats
   title: Arbitrary U.S. Tariffs Are Gone. What's Next?
 - author: ArjanCodes
-  categories: *id008
+  categories: *id009
   date: '2026-02-20T16:01:30+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I break down\
@@ -782,14 +791,6 @@
   path: https://open.spotify.com/episode/2Rk1SP6X6mFmqZQx8rTZy7
   title: "Allocation Insights: Asset-Backed Finance Is the Engine Behind Private Credit\u2019\
     s Next Chapter"
-- author: Apricitas Economics
-  categories: *id009
-  date: '2026-02-10T13:30:25+00:00'
-  description: US AI-Related Investment Keeps Breaking Records, With Total Software,
-    Computer, & Data Center Spending Now Exceeding $1T Per Year
-  image: https://substackcdn.com/image/fetch/$s_!nF_P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c0b56f7-b0b4-429d-8d35-0a301466c076_2886x1843.png
-  path: https://www.apricitas.io/p/americas-1t-ai-gamble
-  title: America's $1T AI Gamble
 - author: The Journal.
   categories: &id010
   - Podcasts
