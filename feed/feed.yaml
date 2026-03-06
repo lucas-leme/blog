@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-06T15:56:33.053479'
+  date: '2026-03-06T18:33:49.064887'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T15:56:33.051723'
+  date: '2026-03-06T18:33:49.063138'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T15:56:33.051720'
+  date: '2026-03-06T18:33:49.063133'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T15:56:33.051715'
+  date: '2026-03-06T18:33:49.063128'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T15:56:33.051705'
+  date: '2026-03-06T18:33:49.063118'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,33 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-03-06T16:00:21+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
+    \ a FastAPI + SQLAlchemy example into a clean Ports & Adapters (Hexagonal Architecture)\
+    \ design. I separate domain logic from frameworks, introduce domain types and\
+    \ errors, define ports with Protocols, and implement adapters step by step. The\
+    \ result is pure, testable business logic that\u2019s easier to maintain and evolve.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/ports.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n1:23 What\u2019\
+    s the Actual Problem?\n3:11 Ports & Adapters in One Minute\n4:25 The Demo Use\
+    \ Case (Keep It Tiny, but Real)\n5:44 Step 1 \u2014 Create Domain Types (Stop\
+    \ Returning API-Shaped Dicts)\n9:39 Step 2 \u2014 Introduce Domain Errors (No\
+    \ HTTP in the Domain)\n12:54 Step 3 \u2014 Define the Port (What the Domain Needs)\n\
+    14:39 Step 4 \u2014 Write the Use Case as Pure Logic\n19:25 Step 5 \u2014 Create\
+    \ SQLAlchemy Adapter Implementing the Port\n24:36 Step 6 \u2014 FastAPI Adapter\
+    \ Becomes Translation-Only\n24:48 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i3.ytimg.com/vi/FXwBWS4qDAA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=FXwBWS4qDAA
+  title: 'Stop Mixing FastAPI with Business Logic: Fix It with Ports & Adapters'
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -461,7 +488,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/03/05/the-question-that-exposes-weak-quant-models/
   title: The Question That Exposes Weak Quant Models
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-03-05T13:31:25+00:00'
@@ -613,7 +640,7 @@
   title: "#329 | COMISS\xD5ES MILION\xC1RIAS, INCENTIVOS E A CAMADA OBSCURA DO BANCO\
     \ MASTER"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-03-03T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -662,7 +689,7 @@
   path: https://www.youtube.com/watch?v=wRaDbRjVrc4
   title: 'Samsung Galaxy Buds 4 Pro Review: Better than AirPods!'
 - author: The Overshoot
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2026-02-28T09:08:37+00:00'
@@ -673,10 +700,7 @@
   path: https://theovershoot.co/p/tariffs-and-international-payments
   title: Tariffs and "International Payments Problems"
 - author: ArjanCodes
-  categories: &id009
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2026-02-27T16:00:53+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show you\
@@ -697,7 +721,7 @@
   path: https://www.youtube.com/watch?v=Y9_h7ehjhO4
   title: "You\u2019ve Been Underusing Dataclasses (These Tricks Are Wild)"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-02-24T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 181 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra seguem falando sobre mercado global. Agora, focando na geopol\xEDtica\
@@ -749,44 +773,20 @@
   path: https://open.spotify.com/episode/08nBFDosH5aIUkTRbx7njt
   title: Richard Craib - Crowd-Sourced Alpha with Numerai (S7E28)
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2026-02-21T17:41:03+00:00'
   description: Charting the Impact of the Supreme Court Ruling and What Comes Next
   image: https://substackcdn.com/image/fetch/$s_!4mla!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8051a18f-6ce0-4f02-a583-7311f33ba549_2886x1843.png
   path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
   title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
 - author: The Overshoot
-  categories: *id008
+  categories: *id009
   date: '2026-02-20T21:57:24+00:00'
   description: The Supreme Court has ruled that the President cannot use "emergency"
     authority to impose tariffs at will. Inflation is still going to be a problem.
   image: https://substackcdn.com/image/fetch/$s_!1E2-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9928e8dd-1f1f-46c3-adcb-1d9708517535_3195x2910.png
   path: https://theovershoot.co/p/arbitrary-us-tariffs-are-gone-whats
   title: Arbitrary U.S. Tariffs Are Gone. What's Next?
-- author: ArjanCodes
-  categories: *id009
-  date: '2026-02-20T16:01:30+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I break down\
-    \ when something in Python should be a property and when it should be a method,\
-    \ and why that choice matters more than it looks. Using a simple example, I show\
-    \ how properties and methods communicate different promises about cost, safety,\
-    \ and behaviour.\n\nI\u2019ll also look at why async properties are usually a\
-    \ design smell, and how to keep async work explicit without breaking clean object\
-    \ design.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/props.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:17 Setup: One Example for the Whole Video (Synchronous Version)\n2:29 Properties\
-    \ vs Methods\n3:48 Derived State: A Perfect Use Case for Properties\n6:14 Under\
-    \ the Hood: Why @property Works\n6:59 Read-Only vs Writable Properties\n8:58 When\
-    \ Setters Should Not Do I/O\n10:29 Abstractions: Properties Are Part of the Contract\n\
-    13:13 Question: Can a Property Be Async?\n16:09 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/wHLZ_uTrCYA/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=wHLZ_uTrCYA
-  title: "Python Properties vs Methods: The Contract You Didn\u2019t Know You Were\
-    \ Making"
 - author: The View From Apollo
   categories:
   - Podcasts
