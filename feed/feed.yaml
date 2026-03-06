@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2026-03-11T12:00:00+00:00'
   description: In this upcoming conversation with Frank Fabozzi, CFA, Tasitsiomi explains
@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-06T18:33:49.064887'
+  date: '2026-03-06T20:32:20.459354'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T18:33:49.063138'
+  date: '2026-03-06T20:32:20.457968'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T18:33:49.063133'
+  date: '2026-03-06T20:32:20.457964'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T18:33:49.063128'
+  date: '2026-03-06T20:32:20.457959'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-06T18:33:49.063118'
+  date: '2026-03-06T20:32:20.457949'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2026-03-06T20:14:58+00:00'
+  description: "The price is the most \"ultra\" thing about the S26 Ultra\n\nCheck\
+    \ out Ridge\u2019s Anniversary sale and save up to 40% off at https://ridge.com/MKBHD\n\
+    \nMKBHD Merch: http://MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
+    \nPhone provided by Samsung for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\n\
+    http://facebook.com/MKBHD"
+  image: https://i3.ytimg.com/vi/nfHRMqqO578/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=nfHRMqqO578
+  title: 'Samsung Galaxy S26 Ultra Review: There''s a Catch'
 - author: ArjanCodes
   categories: &id006
   - Tech
@@ -438,7 +451,7 @@
   path: https://www.youtube.com/watch?v=FXwBWS4qDAA
   title: 'Stop Mixing FastAPI with Business Logic: Fix It with Ports & Adapters'
 - author: Market Makers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-03-06T00:00:00+00:00'
   description: "No epis\xF3dio 330 do Market Makers, vamos receber o Professor HOC\
@@ -475,7 +488,7 @@
   title: "#330 | O ATAQUE DOS EUA AO IR\xC3 E A TERR\xCDVEL AMEA\xC7A NUCLEAR AO MUNDO\
     \ (Professor HOC)"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-03-05T15:04:33+00:00'
   description: '<p>Errant variables can quietly undermine even the most statistically
@@ -499,7 +512,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-03-05T09:50:32+00:00'
   description: "<p>Durante d\xE9cadas, o discurso de \xF3dio foi enquadrado primordialmente\
@@ -533,9 +546,7 @@
   path: https://open.spotify.com/episode/6pplnZmz7qN9T1EKFLcU0F
   title: The Iran war could rock the global economy
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2026-03-04T22:26:34+00:00'
   description: "The new $599 Macbook is a good deal - and it's the computer Apple\
     \ tried to make 10 years ago.\nSave up to 40% off during Ridge\u2019s anniversary\
@@ -571,7 +582,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/03/firms-inflation-expectations-return-to-2024-levels/
   title: "Firms\u2019 Inflation Expectations Return to 2024 Levels"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-03-04T09:50:19+00:00'
   description: "<p>Quase 11 mil ju\xEDzes ganharam mais de US$ 400 mil no \xFAltimo\
     \ ano no Brasil, ultrapassando a remunera\xE7\xE3o paga a qualquer juiz de qualquer\
@@ -585,7 +596,7 @@
   path: https://braziljournal.com/opiniao-ja-passou-da-hora-de-acabar-com-os-penduricalhos/
   title: "OPINI\xC3O. J\xE1 passou da hora de acabar com os penduricalhos"
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2026-03-03T23:01:44+00:00'
   description: "<p>Women are three times more likely than men to invest in eating\
     \ well.</p>\n<p>The post <a href=\"https://blogs.cfainstitute.org/investor/2026/03/03/international-womens-day-women-leaders-put-nutrition-first/\"\
@@ -596,14 +607,14 @@
   path: https://blogs.cfainstitute.org/investor/2026/03/03/international-womens-day-women-leaders-put-nutrition-first/
   title: "International Women\u2019s Day: Women Leaders Put Nutrition First"
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2026-03-03T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2026/mind-gender-gap-edition-3
   title: Mind the Gender Gap, Edition 3
 - author: Market Makers
-  categories: *id004
+  categories: *id005
   date: '2026-03-03T00:00:00+00:00'
   description: "No epis\xF3dio 329 do Market Makers, Thiago Salom\xE3o recebe Filipe\
     \ Medeiros, CEO e fundador da AAWZ, para discutir o tema mais sens\xEDvel do mercado\
@@ -660,34 +671,6 @@
   path: https://open.spotify.com/episode/0Pl4L52NYExb9AxmOcZiz1
   title: "Al\xE9m das previs\xF5es: como ciclos de juros influenciam investimentos\
     \ | Espresso Outliers InfoMoney #10"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2026-02-28T22:55:15+00:00'
-  description: 'Galaxy Buds 4 Pro are sneaky winners!
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Affiliate Link: Galaxy Buds 4 Pro - https://geni.us/Ek9oru
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Earbuds provided by Samsung for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/wRaDbRjVrc4/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=wRaDbRjVrc4
-  title: 'Samsung Galaxy Buds 4 Pro Review: Better than AirPods!'
 - author: The Overshoot
   categories: &id009
   - Macro
