@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-03-05T23:09:24+00:00'
+  description: "Pagamento ser\xE1 feito em 25 de mar\xE7o e equivale a 60 meses de\
+    \ contribui\xE7\xF5es regulares"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/master-bancos-recompor-fgc/
+  title: "Quem paga a conta do Master? Bancos ter\xE3o de repor R$ 32,5 bilh\xF5es\
+    \ ao FGC"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2026-03-05T20:05:37+00:00'
   description: Receita Federal estabelece um limite para os gastos que podem ser deduzidos
     do Imposto de Renda
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/financas/declarar-gastos-educacao-ir-2026/
   title: "Como declarar gastos com educa\xE7\xE3o no Imposto de Renda?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories:
   - "Not\xEDcias"
   date: '2026-03-05T14:47:14+00:00'
   description: "Os acordos, concebidos como um meio de contornar as san\xE7\xF5es\
@@ -19,7 +28,7 @@
   title: "Contratos secretos de petr\xF3leo de Maduro atraem aten\xE7\xE3o dos Estados\
     \ Unidos"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id003
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -57,26 +66,8 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1rl8m1m/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-04T17:35:16+00:00'
-  description: "Interfer\xEAncias eletr\xF4nicas e o desligamento de transponders\
-    \ criam uma n\xE9voa digital que dificulta o rastreamento por sat\xE9lite e obscurece\
-    \ o monitoramento do tr\xE1fego"
-  image: https://media.investnews.com.br/uploads/2025/02/navio-conteiner-AdobeStock_483855922.webp
-  path: https://investnews.com.br/economia/navegacao-entra-em-colapso-no-estreito-de-ormuz/
-  title: "Navega\xE7\xE3o entra em colapso no Estreito de Ormuz"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-03T20:41:31+00:00'
-  description: "Para o Imposto de Renda, os n\xEDveis Prata e Ouro s\xE3o fundamentais\
-    \ para ter acesso aos servi\xE7os do aplicativo da Receita Federal"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-conta-gov-prata-ouro/
-  title: "Imposto de Renda 2026: como ter a conta Gov.br prata ou ouro para preencher\
-    \ a declara\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id003
+  categories: *id002
   date: '2026-03-03T03:11:52+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Reddit has been on a recent campaign\
     \ to replace Automod with something they call Automations. There was supposed\
