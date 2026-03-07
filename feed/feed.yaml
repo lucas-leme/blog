@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-07T00:51:15.766129'
+  date: '2026-03-07T02:16:15.784648'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-07T00:51:15.764341'
+  date: '2026-03-07T02:16:15.782888'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-07T00:51:15.764337'
+  date: '2026-03-07T02:16:15.782884'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-07T00:51:15.764333'
+  date: '2026-03-07T02:16:15.782879'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-07T00:51:15.764323'
+  date: '2026-03-07T02:16:15.782870'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2026-03-07T01:26:27+00:00'
+  description: Quantifying its size is impossible given how little we know about when
+    and how this will end, but the direction of the impact is obvious. The big question
+    is whether long-term beliefs will shift.
+  image: https://substackcdn.com/image/fetch/$s_!OeiB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6dbc309-d6ff-40ad-9c62-4451f7d6fccf_3200x2890.png
+  path: https://theovershoot.co/p/if-you-thought-the-inflation-outlook
+  title: If You Thought the Inflation Outlook Was Bad Before...
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -441,7 +452,7 @@
   path: https://www.youtube.com/watch?v=nfHRMqqO578
   title: 'Samsung Galaxy S26 Ultra Review: There''s a Catch'
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -518,7 +529,7 @@
   path: https://blogs.cfainstitute.org/investor/2026/03/05/the-question-that-exposes-weak-quant-models/
   title: The Question That Exposes Weak Quant Models
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id009
   - Macro
   - Newsletters
   date: '2026-03-05T13:31:25+00:00'
@@ -668,7 +679,7 @@
   title: "#329 | COMISS\xD5ES MILION\xC1RIAS, INCENTIVOS E A CAMADA OBSCURA DO BANCO\
     \ MASTER"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2026-03-03T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -689,9 +700,7 @@
   title: "Al\xE9m das previs\xF5es: como ciclos de juros influenciam investimentos\
     \ | Espresso Outliers InfoMoney #10"
 - author: The Overshoot
-  categories: &id009
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2026-02-28T09:08:37+00:00'
   description: It has long been accepted that tariffs are an acceptable tool for managing
     balance of payments issues. The real question is whether they would be useful
@@ -700,7 +709,7 @@
   path: https://theovershoot.co/p/tariffs-and-international-payments
   title: Tariffs and "International Payments Problems"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2026-02-27T16:00:53+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show you\
@@ -721,7 +730,7 @@
   path: https://www.youtube.com/watch?v=Y9_h7ehjhO4
   title: "You\u2019ve Been Underusing Dataclasses (These Tricks Are Wild)"
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2026-02-24T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 181 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra seguem falando sobre mercado global. Agora, focando na geopol\xEDtica\
@@ -773,20 +782,12 @@
   path: https://open.spotify.com/episode/08nBFDosH5aIUkTRbx7njt
   title: Richard Craib - Crowd-Sourced Alpha with Numerai (S7E28)
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id009
   date: '2026-02-21T17:41:03+00:00'
   description: Charting the Impact of the Supreme Court Ruling and What Comes Next
   image: https://substackcdn.com/image/fetch/$s_!4mla!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8051a18f-6ce0-4f02-a583-7311f33ba549_2886x1843.png
   path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
   title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
-- author: The Overshoot
-  categories: *id009
-  date: '2026-02-20T21:57:24+00:00'
-  description: The Supreme Court has ruled that the President cannot use "emergency"
-    authority to impose tariffs at will. Inflation is still going to be a problem.
-  image: https://substackcdn.com/image/fetch/$s_!1E2-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9928e8dd-1f1f-46c3-adcb-1d9708517535_3195x2910.png
-  path: https://theovershoot.co/p/arbitrary-us-tariffs-are-gone-whats
-  title: Arbitrary U.S. Tariffs Are Gone. What's Next?
 - author: The View From Apollo
   categories:
   - Podcasts
