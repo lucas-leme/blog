@@ -15,7 +15,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-08T02:16:45.649938'
+  date: '2026-03-08T11:09:03.429352'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -26,7 +26,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-08T02:16:45.648199'
+  date: '2026-03-08T11:09:03.427590'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -40,7 +40,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-08T02:16:45.648195'
+  date: '2026-03-08T11:09:03.427585'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -57,7 +57,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-08T02:16:45.648190'
+  date: '2026-03-08T11:09:03.427581'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -140,7 +140,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-08T02:16:45.648180'
+  date: '2026-03-08T11:09:03.427570'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -410,6 +410,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-03-08T03:10:12+00:00'
+  description: "<p>H\xE1 15 anos sa\xEDmos da condi\xE7\xE3o de estabilidade intertemporal\
+    \ da d\xEDvida p\xFAblica. Desde ent\xE3o, a d\xEDvida bruta j\xE1 cresceu 30\
+    \ pontos percentuais do PIB. Temos discutido causas, n\xFAmeros e proje\xE7\xF5\
+    es, mas tratamos de forma secund\xE1ria os fatores institucionais que impedem\
+    \ um novo ajuste fiscal duradouro. O grande impasse nacional \xE9 a rigidez estrutural\
+    \ do or\xE7amento, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-o-ajuste-fiscal-tornou-se-um-desafio-permanente/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. O ajuste fiscal tornou-se um desafio permanente</a>\
+    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
+    \ Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-o-ajuste-fiscal-tornou-se-um-desafio-permanente/
+  title: "OPINI\xC3O. O ajuste fiscal tornou-se um desafio permanente"
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -422,7 +438,7 @@
   path: https://theovershoot.co/p/if-you-thought-the-inflation-outlook
   title: If You Thought the Inflation Outlook Was Bad Before...
 - author: Marques Brownlee
-  categories: &id001
+  categories: &id002
   - Tech
   - Youtube
   date: '2026-03-06T20:14:58+00:00'
@@ -540,8 +556,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2026-03-05T09:50:32+00:00'
   description: "<p>Durante d\xE9cadas, o discurso de \xF3dio foi enquadrado primordialmente\
     \ como uma quest\xE3o moral, hist\xF3rica ou identit\xE1ria \u2014 um tema circunscrito\
@@ -574,7 +589,7 @@
   path: https://open.spotify.com/episode/6pplnZmz7qN9T1EKFLcU0F
   title: The Iran war could rock the global economy
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2026-03-04T22:26:34+00:00'
   description: "The new $599 Macbook is a good deal - and it's the computer Apple\
     \ tried to make 10 years ago.\nSave up to 40% off during Ridge\u2019s anniversary\
@@ -609,20 +624,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2026/03/firms-inflation-expectations-return-to-2024-levels/
   title: "Firms\u2019 Inflation Expectations Return to 2024 Levels"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-03-04T09:50:19+00:00'
-  description: "<p>Quase 11 mil ju\xEDzes ganharam mais de US$ 400 mil no \xFAltimo\
-    \ ano no Brasil, ultrapassando a remunera\xE7\xE3o paga a qualquer juiz de qualquer\
-    \ outro pa\xEDs. Al\xE9m disso, cerca de 40 mil servidores p\xFAblicos brasileiros\
-    \ est\xE3o no 1% mais rico da popula\xE7\xE3o, com renda anual acima de R$ 685\
-    \ mil, sendo a maioria na magistratura [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-ja-passou-da-hora-de-acabar-com-os-penduricalhos/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. J\xE1 passou da hora de acabar com os penduricalhos</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-ja-passou-da-hora-de-acabar-com-os-penduricalhos/
-  title: "OPINI\xC3O. J\xE1 passou da hora de acabar com os penduricalhos"
 - author: CFA Institute Enterprising Investor
   categories: *id003
   date: '2026-03-03T23:01:44+00:00'
