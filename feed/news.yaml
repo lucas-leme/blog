@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-09T11:28:05+00:00'
+  description: "Libera\xE7\xF5es coordenadas de estoques estrat\xE9gicos ocorreram\
+    \ apenas cinco vezes no passado, sendo duas delas em resposta \xE0 invas\xE3o\
+    \ da Ucr\xE2nia pela R\xFAssia em 2022"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/g7-discute-liberar-reservas-estrategicas-de-petroleo-apos-disparada-dos-precos/
+  title: "G7 discute liberar reservas estrat\xE9gicas de petr\xF3leo ap\xF3s disparada\
+    \ dos pre\xE7os"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -44,8 +55,7 @@
   title: "Balan\xE7os do 4\xBA tri mostram mais surpresas positivas que negativas\
     \ na bolsa \u2013 pelo menos at\xE9 agora"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-07T15:12:30+00:00'
   description: "Apesar de queda recente, commodity avan\xE7ou nas \xFAltimas semanas\
     \ e voltou ao n\xEDvel dos US$ 5 mil a on\xE7a"
@@ -53,15 +63,6 @@
   path: https://investnews.com.br/economia/bancos-centrais-compra-ouro-guerra/
   title: "O ouro ficou para tr\xE1s? Bancos centrais freiam compras, mas guerra mant\xE9\
     m metal em evid\xEAncia"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-07T12:41:08+00:00'
-  description: "Petrol\xEDferas n\xE3o reagiram da mesma forma \xE0 escalada da guerra\
-    \ \u2013 diferentemente das empresas de refino, as maiores beneficiadas"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/petroleo-quem-ganha-ou-perde/
-  title: "Mercado de petr\xF3leo entra em fase cr\xEDtica e redefine vencedores no\
-    \ setor de energia"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-03-06T16:20:51+00:00'
