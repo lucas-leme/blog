@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-11T13:15:11+00:00'
+  description: "A proposta \xE9 liberar na faixa de 300 milh\xF5es a 400 milh\xF5\
+    es de barris"
+  image: https://media.investnews.com.br/uploads/2024/06/AdobeStock_211825130.webp
+  path: https://investnews.com.br/economia/agencia-internacional-de-energia-avalia-maior-liberacao-de-reservas-emergenciais-de-petroleo-da-historia/
+  title: "Ag\xEAncia Internacional de Energia\_avalia maior libera\xE7\xE3o de reservas\
+    \ emergenciais de petr\xF3leo da hist\xF3ria"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -25,8 +35,7 @@
   title: CFA Institute will change its deferral policies beginning with the 2027 exam
     administrations
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-09T14:38:25+00:00'
   description: "As na\xE7\xF5es do G7 \u201Cainda n\xE3o chegaram l\xE1\u201D quando\
     \ se trata de organizar uma libera\xE7\xE3o global de estoques emergenciais de\
@@ -37,16 +46,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/g7-ainda-nao-decidiu-liberar-estoques-de-petroleo/
   title: "G7 ainda n\xE3o decidiu liberar estoques de petr\xF3leo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-09T11:28:05+00:00'
-  description: "Libera\xE7\xF5es coordenadas de estoques estrat\xE9gicos ocorreram\
-    \ apenas cinco vezes no passado, sendo duas delas em resposta \xE0 invas\xE3o\
-    \ da Ucr\xE2nia pela R\xFAssia em 2022"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/g7-discute-liberar-reservas-estrategicas-de-petroleo-apos-disparada-dos-precos/
-  title: "G7 discute liberar reservas estrat\xE9gicas de petr\xF3leo ap\xF3s disparada\
-    \ dos pre\xE7os"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id002
   date: '2026-03-09T04:01:32+00:00'
