@@ -1,5 +1,25 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-12T18:20:41+00:00'
+  description: "Diversas cargas n\xE3o foram aprovadas em verifica\xE7\xF5es sanit\xE1\
+    rias realizadas em portos nos \xFAltimos dias"
+  image: https://media.investnews.com.br/uploads/2022/08/50926862498_639e8931b8_o.jpeg
+  path: https://investnews.com.br/economia/remessas-de-soja-do-brasil-falham-em-inspecoes-sanitarias-e-ameacam-comercio-com-a-china/
+  title: "Remessas de soja do Brasil falham em inspe\xE7\xF5es sanit\xE1rias e amea\xE7\
+    am com\xE9rcio com a China"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
+  - "Not\xEDcias"
+  date: '2026-03-12T17:54:55+00:00'
+  description: "Brasileiros que compram propriedades fora do pa\xEDs precisam informar\
+    \ o bem na declara\xE7\xE3o; confira as principais regras"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imoveis-no-exterior-ir/
+  title: "Im\xF3veis no exterior: como declarar no IR e pagar imposto sobre aluguel\
+    \ ou venda"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -38,8 +58,7 @@
   path: https://www.reddit.com/r/CFA/comments/1rrgjwk/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-11T14:37:00+00:00'
   description: "Nas condi\xE7\xF5es atuais, a Chevron planeja triplicar a produ\xE7\
     \xE3o na bacia entre agora e 2035. Atualmente, a empresa produz cerca de 74.000\
@@ -47,18 +66,8 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/chevron-pede-mais-desregulacao-de-milei-para-destravar-vaca-muerta/
   title: "Chevron pede mais desregula\xE7\xE3o de Milei para destravar Vaca Muerta"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-11T13:15:11+00:00'
-  description: "A proposta \xE9 liberar na faixa de 300 milh\xF5es a 400 milh\xF5\
-    es de barris"
-  image: https://media.investnews.com.br/uploads/2024/06/AdobeStock_211825130.webp
-  path: https://investnews.com.br/economia/agencia-internacional-de-energia-avalia-maior-liberacao-de-reservas-emergenciais-de-petroleo-da-historia/
-  title: "Ag\xEAncia Internacional de Energia\_avalia maior libera\xE7\xE3o de reservas\
-    \ emergenciais de petr\xF3leo da hist\xF3ria"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-03-10T13:31:56+00:00'
   description: "Para a Receita Federal, criptomoedas s\xE3o vistas mais como bens\
     \ do que como moeda oficial; entenda"
@@ -66,7 +75,7 @@
   path: https://investnews.com.br/financas/criptomoedas-imposto-de-renda-ir2026/
   title: Como declarar criptomoedas no Imposto de Renda?
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2026-03-09T18:23:47+00:00'
   description: <!-- SC_OFF --><div class="md"><p>This going to be a huge shift from
     how people have planned and studied for the exams in the last 5 years. Keep in
@@ -79,12 +88,3 @@
   path: https://www.reddit.com/r/CFA/comments/1rp88bv/cfa_institute_will_change_its_deferral_policies/
   title: CFA Institute will change its deferral policies beginning with the 2027 exam
     administrations
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id003
-  date: '2026-03-07T20:12:55+00:00'
-  description: "Das 65 empresas que j\xE1 divulgaram resultados, 32,3% superaram as\
-    \ expectativas de lucro e 26,2% ficaram abaixo do esperado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/investimentos/balancos-positivos-negativos/
-  title: "Balan\xE7os do 4\xBA tri mostram mais surpresas positivas que negativas\
-    \ na bolsa \u2013 pelo menos at\xE9 agora"
