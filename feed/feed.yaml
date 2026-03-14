@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-13T21:32:33.152432'
+  date: '2026-03-14T00:51:39.689670'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-13T21:32:33.150694'
+  date: '2026-03-14T00:51:39.687952'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-13T21:32:33.150690'
+  date: '2026-03-14T00:51:39.687949'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-13T21:32:33.150685'
+  date: '2026-03-14T00:51:39.687944'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-13T21:32:33.150676'
+  date: '2026-03-14T00:51:39.687934'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -397,6 +397,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2026-03-13T23:34:02+00:00'
+  description: Prior oil shocks in 1973 and 1979 involved far larger price increases
+    than what we have seen so far. Yet this shock involves a hit to volumes that is
+    unprecedented outside of the pandemic.
+  image: https://substackcdn.com/image/fetch/$s_!I874!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9e4742b9-a451-41f0-a9e6-dbcd515145ae_3205x2925.png
+  path: https://theovershoot.co/p/markets-are-still-sanguine-about
+  title: Markets Are Still Sanguine About the Oil Outlook
 - author: "Economia \u2013 Brazil Journal"
   categories: &id004
   - Economia
@@ -413,7 +424,7 @@
   path: https://braziljournal.com/na-era-da-ai-o-papel-ainda-reina-nas-prefeituras/
   title: Na era da AI, o papel ainda reina nas prefeituras
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -436,7 +447,7 @@
     \ #python"
   image: https://i4.ytimg.com/vi/CWYwz3iV1g0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CWYwz3iV1g0
-  title: 'The Value Object Pattern: The Most Underrated Design Tool in Python'
+  title: Stop Passing Primitives Everywhere (Use Value Objects)
 - author: CFA Institute Enterprising Investor
   categories: &id001
   - CFA
@@ -629,7 +640,7 @@
   path: https://braziljournal.com/as-novas-regras-de-liquidez-no-pos-master/
   title: "As novas regras de liquidez no p\xF3s-Master"
 - author: Outliers
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2026-03-10T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 182 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -677,9 +688,7 @@
   path: https://www.youtube.com/watch?v=yWI33R4xyIc
   title: 'Apple Studio Display XDR Review: We''re All Pros Now!'
 - author: The Overshoot
-  categories: &id008
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2026-03-07T01:26:27+00:00'
   description: Quantifying its size is impossible given how little we know about when
     and how this will end, but the direction of the impact is obvious. The big question
@@ -688,7 +697,7 @@
   path: https://theovershoot.co/p/if-you-thought-the-inflation-outlook
   title: If You Thought the Inflation Outlook Was Bad Before...
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2026-03-06T16:00:21+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
@@ -747,7 +756,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/03/firms-inflation-expectations-return-to-2024-levels/
   title: "Firms\u2019 Inflation Expectations Return to 2024 Levels"
 - author: Outliers
-  categories: *id007
+  categories: *id008
   date: '2026-03-03T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -766,15 +775,6 @@
   path: https://open.spotify.com/episode/0Pl4L52NYExb9AxmOcZiz1
   title: "Al\xE9m das previs\xF5es: como ciclos de juros influenciam investimentos\
     \ | Espresso Outliers InfoMoney #10"
-- author: The Overshoot
-  categories: *id008
-  date: '2026-02-28T09:08:37+00:00'
-  description: It has long been accepted that tariffs are an acceptable tool for managing
-    balance of payments issues. The real question is whether they would be useful
-    for the U.S. in 2026.
-  image: https://substackcdn.com/image/fetch/$s_!gtf2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ec5b863-fa6a-4c27-8bfe-39aca940ccfb_3205x2835.png
-  path: https://theovershoot.co/p/tariffs-and-international-payments
-  title: Tariffs and "International Payments Problems"
 - author: Flirting with Models
   categories:
   - Podcasts
