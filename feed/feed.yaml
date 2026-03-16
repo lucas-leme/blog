@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-16T11:24:33.096065'
+  date: '2026-03-16T12:29:33.471886'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-16T11:24:33.094664'
+  date: '2026-03-16T12:29:33.470166'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -21,13 +21,13 @@
     \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
     \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/06032026
-  title: "BC - Focus - Relat\xF3rio de Mercado - 06/03/2026"
+  path: https://www.bcb.gov.br/publicacoes/focus/13032026
+  title: "BC - Focus - Relat\xF3rio de Mercado - 13/03/2026"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
   - BC
-  date: '2026-03-16T11:24:33.094660'
+  date: '2026-03-16T12:29:33.470163'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-16T11:24:33.094655'
+  date: '2026-03-16T12:29:33.470159'
   description: "<div class=\"ExternalClass9442208121454FA5A6215E6A06D0CEA1\"><p>O\
     \ ambiente externo ainda se mant\xE9m incerto em fun\xE7\xE3o da conjuntura e\
     \ da pol\xEDtica econ\xF4mica nos Estados Unidos, com reflexos nas condi\xE7\xF5\
@@ -127,7 +127,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-16T11:24:33.094645'
+  date: '2026-03-16T12:29:33.470148'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -398,7 +398,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2026-03-15T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, Thiago Salom\xE3o recebe Jan Van\
@@ -536,8 +536,16 @@
   image: https://i4.ytimg.com/vi/CWYwz3iV1g0/hqdefault.jpg
   path: https://www.youtube.com/watch?v=CWYwz3iV1g0
   title: Stop Passing Primitives Everywhere (Use Value Objects)
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2026-03-13T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/eu-consultation-venture-growth-capital-funds-reform
+  title: Response to EU Consultation on Venture and Growth Capital Funds Reform
 - author: CFA Institute Enterprising Investor
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-03-12T14:00:32+00:00'
   description: '<p>Beyond backtests, a layered view of association, causality, and
@@ -550,15 +558,14 @@
   path: https://blogs.cfainstitute.org/investor/2026/03/12/backtests-causality-and-model-risk-in-quantitative-investing/
   title: Backtests, Causality, and Model Risk in Quantitative Investing
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2026-03-12T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/reports/2026/unlocking-agms-asia-pacific
   title: 'Unlocking AGMs: From Votes to Voice in Asia-Pacific'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2026-03-12T00:00:00+00:00'
   description: "Pedro Parente viveu por dentro algumas das maiores crises da hist\xF3\
     ria recente do Brasil. Neste epis\xF3dio, o ex-presidente da Petrobras e ex-ministro\
@@ -623,7 +630,7 @@
   path: https://open.spotify.com/episode/5m8NTvjHRnewb3Jqn5N1RG
   title: How to manage an oil shock
 - author: CFA Institute Enterprising Investor
-  categories: *id002
+  categories: *id003
   date: '2026-03-11T16:50:15+00:00'
   description: '<p>Investment outcomes are shaped not only by what investors know,
     but by how investment systems are designed.</p>
@@ -634,18 +641,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/03/11/investment-behavior-is-a-design-problem-not-an-information-problem/
   title: Investment Behavior Is a Design Problem, Not an Information Problem
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-03-11T12:00:00+00:00'
-  description: In this conversation with Frank Fabozzi, CFA, Tasitsiomi explains that
-    sophisticated models add value only when paired with well-defined problems and
-    high-quality data. Echoing Einstein, she argues that models should be made as
-    simple as possible, but not simpler. She also shares when advanced machine learning
-    techniques are most effective, particularly for capturing nonlinear relationships,
-    working with unstructured data, or enabling unsupervised discovery.
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-iro-tasitsiomi
-  title: Conversations with Frank Fabozzi, CFA, Featuring Iro Tasitsiomi, PhD
 - author: Marques Brownlee
   categories: *id004
   date: '2026-03-10T23:40:30+00:00'
