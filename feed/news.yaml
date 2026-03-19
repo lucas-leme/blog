@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-19T16:32:12+00:00'
+  description: "Haddad deve anunciar ainda hoje sua candidatura ao governo de S\xE3\
+    o Paulo e Lula afirmou que o atual secret\xE1rio-executivo da Fazenda, Durigan,\
+    \ assumir\xE1 o minist\xE9rio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fernando-haddad-confirma-saida-da-fazenda-dario-durigan-assumira-o-ministerio/
+  title: "Fernando Haddad confirma sa\xEDda da Fazenda; Dario Durigan assumir\xE1\
+    \ o minist\xE9rio"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -25,8 +36,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ry0p0g/official_february_2026_level_1_results_megathread/
   title: Official February 2026 Level 1 Results Megathread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-19T09:12:55+00:00'
   description: "Para Fernando Gon\xE7alves, superintendente de pesquisa econ\xF4mica\
     \ do Ita\xFA BBA, BC vai continuar a reduzir a taxa b\xE1sica. A quest\xE3o \xE9\
@@ -35,14 +45,6 @@
   path: https://investnews.com.br/economia/selic-em-queda-mesmo-com-guerra/
   title: "Selic em queda mesmo com guerra: por que o BC seguiu em frente \u2013 e\
     \ por que deve continuar"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-18T21:34:24+00:00'
-  description: "Decis\xE3o do Copom era amplamente esperada pelo mercado financeiro"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/selic-juros-bc-mar-2026/
-  title: "Banco Central inicia corte de juros ap\xF3s dois anos e Selic vai a 14,75%\
-    \ ao ano"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-03-17T19:16:42+00:00'
