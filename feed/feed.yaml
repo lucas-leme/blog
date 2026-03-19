@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-19T15:03:57.144458'
+  date: '2026-03-19T16:04:47.525418'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-19T15:03:57.142750'
+  date: '2026-03-19T16:04:47.523714'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-19T15:03:57.142746'
+  date: '2026-03-19T16:04:47.523710'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-19T15:03:57.142741'
+  date: '2026-03-19T16:04:47.523705'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-19T15:03:57.142731'
+  date: '2026-03-19T16:04:47.523694'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -407,6 +407,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-03-19T15:34:24+00:00'
+  description: "<p>O presidente da Finl\xE2ndia, Alexander Stubb, disse que o Brexit\
+    \ foi um erro \u201Ccolossal\u201D \u2013 e pediu que os brit\xE2nicos e os pa\xED\
+    ses da Uni\xE3o Europeia sejam \u201Cpragm\xE1ticos\u201D e construam uma colabora\xE7\
+    \xE3o mais flex\xEDvel. \u201CSou muito diplom\xE1tico para dizer o que penso\
+    \ sobre aqueles que promoveram o Brexit e sobre aqueles que ainda pensam que [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/brexit-foi-como-amputar-perna-sem-necessidade-diz-presidente-da-finlandia/\"\
+    \ rel=\"nofollow\">Brexit foi como \u201Camputar perna sem necessidade,\u201D\
+    \ diz presidente da Finl\xE2ndia</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/brexit-foi-como-amputar-perna-sem-necessidade-diz-presidente-da-finlandia/
+  title: "Brexit foi como \u201Camputar perna sem necessidade,\u201D diz presidente\
+    \ da Finl\xE2ndia"
+- author: CFA Institute Enterprising Investor
+  categories: &id002
+  - CFA
+  date: '2026-03-19T15:05:05+00:00'
+  description: '<p>Enterprising Investor is moving to CFA Institute Research and Policy
+    Center (RPC) on March 23.</p>
+
+    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/03/19/enterprising-investor-is-moving/">Enterprising
+    Investor Is Moving</a> appeared first on <a href="https://blogs.cfainstitute.org/investor">CFA
+    Institute Enterprising Investor</a>.</p>'
+  image: null
+  path: https://blogs.cfainstitute.org/investor/2026/03/19/enterprising-investor-is-moving/
+  title: Enterprising Investor Is Moving
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -439,8 +469,7 @@
   path: https://www.youtube.com/watch?v=D4QyStJWgCc
   title: 'Nothing Phone 4A/Pro Review: I Have a Theory'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-03-19T00:54:02+00:00'
   description: "<p>A Opera\xE7\xE3o Boi no Pasto, que ficou famosa em 1986 durante\
     \ o Plano Cruzado, colocou a Pol\xEDcia Federal \xE0 procura de bois para \u201C\
@@ -455,24 +484,8 @@
   path: https://braziljournal.com/opiniao-boi-no-pasto-pf-no-posto-governos-populistas-e-suas-solucoes-fantasiosas/
   title: "OPINI\xC3O. Boi no Pasto, PF no posto. Governos populistas e suas solu\xE7\
     \xF5es fantasiosas"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id001
-  date: '2026-03-18T21:59:07+00:00'
-  description: "<p>Um m\xEDssil iraniano causou \u201Cdanos extensos\u201D nas instala\xE7\
-    \xF5es do hub industrial de Ras Laffan, no Qatar, um complexo respons\xE1vel por\
-    \ 20% de todo o g\xE1s natural exportado no mundo. A produ\xE7\xE3o j\xE1 havia\
-    \ sido interrompida no in\xEDcio do m\xEAs, por causa das amea\xE7as por parte\
-    \ do Ir\xE3. O estrago do ataque ocorrido hoje elevam as [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/petroleo-conserto-de-infraestrutura-danificada-vai-levar-meses/\"\
-    \ rel=\"nofollow\">Petr\xF3leo: conserto de infraestrutura danificada vai levar\
-    \ meses</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/petroleo-conserto-de-infraestrutura-danificada-vai-levar-meses/
-  title: "Petr\xF3leo: conserto de infraestrutura danificada vai levar meses"
 - author: CFA Institute Enterprising Investor
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-03-18T17:32:43+00:00'
   description: '<p>Private credit stress signals a broader unwind as excess capital,
     liquidity mismatches, and incentives destabilize private markets.</p>
@@ -483,19 +496,6 @@
   image: null
   path: https://blogs.cfainstitute.org/investor/2026/03/18/the-music-has-stopped-in-private-markets/
   title: The Music Has Stopped in Private Markets
-- author: CFA Institute Enterprising Investor
-  categories: *id002
-  date: '2026-03-17T14:33:11+00:00'
-  description: '<p>As analytical tools scale, investment edge shifts from data analysis
-    to generating new information and making decisions with incomplete data.</p>
-
-    <p>The post <a href="https://blogs.cfainstitute.org/investor/2026/03/17/when-analytical-tools-scale-first-order-information-differentiates/">When
-    Analytical Tools Scale, First-Order Information Differentiates</a> appeared first
-    on <a href="https://blogs.cfainstitute.org/investor">CFA Institute Enterprising
-    Investor</a>.</p>'
-  image: null
-  path: https://blogs.cfainstitute.org/investor/2026/03/17/when-analytical-tools-scale-first-order-information-differentiates/
-  title: When Analytical Tools Scale, First-Order Information Differentiates
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -533,21 +533,22 @@
   categories: &id006
   - Podcasts
   date: '2026-03-17T00:00:00+00:00'
-  description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
-    \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
-    \ objetiva e descomplicada os principais movimentos do universo de investimentos.Nesta\
-    \ edi\xE7\xE3o, Clara Sodr\xE9 destrincha o momento dos fundos multimercados,\
-    \ classe que passou por um per\xEDodo de forte resgate, desempenho pressionado\
-    \ e questionamentos sobre seu papel nas carteiras dos investidores.Depois de um\
-    \ ciclo desafiador para a ind\xFAstria, surge a pergunta: eles est\xE3o voltando\
-    \ para o radar? Os n\xFAmeros chamam aten\xE7\xE3o. At\xE9 fevereiro, os multimercados\
-    \ registaram o segundo melhor in\xEDcio de ano, mas cen\xE1rio geopol\xEDtico\
-    \ passou a testar convic\xE7\xE3o dos gestores no \u201Ckit Brasil\u201D no m\xEA\
-    s de mar\xE7oPara al\xE9m do retorno, Clara explica por que nem todos os multimercados\
-    \ devem ser colocados na mesma \u201Ccaixinha\u201D, quais fatores ajudam a entender\
-    \ o desempenho recente da classe e por que olhar al\xE9m do curto prazo \xE9 essencial\
-    \ ao investir nesse tipo de estrat\xE9gia.Prepare seu caf\xE9 e acompanhe um epis\xF3\
-    dio cheio de insights pr\xE1ticos!Portal de Conte\xFAdos da XP: https://conteudos.xpi.com.br/\_\
+  description: "RELAT\xD3RIO TOP FUNDOS PCO - MAR\xC7O 2026https://conteudos.xpi.com.br/fundos-de-investimento/recomendacoes/top-50-brasil/Este\
+    \ \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica na correria do\
+    \ dia para pegar um caf\xE9, respirar fundo e entender de forma objetiva e descomplicada\
+    \ os principais movimentos do universo de investimentos.Nesta edi\xE7\xE3o, Clara\
+    \ Sodr\xE9 destrincha o momento dos fundos multimercados, classe que passou por\
+    \ um per\xEDodo de forte resgate, desempenho pressionado e questionamentos sobre\
+    \ seu papel nas carteiras dos investidores.Depois de um ciclo desafiador para\
+    \ a ind\xFAstria, surge a pergunta: eles est\xE3o voltando para o radar? Os n\xFA\
+    meros chamam aten\xE7\xE3o. At\xE9 fevereiro, os multimercados registaram o segundo\
+    \ melhor in\xEDcio de ano, mas cen\xE1rio geopol\xEDtico passou a testar convic\xE7\
+    \xE3o dos gestores no \u201Ckit Brasil\u201D no m\xEAs de mar\xE7oPara al\xE9\
+    m do retorno, Clara explica por que nem todos os multimercados devem ser colocados\
+    \ na mesma \u201Ccaixinha\u201D, quais fatores ajudam a entender o desempenho\
+    \ recente da classe e por que olhar al\xE9m do curto prazo \xE9 essencial ao investir\
+    \ nesse tipo de estrat\xE9gia.Prepare seu caf\xE9 e acompanhe um epis\xF3dio cheio\
+    \ de insights pr\xE1ticos!Portal de Conte\xFAdos da XP: https://conteudos.xpi.com.br/\_\
     Espresso Outliers InfoMoney #08, sobre o que \xE9 t\xE1tico e estrutural: https://www.youtube.com/watch?v=W55sk5McyZ0&amp;list=PLMl5SicO7iPBP8kNaUCM69leO8URDLXxf&amp;index=3\_\
     Relat\xF3rio (link a confirmar)"
   image: https://i.scdn.co/image/ab6765630000ba8a9a3935a57ec3a97203174601
