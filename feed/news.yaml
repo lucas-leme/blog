@@ -1,6 +1,18 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-03-20T19:51:50+00:00'
+  description: "As regras do Imposto de Renda 2026 (ano-base 2025) foram divulgadas\
+    \ pela Receita Federal. O principal ponto de aten\xE7\xE3o para o contribuinte,\
+    \ por\xE9m, \xE9 outro: qual tabela considerar na hora de declarar. Al\xE9m disso,\
+    \ o Imposto de Renda da Pessoa F\xEDsica segue a l\xF3gica de apura\xE7\xE3o anual,\
+    \ o que significa que todos os rendimentos do [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-2026-tabela-valores-ir2026/
+  title: "Imposto de Renda 2026: qual tabela usar na declara\xE7\xE3o? Veja valores\
+    \ atualizados"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2026-03-20T12:39:17+00:00'
   description: "Contribuintes j\xE1 podem baixar o sistema para prestar contas ao\
     \ Fisco; prazo de entrega segue at\xE9 o fim de maio"
@@ -9,7 +21,7 @@
   title: "IR 2026: Receita libera programa para envio da declara\xE7\xE3o; veja regras,\
     \ prazos e quem deve prestar contas ao Fisco"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-03-19T22:18:52+00:00'
   description: "Choque no Oriente M\xE9dio j\xE1 afeta oferta de fertilizantes, chips\
@@ -19,7 +31,7 @@
   title: "N\xE3o \xE9 s\xF3 petr\xF3leo: guerra no Ir\xE3 desorganiza cadeias globais\
     \ e pressiona infla\xE7\xE3o"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-03-19T16:32:12+00:00'
   description: "Haddad deve anunciar ainda hoje sua candidatura ao governo de S\xE3\
     o Paulo e Lula afirmou que o atual secret\xE1rio-executivo da Fazenda, Durigan,\
@@ -28,14 +40,6 @@
   path: https://investnews.com.br/economia/fernando-haddad-confirma-saida-da-fazenda-dario-durigan-assumira-o-ministerio/
   title: "Fernando Haddad confirma sa\xEDda da Fazenda; Dario Durigan assumir\xE1\
     \ o minist\xE9rio"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-19T14:40:38+00:00'
-  description: "Veja como informar valores vindos de fora do pa\xEDs e evitar erros\
-    \ que podem levar \xE0 malha fina no Imposto de Renda"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dinheiro-exterior-imposto-de-renda-2026/
-  title: Como declarar dinheiro recebido do exterior no Imposto de Renda 2026?
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
