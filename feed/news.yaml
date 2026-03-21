@@ -1,3 +1,12 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-03-21T16:15:39+00:00'
+  description: Depois da ureia, mercado teme choque no fosfato, insumo essencial para
+    lavouras e alimentos
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guerra-no-oriente-medio-ameaca-fertilizantes-usados-na-soja/
+  title: "Guerra no Oriente M\xE9dio amea\xE7a fertilizantes usados na soja"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -21,8 +30,7 @@
   title: "IR 2026: Receita libera programa para envio da declara\xE7\xE3o; veja regras,\
     \ prazos e quem deve prestar contas ao Fisco"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-03-19T22:18:52+00:00'
   description: "Choque no Oriente M\xE9dio j\xE1 afeta oferta de fertilizantes, chips\
     \ e medicamentos, com risco crescente para a economia global"
@@ -30,16 +38,6 @@
   path: https://investnews.com.br/economia/ira-ormuz-crise-inflacao/
   title: "N\xE3o \xE9 s\xF3 petr\xF3leo: guerra no Ir\xE3 desorganiza cadeias globais\
     \ e pressiona infla\xE7\xE3o"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-19T16:32:12+00:00'
-  description: "Haddad deve anunciar ainda hoje sua candidatura ao governo de S\xE3\
-    o Paulo e Lula afirmou que o atual secret\xE1rio-executivo da Fazenda, Durigan,\
-    \ assumir\xE1 o minist\xE9rio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/fernando-haddad-confirma-saida-da-fazenda-dario-durigan-assumira-o-ministerio/
-  title: "Fernando Haddad confirma sa\xEDda da Fazenda; Dario Durigan assumir\xE1\
-    \ o minist\xE9rio"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
