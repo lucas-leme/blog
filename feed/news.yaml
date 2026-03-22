@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-03-22T12:13:29+00:00'
+  description: "Com prazo de 48 horas, presidente dos EUA amea\xE7a atacar usinas\
+    \ iranianas e amplia tens\xE3o no Oriente M\xE9dio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-da-ultimato-ao-ira-e-ameaca-bombardear-usinas-se-hormuz-nao-reabrir/
+  title: "Trump d\xE1 ultimato ao Ir\xE3 e amea\xE7a bombardear usinas se Hormuz n\xE3\
+    o reabrir"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-03-21T16:15:39+00:00'
   description: Depois da ureia, mercado teme choque no fosfato, insumo essencial para
     lavouras e alimentos
@@ -8,7 +17,7 @@
   path: https://investnews.com.br/economia/guerra-no-oriente-medio-ameaca-fertilizantes-usados-na-soja/
   title: "Guerra no Oriente M\xE9dio amea\xE7a fertilizantes usados na soja"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-03-20T19:51:50+00:00'
   description: "As regras do Imposto de Renda 2026 (ano-base 2025) foram divulgadas\
@@ -21,7 +30,7 @@
   title: "Imposto de Renda 2026: qual tabela usar na declara\xE7\xE3o? Veja valores\
     \ atualizados"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-03-20T12:39:17+00:00'
   description: "Contribuintes j\xE1 podem baixar o sistema para prestar contas ao\
     \ Fisco; prazo de entrega segue at\xE9 o fim de maio"
@@ -29,15 +38,6 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2026-programa/
   title: "IR 2026: Receita libera programa para envio da declara\xE7\xE3o; veja regras,\
     \ prazos e quem deve prestar contas ao Fisco"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-19T22:18:52+00:00'
-  description: "Choque no Oriente M\xE9dio j\xE1 afeta oferta de fertilizantes, chips\
-    \ e medicamentos, com risco crescente para a economia global"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ira-ormuz-crise-inflacao/
-  title: "N\xE3o \xE9 s\xF3 petr\xF3leo: guerra no Ir\xE3 desorganiza cadeias globais\
-    \ e pressiona infla\xE7\xE3o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
