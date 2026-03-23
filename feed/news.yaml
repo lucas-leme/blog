@@ -1,3 +1,23 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-23T12:06:08+00:00'
+  description: "A publica\xE7\xE3o ocorre ap\xF3s o presidente amea\xE7ar, no fim\
+    \ de semana, um ultimato de 48 horas para que o Ir\xE3 abrisse o estrat\xE9gico\
+    \ Estreito de Ormuz"
+  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_2.webp
+  path: https://investnews.com.br/economia/trump-adia-por-cinco-dias-ataques-a-infraestrutura-energetica-do-ira/
+  title: "Trump adia por cinco dias ataques \xE0 infraestrutura energ\xE9tica do Ir\xE3"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-03-23T11:27:20+00:00'
+  description: "A entrega da declara\xE7\xE3o do Imposto de Renda 2026 come\xE7a nesta\
+    \ segunda-feira e termina no final de maio"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-ir2026-prazo-declaracao/
+  title: "Imposto de Renda 2026: entrega da declara\xE7\xE3o come\xE7a nesta segunda;\
+    \ veja quem \xE9 obrigado a declarar"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +54,7 @@
   path: https://www.reddit.com/r/CFA/comments/1s16pzt/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-22T12:34:17+00:00'
   description: "A for\xE7a exportadora da China amplia atritos com parceiros num momento\
     \ de tr\xE9gua tarif\xE1ria com os Estados Unidos"
@@ -43,18 +62,8 @@
   path: https://investnews.com.br/economia/o-sucesso-industrial-da-china-virou-um-problema-diplomatico-e-pequim-sabe-disso/
   title: "O sucesso industrial da China virou um problema diplom\xE1tico. E Pequim\
     \ sabe disso"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-22T12:13:29+00:00'
-  description: "Com prazo de 48 horas, presidente dos EUA amea\xE7a atacar usinas\
-    \ iranianas e amplia tens\xE3o no Oriente M\xE9dio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-da-ultimato-ao-ira-e-ameaca-bombardear-usinas-se-hormuz-nao-reabrir/
-  title: "Trump d\xE1 ultimato ao Ir\xE3 e amea\xE7a bombardear usinas se Hormuz n\xE3\
-    o reabrir"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-03-20T19:51:50+00:00'
   description: "As regras do Imposto de Renda 2026 (ano-base 2025) foram divulgadas\
     \ pela Receita Federal. O principal ponto de aten\xE7\xE3o para o contribuinte,\
@@ -65,15 +74,6 @@
   path: https://investnews.com.br/financas/imposto-de-renda-2026-tabela-valores-ir2026/
   title: "Imposto de Renda 2026: qual tabela usar na declara\xE7\xE3o? Veja valores\
     \ atualizados"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-20T12:39:17+00:00'
-  description: "Contribuintes j\xE1 podem baixar o sistema para prestar contas ao\
-    \ Fisco; prazo de entrega segue at\xE9 o fim de maio"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-2026-programa/
-  title: "IR 2026: Receita libera programa para envio da declara\xE7\xE3o; veja regras,\
-    \ prazos e quem deve prestar contas ao Fisco"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-03-09T18:23:47+00:00'
