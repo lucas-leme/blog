@@ -2,7 +2,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-23T13:59:27.215528'
+  date: '2026-03-23T15:07:39.118199'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -13,7 +13,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-23T13:59:27.213776'
+  date: '2026-03-23T15:07:39.116464'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -27,7 +27,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-23T13:59:27.213772'
+  date: '2026-03-23T15:07:39.116460'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -44,7 +44,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-23T13:59:27.213766'
+  date: '2026-03-23T15:07:39.116455'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-23T13:59:27.213756'
+  date: '2026-03-23T15:07:39.116444'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo ainda se mant\xE9m incerto em fun\xE7\
@@ -407,6 +407,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/28012026
   title: "BC - Copom Ata - 276\xAA Reuni\xE3o - 27-28 janeiro, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: &id003
+  - CFA
+  date: '2026-03-23T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/when-ai-trades-who-is-responsible
+  title: When AI Trades, Who Is Responsible?
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -608,20 +616,12 @@
   path: https://open.spotify.com/episode/2HcZFe5bzxVuSwaBAklIrp
   title: Is the private credit industry a threat to the financial system?
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id003
   date: '2026-03-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/music-has-stopped-private-markets
   title: The Music Has Stopped in Private Markets
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-03-17T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/when-analytical-tools-scale-first-order-information-differentiates
-  title: When Analytical Tools Scale, First-Order Information Differentiates
 - author: Outliers
   categories: &id007
   - Podcasts
