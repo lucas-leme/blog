@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-03-25T15:05:29+00:00'
+  description: "Modalidade pode simplificar o preenchimento do Imposto de Renda e,\
+    \ em alguns casos, aumentar a restitui\xE7\xE3o, conforme a renda do casal"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-declaracao-conjunta-ir2026/
+  title: "Imposto de Renda: como fazer a declara\xE7\xE3o conjunta em 2026?"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-03-24T17:53:34+00:00'
   description: "Medida permite a TotalEnergies \xE0 abandonar projetos de e\xF3lica\
@@ -10,8 +19,7 @@
   title: "Governo Trump libera TotalEnergies de investir US$ 1 bilh\xE3o em energia\
     \ e\xF3lica"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-24T16:57:39+00:00'
   description: "Veja quem pode ser dependente ou alimentando no Imposto de Renda e\
     \ os documentos necess\xE1rios para declarar"
@@ -19,7 +27,7 @@
   path: https://investnews.com.br/financas/pensao-recebida-imposto-de-renda-ir2026/
   title: "Como declarar a pens\xE3o aliment\xEDcia recebida no Imposto de Renda 2026?"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-03-24T16:25:08+00:00'
   description: "Programa habitacional eleva tanto a renda mensal quanto os valores\
     \ m\xE1ximos de im\xF3veis que podem ser financiados"
@@ -27,14 +35,6 @@
   path: https://investnews.com.br/economia/minha-casa-minha-vida-passa-a-atender-familias-com-renda-ate-r-13-mil-mensais/
   title: "Minha Casa Minha Vida passa a atender fam\xEDlias com renda at\xE9 R$ 13\
     \ mil mensais"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-23T17:00:06+00:00'
-  description: "Maioria dos erros na declara\xE7\xE3o do Imposto de Renda est\xE1\
-    \ ligada a equ\xEDvocos na hora de preencher"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-erros-malha-fina-ir2026/
-  title: "Imposto de Renda 2026: os erros mais comuns que levam \xE0 malha fina"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
