@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-04-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Mark Anson,
@@ -17,7 +17,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-03-30T16:08:37.610978'
+  date: '2026-03-30T18:39:34.640626'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -28,7 +28,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-30T16:08:37.609420'
+  date: '2026-03-30T18:39:34.638854'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -42,7 +42,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-30T16:08:37.609416'
+  date: '2026-03-30T18:39:34.638849'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -59,7 +59,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-30T16:08:37.609411'
+  date: '2026-03-30T18:39:34.638844'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -152,7 +152,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-03-30T16:08:37.609400'
+  date: '2026-03-30T18:39:34.638833'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -410,6 +410,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2026-03-30T16:42:18+00:00'
+  description: Anything can handle broad daylight
+  image: https://i1.ytimg.com/vi/pvjivZ6C6CA/hqdefault.jpg
+  path: https://www.youtube.com/shorts/pvjivZ6C6CA
+  title: Every iPhone Camera vs LOW Light
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -443,7 +452,7 @@
   title: "Governo busca \u2018jeitinho\u2019 pra segurar a conta de luz. Mas n\xE3\
     o existe almo\xE7o gr\xE1tis"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-03-29T00:00:00+00:00'
   description: "Lourival Sant\u2019Anna cobriu 15 guerras, entrevistou o Talib\xE3\
@@ -484,9 +493,7 @@
   path: https://theovershoot.co/p/russias-iran-war-windfall-in-perspective
   title: Russia's Iran War Windfall in Perspective
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2026-03-27T20:07:08+00:00'
   description: iPhone 1 through 17 generation takes the same photo
   image: https://i3.ytimg.com/vi/jru9Gsz3kJY/hqdefault.jpg
@@ -519,14 +526,14 @@
   path: https://www.youtube.com/watch?v=U4sPMwAiXco
   title: "Why \u201CClean Code\u201D Often Creates Worse Designs"
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2026-03-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/private-credit-verification-problem
   title: "Private Credit\u2019s Verification Problem"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-03-26T00:00:00+00:00'
   description: "O Brasil est\xE1 vivendo uma das maiores ondas de empresas quebrando\
     \ da hist\xF3ria.Recupera\xE7\xF5es judiciais dispararam, bilh\xF5es em d\xED\
@@ -578,18 +585,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a4c473485f3036aaeced7f6f8
   path: https://open.spotify.com/episode/6obm9fvRAriEvYYybOnrXR
   title: 'Hormuz: mother of all chokepoints'
-- author: Marques Brownlee
-  categories: *id004
-  date: '2026-03-25T18:25:28+00:00'
-  description: "There are really good Windows laptops - but how can they compete?\n\
-    \nMKBHD Color Picker Sticker Pack: https://geni.us/tAIya9\n\n(Affiliate Links)\n\
-    MacBook Neo: https://geni.us/AATWro\nMacBook Pro M5 16\u201D: https://geni.us/6RMSTm\n\
-    Dell XPS 14: https://howl.link/suo5v5pd7a9ra\nAcer Aspire 16: https://geni.us/NSQ3Rg7\n\
-    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\n~\nhttp://twitter.com/MKBHD\n\
-    http://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i2.ytimg.com/vi/eXa2ndhmatI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=eXa2ndhmatI
-  title: The Windows Laptop Problem
 - author: Liberty Street Economics
   categories:
   - Macro
