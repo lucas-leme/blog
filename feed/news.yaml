@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-01T14:27:27+00:00'
+  description: "A guerra pode terminar em duas ou tr\xEAs semanas, disse Trump, embora\
+    \ ele frequentemente estabele\xE7a prazos curtos que depois s\xE3o ignorados ou\
+    \ substitu\xEDdos"
+  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_2.webp
+  path: https://investnews.com.br/economia/trump-agora-diz-que-so-interrompe-ataques-ao-ira-com-reabertura-de-ormuz/
+  title: "Trump agora diz que s\xF3 interrompe ataques ao Ir\xE3 com reabertura de\
+    \ Ormuz"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -53,8 +64,7 @@
   path: https://www.reddit.com/r/CFA/comments/1s7g8of/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-03-29T19:02:35+00:00'
   description: "Paquist\xE3o faz fronteira com o Ir\xE3 e mant\xE9m la\xE7os com o\
     \ presidente Trump"
@@ -62,15 +72,6 @@
   path: https://investnews.com.br/economia/saiba-por-que-o-paquistao-pode-ser-a-melhor-chance-para-um-acordo-entre-eua-e-ira/
   title: "Saiba por que o Paquist\xE3o pode ser a melhor chance para um acordo entre\
     \ EUA e Ir\xE3"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-03-28T16:54:02+00:00'
-  description: "Pre\xE7os internacionais do alum\xEDnio sobem 11% desde o in\xEDcio\
-    \ da guerra"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/misseis-atingem-maior-fabricante-de-aluminio-do-oriente-medio-e-acendem-alerta-sobre-oferta-do-metal/
-  title: "M\xEDsseis atingem maior fabricante de alum\xEDnio do Oriente M\xE9dio e\
-    \ acendem alerta sobre oferta do metal"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-03-09T18:23:47+00:00'
