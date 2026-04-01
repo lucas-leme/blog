@@ -1,3 +1,13 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-01T18:30:55+00:00'
+  description: "Despesas m\xE9dicas declaradas indevidas no Imposto de Renda continuam\
+    \ sendo o principal motivo de reten\xE7\xE3o na malha fina"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-renda-despesas-medicas-2026/
+  title: "Imposto de Renda 2026: como declarar despesas m\xE9dicas com plano de sa\xFA\
+    de?"
 - author: "Economia \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -10,8 +20,7 @@
   title: "Trump agora diz que s\xF3 interrompe ataques ao Ir\xE3 com reabertura de\
     \ Ormuz"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-03-31T17:08:53+00:00'
   description: "Entenda como funcionam os tratados internacionais e por que casos\
     \ envolvendo EUA e Portugal geram tantas d\xFAvidas entre brasileiros"
@@ -19,15 +28,6 @@
   path: https://investnews.com.br/financas/acordos-para-evitar-bitributacao/
   title: "Acordos para evitar bitributa\xE7\xE3o: como funcionam os tratados que impedem\
     \ brasileiros de pagar imposto duas vezes"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2026-03-31T14:58:00+00:00'
-  description: "Segundo a Receita Federal, existe uma data estrat\xE9gica para quem\
-    \ busca antecipar a restitui\xE7\xE3o do Imposto de Renda 2026"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/1o-lote-imposto-de-renda-prazo-ir2026/
-  title: "Quer receber no 1\xBA lote do Imposto de Renda 2026? Receita informa data-limite\
-    \ para envio"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
