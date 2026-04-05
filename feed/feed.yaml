@@ -17,7 +17,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-04-05T02:17:45.356237'
+  date: '2026-04-05T11:14:11.281278'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -28,7 +28,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-05T02:17:45.354526'
+  date: '2026-04-05T11:14:11.279498'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -42,7 +42,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-05T02:17:45.354523'
+  date: '2026-04-05T11:14:11.279494'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -59,7 +59,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-05T02:17:45.354518'
+  date: '2026-04-05T11:14:11.279489'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -152,7 +152,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-05T02:17:45.354508'
+  date: '2026-04-05T11:14:11.279478'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -410,8 +410,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
-- author: ArjanCodes
+- author: The Overshoot
   categories: &id005
+  - Macro
+  - Newsletters
+  date: '2026-04-05T06:36:55+00:00'
+  description: Something strange is happening with wages in healthcare and private
+    education.
+  image: https://substackcdn.com/image/fetch/$s_!gAU6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F699a5753-d717-4312-85ae-9c86ee688b4f_3200x2845.png
+  path: https://theovershoot.co/p/is-us-wage-growth-slowing-or-not
+  title: Is U.S. Wage Growth Slowing Or Not?
+- author: ArjanCodes
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -585,7 +595,7 @@
   title: "#341 | TRUMP, CRISE NO PETR\xD3LEO E OS DESDOBRAMENTOS DA GUERRA ENTRE EUA\
     \ E IR\xC3"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-03-31T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -659,9 +669,7 @@
   path: https://www.youtube.com/watch?v=eFUB_jL_XcM
   title: So This is Peak Foldable
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id005
   date: '2026-03-27T22:44:42+00:00'
   description: As long as financial sanctions and export controls remain in place,
     the aggressor's gains from higher oil and gas prices will be limited.
@@ -669,7 +677,7 @@
   path: https://theovershoot.co/p/russias-iran-war-windfall-in-perspective
   title: Russia's Iran War Windfall in Perspective
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-03-27T16:00:27+00:00'
   description: "\u2192 Get started with Hostinger today: http://hostinger.com/arjancodes\
     \ (make sure to use coupon ARJANCODES).\n\nIn this video, I refactor a small Python\
@@ -692,7 +700,7 @@
   path: https://www.youtube.com/watch?v=U4sPMwAiXco
   title: "Why \u201CClean Code\u201D Often Creates Worse Designs"
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-03-24T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 183 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com um dos nomes mais respeitados e influentes da hist\xF3\
@@ -712,14 +720,6 @@
   path: https://open.spotify.com/episode/7LCWhbabr0e2Sn7taGgw0K
   title: "#183 Luis Stuhlberger bate o mercado h\xE1 40 anos \u2014 como ele v\xEA\
     \ os desafios atuais?"
-- author: The Overshoot
-  categories: *id007
-  date: '2026-03-19T16:55:30+00:00'
-  description: Inflation was getting worse *before the war* across a broad range of
-    categories. Yet Fed officials are still blaming "one-time things".
-  image: https://substackcdn.com/image/fetch/$s_!g0ea!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9b8e8d90-f2b1-498e-8268-0ba927b0aa5a_3202x2860.png
-  path: https://theovershoot.co/p/the-fed-is-misreading-the-inflation
-  title: The Fed is Misreading the Inflation Risks
 - author: Apricitas Economics
   categories: &id008
   - Macro
