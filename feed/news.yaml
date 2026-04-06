@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-06T12:47:39+00:00'
+  description: "Jamie Dimon afirmou que a guerra no Ir\xE3 pode elevar a infla\xE7\
+    \xE3o e pressionar ainda mais os mercados caso os juros subam"
+  image: https://media.investnews.com.br/uploads/2024/11/2024-11-06T225713Z_1_LYNXMPEKA512P_RTROPTP_4_USA-ELECTION-TRUMP-CABINET.jpg
+  path: https://investnews.com.br/negocios/dimon-alerta-inflacao-petroleo-com-guerra-no-ira/
+  title: "\u2018Elefante na sala\u2019, diz Jamie Dimon ao alertar para infla\xE7\xE3\
+    o e petr\xF3leo com guerra no Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/imposto-de-renda-isento-ir2026/
   title: "Imposto de Renda: quem \xE9 isento e n\xE3o precisa declarar em 2026?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-06T11:33:46+00:00'
   description: "Proposta prev\xEA cessar-fogo imediato seguido de acordo mais amplo\
     \ em at\xE9 20 dias"
@@ -52,15 +61,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1sdoehq/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-04-05T18:25:04+00:00'
-  description: "Pela primeira vez, brit\xE2nicos jovens t\xEAm mais chance de estar\
-    \ desempregados do que seus pares na Uni\xE3o Europeia"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/sem-emprego-e-sem-perspectiva-jovens-britanicos-lotam-filas-de-alistamento-militar/
-  title: "Sem emprego e sem perspectiva, jovens brit\xE2nicos lotam filas de alistamento\
-    \ militar"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-04-01T18:30:55+00:00'
