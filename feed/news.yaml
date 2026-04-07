@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-07T20:35:48+00:00'
+  description: "Aneel abre rito que pode cassar concess\xE3o em S\xE3o Paulo da Enel\
+    \ por falhas estruturais; empresa ter\xE1 prazo de 30 dias para apresentar sua\
+    \ defesa"
+  image: https://media.investnews.com.br/uploads/2023/06/2023-06-30T183635Z_1_LYNXMPEJ5T0S1_RTROPTP_4_ENEL-RESULTS.jpg
+  path: https://investnews.com.br/economia/enel-processo-caducidade-aneel-o-que-acontece-agora/
+  title: "Enel pode perder a concess\xE3o em S\xE3o Paulo. Veja os pr\xF3ximos passos\
+    \ do processo do governo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id003
   - "Not\xEDcias"
@@ -9,7 +20,7 @@
   title: "Imposto de Renda 2026: declara\xE7\xE3o pode ser usada como comprovante\
     \ de renda; veja como"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -37,8 +48,7 @@
   path: https://www.reddit.com/r/CFA/comments/1sf1mxo/rip_20172026/
   title: RIP 2017-2026
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-07T13:12:59+00:00'
   description: "As Na\xE7\xF5es Unidas alertaram que ataques indiscriminados a infraestrutura\
     \ civil no Ir\xE3 podem constituir crime de guerra"
@@ -47,7 +57,7 @@
   title: "Trump reitera amea\xE7a de destruir o Ir\xE3. \u2018Uma civiliza\xE7\xE3\
     o inteira morrer\xE1 esta noite\u2019"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2026-04-07T10:01:57+00:00'
   description: <!-- SC_OFF --><div class="md"><p>From all of us here at <a href="https://www.reddit.com/r/CFA/">r/CFA</a>,
     best of luck! Check for your results here after 9am EST:</p> <p><a href="https://examresult.cfainstitute.org/cfa">https://examresult.cfainstitute.org/cfa</a></p>
@@ -60,15 +70,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1sern56/official_february_2026_level_3_results_megathread/
   title: Official February 2026 Level 3 Results Megathread
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-07T09:00:00+00:00'
-  description: "Executivos reclamam que 'ningu\xE9m mais quer ser pedreiro'. As causas\
-    \ estruturais v\xE3o demandar solu\xE7\xF5es que levam tempo"
-  image: https://media.investnews.com.br/uploads/2026/03/construcao_civil_2306219887_0_1_50_1_58.jpg
-  path: https://investnews.com.br/economia/construcao-nao-acha-mao-de-obra-causas/
-  title: "A constru\xE7\xE3o civil n\xE3o encontra m\xE3o de obra. E as causas v\xE3\
-    o al\xE9m do Bolsa Fam\xEDlia e do Uber"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id003
   date: '2026-04-06T17:38:14+00:00'
