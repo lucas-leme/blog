@@ -1,6 +1,15 @@
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-04-10T19:09:14+00:00'
+  description: "Monitoramento ter\xE1 foco nas inconsist\xEAncias identificadas principalmente\
+    \ pela declara\xE7\xE3o pr\xE9-preenchida do Imposto de Renda"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imposto-de-rendao-contas-exterior-ir2026/
+  title: "Imposto de Renda 2026: Receita amplia fiscaliza\xE7\xE3o sobre contas no\
+    \ exterior; veja como declarar sem erros"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2026-04-08T18:00:39+00:00'
   description: "Jovens investidores abalados pelas oscila\xE7\xF5es do mercado de\
     \ a\xE7\xF5es, em meio \xE0 guerra, \xE0 incerteza econ\xF4mica e \xE0 disrup\xE7\
@@ -10,7 +19,7 @@
   title: "Warren Buffett est\xE1 aposentado. Seu conselho n\xE3o poderia ser mais\
     \ oportuno para investidores"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-08T15:08:34+00:00'
   description: "Mais de 800 cargueiros est\xE3o presos dentro do Golfo, a maioria\
@@ -20,7 +29,7 @@
   title: "Estreito de Hormuz continua bloqueado e centenas de navios buscam sa\xED\
     da"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-08T12:21:23+00:00'
   description: "Os pre\xE7os do petr\xF3leo e do g\xE1s despencaram com a not\xED\
     cia, que abre caminho para a retomada do fluxo de energia pelo Estreito de Ormuz"
@@ -28,12 +37,3 @@
   path: https://investnews.com.br/economia/eua-e-ira-acordo-de-cessar-fogo-petroleo-cai-16/
   title: "EUA e Ir\xE3 chegam a acordo de cessar-fogo, petr\xF3leo cai at\xE9 16%\
     \ e alivia temores de crise energ\xE9tica"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-07T19:03:34+00:00'
-  description: "A declara\xE7\xE3o do Imposto de Renda 2026 \xE9 frequentemente para\
-    \ validar a capacidade financeira do contribuinte"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/imposto-de-renda-comprovante-de-renda-ir2026/
-  title: "Imposto de Renda 2026: declara\xE7\xE3o pode ser usada como comprovante\
-    \ de renda; veja como"
