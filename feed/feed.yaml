@@ -17,7 +17,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-04-10T13:59:45.177981'
+  date: '2026-04-10T15:03:40.980625'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -28,7 +28,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-10T13:59:45.176166'
+  date: '2026-04-10T15:03:40.979052'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -42,7 +42,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-10T13:59:45.176162'
+  date: '2026-04-10T15:03:40.979048'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -59,7 +59,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-10T13:59:45.176156'
+  date: '2026-04-10T15:03:40.979042'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -152,7 +152,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-10T13:59:45.176145'
+  date: '2026-04-10T15:03:40.979031'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -410,6 +410,32 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-04-10T15:00:47+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nThe classic State design\
+    \ pattern is often implemented with many small classes and heavy inheritance.\
+    \ In this video, I show a different approach.\n\nI start with the traditional\
+    \ object-oriented version and then refactor it into a generic, data-driven state\
+    \ machine using Python features like decorators, enums, and generics. The result\
+    \ is a clean, reusable engine where transitions are explicit and easy to understand.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/state.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n3:24 Why\
+    \ This Matters\n4:11 Step 1 \u2014 The Traditional Class-Based State Pattern\n\
+    4:57 Step 2 \u2014 Realization: This Is Just a Lookup Table\n5:21 Step 3 \u2014\
+    \ Extracting a Generic StateMachine\n17:35 Step 4 \u2014 Making Transitions Declarative\
+    \ with a Decorator\n20:37 Step 5 \u2014 Supporting Multiple From States\n24:05\
+    \ The Payment Class Becomes Boring (In a Good Way)\n25:30 When To Use This vs\
+    \ Classic OO\n25:54 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/OeirQdzYdnc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=OeirQdzYdnc
+  title: The State Pattern in Python - I Like How This Turned Out
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-04-10T12:00:00+00:00'
@@ -518,7 +544,7 @@
   path: https://open.spotify.com/episode/6z82HlOHdEy9KnuAkahoKh
   title: '#344 | O COLAPSO DO MODELO TRADICIONAL DE ENSINO BRASILEIRO'
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-04-07T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 184 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -563,7 +589,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/04/the-fed-has-two-tools-to-influence-money-market-conditions/
   title: "The Fed\_Has\_Two\_Tools to Influence Money Market Conditions"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-04-06T09:50:10+00:00'
   description: "<p>Para 2026, a Lei Or\xE7ament\xE1ria Anual (LOA) revela um padr\xE3\
@@ -605,7 +631,7 @@
   title: "Faheem Osman \u2013 Commodity QIS: An Under-Appreciated Source of Systematic\
     \ Returns? (S7E29)"
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-04-05T06:36:55+00:00'
@@ -615,10 +641,7 @@
   path: https://theovershoot.co/p/is-us-wage-growth-slowing-or-not
   title: Is U.S. Wage Growth Slowing Or Not?
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-04-03T15:00:35+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I explain\
@@ -635,7 +658,7 @@
   path: https://www.youtube.com/watch?v=KDnP_zbp-9Q
   title: Python Has Serious Problems, But I Use It Anyway
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-03-31T14:00:42+00:00'
   description: "<p>Kenneth Rogoff, professor de Harvard e ex-economista-chefe do FMI,\
     \ prev\xEA que o d\xF3lar perder\xE1 relev\xE2ncia nos mercados internacionais\
@@ -650,7 +673,7 @@
   path: https://braziljournal.com/yuan-sera-reserva-internacional-em-5-anos/
   title: "Yuan ser\xE1 reserva internacional \u2018em 5 anos\u2019"
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-03-31T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -683,36 +706,13 @@
   path: https://open.spotify.com/episode/3LyBE4RYFcqeJJmAv0UjnQ
   title: 'Private Equity Portfolios: Three Key Dimensions of Diversification'
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-03-27T22:44:42+00:00'
   description: As long as financial sanctions and export controls remain in place,
     the aggressor's gains from higher oil and gas prices will be limited.
   image: https://substackcdn.com/image/fetch/$s_!XS5f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd64fd729-0dda-4b49-a00f-87507ef9b1db_3200x2910.png
   path: https://theovershoot.co/p/russias-iran-war-windfall-in-perspective
   title: Russia's Iran War Windfall in Perspective
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-03-27T16:00:27+00:00'
-  description: "\u2192 Get started with Hostinger today: http://hostinger.com/arjancodes\
-    \ (make sure to use coupon ARJANCODES).\n\nIn this video, I refactor a small Python\
-    \ program that looks clean on the surface but hides a messy design underneath.\
-    \ Step by step, I remove unnecessary abstractions and restructure the program\
-    \ around cohesion and clear behavior instead of tiny components.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2026/clean.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n0:52 What People Mean by \u201CClean Code\u201D\
-    \ (And Where It Goes Wrong)\n1:27 BEFORE: \u201CClean\u201D Interface, Messy Reality\n\
-    3:25 Hostinger Sponsored Integration\n4:56 Step 1: Delete the Fake Abstraction\
-    \ and Container\n5:54 Step 2: Introduce ReportConfig\n10:17 Step 3: Make the Pipeline\
-    \ Explicit: Load \u2192 Summarize \u2192 Export\n13:16 Step 4: Model the Result\
-    \ as a Cohesive Object\n18:30 Step 5: Move Business Rules Into One Readable Place\
-    \ (is_valid)\n21:31 Show the Final \u201CAfter\u201D Code (Your Version)\n25:13\
-    \ Reframe \u201CClean\u201D as Cohesion, Not Smallness\n25:52 Final Thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/U4sPMwAiXco/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=U4sPMwAiXco
-  title: "Why \u201CClean Code\u201D Often Creates Worse Designs"
 - author: Apricitas Economics
   categories: &id008
   - Macro
