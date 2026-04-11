@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-11T15:40:20+00:00'
+  description: "Ap\xF3s cessar-fogo entre EUA e Ir\xE3, tr\xEAs embarca\xE7\xF5es\
+    \ com 6 milh\xF5es de barris atravessam a regi\xE3o, marcando o maior fluxo desde\
+    \ o in\xEDcio do conflito em mar\xE7o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/estreito-de-ormuz-volta-circular-petroleo/
+  title: "Estreito de Ormuz: Superpetroleiros voltam a circular e sinalizam al\xED\
+    vio no mercado global"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +30,7 @@
   title: "Warren Buffett est\xE1 aposentado. Seu conselho n\xE3o poderia ser mais\
     \ oportuno para investidores"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-04-08T15:08:34+00:00'
   description: "Mais de 800 cargueiros est\xE3o presos dentro do Golfo, a maioria\
     \ aguardando para sair"
@@ -28,12 +38,3 @@
   path: https://investnews.com.br/economia/estreito-de-hormuz-continua-bloqueado-e-centenas-de-navios-buscam-saida/
   title: "Estreito de Hormuz continua bloqueado e centenas de navios buscam sa\xED\
     da"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-08T12:21:23+00:00'
-  description: "Os pre\xE7os do petr\xF3leo e do g\xE1s despencaram com a not\xED\
-    cia, que abre caminho para a retomada do fluxo de energia pelo Estreito de Ormuz"
-  image: https://media.investnews.com.br/uploads/2025/10/Petroleo_-GettyImages.jpg
-  path: https://investnews.com.br/economia/eua-e-ira-acordo-de-cessar-fogo-petroleo-cai-16/
-  title: "EUA e Ir\xE3 chegam a acordo de cessar-fogo, petr\xF3leo cai at\xE9 16%\
-    \ e alivia temores de crise energ\xE9tica"
