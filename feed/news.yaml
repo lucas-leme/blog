@@ -1,6 +1,15 @@
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-04-11T16:08:38+00:00'
+  description: "V\xE1cuo no fluxo global de energia faz refinarias pagarem pre\xE7\
+    os hist\xF3ricos por qualquer carga dispon\xEDvel"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/mercado-petroleo-corrida-barris/
+  title: "Mercado de petr\xF3leo est\xE1 ref\xE9m de uma corrida fren\xE9tica por\
+    \ barris"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-04-11T15:40:20+00:00'
   description: "Ap\xF3s cessar-fogo entre EUA e Ir\xE3, tr\xEAs embarca\xE7\xF5es\
     \ com 6 milh\xF5es de barris atravessam a regi\xE3o, marcando o maior fluxo desde\
@@ -10,7 +19,7 @@
   title: "Estreito de Ormuz: Superpetroleiros voltam a circular e sinalizam al\xED\
     vio no mercado global"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-10T19:09:14+00:00'
   description: "Monitoramento ter\xE1 foco nas inconsist\xEAncias identificadas principalmente\
@@ -20,7 +29,7 @@
   title: "Imposto de Renda 2026: Receita amplia fiscaliza\xE7\xE3o sobre contas no\
     \ exterior; veja como declarar sem erros"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-08T18:00:39+00:00'
   description: "Jovens investidores abalados pelas oscila\xE7\xF5es do mercado de\
     \ a\xE7\xF5es, em meio \xE0 guerra, \xE0 incerteza econ\xF4mica e \xE0 disrup\xE7\
@@ -29,12 +38,3 @@
   path: https://investnews.com.br/financas/warren-buffett-esta-aposentado-seu-conselho-mais-recente-nao-poderia-ser-mais-oportuno-para-investidores/
   title: "Warren Buffett est\xE1 aposentado. Seu conselho n\xE3o poderia ser mais\
     \ oportuno para investidores"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-08T15:08:34+00:00'
-  description: "Mais de 800 cargueiros est\xE3o presos dentro do Golfo, a maioria\
-    \ aguardando para sair"
-  image: https://media.investnews.com.br/uploads/2026/03/434932723-1.jpg
-  path: https://investnews.com.br/economia/estreito-de-hormuz-continua-bloqueado-e-centenas-de-navios-buscam-saida/
-  title: "Estreito de Hormuz continua bloqueado e centenas de navios buscam sa\xED\
-    da"
