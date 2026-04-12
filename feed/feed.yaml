@@ -17,7 +17,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-04-12T02:17:56.379328'
+  date: '2026-04-12T11:17:41.165546'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -28,7 +28,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-12T02:17:56.377601'
+  date: '2026-04-12T11:17:41.164117'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -42,7 +42,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-12T02:17:56.377597'
+  date: '2026-04-12T11:17:41.164113'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -59,7 +59,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-12T02:17:56.377592'
+  date: '2026-04-12T11:17:41.164108'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -152,7 +152,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-12T02:17:56.377581'
+  date: '2026-04-12T11:17:41.164096'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -410,8 +410,25 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
-- author: ArjanCodes
+- author: "Economia \u2013 Brazil Journal"
   categories: &id004
+  - Economia
+  date: '2026-04-12T03:10:18+00:00'
+  description: "<p>O escritor franc\xEAs Andr\xE9 Gide alertava que \u201Ctodas as\
+    \ coisas j\xE1 foram ditas, mas como ningu\xE9m escuta, \xE9 preciso sempre recome\xE7\
+    ar\u201D. Olhando para o PL 1.335/2026, do Senador Renan Calheiros, que pretende\
+    \ criar os crimes de gest\xE3o fraudulenta e temer\xE1ria de companhias abertas,\
+    \ inserindo o art. 177-A no C\xF3digo Penal, me vejo obrigado a recome\xE7ar.\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-pl-da-gestao-fraudulenta-nao-previne-o-crime-e-gera-inseguranca/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. PL da gest\xE3o fraudulenta n\xE3o previne o crime\
+    \ e gera inseguran\xE7a</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-pl-da-gestao-fraudulenta-nao-previne-o-crime-e-gera-inseguranca/
+  title: "OPINI\xC3O. PL da gest\xE3o fraudulenta n\xE3o previne o crime e gera inseguran\xE7\
+    a"
+- author: ArjanCodes
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -589,8 +606,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/04/the-fed-has-two-tools-to-influence-money-market-conditions/
   title: "The Fed\_Has\_Two\_Tools to Influence Money Market Conditions"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id004
   date: '2026-04-06T09:50:10+00:00'
   description: "<p>Para 2026, a Lei Or\xE7ament\xE1ria Anual (LOA) revela um padr\xE3\
     o de gasto concentrado em despesas financeiras, transfer\xEAncias sociais e instrumentos\
@@ -641,7 +657,7 @@
   path: https://theovershoot.co/p/is-us-wage-growth-slowing-or-not
   title: Is U.S. Wage Growth Slowing Or Not?
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2026-04-03T15:00:35+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I explain\
@@ -657,21 +673,6 @@
   image: https://i4.ytimg.com/vi/KDnP_zbp-9Q/hqdefault.jpg
   path: https://www.youtube.com/watch?v=KDnP_zbp-9Q
   title: Python Has Serious Problems, But I Use It Anyway
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2026-03-31T14:00:42+00:00'
-  description: "<p>Kenneth Rogoff, professor de Harvard e ex-economista-chefe do FMI,\
-    \ prev\xEA que o d\xF3lar perder\xE1 relev\xE2ncia nos mercados internacionais\
-    \ e ceder\xE1 terreno para a moeda chinesa \u2013 que em breve ser\xE1 elevada\
-    \ ao status de reserva internacional de valor. Autor do livro Our Dollar, Your\
-    \ Problem, o economista fez as previs\xF5es em uma entrevista ao influente [&#8230;]</p>\n\
-    <p>The post <a href=\"https://braziljournal.com/yuan-sera-reserva-internacional-em-5-anos/\"\
-    \ rel=\"nofollow\">Yuan ser\xE1 reserva internacional \u2018em 5 anos\u2019</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/yuan-sera-reserva-internacional-em-5-anos/
-  title: "Yuan ser\xE1 reserva internacional \u2018em 5 anos\u2019"
 - author: Outliers
   categories: *id006
   date: '2026-03-31T00:00:00+00:00'
