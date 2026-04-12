@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-12T13:14:53+00:00'
+  description: "Ap\xF3s avan\xE7o t\xEDmido no tr\xE1fego pelo Estreito de Ormuz,\
+    \ fracasso nas negocia\xE7\xF5es reacende incerteza e leva navios a abortarem\
+    \ a travessia em uma das rotas mais estrat\xE9gicas do petr\xF3leo no mundo"
+  image: https://media.investnews.com.br/uploads/2026/04/Design-sem-nome-2026-04-12T101402.270.jpg
+  path: https://investnews.com.br/economia/navios-petroleo-ormuz-negociacoes-eua-ira/
+  title: "Petroleiros d\xE3o meia-volta em Ormuz ap\xF3s fracasso das negocia\xE7\xF5\
+    es entre EUA e Ir\xE3"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -21,8 +32,7 @@
   title: Did you know that bad ethics score can also fail you if you are on the edge
     of passing?
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-11T20:21:23+00:00'
   description: "Em vez de focar s\xF3 em carros e eletrodom\xE9sticos, Pequim passa\
     \ a incentivar gastos ligados a categorias emocionais e de compras recorrentes"
@@ -30,15 +40,6 @@
   path: https://investnews.com.br/economia/china-pets-brinquedos-consumo/
   title: "Por que a China est\xE1 apostando em pets, brinquedos e hobbies para reaquecer\
     \ o consumo"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-04-11T16:08:38+00:00'
-  description: "V\xE1cuo no fluxo global de energia faz refinarias pagarem pre\xE7\
-    os hist\xF3ricos por qualquer carga dispon\xEDvel"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/mercado-petroleo-corrida-barris/
-  title: "Mercado de petr\xF3leo est\xE1 ref\xE9m de uma corrida fren\xE9tica por\
-    \ barris"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
