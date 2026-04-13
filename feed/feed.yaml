@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-04-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Mark Anson,
@@ -13,22 +13,11 @@
   image: null
   path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-mark-anson
   title: Conversations with Frank Fabozzi, CFA, Featuring Mark Anson
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-04-13T12:36:35.214325'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: RSS - Feeds do BC
   categories:
   - Bacen
   - BC
-  date: '2026-04-13T12:36:35.212929'
+  date: '2026-04-13T14:10:07.919932'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -42,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-13T12:36:35.212925'
+  date: '2026-04-13T14:10:07.919928'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -59,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-13T12:36:35.212919'
+  date: '2026-04-13T14:10:07.919923'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -152,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-13T12:36:35.212908'
+  date: '2026-04-13T14:10:07.919912'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -410,8 +399,49 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-04-13T14:10:05+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-04-13T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/how-capital-flows-reshaping-markets
+  title: How Capital Flows Are Reshaping Markets
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-04-13T11:00:00+00:00'
+  description: "Housing is the largest component of assets held by households in the\
+    \ United States, totaling $48 trillion in 2025. When natural disasters strike,\
+    \ the resulting damage to homes can be large relative to households\u2019 liquid\
+    \ savings. Homeowner\u2019s insurance is the primary financial tool households\
+    \ use to protect themselves against property risk. Despite the economic importance\
+    \ of homeowner\u2019s insurance, we know surprisingly little about how insurance\
+    \ contracts are actually designed with respect to property risk. In this post,\
+    \ which is based on our new paper, <em>\u201C</em><a href=\"https://www.newyorkfed.org/research/staff_reports/sr1171\"\
+    >Economics of Property Insurance</a><em>,\u201D</em> we examine how homeowner\u2019\
+    s insurance contracts are structured in practice. Using a new granular dataset\
+    \ covering millions of homeowner\u2019s insurance policies, we document four striking\
+    \ patterns about coverage limits, deductibles, insurance pricing, and the distribution\
+    \ of property losses."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/04/what-millions-of-homeowners-insurance-contracts-reveal-about-risk-sharing/
+  title: "What Millions of Homeowner\u2019s Insurance Contracts Reveal About Risk\
+    \ Sharing"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-04-13T09:50:05+00:00'
   description: "<p>A concess\xE3o de novos benef\xEDcios do Instituto Nacional do\
@@ -427,7 +457,7 @@
   path: https://braziljournal.com/opiniao-as-causas-da-chocante-evolucao-dos-beneficios-do-inss/
   title: "OPINI\xC3O. As causas da chocante evolu\xE7\xE3o dos benef\xEDcios do INSS"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-04-12T03:10:18+00:00'
   description: "<p>O escritor franc\xEAs Andr\xE9 Gide alertava que \u201Ctodas as\
     \ coisas j\xE1 foram ditas, mas como ningu\xE9m escuta, \xE9 preciso sempre recome\xE7\
@@ -496,13 +526,6 @@
   image: https://i4.ytimg.com/vi/OeirQdzYdnc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=OeirQdzYdnc
   title: The State Pattern in Python - I Like How This Turned Out
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-04-10T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/top-10-most-read-q1-enterprising-investor-blogs
-  title: Top 10 Most Read Q1 Enterprising Investor Blogs
 - author: Market Makers
   categories: *id003
   date: '2026-04-09T00:00:00+00:00'
@@ -589,26 +612,6 @@
   path: https://open.spotify.com/episode/7eKF1IlwijLc6ajX0Z3wqG
   title: "Gustavo Franco: buscar equil\xEDbrio fiscal com mais impostos \xE9 mentira\
     \ | Outliers InfoMoney #184"
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-04-06T12:51:00+00:00'
-  description: "The Federal Reserve\u2019s 2022-23 tightening cycle involved the use\
-    \ of two monetary policy tools: changes in administrative rates and changes in\
-    \ the size of its balance sheet. This post highlights the results of a recent\
-    \ <a href=\"https://www.newyorkfed.org/research/staff_reports/sr1189\" rel=\"\
-    noreferrer noopener\" target=\"_blank\">Staff Report</a>\_that explores how these\
-    \ tools affect money market conditions. Using confidential trade-level data,\_\
-    we find that both tools have significant effects on the pricing of funds sourced\
-    \ through repo. These results suggest that the Fed can manage how financing conditions\
-    \ are affected even as it influences economic conditions. For example, the Fed\
-    \ can lower its administrative rates to loosen economic conditions, while shrinking\
-    \ its balance sheet to\_maintain\_financing conditions in the money markets."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/04/the-fed-has-two-tools-to-influence-money-market-conditions/
-  title: "The Fed\_Has\_Two\_Tools to Influence Money Market Conditions"
 - author: Flirting with Models
   categories:
   - Podcasts
