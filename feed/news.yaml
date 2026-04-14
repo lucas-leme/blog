@@ -1,3 +1,12 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-14T17:43:13+00:00'
+  description: "Mesmo com a amplia\xE7\xE3o da fiscaliza\xE7\xE3o, ainda h\xE1 possibilidades\
+    \ de redu\xE7\xE3o legal no valor devido no Imposto de Renda 2026"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/pagar-menos-imposto-de-renda-2026/
+  title: Como pagar menos Imposto de Renda em 2026?
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Trump diz que EUA v\xE3o bloquear o Estreito de Ormuz ap\xF3s fracasso das\
     \ negocia\xE7\xF5es com o Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-04-10T19:09:14+00:00'
   description: "Monitoramento ter\xE1 foco nas inconsist\xEAncias identificadas principalmente\
     \ pela declara\xE7\xE3o pr\xE9-preenchida do Imposto de Renda"
@@ -27,13 +35,3 @@
   path: https://investnews.com.br/financas/imposto-de-rendao-contas-exterior-ir2026/
   title: "Imposto de Renda 2026: Receita amplia fiscaliza\xE7\xE3o sobre contas no\
     \ exterior; veja como declarar sem erros"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-08T18:00:39+00:00'
-  description: "Jovens investidores abalados pelas oscila\xE7\xF5es do mercado de\
-    \ a\xE7\xF5es, em meio \xE0 guerra, \xE0 incerteza econ\xF4mica e \xE0 disrup\xE7\
-    \xE3o causada pela intelig\xEAncia artificial"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/warren-buffett-esta-aposentado-seu-conselho-mais-recente-nao-poderia-ser-mais-oportuno-para-investidores/
-  title: "Warren Buffett est\xE1 aposentado. Seu conselho n\xE3o poderia ser mais\
-    \ oportuno para investidores"
