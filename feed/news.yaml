@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-16T14:38:17+00:00'
+  description: "A Argentina est\xE1 negociando uma taxa de juros de cerca de 5%, embora\
+    \ as conversas n\xE3o estejam finalizadas e os termos possam mudar, segundo as\
+    \ pessoas ouvidas pela Bloomberg"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/argentina-negocia-us-2-bilhoes-com-garantias-do-banco-mundial/
+  title: "Argentina negocia US$ 2 bilh\xF5es com garantias do Banco Mundial"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   title: "Erros na pr\xE9-preenchida levam contribuintes \xE0 malha fina no Imposto\
     \ de Renda 2026"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-04-15T15:53:22+00:00'
   description: "Segundo o ministro, um conflito mais longo tende a pressionar a infla\xE7\
     \xE3o global e tornar mais cautelosa a a\xE7\xE3o dos bancos centrais"
@@ -28,11 +37,3 @@
   path: https://investnews.com.br/economia/guerra-no-ira-pode-elevar-a-inflacao-e-travar-queda-de-juros-diz-durigan/
   title: "Guerra no Ir\xE3 pode elevar a infla\xE7\xE3o e travar queda de juros, diz\
     \ Durigan"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-15T15:44:22+00:00'
-  description: "Opera\xE7\xE3o marca a primeira emiss\xE3o na moeda europeia desde\
-    \ 2014 e faz parte da estrat\xE9gia de diversificar a d\xEDvida p\xFAblica"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/brasil-volta-a-emitir-divida-em-euro-apos-mais-de-10-anos/
-  title: "Brasil volta a emitir d\xEDvida em euro ap\xF3s mais de 10 anos"
