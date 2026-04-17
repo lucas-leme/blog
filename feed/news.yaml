@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-16T21:44:41+00:00'
+  description: "Companhias a\xE9reas j\xE1 come\xE7aram a reduzir voos no continente\
+    \ diante da alta nos pre\xE7os do querosene de avia\xE7\xE3o"
+  image: https://media.investnews.com.br/uploads/2022/12/2022-12-01T134632Z_1_LYNXMPEIB01Y7_RTROPTP_4_USA-AVIATION-COMMUNICATION.jpg
+  path: https://investnews.com.br/economia/europa-pode-ficar-sem-combustivel-de-aviacao-em-seis-semanas-diz-agencia-internal/
+  title: "Europa pode ficar sem combust\xEDvel de avia\xE7\xE3o em seis semanas, diz\
+    \ ag\xEAncia internacional"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-16T19:10:20+00:00'
   description: "Emiss\xE3o do t\xEDtulo de eleitor pode ser feita pela internet e\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/titulo-de-eleitor-eleicoes2026-regularizar/
   title: "Prazo para emitir e regularizar t\xEDtulo de eleitor termina em 6 de maio"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-16T14:38:17+00:00'
   description: "A Argentina est\xE1 negociando uma taxa de juros de cerca de 5%, embora\
     \ as conversas n\xE3o estejam finalizadas e os termos possam mudar, segundo as\
@@ -18,7 +27,7 @@
   path: https://investnews.com.br/economia/argentina-negocia-us-2-bilhoes-com-garantias-do-banco-mundial/
   title: "Argentina negocia US$ 2 bilh\xF5es com garantias do Banco Mundial"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-15T17:56:13+00:00'
   description: "Pioneiro ao levar investidores americanos a mercados emergentes, Mobius\
     \ lan\xE7ou um dos primeiros fundos da categoria e liderou a estrat\xE9gia da\
@@ -27,12 +36,3 @@
   path: https://investnews.com.br/financas/mark-mobius-pioneiro-do-investimentos-em-mercados-emergentes-morre-aos-89-anos/
   title: Mark Mobius, pioneiro dos investimentos em mercados emergentes, morre aos
     89 anos
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-15T15:53:22+00:00'
-  description: "Segundo o ministro, um conflito mais longo tende a pressionar a infla\xE7\
-    \xE3o global e tornar mais cautelosa a a\xE7\xE3o dos bancos centrais"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/guerra-no-ira-pode-elevar-a-inflacao-e-travar-queda-de-juros-diz-durigan/
-  title: "Guerra no Ir\xE3 pode elevar a infla\xE7\xE3o e travar queda de juros, diz\
-    \ Durigan"
