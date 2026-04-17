@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-17T14:03:32.732640'
+  date: '2026-04-17T15:07:01.328034'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-17T14:03:32.732636'
+  date: '2026-04-17T15:07:01.328030'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-17T14:03:32.732623'
+  date: '2026-04-17T15:07:01.328017'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-17T14:03:32.732612'
+  date: '2026-04-17T15:07:01.328007'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -399,8 +399,34 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-04-17T15:00:09+00:00'
+  description: "Talk to the internet when you need answers. Talk to Recall when you\
+    \ need your answers. \U0001F517 https://www.recall.it/?t=arjan \_ Use code ARJAN25\
+    \ for 25% off,\_valid until 1 June 2026.\n\nDo the Ports & Adapters quiz here:\
+    \ https://app.getrecall.ai/challenge/e24770a5-1aab-5d6c-b2a8-dbee424c22a4\n\n\
+    Most Python developers think generators are just about saving memory. That\u2019\
+    s only a small part of the story.\n\nIn this video, I show how generators give\
+    \ you control over when work happens, and how you can use them to build powerful\
+    \ data pipelines, handle backpressure, enable two-way communication, and even\
+    \ work with async streams.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/generators.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:44 What are Generators?\n1:44 Step 1: From Strings to Structured Data\n6:36\
+    \ Sponsored Section (recall.it)\n9:08 Step 2: Pipelines with Function Composition\n\
+    13:15 Step 3: Backpressure \u2014 Why This Scales\n15:08 Step 4: Two-Way Communication\
+    \ with send()\n17:52 Bonus: Generators Can Return a Value\n19:08 Step 5: Async\
+    \ Generators\n22:58 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/5VN-3rIUPZ8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=5VN-3rIUPZ8
+  title: Your Python Code Needs Generators
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-04-17T06:13:10+00:00'
@@ -529,7 +555,7 @@
   path: https://open.spotify.com/episode/4tkzFzXutfTCMBNA9tZqnN
   title: The succession crisis coming for family firms
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-04-14T19:30:41+00:00'
@@ -616,7 +642,7 @@
   title: "#347 | A NOVA L\xD3GICA DO MUNDO: GUERRA, IA E DINHEIRO (JO\xC3O LANDAU\
     \ E RUY ALVES)"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-04-14T00:00:00+00:00'
   description: "Este \xE9 o\_Espresso\_Outliers InfoMoney, a sua pausa estrat\xE9\
@@ -640,10 +666,7 @@
   title: 'Terras raras: como aproveitar a nova fonte de riquezas do Brasil | Espresso
     Outliers InfoMoney #13'
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-04-10T15:00:47+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nThe classic State design\
@@ -666,14 +689,14 @@
   path: https://www.youtube.com/watch?v=OeirQdzYdnc
   title: The State Pattern in Python - I Like How This Turned Out
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-04-08T20:43:49+00:00'
   description: All Pixel and Nexus phones
   image: https://i4.ytimg.com/vi/s3DrGkDvgNw/hqdefault.jpg
   path: https://www.youtube.com/shorts/s3DrGkDvgNw
   title: Every Google Phone Ever. Same Picture!
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-04-07T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 184 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com o economista Gustavo Franco, ex-presidente do Banco Central\
@@ -721,30 +744,13 @@
   title: "Faheem Osman \u2013 Commodity QIS: An Under-Appreciated Source of Systematic\
     \ Returns? (S7E29)"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-04-05T06:36:55+00:00'
   description: Something strange is happening with wages in healthcare and private
     education.
   image: https://substackcdn.com/image/fetch/$s_!gAU6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F699a5753-d717-4312-85ae-9c86ee688b4f_3200x2845.png
   path: https://theovershoot.co/p/is-us-wage-growth-slowing-or-not
   title: Is U.S. Wage Growth Slowing Or Not?
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-04-03T15:00:35+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I explain\
-    \ what I didn\u2019t like about Python when I first encountered it. From indentation\
-    \ and runtime errors to packaging and performance, and why many of those criticisms\
-    \ are still valid. More importantly, I explain why I still choose Python anyway.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:57 Languages That I Used\n2:44 What I Didn\u2019t Like About Python\n5:49 Why\
-    \ Still Use Python?\n7:30 The Lesson\n9:25 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i4.ytimg.com/vi/KDnP_zbp-9Q/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=KDnP_zbp-9Q
-  title: Python Has Serious Problems, But I Use It Anyway
 - author: The View From Apollo
   categories:
   - Podcasts
