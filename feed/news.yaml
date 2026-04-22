@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-21T22:00:50+00:00'
+  description: "O presidente americano suspende novos ataques a pedido do Paquist\xE3\
+    o, mas refor\xE7a o cerco militar no Estreito de Ormuz ap\xF3s Teer\xE3 abandonar\
+    \ a mesa de negocia\xE7\xF5es"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-estende-tregua-com-o-ira-mas-mantem-bloqueio-enquanto-negociacoes-fracassam/
+  title: "Trump estende tr\xE9gua com o Ir\xE3, mas mant\xE9m bloqueio enquanto negocia\xE7\
+    \xF5es fracassam"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +20,7 @@
   title: "Indicado ao Fed, Warsh diz que n\xE3o \xE9 fantoche de Trump, mas evita\
     \ falar sobre juros"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-21T14:07:00+00:00'
   description: "Os maiores traders de petr\xF3leo do mundo afirmaram que a destrui\xE7\
     \xE3o da demanda causada pela guerra no Ir\xE3 deve se intensificar, um sinal\
@@ -21,16 +31,6 @@
   path: https://investnews.com.br/economia/petroleo-pior-impacto-demanda-guerra/
   title: "Principais traders de petr\xF3leo alertam: o pior do impacto na demanda\
     \ pela guerra ainda est\xE1 por vir"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-04-20T14:07:04+00:00'
-  description: "Modelo de leil\xE3o proposto pelo governo enfrenta cr\xEDticas, pode\
-    \ afastar concorrente apoiado pelos EUA e coloca em risco a atra\xE7\xE3o de investimentos\
-    \ para revitalizar a malha ferrovi\xE1ria na Argentina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/por-que-a-privatizacao-das-ferrovias-na-argentina-virou-o-novo-desafio-de-milei/
-  title: "Por que a privatiza\xE7\xE3o das ferrovias na Argentina virou o novo desafio\
-    \ de Milei"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-04-20T13:05:43+00:00'
