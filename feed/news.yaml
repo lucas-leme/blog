@@ -1,5 +1,15 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-22T12:19:19+00:00'
+  description: "Brasileiros com benef\xEDcio do INSS e que vivem fora do pa\xEDs precisam\
+    \ entender regras de resid\xEAncia fiscal e acordos internacionais para evitar\
+    \ bitributa\xE7\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/aposentadoria-no-exterior/
+  title: "Aposentadoria no exterior: como evitar pagar imposto em dois pa\xEDses"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-21T22:00:50+00:00'
   description: "O presidente americano suspende novos ataques a pedido do Paquist\xE3\
@@ -10,8 +20,7 @@
   title: "Trump estende tr\xE9gua com o Ir\xE3, mas mant\xE9m bloqueio enquanto negocia\xE7\
     \xF5es fracassam"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-21T20:02:37+00:00'
   description: "Indicado \xE0 presid\xEAncia do Fed, Kevin Warsh foi assessor econ\xF4\
     mico de Trump, mas prometeu autonomia contra press\xE3o pol\xEDtica"
@@ -20,7 +29,7 @@
   title: "Indicado ao Fed, Warsh diz que n\xE3o \xE9 fantoche de Trump, mas evita\
     \ falar sobre juros"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-21T14:07:00+00:00'
   description: "Os maiores traders de petr\xF3leo do mundo afirmaram que a destrui\xE7\
     \xE3o da demanda causada pela guerra no Ir\xE3 deve se intensificar, um sinal\
@@ -31,11 +40,3 @@
   path: https://investnews.com.br/economia/petroleo-pior-impacto-demanda-guerra/
   title: "Principais traders de petr\xF3leo alertam: o pior do impacto na demanda\
     \ pela guerra ainda est\xE1 por vir"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-20T13:05:43+00:00'
-  description: "Entenda quais valores relacionados a honor\xE1rios advocat\xEDcios\
-    \ devem ser informados no Imposto de Renda 2026"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/advogados-imposto-de-renda-ir2026/
-  title: Como declarar gastos com advogados no Imposto de Renda 2026?
