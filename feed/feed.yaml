@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T15:09:23.556942'
+  date: '2026-04-24T16:08:13.358183'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T15:09:23.556938'
+  date: '2026-04-24T16:08:13.358180'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T15:09:23.556933'
+  date: '2026-04-24T16:08:13.358174'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T15:09:23.556922'
+  date: '2026-04-24T16:08:13.358163'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -399,6 +399,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-04-24T15:01:50+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
+    \ to replace growing conditional logic with the Policy Pattern. Instead of one\
+    \ big function, you split rules into small, composable pieces and combine them\
+    \ into a flexible pipeline. The result is code that\u2019s easier to extend, test,\
+    \ and control even with feature flags or configuration.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2026/policy.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n1:05 Introduction\n2:11 The Problem\n2:34 The Policy Pattern\n3:05\
+    \ OOP Version (Quick Overview)\nComposition Is the Key\n5:50 Strategy vs Policy\n\
+    6:51 Functional Style (Pythonic Version)\n10:56 Policy Registry + Settings\n13:37\
+    \ Why This Is Powerful\n14:07 Trade-offs\n14:22 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/wYeDGkdMi3g/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=wYeDGkdMi3g
+  title: A Better Way to Configure Behavior in Python
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-04-24T12:00:00+00:00'
@@ -493,7 +516,7 @@
   path: https://open.spotify.com/episode/2klCHm356ZcVeJBkcn5rDm
   title: The upstarts shaking up the defence industry
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-04-21T17:01:53+00:00'
@@ -593,10 +616,7 @@
   path: https://braziljournal.com/opiniao-um-pais-que-nao-confia-em-si-mesmo/
   title: "OPINI\xC3O. Um Pa\xEDs que n\xE3o confia em si mesmo"
 - author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-04-17T15:00:09+00:00'
   description: "Talk to the internet when you need answers. Talk to Recall when you\
     \ need your answers. \U0001F517 https://www.recall.it/?t=arjan \_ Use code ARJAN25\
@@ -646,7 +666,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/04/bank-failures-the-roles-of-solvency-and-liquidity/
   title: 'Bank Failures: The Roles of Solvency and Liquidity'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-04-14T19:30:41+00:00'
   description: 'This phone never came out. But they got really close to dropping a
     rollable phone
@@ -695,29 +715,6 @@
   path: https://open.spotify.com/episode/0Q6GLxr15OXdpPzqTF6g8l
   title: 'Terras raras: como aproveitar a nova fonte de riquezas do Brasil | Espresso
     Outliers InfoMoney #13'
-- author: ArjanCodes
-  categories: *id005
-  date: '2026-04-10T15:00:47+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nThe classic State design\
-    \ pattern is often implemented with many small classes and heavy inheritance.\
-    \ In this video, I show a different approach.\n\nI start with the traditional\
-    \ object-oriented version and then refactor it into a generic, data-driven state\
-    \ machine using Python features like decorators, enums, and generics. The result\
-    \ is a clean, reusable engine where transitions are explicit and easy to understand.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/state.\n\n\U0001F393\
-    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
-    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
-    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n3:24 Why\
-    \ This Matters\n4:11 Step 1 \u2014 The Traditional Class-Based State Pattern\n\
-    4:57 Step 2 \u2014 Realization: This Is Just a Lookup Table\n5:21 Step 3 \u2014\
-    \ Extracting a Generic StateMachine\n17:35 Step 4 \u2014 Making Transitions Declarative\
-    \ with a Decorator\n20:37 Step 5 \u2014 Supporting Multiple From States\n24:05\
-    \ The Payment Class Becomes Boring (In a Good Way)\n25:30 When To Use This vs\
-    \ Classic OO\n25:54 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/OeirQdzYdnc/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=OeirQdzYdnc
-  title: The State Pattern in Python - I Like How This Turned Out
 - author: Outliers
   categories: *id006
   date: '2026-04-07T00:00:00+00:00'
