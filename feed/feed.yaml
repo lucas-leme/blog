@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T20:34:34.442302'
+  date: '2026-04-24T21:35:26.880334'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T20:34:34.442298'
+  date: '2026-04-24T21:35:26.880329'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T20:34:34.442294'
+  date: '2026-04-24T21:35:26.880324'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-24T20:34:34.442283'
+  date: '2026-04-24T21:35:26.880313'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -399,8 +399,43 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-04-24T21:35:25+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2026-04-24T20:41:58+00:00'
+  description: 'Glass is glass. A bit of a rant/explainer/PSA
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/7YrdI7h2XoY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=7YrdI7h2XoY
+  title: Glass is glass
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2026-04-24T17:41:28+00:00'
   description: "<p>\u201CCommerce and manufactures can seldom flourish long in any\
@@ -415,7 +450,7 @@
   path: https://braziljournal.com/opiniao-confianca-o-ativo-que-o-brasil-maltrata/
   title: "OPINI\xC3O. Confian\xE7a, o ativo que o Brasil maltrata"
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -444,19 +479,8 @@
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-rethinking-variable-importance-machine-learning
   title: 'In Practice Brief: Rethinking Variable Importance in Machine Learning'
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-04-23T20:38:58+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-04-23T00:00:00+00:00'
   description: "O senador Alessandro Vieira, relator da CPI do Crime Organizado, vem\
@@ -531,9 +555,7 @@
   path: https://open.spotify.com/episode/2klCHm356ZcVeJBkcn5rDm
   title: The upstarts shaking up the defence industry
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2026-04-21T17:01:53+00:00'
   description: 'Peak slab phone in 2026 looks a lot like a camera attached to a phone
 
@@ -560,7 +582,7 @@
   path: https://www.youtube.com/watch?v=c347oYQO57A
   title: So This is Peak Smartphone
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-04-21T00:00:00+00:00'
   description: "O Ibovespa est\xE1 novamente pr\xF3ximo dos 200 mil pontos, o d\xF3\
     lar voltou a testar R$ 5 e o mercado come\xE7a a sair de um cen\xE1rio dominado\
@@ -601,7 +623,7 @@
   title: '#350 | IBOVESPA A 200 MIL PONTOS: AINDA VALE INVESTIR NA BOLSA BRASILEIRA
     AGORA?'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2026-04-20T09:50:38+00:00'
   description: "<p>O tema do endividamento das fam\xEDlias voltou \xE0s manchetes\
     \ e, com ele, as poss\xEDveis explica\xE7\xF5es para o fen\xF4meno. A mais recorrente\
@@ -616,7 +638,7 @@
   path: https://braziljournal.com/opiniao-por-que-os-brasileiros-sao-viciados-em-credito/
   title: "OPINI\xC3O. Por que os brasileiros s\xE3o viciados em cr\xE9dito"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2026-04-17T15:00:09+00:00'
   description: "Talk to the internet when you need answers. Talk to Recall when you\
     \ need your answers. \U0001F517 https://www.recall.it/?t=arjan \_ Use code ARJAN25\
@@ -665,32 +687,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2026/04/bank-failures-the-roles-of-solvency-and-liquidity/
   title: 'Bank Failures: The Roles of Solvency and Liquidity'
-- author: Marques Brownlee
-  categories: *id005
-  date: '2026-04-14T19:30:41+00:00'
-  description: 'This phone never came out. But they got really close to dropping a
-    rollable phone
-
-
-    JerryRigEverything teardown: https://youtu.be/vDMpANNGND4?si=ks0m5gQBYJkiiEVZ
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/5aS-8QCRdGE/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=5aS-8QCRdGE
-  title: The Unreleased Rollable Smartphone!
 - author: Outliers
   categories: &id006
   - Podcasts
