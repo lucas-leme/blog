@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-24T20:26:56+00:00'
+  description: "Brasil usa etanol desde a d\xE9cada de 1970 como instrumento contra\
+    \ choques de energia e para reduzir a depend\xEAncia de gasolina importada"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-eleva-mistura-de-etanol-na-gasolina-para-32-para-conter-alta-de-precos/
+  title: "Brasil eleva mistura de etanol na gasolina para 32% para conter alta de\
+    \ pre\xE7os"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-24T17:42:10+00:00'
   description: "D\xFAvida relacionada ao IR surge com aumento das despesas com pets\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/despesas-pets-ir2026-imposto-de-renda/
   title: Despesas com pets podem ser declaradas no IR 2026? Veja o que diz a Receita
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-24T15:07:36+00:00'
   description: "Pa\xEDs dobrou exporta\xE7\xF5es de pain\xE9is fotovoltaicos em mar\xE7\
     o, diante do fechamento do Estreito de Ormuz e da alta da commodity"
@@ -18,7 +27,7 @@
   title: "De pain\xE9is solares a carros el\xE9tricos: como a China se beneficia da\
     \ crise do petr\xF3leo com a guerra"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-24T11:34:54+00:00'
   description: "No total, o lote especial do cashback do Imposto de Renda deve somar\
     \ cerca de R$ 500 milh\xF5es em restitui\xE7\xF5es"
@@ -26,13 +35,3 @@
   path: https://investnews.com.br/financas/restituicao-automatica-imposto-de-renda-ir2026/
   title: "Restitui\xE7\xE3o autom\xE1tica do Imposto de Renda 2026: como vai funcionar\
     \ o cashback?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-21T22:00:50+00:00'
-  description: "O presidente americano suspende novos ataques a pedido do Paquist\xE3\
-    o, mas refor\xE7a o cerco militar no Estreito de Ormuz ap\xF3s Teer\xE3 abandonar\
-    \ a mesa de negocia\xE7\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/trump-estende-tregua-com-o-ira-mas-mantem-bloqueio-enquanto-negociacoes-fracassam/
-  title: "Trump estende tr\xE9gua com o Ir\xE3, mas mant\xE9m bloqueio enquanto negocia\xE7\
-    \xF5es fracassam"
