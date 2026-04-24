@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-24T15:07:36+00:00'
+  description: "Pa\xEDs dobrou exporta\xE7\xF5es de pain\xE9is fotovoltaicos em mar\xE7\
+    o, diante do fechamento do Estreito de Ormuz e da alta da commodity"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/china-se-beneficia-guerra-painel-solar/
+  title: "De pain\xE9is solares a carros el\xE9tricos: como a China se beneficia da\
+    \ crise do petr\xF3leo com a guerra"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   path: https://investnews.com.br/financas/mounjaro-imposto-de-renda-ir2026/
   title: Posso declarar Mounjaro no IR 2026? Veja o que diz a Receita
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-04-21T22:00:50+00:00'
   description: "O presidente americano suspende novos ataques a pedido do Paquist\xE3\
     o, mas refor\xE7a o cerco militar no Estreito de Ormuz ap\xF3s Teer\xE3 abandonar\
@@ -28,15 +37,3 @@
   path: https://investnews.com.br/economia/trump-estende-tregua-com-o-ira-mas-mantem-bloqueio-enquanto-negociacoes-fracassam/
   title: "Trump estende tr\xE9gua com o Ir\xE3, mas mant\xE9m bloqueio enquanto negocia\xE7\
     \xF5es fracassam"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-21T14:07:00+00:00'
-  description: "Os maiores traders de petr\xF3leo do mundo afirmaram que a destrui\xE7\
-    \xE3o da demanda causada pela guerra no Ir\xE3 deve se intensificar, um sinal\
-    \ de que o impacto econ\xF4mico total do conflito pode ainda n\xE3o ter sido sentido.\
-    \ O Gunvor Group afirmou nesta ter\xE7a-feira (21) que a queda no consumo pode\
-    \ se intensificar e dobrar no [&#8230;]"
-  image: https://media.investnews.com.br/uploads/2023/07/plataforma-de-petroleo-no-mar-ao-por-do-sol.webp
-  path: https://investnews.com.br/economia/petroleo-pior-impacto-demanda-guerra/
-  title: "Principais traders de petr\xF3leo alertam: o pior do impacto na demanda\
-    \ pela guerra ainda est\xE1 por vir"
