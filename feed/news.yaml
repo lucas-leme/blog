@@ -1,5 +1,15 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-25T16:41:59+00:00'
+  description: "Cancelamento veio depois de o chanceler iraniano deixar o Paquist\xE3\
+    o sem esperar pelos americanos, em meio a sinais cruzados dos dois lados"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-negocia-ira-crise-abril/
+  title: "\u201CSe quiserem conversar, \xE9 s\xF3 ligar\u201D: Trump cancela viagem\
+    \ de negociadores e endurece com o Ir\xE3"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-24T21:18:46+00:00'
   description: "N\xE3o h\xE1 uma \u201Cdispensa autom\xE1tica\u201D por envelhecimento\
@@ -10,8 +20,7 @@
   title: "Idosos precisam declarar Imposto de Renda at\xE9 qual idade? Quem tem direito\
     \ \xE0 isen\xE7\xE3o?"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-24T20:26:56+00:00'
   description: "Brasil usa etanol desde a d\xE9cada de 1970 como instrumento contra\
     \ choques de energia e para reduzir a depend\xEAncia de gasolina importada"
@@ -20,19 +29,10 @@
   title: "Brasil eleva mistura de etanol na gasolina para 32% para conter alta de\
     \ pre\xE7os"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-24T17:42:10+00:00'
   description: "D\xFAvida relacionada ao IR surge com aumento das despesas com pets\
     \ como vacinas e consultas veterin\xE1ria"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/despesas-pets-ir2026-imposto-de-renda/
   title: Despesas com pets podem ser declaradas no IR 2026? Veja o que diz a Receita
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-24T15:07:36+00:00'
-  description: "Pa\xEDs dobrou exporta\xE7\xF5es de pain\xE9is fotovoltaicos em mar\xE7\
-    o, diante do fechamento do Estreito de Ormuz e da alta da commodity"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/china-se-beneficia-guerra-painel-solar/
-  title: "De pain\xE9is solares a carros el\xE9tricos: como a China se beneficia da\
-    \ crise do petr\xF3leo com a guerra"
