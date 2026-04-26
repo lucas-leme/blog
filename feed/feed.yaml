@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-04-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Mark Anson,
@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-26T02:18:39.880865'
+  date: '2026-04-26T11:20:57.914080'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-26T02:18:39.880861'
+  date: '2026-04-26T11:20:57.914076'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-26T02:18:39.880856'
+  date: '2026-04-26T11:20:57.914071'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-26T02:18:39.880845'
+  date: '2026-04-26T11:20:57.914061'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -399,6 +399,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-04-26T03:10:46+00:00'
+  description: "<p>\u201COnde n\xE3o h\xE1 lei, n\xE3o h\xE1 liberdade\u201D John\
+    \ Locke \_\_\_\_\_\_\_\_ O primeiro registro escrito da civiliza\xE7\xE3o \xE9\
+    \ uma epopeia mesopot\xE2mica, encontrada em t\xE1buas de argila com mais de 4.500\
+    \ anos de idade. Nela, conta-se a hist\xF3ria de Gilgamesh, um rei d\xE9spota.\
+    \ Gilgamesh age de forma arrogante, \u201Catropelando os cidad\xE3os como um touro\
+    \ selvagem\u201D. Seus s\xFAditos, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-excessos-humildade-e-autocritica/\"\
+    \ rel=\"nofollow\">OPINI\xC3O. Excessos, humildade e autocr\xEDtica</a> appeared\
+    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/opiniao-excessos-humildade-e-autocritica/
+  title: "OPINI\xC3O. Excessos, humildade e autocr\xEDtica"
 - author: AQR
   categories:
   - Quant
@@ -411,7 +426,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-04-24T20:41:58+00:00'
@@ -438,8 +453,7 @@
   path: https://www.youtube.com/watch?v=7YrdI7h2XoY
   title: Glass is glass
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id001
   date: '2026-04-24T17:41:28+00:00'
   description: "<p>\u201CCommerce and manufactures can seldom flourish long in any\
     \ state in which there is not a certain degree of confidence in the justice of\
@@ -476,14 +490,14 @@
   path: https://www.youtube.com/watch?v=wYeDGkdMi3g
   title: "Don\u2019t Use Boolean Flags in Python, Use Policies Instead"
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-04-24T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-rethinking-variable-importance-machine-learning
   title: 'In Practice Brief: Rethinking Variable Importance in Machine Learning'
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-04-23T00:00:00+00:00'
   description: "O senador Alessandro Vieira, relator da CPI do Crime Organizado, vem\
@@ -558,7 +572,7 @@
   path: https://open.spotify.com/episode/2klCHm356ZcVeJBkcn5rDm
   title: The upstarts shaking up the defence industry
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2026-04-21T17:01:53+00:00'
   description: 'Peak slab phone in 2026 looks a lot like a camera attached to a phone
 
@@ -585,7 +599,7 @@
   path: https://www.youtube.com/watch?v=c347oYQO57A
   title: So This is Peak Smartphone
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-04-21T00:00:00+00:00'
   description: "O Ibovespa est\xE1 novamente pr\xF3ximo dos 200 mil pontos, o d\xF3\
     lar voltou a testar R$ 5 e o mercado come\xE7a a sair de um cen\xE1rio dominado\
@@ -625,21 +639,6 @@
   path: https://open.spotify.com/episode/6urxPkr3m893I3CvM8sWCB
   title: '#350 | IBOVESPA A 200 MIL PONTOS: AINDA VALE INVESTIR NA BOLSA BRASILEIRA
     AGORA?'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-04-20T09:50:38+00:00'
-  description: "<p>O tema do endividamento das fam\xEDlias voltou \xE0s manchetes\
-    \ e, com ele, as poss\xEDveis explica\xE7\xF5es para o fen\xF4meno. A mais recorrente\
-    \ raz\xE3o apontada seria a falta de educa\xE7\xE3o financeira das fam\xEDlias.\
-    \ Por\xE9m, o recente relat\xF3rio sobre Cidadania Financeira do Banco Central\
-    \ indica que estamos na m\xE9dia global no que diz respeito ao letramento financeiro,\
-    \ muito [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-por-que-os-brasileiros-sao-viciados-em-credito/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Por que os brasileiros s\xE3o viciados em cr\xE9\
-    dito</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-por-que-os-brasileiros-sao-viciados-em-credito/
-  title: "OPINI\xC3O. Por que os brasileiros s\xE3o viciados em cr\xE9dito"
 - author: ArjanCodes
   categories: *id005
   date: '2026-04-17T15:00:09+00:00'
