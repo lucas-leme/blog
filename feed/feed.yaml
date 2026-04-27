@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-04-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Mark Anson,
@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-27T12:46:18.748767'
+  date: '2026-04-27T14:18:15.496211'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-27T12:46:18.748764'
+  date: '2026-04-27T14:18:15.496206'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-27T12:46:18.748759'
+  date: '2026-04-27T14:18:15.496201'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-27T12:46:18.748747'
+  date: '2026-04-27T14:18:15.496190'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -399,6 +399,13 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-04-27T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/new-demands-optimal-execution-machine-learning
+  title: The New Demands of Optimal Execution
 - author: AQR
   categories:
   - Quant
@@ -411,7 +418,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-04-26T03:10:46+00:00'
   description: "<p>\u201COnde n\xE3o h\xE1 lei, n\xE3o h\xE1 liberdade\u201D John\
@@ -453,7 +460,7 @@
   path: https://www.youtube.com/watch?v=7YrdI7h2XoY
   title: Glass is glass
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-04-24T17:41:28+00:00'
   description: "<p>\u201CCommerce and manufactures can seldom flourish long in any\
     \ state in which there is not a certain degree of confidence in the justice of\
@@ -489,13 +496,6 @@
   image: https://i4.ytimg.com/vi/wYeDGkdMi3g/hqdefault.jpg
   path: https://www.youtube.com/watch?v=wYeDGkdMi3g
   title: "Don\u2019t Use Boolean Flags in Python, Use Policies Instead"
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-04-24T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-rethinking-variable-importance-machine-learning
-  title: 'In Practice Brief: Rethinking Variable Importance in Machine Learning'
 - author: Market Makers
   categories: &id004
   - Podcasts
