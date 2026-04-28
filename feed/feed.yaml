@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-28T01:13:02.684573'
+  date: '2026-04-28T02:19:24.890123'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-28T01:13:02.684569'
+  date: '2026-04-28T02:19:24.890119'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-28T01:13:02.684565'
+  date: '2026-04-28T02:19:24.890114'
   description: "<div class=\"ExternalClass05C248DA11064FB3AB24F03B9715181D\"><p>\u200B\
     O ambiente externo tornou-se mais incerto, em fun\xE7\xE3o do acirramento de conflitos\
     \ geopol\xEDticos no Oriente M\xE9dio, com reflexos nas condi\xE7\xF5es financeiras\
@@ -141,7 +141,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-28T01:13:02.684555'
+  date: '2026-04-28T02:19:24.890103'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -473,6 +473,29 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-confianca-o-ativo-que-o-brasil-maltrata/
   title: "OPINI\xC3O. Confian\xE7a, o ativo que o Brasil maltrata"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-04-24T15:01:50+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
+    \ to replace growing conditional logic with the Policy Pattern. Instead of one\
+    \ big function, you split rules into small, composable pieces and combine them\
+    \ into a flexible pipeline. The result is code that\u2019s easier to extend, test,\
+    \ and control even with feature flags or configuration.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2026/policy.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n1:05 Introduction\n2:11 The Problem\n2:34 The Policy Pattern\n3:05\
+    \ OOP Version (Quick Overview)\nComposition Is the Key\n5:50 Strategy vs Policy\n\
+    6:51 Functional Style (Pythonic Version)\n10:56 Policy Registry + Settings\n13:37\
+    \ Why This Is Powerful\n14:07 Trade-offs\n14:22 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/wYeDGkdMi3g/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=wYeDGkdMi3g
+  title: "Don\u2019t Use Boolean Flags in Python, Use Policies Instead"
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -616,8 +639,31 @@
   path: https://open.spotify.com/episode/6urxPkr3m893I3CvM8sWCB
   title: '#350 | IBOVESPA A 200 MIL PONTOS: AINDA VALE INVESTIR NA BOLSA BRASILEIRA
     AGORA?'
+- author: ArjanCodes
+  categories: *id005
+  date: '2026-04-17T15:00:09+00:00'
+  description: "Talk to the internet when you need answers. Talk to Recall when you\
+    \ need your answers. \U0001F517 https://www.recall.it/?t=arjan \_ Use code ARJAN25\
+    \ for 25% off,\_valid until 1 June 2026.\n\nDo the Ports & Adapters quiz here:\
+    \ https://app.getrecall.ai/challenge/e24770a5-1aab-5d6c-b2a8-dbee424c22a4\n\n\
+    Most Python developers think generators are just about saving memory. That\u2019\
+    s only a small part of the story.\n\nIn this video, I show how generators give\
+    \ you control over when work happens, and how you can use them to build powerful\
+    \ data pipelines, handle backpressure, enable two-way communication, and even\
+    \ work with async streams.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/generators.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:44 What are Generators?\n1:44 Step 1: From Strings to Structured Data\n6:36\
+    \ Sponsored Section (recall.it)\n9:08 Step 2: Pipelines with Function Composition\n\
+    13:15 Step 3: Backpressure \u2014 Why This Scales\n15:08 Step 4: Two-Way Communication\
+    \ with send()\n17:52 Bonus: Generators Can Return a Value\n19:08 Step 5: Async\
+    \ Generators\n22:58 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/5VN-3rIUPZ8/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=5VN-3rIUPZ8
+  title: What Most Python Developers Miss About Generators
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-04-17T06:13:10+00:00'
@@ -644,7 +690,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/04/bank-failures-the-roles-of-solvency-and-liquidity/
   title: 'Bank Failures: The Roles of Solvency and Liquidity'
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-04-14T00:00:00+00:00'
   description: "Este \xE9 o\_Espresso\_Outliers InfoMoney, a sua pausa estrat\xE9\
@@ -668,7 +714,7 @@
   title: 'Terras raras: como aproveitar a nova fonte de riquezas do Brasil | Espresso
     Outliers InfoMoney #13'
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-04-07T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 184 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com o economista Gustavo Franco, ex-presidente do Banco Central\
@@ -716,7 +762,7 @@
   title: "Faheem Osman \u2013 Commodity QIS: An Under-Appreciated Source of Systematic\
     \ Returns? (S7E29)"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-04-05T06:36:55+00:00'
   description: Something strange is happening with wages in healthcare and private
     education.
@@ -724,7 +770,7 @@
   path: https://theovershoot.co/p/is-us-wage-growth-slowing-or-not
   title: Is U.S. Wage Growth Slowing Or Not?
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-03-05T13:31:25+00:00'
@@ -735,14 +781,14 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2026-02-21T17:41:03+00:00'
   description: Charting the Impact of the Supreme Court Ruling and What Comes Next
   image: https://substackcdn.com/image/fetch/$s_!4mla!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8051a18f-6ce0-4f02-a583-7311f33ba549_2886x1843.png
   path: https://www.apricitas.io/p/the-supreme-court-ruled-against-trumps
   title: The Supreme Court Ruled Against Trump's Tariffs. Now What?
 - author: The Journal.
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -758,7 +804,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
