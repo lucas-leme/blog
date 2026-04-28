@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-04-28T13:34:24+00:00'
+  description: "Sa\xEDda em 1\xBA de maio, ap\xF3s seis d\xE9cadas, representa perda\
+    \ relevante para a Opep, que atua no equil\xEDbrio da oferta e dos pre\xE7os globais\
+    \ do petr\xF3leo"
+  image: https://media.investnews.com.br/uploads/2021/04/opep-scaled.jpg
+  path: https://investnews.com.br/economia/emirados-arabes-anunciam-saida-da-opep-enquanto-guerra-no-ira-remodela-o-mercado-de-petroleo/
+  title: "Emirados \xC1rabes anunciam sa\xEDda da Opep enquanto guerra no Ir\xE3 remodela\
+    \ o mercado de petr\xF3leo"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -52,8 +63,7 @@
   path: https://www.reddit.com/r/CFA/comments/1swstet/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-04-26T15:03:00+00:00'
   description: "Trump cancelou viagem de seus enviados ao Paquist\xE3o; petr\xF3leo\
     \ fechou a US$ 105 ante US$ 72 antes do in\xEDcio da guerra"
@@ -61,15 +71,6 @@
   path: https://investnews.com.br/economia/petroleo-crise-eua-ira-abril26/
   title: "Negocia\xE7\xE3o EUA-Ir\xE3 trava e petr\xF3leo entra no segundo m\xEAs\
     \ do maior choque de oferta da hist\xF3ria"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-26T11:20:50+00:00'
-  description: "Diretriz do Partido Comunista imp\xF5e piso, transpar\xEAncia algor\xED\
-    tmica e prote\xE7\xE3o a trabalhadores de Meituan, Alibaba e JD.com at\xE9 2027"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/china-regra-trabalhadores-apps/
-  title: China adota normas para entregadores e profissionais de aplicativos; Brasil
-    segue discutindo
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-04-07T10:01:57+00:00'
