@@ -1,5 +1,14 @@
-- author: "Finan\xE7as \u2013 InvestNews"
+- author: "Economia \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-04-29T21:48:47+00:00'
+  description: "Copom avalia que guerra no Oriente M\xE9dio continua a elevar as incertezas\
+    \ sobre o cen\xE1rio futuro da infla\xE7\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/copom-corta-juros-para-1450-ao-ano/
+  title: "Banco Central corta Selic para 14,50% ao ano na segunda redu\xE7\xE3o seguida"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-04-29T19:23:38+00:00'
   description: "Obrigatoriedade de declarar rendimentos do MEI no Imposto de Renda\
@@ -9,8 +18,7 @@
   title: "Preciso declarar rendimentos do MEI no Imposto de Renda 2026? Veja em quais\
     \ situa\xE7\xF5es"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-04-29T18:18:04+00:00'
   description: "O cen\xE1rio segue desafiador, com infla\xE7\xE3o acima da meta de\
     \ 2%, pressionada por tarifas comerciais e pela alta dos pre\xE7os de energia"
@@ -19,7 +27,7 @@
   title: "Fed mant\xE9m juros em \xFAltima reuni\xE3o da era Powell e tem maior racha\
     \ em tr\xEAs d\xE9cadas"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-04-28T20:17:32+00:00'
   description: "As regras do Imposto de Renda consideram tempo de perman\xEAncia no\
     \ exterior, comunica\xE7\xE3o de sa\xEDda definitiva e exist\xEAncia de bens no\
@@ -27,16 +35,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/morar-exterior-renda-brasil-ir2026/
   title: Moro no exterior e tenho renda no Brasil, preciso declarar Imposto de Renda?
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-04-28T13:34:24+00:00'
-  description: "Sa\xEDda ap\xF3s seis d\xE9cadas representa perda relevante para a\
-    \ entidade, que busca definir cota\xE7\xF5es na defesa dos interesses de seus\
-    \ membros"
-  image: https://media.investnews.com.br/uploads/2021/04/opep-scaled.jpg
-  path: https://investnews.com.br/economia/emirados-arabes-anunciam-saida-da-opep-enquanto-guerra-no-ira-remodela-o-mercado-de-petroleo/
-  title: "Emirados \xC1rabes anunciam sa\xEDda da Opep enquanto Guerra do Ir\xE3 remodela\
-    \ o mercado de petr\xF3leo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
