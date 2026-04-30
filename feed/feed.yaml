@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-30T02:19:09.033407'
+  date: '2026-04-30T11:36:45.707569'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-30T02:19:09.033403'
+  date: '2026-04-30T11:36:45.707566'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-30T02:19:09.033398'
+  date: '2026-04-30T11:36:45.707561'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-04-30T02:19:09.033386'
+  date: '2026-04-30T11:36:45.707550'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -388,6 +388,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2026-04-30T10:34:20+00:00'
+  description: "<p>Donald Trump perdeu uma batalha em fevereiro, quando a Suprema\
+    \ Corte julgou como ilegal seu tarifa\xE7o anunciado h\xE1 um ano \u2013 mas o\
+    \ Presidente dos EUA n\xE3o desistiu da guerra comercial. O United States Trade\
+    \ Representative (USTR) \u2013 um \xF3rg\xE3o subordinado \xE0 Casa Branca \u2013\
+    \ abriu no ano passado uma s\xE9rie de investiga\xE7\xF5es sobre poss\xEDveis\
+    \ [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/brasil-adota-narrativa-de-confrontacao-perigosa-com-os-eua/\"\
+    \ rel=\"nofollow\">Brasil adota \u201Cnarrativa de confronta\xE7\xE3o perigosa\u201D\
+    \ com os EUA</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/brasil-adota-narrativa-de-confrontacao-perigosa-com-os-eua/
+  title: "Brasil adota \u201Cnarrativa de confronta\xE7\xE3o perigosa\u201D com os\
+    \ EUA"
 - author: AQR
   categories:
   - Quant
@@ -429,7 +446,7 @@
   title: "ROMEU ZEMA: GUERRA COM STF, CANDIDATURA \xC0 PRESID\xCANCIA E O PLANO PARA\
     \ O BRASIL | Market Makers #353"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-04-29T22:38:21+00:00'
@@ -507,8 +524,7 @@
   path: https://open.spotify.com/episode/3tJW7uxLiKLSmSzppJgulb
   title: "O novo momento pro cr\xE9dito privado | Espresso Outliers InfoMoney #14"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id003
   date: '2026-04-26T03:10:46+00:00'
   description: "<p>\u201COnde n\xE3o h\xE1 lei, n\xE3o h\xE1 liberdade\u201D John\
     \ Locke \_\_\_\_\_\_\_\_ O primeiro registro escrito da civiliza\xE7\xE3o \xE9\
@@ -522,7 +538,7 @@
   path: https://braziljournal.com/opiniao-excessos-humildade-e-autocritica/
   title: "OPINI\xC3O. Excessos, humildade e autocr\xEDtica"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-04-24T20:41:58+00:00'
   description: 'Glass is glass. A bit of a rant/explainer/PSA
 
@@ -546,20 +562,6 @@
   image: https://i4.ytimg.com/vi/7YrdI7h2XoY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=7YrdI7h2XoY
   title: Glass is glass
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-04-24T17:41:28+00:00'
-  description: "<p>\u201CCommerce and manufactures can seldom flourish long in any\
-    \ state in which there is not a certain degree of confidence in the justice of\
-    \ government.\u201D \u2014 Adam Smith O Brasil n\xE3o \xE9 um pa\xEDs pobre em\
-    \ recursos. \xC9 um pa\xEDs pobre em confian\xE7a. Desde Pero Vaz de Caminha repetimos\
-    \ a lenda da abund\xE2ncia: \u201Cem se [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/opiniao-confianca-o-ativo-que-o-brasil-maltrata/\" rel=\"\
-    nofollow\">OPINI\xC3O. Confian\xE7a, o ativo que o Brasil maltrata</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-confianca-o-ativo-que-o-brasil-maltrata/
-  title: "OPINI\xC3O. Confian\xE7a, o ativo que o Brasil maltrata"
 - author: ArjanCodes
   categories: &id005
   - Tech
