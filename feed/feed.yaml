@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T15:07:07.449316'
+  date: '2026-05-01T16:05:31.192025'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T15:07:07.449313'
+  date: '2026-05-01T16:05:31.192021'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T15:07:07.449308'
+  date: '2026-05-01T16:05:31.192002'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T15:07:07.449296'
+  date: '2026-05-01T16:05:31.191991'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -388,6 +388,51 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-05-01T15:01:33+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nYour clean API works\u2026\
+    \ until integrations start piling up.\n\nOne system needs an extra ID, another\
+    \ needs a reference, and suddenly your schema turns into a mess. In this video,\
+    \ I show a cleaner way to handle this using a flexible `custom_data` design that\
+    \ keeps your API structured without turning it into a junk drawer.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2026/apidata.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
+    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:05 The Starting Point\n2:35 The Real Problem\n\
+    4:11 The Design We Want\n4:50 Where the Logic Should Live\n5:30 The Reusable Base\
+    \ Model\n8:58 The API Schemas\n10:50 Why This Pattern Works Well\n11:17 When To\
+    \ (Not) Use It\n12:12 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/rZpwFN_n2-g/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=rZpwFN_n2-g
+  title: "Your API Can\u2019t Handle Real-World Integrations"
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-05-01T14:01:00+00:00'
+  description: "In our companion post, we used a new module of our<a href=\"https://www.newyorkfed.org/research/economic-heterogeneity-indicators\"\
+    > Economic Heterogeneity Indicators (EHIs)</a> to shed light on how recent retail\
+    \ spending growth has been driven by high-income households. This fact is consistent\
+    \ with the popular press\u2019s idea of a \u201C<a href=\"https://www.npr.org/2026/01/01/nx-s1-5660753/its-the-years-biggest-economic-buzzword-but-what-exactly-is-a-k-shaped-economy\"\
+    >K-shaped economy</a>\u201D in which higher-income households experience faster\
+    \ growth in spending than lower-income households. In this post, we dive deeper\
+    \ into the reasons behind this divergence by analyzing for which goods this trend\
+    \ holds true and ask whether it can be explained by changes in wages, inflation,\
+    \ or wealth. We find that, since 2023, wealth has increased the most for high-income\
+    \ households, while inflation has risen the most for low-income households, with\
+    \ both factors helping explain the fact that real retail spending rose the most\
+    \ for high-income households. In contrast, earnings display a more mixed pattern,\
+    \ though earnings of the highest earners have grown more rapidly than earnings\
+    \ of the lowest earners."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/05/explaining-the-k-shaped-economy-whats-behind-the-divide/
+  title: "Explaining the K&#8209;Shaped Economy: What\u2019s Behind the Divide?"
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
@@ -538,10 +583,7 @@
   path: https://www.youtube.com/watch?v=7YrdI7h2XoY
   title: Glass is glass
 - author: ArjanCodes
-  categories: &id004
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-04-24T15:01:50+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
@@ -559,29 +601,6 @@
   image: https://i4.ytimg.com/vi/wYeDGkdMi3g/hqdefault.jpg
   path: https://www.youtube.com/watch?v=wYeDGkdMi3g
   title: "Don\u2019t Use Boolean Flags in Python, Use Policies Instead"
-- author: ArjanCodes
-  categories: *id004
-  date: '2026-04-17T15:00:09+00:00'
-  description: "Talk to the internet when you need answers. Talk to Recall when you\
-    \ need your answers. \U0001F517 https://www.recall.it/?t=arjan \_ Use code ARJAN25\
-    \ for 25% off,\_valid until 1 June 2026.\n\nDo the Ports & Adapters quiz here:\
-    \ https://app.getrecall.ai/challenge/e24770a5-1aab-5d6c-b2a8-dbee424c22a4\n\n\
-    Most Python developers think generators are just about saving memory. That\u2019\
-    s only a small part of the story.\n\nIn this video, I show how generators give\
-    \ you control over when work happens, and how you can use them to build powerful\
-    \ data pipelines, handle backpressure, enable two-way communication, and even\
-    \ work with async streams.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/generators.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:44 What are Generators?\n1:44 Step 1: From Strings to Structured Data\n6:36\
-    \ Sponsored Section (recall.it)\n9:08 Step 2: Pipelines with Function Composition\n\
-    13:15 Step 3: Backpressure \u2014 Why This Scales\n15:08 Step 4: Two-Way Communication\
-    \ with send()\n17:52 Bonus: Generators Can Return a Value\n19:08 Step 5: Async\
-    \ Generators\n22:58 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i2.ytimg.com/vi/5VN-3rIUPZ8/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=5VN-3rIUPZ8
-  title: What Most Python Developers Miss About Generators
 - author: The Overshoot
   categories: &id006
   - Macro
@@ -594,21 +613,6 @@
   path: https://theovershoot.co/p/look-through-the-hormuz-shock-if
   title: '"Look Through" the Hormuz Shock if You Want. U.S. Inflation is Still Running
     Hot.'
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-04-16T14:00:00+00:00'
-  description: Do banks fail because of runs or because they become insolvent? Answering
-    this question is central to understanding financial crises and designing effective
-    financial stability policies. Long-run historical evidence reveals that the root
-    cause of bank failures is usually insolvency. The importance of bank runs is somewhat
-    overstated. Runs matter, but in most cases they trigger or accelerate failure
-    at already weak banks, rather than cause otherwise sound banks to fail.
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/04/bank-failures-the-roles-of-solvency-and-liquidity/
-  title: 'Bank Failures: The Roles of Solvency and Liquidity'
 - author: Outliers
   categories: *id005
   date: '2026-04-14T00:00:00+00:00'
