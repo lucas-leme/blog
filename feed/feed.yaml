@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T12:33:09.549047'
+  date: '2026-05-01T14:02:38.586323'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T12:33:09.549039'
+  date: '2026-05-01T14:02:38.586319'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T12:33:09.549034'
+  date: '2026-05-01T14:02:38.586314'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-01T12:33:09.549023'
+  date: '2026-05-01T14:02:38.586303'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais incerto, em fun\xE7\
@@ -388,6 +388,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/18032026
   title: "BC - Copom Ata - 277\xAA Reuni\xE3o - 17-18 mar\xE7o, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2026-05-01T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/geopolitical-shocks-what-moves-first-why-matters
+  title: 'Geopolitical Shocks: What Moves First and Why It Matters'
 - author: AQR
   categories:
   - Quant
@@ -400,8 +408,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: CFA Institute Research and Policy Center
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2026-04-30T12:00:00+00:00'
   description: ''
   image: null
@@ -472,20 +479,6 @@
   image: https://i2.ytimg.com/vi/i9TvUGeTltE/hqdefault.jpg
   path: https://www.youtube.com/watch?v=i9TvUGeTltE
   title: My Take on The New Apple
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-04-29T12:00:00+00:00'
-  description: In this episode of Conversations with Frank Fabozzi, CFA, Mark Anson,
-    CFA, they discuss how institutional investors are positioning portfolios in a
-    less-synchronized global economy. The conversation examines the potential decline
-    of global equity correlations, the structural rise of private credit, and the
-    role of the equity risk premium as a valuation discipline across market cycles.
-    Drawing on decades of experience managing endowment and foundation assets, Anson
-    outlines practical considerations for diversification, liquidity, and long-term
-    risk management.
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-mark-anson
-  title: Conversations with Frank Fabozzi, CFA, Featuring Mark Anson
 - author: Outliers
   categories: &id005
   - Podcasts
