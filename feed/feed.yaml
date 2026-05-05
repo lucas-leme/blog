@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-05T16:21:21.314488'
+  date: '2026-05-05T18:50:00.849188'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-05T16:21:21.314484'
+  date: '2026-05-05T18:50:00.849184'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-05T16:21:21.314480'
+  date: '2026-05-05T18:50:00.849179'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-05T16:21:21.314469'
+  date: '2026-05-05T18:50:00.849167'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,23 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-05-05T17:39:49+00:00'
+  description: "<p>O pensador ingl\xEAs Samuel Johnson declarou no s\xE9culo 18 que\
+    \ \u201Co patriotismo \xE9 o \xFAltimo ref\xFAgio do canalha.\u201D Para Johnson,\
+    \ atores pol\xEDticos frequentemente invocam este sentimento nobre para chegar\
+    \ ao poder, esconder seus verdadeiros interesses ou disfar\xE7ar sua incompet\xEA\
+    ncia. Da mesma forma, o projeto de lei 2780/2024, que tenta regular a explora\xE7\
+    \xE3o de minerais cr\xEDticos [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/editorial-nos-minerais-criticos-a-soberania-nacional-e-a-formula-da-pobreza/\"\
+    \ rel=\"nofollow\">EDITORIAL. Nos minerais cr\xEDticos, a \u201Csoberania nacional\u201D\
+    \ \xE9 a f\xF3rmula da pobreza</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/editorial-nos-minerais-criticos-a-soberania-nacional-e-a-formula-da-pobreza/
+  title: "EDITORIAL. Nos minerais cr\xEDticos, a \u201Csoberania nacional\u201D \xE9\
+    \ a f\xF3rmula da pobreza"
 - author: AQR
   categories:
   - Quant
@@ -429,18 +446,18 @@
 - author: CFA Institute Research and Policy Center
   categories: &id001
   - CFA
-  date: '2026-05-04T12:00:00+00:00'
+  date: '2026-05-05T12:00:00+00:00'
   description: ''
   image: null
-  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-emotional-yields-collectibles
-  title: 'In Practice Brief: Emotional Yields of Collectibles'
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/scaling-ai-rethinking-governance
+  title: Scaling AI Requires Rethinking Governance
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-05-04T12:00:00+00:00'
   description: ''
   image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/clearer-way-benchmark-private-equity
-  title: A Clearer Way to Benchmark Private Equity
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-emotional-yields-collectibles
+  title: 'In Practice Brief: Emotional Yields of Collectibles'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -470,7 +487,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-05-03T00:00:00+00:00'
   description: "O Brasil \xE9 pobre\u2026 ou est\xE1 sendo impedido de crescer?Neste\
@@ -536,8 +553,7 @@
   path: https://www.youtube.com/watch?v=rZpwFN_n2-g
   title: "Your API Can\u2019t Handle Real-World Integrations"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id002
   date: '2026-04-30T10:34:20+00:00'
   description: "<p>Donald Trump perdeu uma batalha em fevereiro, quando a Suprema\
     \ Corte julgou como ilegal seu tarifa\xE7o anunciado h\xE1 um ano \u2013 mas o\
@@ -553,7 +569,7 @@
   title: "Brasil adota \u201Cnarrativa de confronta\xE7\xE3o perigosa\u201D com os\
     \ EUA"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-04-30T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, Thiago Salom\xE3o recebe Juliano\
     \ Cust\xF3dio, CEO e fundador da EQI Investimentos, para uma conversa direta sobre\
@@ -652,20 +668,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afd3e7a142df1494e92e82cd9
   path: https://open.spotify.com/episode/3tJW7uxLiKLSmSzppJgulb
   title: "O novo momento pro cr\xE9dito privado | Espresso Outliers InfoMoney #14"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-04-26T03:10:46+00:00'
-  description: "<p>\u201COnde n\xE3o h\xE1 lei, n\xE3o h\xE1 liberdade\u201D John\
-    \ Locke \_\_\_\_\_\_\_\_ O primeiro registro escrito da civiliza\xE7\xE3o \xE9\
-    \ uma epopeia mesopot\xE2mica, encontrada em t\xE1buas de argila com mais de 4.500\
-    \ anos de idade. Nela, conta-se a hist\xF3ria de Gilgamesh, um rei d\xE9spota.\
-    \ Gilgamesh age de forma arrogante, \u201Catropelando os cidad\xE3os como um touro\
-    \ selvagem\u201D. Seus s\xFAditos, [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-excessos-humildade-e-autocritica/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Excessos, humildade e autocr\xEDtica</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-excessos-humildade-e-autocritica/
-  title: "OPINI\xC3O. Excessos, humildade e autocr\xEDtica"
 - author: Marques Brownlee
   categories: *id004
   date: '2026-04-24T20:41:58+00:00'
