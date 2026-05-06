@@ -1,6 +1,26 @@
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-05-06T16:54:43+00:00'
+  description: "Ap\xF3s o prazo n\xE3o ser\xE1 mais permitido a regulariza\xE7\xE3\
+    o, altera\xE7\xE3o ou transfer\xEAncia do t\xEDtulo de eleitor, segundo o Tribunal\
+    \ Superior Eleitoral"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/prazo-titulo-de-eleitor-eleicoes-2026/
+  title: "Prazo para emitir e regularizar t\xEDtulo de eleitor termina nesta quarta-feira\
+    \ (6)"
 - author: "Economia \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2026-05-06T16:49:08+00:00'
+  description: "Real forte, com alta de cerca de 11% no ano, leva analistas a projetar\
+    \ novas interven\xE7\xF5es do Banco Central no c\xE2mbio"
+  image: https://media.investnews.com.br/uploads/2026/03/IN_Ilustra_dolar_3.jpg
+  path: https://investnews.com.br/economia/banco-central-faz-1a-compra-de-dolar-futuro-em-10-anos-entenda-o-que-esta-por-tras-da-operacao/
+  title: "BC faz 1\xAA compra de d\xF3lar futuro em 10 anos. Veja o que est\xE1 por\
+    \ tr\xE1s"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-05-06T15:52:19+00:00'
   description: "Perda de oferta no Golfo P\xE9rsico desde mar\xE7o representa a maior\
     \ interrup\xE7\xE3o do mercado de petr\xF3leo na hist\xF3ria"
@@ -9,8 +29,7 @@
   title: "Produ\xE7\xE3o de petr\xF3leo da Opep cai para o menor n\xEDvel em quase\
     \ 40 anos com a guerra no Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-05-06T15:27:24+00:00'
   description: "A expectativa da Receita Federal \xE9 de que 44 milh\xF5es de declara\xE7\
     \xF5es do IR 2026 sejam entregues neste ano"
@@ -18,25 +37,6 @@
   path: https://investnews.com.br/financas/ir2026-imposto-de-renda-declaracao-prazo/
   title: "IR 2026: 55% dos contribuintes ainda n\xE3o entregaram a declara\xE7\xE3\
     o; veja quem \xE9 obrigado e prazos"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-05-06T13:27:33+00:00'
-  description: "O combate ao crime organizado deve estar na pauta, com o governo Lula\
-    \ buscando fortalecer a coopera\xE7\xE3o com os EUA no enfrentamento de grandes\
-    \ fac\xE7\xF5es criminosas"
-  image: https://media.investnews.com.br/uploads/2025/10/2025-10-26T095120Z_1_LYNXMPEL9P06N_RTROPTP_4_POLITICA-LULA-TRUMP-VIEIRA_50.webp
-  path: https://investnews.com.br/economia/lula-se-reunira-com-trump-na-quinta-feira-para-discutir-questoes-economicas/
-  title: "Lula se reunir\xE1 com Trump na quinta-feira para discutir quest\xF5es econ\xF4\
-    micas"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-05-05T20:16:20+00:00'
-  description: "O saldo devido do Imposto de Renda 2026 pode ser quitado em cota \xFA\
-    nica ou em at\xE9 oito vezes, por meio de DARF ou d\xE9bito autom\xE1tico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/pagamento-imposto-de-renda-ir2026/
-  title: "Parcelado ou \xE0 vista? Veja as op\xE7\xF5es para pagar imposto devido\
-    \ no IR 2026"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
