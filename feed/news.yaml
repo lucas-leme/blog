@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-05-06T21:50:39+00:00'
+  description: "Disputa envolve US$ 166 bilh\xF5es em tarifas cobradas entre abril\
+    \ de 2025 e fevereiro de 2026"
+  image: https://media.investnews.com.br/uploads/2022/05/2022-05-24T141918Z_1_LYNXNPEI4N0PJ_RTROPTP_4_USA-ECONOMY-INEFFICIENCY-SUPPLIES.jpg
+  path: https://investnews.com.br/economia/governo-trump-comeca-a-devolver-tarifas-consideradas-ilegais-pela-suprema-corte/
+  title: "Governo Trump come\xE7a a devolver tarifas consideradas ilegais pela Suprema\
+    \ Corte"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
@@ -10,8 +20,7 @@
   title: "Prazo para emitir e regularizar t\xEDtulo de eleitor termina nesta quarta-feira\
     \ (6)"
 - author: "Economia \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-05-06T16:49:08+00:00'
   description: "Real forte, com alta de cerca de 11% no ano, leva analistas a projetar\
     \ novas interven\xE7\xF5es do Banco Central no c\xE2mbio"
@@ -19,15 +28,6 @@
   path: https://investnews.com.br/economia/banco-central-faz-1a-compra-de-dolar-futuro-em-10-anos-entenda-o-que-esta-por-tras-da-operacao/
   title: "BC faz 1\xAA compra de d\xF3lar futuro em 10 anos. Veja o que est\xE1 por\
     \ tr\xE1s"
-- author: "Economia \u2013 InvestNews"
-  categories: *id001
-  date: '2026-05-06T15:52:19+00:00'
-  description: "Perda de oferta no Golfo P\xE9rsico desde mar\xE7o representa a maior\
-    \ interrup\xE7\xE3o do mercado de petr\xF3leo na hist\xF3ria"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/producao-de-petroleo-da-opep-cai-para-o-menor-nivel-em-quase-40-anos-com-a-guerra-no-ira/
-  title: "Produ\xE7\xE3o de petr\xF3leo da Opep cai para o menor n\xEDvel em quase\
-    \ 40 anos com a guerra no Ir\xE3"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: *id002
   date: '2026-05-06T15:27:24+00:00'
