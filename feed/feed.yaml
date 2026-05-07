@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-07T16:22:59.420030'
+  date: '2026-05-07T18:56:54.366863'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-07T16:22:59.420026'
+  date: '2026-05-07T18:56:54.366859'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-07T16:22:59.420021'
+  date: '2026-05-07T18:56:54.366855'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-07T16:22:59.420009'
+  date: '2026-05-07T18:56:54.366843'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -426,6 +426,37 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2026-05-07T12:00:00+00:00'
+  description: "Indexing isn\u2019t purely passive. Arnott and Wu show that cap-weighted\
+    \ indexes embed momentum bias, driving buy-high/sell-low trades and hidden costs.\
+    \ They propose simple tweaks to reduce turnover, and distortions, and improve\
+    \ outcomes."
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2026/active-side-indexing
+  title: The Active Side of Indexing
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2026-05-07T00:00:00+00:00'
+  description: "The AI boom is running into an unexpected problem: physical bottlenecks.\
+    \ Demand is soaring, but chips, data centres, transformers and power grids cannot\
+    \ be scaled at the same speed as software. As hyperscalers like Amazon and Google\
+    \ pledge hundreds of billions of dollars in spending, companies further up the\
+    \ supply chain are struggling to keep up. So is the real world about to put a\
+    \ brake on artificial intelligence?Guests and hosts:Jigar Shah, co-managing partner\
+    \ at MultiplierShailesh Chitnis, The Economist's global business writerAlice Fulwood,\
+    \ co-host of \u201CMoney Talks\u201DMike Bird, co-host of \u201CMoney Talks\u201D\
+    Topics covered:AI boom\_Chip manufacturingUS data centresTranscripts of our podcasts\
+    \ are available via economist.com/podcasts.Listen to what matters most, from global\
+    \ politics and business to science and technology\u2014subscribe to Economist\
+    \ Podcasts+.For more information about how to access Economist Podcasts+, please\
+    \ visit our FAQs page or watch our video explaining how to link your account."
+  image: https://i.scdn.co/image/ab6765630000ba8aca42a1ad75571e15adb4e67c
+  path: https://open.spotify.com/episode/0t74b5snZVlrkgMQgDLAIz
+  title: Is the AI genie stuck in a bottleneck?
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -453,15 +484,14 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/05/same-shock-different-roads-a-k-shaped-pattern-at-the-pump/
   title: Same Shock, Different Roads? A K&#8209;Shaped Pattern at the Pump
 - author: CFA Institute Research and Policy Center
-  categories: &id002
-  - CFA
+  categories: *id001
   date: '2026-05-06T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/pe-best-practices-outcomes
   title: 'Private Equity Best Practices: What Drives Outcomes'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-05-05T21:13:04+00:00'
   description: "<p>O ministro Fl\xE1vio Dino, do STF, concedeu hoje uma liminar que\
@@ -477,7 +507,7 @@
   path: https://braziljournal.com/a-decisao-do-stf-que-pode-triplicar-o-orcamento-da-cvm/
   title: "A decis\xE3o do STF que pode triplicar o or\xE7amento da CVM"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-05-05T17:39:49+00:00'
   description: "<p>O pensador ingl\xEAs Samuel Johnson declarou no s\xE9culo 18 que\
     \ \u201Co patriotismo \xE9 o \xFAltimo ref\xFAgio do canalha.\u201D Para Johnson,\
@@ -492,13 +522,6 @@
   path: https://braziljournal.com/editorial-nos-minerais-criticos-a-soberania-nacional-e-a-formula-da-pobreza/
   title: "EDITORIAL. Nos minerais cr\xEDticos, a \u201Csoberania nacional\u201D \xE9\
     \ a f\xF3rmula da pobreza"
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-05-05T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/scaling-ai-rethinking-governance
-  title: Scaling AI Requires Rethinking Governance
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -669,24 +692,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a623bbd31b2b3abbfbc85ac30
   path: https://open.spotify.com/episode/06g67kq7vyAC00WaMg4yPR
   title: Finding Opportunity in a Converging Credit Market
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2026-04-30T00:00:00+00:00'
-  description: "After the 2016 Brexit vote, the outlook for London was bleak. Detractors\
-    \ predicted all but financial oblivion for the City\u2019s bankers, insurers and\
-    \ traders. But, ten years on, those prophecies look overblown in a city that\u2019\
-    s got its swagger back.Guests and hosts:Huw van Steenis of OIiver WymanMichael\
-    \ Mainelli of think tank Z/YenMike Bird, co-host of \u201CMoney Talks\u201DEthan\
-    \ Wu, co-host of \u201CMoney Talks\u201DAlice Fulwood, co-host of \u201CMoney\
-    \ Talks\u201DTopics covered:BrexitThe City of LondonFinancial servicesTranscripts\
-    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
-    \ most, from global politics and business to science and technology\u2014subscribe\
-    \ to Economist Podcasts+.For more information about how to access Economist Podcasts+,\
-    \ please visit our FAQs page or watch our video explaining how to link your account."
-  image: https://i.scdn.co/image/ab6765630000ba8a762c3d40117241f03668e94a
-  path: https://open.spotify.com/episode/4LWmWDF59HOui9FwnBdsPM
-  title: "London\u2019s back, baby"
 - author: Marques Brownlee
   categories: &id005
   - Tech
