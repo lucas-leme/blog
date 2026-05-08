@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-08T14:13:58.047112'
+  date: '2026-05-08T15:11:33.701020'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-08T14:13:58.047108'
+  date: '2026-05-08T15:11:33.701017'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-08T14:13:58.047103'
+  date: '2026-05-08T15:11:33.701012'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-08T14:13:58.047092'
+  date: '2026-05-08T15:11:33.701001'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,27 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-05-08T15:00:27+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
+    \ a \u201Cclean\u201D DRY refactor can actually make your code worse. Instead\
+    \ of improving the design, it introduces hidden complexity, confusing flags, and\
+    \ harder-to-understand behavior. Then we refactor it again, this time focusing\
+    \ on behavior and responsibilities, not just code shape.\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2026/dry.\n\n\U0001F393 ArjanCodes Courses:\
+    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
+    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:30 The Bad Refactor First\n3:58 What This Teaches About\
+    \ DRY\n4:48 A Better Refactor\n10:24 Some Duplication Is Actually Good\n11:21\
+    \ Quick Guidelines\n12:36 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/GmlZBdKhl9Y/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=GmlZBdKhl9Y
+  title: DRY Often Makes Your Code Worse
 - author: AQR
   categories:
   - Quant
@@ -598,7 +619,7 @@
   title: '#356 | LULA PODE PERDER E2026? A PESQUISA QUE ACENDEU O ALERTA NO GOVERNO
     LUL'
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-05-05T00:00:00+00:00'
   description: "A edi\xE7\xE3o 185 comemora os seis anos do Outliers InfoMoney e marca\
@@ -655,10 +676,7 @@
   path: https://theovershoot.co/p/the-growth-impulse-from-the-data
   title: The Growth Impulse from the Data Center Boom
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-05-01T15:01:33+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nYour clean API works\u2026\
@@ -696,7 +714,7 @@
   path: https://open.spotify.com/episode/06g67kq7vyAC00WaMg4yPR
   title: Finding Opportunity in a Converging Credit Market
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2026-04-29T22:38:21+00:00'
@@ -707,7 +725,7 @@
   path: https://www.youtube.com/watch?v=i9TvUGeTltE
   title: My Take on The New Apple
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-04-28T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -725,7 +743,7 @@
   path: https://open.spotify.com/episode/3tJW7uxLiKLSmSzppJgulb
   title: "O novo momento pro cr\xE9dito privado | Espresso Outliers InfoMoney #14"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2026-04-24T20:41:58+00:00'
   description: 'Glass is glass. A bit of a rant/explainer/PSA
 
@@ -749,25 +767,6 @@
   image: https://i4.ytimg.com/vi/7YrdI7h2XoY/hqdefault.jpg
   path: https://www.youtube.com/watch?v=7YrdI7h2XoY
   title: Glass is glass
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-04-24T15:01:50+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
-    \ to replace growing conditional logic with the Policy Pattern. Instead of one\
-    \ big function, you split rules into small, composable pieces and combine them\
-    \ into a flexible pipeline. The result is code that\u2019s easier to extend, test,\
-    \ and control even with feature flags or configuration.\n\n\U0001F525 GitHub Repository:\
-    \ https://git.arjan.codes/2026/policy.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
-    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n2:11 The Problem\n2:34 The Policy Pattern\n3:05 OOP Version (Quick\
-    \ Overview)\n5:50 Strategy vs Policy\n6:51 Functional Style (Pythonic Version)\n\
-    10:56 Policy Registry + Settings\n13:37 Why This Is Powerful\n14:07 Trade-offs\n\
-    14:22 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/wYeDGkdMi3g/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=wYeDGkdMi3g
-  title: "Don\u2019t Use Boolean Flags in Python, Use Policies Instead"
 - author: The Overshoot
   categories: *id007
   date: '2026-04-17T06:13:10+00:00'
