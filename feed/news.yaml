@@ -1,3 +1,14 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-05-12T20:17:34+00:00'
+  description: "A Uni\xE3o Europeia atualizou a lista de pa\xEDses que cumprem suas\
+    \ normas sobre o uso de antimicrobianos em animais destinados \xE0 produ\xE7\xE3\
+    o de alimentos"
+  image: https://media.investnews.com.br/uploads/2024/03/AdobeStock_281642545.jpeg
+  path: https://investnews.com.br/economia/brasil-e-excluido-da-lista-da-uniao-europeia-para-exportacao-de-carnes/
+  title: "Brasil \xE9 exclu\xEDdo da lista da Uni\xE3o Europeia para exporta\xE7\xE3\
+    o de carnes"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -22,8 +33,7 @@
   title: "Dinheiro esquecido ser\xE1 usado no Desenrola 2.0. Veja novas regras para\
     \ resgate"
 - author: "Economia \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-05-12T15:37:15+00:00'
   description: "Composi\xE7\xE3o do \xEDndice segue pressionada por alimentos, combust\xED\
     veis e servi\xE7os, refor\xE7ando a cautela do Banco Central"
@@ -31,15 +41,6 @@
   path: https://investnews.com.br/economia/inflacao-sobe-abril-novos-cortes-juros/
   title: "Infla\xE7\xE3o sobe em abril e aumenta d\xFAvidas sobre novos cortes de\
     \ juros"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-05-12T09:00:00+00:00'
-  description: "Conflito no Oriente M\xE9dio contaminou pre\xE7os do frete, do PVC\
-    \ e do cimento (e outros). A conta ainda est\xE1 chegando em efeito cascata"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/guerra-do-ira-encarece-construcao-civil/
-  title: "A Guerra do Ir\xE3 encareceu a constru\xE7\xE3o civil. E vai piorar, da\
-    \ compra de im\xF3vel ao aluguel"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
