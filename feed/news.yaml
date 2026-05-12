@@ -1,3 +1,13 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id003
+  - "Not\xEDcias"
+  date: '2026-05-12T09:00:00+00:00'
+  description: "Conflito no Oriente M\xE9dio contaminou pre\xE7os do frete, do PVC\
+    \ e do cimento (e outros). A conta ainda est\xE1 chegando em efeito cascata"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/guerra-do-ira-encarece-construcao-civil/
+  title: "A Guerra do Ir\xE3 encareceu a constru\xE7\xE3o civil. E vai piorar, da\
+    \ compra de im\xF3vel ao aluguel"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
@@ -67,8 +77,7 @@
   path: https://www.reddit.com/r/CFA/comments/1t8ed7t/retakes_are_free_for_may_candidates/
   title: Retakes are FREE for May Candidates
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id003
   date: '2026-05-09T17:45:24+00:00'
   description: "Com pre\xE7os de energia em alta, Casa Branca tenta restaurar navega\xE7\
     \xE3o no Estreito de Hormuz e adia negocia\xE7\xF5es mais dif\xEDceis sobre programa\
@@ -77,13 +86,3 @@
   path: https://investnews.com.br/economia/trump-muda-estrategia-para-encerrar-guerra-contra-o-ira-e-prioriza-reabertura-de-ormuz/
   title: "Trump muda estrat\xE9gia para encerrar guerra contra o Ir\xE3 e prioriza\
     \ reabertura de Ormuz"
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2026-05-08T20:17:10+00:00'
-  description: "Minist\xE9rio de Minas e Energia oficializa renova\xE7\xE3o das concess\xF5\
-    es de 14 distribuidoras de energia el\xE9trica em troca de novos investimentos\
-    \ de longo prazo"
-  image: https://media.investnews.com.br/uploads/2024/07/AdobeStock_765222746.webp
-  path: https://investnews.com.br/economia/governo-renova-concessoes-de-14-distribuidoras-de-energia-enel-fica-de-fora/
-  title: "Governo renova concess\xF5es de 14 distribuidoras de energia; Enel fica\
-    \ de fora"
