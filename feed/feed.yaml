@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-13T02:19:56.442089'
+  date: '2026-05-13T11:47:58.187434'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-13T02:19:56.442086'
+  date: '2026-05-13T11:47:58.187431'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-13T02:19:56.442081'
+  date: '2026-05-13T11:47:58.187426'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -145,7 +145,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-13T02:19:56.442070'
+  date: '2026-05-13T11:47:58.187415'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -537,7 +537,7 @@
   title: "Riza Asset explica o momento do cr\xE9dito privado no Brasil e nos EUA |\
     \ Outliers InfoMoney #186"
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2026-05-11T20:14:03+00:00'
@@ -654,6 +654,27 @@
   path: https://open.spotify.com/episode/4oXBIWIItDn6kZD9f0WQkn
   title: "#358 | FERNANDO SCH\xDCLER: STF, LULA, JORGE MESSIAS E A CRISE INSTITUCIONAL\
     \ NO BRASIL"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-05-08T15:00:27+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
+    \ a \u201Cclean\u201D DRY refactor can actually make your code worse. Instead\
+    \ of improving the design, it introduces hidden complexity, confusing flags, and\
+    \ harder-to-understand behavior. Then we refactor it again, this time focusing\
+    \ on behavior and responsibilities, not just code shape.\n\n\U0001F525 GitHub\
+    \ Repository: https://git.arjan.codes/2026/dry.\n\n\U0001F393 ArjanCodes Courses:\
+    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
+    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n0:30 The Bad Refactor First\n3:58 What This Teaches About\
+    \ DRY\n4:48 A Better Refactor\n10:24 Some Duplication Is Actually Good\n11:21\
+    \ Quick Guidelines\n12:36 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/GmlZBdKhl9Y/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=GmlZBdKhl9Y
+  title: DRY Often Makes Your Code Worse
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -711,7 +732,7 @@
   title: "Retrospectiva: o que o pa\xEDs precisa fazer ap\xF3s as elei\xE7\xF5es |\
     \ Outliers InfoMoney #185"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -721,7 +742,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-05-02T00:45:27+00:00'
@@ -730,6 +751,25 @@
   image: https://substackcdn.com/image/fetch/$s_!Z5Uq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d1a2df3-df38-4755-afb4-a9c4292499df_3200x3030.png
   path: https://theovershoot.co/p/the-growth-impulse-from-the-data
   title: The Growth Impulse from the Data Center Boom
+- author: ArjanCodes
+  categories: *id005
+  date: '2026-05-01T15:01:33+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nYour clean API works\u2026\
+    \ until integrations start piling up.\n\nOne system needs an extra ID, another\
+    \ needs a reference, and suddenly your schema turns into a mess. In this video,\
+    \ I show a cleaner way to handle this using a flexible `custom_data` design that\
+    \ keeps your API structured without turning it into a junk drawer.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2026/apidata.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
+    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:05 The Starting Point\n2:35 The Real Problem\n\
+    4:11 The Design We Want\n4:50 Where the Logic Should Live\n5:30 The Reusable Base\
+    \ Model\n8:58 The API Schemas\n10:50 Why This Pattern Works Well\n11:17 When To\
+    \ (Not) Use It\n12:12 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/rZpwFN_n2-g/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=rZpwFN_n2-g
+  title: "Your API Can\u2019t Handle Real-World Integrations"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -750,7 +790,7 @@
   path: https://open.spotify.com/episode/06g67kq7vyAC00WaMg4yPR
   title: Finding Opportunity in a Converging Credit Market
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2026-04-29T22:38:21+00:00'
   description: "Apple turnover\n\nQuinn\u2019s Apple video: https://youtu.be/e1E-yfcKdUw?si=79V91XbUcjSwmE61\n\
     \nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
@@ -759,7 +799,7 @@
   path: https://www.youtube.com/watch?v=i9TvUGeTltE
   title: My Take on The New Apple
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-04-17T06:13:10+00:00'
   description: 'A wide range of underlying measures indicates that prices are rising
     too fast to be consistent with the Fed''s alleged 2% yearly target. Plus: explaining
@@ -769,7 +809,7 @@
   title: '"Look Through" the Hormuz Shock if You Want. U.S. Inflation is Still Running
     Hot.'
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -778,7 +818,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -794,7 +834,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
