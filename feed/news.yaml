@@ -1,6 +1,26 @@
 - author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-05-13T13:47:32+00:00'
+  description: "Encontro entre Trump e Xi Jinping deve abordar desde a guerra no Ir\xE3\
+    \ at\xE9 press\xF5es dos EUA por maior abertura comercial da China para empresas\
+    \ americanas"
+  image: https://media.investnews.com.br/uploads/2025/06/Trump_Bloomberg_5.webp
+  path: https://investnews.com.br/economia/trump-chega-a-china-pela-primeira-vez-em-quase-uma-decada-veja-os-principais-temas-da-visita/
+  title: "Trump chega \xE0 China pela primeira vez em quase uma d\xE9cada. Veja os\
+    \ principais temas da visita"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2026-05-13T13:26:51+00:00'
+  description: "Rendimentos no Imposto de Renda 2026 influenciam a obrigatoriedade\
+    \ e o c\xE1lculo do imposto devido"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/rendimentos-no-imposto-de-renda-ir2026-tributavel-nao-tributavel/
+  title: "Rendimentos no Imposto de Renda 2026: o que \xE9 considerado tribut\xE1\
+    vel e n\xE3o tribut\xE1vel?"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-05-12T20:17:34+00:00'
   description: "A Uni\xE3o Europeia atualizou a lista de pa\xEDses que cumprem suas\
     \ normas sobre o uso de antimicrobianos em animais destinados \xE0 produ\xE7\xE3\
@@ -10,8 +30,7 @@
   title: "Brasil \xE9 exclu\xEDdo da lista da Uni\xE3o Europeia para venda de carnes\
     \ para o bloco"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-05-12T18:53:36+00:00'
   description: "Apesar de ser uma declara\xE7\xE3o ligada ao MEI, a DASN-SIMEI tamb\xE9\
     m impacta o IR 2026 da pessoa f\xEDsica"
@@ -19,28 +38,6 @@
   path: https://investnews.com.br/financas/declaracao-mei-ir-2026/
   title: "Prazo da declara\xE7\xE3o anual do MEI acaba em 31 de maio; veja como isso\
     \ afeta o IR 2026"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2026-05-12T17:31:34+00:00'
-  description: "Os bancos e institui\xE7\xF5es financeiras t\xEAm at\xE9 esta ter\xE7\
-    a-feira (12) para transferir ao Fundo Garantidor de Opera\xE7\xF5es (FGO) o dinheiro\
-    \ esquecido em contas banc\xE1rias. A medida est\xE1 prevista nas regras do Novo\
-    \ Desenrola Brasil, conhecido como Desenrola 2.0. A transfer\xEAncia dos valores\
-    \ foi regulamentada pela portaria normativa MF n\xBA 1.243/2026, publicada pelo\
-    \ Minist\xE9rio da Fazenda [&#8230;]"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/dinheiro-esquecido-desentola-resgate-fgts/
-  title: "Dinheiro esquecido ser\xE1 usado no Desenrola 2.0. Veja novas regras para\
-    \ resgate"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-05-12T15:37:15+00:00'
-  description: "Composi\xE7\xE3o do \xEDndice segue pressionada por alimentos, combust\xED\
-    veis e servi\xE7os, refor\xE7ando a cautela do Banco Central"
-  image: https://media.investnews.com.br/uploads/2024/03/concept-of-financial-economic-problems-and-inflat-2023-11-27-05-05-14-utc.jpg
-  path: https://investnews.com.br/economia/inflacao-sobe-abril-novos-cortes-juros/
-  title: "Infla\xE7\xE3o sobe em abril e aumenta d\xFAvidas sobre novos cortes de\
-    \ juros"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
