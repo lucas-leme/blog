@@ -1,5 +1,14 @@
-- author: "Economia \u2013 InvestNews"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-05-13T14:50:18+00:00'
+  description: "Ap\xF3s o prazo para regularizar o t\xEDtulo de eleitor, a Justi\xE7\
+    a Eleitoral n\xE3o realiza novos registros, transfer\xEAncias ou revis\xF5es cadastrais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/perder-prazo-regularizar-o-titulo-de-eleitor/
+  title: "Perdeu prazo para regularizar o t\xEDtulo de eleitor? Veja o que fazer"
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-05-13T13:47:32+00:00'
   description: "Encontro entre Trump e Xi Jinping deve abordar desde a guerra no Ir\xE3\
@@ -10,8 +19,7 @@
   title: "Trump chega \xE0 China pela primeira vez em quase uma d\xE9cada. Veja os\
     \ principais temas da visita"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-05-13T13:26:51+00:00'
   description: "Rendimentos no Imposto de Renda 2026 influenciam a obrigatoriedade\
     \ e o c\xE1lculo do imposto devido"
@@ -20,7 +28,7 @@
   title: "Rendimentos no Imposto de Renda 2026: o que \xE9 considerado tribut\xE1\
     vel e n\xE3o tribut\xE1vel?"
 - author: "Economia \u2013 InvestNews"
-  categories: *id001
+  categories: *id002
   date: '2026-05-12T20:17:34+00:00'
   description: "A Uni\xE3o Europeia atualizou a lista de pa\xEDses que cumprem suas\
     \ normas sobre o uso de antimicrobianos em animais destinados \xE0 produ\xE7\xE3\
@@ -29,15 +37,6 @@
   path: https://investnews.com.br/economia/brasil-e-excluido-da-lista-da-uniao-europeia-para-exportacao-de-carnes/
   title: "Brasil \xE9 exclu\xEDdo da lista da Uni\xE3o Europeia para venda de carnes\
     \ para o bloco"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id002
-  date: '2026-05-12T18:53:36+00:00'
-  description: "Apesar de ser uma declara\xE7\xE3o ligada ao MEI, a DASN-SIMEI tamb\xE9\
-    m impacta o IR 2026 da pessoa f\xEDsica"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/declaracao-mei-ir-2026/
-  title: "Prazo da declara\xE7\xE3o anual do MEI acaba em 31 de maio; veja como isso\
-    \ afeta o IR 2026"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
