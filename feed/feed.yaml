@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-15T18:54:24.867197'
+  date: '2026-05-15T20:42:35.222350'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-15T18:54:24.867193'
+  date: '2026-05-15T20:42:35.222345'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-15T18:54:24.867188'
+  date: '2026-05-15T20:42:35.222341'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -145,7 +145,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-15T18:54:24.867177'
+  date: '2026-05-15T20:42:35.222329'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -430,8 +430,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-05-15T20:42:33+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
+- author: The Overshoot
+  categories: &id002
+  - Macro
+  - Newsletters
+  date: '2026-05-15T19:40:39+00:00'
+  description: The latest data show that the increase in energy prices since the start
+    of the conflict with Iran has done relatively little to improve the finances of
+    the Russian government or its military industry.
+  image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
+  path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
+  title: Russia's Underwhelming Oil Revenue Windfall
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-05-15T16:25:11+00:00'
@@ -440,7 +462,7 @@
   path: https://www.youtube.com/shorts/VIE2Ri2DQJg
   title: Why Fitbit Air Could Be Huge
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -464,17 +486,6 @@
   image: https://i3.ytimg.com/vi/F5Av5yDGSQs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=F5Av5yDGSQs
   title: "Your Python Class Is a God Object (Here\u2019s How to Fix It)"
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-05-14T19:00:26+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-05-14T12:00:00+00:00'
@@ -503,9 +514,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/05/do-job-postings-show-early-labor-market-effects-of-ai/
   title: Do Job Postings Show Early Labor&#8209;Market Effects of AI?
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id002
   date: '2026-05-14T00:33:19+00:00'
   description: 'Wage growth is now accelerating slightly, supporting the quickening
     of "supercore" service price increases. Plus: more on the health care wage slowdown
@@ -514,7 +523,7 @@
   path: https://theovershoot.co/p/the-us-job-market-is-still-inflationary
   title: The U.S. Job Market is (Still) Inflationary
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-05-14T00:00:00+00:00'
   description: "BAIXE O RELAT\xD3RIO COMPLETO: https://lp.mmakers.com.br/report-oceanpact?xpromo=MI-OPT01-YT-20260514-DESCRICAOEPISODIOOPT-MM-XPetrobras\
@@ -547,7 +556,7 @@
   path: https://open.spotify.com/episode/7wD7WqpGuWZj7BwCNKP0RH
   title: "#361 | PETROBRAS, OFFSHORE E O FUTURO DO PETR\xD3LEO (A TESE DE OCEANPACT)"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-05-14T00:00:00+00:00'
   description: "O \xE1udio atribu\xEDdo a Fl\xE1vio Bolsonaro para Daniel Vorcaro\
     \ colocou no centro da discuss\xE3o uma combina\xE7\xE3o explosiva: Banco Master,\
@@ -602,7 +611,7 @@
   path: https://open.spotify.com/episode/6MZGl20oXcd9eScZG9Lvg6
   title: "Kevin Warsh\u2019s revolution at the Fed"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-05-13T20:53:07+00:00'
   description: 'Everything we know so far about Android 17, Gemini Intelligence and
     Googlebooks
@@ -628,7 +637,7 @@
   path: https://www.youtube.com/watch?v=eFeDpUVEy48
   title: "\u201CThe Biggest Android Update Ever\u201D"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-05-13T00:14:49+00:00'
   description: "<p>NOVA YORK \u2014 O Brasil vem seduzindo os investidores internacionais.\
@@ -643,7 +652,7 @@
   path: https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/
   title: 'Brazil Week: O Brasil de Eduardo Leite e Romeu Zema'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-05-12T13:01:31+00:00'
   description: "<p>NOVA YORK \u2013 O governo do Rio Grande do Sul acaba de lan\xE7\
     ar um fundo estrat\xE9gico bilion\xE1rio para financiar setores considerados priorit\xE1\
@@ -658,7 +667,7 @@
   path: https://braziljournal.com/o-fundo-gaucho-para-trocar-a-guerra-fiscal-por-capital-estrategico/
   title: "O fundo ga\xFAcho para trocar a guerra fiscal por capital estrat\xE9gico"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-05-12T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 186 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -708,7 +717,7 @@
   path: https://open.spotify.com/episode/3OuFGte7CMrX6NKCewxtS2
   title: "John Gu \u2013 Crypto Market Making & The Cold Start Problem (S7E30)"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-05-08T15:00:27+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
@@ -726,7 +735,7 @@
   path: https://www.youtube.com/watch?v=GmlZBdKhl9Y
   title: DRY Often Makes Your Code Worse
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-05-05T00:00:00+00:00'
   description: "A edi\xE7\xE3o 185 comemora os seis anos do Outliers InfoMoney e marca\
     \ uma nova fase.Clara Sodr\xE9 e Fabiano Cintra apresentam o novo est\xFAdio do\
@@ -771,14 +780,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Qf-j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e46b9ca-15fd-4240-b289-33ab42c66d27_2886x1843.png
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
-- author: The Overshoot
-  categories: *id007
-  date: '2026-05-02T00:45:27+00:00'
-  description: There is much less than meets the eye, although the official numbers
-    may also be undercounting some of what is happening.
-  image: https://substackcdn.com/image/fetch/$s_!Z5Uq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0d1a2df3-df38-4755-afb4-a9c4292499df_3200x3030.png
-  path: https://theovershoot.co/p/the-growth-impulse-from-the-data
-  title: The Growth Impulse from the Data Center Boom
 - author: The View From Apollo
   categories:
   - Podcasts
