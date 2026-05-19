@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T01:23:05.246739'
+  date: '2026-05-19T02:20:21.231496'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T01:23:05.246735'
+  date: '2026-05-19T02:20:21.231492'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T01:23:05.246725'
+  date: '2026-05-19T02:20:21.231488'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -145,7 +145,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T01:23:05.246714'
+  date: '2026-05-19T02:20:21.231477'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -509,6 +509,15 @@
   image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2026-05-15T16:25:11+00:00'
+  description: Everyone's talking about the Fitbit Air
+  image: https://i3.ytimg.com/vi/VIE2Ri2DQJg/hqdefault.jpg
+  path: https://www.youtube.com/shorts/VIE2Ri2DQJg
+  title: Why Fitbit Air Could Be Huge
 - author: The Overshoot
   categories: *id002
   date: '2026-05-14T00:33:19+00:00'
@@ -570,8 +579,34 @@
   image: https://i.scdn.co/image/ab6765630000ba8a95063a769061b3b55a00f17b
   path: https://open.spotify.com/episode/6MZGl20oXcd9eScZG9Lvg6
   title: "Kevin Warsh\u2019s revolution at the Fed"
+- author: Marques Brownlee
+  categories: *id004
+  date: '2026-05-13T20:53:07+00:00'
+  description: 'Everything we know so far about Android 17, Gemini Intelligence and
+    Googlebooks
+
+
+    Phone camera processing: https://youtu.be/coX4duwUCpw
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/eFeDpUVEy48/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eFeDpUVEy48
+  title: "\u201CThe Biggest Android Update Ever\u201D"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-05-13T00:14:49+00:00'
   description: "<p>NOVA YORK \u2014 O Brasil vem seduzindo os investidores internacionais.\
@@ -586,7 +621,7 @@
   path: https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/
   title: 'Brazil Week: O Brasil de Eduardo Leite e Romeu Zema'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-05-12T13:01:31+00:00'
   description: "<p>NOVA YORK \u2013 O governo do Rio Grande do Sul acaba de lan\xE7\
     ar um fundo estrat\xE9gico bilion\xE1rio para financiar setores considerados priorit\xE1\
@@ -601,7 +636,7 @@
   path: https://braziljournal.com/o-fundo-gaucho-para-trocar-a-guerra-fiscal-por-capital-estrategico/
   title: "O fundo ga\xFAcho para trocar a guerra fiscal por capital estrat\xE9gico"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-05-12T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 186 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -651,7 +686,7 @@
   path: https://open.spotify.com/episode/3OuFGte7CMrX6NKCewxtS2
   title: "John Gu \u2013 Crypto Market Making & The Cold Start Problem (S7E30)"
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-05-05T00:00:00+00:00'
   description: "A edi\xE7\xE3o 185 comemora os seis anos do Outliers InfoMoney e marca\
     \ uma nova fase.Clara Sodr\xE9 e Fabiano Cintra apresentam o novo est\xFAdio do\
@@ -687,7 +722,7 @@
   title: "Retrospectiva: o que o pa\xEDs precisa fazer ap\xF3s as elei\xE7\xF5es |\
     \ Outliers InfoMoney #185"
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -716,7 +751,7 @@
   path: https://open.spotify.com/episode/06g67kq7vyAC00WaMg4yPR
   title: Finding Opportunity in a Converging Credit Market
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id007
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -725,7 +760,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id007
+  categories: &id008
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -741,7 +776,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id007
+  categories: *id008
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
