@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T21:50:14.939595'
+  date: '2026-05-20T01:24:22.466547'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T21:50:14.939585'
+  date: '2026-05-20T01:24:22.466543'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T21:50:14.939580'
+  date: '2026-05-20T01:24:22.466538'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -145,7 +145,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-19T21:50:14.939568'
+  date: '2026-05-20T01:24:22.466526'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -469,7 +469,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/carbon-beta-market-based-measure
   title: 'Carbon Beta: A Market-Based Measure of Climate Transition Risk Exposure'
 - author: Outliers
-  categories: &id006
+  categories: &id005
   - Podcasts
   date: '2026-05-19T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -545,40 +545,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
-- author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
-  date: '2026-05-15T16:25:11+00:00'
-  description: Everyone's talking about the Fitbit Air
-  image: https://i3.ytimg.com/vi/VIE2Ri2DQJg/hqdefault.jpg
-  path: https://www.youtube.com/shorts/VIE2Ri2DQJg
-  title: Why Fitbit Air Could Be Huge
-- author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
-  date: '2026-05-15T15:00:33+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nThis class looks clean\u2026\
-    \ until it quietly turns into a God object.\n\nIn this video, I refactor a real\
-    \ Python example step by step, showing how one class slowly takes on too many\
-    \ responsibilities. From validation to data processing to model training. Then\
-    \ I break it apart into smaller, clearer pieces and introduce a simple rule of\
-    \ thumb for deciding what belongs in a class and what doesn\u2019t.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2026/god.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n1:54 The Starting Point\n4:10 Step 1: Move\
-    \ Validation Close to the Data\n6:54 Step 2: Split Loading and Cleaning\n8:02\
-    \ Step 3: Split Feature Preparation Into Smaller Steps\n9:06 Step 4: Move the\
-    \ Remaining Workflow Out of the Class\n11:28 Step 5: Keep the Class for What It\u2019\
-    s Good At\n12:13 Why This Refactor Works\n14:37 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/F5Av5yDGSQs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=F5Av5yDGSQs
-  title: "Let\u2019s Fix Bloated Python Classes Once and For All"
 - author: The Overshoot
   categories: *id002
   date: '2026-05-14T00:33:19+00:00'
@@ -640,34 +606,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a95063a769061b3b55a00f17b
   path: https://open.spotify.com/episode/6MZGl20oXcd9eScZG9Lvg6
   title: "Kevin Warsh\u2019s revolution at the Fed"
-- author: Marques Brownlee
-  categories: *id004
-  date: '2026-05-13T20:53:07+00:00'
-  description: 'Everything we know so far about Android 17, Gemini Intelligence and
-    Googlebooks
-
-
-    Phone camera processing: https://youtu.be/coX4duwUCpw
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/eFeDpUVEy48/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=eFeDpUVEy48
-  title: "\u201CThe Biggest Android Update Ever\u201D"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id004
   - Economia
   date: '2026-05-13T00:14:49+00:00'
   description: "<p>NOVA YORK \u2014 O Brasil vem seduzindo os investidores internacionais.\
@@ -682,7 +622,7 @@
   path: https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/
   title: 'Brazil Week: O Brasil de Eduardo Leite e Romeu Zema'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id004
   date: '2026-05-12T13:01:31+00:00'
   description: "<p>NOVA YORK \u2013 O governo do Rio Grande do Sul acaba de lan\xE7\
     ar um fundo estrat\xE9gico bilion\xE1rio para financiar setores considerados priorit\xE1\
@@ -697,7 +637,7 @@
   path: https://braziljournal.com/o-fundo-gaucho-para-trocar-a-guerra-fiscal-por-capital-estrategico/
   title: "O fundo ga\xFAcho para trocar a guerra fiscal por capital estrat\xE9gico"
 - author: Outliers
-  categories: *id006
+  categories: *id005
   date: '2026-05-12T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 186 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com Renato Jerusalmi, s\xF3cio da Riza Asset, gestora de recursos\
@@ -745,26 +685,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac7b3df5e36a0de2627c8409c
   path: https://open.spotify.com/episode/3OuFGte7CMrX6NKCewxtS2
   title: "John Gu \u2013 Crypto Market Making & The Cold Start Problem (S7E30)"
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-05-08T15:00:27+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
-    \ a \u201Cclean\u201D DRY refactor can actually make your code worse. Instead\
-    \ of improving the design, it introduces hidden complexity, confusing flags, and\
-    \ harder-to-understand behavior. Then we refactor it again, this time focusing\
-    \ on behavior and responsibilities, not just code shape.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2026/dry.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
-    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:30 The Bad Refactor First\n3:58 What This Teaches About\
-    \ DRY\n4:48 A Better Refactor\n10:24 Some Duplication Is Actually Good\n11:21\
-    \ Quick Guidelines\n12:36 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GmlZBdKhl9Y/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GmlZBdKhl9Y
-  title: DRY Often Makes Your Code Worse
 - author: Apricitas Economics
-  categories: &id008
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -774,7 +696,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Apricitas Economics
-  categories: *id008
+  categories: *id006
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -783,7 +705,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id009
+  categories: &id007
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -799,7 +721,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id009
+  categories: *id007
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
