@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-21T13:27:42.763816'
+  date: '2026-05-21T14:26:03.740349'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-21T13:27:42.763812'
+  date: '2026-05-21T14:26:03.740345'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-21T13:27:42.763808'
+  date: '2026-05-21T14:26:03.740341'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-21T13:27:42.763795'
+  date: '2026-05-21T14:26:03.740330'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,14 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2026-05-21T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/alpha-in-capabilities-you-do-not-see
+  title: "Alpha is in the Capabilities You Don\u2019t See"
 - author: AQR
   categories:
   - Quant
@@ -427,8 +435,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: CFA Institute Research and Policy Center
-  categories: &id001
-  - CFA
+  categories: *id001
   date: '2026-05-20T12:00:00+00:00'
   description: 'How can investment professionals improve decision-making in increasingly
     complex and uncertain markets? <br />
@@ -508,13 +515,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a7ebc0f93dbe00eb44c0d53a3
   path: https://open.spotify.com/episode/1QacUakU1AEhQqaHOvvR9w
   title: "#363 | A VERDADE POR TR\xC1S DA PESQUISA QUE DERRUBOU FL\xC1VIO BOLSONARO"
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-05-19T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/carbon-beta-market-based-measure
-  title: 'Carbon Beta: A Market-Based Measure of Climate Transition Risk Exposure'
 - author: Outliers
   categories: &id006
   - Podcasts
