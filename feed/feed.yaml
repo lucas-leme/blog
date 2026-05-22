@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-22T14:20:43.425225'
+  date: '2026-05-22T15:42:24.863167'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-22T14:20:43.425222'
+  date: '2026-05-22T15:42:24.863163'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-22T14:20:43.425217'
+  date: '2026-05-22T15:42:24.863158'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-22T14:20:43.425206'
+  date: '2026-05-22T15:42:24.863147'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,26 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-05-22T15:00:19+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nI\u2019m done with the AI\
+    \ hype.\n\nIn this video, I explain why I think a lot of the current discussion\
+    \ around AI in software development is missing the point. Writing code is only\
+    \ a small part of what developers actually do. Design, responsibility, trade-offs,\
+    \ and understanding systems matter far more, especially in real-world environments\
+    \ where mistakes are expensive.\n\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:58 What is software development?\n4:23 Future\n5:17 Fundamentals\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/H9KeR9i3iMk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=H9KeR9i3iMk
+  title: "I\u2019m done with the AI hype"
 - author: AQR
   categories:
   - Quant
@@ -427,7 +447,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id006
   - Economia
   date: '2026-05-21T21:04:46+00:00'
   description: "<p>Harvard acaba de aprovar uma medida dr\xE1stica para conter a \u201C\
@@ -585,7 +605,7 @@
   path: https://open.spotify.com/episode/1QacUakU1AEhQqaHOvvR9w
   title: "#363 | A VERDADE POR TR\xC1S DA PESQUISA QUE DERRUBOU FL\xC1VIO BOLSONARO"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-05-19T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
@@ -619,7 +639,7 @@
   title: 'Private Market Secondaries: The $225 Billion Market Many Wealth Investors
     Overlook'
 - author: The Overshoot
-  categories: &id003
+  categories: &id004
   - Macro
   - Newsletters
   date: '2026-05-15T19:40:39+00:00'
@@ -630,7 +650,7 @@
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-05-15T16:25:11+00:00'
@@ -639,10 +659,7 @@
   path: https://www.youtube.com/shorts/VIE2Ri2DQJg
   title: Why Fitbit Air Could Be Huge
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2026-05-15T15:00:33+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nThis class looks clean\u2026\
@@ -664,7 +681,7 @@
   path: https://www.youtube.com/watch?v=F5Av5yDGSQs
   title: "Let\u2019s Fix Bloated Python Classes Once and For All"
 - author: The Overshoot
-  categories: *id003
+  categories: *id004
   date: '2026-05-14T00:33:19+00:00'
   description: 'Wage growth is now accelerating slightly, supporting the quickening
     of "supercore" service price increases. Plus: more on the health care wage slowdown
@@ -673,7 +690,7 @@
   path: https://theovershoot.co/p/the-us-job-market-is-still-inflationary
   title: The U.S. Job Market is (Still) Inflationary
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-05-13T20:53:07+00:00'
   description: 'Everything we know so far about Android 17, Gemini Intelligence and
     Googlebooks
@@ -699,7 +716,7 @@
   path: https://www.youtube.com/watch?v=eFeDpUVEy48
   title: "\u201CThe Biggest Android Update Ever\u201D"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id005
+  categories: *id006
   date: '2026-05-13T00:14:49+00:00'
   description: "<p>NOVA YORK \u2014 O Brasil vem seduzindo os investidores internacionais.\
     \ O problema: a maioria est\xE1 mais interessada no segundo maior juro real do\
@@ -713,7 +730,7 @@
   path: https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/
   title: 'Brazil Week: O Brasil de Eduardo Leite e Romeu Zema'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-05-12T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 186 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com Renato Jerusalmi, s\xF3cio da Riza Asset, gestora de recursos\
@@ -761,24 +778,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac7b3df5e36a0de2627c8409c
   path: https://open.spotify.com/episode/3OuFGte7CMrX6NKCewxtS2
   title: "John Gu \u2013 Crypto Market Making & The Cold Start Problem (S7E30)"
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-05-08T15:00:27+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I show how\
-    \ a \u201Cclean\u201D DRY refactor can actually make your code worse. Instead\
-    \ of improving the design, it introduces hidden complexity, confusing flags, and\
-    \ harder-to-understand behavior. Then we refactor it again, this time focusing\
-    \ on behavior and responsibilities, not just code shape.\n\n\U0001F525 GitHub\
-    \ Repository: https://git.arjan.codes/2026/dry.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
-    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n0:30 The Bad Refactor First\n3:58 What This Teaches About\
-    \ DRY\n4:48 A Better Refactor\n10:24 Some Duplication Is Actually Good\n11:21\
-    \ Quick Guidelines\n12:36 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/GmlZBdKhl9Y/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=GmlZBdKhl9Y
-  title: DRY Often Makes Your Code Worse
 - author: Apricitas Economics
   categories: &id008
   - Macro
