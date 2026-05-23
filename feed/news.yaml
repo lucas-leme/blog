@@ -1,25 +1,35 @@
+- author: "Economia \u2013 InvestNews"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-05-23T09:03:00+00:00'
+  description: "A Copa do Mundo da FIFA provoca ansiedade em cidades de New York a\
+    \ Seattle sobre a capacidade de entregar o prometido impulso econ\xF4mico. Em\
+    \ Miami, n\xE3o \xE9 bem assim. No sul da Fl\xF3rida, onde vive o astro argentino\
+    \ Lionel Messi, organizadores do torneio dizem que n\xE3o ter\xE3o dificuldade\
+    \ para atrair p\xFAblico ao Hard Rock [&#8230;]"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/miami-vira-excecao-e-surfa-na-febre-da-copa-do-mundo-nos-eua/
+  title: "Miami vira exce\xE7\xE3o e surfa na febre da Copa do Mundo nos EUA"
 - author: "Finan\xE7as \u2013 InvestNews"
   categories: &id001
   - "Not\xEDcias"
+  date: '2026-05-23T09:01:00+00:00'
+  description: "Contribuinte obrigado a declarar deve informar im\xF3veis, terrenos\
+    \ e financiamentos na ficha \u201CBens e Direitos\u201D"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/imovel-ir2026-declaracao-imposto-de-renda/
+  title: "Tem im\xF3vel e nunca declarou no Imposto de Renda? Saiba o que fazer a\
+    \ partir de agora"
+- author: "Finan\xE7as \u2013 InvestNews"
+  categories: *id001
   date: '2026-05-22T17:41:52+00:00'
   description: "Restitui\xE7\xE3o do IR 2026 segue data de entrega da declara\xE7\xE3\
     o e crit\xE9rios de prioridade"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/restituicao-do-ir-quando-lote-receber/
   title: "Restitui\xE7\xE3o do IR: como saber em qual lote vou receber?"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2026-05-22T17:30:53+00:00'
-  description: "Com tecnologia j\xE1 representando mais de 44% do S&#038;P 500, gestores\
-    \ enfrentam dificuldade crescente para replicar o \xEDndice sem ampliar riscos\
-    \ nas carteiras"
-  image: https://media.investnews.com.br/uploads/2022/10/space.jpg
-  path: https://investnews.com.br/financas/mega-ipos-podem-recriar-bolha-dos-anos-1920-e-o-que-diz-o-bank-of-america/
-  title: "Mega IPOs, como o da SpaceX, podem criar uma bolha equivalente \xE0 de 1929,\
-    \ diz o Bank of America"
 - author: "Economia \u2013 InvestNews"
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-05-21T14:22:27+00:00'
   description: "Pressionados por queda das commodities e cr\xE9dito restrito, agricultores\
     \ agora enfrentam nova disparada dos fertilizantes \xE0s v\xE9speras da pr\xF3\
@@ -29,7 +39,7 @@
   title: "Guerra no Ir\xE3 eleva custo dos fertilizantes e amea\xE7a produ\xE7\xE3\
     o global de alimentos"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -68,7 +78,7 @@
   path: https://www.reddit.com/r/CFA/comments/1tj92q7/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id002
+  categories: *id003
   date: '2026-05-19T18:37:56+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L2 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -87,12 +97,3 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1thw149/level_2_exam_day_megathread/
   title: Level 2 Exam Day Megathread
-- author: "Economia \u2013 InvestNews"
-  categories: *id003
-  date: '2026-05-19T16:19:44+00:00'
-  description: "Banco projeta alta de 4,7% no consumo varejista em dias de jogo e\
-    \ prev\xEA impacto ainda maior do que nas edi\xE7\xF5es anteriores"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/inflacao-mais-baixa-e-partidas-a-noite-o-efeito-jogo-para-o-varejo-na-copa-do-mundo/
-  title: "Infla\xE7\xE3o mais baixa e partidas \xE0 noite: o \u2018efeito jogo\u2019\
-    \ para o varejo na Copa do Mundo"
