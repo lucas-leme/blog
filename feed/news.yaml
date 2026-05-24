@@ -1,6 +1,24 @@
 - author: "Economia \u2013 InvestNews"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-05-24T11:32:30+00:00'
+  description: "Acordo preveria extens\xE3o de 60 dias do cessar-fogo e liberdade\
+    \ para o Ir\xE3 vender petr\xF3leo, mas iranianos ainda adotam cautela"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/trump-acordo-ira-ormuz-petroleo/
+  title: "Trump diz que acordo com o Ir\xE3 est\xE1 perto e abre caminho para reabertura\
+    \ de Ormuz"
+- author: "Finan\xE7as \u2013 InvestNews"
   categories: &id002
   - "Not\xEDcias"
+  date: '2026-05-24T09:00:00+00:00'
+  description: Prazo para entrega do Imposto de Renda 2026 termina em 29 de maio
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/prazo-ir-2026-imposto-de-renda-sexta-29/
+  title: "Reta final do IR 2026: tudo que voc\xEA precisa para entregar sua declara\xE7\
+    \xE3o"
+- author: "Economia \u2013 InvestNews"
+  categories: *id001
   date: '2026-05-23T09:03:00+00:00'
   description: "A Copa do Mundo da FIFA provoca ansiedade em cidades de New York a\
     \ Seattle sobre a capacidade de entregar o prometido impulso econ\xF4mico. Em\
@@ -12,8 +30,7 @@
   title: "Miami evita decep\xE7\xE3o econ\xF4mica e turismo ganha for\xE7a \xE0s v\xE9\
     speras da Copa do Mundo"
 - author: "Finan\xE7as \u2013 InvestNews"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-05-23T09:01:00+00:00'
   description: "Contribuinte obrigado a declarar deve informar im\xF3veis, terrenos\
     \ e financiamentos na ficha \u201CBens e Direitos\u201D"
@@ -21,24 +38,6 @@
   path: https://investnews.com.br/financas/imovel-ir2026-declaracao-imposto-de-renda/
   title: "Tem im\xF3vel e nunca declarou no Imposto de Renda? Saiba o que fazer a\
     \ partir de agora"
-- author: "Finan\xE7as \u2013 InvestNews"
-  categories: *id001
-  date: '2026-05-22T17:41:52+00:00'
-  description: "Restitui\xE7\xE3o do IR 2026 segue data de entrega da declara\xE7\xE3\
-    o e crit\xE9rios de prioridade"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/restituicao-do-ir-quando-lote-receber/
-  title: "Restitui\xE7\xE3o do IR: como saber em qual lote vou receber?"
-- author: "Economia \u2013 InvestNews"
-  categories: *id002
-  date: '2026-05-21T14:22:27+00:00'
-  description: "Pressionados por queda das commodities e cr\xE9dito restrito, agricultores\
-    \ agora enfrentam nova disparada dos fertilizantes \xE0s v\xE9speras da pr\xF3\
-    xima safra"
-  image: https://media.investnews.com.br/uploads/2026/03/in-ilustra-fertilizantes.jpg
-  path: https://investnews.com.br/economia/guerra-no-ira-eleva-custo-dos-fertilizantes-e-ameaca-producao-global-de-alimentos/
-  title: "Guerra no Ir\xE3 eleva custo dos fertilizantes e amea\xE7a produ\xE7\xE3\
-    o global de alimentos"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
