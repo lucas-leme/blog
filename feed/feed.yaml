@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-26T13:23:18.965727'
+  date: '2026-05-26T14:23:42.324171'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-26T13:23:18.965724'
+  date: '2026-05-26T14:23:42.324167'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-26T13:23:18.965719'
+  date: '2026-05-26T14:23:42.324162'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-26T13:23:18.965707'
+  date: '2026-05-26T14:23:42.324151'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: Marques Brownlee
+  categories: &id001
+  - Tech
+  - Youtube
+  date: '2026-05-26T13:49:28+00:00'
+  description: 'Is the Fitbit Air the true Whoop 5.0 killer?
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Fitbit Air: https://geni.us/W24DGJY (affiliate link)
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Fitbit provided by Google for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/9GSDvO0LFFE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=9GSDvO0LFFE
+  title: 'Fitbit Air: The Truth About the "Whoop Killer"'
 - author: AQR
   categories:
   - Quant
@@ -426,6 +456,14 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2026-05-26T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/legal-rights-should-not-sit-in-investment-function
+  title: "Why Legal Rights Shouldn\u2019t Sit Within the Investment Function"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -448,16 +486,14 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/05/assessing-the-current-state-of-wage-inflation/
   title: Assessing the Current State of Wage Inflation
 - author: Marques Brownlee
-  categories: &id003
-  - Tech
-  - Youtube
+  categories: *id001
   date: '2026-05-25T20:10:36+00:00'
   description: Ferrari Luce
   image: https://i4.ytimg.com/vi/OPOS0tre9eQ/hqdefault.jpg
   path: https://www.youtube.com/shorts/OPOS0tre9eQ
   title: Ferrari's Electric Car Looks Like...
 - author: Market Makers
-  categories: &id001
+  categories: &id003
   - Podcasts
   date: '2026-05-24T00:00:00+00:00'
   description: "SAIBA MAIS SOBRE O SNEL11: https://api.whatsapp.com/send/?phone=5511950297116&amp;text=ENTRAR+NA+COMUNIDADEO\
@@ -524,15 +560,14 @@
   path: https://braziljournal.com/tirar-um-10-em-harvard-acaba-de-ficar-mais-dificil/
   title: "Tirar um 10 em Harvard acaba de ficar mais dif\xEDcil"
 - author: CFA Institute Research and Policy Center
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-05-21T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/alpha-in-capabilities-you-do-not-see
   title: "Alpha is in the Capabilities You Don\u2019t See"
 - author: Market Makers
-  categories: *id001
+  categories: *id003
   date: '2026-05-21T00:00:00+00:00'
   description: "O mercado financeiro errou a conta sobre o governo Lula \u2014 ou\
     \ simplesmente n\xE3o quis acertar?Fernando Haddad, ex-ministro da Fazenda, apresenta\
@@ -586,20 +621,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a93bc57fc1dfecf6d58f7559a
   path: https://open.spotify.com/episode/4SNnenQDhBKxWzePdZ7kIf
   title: "Can anything stop South Korea\u2019s bull run?"
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-05-20T12:00:00+00:00'
-  description: 'How can investment professionals improve decision-making in increasingly
-    complex and uncertain markets? <br />
-
-    <br />
-
-    In this episode of Conversations with Frank Fabozzi, CFA, Susan Brake offers practical
-    perspectives on the total portfolio approach, governance, and the evolving role
-    of AI in investment decision-making.'
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-sue-brake
-  title: Conversations with Frank Fabozzi, CFA, Featuring Sue Brake
 - author: Outliers
   categories: &id007
   - Podcasts
@@ -645,13 +666,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
-- author: Marques Brownlee
-  categories: *id003
-  date: '2026-05-15T16:25:11+00:00'
-  description: Everyone's talking about the Fitbit Air
-  image: https://i3.ytimg.com/vi/VIE2Ri2DQJg/hqdefault.jpg
-  path: https://www.youtube.com/shorts/VIE2Ri2DQJg
-  title: Why Fitbit Air Could Be Huge
 - author: ArjanCodes
   categories: *id004
   date: '2026-05-15T15:00:33+00:00'
