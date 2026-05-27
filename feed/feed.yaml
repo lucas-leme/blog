@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-27T16:06:43.851534'
+  date: '2026-05-27T19:07:31.940612'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-27T16:06:43.851530'
+  date: '2026-05-27T19:07:31.940609'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-27T16:06:43.851526'
+  date: '2026-05-27T19:07:31.940604'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-27T16:06:43.851516'
+  date: '2026-05-27T19:07:31.940592'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-05-27T14:30:00+00:00'
+  description: Current discussions regarding a bifurcated U.S. economy highlight the
+    increasing economic divide between lower- and higher-income Americans in spending
+    and earnings growth and wealth accumulation. While many households are doing fine
+    and economic activity overall has been expanding at a solid pace, large segments
+    of the population are facing high levels of economic insecurity and financial
+    strain, and consumer sentiment on the whole has dropped to low levels. In this
+    post, we use newly collected data from the Survey of Consumer Expectations (SCE)
+    to update <a href="https://libertystreeteconomics.newyorkfed.org/2020/08/the-disproportionate-effects-of-covid-19-on-households-with-children/">our
+    2020 analysis of disproportionate financial hardship experienced during the early
+    pandemic</a> and to investigate recent changes in food insecurity and broader
+    economic strains. We then examine how food insecurity relates to the increase
+    in consumer pessimism. We find a remarkable increase in food insecurity, particularly
+    among lower-educated and lower-income households and households with young children.
+    We document a contemporaneous increase in pessimism among the same groups, along
+    with a sharp decline in job-finding expectations.<br />
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/05/food-insecurity-and-consumer-pessimism/
+  title: Food Insecurity and Consumer Pessimism
 - author: AQR
   categories:
   - Quant
@@ -426,8 +450,16 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Marques Brownlee
+- author: CFA Institute Research and Policy Center
   categories: &id001
+  - CFA
+  date: '2026-05-27T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/muni-call-risk
+  title: 'Muni Call Risk: Why Similar Bonds Behave Differently'
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2026-05-26T13:49:28+00:00'
@@ -439,36 +471,14 @@
   path: https://www.youtube.com/watch?v=9GSDvO0LFFE
   title: The Truth About the "Whoop Killer"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id001
   date: '2026-05-26T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/legal-rights-should-not-sit-in-investment-function
   title: "Why Legal Rights Shouldn\u2019t Sit Within the Investment Function"
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-05-26T11:00:00+00:00'
-  description: "Economists often look at nominal wage growth to gauge labor market\
-    \ imbalances, price pressures, and households\u2019 spending ability. But to use\
-    \ wage growth for these purposes, it is important to look through short-run fluctuations\
-    \ and retrieve underlying wage inflation. In this post, we use our own measure\
-    \ of wage growth persistence\u2014called Trend Wage Inflation (TWIn in short)\u2014\
-    to summarize what we learned from wage growth behavior in the past years and draw\
-    \ conclusions for what may lie ahead. Since peaking in late 2021, TWIn has been\
-    \ on a steady decline, reaching levels near those of the 2017-19 period. In the\
-    \ past few months, however, this decline seems to have lost momentum. Our analysis\
-    \ shows that most of the decline in TWIn between 2022 and 2025 was common across\
-    \ industries. Recently, however, a few sectors have shown a decoupling of wage\
-    \ growth dynamics.<br />"
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/05/assessing-the-current-state-of-wage-inflation/
-  title: Assessing the Current State of Wage Inflation
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-05-26T00:00:00+00:00'
   description: "A poupan\xE7a est\xE1 com os dias contados \u2014 e ningu\xE9m est\xE1\
@@ -529,14 +539,14 @@
   title: "Blue Owl: corrida no private credit n\xE3o \xE9 baseada em fundamentos |\
     \ Outliers InfoMoney #187"
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2026-05-25T20:10:36+00:00'
   description: Ferrari Luce
   image: https://i4.ytimg.com/vi/OPOS0tre9eQ/hqdefault.jpg
   path: https://www.youtube.com/shorts/OPOS0tre9eQ
   title: Ferrari's Electric Car Looks Like...
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-05-24T00:00:00+00:00'
   description: "SAIBA MAIS SOBRE O SNEL11: https://api.whatsapp.com/send/?phone=5511950297116&amp;text=ENTRAR+NA+COMUNIDADEO\
     \ Brasil tem mais sol do que quase qualquer pot\xEAncia mundial em energia solar\
@@ -601,13 +611,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/tirar-um-10-em-harvard-acaba-de-ficar-mais-dificil/
   title: "Tirar um 10 em Harvard acaba de ficar mais dif\xEDcil"
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-05-21T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/alpha-in-capabilities-you-do-not-see
-  title: "Alpha is in the Capabilities You Don\u2019t See"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
