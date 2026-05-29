@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T14:25:42.463888'
+  date: '2026-05-29T16:05:07.276284'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T14:25:42.463884'
+  date: '2026-05-29T16:05:07.276280'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T14:25:42.463878'
+  date: '2026-05-29T16:05:07.276275'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T14:25:42.463848'
+  date: '2026-05-29T16:05:07.276264'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-05-29T15:00:15+00:00'
+  description: "\U0001F9D1\U0001F3FB\u200D\U0001F4BB Take your personal data back\
+    \ with Incogni! Use code ARJANCODES and get 60% off an annual plan: https://incogni.com/arjancodes\n\
+    \nIn this video, I show how to add webhooks to a FastAPI application, and then\
+    \ take it one step further with a cleaner, event-driven design. Instead of tightly\
+    \ coupling your endpoints to integrations, you\u2019ll learn how to decouple side\
+    \ effects using events, making your API more flexible and easier to extend.\n\n\
+    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/webhook.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n1:27 Simple\
+    \ Webhooks\n6:01 Incogni Sponsored Segment\n7:38 Trigger Webhooks From the Endpoint\n\
+    8:21 The Design Problem\n9:06 Introduce Events\n11:25 Refactor the Endpoint\n\
+    13:35 Move Webhooks to Listeners\n15:32 Why This Is Better\n16:17 Production Reality\
+    \ Check\n17:18 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/yc-gp3PFHEI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=yc-gp3PFHEI
+  title: Your REST API Needs Webhooks
 - author: AQR
   categories:
   - Quant
@@ -427,7 +450,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-05-29T03:55:02+00:00'
   description: "<p>A esquerda e a direita juram que s\xE3o (muito) diferentes uma\
@@ -570,7 +593,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/muni-call-risk
   title: 'Muni Call Risk: Why Similar Bonds Behave Differently'
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-05-26T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 187 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -594,10 +617,7 @@
   title: "Blue Owl: corrida no private credit n\xE3o \xE9 baseada em fundamentos |\
     \ Outliers InfoMoney #187"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-05-22T15:00:19+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery\n\nI\u2019m done with the AI\
@@ -614,7 +634,7 @@
   path: https://www.youtube.com/watch?v=H9KeR9i3iMk
   title: "I\u2019m done with the AI hype"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-05-21T21:04:46+00:00'
   description: "<p>Harvard acaba de aprovar uma medida dr\xE1stica para conter a \u201C\
     infla\xE7\xE3o\u201D de notas m\xE1ximas, impondo um limite de 20%+4 para notas\
@@ -627,7 +647,7 @@
   path: https://braziljournal.com/tirar-um-10-em-harvard-acaba-de-ficar-mais-dificil/
   title: "Tirar um 10 em Harvard acaba de ficar mais dif\xEDcil"
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-05-19T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -670,28 +690,6 @@
   image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-05-15T15:00:33+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nThis class looks clean\u2026\
-    \ until it quietly turns into a God object.\n\nIn this video, I refactor a real\
-    \ Python example step by step, showing how one class slowly takes on too many\
-    \ responsibilities. From validation to data processing to model training. Then\
-    \ I break it apart into smaller, clearer pieces and introduce a simple rule of\
-    \ thumb for deciding what belongs in a class and what doesn\u2019t.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2026/god.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n1:54 The Starting Point\n4:10 Step 1: Move\
-    \ Validation Close to the Data\n6:54 Step 2: Split Loading and Cleaning\n8:02\
-    \ Step 3: Split Feature Preparation Into Smaller Steps\n9:06 Step 4: Move the\
-    \ Remaining Workflow Out of the Class\n11:28 Step 5: Keep the Class for What It\u2019\
-    s Good At\n12:13 Why This Refactor Works\n14:37 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/F5Av5yDGSQs/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=F5Av5yDGSQs
-  title: "Let\u2019s Fix Bloated Python Classes Once and For All"
 - author: The Overshoot
   categories: *id007
   date: '2026-05-14T00:33:19+00:00'
