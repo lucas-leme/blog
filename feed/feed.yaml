@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T02:21:05.447181'
+  date: '2026-05-29T12:07:13.330221'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T02:21:05.447177'
+  date: '2026-05-29T12:07:13.330217'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T02:21:05.447172'
+  date: '2026-05-29T12:07:13.330212'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-05-29T02:21:05.447161'
+  date: '2026-05-29T12:07:13.330200'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id004
+  - Economia
+  date: '2026-05-29T03:55:02+00:00'
+  description: "<p>A esquerda e a direita juram que s\xE3o (muito) diferentes uma\
+    \ da outra \u2013 mas quando se trata de legislar um almo\xE7o gr\xE1tis com dinheiro\
+    \ dos outros, ningu\xE9m larga a m\xE3o de ningu\xE9m.\_ Com as elei\xE7\xF5es\
+    \ logo ali, a PEC que reduz a jornada de trabalho para 40 horas semanais e acaba\
+    \ com a escala [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-camara-fez-uma-farra-com-a-jornada-6x1-o-senado-pode-ser-o-adulto-na-sala/\"\
+    \ rel=\"nofollow\">A C\xE2mara fez uma farra com a jornada 6&#215;1. O Senado\
+    \ pode ser o adulto na sala\_</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-camara-fez-uma-farra-com-a-jornada-6x1-o-senado-pode-ser-o-adulto-na-sala/
+  title: "A C\xE2mara fez uma farra com a jornada 6\xD71. O Senado pode ser o adulto\
+    \ na sala"
 - author: Marques Brownlee
   categories: &id001
   - Tech
@@ -580,7 +596,7 @@
   path: https://open.spotify.com/episode/3veoiwYkxnB6CRYpfHr4Xu
   title: "#366 | O QUE N\xC3O TE CONTARAM SOBRE O MERCADO IMOBILI\xC1RIO"
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-05-26T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 187 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -604,7 +620,7 @@
   title: "Blue Owl: corrida no private credit n\xE3o \xE9 baseada em fundamentos |\
     \ Outliers InfoMoney #187"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -624,8 +640,7 @@
   path: https://www.youtube.com/watch?v=H9KeR9i3iMk
   title: "I\u2019m done with the AI hype"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id007
-  - Economia
+  categories: *id004
   date: '2026-05-21T21:04:46+00:00'
   description: "<p>Harvard acaba de aprovar uma medida dr\xE1stica para conter a \u201C\
     infla\xE7\xE3o\u201D de notas m\xE1ximas, impondo um limite de 20%+4 para notas\
@@ -638,7 +653,7 @@
   path: https://braziljournal.com/tirar-um-10-em-harvard-acaba-de-ficar-mais-dificil/
   title: "Tirar um 10 em Harvard acaba de ficar mais dif\xEDcil"
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-05-19T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -671,7 +686,7 @@
   title: 'Private Market Secondaries: The $225 Billion Market Many Wealth Investors
     Overlook'
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-05-15T19:40:39+00:00'
@@ -682,7 +697,7 @@
   path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
   title: Russia's Underwhelming Oil Revenue Windfall
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-05-15T15:00:33+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nThis class looks clean\u2026\
@@ -704,7 +719,7 @@
   path: https://www.youtube.com/watch?v=F5Av5yDGSQs
   title: "Let\u2019s Fix Bloated Python Classes Once and For All"
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-05-14T00:33:19+00:00'
   description: 'Wage growth is now accelerating slightly, supporting the quickening
     of "supercore" service price increases. Plus: more on the health care wage slowdown
@@ -712,20 +727,6 @@
   image: https://substackcdn.com/image/fetch/$s_!E2sq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4aa3b70-ae46-437d-80b1-8943c5bfd383_3205x2795.png
   path: https://theovershoot.co/p/the-us-job-market-is-still-inflationary
   title: The U.S. Job Market is (Still) Inflationary
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id007
-  date: '2026-05-13T00:14:49+00:00'
-  description: "<p>NOVA YORK \u2014 O Brasil vem seduzindo os investidores internacionais.\
-    \ O problema: a maioria est\xE1 mais interessada no segundo maior juro real do\
-    \ mundo \u2013 e n\xE3o em financiar crescimento, inova\xE7\xE3o e apostas de\
-    \ longo prazo O juro estratosf\xE9rico \xE9 o resultado direto de nossas aventuras\
-    \ fiscais e, se o pr\xF3ximo Governo n\xE3o agir, o [&#8230;]</p>\n<p>The post\
-    \ <a href=\"https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/\"\
-    \ rel=\"nofollow\">Brazil Week: O Brasil de Eduardo Leite e Romeu Zema\_</a> appeared\
-    \ first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/brazil-week-o-brasil-de-eduardo-leite-e-romeu-zema/
-  title: 'Brazil Week: O Brasil de Eduardo Leite e Romeu Zema'
 - author: Flirting with Models
   categories:
   - Podcasts
