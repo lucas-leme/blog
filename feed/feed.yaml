@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-01T12:59:00.195773'
+  date: '2026-06-01T15:38:45.250695'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-01T12:59:00.195769'
+  date: '2026-06-01T15:38:45.250692'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-01T12:59:00.195764'
+  date: '2026-06-01T15:38:45.250686'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-01T12:59:00.195753'
+  date: '2026-06-01T15:38:45.250675'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -419,13 +419,21 @@
   categories:
   - Quant
   - Papers
-  date: '2026-05-31T15:11:06+00:00'
+  date: '2026-06-01T15:38:43+00:00'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: &id004
+  - CFA
+  date: '2026-06-01T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/when-cpi-breaks-so-do-real-returns
+  title: When CPI Breaks, So Do Real Returns
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -586,8 +594,7 @@
   title: 'The Regional Side of the Story: K&#8209;Shaped Pattern in Region, Wider
     Gap in Gas Spending'
 - author: CFA Institute Research and Policy Center
-  categories: &id004
-  - CFA
+  categories: *id004
   date: '2026-05-28T12:00:00+00:00'
   description: ''
   image: null
@@ -613,13 +620,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a06421d55907d44f2858f3e95
   path: https://open.spotify.com/episode/2u2TGH6JnlxttAXxG8Lkji
   title: "Elon Musk\u2019s astronomical SpaceX bet"
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2026-05-27T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/muni-call-risk
-  title: 'Muni Call Risk: Why Similar Bonds Behave Differently'
 - author: Outliers
   categories: &id006
   - Podcasts
