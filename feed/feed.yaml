@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T12:22:14.502829'
+  date: '2026-06-02T14:50:18.453850'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T12:22:14.502824'
+  date: '2026-06-02T14:50:18.453847'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T12:22:14.502819'
+  date: '2026-06-02T14:50:18.453842'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T12:22:14.502808'
+  date: '2026-06-02T14:50:18.453831'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: &id001
+  - CFA
+  date: '2026-06-02T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/foundation/2026/evaluating-etfs-module-2
+  title: 'Module 2: Evaluating ETFs'
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-06-02T11:00:00+00:00'
+  description: We recently updated the <a href="https://www.newyorkfed.org/research/economic-heterogeneity-indicators#SM-BUS"
+    rel="noreferrer noopener" target="_blank">suite of indicators</a> describing the
+    performance of small businesses in the Second District (defined, for the purpose
+    of this study, as New York, New Jersey, and Connecticut) and nationally with data
+    from the 2025 edition of the <a href="https://www.fedsmallbusiness.org/our-data/methodology"
+    rel="noreferrer noopener" target="_blank">Small Business Credit Survey</a> (SBCS).
+    In this post, we find that regional small businesses reported severe declines
+    in employment and revenue growth in 2025 and became more pessimistic about growth
+    in 2026. In contrast, small firms in the rest of the nation enjoyed stable revenues
+    and employment in 2025 and, while they also had lower expectations of future growth,
+    the decline was smaller in magnitude. Given the importance of small businesses
+    in employment generation, analyzing such data helps to inform the design of effective
+    monetary policy and to understand trends in the regional economy.
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/06/struggling-regional-small-businesses-deeply-pessimistic-about-2026-prospects/
+  title: Struggling Regional Small Businesses Deeply Pessimistic About 2026 Prospects
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -439,33 +469,15 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-06-01T14:30:00+00:00'
-  description: "Youth unemployment has risen dramatically since the pandemic\u2014\
-    as has the prevalence of remote work. Our analysis suggests that these trends\
-    \ are related, with remote work making it more difficult for managers to train\
-    \ and mentor new employees. Accordingly, companies may be reluctant to hire less-experienced\
-    \ workers in distributed work arrangements. We estimate that remote work can explain\
-    \ 64 percent of the recent increase in unemployment among young college graduates.\
-    \ Further, the timing of this surge suggests that remote work\u2014not generative\
-    \ AI\u2014explains the bulk of the rise in youth unemployment."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/06/remote-work-leaves-younger-workers-sidelined/
-  title: Remote Work Leaves Younger Workers Sidelined
 - author: CFA Institute Research and Policy Center
-  categories: &id004
-  - CFA
+  categories: *id001
   date: '2026-06-01T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/when-cpi-breaks-so-do-real-returns
   title: When CPI Breaks, So Do Real Returns
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-05-31T09:50:36+00:00'
   description: "<p>Se um ativo oferecesse retorno anual composto entre 7% e 13%, reduzisse\
@@ -481,7 +493,7 @@
   path: https://braziljournal.com/opiniao-o-melhor-investimento-do-brasil-e-a-primeira-infancia/
   title: "OPINI\xC3O.\_O melhor investimento do Brasil \xE9 a primeira inf\xE2ncia"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-05-31T09:50:36+00:00'
   description: "<p>Em um pa\xEDs latino-americano exportador de petr\xF3leo, um governo\
     \ de esquerda tenta a reelei\xE7\xE3o contra um candidato de extrema direita.\
@@ -498,7 +510,7 @@
   title: "OPINI\xC3O.\_A Col\xF4mbia vota hoje. \xC9 um laborat\xF3rio para a elei\xE7\
     \xE3o brasileira"
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-05-31T00:00:00+00:00'
   description: "A intelig\xEAncia artificial \xE9 uma bolha ou estamos diante da pr\xF3\
@@ -539,7 +551,7 @@
   path: https://open.spotify.com/episode/6i6Mt0bjfibGm2BeYfCyKu
   title: "#368 | AS TECNOLOGIAS QUE V\xC3O MUDAR O MUNDO NA PR\xD3XIMA D\xC9CADA"
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-05-29T16:16:48+00:00'
@@ -571,7 +583,7 @@
   path: https://www.youtube.com/watch?v=yc-gp3PFHEI
   title: Your REST API Needs Webhooks
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-05-29T00:00:00+00:00'
   description: "Carteira de ETFs do Salomao liberada! Veja os ativos que comp\xF5\
     em o portfolio de crescimento patrimonial: https://lp.mmakers.com.br/vsl-cas01-pe-de-meia-do-salomao/?xpromo=MI-CAS01-YT-20260527-DESCRICAOEPISODIO-MM-X-\
@@ -581,7 +593,7 @@
   title: "NOVA CARTEIRA DO THIAGO SALOM\xC3O \xC9 REVELADA; CONFIRA OS ATIVOS E COPIE\
     \ (100% AUTOM\xC1TICO)"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-05-28T21:02:37+00:00'
   description: 'Every camera, microphone and piece of gear behind an NBA NBC playoff
     broadcast in 2026
@@ -605,13 +617,6 @@
   image: https://i2.ytimg.com/vi/mk_wdHePbtQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=mk_wdHePbtQ
   title: The Hidden Tech Behind an NBA Broadcast!
-- author: CFA Institute Research and Policy Center
-  categories: *id004
-  date: '2026-05-28T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/buy-esg-improvement-not-status
-  title: Buy ESG Improvement, Not ESG Status
 - author: Money Talks from The Economist
   categories:
   - Podcasts
