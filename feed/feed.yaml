@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T19:34:35.277554'
+  date: '2026-06-02T21:24:04.271906'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T19:34:35.277534'
+  date: '2026-06-02T21:24:04.271902'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T19:34:35.277530'
+  date: '2026-06-02T21:24:04.271896'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-02T19:34:35.277518'
+  date: '2026-06-02T21:24:04.271884'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -463,6 +463,31 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2026/06/struggling-regional-small-businesses-deeply-pessimistic-about-2026-prospects/
   title: Struggling Regional Small Businesses Deeply Pessimistic About 2026 Prospects
+- author: Outliers
+  categories: &id005
+  - Podcasts
+  date: '2026-06-02T00:00:00+00:00'
+  description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
+    \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
+    \ objetiva e descomplicada os principais movimentos do universo de investimentos.Nesta\
+    \ edi\xE7\xE3o, Clara Sodr\xE9, analista de fundos da XP, fala sobre a abertura\
+    \ de capital da SpaceX, programado para 12 de junho na Nasdaq. A empresa busca\
+    \ o maior IPO da hist\xF3ria, numa capta\xE7\xE3o recorde de US$ 75 bilh\xF5es\
+    \ que elevaria seu valor de mercado para US$ 1,75 trilh\xE3o.Uma abertura de capital\
+    \ dessa magnitude ter\xE1 impactos imediatos nos \xEDndices globais e nos fundos\
+    \ de investimento. \u201CO mercado est\xE1 chamando de super IPO n\xE3o s\xF3\
+    \ pelo tamanho, mas tamb\xE9m pelo impacto sist\xEAmico\u201D, diz Clara. \u201C\
+    A entrada em \xEDndices como Nasdaq e S&amp;P 500 ir\xE1 disparar ordens de compra,\
+    \ autom\xE1ticas, de fundos passivos, da ordem de US$ 8 bilh\xF5es a US$ 12 bilh\xF5\
+    es\u201D.Ao entrar nos \xEDndices, a SpaceX tira espa\xE7o de outras empresas.\
+    \ \"Fundos que tinham, por exemplo, 2% em Microsoft, passam a ter 1,9%\u201D,\
+    \ afirma. \u201CParece pouco, aqui \xE9 s\xF3 um exemplo, mas gera volatilidade\
+    \ importante para o mercado inteiro\u201D.Prepare seu caf\xE9 e acompanhe um epis\xF3\
+    dio cheio de insights pr\xE1ticos!"
+  image: https://i.scdn.co/image/ab6765630000ba8a646bd79d8732646df633656a
+  path: https://open.spotify.com/episode/5QvDLg3V5Ncyu1xPscq8aX
+  title: "O que esperar do maior IPO da hist\xF3ria | Espresso Outliers InfoMoney\
+    \ #16"
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -560,7 +585,7 @@
   path: https://www.youtube.com/shorts/ImRy_PiXstI
   title: Lewis Hamilton Explains F1 Tire Strategy
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -638,8 +663,7 @@
   path: https://open.spotify.com/episode/2u2TGH6JnlxttAXxG8Lkji
   title: "Elon Musk\u2019s astronomical SpaceX bet"
 - author: Outliers
-  categories: &id006
-  - Podcasts
+  categories: *id005
   date: '2026-05-26T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 187 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra ampliam a discuss\xE3o sobre o setor de\_private\_credit\_dos Estados\
@@ -662,7 +686,7 @@
   title: "Blue Owl: corrida no private credit n\xE3o \xE9 baseada em fundamentos |\
     \ Outliers InfoMoney #187"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-05-22T15:00:19+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery\n\nI\u2019m done with the AI\
@@ -678,25 +702,6 @@
   image: https://i1.ytimg.com/vi/H9KeR9i3iMk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=H9KeR9i3iMk
   title: "I\u2019m done with the AI hype"
-- author: Outliers
-  categories: *id006
-  date: '2026-05-19T00:00:00+00:00'
-  description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
-    \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
-    \ objetiva e descomplicada os principais movimentos do universo de investimentos.Nesta\
-    \ edi\xE7\xE3o, Clara Sodr\xE9, analista de fundos da XP, fala sobre os fundos\
-    \ globais balanceados: ve\xEDculos de investimento que combinam classes de ativos,\
-    \ como a\xE7\xF5es e renda fixa, de diferentes pa\xEDses.\u201CAs gigantes globais\
-    \ como BlackRock, JP Morgan, Morgan Stanley, Franklin Templeton possuem estrat\xE9\
-    gias balanceadas extremamente tradicionais e dispon\xEDveis ao investidor brasileiro\u201D\
-    , diz Clara. \u201CO mais interessante \xE9 que isso come\xE7a a chegar cada vez\
-    \ mais para esse investidor brasileiro com solu\xE7\xF5es como a da conta Global\
-    \ XP\u201DPrepare seu caf\xE9 e acompanhe um epis\xF3dio cheio de insights pr\xE1\
-    ticos!"
-  image: https://i.scdn.co/image/ab6765630000ba8a468967f74b7af98bb5bf7ce2
-  path: https://open.spotify.com/episode/5zuyOAxxbPQYEzpsha25yH
-  title: "Fundos balanceados: jeito pr\xE1tico de investir globalmente | Espresso\
-    \ Outliers InfoMoney #15"
 - author: The Overshoot
   categories: &id007
   - Macro

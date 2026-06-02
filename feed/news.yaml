@@ -1,5 +1,14 @@
-- author: InvestNews - Economia
+- author: "InvestNews - Finan\xE7as"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-02T20:24:16+00:00'
+  description: "Malha fina ocorre quando a Receita encontra diverg\xEAncias na declara\xE7\
+    \xE3o e contribuinte deve consultar pend\xEAncias para corrigir erros"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/malha-fina-o-que-fazer-como-resolver/
+  title: Caiu na malha fina? Entenda o que acontece agora e o que fazer
+- author: InvestNews - Economia
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-06-02T12:02:29+00:00'
   description: "A decis\xE3o americana tamb\xE9m destacou o sistema brasileiro de\
@@ -9,8 +18,7 @@
   title: "EUA prop\xF5em nova tarifa de 25% sobre produtos brasileiros ap\xF3s investiga\xE7\
     \xE3o comercial"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-01T16:57:54+00:00'
   description: "Declara\xE7\xE3o do IR 2026 passa por an\xE1lise da Receita ap\xF3\
     s o envio e contribuinte deve acompanhar poss\xEDveis pend\xEAncias e d\xE9bitos"
@@ -54,7 +62,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ttgvo2/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: InvestNews - Economia
-  categories: *id001
+  categories: *id002
   date: '2026-05-31T16:57:29+00:00'
   description: "Por um lado, elas ampliam o alcance das pol\xEDticas do BC americano;\
     \ por outro, diminuem o poder de interven\xE7\xE3o"
@@ -62,15 +70,6 @@
   path: https://investnews.com.br/economia/como-as-stablecoins-dao-e-tiram-poder-dos-bancos-centrais-ao-mesmo-tempo/
   title: "An\xE1lise: Stablecoins d\xE3o e tiram poder dos bancos centrais ao mesmo\
     \ tempo"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-05-31T09:45:00+00:00'
-  description: "Declara\xE7\xE3o do IR 2026 precisa ser acompanhada ap\xF3s o envio\
-    \ e contribuinte deve checar processamento"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/declaracao-do-ir-obrigacoes-restituicao/
-  title: "Entregar a declara\xE7\xE3o do IR n\xE3o encerra obriga\xE7\xF5es com a\
-    \ Receita. Veja o que vem agora"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-05-28T04:01:13+00:00'
