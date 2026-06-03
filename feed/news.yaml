@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-06-03T20:35:45+00:00'
+  description: "Turismo em alta e press\xE3o sobre pre\xE7os fazem pa\xEDs n\xF3rdico\
+    \ ultrapassar a Su\xED\xE7a no ranking global de custo de vida"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/suica-perde-o-posto-de-pais-mais-caro-do-mundo-veja-quem-lidera-o-ranking/
+  title: "Su\xED\xE7a perde o posto de pa\xEDs mais caro do mundo; veja quem lidera\
+    \ o ranking"
 - author: "InvestNews - Finan\xE7as"
   categories: &id001
   - "Not\xEDcias"
@@ -17,8 +27,7 @@
   path: https://investnews.com.br/financas/como-declarar-imposto-de-renda-atrasado/
   title: Como declarar Imposto de Renda atrasado? Veja o que fazer se perdeu o prazo
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-06-02T12:02:29+00:00'
   description: "A decis\xE3o americana tamb\xE9m destacou o sistema brasileiro de\
     \ pagamentos instant\xE2neos PIX"
@@ -61,15 +70,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ttgvo2/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-05-31T16:57:29+00:00'
-  description: "Por um lado, elas ampliam o alcance das pol\xEDticas do BC americano;\
-    \ por outro, diminuem o poder de interven\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/como-as-stablecoins-dao-e-tiram-poder-dos-bancos-centrais-ao-mesmo-tempo/
-  title: "An\xE1lise: Stablecoins d\xE3o e tiram poder dos bancos centrais ao mesmo\
-    \ tempo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-05-28T04:01:13+00:00'
