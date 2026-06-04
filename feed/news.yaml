@@ -1,3 +1,16 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-04T12:22:41+00:00'
+  description: "O novo governo da Dinamarca, pa\xEDs de origem da Novo Nordisk, do\
+    \ Ozempic, vai investigar se os medicamentos para perda de peso podem ajudar mais\
+    \ pessoas a entrarem no mercado de trabalho, adicionando uma nova dimens\xE3o\
+    \ econ\xF4mica ao debate sobre os tratamentos para a obesidade. A Novo, fabricante\
+    \ do Wegovy e do Ozempic, j\xE1 transformou&hellip;"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/efeito-ozempic-chega-ao-mercado-trabalho/
+  title: "Governos agora investigam se 'efeito Ozempic' se estende em est\xEDmulo\
+    \ ao mercado de trabalho"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -38,8 +51,7 @@
   path: https://www.reddit.com/r/CFA/comments/1twcjdy/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-03T20:35:45+00:00'
   description: "Turismo em alta e press\xE3o sobre pre\xE7os fazem pa\xEDs n\xF3rdico\
     \ ultrapassar a Su\xED\xE7a no ranking global de custo de vida"
@@ -48,7 +60,7 @@
   title: "Su\xED\xE7a perde o posto de pa\xEDs mais caro do mundo; veja quem lidera\
     \ o ranking"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-06-03T17:46:50+00:00'
   description: "O funcionamento do mercado financeiro e dos bancos ser\xE1 afetado\
@@ -58,22 +70,13 @@
   title: 'Corpus Christi: como fica o funcionamento da Bolsa, Tesouro Direto e bancos
     durante o feriado?'
 - author: "InvestNews - Finan\xE7as"
-  categories: *id001
+  categories: *id002
   date: '2026-06-03T12:40:44+00:00'
   description: "Quem precisa declarar Imposto de Renda atrasado ainda pode regularizar\
     \ a situa\xE7\xE3o pela internet"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/como-declarar-imposto-de-renda-atrasado/
   title: Como declarar Imposto de Renda atrasado? Veja o que fazer se perdeu o prazo
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-06-02T12:02:29+00:00'
-  description: "A decis\xE3o americana tamb\xE9m destacou o sistema brasileiro de\
-    \ pagamentos instant\xE2neos PIX"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-propoem-nova-tarifa-de-25-sobre-produtos-brasileiros-apos-investigacao-comercial/
-  title: "EUA prop\xF5em nova tarifa de 25% sobre produtos brasileiros ap\xF3s investiga\xE7\
-    \xE3o comercial"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-05-28T04:01:13+00:00'
