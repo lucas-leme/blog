@@ -1,6 +1,24 @@
-- author: "InvestNews - Finan\xE7as"
+- author: InvestNews - Economia
   categories: &id002
   - "Not\xEDcias"
+  date: '2026-06-12T15:41:09+00:00'
+  description: "O governo do Equador eliminar\xE1 um imposto especial sobre a cerveja\
+    \ e outras bebidas de teor alco\xF3lico moderado at\xE9 19 de julho"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/equador-vai-reduzir-precos-da-cerveja-em-20-em-gesto-de-apoio-na-copa-do-mundo/
+  title: "Equador vai reduzir pre\xE7os da cerveja em 20% em gesto de apoio na Copa\
+    \ do Mundo"
+- author: "InvestNews - Finan\xE7as"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-12T15:31:25+00:00'
+  description: "Sele\xE7\xE3o brasileira convocada para a Copa soma R$ 5,5 bilh\xF5\
+    es em valor de mercado e supera companhias listadas no Ibovespa"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/selecao-brasileira-ibovespa-valor-de-mercado/
+  title: "Sele\xE7\xE3o brasileira vale mais do que 10 empresas do Ibovespa"
+- author: "InvestNews - Finan\xE7as"
+  categories: *id001
   date: '2026-06-11T20:18:15+00:00'
   description: "Neymar soma 20 contratos de patroc\xEDnio e est\xE1 ligado a neg\xF3\
     cios que v\xE3o de moda a vinhos"
@@ -48,8 +66,7 @@
   path: https://www.reddit.com/r/CFA/comments/1u2odhh/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-06-10T22:04:36+00:00'
   description: "Primeira rodada de devolu\xE7\xF5es ocorre ap\xF3s derrota judicial\
     \ de Trump sobre o uso de poderes de emerg\xEAncia para impor tarifas"
@@ -57,23 +74,6 @@
   path: https://investnews.com.br/economia/eua-devolvem-us-22-bilhoes-em-tarifas-apos-decisao-da-suprema-corte/
   title: "EUA devolvem US$ 22 bilh\xF5es em tarifas ap\xF3s decis\xE3o da Suprema\
     \ Corte"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-06-09T11:57:09+00:00'
-  description: "Custos de energia seguem pressionando alimentos, e Brasil pode influenciar\
-    \ pre\xE7os da ureia no segundo semestre"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/brasil-vira-peca-chave-na-definicao-dos-precos-dos-fertilizantes/
-  title: "Brasil vira pe\xE7a-chave na defini\xE7\xE3o dos pre\xE7os dos fertilizantes"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-06-03T17:46:50+00:00'
-  description: "O funcionamento do mercado financeiro e dos bancos ser\xE1 afetado\
-    \ pelo feriado de Corpus Christi"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/corpus-christi-funcionamento-b3-tesouro-bancos/
-  title: 'Corpus Christi: como fica o funcionamento da Bolsa, Tesouro Direto e bancos
-    durante o feriado?'
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-05-28T04:01:13+00:00'

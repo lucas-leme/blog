@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-12T14:23:44.103028'
+  date: '2026-06-12T15:50:36.175165'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-12T14:23:44.103024'
+  date: '2026-06-12T15:50:36.175161'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-12T14:23:44.103019'
+  date: '2026-06-12T15:50:36.175157'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-12T14:23:44.103008'
+  date: '2026-06-12T15:50:36.175146'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,28 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-06-12T15:00:09+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nNested loops are often treated\
+    \ as an algorithm problem. But most of the time, they\u2019re a design problem.\n\
+    \nIn this video, I break down a real example and show why nested loops usually\
+    \ appear: wrong data structures, misplaced behavior, and too many responsibilities\
+    \ in one place. Then we refactor the code step by step into something simpler\
+    \ and easier to understand.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/nested.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:09 Symptom 1: Wrong Data Structure (Implicit Join)\n4:33 Symptom 2: Behavior\
+    \ in the Wrong Place\n6:54 Symptom 3: Too Many Responsibilities\n12:45 Other Reasons\
+    \ Nested Loops Appear\n14:13 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/095HrcWwHLI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=095HrcWwHLI
+  title: Nested Loops Are Making Your Code Unreadable
 - author: AQR
   categories:
   - Quant
@@ -694,10 +716,7 @@
   title: "OPINI\xC3O.\_A Col\xF4mbia vota hoje. \xC9 um laborat\xF3rio para a elei\xE7\
     \xE3o brasileira"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2026-05-29T15:00:15+00:00'
   description: "\U0001F9D1\U0001F3FB\u200D\U0001F4BB Take your personal data back\
     \ with Incogni! Use code ARJANCODES and get 60% off an annual plan: https://incogni.com/arjancodes\n\
@@ -716,23 +735,6 @@
   image: https://i2.ytimg.com/vi/yc-gp3PFHEI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=yc-gp3PFHEI
   title: Your REST API Needs Webhooks
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-05-22T15:00:19+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery\n\nI\u2019m done with the AI\
-    \ hype.\n\nIn this video, I explain why I think a lot of the current discussion\
-    \ around AI in software development is missing the point. Writing code is only\
-    \ a small part of what developers actually do. Design, responsibility, trade-offs,\
-    \ and understanding systems matter far more, especially in real-world environments\
-    \ where mistakes are expensive.\n\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
-    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:58 What is software development?\n4:23 Future\n5:17 Fundamentals\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/H9KeR9i3iMk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=H9KeR9i3iMk
-  title: "I\u2019m done with the AI hype"
 - author: The Overshoot
   categories: *id007
   date: '2026-05-15T19:40:39+00:00'
