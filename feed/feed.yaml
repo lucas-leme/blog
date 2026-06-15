@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T16:24:55.107857'
+  date: '2026-06-15T19:34:52.261698'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T16:24:55.107853'
+  date: '2026-06-15T19:34:52.261694'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T16:24:55.107847'
+  date: '2026-06-15T19:34:52.261688'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T16:24:55.107835'
+  date: '2026-06-15T19:34:52.261677'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -426,6 +426,14 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2026-06-15T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/did-manager-change-model-or-settings
+  title: Did the Manager Change the Model or Just the Settings?
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -456,7 +464,7 @@
   path: https://braziljournal.com/a-direita-leva-mais-uma-agora-no-peru/
   title: A direita leva mais uma. Agora, no Peru
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-06-14T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a repetir as mesmas crises?Neste epis\xF3\
@@ -515,8 +523,7 @@
   path: https://www.youtube.com/watch?v=095HrcWwHLI
   title: "Nested Loops Aren\u2019t the Problem. This Is."
 - author: CFA Institute Research and Policy Center
-  categories: &id003
-  - CFA
+  categories: *id002
   date: '2026-06-11T12:00:00+00:00'
   description: ''
   image: null
@@ -524,7 +531,7 @@
   title: 'Book Review: Fixed: Why Personal Finance Is Broken and How to Make It Work
     for Everyone'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-06-11T00:00:00+00:00'
   description: "A Starlink de Elon Musk pode mudar o futuro da internet no Brasil?\
     \ E qual \xE9 o papel da Anatel nessa disputa entre 5G, sat\xE9lites, operadoras,\
@@ -591,16 +598,6 @@
   path: https://open.spotify.com/episode/6am6iKlHD70hv9OYnW7cxJ
   title: Gas Prices, Stock Bubbles, Grad Advice -- And Teaching Personal Finance In
     School
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-06-10T12:00:00+00:00'
-  description: CFA Institute supports broader access to private market investments
-    in 401(k) plans while urging stronger fiduciary safeguards, enhanced participant
-    disclosures, rigorous valuation and liquidity standards, and a phased approach
-    to integrating private assets into retirement portfolios.
-  image: null
-  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fiduciary-duties-selecting-designated-investment-alternatives
-  title: Fiduciary Duties in Selecting Designated Investment Alternatives
 - author: Marques Brownlee
   categories: &id004
   - Tech
