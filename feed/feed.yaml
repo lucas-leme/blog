@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T01:35:53.381098'
+  date: '2026-06-15T13:08:08.242190'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -10,13 +10,13 @@
     \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
     \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/05062026
-  title: "BC - Focus - Relat\xF3rio de Mercado - 05/06/2026"
+  path: https://www.bcb.gov.br/publicacoes/focus/12062026
+  title: "BC - Focus - Relat\xF3rio de Mercado - 12/06/2026"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T01:35:53.381079'
+  date: '2026-06-15T13:08:08.242186'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T01:35:53.381074'
+  date: '2026-06-15T13:08:08.242181'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-15T01:35:53.381062'
+  date: '2026-06-15T13:08:08.242170'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -419,7 +419,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-06-14T11:44:58+00:00'
+  date: '2026-06-15T13:08:06+00:00'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -427,8 +427,22 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
+  categories: &id001
   - Economia
+  date: '2026-06-15T09:50:17+00:00'
+  description: "<p>A guerra de Donald Trump e a guerra eleitoral de Lula jogaram as\
+    \ proje\xE7\xF5es de infla\xE7\xE3o para cima no Brasil, desancoraram as expectativas\
+    \ e colocaram os juros futuros em patamares n\xE3o vistos desde 2015, na crise\
+    \ do Governo Dilma. O conflito no Oriente M\xE9dio (que pode ter acabado ontem\
+    \ com o acordo EUA-Ir\xE3) manteve o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/as-pedaladas-de-lula-para-se-reeleger-enquanto-o-tcu-faz-vista-grossa/\"\
+    \ rel=\"nofollow\">As pedaladas de Lula para se reeleger \u2014 enquanto o TCU\
+    \ faz vista grossa</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/as-pedaladas-de-lula-para-se-reeleger-enquanto-o-tcu-faz-vista-grossa/
+  title: "As pedaladas de Lula para se reeleger \u2014 enquanto o TCU faz vista grossa"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id001
   date: '2026-06-14T02:47:34+00:00'
   description: "<p>Existem pa\xEDses divididos, existem pa\xEDses polarizados, e existe\
     \ o Peru \u2013 onde a esquerda e a direita s\xE3o metades (praticamente) id\xEA\
@@ -442,7 +456,7 @@
   path: https://braziljournal.com/a-direita-leva-mais-uma-agora-no-peru/
   title: A direita leva mais uma. Agora, no Peru
 - author: Market Makers
-  categories: &id001
+  categories: &id002
   - Podcasts
   date: '2026-06-14T00:00:00+00:00'
   description: "O Brasil est\xE1 condenado a repetir as mesmas crises?Neste epis\xF3\
@@ -501,7 +515,7 @@
   path: https://www.youtube.com/watch?v=095HrcWwHLI
   title: "Nested Loops Aren\u2019t the Problem. This Is."
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-06-11T12:00:00+00:00'
   description: ''
@@ -510,7 +524,7 @@
   title: 'Book Review: Fixed: Why Personal Finance Is Broken and How to Make It Work
     for Everyone'
 - author: Market Makers
-  categories: *id001
+  categories: *id002
   date: '2026-06-11T00:00:00+00:00'
   description: "A Starlink de Elon Musk pode mudar o futuro da internet no Brasil?\
     \ E qual \xE9 o papel da Anatel nessa disputa entre 5G, sat\xE9lites, operadoras,\
@@ -578,7 +592,7 @@
   title: Gas Prices, Stock Bubbles, Grad Advice -- And Teaching Personal Finance In
     School
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2026-06-10T12:00:00+00:00'
   description: CFA Institute supports broader access to private market investments
     in 401(k) plans while urging stronger fiduciary safeguards, enhanced participant
@@ -588,7 +602,7 @@
   path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/fiduciary-duties-selecting-designated-investment-alternatives
   title: Fiduciary Duties in Selecting Designated Investment Alternatives
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-06-09T05:48:41+00:00'
@@ -600,7 +614,7 @@
   path: https://www.youtube.com/watch?v=_gCXmKjDecU
   title: 'WWDC 2026 Impressions: Yeah, That''s About Right'
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-06-09T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 188 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
@@ -627,7 +641,7 @@
   title: "Genoa: \"N\xE3o tem mais como falar em corte de juros\" | Outliers InfoMoney\
     \ #188"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-06-04T19:41:28+00:00'
   description: yet
   image: https://i3.ytimg.com/vi/n3V3LZh_r40/hqdefault.jpg
@@ -665,7 +679,7 @@
   path: https://theovershoot.co/p/yes-living-standards-have-grown-slower
   title: Yes, Living Standards Have Grown Slower in Northwest Europe than in the U.S.
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-06-02T00:00:00+00:00'
   description: "Este \xE9 o Espresso Outliers InfoMoney, a sua pausa estrat\xE9gica\
     \ na correria do dia para pegar um caf\xE9, respirar fundo e entender de forma\
@@ -701,21 +715,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a623bbd31b2b3abbfbc85ac30
   path: https://open.spotify.com/episode/5a442iV05iinpeXuFlfSSa
   title: 'Real Estate: After the Reset'
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2026-05-31T09:50:36+00:00'
-  description: "<p>Se um ativo oferecesse retorno anual composto entre 7% e 13%, reduzisse\
-    \ a criminalidade, aumentasse a produtividade e a renda futura, e ainda diminu\xED\
-    sse custos sociais e fiscais ao longo do tempo, provavelmente seria tratado como\
-    \ prioridade absoluta por governos e investidores. Esses percentuais n\xE3o v\xEA\
-    m do mercado financeiro, mas dos estudos de James Heckman, [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/opiniao-o-melhor-investimento-do-brasil-e-a-primeira-infancia/\"\
-    \ rel=\"nofollow\">OPINI\xC3O.\_O melhor investimento do Brasil \xE9 a primeira\
-    \ inf\xE2ncia</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-melhor-investimento-do-brasil-e-a-primeira-infancia/
-  title: "OPINI\xC3O.\_O melhor investimento do Brasil \xE9 a primeira inf\xE2ncia"
 - author: ArjanCodes
   categories: *id006
   date: '2026-05-29T15:00:15+00:00'
