@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-16T12:53:22+00:00'
+  description: "O novo presidente do Fed, que comandar\xE1 nesta semana sua primeira\
+    \ reuni\xE3o de pol\xEDtica monet\xE1ria"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/warsh-quer-que-o-fed-fale-menos-e-isso-pode-gerar-mais-surpresas-para-os-mercados/
+  title: "Warsh quer que o Fed fale menos \u2014 e isso pode gerar mais surpresas\
+    \ para os mercados"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +44,7 @@
   path: https://www.reddit.com/r/CFA/comments/1u65tej/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-14T22:12:55+00:00'
   description: "Media\xE7\xE3o do Paquist\xE3o prev\xEA cessa\xE7\xE3o permanente\
     \ de opera\xE7\xF5es militares e al\xEDvio a san\xE7\xF5es sobre petr\xF3leo iraniano"
@@ -43,15 +52,6 @@
   path: https://investnews.com.br/economia/eua-e-ira-fecham-pacto-para-encerrar-guerra-e-reabrir-ormuz/
   title: "EUA e Ir\xE3 fecham pacto para encerrar guerra. Trump diz que Ormuz ser\xE1\
     \ reaberto na sexta (19)"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-06-14T15:14:25+00:00'
-  description: "Vagas de analista financeiro, advogado, consultor e desenvolvedor\
-    \ despencam enquanto empresas trocam equipes juniores por modelos de intelig\xEA\
-    ncia artificial"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/em-londres-a-ia-ja-engole-vagas-de-escritorio/
-  title: "Em Londres, a IA j\xE1 engole vagas de escrit\xF3rio"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
