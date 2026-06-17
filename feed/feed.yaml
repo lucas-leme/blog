@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-17T01:34:46.485809'
+  date: '2026-06-17T12:29:07.939138'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-17T01:34:46.485805'
+  date: '2026-06-17T12:29:07.939134'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-17T01:34:46.485801'
+  date: '2026-06-17T12:29:07.939129'
   description: "<div class=\"ExternalClass6AE4B127BE584FC1A11072EBDFE12743\"><p>\u200B\
     O ambiente externo permanece incerto, em fun\xE7\xE3o da indefini\xE7\xE3o a respeito\
     \ da dura\xE7\xE3o, extens\xE3o, e desdobramentos dos conflitos geopol\xEDticos\
@@ -130,7 +130,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-17T01:34:46.485789'
+  date: '2026-06-17T12:29:07.939119'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -415,6 +415,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: The Overshoot
+  categories: &id006
+  - Macro
+  - Newsletters
+  date: '2026-06-17T09:34:20+00:00'
+  description: Hormuz may be opening up, but the combination of robust growth and
+    stable-to-accelerating underlying inflation suggests that the previous bias to
+    lowering rates was a mistake.
+  image: https://substackcdn.com/image/fetch/$s_!HHFg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35005432-9453-4e4b-b89a-c32da4323df2_3200x2895.png
+  path: https://theovershoot.co/p/the-case-for-higher-us-rates
+  title: The Case for Higher U.S. Rates
 - author: "Economia \u2013 Brazil Journal"
   categories: &id002
   - Economia
@@ -591,7 +602,7 @@
     \ Editor John Prideaux. Now, 250 years after its birth, the vitality of that democracy\
     \ is under question. In this series, John retraces the route Tocqueville took\
     \ to find out how much of what inspired Tocqueville about America remains\u2014\
-    and how worried we should be about what\u2019s changed.Out now"
+    and how worried we should be about what\u2019s changed.Out nowFind the show here"
   image: https://i.scdn.co/image/ab6765630000ba8a7345de583ca06cef5b93fd60
   path: https://open.spotify.com/episode/3ZlI6xr1yDKAFn9QckmVCD
   title: 'Trailer: Tocqueville Road Trip'
@@ -632,7 +643,7 @@
   path: https://open.spotify.com/episode/5zWUBAM0esYDRuuT6q6JTg
   title: "#374 | OS BASTIDORES DO IMPEACHMENT, TEMER E DA POL\xCDTICA BRASILEIRA"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -721,9 +732,7 @@
   title: 'The Unintended Effects of Interest Rate Caps: Credit Reallocation to Safer
     Borrowers'
 - author: The Overshoot
-  categories: &id007
-  - Macro
-  - Newsletters
+  categories: *id006
   date: '2026-06-03T10:59:04+00:00'
   description: But what that means for relative income levels is much less clear.
   image: https://substackcdn.com/image/fetch/$s_!bK_Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1e38045-9b1f-427f-a7cd-bd5e7cceae83_3200x2830.png
@@ -743,7 +752,7 @@
   path: https://open.spotify.com/episode/5a442iV05iinpeXuFlfSSa
   title: 'Real Estate: After the Reset'
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2026-05-29T15:00:15+00:00'
   description: "\U0001F9D1\U0001F3FB\u200D\U0001F4BB Take your personal data back\
     \ with Incogni! Use code ARJANCODES and get 60% off an annual plan: https://incogni.com/arjancodes\n\
@@ -762,15 +771,6 @@
   image: https://i2.ytimg.com/vi/yc-gp3PFHEI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=yc-gp3PFHEI
   title: Your REST API Needs Webhooks
-- author: The Overshoot
-  categories: *id007
-  date: '2026-05-15T19:40:39+00:00'
-  description: The latest data show that the increase in energy prices since the start
-    of the conflict with Iran has done relatively little to improve the finances of
-    the Russian government or its military industry.
-  image: https://substackcdn.com/image/fetch/$s_!Yg_K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c901823-6387-4af1-8336-f925c96e4b9d_3200x2805.png
-  path: https://theovershoot.co/p/russias-underwhelming-oil-revenue
-  title: Russia's Underwhelming Oil Revenue Windfall
 - author: Flirting with Models
   categories:
   - Podcasts
