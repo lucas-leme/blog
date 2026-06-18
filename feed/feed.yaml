@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-18T21:11:06.317448'
+  date: '2026-06-18T22:03:10.218374'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-18T21:11:06.317444'
+  date: '2026-06-18T22:03:10.218371'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-18T21:11:06.317438'
+  date: '2026-06-18T22:03:10.218368'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -142,7 +142,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-18T21:11:06.317425'
+  date: '2026-06-18T22:03:10.218358'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto, em fun\xE7\xE3\
@@ -427,6 +427,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/29042026
   title: "BC - Copom Ata - 278\xAA Reuni\xE3o - 28-29 abril, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-06-18T21:23:10+00:00'
+  description: "<p>Quando as pesquisas mostrarem o descr\xE9dito do brasileiro nas\
+    \ institui\xE7\xF5es, que ningu\xE9m se fa\xE7a de desentendido. A C\xE2mara aprovou\
+    \ o PL 5531/16, que permite a advocacia em causas do setor privado para procuradores\
+    \ federais. O projeto, que partiu do Executivo, segue agora para o Senado. A Comiss\xE3\
+    o de Constitui\xE7\xE3o e Justi\xE7a da C\xE2mara j\xE1 havia [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/advogados-da-uniao-querem-fazer-bico-no-setor-privado-a-camara-topou/\"\
+    \ rel=\"nofollow\">Advogados da Uni\xE3o querem fazer bico no setor privado. A\
+    \ C\xE2mara topou</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/advogados-da-uniao-querem-fazer-bico-no-setor-privado-a-camara-topou/
+  title: "Advogados da Uni\xE3o querem fazer bico no setor privado. A C\xE2mara topou"
 - author: AQR
   categories:
   - Quant
@@ -439,8 +455,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2026-06-18T04:21:13+00:00'
   description: "<p>BRASILIA &#8212; Setores da oposi\xE7\xE3o est\xE3o articulando\
     \ para derrubar um veto presidencial e assim ampliar ressarcimentos a empresas\
@@ -515,7 +530,7 @@
   path: https://open.spotify.com/episode/2KpmNDCW7T4JEYvB6d86RX
   title: How quickly could you burn through $2.4trn?
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-06-17T12:00:00+00:00'
   description: ''
@@ -523,7 +538,7 @@
   path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-fallacy-concentration
   title: 'In Practice Brief: The Fallacy of Concentration'
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-06-17T12:00:00+00:00'
   description: ''
   image: null
@@ -540,22 +555,6 @@
   image: https://substackcdn.com/image/fetch/$s_!HHFg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F35005432-9453-4e4b-b89a-c32da4323df2_3200x2895.png
   path: https://theovershoot.co/p/the-case-for-higher-us-rates
   title: The Case for Higher U.S. Rates
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-06-16T20:18:05+00:00'
-  description: "<p>A Argentina est\xE1 tendo conquistas expressivas em duas \xE1reas\
-    \ fundamentais: as contas externas e a infla\xE7\xE3o. Para os analistas do Bank\
-    \ of America, o aperto fiscal de Javier Milei, em conjunto com um boom das exporta\xE7\
-    \xF5es, est\xE1 contribuindo para deter a escalada nos pre\xE7os e melhorar o\
-    \ saldo comercial. Num relat\xF3rio publicado hoje, o banco [&#8230;]</p>\n<p>The\
-    \ post <a href=\"https://braziljournal.com/planetas-se-alinham-para-um-ciclo-virtuoso-na-argentina-diz-o-bofa/\"\
-    \ rel=\"nofollow\">\u2018Planetas se alinham\u2019 para um ciclo virtuoso na Argentina,\
-    \ diz o BofA</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
-    nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/planetas-se-alinham-para-um-ciclo-virtuoso-na-argentina-diz-o-bofa/
-  title: "\u2018Planetas se alinham\u2019 para um ciclo virtuoso na Argentina, diz\
-    \ o BofA"
 - author: Marques Brownlee
   categories: &id004
   - Tech
