@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-18T18:02:21+00:00'
+  description: "Al\xE9m da abertura econ\xF4mica, Trump e o secret\xE1rio de Estado\
+    \ Marco Rubio exigem reformas pol\xEDticas e uma mudan\xE7a na lideran\xE7a do\
+    \ pa\xEDs"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/cuba-aprova-mudancas-pro-mercado-apos-pressao-de-trump/
+  title: "Cuba aprova mudan\xE7as pr\xF3-mercado ap\xF3s press\xE3o de Trump"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Receita abre consulta ao segundo lote de restitui\xE7\xE3o do IR. Veja como\
     \ consultar"
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-18T12:34:12+00:00'
   description: "Queda da Su\xED\xE7a evidencia a vulnerabilidade de economias avan\xE7\
     adas diante de mudan\xE7as nos fluxos de investimento e tens\xF5es geopol\xED\
@@ -19,15 +28,6 @@
   path: https://investnews.com.br/economia/suica-perde-lideranca-e-deixa-de-ser-a-economia-mais-competitiva-do-mundo/
   title: "Su\xED\xE7a perde lideran\xE7a e deixa de ser a economia mais competitiva\
     \ do mundo"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-06-18T09:20:27+00:00'
-  description: "Economistas j\xE1 apontam que piora do cen\xE1rio deve obrigar o Copom\
-    \ a ser mais cauteloso, ainda que juros b\xE1sicos sigam em n\xEDvel elevado"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/bc-vai-parar-queda-selic-matos-fgv/
-  title: Porta se fechou e BC vai interromper corte da Selic em agosto, projeta Silvia
-    Matos, da FGV
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
