@@ -1,3 +1,14 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-21T16:59:18+00:00'
+  description: "Vice-presidente dos EUA est\xE1 na Su\xED\xE7a para negociar acordo\
+    \ com Ir\xE3. Falas do presidente americano Donald Trump por\xE9m viraram novos\
+    \ obst\xE1culos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/ira-suspende-negociacoes-com-os-eua-apos-trump-ameacar-novos-ataques/
+  title: "Ir\xE3 suspende negocia\xE7\xF5es com os EUA ap\xF3s Trump amea\xE7ar novos\
+    \ ataques"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -15,8 +26,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ubozrn/cfa_exam_ques_difficuilty_compared_to_les/
   title: Cfa exam ques difficuilty compared to LES
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-21T12:36:45+00:00'
   description: "O vice-presidente americana JD Vance desembarcou na Su\xED\xE7a na\
     \ madrugada deste domingo"
@@ -24,15 +34,6 @@
   path: https://investnews.com.br/economia/eua-e-ira-se-reunem-na-suica-e-iniciam-negociacoes-de-paz/
   title: "EUA e Ir\xE3 se re\xFAnem na Su\xED\xE7a e iniciam negocia\xE7\xF5es de\
     \ paz"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-06-20T17:47:57+00:00'
-  description: "Diferen\xE7a de gastos do flex para o el\xE9trico pode alcan\xE7ar\
-    \ mais de R$ 8 mil no ano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/carro-eletrico-pode-gastar-cinco-vezes-menos-do-que-veiculos-flex-tradicionais/
-  title: "Carro el\xE9trico pode gastar cinco vezes menos do que ve\xEDculos flex\
-    \ tradicionais"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
