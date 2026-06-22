@@ -1,3 +1,14 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-22T13:12:50+00:00'
+  description: "Brasil deve colher safra recorde de 75,3 milh\xF5es de sacas, mas\
+    \ estoques em bolsas dos EUA e Europa seguem no menor n\xEDvel desde mar\xE7o\
+    \ de 2024"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/como-a-falta-de-pressa-dos-produtores-brasileiros-tem-pressionado-o-mercado-global-de-cafe/
+  title: "Como a falta de pressa dos produtores brasileiros tem pressionado o mercado\
+    \ global de caf\xE9"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +45,7 @@
   path: https://www.reddit.com/r/CFA/comments/1uca6g8/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-21T19:21:10+00:00'
   description: "As conversa\xE7\xF5es sobre um acordo de paz entre EUA e Ir\xE3o v\xE3\
     o se estender por v\xE1rios dias"
@@ -43,16 +53,6 @@
   path: https://investnews.com.br/economia/eua-e-ira-mantem-negociacoes-na-suica-mesmo-apos-declaracoes-de-trump-ameacarem-acordo/
   title: "EUA e Ir\xE3 mant\xEAm negocia\xE7\xF5es na Su\xED\xE7a mesmo ap\xF3s declara\xE7\
     \xF5es de Trump amea\xE7arem acordo"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-06-21T16:59:18+00:00'
-  description: "Vice-presidente dos EUA est\xE1 na Su\xED\xE7a para negociar acordo\
-    \ com Ir\xE3. Falas do presidente americano Donald Trump por\xE9m viraram novos\
-    \ obst\xE1culos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/ira-suspende-negociacoes-com-os-eua-apos-trump-ameacar-novos-ataques/
-  title: "Ir\xE3 suspende negocia\xE7\xF5es com os EUA ap\xF3s Trump amea\xE7ar novos\
-    \ ataques"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
