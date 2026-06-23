@@ -1,5 +1,15 @@
-- author: "InvestNews - Finan\xE7as"
+- author: InvestNews - Economia
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-06-22T22:16:58+00:00'
+  description: "Waiver de 60 dias do Tesouro permite a refinarias dos EUA voltarem\
+    \ a comprar petr\xF3leo iraniano ap\xF3s quase 40 anos"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/ira-venda-petroleo-dolar-eua/
+  title: "Em concess\xE3o hist\xF3rica, EUA permitem que Ir\xE3 venda petr\xF3leo\
+    \ em d\xF3lar"
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-06-22T18:43:15+00:00'
   description: "Sele\xE7\xE3o mais valiosa da Copa do Mundo tem elenco avaliado em\
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/as-selecoes-mais-valiosas-da-copa-do-mundo-2026/
   title: "As sele\xE7\xF5es mais valiosas da Copa do Mundo 2026"
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-06-22T16:29:02+00:00'
   description: "Governo de Milei abriu caminho para uma opera\xE7\xE3o de at\xE9 US$\
     \ 5 bilh\xF5es com garantias de organismos multilaterais, como Banco Mundial e\
@@ -19,7 +28,7 @@
   title: "Milei autoriza nova d\xEDvida de at\xE9 US$ 5 bilh\xF5es para refor\xE7\
     ar o caixa da Argentina"
 - author: "InvestNews - Finan\xE7as"
-  categories: *id001
+  categories: *id002
   date: '2026-06-22T15:41:14+00:00'
   description: "Somados, os dois primeiros lotes de restitui\xE7\xE3o do IR contemplaram\
     \ cerca de 80% do total estimado para 2026"
@@ -27,16 +36,6 @@
   path: https://investnews.com.br/financas/consulta-2o-lote-restituicao-do-ir/
   title: "Receita abre consulta ao 2\xBA lote de restitui\xE7\xE3o do IR, o maior\
     \ da hist\xF3ria"
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-06-22T13:12:50+00:00'
-  description: "Brasil deve colher safra recorde de 75,3 milh\xF5es de sacas, mas\
-    \ estoques em bolsas dos EUA e Europa seguem no menor n\xEDvel desde mar\xE7o\
-    \ de 2024"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/como-a-falta-de-pressa-dos-produtores-brasileiros-tem-pressionado-o-mercado-global-de-cafe/
-  title: "Como a falta de pressa dos produtores brasileiros tem pressionado o mercado\
-    \ global de caf\xE9"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
