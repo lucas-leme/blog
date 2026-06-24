@@ -1,6 +1,16 @@
 - author: InvestNews - Economia
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-06-24T13:18:49+00:00'
+  description: "Pelo menos 16 embarca\xE7\xF5es carregadas com nutrientes agr\xED\
+    colas atravessaram o estreito de Ormuz desde que Estados Unidos e Ir\xE3 firmaram\
+    \ um acordo"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/brasil-esta-entre-destinos-de-fertilizantes-que-saem-de-ormuz-e-reforca-estoques-para-a-safra-de-soja/
+  title: "Brasil est\xE1 entre destinos de fertilizantes que saem de Ormuz e refor\xE7\
+    a estoques para a safra de soja"
+- author: InvestNews - Economia
+  categories: *id001
   date: '2026-06-24T09:00:00+00:00'
   description: "As tr\xEAs medidas t\xEAm justificativas distintas. O que as une \xE9\
     \ o momento: todas vieram ap\xF3s o acordo entre Mercosul e Uni\xE3o Europeia"
@@ -9,7 +19,7 @@
   title: "Em clima de 'morde e assopra', soja, a\xE7o e carne do Brasil sofrem reveses\
     \ na Uni\xE3o Europeia"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -25,7 +35,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ue6ipi/hope_this_isnt_an_ethics_violation/
   title: Hope this isn't an ethics violation
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2026-06-23T17:58:39+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>Pneumonia is kickin' my ass, but\
     \ hopefully you kicked the test's ass!</p> <p>Sorry we didn\u2019t have this up\
@@ -36,15 +46,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1udogdv/may_2026_level_1_results_megathread/
   title: May 2026 Level 1 Results Megathread
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-06-23T15:04:41+00:00'
-  description: "Os t\xEDtulos da moeda chinesa podem abrir uma nova fronteira de financiamento\
-    \ internacional para o governo e empresas brasileiras"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/panda-bonds-por-que-o-tesouro-quer-pegar-dinheiro-emprestado-em-moeda-chinesa/
-  title: "'Panda bonds\u2019: por que o Tesouro quer pegar dinheiro emprestado em\
-    \ yuan pela 1\xAA vez"
 - author: "InvestNews - Finan\xE7as"
   categories: &id003
   - "Not\xEDcias"
