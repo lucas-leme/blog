@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-24T20:55:27.899193'
+  date: '2026-06-24T21:50:44.228326'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-24T20:55:27.899189'
+  date: '2026-06-24T21:50:44.228321'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-24T20:55:27.899184'
+  date: '2026-06-24T21:50:44.228317'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -142,7 +142,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-24T20:55:27.899171'
+  date: '2026-06-24T21:50:44.228305'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -438,6 +438,34 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2026-06-24T21:06:51+00:00'
+  description: 'Android 17 Cinnamon bun. We''re bringing the dessert names back.
+
+
+    Save 60% off site-wide with dbrand at https://dbrand.com/summersale during their
+    limited-time Summer Sale!
+
+
+    That shirt! http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/QrT4S9i3agE/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=QrT4S9i3agE
+  title: 'Top 5 Android 17 Features: I Swear It''s New!'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -536,7 +564,7 @@
   path: https://open.spotify.com/episode/0nvWWZrNJe7ZFdNuVoA0ce
   title: "#378 | O FUTURO DA IA, DOS JUROS E DO BRASIL NA VIS\xC3O DE DANIEL GOLDBERG"
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-06-23T00:00:00+00:00'
   description: "O que uma acontece do outro lado do planeta pode sim encarecer o p\xE3\
@@ -612,7 +640,7 @@
   path: https://open.spotify.com/episode/2UTX9ngj4PNT9Yyg0ZK7kt
   title: "#377 | CL\xD3VIS DE BARROS: SORTE, DINHEIRO E A FARSA DO M\xC9RITO"
 - author: ArjanCodes
-  categories: &id006
+  categories: &id007
   - Tech
   - Code
   - Youtube
@@ -690,9 +718,7 @@
   path: https://theovershoot.co/p/the-case-for-higher-us-rates
   title: The Case for Higher U.S. Rates
 - author: Marques Brownlee
-  categories: &id007
-  - Tech
-  - Youtube
+  categories: *id005
   date: '2026-06-16T18:17:15+00:00'
   description: 'From touchscreen Macbooks to holograms
 
@@ -726,7 +752,7 @@
   path: https://www.youtube.com/watch?v=WOzcFkld6_g
   title: The Most Interesting Displays In The World!
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-06-16T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 189 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com Marcelo Urbano, gestor de cr\xE9dito privado multiestrat\xE9\
@@ -754,7 +780,7 @@
   title: "Cr\xE9dito estruturado: gera\xE7\xE3o de retorno em cen\xE1rio de spreads\
     \ amassados | Outliers InfoMoney #189"
 - author: ArjanCodes
-  categories: *id006
+  categories: *id007
   date: '2026-06-12T15:00:09+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nNested loops are often treated\
@@ -772,16 +798,6 @@
   image: https://i1.ytimg.com/vi/095HrcWwHLI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=095HrcWwHLI
   title: "Nested Loops Aren\u2019t the Problem. This Is."
-- author: Marques Brownlee
-  categories: *id007
-  date: '2026-06-09T05:48:41+00:00'
-  description: "Everything you need to know about the new Siri AI and iOS 27\n\nGet\
-    \ up to 40% off at https://ridge.com/MKBHD for Father\u2019s Day! Ends June 21st!\n\
-    \nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
-    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
-  image: https://i4.ytimg.com/vi/_gCXmKjDecU/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=_gCXmKjDecU
-  title: 'WWDC 2026 Impressions: Yeah, That''s About Right'
 - author: The View From Apollo
   categories:
   - Podcasts
