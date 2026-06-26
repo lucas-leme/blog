@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-26T14:19:29.265158'
+  date: '2026-06-26T15:30:40.987633'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-26T14:19:29.265154'
+  date: '2026-06-26T15:30:40.987628'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-26T14:19:29.265150'
+  date: '2026-06-26T15:30:40.987624'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -142,7 +142,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-26T14:19:29.265138'
+  date: '2026-06-26T15:30:40.987611'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -438,6 +438,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-06-26T15:00:22+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nFunctions with long parameter\
+    \ lists often become harder to understand and maintain as a codebase grows.\n\n\
+    In this video, I show how the Parameter Object Pattern can help by turning related\
+    \ parameters into a meaningful concept. I look at the benefits, the trade-offs,\
+    \ and why you should be careful not to introduce unnecessary coupling. I\u2019\
+    ll also show how this pattern works nicely with Python\u2019s structural pattern\
+    \ matching.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/param.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:32 The Problem: Parameters Spreading Everywhere\n2:54 The Missing Concept: VideoSearchQuery\n\
+    4:54 Add Validation to the Object\n7:03 Easier API Evolution\n8:04 Sometimes the\
+    \ Boundary Is Wrong\n8:46 The Caveat: Stamp Coupling\n10:12 Pattern Matching Becomes\
+    \ More Expressive\n12:50 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/43sDzyanzR0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=43sDzyanzR0
+  title: Too Many Parameters? Use This Pattern
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -668,7 +692,7 @@
   path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/when-equity-premium-was-new
   title: When the Equity Premium Was New
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-06-23T11:43:58+00:00'
@@ -678,7 +702,7 @@
   path: https://theovershoot.co/p/the-win-win-solution-to-china-shock
   title: The Win-Win Solution to "China Shock 2.0"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-06-23T00:00:00+00:00'
   description: "O que uma acontece do outro lado do planeta pode sim encarecer o p\xE3\
@@ -698,10 +722,7 @@
   title: "CHOQUES INFLACION\xC1RIOS e como proteger os investimentos | Espresso Outliers\
     \ InfoMoney #17"
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id005
   date: '2026-06-19T15:00:06+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nDesign patterns aren't bad.\
@@ -733,7 +754,7 @@
   title: Natural Maniacs, An Overvalued Market, and Recovering From Years of Bad Financial
     Habits
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2026-06-17T09:34:20+00:00'
   description: Hormuz may be opening up, but the combination of robust growth and
     stable-to-accelerating underlying inflation suggests that the previous bias to
@@ -742,7 +763,7 @@
   path: https://theovershoot.co/p/the-case-for-higher-us-rates
   title: The Case for Higher U.S. Rates
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-06-16T00:00:00+00:00'
   description: "Na edi\xE7\xE3o 189 do Outliers InfoMoney, Clara Sodr\xE9 e Fabiano\
     \ Cintra conversam com Marcelo Urbano, gestor de cr\xE9dito privado multiestrat\xE9\
@@ -769,25 +790,6 @@
   path: https://open.spotify.com/episode/37dQcwEEbYg8BgKXg9hgPS
   title: "Cr\xE9dito estruturado: gera\xE7\xE3o de retorno em cen\xE1rio de spreads\
     \ amassados | Outliers InfoMoney #189"
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-06-12T15:00:09+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nNested loops are often treated\
-    \ as an algorithm problem. But most of the time, they\u2019re a design problem.\n\
-    \nIn this video, I break down a real example and show why nested loops usually\
-    \ appear: wrong data structures, misplaced behavior, and too many responsibilities\
-    \ in one place. Then we refactor the code step by step into something simpler\
-    \ and easier to understand.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/nested.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:09 Symptom 1: Wrong Data Structure (Implicit Join)\n4:33 Symptom 2: Behavior\
-    \ in the Wrong Place\n6:54 Symptom 3: Too Many Responsibilities\n12:45 Other Reasons\
-    \ Nested Loops Appear\n14:13 Final Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/095HrcWwHLI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=095HrcWwHLI
-  title: "Nested Loops Aren\u2019t the Problem. This Is."
 - author: Flirting with Models
   categories:
   - Podcasts
