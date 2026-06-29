@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-29T01:28:30.653900'
+  date: '2026-06-29T02:26:39.268756'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-29T01:28:30.653897'
+  date: '2026-06-29T02:26:39.268752'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-29T01:28:30.653892'
+  date: '2026-06-29T02:26:39.268747'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -142,7 +142,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-06-29T01:28:30.653881'
+  date: '2026-06-29T02:26:39.268734'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -442,7 +442,7 @@
   categories:
   - Quant
   - Papers
-  date: '2026-06-28T02:25:34+00:00'
+  date: '2026-06-29T02:26:37+00:00'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
@@ -514,7 +514,7 @@
   path: https://www.youtube.com/watch?v=43sDzyanzR0
   title: Too Many Parameters? Use This Pattern
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id002
   - CFA
   date: '2026-06-26T12:00:00+00:00'
   description: ''
@@ -542,22 +542,6 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/06/how-resilient-were-emerging-market-economies-through-the-2022-23-u-s-monetary-tightening-cycle/
   title: How Resilient Were Emerging Market Economies Through the 2022&#8209;23 U.S.
     Monetary Tightening Cycle?
-- author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
-  date: '2026-06-26T09:50:42+00:00'
-  description: "<p>O consumidor \xE9 a raz\xE3o de existir de todo o setor el\xE9\
-    trico. S\xF3 produzimos energia porque h\xE1 algu\xE9m que necessita, consome\
-    \ e paga por ela. No entanto, a pr\xF3pria trajet\xF3ria hist\xF3rica do setor\
-    \ levou \xE0 constru\xE7\xE3o de um aparato regulat\xF3rio que tratou o consumidor\
-    \ como um agente essencialmente passivo, cujos interesses precisavam ser representados\
-    \ por [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-a-reforma-eletrica-como-justica-social/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. A reforma el\xE9trica como justi\xE7a social</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-a-reforma-eletrica-como-justica-social/
-  title: "OPINI\xC3O. A reforma el\xE9trica como justi\xE7a social"
 - author: Market Makers
   categories: *id001
   date: '2026-06-26T00:00:00+00:00'
@@ -613,7 +597,8 @@
   title: The History of Uncertainty, The Magic of The Long Term, And Overstating New
     Technology
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id002
+  categories: &id004
+  - Economia
   date: '2026-06-25T20:22:59+00:00'
   description: "<p>O petr\xF3leo devolveu todo o rali gerado pelos ataques dos EUA\
     \ e Israel ao Ir\xE3 \u2013 trazendo a perspectiva de que o pior nas press\xF5\
@@ -627,7 +612,7 @@
   path: https://braziljournal.com/petroleo-volta-ao-pre-guerra-aliviando-a-curva-de-juros/
   title: "Petr\xF3leo volta ao pr\xE9-guerra, aliviando a curva de juros"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-06-25T15:32:20+00:00'
@@ -636,7 +621,7 @@
   path: https://www.youtube.com/shorts/oYAnEH0JoqI
   title: Apple's Big Price Hike
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id002
   date: '2026-06-25T12:00:00+00:00'
   description: ''
   image: null
@@ -662,7 +647,7 @@
   path: https://open.spotify.com/episode/0gqFl7briruyUsOhvo87Tz
   title: Why the global elite are collecting citizenships
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id003
   date: '2026-06-24T21:06:51+00:00'
   description: 'Android 17 Cinnamon bun. We''re bringing the dessert names back.
 
@@ -733,6 +718,22 @@
   path: https://open.spotify.com/episode/1zYFJGt5ytwyHXDeytK8Cr
   title: "CHOQUES INFLACION\xC1RIOS e como proteger os investimentos | Espresso Outliers\
     \ InfoMoney #17"
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id004
+  date: '2026-06-22T11:07:54+00:00'
+  description: "<p>Argentina, Chile, Bol\xEDvia, Equador, Peru \u2013 e agora Col\xF4\
+    mbia.\_ Na disputa mais acirrada da hist\xF3ria das elei\xE7\xF5es colombianas,\
+    \ a direita levou mais uma na Am\xE9rica do Sul. O advogado e empres\xE1rio Abelardo\
+    \ de la Espriella, de 47 anos, assumir\xE1 a presid\xEAncia no dia 7 de agosto,\
+    \ prometendo \u201Cm\xE3o de ferro\u201D contra o crime organizado e [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/colombia-tambem-da-vitoria-a-direita-el-tigre-vence-com-margem-infima/\"\
+    \ rel=\"nofollow\">Col\xF4mbia tamb\xE9m d\xE1 vit\xF3ria \xE0 direita: \u2018\
+    El Tigre\u2019 vence com margem \xEDnfima</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/colombia-tambem-da-vitoria-a-direita-el-tigre-vence-com-margem-infima/
+  title: "Col\xF4mbia tamb\xE9m d\xE1 vit\xF3ria \xE0 direita: \u2018El Tigre\u2019\
+    \ vence com margem \xEDnfima"
 - author: ArjanCodes
   categories: *id005
   date: '2026-06-19T15:00:06+00:00'
