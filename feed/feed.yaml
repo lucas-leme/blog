@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-07-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Francesco
@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-01T13:15:46.940786'
+  date: '2026-07-01T14:20:16.868837'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-01T13:15:46.940782'
+  date: '2026-07-01T14:20:16.868834'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-01T13:15:46.940778'
+  date: '2026-07-01T14:20:16.868829'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-01T13:15:46.940766'
+  date: '2026-07-01T14:20:16.868817'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -462,6 +462,13 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-07-01T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/clients-biggest-asset-isnt-in-portfolio
+  title: "Your Client\u2019s Biggest Asset Isn\u2019t in Their Portfolio"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -483,7 +490,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/07/the-disappearing-overnight-drift/
   title: The Disappearing Overnight Drift
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-06-30T23:13:36+00:00'
   description: "<p>O iene mergulhou ao seu n\xEDvel mais baixo em 40 anos frente ao\
@@ -497,7 +504,7 @@
   path: https://braziljournal.com/iene-mergulha-ao-menor-nivel-em-40-anos/
   title: "Iene mergulha ao menor n\xEDvel em 40 anos"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-06-30T17:46:58+00:00'
   description: "<p>Lu\xEDs Eul\xE1lio de Bueno Vidigal Filho, o hist\xF3rico ex-presidente\
     \ da Fiesp que liderou a renova\xE7\xE3o geracional da entidade empresarial durante\
@@ -598,13 +605,6 @@
   image: https://i3.ytimg.com/vi/ZpF6IE0rdxA/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ZpF6IE0rdxA
   title: 'Antigravity A1: A New Take on Drones!'
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-06-29T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/when-information-no-longer-edge
-  title: When Information Is No Longer the Edge
 - author: Flirting with Models
   categories:
   - Podcasts
