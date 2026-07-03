@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-07-03T13:52:05+00:00'
+  description: "No dia 4 de outubro, eleitores decidem seis cargos. Se houver segundo\
+    \ turno, ele ocorre em 25 de outubro para governos estaduais e Presid\xEAncia"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eleicoes-2026-calendario/
+  title: "Elei\xE7\xF5es 2026: a tr\xEAs meses do primeiro turno, veja o calend\xE1\
+    rio"
 - author: "InvestNews - Finan\xE7as"
   categories: &id001
   - "Not\xEDcias"
@@ -57,8 +67,7 @@
   path: https://www.reddit.com/r/CFA/comments/1ul7jtb/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-06-29T15:09:49+00:00'
   description: "Analistas divergem sobre as causas da longa desvaloriza\xE7\xE3o do\
     \ iene e sobre se \u2014 ou como \u2014 ela pode ser interrompida."
@@ -66,16 +75,6 @@
   path: https://investnews.com.br/economia/no-japao-iene-cai-a-menor-nivel-em-40-anos-e-acende-alerta-de-intervencao/
   title: "No Jap\xE3o, Iene cai a menor n\xEDvel em 40 anos e acende alerta de interven\xE7\
     \xE3o"
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-06-29T12:22:11+00:00'
-  description: "Constru\xEDda ao longo dos \xFAltimos 15 anos com apoio governamental,\
-    \ a rede de energia solar do Brasil j\xE1 responde por quase 20% da capacidade\
-    \ instalada de gera\xE7\xE3o do pa\xEDs"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/copa-do-mundo-expoe-desafio-da-energia-solar-para-a-rede-eletrica-do-brasil/
-  title: "Copa do Mundo exp\xF5e desafio da energia solar para a rede el\xE9trica\
-    \ do Brasil"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-06-23T17:58:39+00:00'
