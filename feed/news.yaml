@@ -1,3 +1,13 @@
+- author: "InvestNews - Finan\xE7as"
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-03T21:56:35+00:00'
+  description: "Mbapp\xE9 montou seu pr\xF3prio bra\xE7o de investimentos e expandiu\
+    \ seu portf\xF3lio nas mais diversas \xE1reas"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/mbappe-franca-negocios-fortuna/
+  title: "Mbapp\xE9: como o capit\xE3o da Fran\xE7a se tornou artilheiro tamb\xE9\
+    m nos neg\xF3cios"
 - author: InvestNews - Economia
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Elei\xE7\xF5es 2026: a tr\xEAs meses do primeiro turno, veja o calend\xE1\
     rio"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-02T19:45:40+00:00'
   description: "Pagamento da restitui\xE7\xE3o do Imposto de Renda ser\xE1 feito para\
     \ contribuintes que n\xE3o declararam, mas tiveram imposto retido"
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/financas/receita-consulta-lote-especial-restituicao-do-imposto-de-renda/
   title: "Receita abre consulta a lote especial de restitui\xE7\xE3o do Imposto de\
     \ Renda"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id001
-  date: '2026-07-02T18:03:02+00:00'
-  description: "Noruega de Haaland supera Marrocos e Jap\xE3o entre rivais que a sele\xE7\
-    \xE3o brasileira enfrentou at\xE9 agora"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/haaland-adversario-brasil-copa-do-mundo-noruega/
-  title: "Com Haaland, Noruega se torna a sele\xE7\xE3o mais valiosa entre os rivais\
-    \ do Brasil"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
