@@ -1,6 +1,25 @@
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-07-10T17:48:30+00:00'
+  description: "Aos 18 anos, Yamal j\xE1 organiza direitos de imagem, marcas e uma\
+    \ frente imobili\xE1ria enquanto ganha protagonismo no futebol"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/estreante-na-copa-yamal-chega-a-valor-de-mercado-superior-a-r-1-bilhao/
+  title: "Estreante na Copa, Yamal chega a valor de mercado superior a R$ 1 bilh\xE3\
+    o"
 - author: InvestNews - Economia
   categories: &id001
   - "Not\xEDcias"
+  date: '2026-07-10T17:06:15+00:00'
+  description: "Ex-presidente do BC do Brasil, Fraga foi escolhido para integrar um\
+    \ grupo de especialistas encarregado de avaliar aspectos-chave da pol\xEDtica\
+    \ monet\xE1ria do Fed"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/arminio-fraga-ex-presidente-do-bc-entra-em-forca-tarefa-do-fed/
+  title: "Arm\xEDnio Fraga, ex-presidente do BC, entra em for\xE7a-tarefa do Fed"
+- author: InvestNews - Economia
+  categories: *id001
   date: '2026-07-10T13:56:01+00:00'
   description: "No Brasil, o sal\xE1rio do chefe do Executivo Federal \xE9 o teto\
     \ m\xE1ximo do funcionalismo p\xFAblico"
@@ -8,8 +27,7 @@
   path: https://investnews.com.br/economia/presidente-da-republica-quanto-ganha/
   title: "Presidente da Rep\xFAblica: o que faz e qual o sal\xE1rio"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-07-10T13:34:17+00:00'
   description: "Fora de campo, Harry Kane montou uma frente patrimonial conectada\
     \ a participa\xE7\xF5es minorit\xE1rias e parcerias comerciais"
@@ -17,26 +35,6 @@
   path: https://investnews.com.br/financas/inglaterra-harry-kane-negocios-copa-do-mundo/
   title: "Capit\xE3o da Inglaterra, Harry Kane tem neg\xF3cios que v\xE3o de snacks\
     \ saud\xE1veis \xE0 IA fitness"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-07-09T17:44:07+00:00'
-  description: "Nova regulamenta\xE7\xE3o permite maior atua\xE7\xE3o privada na produ\xE7\
-    \xE3o, refino, comercializa\xE7\xE3o e distribui\xE7\xE3o de combust\xEDveis,\
-    \ em uma tentativa de atrair investimentos ap\xF3s anos de crise e san\xE7\xF5\
-    es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/estatal-pdvsa-perde-espaco-em-nova-era-do-petroleo-na-venezuela/
-  title: "Estatal PDVSA perde espa\xE7o na nova era do petr\xF3leo na Venezuela"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-07-09T10:08:00+00:00'
-  description: "O ic\xF4nico edif\xEDcio projetado por Oscar Niemeyer se tornou um\
-    \ endere\xE7o disputado do Airbnb em S\xE3o Paulo e mostra-se como uma oportunidade\
-    \ de investimento para quem busca rentabilidade com im\xF3veis"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/copan-aluguel-de-temporada/
-  title: 'Copan 60 anos: maior complexo residencial vira renda extra com aluguel de
-    temporada'
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
