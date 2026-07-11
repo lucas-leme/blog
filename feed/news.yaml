@@ -1,3 +1,12 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-11T16:19:25+00:00'
+  description: Em vez das 185 mil vagas projetadas pela FIFA, o setor de lazer e hospitalidade
+    encolheu 21 mil postos
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/os-eua-esperavam-um-boom-de-empregos-temporarios-com-a-copa-nao-rolou/
+  title: "Os EUA esperavam um boom de empregos tempor\xE1rios com a Copa. N\xE3o rolou"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +18,7 @@
   title: "Estreante na Copa, Yamal chega a valor de mercado superior a R$ 1 bilh\xE3\
     o"
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-10T17:06:15+00:00'
   description: "Ex-presidente do BC do Brasil, Fraga foi escolhido para integrar um\
     \ grupo de especialistas encarregado de avaliar aspectos-chave da pol\xEDtica\
@@ -18,14 +26,6 @@
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/economia/arminio-fraga-ex-presidente-do-bc-entra-em-forca-tarefa-do-fed/
   title: "Arm\xEDnio Fraga, ex-presidente do BC, entra em for\xE7a-tarefa do Fed"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-07-10T13:56:01+00:00'
-  description: "No Brasil, o sal\xE1rio do chefe do Executivo Federal \xE9 o teto\
-    \ m\xE1ximo do funcionalismo p\xFAblico"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/presidente-da-republica-quanto-ganha/
-  title: "Presidente da Rep\xFAblica: o que faz e qual o sal\xE1rio"
 - author: "InvestNews - Finan\xE7as"
   categories: *id002
   date: '2026-07-10T13:34:17+00:00'
