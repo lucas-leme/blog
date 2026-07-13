@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-13T19:52:35.550298'
+  date: '2026-07-13T21:14:34.683861'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-13T19:52:35.550295'
+  date: '2026-07-13T21:14:34.683856'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-13T19:52:35.550290'
+  date: '2026-07-13T21:14:34.683851'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-13T19:52:35.550279'
+  date: '2026-07-13T21:14:34.683839'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,21 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-07-13T20:54:31+00:00'
+  description: "<p>O Rio de Janeiro est\xE1 recebendo nesta semana tr\xEAs ganhadores\
+    \ do Nobel de Economia e dezenas dos principais pesquisadores internacionais para\
+    \ uma confer\xEAncia anual sobre o desenvolvimento da teoria econ\xF4mica, na\
+    \ qual o grande homenageado \xE9 Aloisio Araujo, que completou 80 anos em janeiro.\
+    \ O 25\xBA encontro da Society for the Advancement of Economic Theory [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/no-impa-um-mestre-pondera-seu-legado/\"\
+    \ rel=\"nofollow\">No IMPA, um mestre pondera seu legado</a> appeared first on\
+    \ <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-impa-um-mestre-pondera-seu-legado/
+  title: No IMPA, um mestre pondera seu legado
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-07-13T12:00:00+00:00'
@@ -459,8 +474,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/retirement-strategy-plain-sight
   title: The Retirement Strategy Hiding in Plain Sight
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id005
-  - Economia
+  categories: *id002
   date: '2026-07-12T23:30:47+00:00'
   description: "<p>O presidente do Federal Reserve, Kevin Warsh, acaba de demonstrar\
     \ seu empenho em fazer reformas profundas na atua\xE7\xE3o do BC americano. Ele\
@@ -485,7 +499,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: ArjanCodes
-  categories: &id004
+  categories: &id005
   - Tech
   - Code
   - Youtube
@@ -541,7 +555,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/07/effect-of-tariffs-on-u-s-small-businesses/
   title: Effect of Tariffs on U.S. Small Businesses
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-07-09T00:00:00+00:00'
   description: "A Magalu ainda consegue virar o jogo \u2014 ou os juros, a concorr\xEA\
@@ -597,7 +611,7 @@
   path: https://open.spotify.com/episode/7otR2RqAcQ1qMspc4nkJgg
   title: "The Economist\u2019s long struggle with the oil price"
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-07-08T19:44:58+00:00'
@@ -633,7 +647,7 @@
   path: https://open.spotify.com/episode/2eEdx5hqrBvmPR3Yc5TTNW
   title: 'Hybrid: Rethinking Risk and Return'
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2026-07-07T10:31:42+00:00'
   description: 'They won''t tell us what the b stands for, but...
 
@@ -658,7 +672,7 @@
   path: https://www.youtube.com/watch?v=DUgPFNRmsCQ
   title: 'Nothing Phone 4b: They Can''t Say It!'
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-07-07T00:00:00+00:00'
   description: "CONFIRA A \xDALTIMA EDI\xC7\xC3O DA THE REPORT: https://store.mmakers.com.br/the-report-rpt02/Multimercados\
     \ morreram \u2014 ou estamos confundindo m\xEAses ruim com o fim de uma ind\xFA\
@@ -748,7 +762,7 @@
   path: https://open.spotify.com/episode/5l5t9U2KP2yXAf2vf2A7RD
   title: "Ben Wellington \u2013 Complex Feature Engineering at Two Sigma (S7E32)"
 - author: ArjanCodes
-  categories: *id004
+  categories: *id005
   date: '2026-07-03T15:00:37+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nA few weeks ago, I said\
@@ -769,20 +783,6 @@
   image: https://i1.ytimg.com/vi/0sbLM_rBgww/hqdefault.jpg
   path: https://www.youtube.com/watch?v=0sbLM_rBgww
   title: AI Writes Code Faster Than You. Now What?
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id005
-  date: '2026-07-03T09:50:19+00:00'
-  description: "<p>A queixa dos EUA contra o Pix confunde redistribui\xE7\xE3o de\
-    \ renda com fechamento de mercado. O Pix n\xE3o tirou mercado das empresas americanas;\
-    \ ele mudou de onde se extrai a renda e, em v\xE1rias frentes, ampliou o mercado\
-    \ das mesmas empresas em nome de quem se pede a puni\xE7\xE3o. O que a queixa\
-    \ protege n\xE3o [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/opiniao-por-que-a-queixa-americana-contra-o-pix-e-b-s/\"\
-    \ rel=\"nofollow\">OPINI\xC3O. Por que a queixa americana contra o Pix \xE9 B.S.\_\
-    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-por-que-a-queixa-americana-contra-o-pix-e-b-s/
-  title: "OPINI\xC3O. Por que a queixa americana contra o Pix \xE9 B.S."
 - author: Outliers
   categories: *id006
   date: '2026-06-30T00:00:00+00:00'
