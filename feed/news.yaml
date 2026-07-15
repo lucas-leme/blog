@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-15T12:10:00+00:00'
+  description: "Entenda quais s\xE3o os tipos de multa eleitoral, confira o passo\
+    \ a passo para quitar as pend\xEAncias online e saiba como ficam as restri\xE7\
+    \xF5es em 2026"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/multa-eleitoral/
+  title: "Multa eleitoral: como consultar e pagar o d\xE9bito online"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
@@ -9,8 +19,7 @@
   title: "Receita paga nesta quarta-feira (15) lote especial da restitui\xE7\xE3o\
     \ do IR. Veja quem recebe"
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-14T14:35:25+00:00'
   description: Entenda como atuam em cada esfera, quais leis podem propor e quanto
     recebem
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/economia/deputados_funcoes_salarios/
   title: "Deputados no Brasil: diferen\xE7as entre federal, estadual e distrital,\
     \ fun\xE7\xF5es e sal\xE1rios"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-07-14T12:44:09+00:00'
-  description: "Controv\xE9rsia sobre a soberania das Malvinas envolve hist\xF3ria\
-    \ colonial, guerra e controle de recursos naturais entre Inglaterra e Argentina"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/malvinas-semifinal-copa-inglaterra-argentina/
-  title: 'Malvinas: entenda a disputa, fora da semifinal da Copa, entre Inglaterra
-    e Argentina'
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
