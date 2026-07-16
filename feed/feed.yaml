@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-07-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Francesco
@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-16T03:45:49.795742'
+  date: '2026-07-16T12:20:12.270966'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-16T03:45:49.795739'
+  date: '2026-07-16T12:20:12.270962'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-16T03:45:49.795734'
+  date: '2026-07-16T12:20:12.270957'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-16T03:45:49.795722'
+  date: '2026-07-16T12:20:12.270945'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id001
+  - Economia
+  date: '2026-07-16T09:50:52+00:00'
+  description: "<p>Os gastos com o Judici\xE1rio est\xE3o abocanhando uma fatia cada\
+    \ vez maior das despesas dos Estados. Mas os governadores parecem pouco preocupados\
+    \ com isso \u2013 \xE9 o pre\xE7o a pagar para terem ju\xEDzes e promotores alinhados\
+    \ com seus interesses. O que deveria ser um arranjo institucional blindando a\
+    \ Justi\xE7a dos constrangimentos pol\xEDticos acabou se transformando [&#8230;]</p>\n\
+    <p>The post <a href=\"https://braziljournal.com/tudo-por-dinheiro-o-conluio-entre-governadores-e-a-justica-nos-estados/\"\
+    \ rel=\"nofollow\">Tudo por dinheiro: o conluio entre governadores e a Justi\xE7\
+    a nos estados</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/tudo-por-dinheiro-o-conluio-entre-governadores-e-a-justica-nos-estados/
+  title: "Tudo por dinheiro: o conluio entre governadores e a Justi\xE7a nos estados"
 - author: AQR
   categories:
   - Quant
@@ -515,7 +531,7 @@
   path: https://open.spotify.com/episode/1MzPPXd2v1pol0O7TL6GMl
   title: '#386 | RONALDO CAIADO ABRE O JOGO SOBRE O FUTURO DO BRASIL'
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-07-14T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
@@ -538,9 +554,33 @@
   path: https://open.spotify.com/episode/5GV93rGf7ErfIRRa8DY2D7
   title: "Investimentos tem\xE1ticos: como as gestoras enxergam o futuro | Espresso\
     \ Outliers InfoMoney #19"
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2026-07-13T22:27:02+00:00'
+  description: 'First look at iOS 27 - coming soon to an iPhone near you. It''s about
+    time.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=_oRgdlJUD18
+  title: 'iOS 27 Hands-On: Top 5 New Features!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id001
   date: '2026-07-13T20:54:31+00:00'
   description: "<p>O Rio de Janeiro est\xE1 recebendo nesta semana tr\xEAs ganhadores\
     \ do Nobel de Economia e dezenas dos principais pesquisadores internacionais para\
@@ -554,26 +594,38 @@
   path: https://braziljournal.com/no-impa-um-mestre-pondera-seu-legado/
   title: No IMPA, um mestre pondera seu legado
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-07-13T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/retirement-strategy-plain-sight
   title: The Retirement Strategy Hiding in Plain Sight
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-07-12T23:30:47+00:00'
-  description: "<p>O presidente do Federal Reserve, Kevin Warsh, acaba de demonstrar\
-    \ seu empenho em fazer reformas profundas na atua\xE7\xE3o do BC americano. Ele\
-    \ criou cinco for\xE7as-tarefas, lideradas por um time de not\xE1veis da academia\
-    \ e do setor privado \u2013 entre eles o Nobel de Economia Thomas Sargent, o ex-CEO\
-    \ do Walmart Doug McMillon e o ex-presidente [&#8230;]</p>\n<p>The post <a href=\"\
-    https://braziljournal.com/os-notaveis-que-vao-repensar-o-fed/\" rel=\"nofollow\"\
-    >Os not\xE1veis que v\xE3o repensar o Fed</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/os-notaveis-que-vao-repensar-o-fed/
-  title: "Os not\xE1veis que v\xE3o repensar o Fed"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-07-10T15:00:30+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\n'None' seems harmless at\
+    \ first. But once it starts spreading through your codebase, every function needs\
+    \ more checks, more validation, and more defensive programming.\n\nIn this video,\
+    \ I show several ways to avoid overusing 'None', including better defaults, fail-fast\
+    \ validation, explicit state modeling, and the Null Object pattern. The goal isn't\
+    \ to eliminate 'None' completely, but to keep uncertainty at the edges of your\
+    \ system and make the core of your code simpler and more reliable.\n\n\U0001F525\
+    \ GitHub Repository: https://git.arjan.codes/2026/none.\n\n\U0001F393 ArjanCodes\
+    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
+    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
+    \n\U0001F516 Chapters:\n0:00 Intro\n1:08 Why None Spreads\n2:49 Option 1: Use\
+    \ Better Defaults\n4:06 Option 2: Push Validation Earlier\n8:21 Option 3: Rely\
+    \ on exceptions\n10:26 Option 4: Model Different States Explicitly\n12:59 Option\
+    \ 5: Use a Null Object\n15:50 Option 6: The Less Common Options\n18:34 Fail Fast\
+    \ vs Defensive Programming\n19:59 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i1.ytimg.com/vi/h8ZwhU3PpVw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=h8ZwhU3PpVw
+  title: Stop Checking for None Everywhere
 - author: The Psychology of Money with Morgan Housel
   categories:
   - Podcasts
@@ -637,6 +689,28 @@
   image: https://i.scdn.co/image/ab6765630000ba8a8f65d7b65aa6b117418c4f46
   path: https://open.spotify.com/episode/7otR2RqAcQ1qMspc4nkJgg
   title: "The Economist\u2019s long struggle with the oil price"
+- author: Marques Brownlee
+  categories: *id004
+  date: '2026-07-08T19:44:58+00:00'
+  description: 'Apple lost the AI race. Actually, Apple won the AI race. Wait.
+
+
+    That shirt: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=eWKY0OnPByg
+  title: Apple Lost the AI Race
 - author: The View From Apollo
   categories:
   - Podcasts
@@ -650,7 +724,7 @@
   path: https://open.spotify.com/episode/2eEdx5hqrBvmPR3Yc5TTNW
   title: 'Hybrid: Rethinking Risk and Return'
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-07-07T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERT\
     \ Garanta o seu ingresso: https://www.expertxp.com.br/ingressos/_________________________INFOMORNING\
@@ -703,8 +777,30 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad562d1719c6410703076764c
   path: https://open.spotify.com/episode/5l5t9U2KP2yXAf2vf2A7RD
   title: "Ben Wellington \u2013 Complex Feature Engineering at Two Sigma (S7E32)"
+- author: ArjanCodes
+  categories: *id006
+  date: '2026-07-03T15:00:37+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nA few weeks ago, I said\
+    \ I was done with the AI hype. That raised an important question: if AI writes\
+    \ more and more code, what skills actually matter for developers?\n\nIn this video,\
+    \ I share 5 non-coding skills that I believe will become even more important in\
+    \ the age of AI, from understanding the real problem and making good trade-offs\
+    \ to communication, systems thinking, and mastering the fundamentals. AI can generate\
+    \ code, but great software still requires judgment.\n\n\U0001F393 ArjanCodes Courses:\
+    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
+    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
+    \ Chapters:\n0:00 Intro\n2:51 Coding Was Never the Hard Part\n4:10 Skill #1 \u2014\
+    \ Understanding the Real Problem\n7:06 Skill #2 \u2014 Knowing the Fundamentals\n\
+    8:51 Skill #3 \u2014 Making Trade-Offs\n11:08 Skill #4 \u2014 Communication\n\
+    13:19 Skill #5 \u2014 System Thinking\n15:02 AI Changes How We Explore Ideas\n\
+    16:30 Reading Code Is More Important Than Writing Code\n17:19 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/0sbLM_rBgww/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=0sbLM_rBgww
+  title: AI Writes Code Faster Than You. Now What?
 - author: The Overshoot
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-06-23T11:43:58+00:00'
@@ -714,7 +810,7 @@
   path: https://theovershoot.co/p/the-win-win-solution-to-china-shock
   title: The Win-Win Solution to "China Shock 2.0"
 - author: The Overshoot
-  categories: *id005
+  categories: *id007
   date: '2026-06-17T09:34:20+00:00'
   description: Hormuz may be opening up, but the combination of robust growth and
     stable-to-accelerating underlying inflation suggests that the previous bias to
@@ -723,7 +819,7 @@
   path: https://theovershoot.co/p/the-case-for-higher-us-rates
   title: The Case for Higher U.S. Rates
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -733,7 +829,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id008
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -742,7 +838,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id007
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -758,7 +854,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id007
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
