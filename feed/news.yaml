@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-18T19:17:57+00:00'
+  description: "Busca por outros mercados j\xE1 faz diferen\xE7a: mesmo com queda\
+    \ nas exporta\xE7\xF5es para os EUA, o com\xE9rcio exterior cresceu 11,5% no semestre"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/tarifaco-como-o-governo-pretende-substituir-exportacoes-para-os-eua/
+  title: "Tarifa\xE7o: como o governo planeja substituir exporta\xE7\xF5es para os\
+    \ EUA"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
@@ -8,8 +18,7 @@
   path: https://investnews.com.br/financas/campea-copa-do-mundo-2026-espanha-argentina/
   title: "Quem vai ganhar a Copa do Mundo 2026? Sites de aposta j\xE1 t\xEAm uma campe\xE3"
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-17T12:52:05+00:00'
   description: "O TSE definiu os valores do fundo eleitoral para as elei\xE7\xF5es\
     \ gerais de 2026; j\xE1 o fundo partid\xE1rio segue sendo repassado todo m\xEA\
@@ -18,15 +27,6 @@
   path: https://investnews.com.br/economia/fundo-eleitoral-e-fundo-partidario/
   title: "Fundo eleitoral e partid\xE1rio: entenda a diferen\xE7a e quanto ser\xE1\
     \ destinado nas elei\xE7\xF5es 2026"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-07-16T20:37:17+00:00'
-  description: "Diferente da cana, o etanol de milho cresceu no Centro-Oeste e tirou\
-    \ a vantagem log\xEDstica que sustentava o etanol americano no Brasil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/negocios/etanol-milho-brasil-tarifa-eua/
-  title: "Milho x milho: novo mapa do etanol brasileiro tirou mercado dos EUA e contribuiu\
-    \ para o tarifa\xE7o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
