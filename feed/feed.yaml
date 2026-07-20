@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-20T19:59:21.347868'
+  date: '2026-07-20T21:35:22.086074'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-20T19:59:21.347864'
+  date: '2026-07-20T21:35:22.086070'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-20T19:59:21.347859'
+  date: '2026-07-20T21:35:22.086066'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-20T19:59:21.347847'
+  date: '2026-07-20T21:35:22.086053'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,15 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2026-07-20T20:39:08+00:00'
+  description: Keep zooming. Keep zooming.
+  image: https://i4.ytimg.com/vi/kUnR9dO4EnA/hqdefault.jpg
+  path: https://www.youtube.com/shorts/kUnR9dO4EnA
+  title: This ZOOM is Insane!
 - author: AQR
   categories:
   - Quant
@@ -462,6 +471,16 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-07-20T12:00:00+00:00'
+  description: This report addresses how artificial intelligence could reshape finance
+    by changing how investors process information, allocate capital, manage risk,
+    define professional skill, and preserve accountability in an increasingly automated
+    system.
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2026/artificial-intelligence-future-of-finance
+  title: Artificial Intelligence and the Future of Finance
 - author: Market Makers
   categories: &id002
   - Podcasts
@@ -492,13 +511,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a02b170334af5ce562dca187c
   path: https://open.spotify.com/episode/7fNObRvddssh1UC5RI4uOy
   title: '#388 | DANIEL HADDAD: COMO PROTEGER O SEU DINHEIRO DO RISCO BRASIL?'
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-07-17T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/markets-struggle-to-price-heat
-  title: "Heat is a Risk\u2013Markets Still Struggle to Price It"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -530,7 +542,7 @@
   path: https://open.spotify.com/episode/5KNn7ZlyF856CElUTeOri6
   title: Six Quotes That Changed Me
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2026-07-16T09:50:52+00:00'
   description: "<p>Os gastos com o Judici\xE1rio est\xE3o abocanhando uma fatia cada\
@@ -630,9 +642,7 @@
   title: "Investimentos tem\xE1ticos: como as gestoras enxergam o futuro | Espresso\
     \ Outliers InfoMoney #19"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2026-07-13T22:27:02+00:00'
   description: 'First look at iOS 27 - coming soon to an iPhone near you. It''s about
     time.
@@ -655,7 +665,7 @@
   path: https://www.youtube.com/watch?v=_oRgdlJUD18
   title: 'iOS 27 Hands-On: Top 5 New Features!'
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2026-07-13T20:54:31+00:00'
   description: "<p>O Rio de Janeiro est\xE1 recebendo nesta semana tr\xEAs ganhadores\
     \ do Nobel de Economia e dezenas dos principais pesquisadores internacionais para\
@@ -694,28 +704,6 @@
   image: https://i1.ytimg.com/vi/h8ZwhU3PpVw/hqdefault.jpg
   path: https://www.youtube.com/watch?v=h8ZwhU3PpVw
   title: Stop Checking for None Everywhere
-- author: Marques Brownlee
-  categories: *id004
-  date: '2026-07-08T19:44:58+00:00'
-  description: 'Apple lost the AI race. Actually, Apple won the AI race. Wait.
-
-
-    That shirt: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i2.ytimg.com/vi/eWKY0OnPByg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=eWKY0OnPByg
-  title: Apple Lost the AI Race
 - author: The View From Apollo
   categories:
   - Podcasts
