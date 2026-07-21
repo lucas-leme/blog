@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-07-29T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Francesco
@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-21T12:24:00.217400'
+  date: '2026-07-21T15:22:32.660837'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-21T12:24:00.217396'
+  date: '2026-07-21T15:22:32.660834'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-21T12:24:00.217392'
+  date: '2026-07-21T15:22:32.660829'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-21T12:24:00.217381'
+  date: '2026-07-21T15:22:32.660816'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,13 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-07-21T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/professional-transitions-in-investment-management
+  title: Six Steps for Navigating Professional Transitions in Investment Management
 - author: The Overshoot
   categories: &id007
   - Macro
@@ -463,7 +470,7 @@
   path: https://theovershoot.co/p/us-inflation-is-not-really-slowing
   title: U.S. Inflation Is Not Really Slowing
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-07-20T22:20:35+00:00'
   description: "<p>O Hexa ainda n\xE3o veio \u2013 mas quando o assunto \xE9 olimp\xED\
@@ -480,7 +487,7 @@
   title: "Brasil ganha tr\xEAs ouros na Olimp\xEDada de Economia \u2013 e tem maior\
     \ nota da hist\xF3ria"
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-07-20T21:40:02+00:00'
   description: "<p>A regi\xE3o metropolitana de Manchester, no norte da Inglaterra,\
     \ \xE9 hoje uma das mais din\xE2micas do Reino Unido, crescendo ao ritmo de 3%\
@@ -515,16 +522,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-07-20T12:00:00+00:00'
-  description: This report addresses how artificial intelligence could reshape finance
-    by changing how investors process information, allocate capital, manage risk,
-    define professional skill, and preserve accountability in an increasingly automated
-    system.
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2026/artificial-intelligence-future-of-finance
-  title: Artificial Intelligence and the Future of Finance
 - author: Market Makers
   categories: &id003
   - Podcasts
