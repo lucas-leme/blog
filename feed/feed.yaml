@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-22T12:25:12.847126'
+  date: '2026-07-22T15:20:00.489552'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-22T12:25:12.847122'
+  date: '2026-07-22T15:20:00.489548'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-22T12:25:12.847117'
+  date: '2026-07-22T15:20:00.489544'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-22T12:25:12.847106'
+  date: '2026-07-22T15:20:00.489532'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,8 +451,45 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
-- author: Market Makers
+- author: Marques Brownlee
   categories: &id003
+  - Tech
+  - Youtube
+  date: '2026-07-22T13:01:05+00:00'
+  description: 'Samsung''s wide fold is surprisingly nice to use. And everything is
+    more expensive.
+
+
+    Protect your next Samsung Flip or Fold with dbrand at https://dbrand.com/shop/fold8
+
+
+    Affiliate Links:
+
+    Samsung Galaxy Z Fold 8: https://geni.us/GEv50B
+
+    Samsung Galaxy Z Fold 8 Ultra: https://geni.us/kWg2rl3
+
+    Samsung Galaxy Z Flip 8: https://geni.us/2An1N
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i1.ytimg.com/vi/8Hx2yvWSgs0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=8Hx2yvWSgs0
+  title: 'Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!'
+- author: Market Makers
+  categories: &id004
   - Podcasts
   date: '2026-07-22T00:00:00+00:00'
   description: "Neste epis\xF3dio do Market Makers, Thiago Salom\xE3o e Leopoldo Rosa\
@@ -525,7 +562,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/professional-transitions-in-investment-management
   title: Six Steps for Navigating Professional Transitions in Investment Management
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-07-21T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
@@ -589,16 +626,14 @@
   title: "Brasil ganha tr\xEAs ouros na Olimp\xEDada de Economia \u2013 e tem maior\
     \ nota da hist\xF3ria"
 - author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
+  categories: *id003
   date: '2026-07-20T20:39:08+00:00'
   description: Keep zooming. Keep zooming.
   image: https://i4.ytimg.com/vi/kUnR9dO4EnA/hqdefault.jpg
   path: https://www.youtube.com/shorts/kUnR9dO4EnA
   title: This ZOOM is Insane!
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-07-19T00:00:00+00:00'
   description: "Voc\xEA est\xE1 exposto ao d\xF3lar todos os dias \u2014 mas talvez\
     \ ainda mantenha quase todo o seu patrim\xF4nio em reais.Neste epis\xF3dio do\
@@ -673,7 +708,7 @@
   path: https://open.spotify.com/episode/04UzPvv7ljaaMVkhmgkFcP
   title: The man reinventing a trillion-dollar drugmaker
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-07-14T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
     \ o seu ingresso: https://www.expertxp.com.br/ingressos/_________________________INFOMORNING\
@@ -695,29 +730,6 @@
   path: https://open.spotify.com/episode/5GV93rGf7ErfIRRa8DY2D7
   title: "Investimentos tem\xE1ticos: como as gestoras enxergam o futuro | Espresso\
     \ Outliers InfoMoney #19"
-- author: Marques Brownlee
-  categories: *id005
-  date: '2026-07-13T22:27:02+00:00'
-  description: 'First look at iOS 27 - coming soon to an iPhone near you. It''s about
-    time.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/_oRgdlJUD18/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=_oRgdlJUD18
-  title: 'iOS 27 Hands-On: Top 5 New Features!'
 - author: ArjanCodes
   categories: &id006
   - Tech
