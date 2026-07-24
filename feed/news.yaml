@@ -1,14 +1,25 @@
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2026-07-23T21:27:51+00:00'
-  description: "Medida decorre de investiga\xE7\xE3o sobre trabalho for\xE7ado em\
-    \ 60 pa\xEDses e deve se somar \xE0 tarifa de 25% em vigor desde quarta-feira"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/eua-tarifa-extra-brasil-12-5/
-  title: EUA aplicam tarifa extra de 12,5% ao Brasil; taxa total pode chegar a 37,5%
-- author: "InvestNews - Finan\xE7as"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-24T19:08:04+00:00'
+  description: "Veja quem pode votar em outro pa\xEDs e como quem mora fora, mas estar\xE1\
+    \ no Brasil nos dias da elei\xE7\xE3o, pode pedir o voto em tr\xE2nsito at\xE9\
+    \ 20 de agosto"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/voto-no-exterior/
+  title: "Mora em outro pa\xEDs? Veja como funciona o voto no exterior nas elei\xE7\
+    \xF5es 2026"
+- author: InvestNews - Economia
+  categories: *id001
+  date: '2026-07-24T18:34:48+00:00'
+  description: "Nova deteriora\xE7\xE3o no cen\xE1rio econ\xF4mico global coloca em\
+    \ xeque o al\xEDvio recente nas expectativas de infla\xE7\xE3o e desafia os bancos\
+    \ centrais"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/os-tres-fatores-que-reacenderam-o-medo-de-inflacao-global/
+  title: "Os tr\xEAs fatores que reacenderam o medo de infla\xE7\xE3o global"
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-07-23T19:21:16+00:00'
   description: "Sistema do CNPJ ter\xE1 funcionamento limitado a partir desta quinta-feira\
@@ -18,7 +29,7 @@
   title: CNPJ fora do ar? Receita paralisa sistema para implementar novo modelo com
     letras
 - author: "InvestNews - Finan\xE7as"
-  categories: *id001
+  categories: *id002
   date: '2026-07-23T18:40:11+00:00'
   description: "Terceiro lote da restitui\xE7\xE3o do Imposto de Renda 2026 contempla\
     \ 2,7 milh\xF5es de contribuintes e ser\xE1 pago em 31 de julho"
@@ -26,15 +37,6 @@
   path: https://investnews.com.br/financas/receita-consulta-3o-lote-da-restituicao-do-ir-2026/
   title: "Receita abre consulta ao 3\xBA lote da restitui\xE7\xE3o do IR 2026; veja\
     \ quem recebe"
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-07-23T14:37:43+00:00'
-  description: "Ambos s\xE3o inv\xE1lidos, mas funcionam de forma diferente na urna.\
-    \ Veja o que diz a legisla\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/voto-em-branco-ou-nulo/
-  title: "Voto em branco ou nulo: entenda a diferen\xE7a e o impacto na elei\xE7\xE3\
-    o"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
