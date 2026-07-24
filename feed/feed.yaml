@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-24T14:16:58.864159'
+  date: '2026-07-24T15:13:17.146583'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-24T14:16:58.864156'
+  date: '2026-07-24T15:13:17.146579'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-24T14:16:58.864151'
+  date: '2026-07-24T15:13:17.146574'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-24T14:16:58.864140'
+  date: '2026-07-24T15:13:17.146563'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,28 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-07-24T15:00:16+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
+    \ a travel booking workflow to show how structural coupling, temporal coupling,\
+    \ and connascence make code fragile. You'll learn how to spot these problems,\
+    \ reduce the impact of future changes, and design workflows that are much easier\
+    \ to maintain.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/coupling.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:42 The Before Version\n3:38 Structural Coupling\n3:54 Temporal Coupling\n4:53\
+    \ The Refactoring\n8:26 Payoff: Why the Hook Happened\n9:29 The Law of Demeter\n\
+    12:45 Interfaces Where They Help\n15:16 Connascence\n17:04 Final Thoughts\n\n\
+    #arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/UEqk0njCuQo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=UEqk0njCuQo
+  title: "You Added One Feature\u2026 and Broke Three Others"
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-07-24T12:00:00+00:00'
@@ -733,10 +755,7 @@
   title: "Investimentos tem\xE1ticos: como as gestoras enxergam o futuro | Espresso\
     \ Outliers InfoMoney #19"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id006
   date: '2026-07-10T15:00:30+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\n'None' seems harmless at\
@@ -792,28 +811,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ad562d1719c6410703076764c
   path: https://open.spotify.com/episode/5l5t9U2KP2yXAf2vf2A7RD
   title: "Ben Wellington \u2013 Complex Feature Engineering at Two Sigma (S7E32)"
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-07-03T15:00:37+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nA few weeks ago, I said\
-    \ I was done with the AI hype. That raised an important question: if AI writes\
-    \ more and more code, what skills actually matter for developers?\n\nIn this video,\
-    \ I share 5 non-coding skills that I believe will become even more important in\
-    \ the age of AI, from understanding the real problem and making good trade-offs\
-    \ to communication, systems thinking, and mastering the fundamentals. AI can generate\
-    \ code, but great software still requires judgment.\n\n\U0001F393 ArjanCodes Courses:\
-    \ https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\
-    \n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516\
-    \ Chapters:\n0:00 Intro\n2:51 Coding Was Never the Hard Part\n4:10 Skill #1 \u2014\
-    \ Understanding the Real Problem\n7:06 Skill #2 \u2014 Knowing the Fundamentals\n\
-    8:51 Skill #3 \u2014 Making Trade-Offs\n11:08 Skill #4 \u2014 Communication\n\
-    13:19 Skill #5 \u2014 System Thinking\n15:02 AI Changes How We Explore Ideas\n\
-    16:30 Reading Code Is More Important Than Writing Code\n17:19 Final Thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/0sbLM_rBgww/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=0sbLM_rBgww
-  title: AI Writes Code Faster Than You. Now What?
 - author: The Overshoot
   categories: *id007
   date: '2026-06-23T11:43:58+00:00'
