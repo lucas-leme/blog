@@ -1,3 +1,12 @@
+- author: InvestNews - Economia
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-07-23T21:27:51+00:00'
+  description: "Medida decorre de investiga\xE7\xE3o sobre trabalho for\xE7ado em\
+    \ 60 pa\xEDses e deve se somar \xE0 tarifa de 25% em vigor desde quarta-feira"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/eua-tarifa-extra-brasil-12-5/
+  title: EUA aplicam tarifa extra de 12,5% ao Brasil; taxa total pode chegar a 37,5%
 - author: "InvestNews - Finan\xE7as"
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +27,7 @@
   title: "Receita abre consulta ao 3\xBA lote da restitui\xE7\xE3o do IR 2026; veja\
     \ quem recebe"
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-07-23T14:37:43+00:00'
   description: "Ambos s\xE3o inv\xE1lidos, mas funcionam de forma diferente na urna.\
     \ Veja o que diz a legisla\xE7\xE3o"
@@ -27,15 +35,6 @@
   path: https://investnews.com.br/economia/voto-em-branco-ou-nulo/
   title: "Voto em branco ou nulo: entenda a diferen\xE7a e o impacto na elei\xE7\xE3\
     o"
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-07-23T14:25:59+00:00'
-  description: "Pa\xEDs negocia com o bloco europeu para evitar restri\xE7\xF5es a\
-    \ embarques de carne bovina, frango, ovos e animais vivos"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/brasil-corre-para-evitar-embargo-da-uniao-europeia-a-carnes-us-18-bilhao-em-exportacoes/
-  title: "Brasil corre para evitar embargo europeu a carnes que amea\xE7a US$ 1,8\
-    \ bilh\xE3o em exporta\xE7\xF5es"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
