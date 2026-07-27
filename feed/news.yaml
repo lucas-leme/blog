@@ -1,3 +1,14 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-27T14:28:08+00:00'
+  description: "Visita de Kristalina Georgieva ocorre em meio \xE0 melhora da economia\
+    \ argentina, mas pa\xEDs enfrenta o desafio de voltar aos mercados e pagar d\xED\
+    vida bilion\xE1ria com o FMI"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/fmi-cobra-argentina-por-divida-de-us-57-bilhoes-e-milei-tenta-virar-a-pagina/
+  title: "FMI cobra Argentina por d\xEDvida de US$ 57 bilh\xF5es e Milei tenta virar\
+    \ a p\xE1gina"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -34,8 +45,7 @@
   path: https://www.reddit.com/r/CFA/comments/1v7pjnt/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-26T12:31:09+00:00'
   description: "Propriedades ultracaras encontram compradores globais, mas casas avaliadas\
     \ em poucos milh\xF5es de libras enfrentam uma crise que j\xE1 dura mais de uma\
@@ -44,15 +54,6 @@
   path: https://investnews.com.br/economia/em-londres-casas-de-bilionarios-vendem-enquanto-as-de-milionarios-encalham/
   title: "Em Londres, casas de bilion\xE1rios vendem enquanto as de milion\xE1rios\
     \ encalham"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-07-24T21:18:59+00:00'
-  description: "Nova tarifa se soma a sobretaxa j\xE1 em vigor e afeta US$ 12,4 bilh\xF5\
-    es em exporta\xE7\xF5es brasileiras para o mercado americano"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/4-mil-produtos-tarifa-exportacao-eua/
-  title: "Papel higi\xEAnico e mais 4 mil itens: os produtos brasileiros que v\xE3\
-    o pagar tarifa de 37,5% para entrar nos EUA"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
