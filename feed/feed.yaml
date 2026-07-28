@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-28T19:55:49.353993'
+  date: '2026-07-28T21:33:54.935389'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-28T19:55:49.353989'
+  date: '2026-07-28T21:33:54.935386'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-28T19:55:49.353985'
+  date: '2026-07-28T21:33:54.935382'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -155,7 +155,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-28T19:55:49.353973'
+  date: '2026-07-28T21:33:54.935372'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -451,6 +451,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-07-28T21:33:52+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-07-28T12:00:00+00:00'
@@ -458,17 +469,24 @@
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/why-yesterdays-market-rules-dont-always-apply-today
   title: Why Yesterday's Market Rules Don't Always Apply Today
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-07-27T21:31:44+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
+- author: Outliers
+  categories: &id005
+  - Podcasts
+  date: '2026-07-28T00:00:00+00:00'
+  description: "O patrim\xF4nio dos ETFs mais que duplicou em 18 meses: de R$ 54 bilh\xF5\
+    es, no fim de 2024, para os atuais R$ 120 bilh\xF5es. Considerando apenas o p\xFA\
+    blico pessoa f\xEDsica, segundo a B3, em um ano esses fundos de \xEDndice cresceram\
+    \ 35% em n\xFAmero de investidores e 72% em valor em cust\xF3dia.Para entender\
+    \ essa disparada dos ETFs, Clara Sodr\xE9, analista de fundos da XP, aproveitou\
+    \ a Expert XP 2026 para entrevistar dois especialistas nesse produto: Danilo Gabriel,\
+    \ gestor de fundos indexados na XP Asset, e Beatriz Batah, distribui\xE7\xE3o\
+    \ de ETFs na XP Asset.Prepare seu caf\xE9 e acompanhe um epis\xF3dio cheio de\
+    \ insights pr\xE1ticos!_________________________INFOMORNING | A newsletter com\
+    \ tudo o que voc\xEA precisa para come\xE7ar o diaReceba informa\xE7\xF5es, an\xE1\
+    lises e recomenda\xE7\xF5es que valem dinheiro diretamente no seu e-mail: https://www.infomoney.com.br/newsletters/"
+  image: https://i.scdn.co/image/ab6765630000ba8a6951125c1202400cef83f7bd
+  path: https://open.spotify.com/episode/5nEfPtgxPWO1d63UaEvULC
+  title: 'ETFs: XP Asset explica a disparada | Espresso Outliers InfoMoney #20'
 - author: Marques Brownlee
   categories: &id004
   - Tech
@@ -700,8 +718,7 @@
   path: https://www.youtube.com/watch?v=8Hx2yvWSgs0
   title: 'Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!'
 - author: Outliers
-  categories: &id005
-  - Podcasts
+  categories: *id005
   date: '2026-07-21T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
     \ o seu ingresso: https://www.expertxp.com.br/ingressos/_________________________INFOMORNING\
@@ -769,29 +786,6 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/07/nonbank-subsidiaries-and-the-hidden-fragility-of-internal-capital-markets-reallocation/
   title: Nonbank Subsidiaries and the Hidden Fragility of Internal Capital Markets
     Reallocation
-- author: Outliers
-  categories: *id005
-  date: '2026-07-14T00:00:00+00:00'
-  description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
-    \ o seu ingresso: https://www.expertxp.com.br/ingressos/_________________________INFOMORNING\
-    \ | A newsletter com tudo o que voc\xEA precisa para come\xE7ar o diaReceba informa\xE7\
-    \xF5es, an\xE1lises e recomenda\xE7\xF5es que valem dinheiro diretamente no seu\
-    \ e-mail: https://www.infomoney.com.br/newsletters/_________________________Investir\
-    \ em temas de longo prazo, como intelig\xEAncia artificial e minerais raros, parece\
-    \ um exerc\xEDcio sobre o futuro. Mas uma boa aloca\xE7\xE3o tem\xE1tica n\xE3\
-    o come\xE7a tentando adivinhar qual palavra vai dominar as manchetes. Ela come\xE7\
-    a com perguntas que v\xE3o ajudar a direcionar o capital no curto prazo. Qual\
-    \ gargalo precisa ser resolvido? Quem tem o poder de precifica\xE7\xE3o? A expectativa\
-    \ j\xE1 est\xE1 refletida nos pre\xE7os?Para responder essas perguntas, a XP realizou\
-    \ a pesquisa Investimentos Tem\xE1ticos Globais \u2013 um levantamento com 37\
-    \ gestoras brasileiras e estrangeiras que, juntas, administram mais de US$ 5,5\
-    \ trilh\xF5es.No Espresso Outliers InfoMoney #19, Clara Sodr\xE9, analista de\
-    \ fundos da XP, percorre os cinco principais resultados da pesquisa.Prepare seu\
-    \ caf\xE9 e acompanhe um epis\xF3dio cheio de insights pr\xE1ticos!"
-  image: https://i.scdn.co/image/ab6765630000ba8ac5ce08635eca6f70c61ca44e
-  path: https://open.spotify.com/episode/5GV93rGf7ErfIRRa8DY2D7
-  title: "Investimentos tem\xE1ticos: como as gestoras enxergam o futuro | Espresso\
-    \ Outliers InfoMoney #19"
 - author: ArjanCodes
   categories: *id006
   date: '2026-07-10T15:00:30+00:00'
