@@ -1,5 +1,15 @@
-- author: InvestNews - Economia
+- author: "InvestNews - Finan\xE7as"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-30T20:08:36+00:00'
+  description: "Distribui\xE7\xE3o do lucro do FGTS vai beneficiar 138,2 milh\xF5\
+    es de trabalhadores com saldo no fundo em 31 de dezembro de 2025"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/caixa-paga-lucro-do-fgts-quem-tem-direito/
+  title: "Caixa paga nesta quinta (30) R$ 13 bilh\xF5es em lucro do FGTS. Veja quem\
+    \ tem direito"
+- author: InvestNews - Economia
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-07-30T19:35:41+00:00'
   description: "Nova lei permite repasse mensal autom\xE1tico da pens\xE3o aliment\xED\
@@ -9,8 +19,7 @@
   title: "Pix Pens\xE3o: lei permitir\xE1 transfer\xEAncia autom\xE1tica de pens\xE3\
     o aliment\xEDcia. Veja como vai funcionar"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-30T17:57:25+00:00'
   description: "Terceiro lote da restitui\xE7\xE3o do IR 2026 contempla 2,7 milh\xF5\
     es de contribuintes e soma R$ 4,6 bilh\xF5es"
@@ -58,7 +67,7 @@
   path: https://www.reddit.com/r/CFA/comments/1vairab/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: InvestNews - Economia
-  categories: *id001
+  categories: *id002
   date: '2026-07-28T19:22:24+00:00'
   description: "A biometria n\xE3o \xE9 obrigat\xF3ria para votar este ano, mas 89%\
     \ do eleitorado com t\xEDtulo regular j\xE1 est\xE3o cadastrados"
@@ -66,15 +75,6 @@
   path: https://investnews.com.br/economia/biometria-eleicoes-2026/
   title: "A biometria \xE9 obrigat\xF3ria nas elei\xE7\xF5es 2026? Veja como consultar\
     \ cadastro e regras para votar"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-07-28T17:05:28+00:00'
-  description: "Distribui\xE7\xE3o do lucro do FGTS vai beneficiar 138,2 milh\xF5\
-    es de trabalhadores com saldo no fundo em 31 de dezembro de 2025"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/lucro-do-fgts-caixa-quem-tem-direito/
-  title: "Caixa vai distribuir lucro do FGTS no valor de R$ 13 bilh\xF5es. Veja quem\
-    \ tem direito"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-06-23T17:58:39+00:00'
