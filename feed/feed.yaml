@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-31T12:56:55.449153'
+  date: '2026-07-31T15:37:55.796999'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-31T12:56:55.449149'
+  date: '2026-07-31T15:37:55.796995'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-31T12:56:55.449145'
+  date: '2026-07-31T15:37:55.796990'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -142,7 +142,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-07-31T12:56:55.449133'
+  date: '2026-07-31T15:37:55.796978'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -438,6 +438,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-07-31T15:00:34+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
+    \ a Python booking system from loose dictionaries into a strict domain model using\
+    \ dataclasses, enums, and value objects. I show where stronger types improve maintainability,\
+    \ and where a simple string is still the right choice.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2026/flexible.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:30 The Working Before Version\n1:42 The Core Design Lesson\n2:55\
+    \ Step 1: Replace the Dictionary\n6:04 Step 2: Split Out Domain Concepts\n8:38\
+    \ Step 3: Replace Magic Strings\n10:18 Step 4: Add a Money Value Object\n13:46\
+    \ Step 5: Move Rules Near the Concept\n15:19 Step 6: Clean Up the Business Function\n\
+    15:36 Step 7: Validate at the Boundary\n17:52 Keep One String on Purpose\n19:04\
+    \ Why This Improves Maintainability\n19:44 The *kwargs Design Smell\n20:20 Final\
+    \ Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/lM7zWJRrRtg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=lM7zWJRrRtg
+  title: Your Data Structure Is Too Flexible
 - author: "Economia \u2013 Brazil Journal"
   categories: &id001
   - Economia
@@ -598,7 +622,7 @@
   path: https://open.spotify.com/episode/7qFq3ro9uKfcPmHwyTkoVK
   title: "# 392 | BOLSA BRASILEIRA: ARMADILHA OU OPORTUNIDADE \xDANICA? ."
 - author: Outliers
-  categories: &id005
+  categories: &id006
   - Podcasts
   date: '2026-07-28T00:00:00+00:00'
   description: "O patrim\xF4nio dos ETFs mais que duplicou em 18 meses: de R$ 54 bilh\xF5\
@@ -616,7 +640,7 @@
   path: https://open.spotify.com/episode/5nEfPtgxPWO1d63UaEvULC
   title: 'ETFs: XP Asset explica a disparada | Espresso Outliers InfoMoney #20'
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-07-27T15:38:21+00:00'
@@ -646,10 +670,7 @@
   path: https://www.youtube.com/watch?v=_xjxwl1zLMc
   title: 'Framework 13 Pro: The Modular Laptop is Real!'
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-07-24T15:00:16+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
@@ -668,7 +689,7 @@
   path: https://www.youtube.com/watch?v=UEqk0njCuQo
   title: "You Added One Feature\u2026 and Broke Three Others"
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-07-22T13:01:05+00:00'
   description: 'Samsung''s wide fold is surprisingly nice to use. And everything is
     more expensive.
@@ -703,7 +724,7 @@
   path: https://www.youtube.com/watch?v=8Hx2yvWSgs0
   title: 'Samsung Z Fold 8 (Wide) Impressions: Better Than I Thought!'
 - author: Outliers
-  categories: *id005
+  categories: *id006
   date: '2026-07-21T00:00:00+00:00'
   description: "Exclusivo: 5% de desconto no ingresso da Expert XP com o cupom OUTLIERSNAEXPERTGaranta\
     \ o seu ingresso: https://www.expertxp.com.br/ingressos/_________________________INFOMORNING\
@@ -771,29 +792,6 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/07/nonbank-subsidiaries-and-the-hidden-fragility-of-internal-capital-markets-reallocation/
   title: Nonbank Subsidiaries and the Hidden Fragility of Internal Capital Markets
     Reallocation
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-07-10T15:00:30+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\n'None' seems harmless at\
-    \ first. But once it starts spreading through your codebase, every function needs\
-    \ more checks, more validation, and more defensive programming.\n\nIn this video,\
-    \ I show several ways to avoid overusing 'None', including better defaults, fail-fast\
-    \ validation, explicit state modeling, and the Null Object pattern. The goal isn't\
-    \ to eliminate 'None' completely, but to keep uncertainty at the edges of your\
-    \ system and make the core of your code simpler and more reliable.\n\n\U0001F525\
-    \ GitHub Repository: https://git.arjan.codes/2026/none.\n\n\U0001F393 ArjanCodes\
-    \ Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my Discord server:\
-    \ https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\
-    \n\U0001F516 Chapters:\n0:00 Intro\n1:08 Why None Spreads\n2:49 Option 1: Use\
-    \ Better Defaults\n4:06 Option 2: Push Validation Earlier\n8:21 Option 3: Rely\
-    \ on exceptions\n10:26 Option 4: Model Different States Explicitly\n12:59 Option\
-    \ 5: Use a Null Object\n15:50 Option 6: The Less Common Options\n18:34 Fail Fast\
-    \ vs Defensive Programming\n19:59 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i1.ytimg.com/vi/h8ZwhU3PpVw/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=h8ZwhU3PpVw
-  title: Stop Checking for None Everywhere
 - author: The View From Apollo
   categories:
   - Podcasts

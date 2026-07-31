@@ -1,5 +1,15 @@
-- author: "InvestNews - Finan\xE7as"
+- author: InvestNews - Economia
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-07-31T15:13:25+00:00'
+  description: "Proposta apresentada pelo presidente argentino, Javier Milei, tamb\xE9\
+    m exige maior apoio do Congresso para a destitui\xE7\xE3o do chefe da autoridade\
+    \ monet\xE1ria"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-propoe-reforma-do-banco-central-para-barrar-financiamento-do-governo/
+  title: "Milei prop\xF5e reforma do Banco Central para barrar financiamento do governo"
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-07-30T20:08:36+00:00'
   description: "Distribui\xE7\xE3o do lucro do FGTS vai beneficiar 138,2 milh\xF5\
@@ -9,8 +19,7 @@
   title: "Caixa paga nesta quinta (30) R$ 13 bilh\xF5es em lucro do FGTS. Veja quem\
     \ tem direito"
 - author: InvestNews - Economia
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-07-30T19:35:41+00:00'
   description: "Nova lei permite repasse mensal autom\xE1tico da pens\xE3o aliment\xED\
     cia entre contas banc\xE1rias nas datas definidas pela Justi\xE7a"
@@ -19,7 +28,7 @@
   title: "Pix Pens\xE3o: lei permitir\xE1 transfer\xEAncia autom\xE1tica de pens\xE3\
     o aliment\xEDcia. Veja como vai funcionar"
 - author: "InvestNews - Finan\xE7as"
-  categories: *id001
+  categories: *id002
   date: '2026-07-30T17:57:25+00:00'
   description: "Terceiro lote da restitui\xE7\xE3o do IR 2026 contempla 2,7 milh\xF5\
     es de contribuintes e soma R$ 4,6 bilh\xF5es"
@@ -66,15 +75,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1vairab/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-07-28T19:22:24+00:00'
-  description: "A biometria n\xE3o \xE9 obrigat\xF3ria para votar este ano, mas 89%\
-    \ do eleitorado com t\xEDtulo regular j\xE1 est\xE3o cadastrados"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/biometria-eleicoes-2026/
-  title: "A biometria \xE9 obrigat\xF3ria nas elei\xE7\xF5es 2026? Veja como consultar\
-    \ cadastro e regras para votar"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-06-23T17:58:39+00:00'
