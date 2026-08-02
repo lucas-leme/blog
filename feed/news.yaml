@@ -1,3 +1,13 @@
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-08-02T14:47:19+00:00'
+  description: "Aumenta a desconfian\xE7a dos investidores sobre a real disposi\xE7\
+    \xE3o do Fed em combater a infla\xE7\xE3o"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/mercado-de-juros-dos-eua-sinaliza-desconfianca-crescente-com-warsh-no-fed/
+  title: "Mercado de juros dos EUA sinaliza desconfian\xE7a crescente com Warsh no\
+    \ Fed"
 - author: InvestNews - Economia
   categories: &id001
   - "Not\xEDcias"
@@ -18,8 +28,7 @@
   title: "Trump incentiva 'desdolariza\xE7\xE3o' com  tarifa\xE7os e retalia\xE7\xF5\
     es comerciais, diz vencedor do Nobel"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-07-30T20:08:36+00:00'
   description: "Distribui\xE7\xE3o do lucro do FGTS vai beneficiar 138,2 milh\xF5\
     es de trabalhadores com saldo no fundo em 31 de dezembro de 2025"
@@ -27,15 +36,6 @@
   path: https://investnews.com.br/financas/caixa-paga-lucro-do-fgts-quem-tem-direito/
   title: "Caixa paga nesta quinta (30) R$ 13 bilh\xF5es em lucro do FGTS. Veja quem\
     \ tem direito"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-07-30T17:57:25+00:00'
-  description: "Terceiro lote da restitui\xE7\xE3o do IR 2026 contempla 2,7 milh\xF5\
-    es de contribuintes e soma R$ 4,6 bilh\xF5es"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/3o-lote-da-restituicao-do-ir-2026/
-  title: "Receita paga 3\xBA lote da restitui\xE7\xE3o do IR 2026 nesta sexta (31).\
-    \ Veja quando abrir\xE1 o \xFAltimo"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
