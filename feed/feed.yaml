@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-04T15:59:41.574465'
+  date: '2026-08-04T16:29:34.851858'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-04T15:59:41.574461'
+  date: '2026-08-04T16:29:34.851854'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-04T15:59:41.574456'
+  date: '2026-08-04T16:29:34.851849'
   description: "<div class=\"ExternalClass9252F716D398424A876A7BD09BD8A092\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o sobre\
     \ os termos do acordo para cessar os conflitos armados no Oriente M\xE9dio e as\
@@ -157,7 +157,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-04T15:59:41.574443'
+  date: '2026-08-04T16:29:34.851837'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -464,6 +464,24 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: Liberty Street Economics
+  categories:
+  - Macro
+  - FED
+  - BC
+  date: '2026-08-04T11:00:00+00:00'
+  description: "Monetary policymakers closely monitor the term structure of sovereign\
+    \ bond yields to uncover market participants\u2019 beliefs about the future monetary\
+    \ policy stance, inflation, and activity. A particular object of interest is the\
+    \ natural real rate of return, or \u201Cr-star,\u201D which acts as a guide for\
+    \ monetary policy decisions. Numerous papers have questioned how much information\
+    \ investors possess, and how precisely they know r-star. In this post based on\
+    \ a <a href=\"https://www.newyorkfed.org/research/staff_reports/sr1187\">recent\
+    \ Staff Report</a>, we explore what the term structure of interest rates can teach\
+    \ us about r-star and its perception by investors."
+  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
+  path: https://libertystreeteconomics.newyorkfed.org/2026/08/a-window-into-bond-investors-uncertainty-about-r-star/
+  title: "A Window into Bond Investors\u2019 Uncertainty About R&#8209;Star"
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-08-03T12:00:00+00:00'
@@ -606,26 +624,6 @@
   image: https://i1.ytimg.com/vi/lM7zWJRrRtg/hqdefault.jpg
   path: https://www.youtube.com/watch?v=lM7zWJRrRtg
   title: Why dict[str, Any] Slowly Destroys Your Code
-- author: Liberty Street Economics
-  categories:
-  - Macro
-  - FED
-  - BC
-  date: '2026-07-31T11:00:00+00:00'
-  description: "Stablecoins are digital assets whose value is pegged to that of a\
-    \ fiat currency, typically the U.S. dollar at a peg of $1.00 per token.\_ In a\
-    \ previous <a href=\"https://libertystreeteconomics.newyorkfed.org/2025/04/stablecoins-and-crypto-shocks-an-update/\"\
-    >blog post</a>, we described the rapid growth of stablecoins through early 2025,\
-    \ highlighted changes in stablecoins\u2019 reserve-asset composition, and examined\
-    \ their reactions to Bitcoin price shocks. In this post, we document the growth\
-    \ of stablecoins since our last post. Then, we examine how shocks from outside\
-    \ the crypto industry can impact the composition of stablecoins\u2019 reserve\
-    \ assets. For our case study, we use the 2023 failure of Silicon Valley Bank (SVB)\
-    \ and its impact on USD Coin (USDC, issued by Circle), the second-largest stablecoin\
-    \ by market capitalization."
-  image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
-  path: https://libertystreeteconomics.newyorkfed.org/2026/07/stablecoins-and-noncrypto-shocks-a-2026-update/
-  title: 'Stablecoins and (Non)Crypto Shocks: A 2026 Update'
 - author: "Economia \u2013 Brazil Journal"
   categories: *id002
   date: '2026-07-31T09:50:47+00:00'
