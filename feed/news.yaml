@@ -1,3 +1,13 @@
+- author: "InvestNews - Finan\xE7as"
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-08-05T09:00:00+00:00'
+  description: "Infla\xE7\xE3o mais comportada em junho e julho abre espa\xE7o para\
+    \ o Copom continuar os cortes, e reduzir a Selic a 14%"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/copom-mercado-preve-corte-de-025-ponto-veja-o-que-esperar-dos-investimentos-que-seguem-a-selic/
+  title: "Copom: mercado prev\xEA corte de 0,25 ponto. Veja o que esperar dos investimentos\
+    \ que seguem a Selic"
 - author: InvestNews - Economia
   categories: &id001
   - "Not\xEDcias"
@@ -19,8 +29,7 @@
   title: "30 anos da urna eletr\xF4nica: uma linha do tempo com as principais mudan\xE7\
     as"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id002
   date: '2026-08-03T17:19:43+00:00'
   description: "Banco Central Europeu selecionou dez propostas para redesenhar as\
     \ c\xE9dulas do euro"
@@ -63,15 +72,6 @@
   image: https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&s=995c4d459025f197881ae26dc8ccf30176a8488c
   path: https://www.reddit.com/r/CFA/comments/1ve2psv/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-08-02T14:47:19+00:00'
-  description: "Aumenta a desconfian\xE7a dos investidores sobre a real disposi\xE7\
-    \xE3o do Fed em combater a infla\xE7\xE3o"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/mercado-de-juros-dos-eua-sinaliza-desconfianca-crescente-com-warsh-no-fed/
-  title: "Mercado de juros dos EUA sinaliza desconfian\xE7a crescente com Warsh no\
-    \ Fed"
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-06-23T17:58:39+00:00'
