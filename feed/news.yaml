@@ -1,3 +1,13 @@
+- author: InvestNews - Economia
+  categories: &id001
+  - "Not\xEDcias"
+  date: '2026-08-07T14:29:12+00:00'
+  description: "Governo de Milei retira pontos centrais da proposta ap\xF3s protestos,\
+    \ enquanto projeto segue para vota\xE7\xE3o na C\xE2mara dos Deputados"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-recua-em-projeto-de-propriedade-privada-apos-pressao-e-protestos-na-argentina/
+  title: "Milei recua em projeto de propriedade privada ap\xF3s press\xE3o e protestos\
+    \ na Argentina"
 - author: "InvestNews - Finan\xE7as"
   categories: &id002
   - "Not\xEDcias"
@@ -49,8 +59,7 @@
   path: https://www.reddit.com/r/CFA/comments/1vgtja2/career_questions_thursday_your_weekly_cfa_career/
   title: Career Questions Thursday - Your Weekly CFA Career Discussion Thread
 - author: InvestNews - Economia
-  categories: &id001
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-08-05T22:09:18+00:00'
   description: "Decis\xE3o un\xE2nime levou em conta a 'modera\xE7\xE3o da atividade\
     \ econ\xF4mica' e a desacelera\xE7\xE3o da infla\xE7\xE3o, segundo o Copom em\
@@ -59,15 +68,6 @@
   path: https://investnews.com.br/economia/copom-reduz-selic-para-14-ao-ano-como-esperado-pelo-mercado-e-cita-desaceleracao-da-inflacao/
   title: "Copom reduz Selic para 14% ao ano, como esperado pelo mercado, e cita desacelera\xE7\
     \xE3o da infla\xE7\xE3o"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-08-05T18:30:09+00:00'
-  description: "Se o resultado da auditoria for positivo, a Comiss\xE3o da Uni\xE3\
-    o Europeia poder\xE1 considerar uma altera\xE7\xE3o na lista de exportadores autorizados\
-    \ para reincluir o Brasil"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/auditoria-da-uniao-europeia-pode-evitar-embargo-ao-frango-brasileiro/
-  title: "Auditoria da Uni\xE3o Europeia pode evitar embargo ao frango brasileiro"
 - author: "InvestNews - Finan\xE7as"
   categories: *id002
   date: '2026-08-05T09:00:00+00:00'
