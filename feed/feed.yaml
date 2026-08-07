@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-07T03:26:17.445264'
+  date: '2026-08-07T11:46:27.814165'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-07T03:26:17.445260'
+  date: '2026-08-07T11:46:27.814161'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-07T03:26:17.445255'
+  date: '2026-08-07T11:46:27.814156'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-07T03:26:17.445245'
+  date: '2026-08-07T11:46:27.814146'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -434,6 +434,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/17062026
   title: "BC - Copom Ata - 279\xAA Reuni\xE3o - 16-17 junho, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id002
+  - Economia
+  date: '2026-08-07T09:50:37+00:00'
+  description: "<p>Em sua campanha \xE0 Presid\xEAncia, uma das promessas mais barulhentas\
+    \ de Javier Milei foi a de extinguir o Banco Central da Argentina. Milei n\xE3\
+    o levou isso adiante, mas acabou de apresentar um projeto que, se aprovado, vai\
+    \ impedir que o BC financie \u201Cde forma direta ou indireta o Fisco\u201D \u2013\
+    \ fechando uma hist\xF3rica fonte de [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-resiliencia-do-peronismo-e-a-ruptura-de-milei-um-livro-que-explica-a-argentina/\"\
+    \ rel=\"nofollow\">A resili\xEAncia do peronismo e a ruptura de Milei: um livro\
+    \ que explica a Argentina</a> appeared first on <a href=\"https://braziljournal.com\"\
+    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-resiliencia-do-peronismo-e-a-ruptura-de-milei-um-livro-que-explica-a-argentina/
+  title: "A resili\xEAncia do peronismo e a ruptura de Milei: um livro que explica\
+    \ a Argentina"
 - author: AQR
   categories:
   - Quant
@@ -445,6 +461,20 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: The Psychology of Money with Morgan Housel
+  categories:
+  - Podcasts
+  date: '2026-08-07T00:00:00+00:00'
+  description: 'Plus, a story about free money, and the dangers of telling people
+    what they want to hear. This episode is brought to you by Davis Advisors. To learn
+    more, visithttps://www.davisadvisors.com/.Disclosure: Before investing, you should
+    carefully consider the investment objectives, risks, charges, and expenses. The
+    prospectus or Form ADV, as applicable, contains this and other information. You
+    can obtain a current prospectus or Form ADV by calling 800-279-2279. Investing
+    involves risks including possible loss of principal.'
+  image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
+  path: https://open.spotify.com/episode/6n3cDs0zOlp5W0dtBAm3h8
+  title: 'A Tale as Old As time: Getting Rich vs. Staying Rich'
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-08-06T12:00:00+00:00'
@@ -481,8 +511,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/08/why-do-fewer-renters-expect-to-move/
   title: Why Do Fewer Renters Expect to Move?
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
-  - Economia
+  categories: *id002
   date: '2026-08-06T09:50:50+00:00'
   description: "<p>BOSTON \u2013 As elei\xE7\xF5es de midterm nos EUA come\xE7aram\
     \ a tomar forma esta semana, quando alguns estados-chave foram \xE0s urnas definir\
@@ -514,23 +543,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a92a121f5de49f853b3f70d84
   path: https://open.spotify.com/episode/1Lpi7948aSRnk03IqOyNJp
   title: A report card for Kevin Warsh
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id002
-  date: '2026-08-05T20:46:23+00:00'
-  description: "<p>Embaralhando assuntos de Estado com quest\xF5es pessoais e partid\xE1\
-    rias, o Governo Lula decidiu rebaixar unilateralmente as rela\xE7\xF5es diplom\xE1\
-    ticas com a Argentina para a categoria de encarregado de neg\xF3cios. O Itamaraty\
-    \ deu a not\xEDcia ao embaixador argentino em Bras\xEDlia, Guillermo Daniel Raimondi,\
-    \ na ter\xE7a-feira, pedindo que ele se retirasse do Pa\xEDs. A retalia\xE7\xE3\
-    o diplom\xE1tica foi uma [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/lula-vs-milei-quando-a-politica-toma-o-lugar-da-diplomacia/\"\
-    \ rel=\"nofollow\">Lula vs. Milei: Quando a pol\xEDtica toma o lugar da diplomacia</a>\
-    \ appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\">Brazil\
-    \ Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/lula-vs-milei-quando-a-politica-toma-o-lugar-da-diplomacia/
-  title: "Lula vs. Milei: Quando a pol\xEDtica toma o lugar da diplomacia"
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-08-05T06:51:36+00:00'
@@ -696,16 +710,30 @@
   image: https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Z6z_feacXW8
   title: 'Galaxy Z Fold 8 Review: Honeymoon''s Over'
-- author: The Psychology of Money with Morgan Housel
-  categories:
-  - Podcasts
-  date: '2026-07-31T00:00:00+00:00'
-  description: Plus, the inability to spend when you've already saved enough, and
-    the value of scarcity.
-  image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
-  path: https://open.spotify.com/episode/6nMTRGj6jxOtu7Tj5mb0BP
-  title: Respecting Each Other's Delusions, Memory Dividends, and What Our Grandchildren
-    Will Enjoy
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-07-31T15:00:34+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
+    \ a Python booking system from loose dictionaries into a strict domain model using\
+    \ dataclasses, enums, and value objects. I show where stronger types improve maintainability,\
+    \ and where a simple string is still the right choice.\n\n\U0001F525 GitHub Repository:\
+    \ https://git.arjan.codes/2026/flexible.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n0:30 The Working Before Version\n1:42 The Core Design Lesson\n2:55\
+    \ Step 1: Replace the Dictionary\n6:04 Step 2: Split Out Domain Concepts\n8:38\
+    \ Step 3: Replace Magic Strings\n10:18 Step 4: Add a Money Value Object\n13:46\
+    \ Step 5: Move Rules Near the Concept\n15:19 Step 6: Clean Up the Business Function\n\
+    15:36 Step 7: Validate at the Boundary\n17:52 Keep One String on Purpose\n19:04\
+    \ Why This Improves Maintainability\n19:44 The *kwargs Design Smell\n20:20 Final\
+    \ Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/lM7zWJRrRtg/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=lM7zWJRrRtg
+  title: Why dict[str, Any] Slowly Destroys Your Code
 - author: Outliers
   categories: *id004
   date: '2026-07-28T00:00:00+00:00'
@@ -751,8 +779,27 @@
   image: https://i4.ytimg.com/vi/_xjxwl1zLMc/hqdefault.jpg
   path: https://www.youtube.com/watch?v=_xjxwl1zLMc
   title: 'Framework 13 Pro: The Modular Laptop is Real!'
-- author: The Overshoot
+- author: ArjanCodes
   categories: *id006
+  date: '2026-07-24T15:00:16+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
+    \ a travel booking workflow to show how structural coupling, temporal coupling,\
+    \ and connascence make code fragile. You'll learn how to spot these problems,\
+    \ reduce the impact of future changes, and design workflows that are much easier\
+    \ to maintain.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/coupling.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:42 The Before Version\n3:38 Structural Coupling\n3:54 Temporal Coupling\n4:53\
+    \ The Refactoring\n8:26 Payoff: Why the Hook Happened\n9:29 The Law of Demeter\n\
+    12:45 Interfaces Where They Help\n15:16 Connascence\n17:04 Final Thoughts\n\n\
+    #arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/UEqk0njCuQo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=UEqk0njCuQo
+  title: "You Added One Feature\u2026 and Broke Three Others"
+- author: The Overshoot
+  categories: *id007
   date: '2026-07-20T22:29:42+00:00'
   description: 'Freakish declines in motor vehicle insurance, phone bills, and jewelry
     are probably not indicative of any change in underlying trends. Plus: more on
@@ -773,7 +820,7 @@
   path: https://open.spotify.com/episode/2eEdx5hqrBvmPR3Yc5TTNW
   title: 'Hybrid: Rethinking Risk and Return'
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -783,7 +830,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id008
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -792,7 +839,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id008
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -808,7 +855,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
