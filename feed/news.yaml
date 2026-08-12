@@ -1,6 +1,16 @@
 - author: InvestNews - Economia
-  categories: &id002
+  categories: &id001
   - "Not\xEDcias"
+  date: '2026-08-12T18:11:06+00:00'
+  description: "Copa do Mundo feminina 2027 ser\xE1 disputado a partir de 24 de junho\
+    \ e come\xE7a a ocupar mais espa\xE7o na m\xEDdia, como na nova temporada de Ted\
+    \ Lasso"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/copa-do-mundo-feminina-2027-ted-lasso/
+  title: "Copa do Mundo feminina 2027 deve movimentar R$ 8,8 bilh\xF5es e ter or\xE7\
+    amento 60% maior pela Fifa"
+- author: InvestNews - Economia
+  categories: *id001
   date: '2026-08-11T19:46:56+00:00'
   description: "Bloqueios em rodovias e danos em opera\xE7\xF5es log\xEDsticas interrompem\
     \ embarques pelo principal porto de caf\xE9 da Col\xF4mbia e amea\xE7am provocar\
@@ -10,7 +20,7 @@
   title: "Terremoto paralisa exporta\xE7\xF5es de caf\xE9 da Col\xF4mbia e afeta mercado\
     \ global"
 - author: "InvestNews - Finan\xE7as"
-  categories: &id001
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-08-10T19:47:51+00:00'
   description: "Declara\xE7\xE3o do ITR 2026 deve ser enviada at\xE9 30 de setembro\
@@ -21,7 +31,7 @@
   title: "Tem im\xF3vel na zona rural? Prazo do ITR 2026 come\xE7a nesta segunda (10).\
     \ Veja como declarar"
 - author: "InvestNews - Finan\xE7as"
-  categories: *id001
+  categories: *id002
   date: '2026-08-10T12:43:54+00:00'
   description: "O imposto sobre heran\xE7a est\xE1 mudando. Veja o que j\xE1 vale,\
     \ o que depende dos estados e por que a al\xEDquota pode n\xE3o ser o maior impacto\
@@ -30,15 +40,6 @@
   path: https://investnews.com.br/financas/imposto-sobre-heranca/
   title: "Imposto sobre heran\xE7a: veja o que muda no ITCMD antes de fazer o planejamento\
     \ sucess\xF3rio"
-- author: InvestNews - Economia
-  categories: *id002
-  date: '2026-08-10T09:00:00+00:00'
-  description: "Em Piracicaba, a cana criou uma ind\xFAstria global de m\xE1quinas\
-    \ \u2014 e uma depend\xEAncia dos EUA que afeta uma gigante americana, a Caterpillar"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/cidade-brasileira-exposta-tarifa-trump/
-  title: "A cidade brasileira que mais tem a perder com o novo tarifa\xE7o de Donald\
-    \ Trump"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
