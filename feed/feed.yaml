@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-14T14:32:03.900776'
+  date: '2026-08-14T15:29:29.620195'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-14T14:32:03.900772'
+  date: '2026-08-14T15:29:29.620190'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-14T14:32:03.900768'
+  date: '2026-08-14T15:29:29.620185'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-14T14:32:03.900758'
+  date: '2026-08-14T15:29:29.620175'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,29 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-08-14T15:00:36+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I\u2019m\
+    \ sharing 15 Python libraries that can make your code cleaner, faster, and easier\
+    \ to maintain.\n\nI cover libraries for configuration, serialization, dependency\
+    \ injection, state machines, scheduling, data analysis, testing, UI development,\
+    \ and more. One of them even fixes a long-standing issue with Python's `datetime`\
+    \ handling around daylight saving time.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/libraries.\n\
+    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:19 Pydantic Settings\n2:08 msgspec\n3:24 Dacite\n4:26 AutoRegistry\n5:40 python-statemachine\n\
+    6:32 Dishka\n7:36 DuckDB\n8:24 Schedium\n9:54 Whenever\n10:52 Pint\n11:59 GeoPy\n\
+    12:42 NiceGUI\n14:08 Faker\n15:24 Zensical\n16:24 Complexipy\n18:24 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i4.ytimg.com/vi/ssLO99uwPWI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ssLO99uwPWI
+  title: 15 Python Libraries That Deserve More Attention
 - author: AQR
   categories:
   - Quant
@@ -486,7 +509,7 @@
   path: https://open.spotify.com/episode/6YkOnHqgSlhuoHJ4dPpjqo
   title: Investors want to change how babies are made
 - author: Marques Brownlee
-  categories: &id005
+  categories: &id006
   - Tech
   - Youtube
   date: '2026-08-12T14:00:35+00:00'
@@ -591,7 +614,7 @@
   path: https://open.spotify.com/episode/1BZBo1ALgxqYx2lBfht9vX
   title: '#398 | COMO ANTECIPAR RISCOS E OPORTUNIDADES NO MERCADO'
 - author: Outliers
-  categories: &id004
+  categories: &id005
   - Podcasts
   date: '2026-08-11T00:00:00+00:00'
   description: "O que a intelig\xEAncia artificial faz melhor na gest\xE3o de investimentos\
@@ -624,10 +647,7 @@
   title: "Para o Fed de St. Louis, AI n\xE3o garante infla\xE7\xE3o menor, e o Fed\
     \ precisa apertar"
 - author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
+  categories: *id004
   date: '2026-08-07T15:00:28+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nThe Composite pattern is\
@@ -659,7 +679,7 @@
   path: https://theovershoot.co/p/ai-productivity-and-rates-part-i
   title: 'AI, Productivity, and Rates: Part I'
 - author: Outliers
-  categories: *id004
+  categories: *id005
   date: '2026-08-04T00:00:00+00:00'
   description: "A BRZ Investimentos est\xE1 se voltando para o cr\xE9dito imobili\xE1\
     rio - e Ricardo Propheta, CEO e s\xF3cio-fundador da empresa, explica essa estrat\xE9\
@@ -710,7 +730,7 @@
   title: "Stacie Mintz \u2013\_Turning Qualitative Fundamentals into Quantitative\
     \ Factors (S7E33)"
 - author: Marques Brownlee
-  categories: *id005
+  categories: *id006
   date: '2026-08-01T00:05:00+00:00'
   description: "This is a really easy phone to fall in love with. Beware.\n\nEnter\
     \ to win $100,000 USD or 3 cars for free at https://ridge.com/MKBHD\n\n(Affiliate\
@@ -728,27 +748,6 @@
   image: https://i3.ytimg.com/vi/Z6z_feacXW8/hqdefault.jpg
   path: https://www.youtube.com/watch?v=Z6z_feacXW8
   title: 'Galaxy Z Fold 8 Review: Honeymoon''s Over'
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-07-31T15:00:34+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I refactor\
-    \ a Python booking system from loose dictionaries into a strict domain model using\
-    \ dataclasses, enums, and value objects. I show where stronger types improve maintainability,\
-    \ and where a simple string is still the right choice.\n\n\U0001F525 GitHub Repository:\
-    \ https://git.arjan.codes/2026/flexible.\n\n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
-    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n0:30 The Working Before Version\n1:42 The Core Design Lesson\n2:55\
-    \ Step 1: Replace the Dictionary\n6:04 Step 2: Split Out Domain Concepts\n8:38\
-    \ Step 3: Replace Magic Strings\n10:18 Step 4: Add a Money Value Object\n13:46\
-    \ Step 5: Move Rules Near the Concept\n15:19 Step 6: Clean Up the Business Function\n\
-    15:36 Step 7: Validate at the Boundary\n17:52 Keep One String on Purpose\n19:04\
-    \ Why This Improves Maintainability\n19:44 The *kwargs Design Smell\n20:20 Final\
-    \ Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/lM7zWJRrRtg/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=lM7zWJRrRtg
-  title: Why dict[str, Any] Slowly Destroys Your Code
 - author: The Overshoot
   categories: *id007
   date: '2026-07-20T22:29:42+00:00'
