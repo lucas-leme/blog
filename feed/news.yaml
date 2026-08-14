@@ -1,5 +1,15 @@
-- author: "\u201CSuperior returns guaranteed\""
+- author: InvestNews - Economia
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-08-14T17:36:26+00:00'
+  description: "Guerra com o Ir\xE3 e El Ni\xF1o alteram rotas do com\xE9rcio e aumentam\
+    \ a disputa por passagem no Canal do Panam\xE1"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/por-que-um-superpetroleiro-pagou-us-46-milhoes-para-furar-a-fila-no-canal-do-panama/
+  title: "Por que um superpetroleiro pagou US$ 4,6 milh\xF5es para furar a fila no\
+    \ Canal do Panam\xE1?"
+- author: "\u201CSuperior returns guaranteed\""
+  categories: &id002
   - "Not\xEDcias"
   - CFA
   - Reddit
@@ -27,8 +37,7 @@
   path: https://www.reddit.com/r/CFA/comments/1vo95cv/for_those_who_havent_sat_yet_dont_make_the_same/
   title: For those who haven't sat yet, don't make the same mistake I made!
 - author: InvestNews - Economia
-  categories: &id003
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-08-14T12:05:57+00:00'
   description: "Argentina flexibiliza cr\xE9dito em d\xF3lar ap\xF3s restri\xE7\xF5\
     es criadas na crise de 2001"
@@ -37,7 +46,7 @@
   title: "Argentina flexibiliza cr\xE9dito em d\xF3lar ap\xF3s restri\xE7\xF5es criadas\
     \ na crise de 2001"
 - author: "\u201CSuperior returns guaranteed\""
-  categories: *id001
+  categories: *id002
   date: '2026-08-14T05:17:20+00:00'
   description: "<!-- SC_OFF --><div class=\"md\"><p>L3 candidates,</p> <p>Welcome\
     \ to our megathread for swapping stories about your exam day! We\u2019d love to\
@@ -57,7 +66,7 @@
   path: https://www.reddit.com/r/CFA/comments/1vny5oq/level_3_exam_day_experience_mega_thread/
   title: Level 3 Exam Day Experience Mega Thread
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
+  categories: &id003
   - "Not\xEDcias"
   date: '2026-08-13T22:41:28+00:00'
   description: "Comit\xEA Gestor do IBS confirma atraso no mecanismo de recolhimento\
@@ -67,19 +76,10 @@
   title: "Split Payment: sistema de cobran\xE7a \xE9 adiado e n\xE3o come\xE7a em\
     \ janeiro. Novos tributos s\xE3o mantidos"
 - author: "InvestNews - Finan\xE7as"
-  categories: *id002
+  categories: *id003
   date: '2026-08-13T17:34:36+00:00'
   description: "Saiba os casos em que o pedido de saque do FGTS vai para a Justi\xE7\
     a do Trabalho e quando vai para a Justi\xE7a comum. Entenda a mudan\xE7a"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
   path: https://investnews.com.br/financas/saque-do-fgts-como-recorrer-valores/
   title: 'Saque do FGTS: TST muda regra sobre onde trabalhador pode recorrer'
-- author: InvestNews - Economia
-  categories: *id003
-  date: '2026-08-13T12:42:23+00:00'
-  description: "Ministro da Angola pode buscar novos parceiros diante das mudan\xE7\
-    as nas condi\xE7\xF5es de investimento feitas por empresas brasileiras"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/angola-cobra-compromisso-do-brasil-com-projetos-agricolas-ou-pede-que-saia-do-caminho/
-  title: "Angola cobra compromisso do Brasil com projetos agr\xEDcolas ou pede que\
-    \ saia do caminho"
