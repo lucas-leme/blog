@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T19:03:52.031838'
+  date: '2026-08-24T20:51:45.848134'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T19:03:52.031834'
+  date: '2026-08-24T20:51:45.848129'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T19:03:52.031829'
+  date: '2026-08-24T20:51:45.848124'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T19:03:52.031818'
+  date: '2026-08-24T20:51:45.848113'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,31 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2026-08-24T20:27:50+00:00'
+  description: 'This TECNO 0mm "borderless" concept phone actually has some interesting
+    quirks
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ngPkbaZliaU
+  title: The Truth About the Bezelless Concept Phone
 - author: AQR
   categories:
   - Quant
@@ -406,8 +431,15 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-08-24T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2026/private-credit-funds-and-retail-shift
+  title: Private Credit Funds and the Retail Shift
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-08-23T00:00:00+00:00'
   description: "Ricardo Geromel est\xE1 de volta ao Market Makers para explicar por\
@@ -454,9 +486,7 @@
   title: "#403 | COMO A CHINA DOMINOU IA, CARROS EL\xC9TRICOS, ROB\xD4S E IND\xDA\
     STRIA"
 - author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
+  categories: *id002
   date: '2026-08-21T18:53:07+00:00'
   description: 'I said yes to every review request I got for an entire month. I''m
     sorry? You''re welcome?
@@ -556,7 +586,7 @@
   path: https://open.spotify.com/episode/2FldcAjz6FJ5T7brPXYJP6
   title: 'The Sociology of Money: Be Careful Who You Socialize With'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
+  categories: &id004
   - Economia
   date: '2026-08-20T22:32:34+00:00'
   description: "<p>O marqueteiro pol\xEDtico James Carville disse certa vez que, se\
@@ -570,15 +600,8 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/a-crise-no-mercado-de-treasuries/
   title: A crise no mercado de Treasuries
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-08-20T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/book-review-deep-learning-quant-trading
-  title: 'Book Review: Deep Learning in Quantitative Trading'
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-08-20T00:00:00+00:00'
   description: "A Nova Rep\xFAblica chegou ao limite? Para Eduardo Mufarej, fundador\
     \ do RenovaBR e ex-CEO da Somos Educa\xE7\xE3o, o Brasil est\xE1 entrando no fim\
@@ -652,7 +675,7 @@
   title: Has Broader Stock Market Participation Changed How Interest Rates Affect
     the Economy?
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id003
+  categories: *id004
   date: '2026-08-19T03:40:48+00:00'
   description: "<p>N\xE3o existe a menor possibilidade de haver alguma forma de calote\
     \ da d\xEDvida p\xFAblica \u2013 e quem especula sobre esse risco n\xE3o sabe\
@@ -742,42 +765,6 @@
   image: https://i4.ytimg.com/vi/ssLO99uwPWI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ssLO99uwPWI
   title: 15 Python Libraries That Deserve More Attention
-- author: Marques Brownlee
-  categories: *id004
-  date: '2026-08-12T14:00:35+00:00'
-  description: 'Every year, a new Pixel, and new hopes and dreams...
-
-
-    Protect your new Pixel 11 or old Pixel 10 with dbrand at https://dbrand.com/shop/pixel11
-
-
-    Affiliate Links:
-
-    Pixel 11 Pro: https://geni.us/iypnawz
-
-    Pixel 11 Pro XL: https://geni.us/Jfybl
-
-    Pixel 11 Pro Fold: https://geni.us/XaTcge
-
-    Pixel Watch 5: https://geni.us/2s9sEq
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/o4SSoURPODY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=o4SSoURPODY
-  title: 'Google Pixel 11/Pro/Fold Impressions: It Is What It Is'
 - author: Outliers
   categories: *id005
   date: '2026-08-11T00:00:00+00:00'
