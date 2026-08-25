@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T21:47:42.432788'
+  date: '2026-08-25T01:58:35.355845'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T21:47:42.432785'
+  date: '2026-08-25T01:58:35.355841'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T21:47:42.432782'
+  date: '2026-08-25T01:58:35.355837'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-24T21:47:42.432774'
+  date: '2026-08-25T01:58:35.355826'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2026-08-25T00:07:13+00:00'
+  description: "<p>Quando trabalhava para George Soros, Stanley Druckenmiller teve\
+    \ a seu lado um promissor estrategista. Seu nome era Scott Bessent \u2014 o atual\
+    \ secret\xE1rio do Tesouro americano. Agora, o antigo chefe achou por bem dar\
+    \ conselhos a seu pupilo, que vem enfrentando uma crise de credibilidade enquanto\
+    \ tenta domar a empinada dos juros no mercado de [&#8230;]</p>\n<p>The post <a\
+    \ href=\"https://braziljournal.com/ex-chefe-para-bessent-let-the-bond-market-speak/\"\
+    \ rel=\"nofollow\">Ex-chefe para Bessent: \u2018Let the bond market speak\u2019\
+    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
+    >Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/ex-chefe-para-bessent-let-the-bond-market-speak/
+  title: "Ex-chefe para Bessent: \u2018Let the bond market speak\u2019"
 - author: Marques Brownlee
   categories: &id002
   - Tech
@@ -439,7 +455,7 @@
   path: https://rpc.cfainstitute.org/research/reports/2026/private-credit-funds-and-retail-shift
   title: Private Credit Funds and the Retail Shift
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-08-23T00:00:00+00:00'
   description: "Ricardo Geromel est\xE1 de volta ao Market Makers para explicar por\
@@ -586,8 +602,7 @@
   path: https://open.spotify.com/episode/2FldcAjz6FJ5T7brPXYJP6
   title: 'The Sociology of Money: Be Careful Who You Socialize With'
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
-  - Economia
+  categories: *id003
   date: '2026-08-20T22:32:34+00:00'
   description: "<p>O marqueteiro pol\xEDtico James Carville disse certa vez que, se\
     \ houver reencarna\xE7\xE3o, ele gostaria de voltar ao plano terreno como o bond\
@@ -601,7 +616,7 @@
   path: https://braziljournal.com/a-crise-no-mercado-de-treasuries/
   title: A crise no mercado de Treasuries
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-08-20T00:00:00+00:00'
   description: "A Nova Rep\xFAblica chegou ao limite? Para Eduardo Mufarej, fundador\
     \ do RenovaBR e ex-CEO da Somos Educa\xE7\xE3o, o Brasil est\xE1 entrando no fim\
@@ -674,21 +689,6 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/08/has-broader-stock-market-participation-changed-how-interest-rates-affect-the-economy/
   title: Has Broader Stock Market Participation Changed How Interest Rates Affect
     the Economy?
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id004
-  date: '2026-08-19T03:40:48+00:00'
-  description: "<p>N\xE3o existe a menor possibilidade de haver alguma forma de calote\
-    \ da d\xEDvida p\xFAblica \u2013 e quem especula sobre esse risco n\xE3o sabe\
-    \ do que est\xE1 falando. Esta \xE9 a resposta do secret\xE1rio do Tesouro sobre\
-    \ o assunto durante uma entrevista de quase uma hora com o Brazil Journal. \u201C\
-    A chance de existir um calote [&#8230;]</p>\n<p>The post <a href=\"https://braziljournal.com/a-visao-do-tesouro-sobre-a-rolagem-da-divida-o-arcabouco-fiscal-e-os-papeis-incentivados/\"\
-    \ rel=\"nofollow\">A vis\xE3o do Tesouro sobre a rolagem da d\xEDvida, o arcabou\xE7\
-    o fiscal e os pap\xE9is incentivados</a> appeared first on <a href=\"https://braziljournal.com\"\
-    \ rel=\"nofollow\">Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-visao-do-tesouro-sobre-a-rolagem-da-divida-o-arcabouco-fiscal-e-os-papeis-incentivados/
-  title: "A vis\xE3o do Tesouro sobre a rolagem da d\xEDvida, o arcabou\xE7o fiscal\
-    \ e os pap\xE9is incentivados"
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
