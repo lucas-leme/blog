@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-26T14:12:14.174155'
+  date: '2026-08-26T16:04:15.438760'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-26T14:12:14.174151'
+  date: '2026-08-26T16:04:15.438756'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-26T14:12:14.174146'
+  date: '2026-08-26T16:04:15.438751'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -123,7 +123,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-26T14:12:14.174135'
+  date: '2026-08-26T16:04:15.438740'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -381,8 +381,15 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id001
   - CFA
+  date: '2026-08-26T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/research/in-practice-briefs/2026/in-practice-brief-ebitda-ebita-ebit
+  title: 'In Practice Brief: EBITDA, EBITA, or EBIT?'
+- author: CFA Institute Research and Policy Center
+  categories: *id001
   date: '2026-08-26T12:00:00+00:00'
   description: In this upcoming episode of Conversations with Frank Fabozzi, CFA,
     Kari Vatanen, CFA draws on decades of experience in asset allocation, risk management,
@@ -396,7 +403,7 @@
   path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-kari-vatanen
   title: Conversations with Frank Fabozzi, CFA, Featuring Kari Vatanen
 - author: Marques Brownlee
-  categories: &id002
+  categories: &id003
   - Tech
   - Youtube
   date: '2026-08-25T23:23:55+00:00'
@@ -405,7 +412,7 @@
   path: https://www.youtube.com/shorts/v-_d2e7x4KA
   title: The Wildest Camera Robot
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-08-25T22:05:10+00:00'
   description: "<p>Com gastos p\xFAblicos em alta e crescimento econ\xF4mico med\xED\
@@ -433,7 +440,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id001
+  categories: *id002
   date: '2026-08-25T00:07:13+00:00'
   description: "<p>Quando trabalhava para George Soros, Stanley Druckenmiller teve\
     \ a seu lado um promissor estrategista. Seu nome era Scott Bessent \u2014 o atual\
@@ -479,11 +486,11 @@
     \ Soares (Analista do Market Makers)Convidado: Daniel Palaia (CIO da Asset 1)Capta\xE7\
     \xE3o: Renan Moncoski #RECUPERA\xC7\xC3OJUDICIAL #RJ #CREDITO #ECONOMIA #BRASIL\
     \ #MARKETMAKERS #INVESTIMENTOS"
-  image: https://i.scdn.co/image/ab6765630000ba8ac9ee95b8150fd892f8c10a48
+  image: https://i.scdn.co/image/ab6765630000ba8a3d897037453d7a053fde4c0b
   path: https://open.spotify.com/episode/69hWXlqG8jXh3k33rgjkYy
   title: "#404 | POR QUE TANTAS EMPRESAS EST\xC3O PEDINDO RECUPERA\xC7\xC3O JUDICIAL?"
 - author: Marques Brownlee
-  categories: *id002
+  categories: *id003
   date: '2026-08-24T20:27:50+00:00'
   description: 'This TECNO 0mm "borderless" concept phone actually has some interesting
     quirks
@@ -505,13 +512,6 @@
   image: https://i3.ytimg.com/vi/ngPkbaZliaU/hqdefault.jpg
   path: https://www.youtube.com/watch?v=ngPkbaZliaU
   title: The Truth About the Bezelless Concept Phone
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-08-24T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/some-unpleasant-total-return-arithmetic
-  title: Some Unpleasant Total Return Arithmetic
 - author: Market Makers
   categories: *id004
   date: '2026-08-23T00:00:00+00:00'
