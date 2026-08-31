@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-31T05:53:19.793440'
+  date: '2026-08-31T17:55:55.457618'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -25,13 +25,13 @@
     \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
     \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/21082026
-  title: "BC - Focus - Relat\xF3rio de Mercado - 21/08/2026"
+  path: https://www.bcb.gov.br/publicacoes/focus/28082026
+  title: "BC - Focus - Relat\xF3rio de Mercado - 28/08/2026"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
   - BC
-  date: '2026-08-31T05:53:19.793435'
+  date: '2026-08-31T17:55:55.457614'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-31T05:53:19.793430'
+  date: '2026-08-31T17:55:55.457608'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-08-31T05:53:19.793418'
+  date: '2026-08-31T17:55:55.457598'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,22 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: "Economia \u2013 Brazil Journal"
+  categories: &id003
+  - Economia
+  date: '2026-08-31T09:50:04+00:00'
+  description: "<p>N\xE3o s\xE3o s\xF3 as empresas. As fam\xEDlias brasileiras tamb\xE9\
+    m est\xE3o afogadas em d\xEDvidas, que j\xE1 consomem R$ 3 de cada R$ 10 da renda\
+    \ dispon\xEDvel.\_ H\xE1 quatro anos, na largada da campanha eleitoral de 2022,\
+    \ uma das principais promessas do ent\xE3o candidato Lula era justamente tirar\
+    \ o peso da d\xEDvida de cima dos ombros dos [&#8230;]</p>\n<p>The post <a href=\"\
+    https://braziljournal.com/nunca-antes-neste-pais-o-brasileiro-afogou-tanto-em-dividas/\"\
+    \ rel=\"nofollow\">Nunca antes neste Pa\xEDs\u2026 o brasileiro afogou tanto em\
+    \ d\xEDvidas</a> appeared first on <a href=\"https://braziljournal.com\" rel=\"\
+    nofollow\">Brazil Journal</a>.</p>"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/nunca-antes-neste-pais-o-brasileiro-afogou-tanto-em-dividas/
+  title: "Nunca antes neste Pa\xEDs\u2026 o brasileiro afogou tanto em d\xEDvidas"
 - author: AQR
   categories:
   - Quant
@@ -569,8 +585,7 @@
   path: https://www.youtube.com/shorts/v-_d2e7x4KA
   title: The Wildest Camera Robot
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id003
-  - Economia
+  categories: *id003
   date: '2026-08-25T22:05:10+00:00'
   description: "<p>Com gastos p\xFAblicos em alta e crescimento econ\xF4mico med\xED\
     ocre, o M\xE9xico est\xE1 pr\xF3ximo de perder o grau de investimento \u2013 e\
@@ -585,21 +600,6 @@
   path: https://braziljournal.com/pemex-e-pibinho-colocam-em-risco-o-investment-grade-do-mexico/
   title: "Pemex e PIBinho colocam em risco o \u2018investment grade\u2019 do M\xE9\
     xico"
-- author: "Economia \u2013 Brazil Journal"
-  categories: *id003
-  date: '2026-08-25T00:07:13+00:00'
-  description: "<p>Quando trabalhava para George Soros, Stanley Druckenmiller teve\
-    \ a seu lado um promissor estrategista. Seu nome era Scott Bessent \u2014 o atual\
-    \ secret\xE1rio do Tesouro americano. Agora, o antigo chefe achou por bem dar\
-    \ conselhos a seu pupilo, que vem enfrentando uma crise de credibilidade enquanto\
-    \ tenta domar a empinada dos juros no mercado de [&#8230;]</p>\n<p>The post <a\
-    \ href=\"https://braziljournal.com/ex-chefe-para-bessent-let-the-bond-market-speak/\"\
-    \ rel=\"nofollow\">Ex-chefe para Bessent: \u2018Let the bond market speak\u2019\
-    </a> appeared first on <a href=\"https://braziljournal.com\" rel=\"nofollow\"\
-    >Brazil Journal</a>.</p>"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/ex-chefe-para-bessent-let-the-bond-market-speak/
-  title: "Ex-chefe para Bessent: \u2018Let the bond market speak\u2019"
 - author: Marques Brownlee
   categories: *id004
   date: '2026-08-24T20:27:50+00:00'
