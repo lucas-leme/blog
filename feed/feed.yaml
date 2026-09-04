@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-04T14:51:01.963806'
+  date: '2026-09-04T16:59:05.143584'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-04T14:51:01.963802'
+  date: '2026-09-04T16:59:05.143580'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-04T14:51:01.963798'
+  date: '2026-09-04T16:59:05.143575'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-04T14:51:01.963787'
+  date: '2026-09-04T16:59:05.143563'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,28 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: ArjanCodes
+  categories: &id003
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-09-04T15:00:33+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I use a Stripe\
+    \ payment integration to show what a Facade should really do. You'll learn how\
+    \ to reduce coupling, keep external APIs from leaking into your domain, and design\
+    \ cleaner boundaries that make your code easier to test, maintain, and evolve.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/facade.\n\n\U0001F393\
+    \ ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC Join my\
+    \ Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n1:40 The\
+    \ Real Problem\n2:30 The First Refactor\n3:50 The Most Common Facade Mistake\n\
+    4:47 A Facade Is a Boundary\n6:37 This Happens Everywhere\n7:43 Python Makes This\
+    \ Easy\n8:27 Common Facade Mistakes\n9:43 Facade vs Adapter\n10:20 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/vskwNNdnqMc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=vskwNNdnqMc
+  title: How to Stop Third-Party APIs From Ruining Your Code
 - author: CFA Institute Research and Policy Center
   categories: *id001
   date: '2026-09-04T12:00:00+00:00'
@@ -403,7 +425,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/risk-of-treating-derivatives-as-strategy
   title: The Risk of Treating Derivatives as the Strategy
 - author: Marques Brownlee
-  categories: &id003
+  categories: &id004
   - Tech
   - Youtube
   date: '2026-09-04T01:18:34+00:00'
@@ -553,7 +575,7 @@
   title: Can AI Earn It Back? The $2 Trillion Test and Other Forces Reshaping Markets
     and Portfolios
 - author: The Overshoot
-  categories: &id005
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-09-01T03:53:47+00:00'
@@ -600,7 +622,7 @@
   path: https://open.spotify.com/episode/0gjniGOPEp6p5TznfFtywb
   title: "#407 | O QUE O MERCADO AINDA N\xC3O ENTENDEU SOBRE A ELEI\xC7\xC3O DE 2026"
 - author: Outliers
-  categories: &id006
+  categories: &id007
   - Podcasts
   date: '2026-09-01T00:00:00+00:00'
   description: "Desde 2022 a Selic esta acima de 10%, com isso, o custo de capital\
@@ -623,7 +645,7 @@
   path: https://open.spotify.com/episode/3LFzg3qPKrDquLJutTcpqf
   title: "Oportunidades no cr\xE9dito com a JiveMau\xE1 | Outliers InfoMoney #194"
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id004
+  categories: &id005
   - Economia
   date: '2026-08-31T09:50:04+00:00'
   description: "<p>N\xE3o s\xE3o s\xF3 as empresas. As fam\xEDlias brasileiras tamb\xE9\
@@ -639,10 +661,7 @@
   path: https://braziljournal.com/nunca-antes-neste-pais-o-brasileiro-afogou-tanto-em-dividas/
   title: "Nunca antes neste Pa\xEDs\u2026 o brasileiro afogou tanto em d\xEDvidas"
 - author: ArjanCodes
-  categories: &id007
-  - Tech
-  - Code
-  - Youtube
+  categories: *id003
   date: '2026-08-28T15:00:28+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I walk through\
@@ -664,14 +683,14 @@
   path: https://www.youtube.com/watch?v=RqcEK7sWesQ
   title: "You Think This Is Good OOP\u2026 It\u2019s Not"
 - author: Marques Brownlee
-  categories: *id003
+  categories: *id004
   date: '2026-08-25T23:23:55+00:00'
   description: It can do flips, etc
   image: https://i3.ytimg.com/vi/v-_d2e7x4KA/hqdefault.jpg
   path: https://www.youtube.com/shorts/v-_d2e7x4KA
   title: The Wildest Camera Robot
 - author: "Economia \u2013 Brazil Journal"
-  categories: *id004
+  categories: *id005
   date: '2026-08-25T22:05:10+00:00'
   description: "<p>Com gastos p\xFAblicos em alta e crescimento econ\xF4mico med\xED\
     ocre, o M\xE9xico est\xE1 pr\xF3ximo de perder o grau de investimento \u2013 e\
@@ -687,7 +706,7 @@
   title: "Pemex e PIBinho colocam em risco o \u2018investment grade\u2019 do M\xE9\
     xico"
 - author: The Overshoot
-  categories: *id005
+  categories: *id006
   date: '2026-08-18T23:32:21+00:00'
   description: If new technologies are actually able to boost productivity growth
     over a sustained period, the 1990s experience suggests that real interest rates
@@ -696,7 +715,7 @@
   path: https://theovershoot.co/p/ai-productivity-and-rates-part-2
   title: 'AI, Productivity, and Rates: Part 2'
 - author: Outliers
-  categories: *id006
+  categories: *id007
   date: '2026-08-18T00:00:00+00:00'
   description: "Desde o fim de 2024, o patrim\xF4nio sob gest\xE3o dos ETFs (Exchange\
     \ Traded Funds, ou Fundos de \xCDndice) aumentou 2,6 vezes, de R$ 50 bilh\xF5\
@@ -719,26 +738,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8afb3b775011c3f083d269a3b5
   path: https://open.spotify.com/episode/5QpfnqPgS0T7jyAR8vBrUk
   title: "A revolu\xE7\xE3o dos ETFs chegou no Brasil | Outliers InfoMoney #193"
-- author: ArjanCodes
-  categories: *id007
-  date: '2026-08-14T15:00:36+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ waiting list \u2192 https://arjan.codes/mastery.\n\nIn this video, I\u2019m\
-    \ sharing 15 Python libraries that can make your code cleaner, faster, and easier\
-    \ to maintain.\n\nI cover libraries for configuration, serialization, dependency\
-    \ injection, state machines, scheduling, data analysis, testing, UI development,\
-    \ and more. One of them even fixes a long-standing issue with Python's `datetime`\
-    \ handling around daylight saving time.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/libraries.\n\
-    \n\U0001F393 ArjanCodes Courses: https://www.arjancodes.com/courses.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:19 Pydantic Settings\n2:08 msgspec\n3:24 Dacite\n4:26 AutoRegistry\n5:40 python-statemachine\n\
-    6:32 Dishka\n7:36 DuckDB\n8:24 Schedium\n9:54 Whenever\n10:52 Pint\n11:59 GeoPy\n\
-    12:42 NiceGUI\n14:08 Faker\n15:24 Zensical\n16:24 Complexipy\n18:24 Final Thoughts\n\
-    \n#arjancodes #softwaredesign #python"
-  image: https://i4.ytimg.com/vi/ssLO99uwPWI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ssLO99uwPWI
-  title: 15 Python Libraries That Deserve More Attention
 - author: Flirting with Models
   categories:
   - Podcasts
