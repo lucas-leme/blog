@@ -17,7 +17,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-12T04:50:34.290127'
+  date: '2026-09-12T13:54:29.897589'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -31,7 +31,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-12T04:50:34.290123'
+  date: '2026-09-12T13:54:29.897585'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -48,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-12T04:50:34.290119'
+  date: '2026-09-12T13:54:29.897580'
   description: "<div class=\"ExternalClass6E93F6AC48184ADBB4D397BC268E625D\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -138,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-12T04:50:34.290108'
+  date: '2026-09-12T13:54:29.897569'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,28 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-09-11T15:00:15+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nIn this video, I wanted to share\
+    \ a more personal update about what's happening behind the scenes at ArjanCodes.\n\
+    \nI talk about moving house, moving into a new office, how AI is changing software\
+    \ development, and why I've decided to keep this channel focused on what I care\
+    \ about most: Python, software design, and the fundamentals that stay relevant\
+    \ no matter how much AI evolves. I also share some changes to the channel and\
+    \ introduce the next chapter with Software Design Mastery.\n\n\U0001F4AC Join\
+    \ my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n0:29 The\
+    \ Move\n2:22 Second Move\n3:58 Channel Focus\n7:34 AI\n10:16 Channel Direction\n\
+    13:41 Practical Channel Things\n18:04 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i4.ytimg.com/vi/kAsvDoM9WJw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=kAsvDoM9WJw
+  title: Back to the Fundamentals
 - author: AQR
   categories:
   - Quant
@@ -407,7 +429,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: "Economia \u2013 Brazil Journal"
-  categories: &id002
+  categories: &id003
   - Economia
   date: '2026-09-11T09:50:52+00:00'
   description: "<p>Bill Gates voltou a defender uma ideia que parecia exc\xEAntrica\
@@ -444,8 +466,28 @@
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/deleveraging-is-a-capital-allocation-decision-0
   title: Deleveraging Is a Capital Allocation Decision
-- author: "Economia \u2013 Brazil Journal"
+- author: Marques Brownlee
+  categories: &id002
+  - Tech
+  - Youtube
+  date: '2026-09-10T07:29:55+00:00'
+  description: "The first folding iPhone Duo and iPhone 18 Pro are here, and this\
+    \ is everything you need to know.\n\nCheck out Ridge\u2019s latest iPhone tech\
+    \ gear at https://ridge.com/MKBHD\n\niOS 27: https://youtu.be/_oRgdlJUD18\n\n\
+    MKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\
+    \n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+  image: https://i4.ytimg.com/vi/Od6M0AXpcxQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=Od6M0AXpcxQ
+  title: 'iPhone 18 Pro/Duo Impressions: Mogged'
+- author: Marques Brownlee
   categories: *id002
+  date: '2026-09-10T07:02:22+00:00'
+  description: What to know about iPhone Duo
+  image: https://i3.ytimg.com/vi/R6yNUnRXZ64/hqdefault.jpg
+  path: https://www.youtube.com/shorts/R6yNUnRXZ64
+  title: iPhone Duo is here
+- author: "Economia \u2013 Brazil Journal"
+  categories: *id003
   date: '2026-09-10T03:45:59+00:00'
   description: "<p>Do ponto de vista de liberaliza\xE7\xE3o do com\xE9rcio, os anos\
     \ 1990 marcam um per\xEDodo \xE9pico na hist\xF3ria. A partir do in\xEDcio dos\
@@ -460,7 +502,7 @@
   path: https://braziljournal.com/o-mexico-abriu-sua-economia-por-que-nao-ficou-rico/
   title: "O M\xE9xico abriu sua economia. Por que n\xE3o ficou rico?"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-09-10T00:00:00+00:00'
   description: "Por que uma das maiores pot\xEAncias agr\xEDcolas do planeta entrou\
@@ -515,7 +557,7 @@
   path: https://open.spotify.com/episode/4XjG20Dve00BoH23CjfEpV
   title: Why the AI giants are acting like banks
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-09-09T00:00:00+00:00'
   description: "GABINETE DO INVESTIDOR: https://lp.mmakers.com.br/gdi01-gabinete/?xpromo=MI-GDI01-YT-DESCRICAO-X-20260908-X-MM-XLula\
     \ e Fl\xE1vio Bolsonaro est\xE3o em uma disputa presidencial apertad\xEDssima.\
@@ -549,7 +591,7 @@
   path: https://open.spotify.com/episode/5W2IfeAJgXgteIodGwL6cB
   title: "#410 | A CRISE DO STF VAI MUDAR A ELEI\xC7\xC3O DE 2026?"
 - author: Outliers
-  categories: &id004
+  categories: &id006
   - Podcasts
   date: '2026-09-08T00:00:00+00:00'
   description: "O Espresso Outliers saiu do est\xFAdio para entrar no escrit\xF3rio\
@@ -571,6 +613,24 @@
   image: https://i.scdn.co/image/ab6765630000ba8ae707e7a3c067a1284b09b6e2
   path: https://open.spotify.com/episode/7kseKeZuM5D0pDuse15pxc
   title: 'A aposta gigantesca da XP Asset nos ETFs | Espresso Outliers InfoMoney #22'
+- author: ArjanCodes
+  categories: *id005
+  date: '2026-09-04T15:00:33+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nIn this video, I use a Stripe\
+    \ payment integration to show what a Facade should really do. You'll learn how\
+    \ to reduce coupling, keep external APIs from leaking into your domain, and design\
+    \ cleaner boundaries that make your code easier to test, maintain, and evolve.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/facade.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:40 The Real Problem\n2:30 The First Refactor\n3:50 The Most Common Facade Mistake\n\
+    4:47 A Facade Is a Boundary\n6:37 This Happens Everywhere\n7:43 Python Makes This\
+    \ Easy\n8:27 Common Facade Mistakes\n9:43 Facade vs Adapter\n10:20 Final Thoughts\n\
+    \n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/vskwNNdnqMc/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=vskwNNdnqMc
+  title: How to Stop Third-Party APIs From Ruining Your Code
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -613,7 +673,7 @@
   title: Can AI Earn It Back? The $2 Trillion Test and Other Forces Reshaping Markets
     and Portfolios
 - author: The Overshoot
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-09-01T03:53:47+00:00'
@@ -623,7 +683,7 @@
   path: https://theovershoot.co/p/rising-bond-yields-are-good-actually
   title: Rising Bond Yields Are Good, Actually
 - author: Outliers
-  categories: *id004
+  categories: *id006
   date: '2026-09-01T00:00:00+00:00'
   description: "Desde 2022 a Selic esta acima de 10%, com isso, o custo de capital\
     \ passa a comprometer a sa\xFAde financeira de muitas empresas. Esse \xE9 um dos\
@@ -645,7 +705,7 @@
   path: https://open.spotify.com/episode/3LFzg3qPKrDquLJutTcpqf
   title: "Oportunidades no cr\xE9dito com a JiveMau\xE1 | Outliers InfoMoney #194"
 - author: The Overshoot
-  categories: *id005
+  categories: *id007
   date: '2026-08-18T23:32:21+00:00'
   description: If new technologies are actually able to boost productivity growth
     over a sustained period, the 1990s experience suggests that real interest rates
@@ -680,7 +740,7 @@
   title: "Stacie Mintz \u2013\_Turning Qualitative Fundamentals into Quantitative\
     \ Factors (S7E33)"
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -690,7 +750,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id008
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -699,7 +759,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id007
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -715,7 +775,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id007
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
