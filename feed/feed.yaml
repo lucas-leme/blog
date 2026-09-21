@@ -13,18 +13,11 @@
   path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-lev-dynkin-arik-ben-dor
   title: Conversations with Frank Fabozzi, CFA, Featuring Lev Dynkin and Arik Ben
     Dor
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-09-21T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/research/reports/2026/private-markets-retirement-plans
-  title: Private Markets in Retirement Plans
 - author: RSS - Feeds do BC
   categories:
   - Bacen
   - BC
-  date: '2026-09-21T05:15:06.992502'
+  date: '2026-09-21T16:49:15.058619'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -32,13 +25,13 @@
     \ \xEDndices de pre\xE7os, atividade econ\xF4mica, c\xE2mbio, taxa Selic, entre\
     \ outros indicadores. As proje\xE7\xF5es s\xE3o do mercado, n\xE3o do BC."
   image: https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg
-  path: https://www.bcb.gov.br/publicacoes/focus/11092026
-  title: "BC - Focus - Relat\xF3rio de Mercado - 11/09/2026"
+  path: https://www.bcb.gov.br/publicacoes/focus/18092026
+  title: "BC - Focus - Relat\xF3rio de Mercado - 18/09/2026"
 - author: "Relat\xF3rio de Infla\xE7\xE3o"
   categories:
   - Bacen
   - BC
-  date: '2026-09-21T05:15:06.992498'
+  date: '2026-09-21T16:49:15.058615'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -55,7 +48,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-21T05:15:06.992493'
+  date: '2026-09-21T16:49:15.058610'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -145,7 +138,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-09-21T05:15:06.992483'
+  date: '2026-09-21T16:49:15.058600'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -402,6 +395,16 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/05082026
   title: "BC - Copom Ata - 280\xAA Reuni\xE3o - 4-5 agosto, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-09-21T12:00:00+00:00'
+  description: This report examines how allocations to private equity, private debt,
+    infrastructure, real estate, and venture capital could affect defined contribution
+    retirement outcomes, explaining why contributions, time horizon, fees, liquidity,
+    and plan design remain decisive.
+  image: null
+  path: https://rpc.cfainstitute.org/research/reports/2026/private-markets-retirement-plans
+  title: Private Markets in Retirement Plans
 - author: AQR
   categories:
   - Quant
@@ -453,6 +456,27 @@
   path: https://open.spotify.com/episode/4V2yTmClH7pYTV0YN2wwVe
   title: "#414 | IA, NVIDIA E ENERGIA: ONDE EST\xC3O AS OPORTUNIDADES DA PR\xD3XIMA\
     \ D\xC9CADA?"
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-09-18T15:00:34+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nWhat should you do when objects\
+    \ differ by type: create subclasses, store an enum like plan_type, or represent\
+    \ each variation as an object? In this video, I use a realistic Python subscription\
+    \ system to compare all three approaches and introduce the Type Object pattern.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/type.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    2:22 Approach 1: Model the Variation With Subclasses\n3:47 Approach 2: Just Store\
+    \ the Type\n5:47 Approach 3: Make the Type an Object\n8:51 Why Not Just Use the\
+    \ Enum?\n9:45 Where Do the Type Objects Live?\n14:09 Choosing Between the Three\n\
+    15:05 Final Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i2.ytimg.com/vi/IdwdqdywNOM/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=IdwdqdywNOM
+  title: This Design Pattern Replaces an Entire Class Hierarchy
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -558,6 +582,55 @@
   image: https://i.scdn.co/image/ab6765630000ba8a77ba84f860bbab36a7ec7528
   path: https://open.spotify.com/episode/2PSLS7T0ktLb1QjXQ5MOTA
   title: The great global bond sell-off
+- author: Marques Brownlee
+  categories: &id004
+  - Tech
+  - Youtube
+  date: '2026-09-16T12:01:27+00:00'
+  description: 'iPhone 18 Pro is basically an S year upgrade. And one part of it is
+    really impressive.
+
+
+    Protect your new iPhone 18 with a case or screen protector at http://dbrand.com/shop/iphone-18
+
+
+    The scale of a transistor: https://youtu.be/Jh9pFp1oM7E
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Intro Track: Make You Happy by Betablock3r
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Phone provided by Apple for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD
+
+
+    0:00 Intro
+
+    1:21 This Camera
+
+    6:47 The Chip
+
+    10:20 Battery Boost
+
+    13:04 The Little Things
+
+    14:22 Conclusion'
+  image: https://i4.ytimg.com/vi/ohqxP8EEumo/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ohqxP8EEumo
+  title: 'iPhone 18 Pro Review: All About that Chip'
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -588,7 +661,7 @@
   path: https://braziljournal.com/o-cdi-e-mesmo-o-risk-free-brasileiro/
   title: "O CDI \xE9 mesmo o \u2018risk-free\u2019 brasileiro?"
 - author: Outliers
-  categories: &id004
+  categories: &id006
   - Podcasts
   date: '2026-09-15T00:00:00+00:00'
   description: "O futuro \xE9 formado por gestoras de recursos com baixos custos e\
@@ -607,7 +680,7 @@
   path: https://open.spotify.com/episode/0XNojBTt3AEotxwupdmamE
   title: "Ind\xFAstria de fundos 2.0, com BCG | Outliers InfoMoney #195"
 - author: The Overshoot
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-09-14T23:43:01+00:00'
@@ -649,8 +722,52 @@
   image: https://i.scdn.co/image/ab6765630000ba8a050206e2d21101af81fcb485
   path: https://open.spotify.com/episode/3czq2cQ3v4WPKcy5yQwLS4
   title: "Lucas Schuermann \u2013\_Swapping Out Perpetual Futures (S7E34)"
-- author: Outliers
+- author: Marques Brownlee
   categories: *id004
+  date: '2026-09-12T21:36:57+00:00'
+  description: 'A few new thoughts from the days after the Duo unveil.
+
+
+    That shirt: http://shop.MKBHD.com
+
+
+    The full iPhone Duo Hands-on: https://youtu.be/Od6M0AXpcxQ
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i3.ytimg.com/vi/6D__H_DO2Xk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=6D__H_DO2Xk
+  title: 'iPhone Duo: What We Missed!'
+- author: ArjanCodes
+  categories: *id005
+  date: '2026-09-11T15:00:15+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nIn this video, I wanted to share\
+    \ a more personal update about what's happening behind the scenes at ArjanCodes.\n\
+    \nI talk about moving house, moving into a new office, how AI is changing software\
+    \ development, and why I've decided to keep this channel focused on what I care\
+    \ about most: Python, software design, and the fundamentals that stay relevant\
+    \ no matter how much AI evolves. I also share some changes to the channel and\
+    \ introduce the next chapter with Software Design Mastery.\n\n\U0001F4AC Join\
+    \ my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard I\u2019\
+    m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n0:29 The\
+    \ Move\n2:22 Second Move\n3:58 Channel Focus\n7:34 AI\n10:16 Channel Direction\n\
+    13:41 Practical Channel Things\n18:04 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i4.ytimg.com/vi/kAsvDoM9WJw/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=kAsvDoM9WJw
+  title: 'A personal update: Life, AI, and ArjanCodes'
+- author: Outliers
+  categories: *id006
   date: '2026-09-08T00:00:00+00:00'
   description: "O Espresso Outliers saiu do est\xFAdio para entrar no escrit\xF3rio\
     \ das gestoras mais premiadas do mercado. Clara Sodr\xE9 analista de fundos da\
@@ -672,7 +789,7 @@
   path: https://open.spotify.com/episode/7kseKeZuM5D0pDuse15pxc
   title: 'A aposta gigantesca da XP Asset nos ETFs | Espresso Outliers InfoMoney #22'
 - author: The Overshoot
-  categories: *id005
+  categories: *id007
   date: '2026-09-01T03:53:47+00:00'
   description: 'The simplest explanation is also the most benign: traders are becoming
     increasingly confident that the lost decades are over.'
@@ -680,7 +797,7 @@
   path: https://theovershoot.co/p/rising-bond-yields-are-good-actually
   title: Rising Bond Yields Are Good, Actually
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-05-03T13:31:02+00:00'
@@ -690,7 +807,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id008
   date: '2026-03-05T13:31:25+00:00'
   description: The AI Boom Has Delivered a 2nd Economic Miracle to Taiwan, Pushing
     GDP Growth Above 23%. It Must Navigate Rising Geopolitical & Economic Tensions
@@ -699,7 +816,7 @@
   path: https://www.apricitas.io/p/taiwans-modern-miracle
   title: Taiwan's Modern Miracle
 - author: The Journal.
-  categories: &id007
+  categories: &id009
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -715,7 +832,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id007
+  categories: *id009
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
