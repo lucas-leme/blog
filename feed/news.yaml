@@ -1,22 +1,12 @@
-- author: InvestNews - Economia
+- author: "InvestNews - Finan\xE7as"
   categories: &id001
   - "Not\xEDcias"
-  date: '2026-09-22T13:38:34+00:00'
-  description: "Acordo prev\xEA redu\xE7\xE3o de tarifas e outras barreiras comerciais,\
-    \ mas enfrenta resist\xEAncia no Congresso da Argentina"
+  date: '2026-09-21T14:09:05+00:00'
+  description: "Deserdar um herdeiro necess\xE1rio \xE9 poss\xEDvel, mas s\xF3 em\
+    \ casos bem espec\xEDficos. Entenda as situa\xE7\xF5es"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/milei-diz-a-trump-que-nao-tem-votos-para-ratificar-acordo-comercial-com-os-eua/
-  title: "Milei diz a Trump que n\xE3o tem votos para ratificar acordo comercial com\
-    \ os EUA"
-- author: InvestNews - Economia
-  categories: *id001
-  date: '2026-09-21T22:44:29+00:00'
-  description: "Vantagem do senador caiu de 2 para 1 ponto percentual; no 1\xBA turno,\
-    \ eles continuam empatados tecnicamente"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/economia/flavio-lula-nova-pesquisa-quaest/
-  title: "Fl\xE1vio Bolsonaro segue \xE0 frente de Lula no segundo turno, em nova\
-    \ pesquisa Quaest"
+  path: https://investnews.com.br/financas/e-possivel-deserdar-filho/
+  title: "\xC9 poss\xEDvel deserdar filho? Veja o que diz a lei"
 - author: "\u201CSuperior returns guaranteed\""
   categories: &id003
   - "Not\xEDcias"
@@ -53,8 +43,7 @@
   path: https://www.reddit.com/r/CFA/comments/1wm24n6/mental_health_monday_your_weekly_cfa_mental/
   title: Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 - author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
+  categories: *id001
   date: '2026-09-16T21:37:37+00:00'
   description: "Diretores do Banco Central dizem enxergar uma desacelera\xE7\xE3o\
     \ econ\xF4mica, mas que ainda h\xE1 riscos para a infla\xE7\xE3o"
@@ -62,15 +51,24 @@
   path: https://investnews.com.br/financas/banco-central-corta-juros-1375-copom/
   title: "Copom corta juros pela quinta vez seguida, para 13,75% ao ano \u2013 na\
     \ \xFAltima reuni\xE3o antes das elei\xE7\xF5es"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-09-12T19:57:48+00:00'
-  description: "Potencial janela de emiss\xE3o para panda bonds foi confirmada pelo\
-    \ subsecret\xE1rio da D\xEDvida P\xFAblica"
+- author: InvestNews - Economia
+  categories: &id002
+  - "Not\xEDcias"
+  date: '2026-09-04T20:35:49+00:00'
+  description: "Lula e Trump em negocia\xE7\xF5es: alta dos pre\xE7os de bens exportados\
+    \ compensou queda em volumes"
   image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/quando-pode-ocorrer-a-primeira-emissao-de-panda-bonds-pelo-governo-brasileiro-janela-pode-abrir-no-fim-do-mes/
-  title: "Quando pode ocorrer a primeira emiss\xE3o de 'panda bonds' pelo governo\
-    \ brasileiro? Janela pode abrir no fim do m\xEAs"
+  path: https://investnews.com.br/economia/brasil-amplia-exportacoes-aos-estados-unidos-apesar-de-tarifas-de-trump/
+  title: "Brasil amplia exporta\xE7\xF5es aos EUA apesar de novas tarifas de Trump.\
+    \ O segredo: pre\xE7os em alta"
+- author: InvestNews - Economia
+  categories: *id002
+  date: '2026-09-04T11:52:12+00:00'
+  description: "Milei endurece discurso contra projeto de petr\xF3leo em \xE1rea disputada\
+    \ e anuncia nova base naval"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/economia/milei-revive-disputa-das-malvinas-com-reino-unido-em-meio-a-queda-de-popularidade/
+  title: Milei revive disputa das Malvinas com Reino Unido em meio a queda de popularidade
 - author: "\u201CSuperior returns guaranteed\""
   categories: *id003
   date: '2026-08-29T16:37:53+00:00'
