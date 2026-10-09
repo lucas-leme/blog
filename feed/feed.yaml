@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T19:45:28.261824'
+  date: '2026-10-09T22:43:57.960759'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T19:45:28.261820'
+  date: '2026-10-09T22:43:57.960754'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T19:45:28.261815'
+  date: '2026-10-09T22:43:57.960748'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T19:45:28.261805'
+  date: '2026-10-09T22:43:57.960736'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,17 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: The Overshoot
+  categories: &id004
+  - Macro
+  - Newsletters
+  date: '2026-10-09T21:48:05+00:00'
+  description: For years I have argued that the official numbers on net interest payments
+    by U.S. businesses were grossly understated. The latest revisions have vindicated
+    my view.
+  image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
+  path: https://theovershoot.co/p/found-americas-missing-interest-income
+  title: "Found: America\u2019s Missing Interest Income"
 - author: Brazil Journal - Latest news
   categories: &id001
   - Economia
@@ -419,7 +430,7 @@
   path: https://braziljournal.com/a-starlink-mobile-esta-chegando-e-as-grandes-telecoms-sentiram
   title: "A Starlink Mobile est\xE1 chegando \u2013 e as grandes telecoms sentiram"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -494,7 +505,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-10-08T21:00:40+00:00'
@@ -619,9 +630,7 @@
   path: https://open.spotify.com/episode/5E2G4Et8pO0R84DqumHeWf
   title: "#421 | LULA X FL\xC1VIO: O VENCEDOR VAI CONSEGUIR GOVERNAR?"
 - author: The Overshoot
-  categories: &id006
-  - Macro
-  - Newsletters
+  categories: *id004
   date: '2026-10-03T08:26:50+00:00'
   description: In much of the rich world, the uptick in the cost of capital corresponds
     to a relatively benign change in (nominal) growth trajectories. This is less true
@@ -630,7 +639,7 @@
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-10-02T20:50:25+00:00'
   description: 'This is not an iPhone Duo. Xiaomi is at it again.
 
@@ -655,7 +664,7 @@
   path: https://www.youtube.com/watch?v=3iRUwVzRDZQ
   title: 'Xiaomi 18 Fold: How Does This Happen?'
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-10-02T15:00:36+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ program \u2192 https://arjan.codes/mastery.\n\nPython 3.15 brings some surprisingly\
@@ -701,15 +710,6 @@
   image: https://substackcdn.com/image/fetch/$s_!oz9x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
-- author: The Overshoot
-  categories: *id006
-  date: '2026-09-24T22:20:06+00:00'
-  description: Tariffs, Hormuz, and fiscal policy are not good reasons to hike. The
-    underlying growth trend and the asymmetric sensitivity of private sector spending
-    to the level of interest rates are.
-  image: https://substackcdn.com/image/fetch/$s_!f97K!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1d670015-7ad7-41b5-a7a3-6a6f16468b6e_3205x2900.png
-  path: https://theovershoot.co/p/the-fed-finally-gets-it
-  title: The Fed Finally Gets It
 - author: Flirting with Models
   categories:
   - Podcasts
