@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T22:43:57.960759'
+  date: '2026-10-10T06:11:10.838159'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T22:43:57.960754'
+  date: '2026-10-10T06:11:10.838155'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T22:43:57.960748'
+  date: '2026-10-10T06:11:10.838150'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-09T22:43:57.960736'
+  date: '2026-10-10T06:11:10.838138'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,8 +395,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-10-10T06:11:08+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
 - author: The Overshoot
-  categories: &id004
+  categories: &id003
   - Macro
   - Newsletters
   date: '2026-10-09T21:48:05+00:00'
@@ -429,30 +440,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/a-starlink-mobile-esta-chegando-e-as-grandes-telecoms-sentiram
   title: "A Starlink Mobile est\xE1 chegando \u2013 e as grandes telecoms sentiram"
-- author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
-  date: '2026-10-09T15:00:08+00:00'
-  description: "\U0001F468\U0001F3FB\u200D\U0001F4BB Join me in Utrecht next year\
-    \ for an in-person Software Design Retreat! Design, discuss, and learn alongside\
-    \ fellow developers. Join the waitlist: https://arjancodes.com/retreat.\n\n\U0001F9F1\
-    \ Build software that lasts. Join the Software Design Mastery program \u2192 https://arjan.codes/mastery.\n\
-    \nUndo sounds simple until every change needs its own reverse logic. The Memento\
-    \ pattern offers a different approach: save an object's state and restore it when\
-    \ you need to go back. In this video, I show how to implement the Memento pattern\
-    \ in modern Python using snapshots, dataclasses, protocols, and generics. \n\n\
-    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/memento.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:20 The Workflow\n2:40 Take a Snapshot\n6:08 Originator, Memento, and Caretaker\n\
-    11:02 What Should Be in the Snapshot?\n12:03 Undo and Redo\n13:12 Memento vs Command\n\
-    14:01 Beyond Undo\n14:35 When Not to Use It\n15:07 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/ZXAt8AP3DnY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZXAt8AP3DnY
-  title: This Python Pattern Makes Undo Surprisingly Simple
 - author: CFA Institute Research and Policy Center
   categories: *id002
   date: '2026-10-09T12:00:00+00:00'
@@ -493,90 +480,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
   path: https://open.spotify.com/episode/3yA69cHm3tVouAHktwpGlt
   title: A False Sense of How People View You
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-10-08T23:26:02+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
-- author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
-  date: '2026-10-08T21:00:40+00:00'
-  description: 'New laptops are dropping left and right! Let''s talk about Google''s
-    entry.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Asus Googlebook provided by Asus for review.
-
-    XPS Googlebook provided by Dell for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=_0G4OG39XjI
-  title: WTF is a Googlebook?
-- author: Market Makers
-  categories: &id003
-  - Podcasts
-  date: '2026-10-08T00:00:00+00:00'
-  description: "A publicidade mudou \u2014 e as empresas que ainda pensam apenas em\
-    \ TV, digital, performance ou campanhas isoladas podem estar olhando para o problema\
-    \ errado.Neste epis\xF3dio do Market Makers, Thiago Salom\xE3o e Leopoldo Rosa\
-    \ recebem Carolina Buzetto, CEO e cofundadora da WPP Media Brasil, e Fernanda\
-    \ Tedde, CEO da Fbiz, para entender como funciona uma das maiores ind\xFAstrias\
-    \ do mundo: publicidade, m\xEDdia e constru\xE7\xE3o de marcas.Como uma ag\xEA\
-    ncia ganha dinheiro? Como as grandes empresas decidem onde investir sua verba\
-    \ de m\xEDdia? Ainda vale anunciar na televis\xE3o? Performance realmente constr\xF3\
-    i uma marca? Como medir o retorno da publicidade? E o que acontece agora que intelig\xEA\
-    ncia artificial, creators e algoritmos passaram a influenciar diretamente a decis\xE3\
-    o de compra?Ao longo da conversa, Carolina e Fernanda explicam como a fragmenta\xE7\
-    \xE3o da audi\xEAncia mudou a publicidade, por que construir uma marca continua\
-    \ sendo essencial, como dados e tecnologia transformaram as ag\xEAncias e por\
-    \ que o futuro do marketing passa por algo ainda maior: fazer uma marca ser relevante\
-    \ n\xE3o apenas para pessoas, mas tamb\xE9m para mecanismos de busca e sistemas\
-    \ de intelig\xEAncia artificial.Neste epis\xF3dio:\u2022 Como as ag\xEAncias de\
-    \ publicidade ganham dinheiro\u2022 Como funciona a compra e estrat\xE9gia de\
-    \ m\xEDdia\u2022 TV, digital e a fragmenta\xE7\xE3o da audi\xEAncia\u2022 Branding\
-    \ x marketing de performance\u2022 Como grandes marcas constroem mem\xF3ria\u2022\
-    \ Dados e mensura\xE7\xE3o de campanhas\u2022 Creators e influenciadores\u2022\
-    \ Cancelamento e risco reputacional\u2022 Intelig\xEAncia artificial na publicidade\u2022\
-    \ O futuro das ag\xEAncias\u2022 SEO, Total Search e algoritmos\u2022 Como marcas\
-    \ ser\xE3o encontradas pelas IAsAbra sua conta na Binance: https://binance.onelink.me/y874/MMAkers\U0001F4CC\
-    \ Inscreva-se no canal e ative as notifica\xE7\xF5es para n\xE3o perder nenhum\
-    \ epis\xF3dio!\U0001F4E2Apoie o Market Makers e ajude a fortalecer o mercado de\
-    \ capitais no Brasil! Clique no link e torne-se membro do nosso canal por apenas\
-    \ R$11,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
-    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
-    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
-    \ Market Makers: https://lp.mmakers.com.br/biblioteca/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
-    \ - - - - - - - -COMO AS GRANDES MARCAS EST\xC3O INVESTINDO EM PUBLICIDADE? |\
-    \ Market Makers #422\_\_Apresentadores: Thiago Salom\xE3o (Apresentador do Market\
-    \ Makers) e Leopoldo Rosa (COO do Market Makers)Convidado: Carolina Buzetto (CEO\
-    \ e cofundadora da WPP Media Brasil) e Fernanda Tedde (CEO da Fbiz)Edi\xE7\xE3\
-    o: Pedro PereiraCapta\xE7\xE3o : Renan Moncoski#PUBLICIDADE #MARKETING #MARCAS\
-    \ #MARKETMAKERS #THIAGOSALOM\xC3O"
-  image: https://i.scdn.co/image/ab6765630000ba8a96c4e38fbe071163cf4c7d10
-  path: https://open.spotify.com/episode/1XfqR0HUxAKLomc85uUGXo
-  title: "#422 | COMO AS GRANDES MARCAS EST\xC3O INVESTINDO EM PUBLICIDADE?"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
@@ -594,43 +497,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a1a796973c4821d240507a6e0
   path: https://open.spotify.com/episode/6IrQVINHCcS8rLhxXb2rU4
   title: Are populists wrecking your portfolio?
-- author: Market Makers
-  categories: *id003
-  date: '2026-10-07T00:00:00+00:00'
-  description: "Lula ou Fl\xE1vio Bolsonaro: o que muda para a bolsa, o d\xF3lar e\
-    \ os juros? E quanto dessa hist\xF3ria j\xE1 depende do Congresso eleito em 2026?Thiago\
-    \ Salom\xE3o recebe Afonso Pac\xEDfico, s\xF3cio da JGP Asset Management, respons\xE1\
-    vel pela an\xE1lise regulat\xF3ria e pol\xEDtica desde 2019. Gestor federal de\
-    \ carreira, atuou por mais de dez anos em cargos de alto escal\xE3o no centro\
-    \ do governo federal, como na secretaria-executiva da Casa Civil, como Diretos\
-    \ de Assuntos Legislativos. para conectar o resultado das urnas aos cen\xE1rios\
-    \ para a economia brasileira.Neste epis\xF3dio:\u2022 O que a elei\xE7\xE3o da\
-    \ C\xE2mara e do Senado muda para o pr\xF3ximo governo.\u2022 A rela\xE7\xE3o\
-    \ entre Senado, STF e governabilidade.\u2022 O cen\xE1rio para Lula x Fl\xE1vio\
-    \ e os acontecimentos que podem alter\xE1-lo.\u2022 As diferen\xE7as econ\xF4\
-    micas entre os dois poss\xEDveis governos.\u2022 Os riscos fiscais e os efeitos\
-    \ sobre bolsa, d\xF3lar e juros.\u2022 Qual mudan\xE7a pesa mais para o mercado:\
-    \ a Presid\xEAncia ou o Congresso? Deixe sua an\xE1lise nos coment\xE1rios.Inscreva-se\
-    \ no Market Makers e acompanhe os pr\xF3ximos epis\xF3dios sobre pol\xEDtica,\
-    \ economia e investimentos.Abra sua Conta Internacional na Nomad e ganhe at\xE9\
-    \ U$50 de cashback com o c\xF3digo de convidado MMAKERS50: https://link.nomadglobal.com/wIQT/MMAKERS50\
-    \ (Leia os avisos legais: nomadglobal.com/legal)Baixe agora o e-book Claude para\
-    \ Investidores e se inscreva para participar da Masterclass gratuita com Leonardo\
-    \ Dawadji: https://lp1.mmakers.com.br/cpi02l-claude-a/\U0001F4E2Apoie o Market\
-    \ Makers e ajude a fortalecer o mercado de capitais no Brasil! Clique no link\
-    \ e torne-se membro do nosso canal por apenas R$7,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
-    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
-    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
-    \ Market Makers: https://lp.mmakers.com.br/biblioteca/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
-    \ - - - - - - - -LULA X FL\xC1VIO: O VENCEDOR VAI CONSEGUIR GOVERNAR? | Market\
-    \ Makers #421Apresentadores: Thiago Salom\xE3o (Fundador do Market Makers) e Leopoldo\
-    \ Rosa (COO do Market Makers)Convidados: Afonso Pac\xEDfico \u2014 JGP Asset Management#POL\xCD\
-    TICA #BRASIL #ECONOMIA #ELEI\xC7\xD5ES #LULA #FL\xC1VIOBOLSONARO #MERCADO #MARKETMAKERS"
-  image: https://i.scdn.co/image/ab6765630000ba8ac0019874131863c8edf6a952
-  path: https://open.spotify.com/episode/5E2G4Et8pO0R84DqumHeWf
-  title: "#421 | LULA X FL\xC1VIO: O VENCEDOR VAI CONSEGUIR GOVERNAR?"
 - author: The Overshoot
-  categories: *id004
+  categories: *id003
   date: '2026-10-03T08:26:50+00:00'
   description: In much of the rich world, the uptick in the cost of capital corresponds
     to a relatively benign change in (nominal) growth trajectories. This is less true
@@ -638,52 +506,6 @@
   image: https://substackcdn.com/image/fetch/$s_!aEKj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff68274f5-e8b0-4124-8953-6e1da07e9848_3200x2780.png
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
-- author: Marques Brownlee
-  categories: *id005
-  date: '2026-10-02T20:50:25+00:00'
-  description: 'This is not an iPhone Duo. Xiaomi is at it again.
-
-
-    The desk pad! https://mkbhd.com/products/overlay-deskpad
-
-
-    Shoutout to dbrand for helping to source the phone from China.
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=3iRUwVzRDZQ
-  title: 'Xiaomi 18 Fold: How Does This Happen?'
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-10-02T15:00:36+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ program \u2192 https://arjan.codes/mastery.\n\nPython 3.15 brings some surprisingly\
-    \ useful changes, from lazy imports and a built-in immutable dictionary to a standard\
-    \ sentinel and a new way to flatten collections.\n\nIn this video, I walk through\
-    \ the Python 3.15 features that are most likely to affect real projects, including\
-    \ `frozendict`, unpacking in comprehensions, the new sampling profiler, UTF-8\
-    \ by default, typing improvements, and the latest progress on the JIT and free-threading.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/py315\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:00 1. Lazy Imports\n2:34 2. frozendict\n4:15 3. A Built-In Sentinel\n5:37 4.\
-    \ Unpacking Inside Comprehensions\n6:22 5. Python Gets a Sampling Profiler\n8:09\
-    \ 6. UTF-8 Is the Default\n9:18 7. Typing for Extensible Data\n10:34 8. The JIT\
-    \ and Free-Threading Direction\n11:48 A Few Smaller Improvements\n12:19 Final\
-    \ Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/bgeqL4Btou0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=bgeqL4Btou0
-  title: Python 3.15 Is a Bigger Update Than I Expected
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -701,7 +523,7 @@
   path: https://open.spotify.com/episode/3tanv8dn7ftzrSNCtUmDFz
   title: "Infrastructure: Today\u2019s \u201CGenerational\u201D Investment Opportunity"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id004
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -743,7 +565,7 @@
   path: https://open.spotify.com/episode/3czq2cQ3v4WPKcy5yQwLS4
   title: "Lucas Schuermann \u2013\_Swapping Out Perpetual Futures (S7E34)"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id004
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -751,7 +573,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id008
+  categories: &id005
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -767,7 +589,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id005
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
