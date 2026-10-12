@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T06:17:11.317690'
+  date: '2026-10-12T20:09:30.471760'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T06:17:11.317688'
+  date: '2026-10-12T20:09:30.471756'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T06:17:11.317684'
+  date: '2026-10-12T20:09:30.471751'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T06:17:11.317676'
+  date: '2026-10-12T20:09:30.471741'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,24 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-10-12T20:09:27+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-10-12T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/where-are-portfolio-managers-large-language-models
+  title: "Where are all the Portfolio Managers\u2019 Large Language Models?"
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -419,20 +437,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a89a843ca20e4612303d15697
   path: https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt
   title: "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)"
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-10-11T16:34:24+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: Brazil Journal - Latest news
-  categories: &id001
+  categories: &id002
   - Economia
+  date: '2026-10-11T03:10:00+00:00'
+  description: "Em 2017, 650 pessoas pagaram para correr 8 km e empurrar um tren\xF3\
+    \ dentro de um pavilh\xE3o em Hamburgo. Na \xFAltima temporada, foram 1,4 milh\xE3\
+    o."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/hyrox-o-esporte-hibrido-que-virou-negocio
+  title: "Hyrox, o esporte h\xEDbrido que virou neg\xF3cio"
+- author: Brazil Journal - Latest news
+  categories: *id002
   date: '2026-10-11T03:10:00+00:00'
   description: "Ao longo de 30 anos de carreira, Ricardo<strong> </strong>Sardenberg\
     \ trabalhou em lugares emblem\xE1ticos e com figuras ic\xF4nicas da arte brasileira.\
@@ -444,17 +460,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/ricardo-sardenberg-o-insider-outsider-da-arte-brasileira
   title: "Ricardo Sardenberg: o \u2018insider outsider\u2019 da arte brasileira"
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-11T03:10:00+00:00'
-  description: "\u201CPiiiii\u2026 \xE3o\u2026. todo tatuadaaaaado!\u201D Esteja onde\
-    \ estiver, voc\xEA certamente j\xE1 escutou essa can\xE7\xE3o. Interpretada por\
-    \ Jeninho e Mariana Fagundes, <strong><em>Pe\xE3o Todo Tatuado</em></strong> \xE9\
-    \ o \xE1pice de um estilo batizado como agrofunk \u2013 que mistura, claro, as\
-    \ batidas do funk com temas e letras do universo sertanejo."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-peao-tatuado-que-virou-o-grude-do-brasil
-  title: "O pe\xE3o tatuado que virou o grude do Brasil"
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -514,13 +519,30 @@
   image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-10-09T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/401k-investment-menus-are-getting-cheaper
-  title: "401(k) Investment Menus Are Getting Cheaper\u2014and Higher Quality"
+- author: ArjanCodes
+  categories: &id006
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-10-09T15:00:08+00:00'
+  description: "\U0001F468\U0001F3FB\u200D\U0001F4BB Join me in Utrecht next year\
+    \ for an in-person Software Design Retreat! Design, discuss, and learn alongside\
+    \ fellow developers. Join the waitlist: https://arjancodes.com/retreat.\n\n\U0001F9F1\
+    \ Build software that lasts. Join the Software Design Mastery program \u2192 https://arjan.codes/mastery.\n\
+    \nUndo sounds simple until every change needs its own reverse logic. The Memento\
+    \ pattern offers a different approach: save an object's state and restore it when\
+    \ you need to go back. In this video, I show how to implement the Memento pattern\
+    \ in modern Python using snapshots, dataclasses, protocols, and generics. \n\n\
+    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/memento.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:20 The Workflow\n2:40 Take a Snapshot\n6:08 Originator, Memento, and Caretaker\n\
+    11:02 What Should Be in the Snapshot?\n12:03 Undo and Redo\n13:12 Memento vs Command\n\
+    14:01 Beyond Undo\n14:35 When Not to Use It\n15:07 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/ZXAt8AP3DnY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ZXAt8AP3DnY
+  title: 'The Memento Pattern: Saving State Without Breaking Encapsulation'
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -554,6 +576,36 @@
   image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
   path: https://open.spotify.com/episode/3yA69cHm3tVouAHktwpGlt
   title: A False Sense of How People View You
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2026-10-08T21:00:40+00:00'
+  description: 'New laptops are dropping left and right! Let''s talk about Google''s
+    entry.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Asus Googlebook provided by Asus for review.
+
+    XPS Googlebook provided by Dell for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=_0G4OG39XjI
+  title: WTF is a Googlebook?
 - author: Market Makers
   categories: *id003
   date: '2026-10-08T00:00:00+00:00'
@@ -622,6 +674,52 @@
   image: https://substackcdn.com/image/fetch/$s_!aEKj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff68274f5-e8b0-4124-8953-6e1da07e9848_3200x2780.png
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
+- author: Marques Brownlee
+  categories: *id005
+  date: '2026-10-02T20:50:25+00:00'
+  description: 'This is not an iPhone Duo. Xiaomi is at it again.
+
+
+    The desk pad! https://mkbhd.com/products/overlay-deskpad
+
+
+    Shoutout to dbrand for helping to source the phone from China.
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=3iRUwVzRDZQ
+  title: 'Xiaomi 18 Fold: How Does This Happen?'
+- author: ArjanCodes
+  categories: *id006
+  date: '2026-10-02T15:00:36+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nPython 3.15 brings some surprisingly\
+    \ useful changes, from lazy imports and a built-in immutable dictionary to a standard\
+    \ sentinel and a new way to flatten collections.\n\nIn this video, I walk through\
+    \ the Python 3.15 features that are most likely to affect real projects, including\
+    \ `frozendict`, unpacking in comprehensions, the new sampling profiler, UTF-8\
+    \ by default, typing improvements, and the latest progress on the JIT and free-threading.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/py315\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:00 1. Lazy Imports\n2:34 2. frozendict\n4:15 3. A Built-In Sentinel\n5:37 4.\
+    \ Unpacking Inside Comprehensions\n6:22 5. Python Gets a Sampling Profiler\n8:09\
+    \ 6. UTF-8 Is the Default\n9:18 7. Typing for Extensible Data\n10:34 8. The JIT\
+    \ and Free-Threading Direction\n11:48 A Few Smaller Improvements\n12:19 Final\
+    \ Thoughts\n\n#arjancodes #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/bgeqL4Btou0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=bgeqL4Btou0
+  title: Python 3.15 Is a Bigger Update Than I Expected
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -639,7 +737,7 @@
   path: https://open.spotify.com/episode/3tanv8dn7ftzrSNCtUmDFz
   title: "Infrastructure: Today\u2019s \u201CGenerational\u201D Investment Opportunity"
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -649,7 +747,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id007
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -657,7 +755,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id006
+  categories: &id008
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -673,7 +771,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id006
+  categories: *id008
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
