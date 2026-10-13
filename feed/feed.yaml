@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T22:14:26.466564'
+  date: '2026-10-13T00:48:57.770069'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T22:14:26.466561'
+  date: '2026-10-13T00:48:57.770067'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T22:14:26.466556'
+  date: '2026-10-13T00:48:57.770053'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-12T22:14:26.466545'
+  date: '2026-10-13T00:48:57.770045'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -396,7 +396,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
 - author: Brazil Journal - Latest news
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-10-12T22:05:00+00:00'
   description: "O banco canadense TD Cowen publicou na semana passada seus novos pre\xE7\
@@ -407,19 +407,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-bitcoin-voltou-a-subir-mas-a-strategy-pode-ficar-fora-da-festa
   title: O Bitcoin voltou a subir, mas a Strategy pode ficar fora da festa
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-12T22:04:00+00:00'
-  description: "O Pr\xEAmio Nobel de Economia de 2026 foi para os economistas americanos\
-    \ Robert E. Hall e Michael Woodford, cuja pesquisa ajudou a formular pol\xEDticas\
-    \ usadas para lidar com economias em crise. Hall, um professor na Universidade\
-    \ de Stanford, e Woodford, que leciona pol\xEDtica econ\xF4mica em Columbia, desenvolveram\
-    \ a teoria de que crises econ\xF4micas precisam ser avaliadas atrav\xE9s das decis\xF5\
-    es tomadas no n\xEDvel micro, por fam\xEDlias ou empresas, e que as solu\xE7\xF5\
-    es n\xE3o surgem de an\xE1lises <em>top down </em>da economia."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/como-estabilizar-uma-economia-os-vencedores-do-nobel-tem-a-formula
-  title: "Como estabilizar uma economia? Os vencedores do Nobel t\xEAm a f\xF3rmula"
 - author: AQR
   categories:
   - Quant
@@ -432,7 +419,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id001
   date: '2026-10-12T12:00:00+00:00'
   description: ''
   image: null
@@ -521,30 +508,17 @@
   image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
-- author: ArjanCodes
-  categories: &id006
-  - Tech
-  - Code
-  - Youtube
-  date: '2026-10-09T15:00:08+00:00'
-  description: "\U0001F468\U0001F3FB\u200D\U0001F4BB Join me in Utrecht next year\
-    \ for an in-person Software Design Retreat! Design, discuss, and learn alongside\
-    \ fellow developers. Join the waitlist: https://arjancodes.com/retreat.\n\n\U0001F9F1\
-    \ Build software that lasts. Join the Software Design Mastery program \u2192 https://arjan.codes/mastery.\n\
-    \nUndo sounds simple until every change needs its own reverse logic. The Memento\
-    \ pattern offers a different approach: save an object's state and restore it when\
-    \ you need to go back. In this video, I show how to implement the Memento pattern\
-    \ in modern Python using snapshots, dataclasses, protocols, and generics. \n\n\
-    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/memento.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:20 The Workflow\n2:40 Take a Snapshot\n6:08 Originator, Memento, and Caretaker\n\
-    11:02 What Should Be in the Snapshot?\n12:03 Undo and Redo\n13:12 Memento vs Command\n\
-    14:01 Beyond Undo\n14:35 When Not to Use It\n15:07 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/ZXAt8AP3DnY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZXAt8AP3DnY
-  title: 'The Memento Pattern: Saving State Without Breaking Encapsulation'
+- author: Brazil Journal - Latest news
+  categories: *id002
+  date: '2026-10-09T16:52:00+00:00'
+  description: "\u201CNesta era da intelig\xEAncia artificial, \xE9 urgente distinguir\
+    \ a arte humana daquilo que as m\xE1quinas produzem,\u201D disse o Papa Le\xE3\
+    o XIV. Em um coment\xE1rio postado nas redes sociais na semana passada, o Pont\xED\
+    fice mais uma vez procurou tra\xE7ar uma linha bem definida separando as realiza\xE7\
+    \xF5es dos seres humanos das da intelig\xEAncia artificial."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-ai-pode-ter-consciencia-a-anthropic-tentou-convencer-o-papa
+  title: "A AI pode ter consci\xEAncia? A Anthropic tentou convencer o Papa"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -701,27 +675,6 @@
   image: https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg
   path: https://www.youtube.com/watch?v=3iRUwVzRDZQ
   title: 'Xiaomi 18 Fold: How Does This Happen?'
-- author: ArjanCodes
-  categories: *id006
-  date: '2026-10-02T15:00:36+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ program \u2192 https://arjan.codes/mastery.\n\nPython 3.15 brings some surprisingly\
-    \ useful changes, from lazy imports and a built-in immutable dictionary to a standard\
-    \ sentinel and a new way to flatten collections.\n\nIn this video, I walk through\
-    \ the Python 3.15 features that are most likely to affect real projects, including\
-    \ `frozendict`, unpacking in comprehensions, the new sampling profiler, UTF-8\
-    \ by default, typing improvements, and the latest progress on the JIT and free-threading.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/py315\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:00 1. Lazy Imports\n2:34 2. frozendict\n4:15 3. A Built-In Sentinel\n5:37 4.\
-    \ Unpacking Inside Comprehensions\n6:22 5. Python Gets a Sampling Profiler\n8:09\
-    \ 6. UTF-8 Is the Default\n9:18 7. Typing for Extensible Data\n10:34 8. The JIT\
-    \ and Free-Threading Direction\n11:48 A Few Smaller Improvements\n12:19 Final\
-    \ Thoughts\n\n#arjancodes #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/bgeqL4Btou0/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=bgeqL4Btou0
-  title: Python 3.15 Is a Bigger Update Than I Expected
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -739,7 +692,7 @@
   path: https://open.spotify.com/episode/3tanv8dn7ftzrSNCtUmDFz
   title: "Infrastructure: Today\u2019s \u201CGenerational\u201D Investment Opportunity"
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -749,7 +702,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id006
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -757,7 +710,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id008
+  categories: &id007
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -773,7 +726,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id007
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
