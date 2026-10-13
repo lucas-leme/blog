@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-13T00:48:57.770069'
+  date: '2026-10-13T06:57:19.577224'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-13T00:48:57.770067'
+  date: '2026-10-13T06:57:19.577221'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-13T00:48:57.770053'
+  date: '2026-10-13T06:57:19.577216'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-13T00:48:57.770045'
+  date: '2026-10-13T06:57:19.577205'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -396,7 +396,7 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
 - author: Brazil Journal - Latest news
-  categories: &id002
+  categories: &id001
   - Economia
   date: '2026-10-12T22:05:00+00:00'
   description: "O banco canadense TD Cowen publicou na semana passada seus novos pre\xE7\
@@ -407,6 +407,17 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/o-bitcoin-voltou-a-subir-mas-a-strategy-pode-ficar-fora-da-festa
   title: O Bitcoin voltou a subir, mas a Strategy pode ficar fora da festa
+- author: Brazil Journal - Latest news
+  categories: *id001
+  date: '2026-10-12T22:04:00+00:00'
+  description: "O Clarity Act, a legisla\xE7\xE3o que dever\xE1 dar seguran\xE7a jur\xED\
+    dica para a negocia\xE7\xE3o e posse de criptomoedas nos EUA, emperrou no Senado.\
+    \ Mas Wall Street agora tem pressa para embarcar na era da tokeniza\xE7\xE3o.\
+    \ O assunto foi capa da <em>Barron\u2019s</em> desta semana."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/ainda-sem-o-clarity-act-wall-street-acelera-tokenizacao-diz-a-barrons
+  title: "Ainda sem o Clarity Act, Wall Street acelera tokeniza\xE7\xE3o, diz a Barron\u2019\
+    s"
 - author: AQR
   categories:
   - Quant
@@ -419,7 +430,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-10-12T12:00:00+00:00'
   description: ''
   image: null
@@ -508,17 +519,6 @@
   image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
-- author: Brazil Journal - Latest news
-  categories: *id002
-  date: '2026-10-09T16:52:00+00:00'
-  description: "\u201CNesta era da intelig\xEAncia artificial, \xE9 urgente distinguir\
-    \ a arte humana daquilo que as m\xE1quinas produzem,\u201D disse o Papa Le\xE3\
-    o XIV. Em um coment\xE1rio postado nas redes sociais na semana passada, o Pont\xED\
-    fice mais uma vez procurou tra\xE7ar uma linha bem definida separando as realiza\xE7\
-    \xF5es dos seres humanos das da intelig\xEAncia artificial."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-ai-pode-ter-consciencia-a-anthropic-tentou-convencer-o-papa
-  title: "A AI pode ter consci\xEAncia? A Anthropic tentou convencer o Papa"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -552,36 +552,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
   path: https://open.spotify.com/episode/3yA69cHm3tVouAHktwpGlt
   title: A False Sense of How People View You
-- author: Marques Brownlee
-  categories: &id005
-  - Tech
-  - Youtube
-  date: '2026-10-08T21:00:40+00:00'
-  description: 'New laptops are dropping left and right! Let''s talk about Google''s
-    entry.
-
-
-    MKBHD Merch: http://shop.MKBHD.com
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    Asus Googlebook provided by Asus for review.
-
-    XPS Googlebook provided by Dell for review.
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=_0G4OG39XjI
-  title: WTF is a Googlebook?
 - author: Market Makers
   categories: *id003
   date: '2026-10-08T00:00:00+00:00'
@@ -650,31 +620,6 @@
   image: https://substackcdn.com/image/fetch/$s_!aEKj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff68274f5-e8b0-4124-8953-6e1da07e9848_3200x2780.png
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
-- author: Marques Brownlee
-  categories: *id005
-  date: '2026-10-02T20:50:25+00:00'
-  description: 'This is not an iPhone Duo. Xiaomi is at it again.
-
-
-    The desk pad! https://mkbhd.com/products/overlay-deskpad
-
-
-    Shoutout to dbrand for helping to source the phone from China.
-
-
-    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
-
-
-    ~
-
-    http://twitter.com/MKBHD
-
-    http://instagram.com/MKBHD
-
-    http://facebook.com/MKBHD'
-  image: https://i4.ytimg.com/vi/3iRUwVzRDZQ/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=3iRUwVzRDZQ
-  title: 'Xiaomi 18 Fold: How Does This Happen?'
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -692,7 +637,7 @@
   path: https://open.spotify.com/episode/3tanv8dn7ftzrSNCtUmDFz
   title: "Infrastructure: Today\u2019s \u201CGenerational\u201D Investment Opportunity"
 - author: Apricitas Economics
-  categories: &id006
+  categories: &id005
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -702,7 +647,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id006
+  categories: *id005
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -710,7 +655,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id007
+  categories: &id006
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -726,7 +671,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id007
+  categories: *id006
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
