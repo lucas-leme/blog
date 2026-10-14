@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T15:43:23.703260'
+  date: '2026-10-14T18:07:57.401787'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T15:43:23.703256'
+  date: '2026-10-14T18:07:57.401777'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T15:43:23.703251'
+  date: '2026-10-14T18:07:57.401772'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T15:43:23.703241'
+  date: '2026-10-14T18:07:57.401760'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,13 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-10-14T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/the-joint-venture-blind-spot
+  title: "The Joint Venture Blind Spot: What the Equity Line Doesn\u2019t Tell You"
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -414,7 +421,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/
   title: Has the AI Boom Impacted the U.S. Current Account?
 - author: Brazil Journal - Latest news
-  categories: &id001
+  categories: &id002
   - Economia
   date: '2026-10-14T09:59:00+00:00'
   description: "Os fundadores da Genetica Bioscience \u2013 uma biotech fundada h\xE1\
@@ -428,7 +435,7 @@
   path: https://braziljournal.com/fundo-de-impacto-compra-a-genetica-biotech-de-chapeco
   title: "Fundo de impacto compra a Genetica, biotech de Chapec\xF3"
 - author: Brazil Journal - Latest news
-  categories: *id001
+  categories: *id002
   date: '2026-10-14T09:50:00+00:00'
   description: "O ex-CEO do Santander, Mario Le\xE3o, \xE9 um dos executivos mais\
     \ cotados para assumir o comando do Bank of America no Brasil no lugar de Eduardo\
@@ -474,13 +481,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-10-13T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/how-investors-can-evaluate-ai-heat-risk-models
-  title: How Investors Can Evaluate AI Heat-Risk Models for Company Valuations
 - author: Flirting with Models
   categories:
   - Podcasts
