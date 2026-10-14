@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T18:07:57.401787'
+  date: '2026-10-14T18:53:05.095316'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T18:07:57.401777'
+  date: '2026-10-14T18:53:05.095312'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T18:07:57.401772'
+  date: '2026-10-14T18:53:05.095306'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-14T18:07:57.401760'
+  date: '2026-10-14T18:53:05.095278'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,8 +395,37 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
-- author: CFA Institute Research and Policy Center
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-14T18:48:00+00:00'
+  description: "Nos computadores convencionais, os bits podem ser apenas \u2018zero\u2019\
+    \ e \u2018um\u2019. J\xE1 no universo qu\xE2ntico, os qubits podem ser \u2018\
+    zero\u2019 e \u2018um\u2019 ao mesmo tempo, criando emaranhados de combina\xE7\
+    \xF5es que aumentam dramaticamente a capacidade de processamento.&nbsp; A computa\xE7\
+    \xE3o qu\xE2ntica tem tudo para ser a pr\xF3xima fronteira na evolu\xE7\xE3o dos\
+    \ algoritmos \u2013 mas a tecnologia ainda \xE9 extremamente dif\xEDcil de ser\
+    \ aplicada em larga escala e, por enquanto, o grande problema \xE9 a instabilidade\
+    \ e sensibilidade das&nbsp; part\xEDculas subat\xF4micas."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-computacao-quantica-tem-tudo-para-decolar-mas-nao-agora
+  title: "A computa\xE7\xE3o qu\xE2ntica tem tudo para decolar \u2013 mas n\xE3o agora"
+- author: Brazil Journal - Latest news
   categories: *id001
+  date: '2026-10-14T18:25:00+00:00'
+  description: "Era a primeira vez que o tradicional World Petroleum Congress (WPC)\
+    \ acontecia na Ar\xE1bia Saudita. O que ningu\xE9m imaginava era que o evento\
+    \ em Riad entraria para a hist\xF3ria, e n\xE3o pelos melhores motivos. Com a\
+    \ promessa de reunir representantes de mais de 100 pa\xEDses \u2013 entre ministros,\
+    \ CEOs, executivos e t\xE9cnicos \u2013 o evento entre 11 e 15 de outubro come\xE7\
+    ou enquanto os rebeldes Houthis, do I\xEAmen, lan\xE7avam ataques contra o aeroporto\
+    \ de Riad no fim de semana que mataram pelo menos 13 e deixaram mais de 300 feridos."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/parecia-007-cupula-de-petroleo-em-riad-ataque-terrorista-e-fuga-de-ceos
+  title: "Parecia 007: C\xFApula de petr\xF3leo em Riad, ataque terrorista e \u201C\
+    fuga de CEOs\u201D"
+- author: CFA Institute Research and Policy Center
+  categories: *id002
   date: '2026-10-14T12:00:00+00:00'
   description: ''
   image: null
@@ -420,32 +449,6 @@
   image: https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg
   path: https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/
   title: Has the AI Boom Impacted the U.S. Current Account?
-- author: Brazil Journal - Latest news
-  categories: &id002
-  - Economia
-  date: '2026-10-14T09:59:00+00:00'
-  description: "Os fundadores da Genetica Bioscience \u2013 uma biotech fundada h\xE1\
-    \ 23 anos em Chapec\xF3, Santa Catarina \u2013 acabam de vender o controle da\
-    \ empresa ao Archimed Group, uma gestora de impacto europeia com \u20AC 8 bilh\xF5\
-    es em ativos sob gest\xE3o.&nbsp; A Genetica fabrica produtos biol\xF3gicos \xE0\
-    \ base de microrganismos \u2013 como bact\xE9rias, leveduras e fungos \u2013&nbsp;\
-    \ que s\xE3o usados no tratamento de efluentes de grandes ind\xFAstrias, incluindo\
-    \ nomes como BRF, JBS, Minerva e Vigor."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/fundo-de-impacto-compra-a-genetica-biotech-de-chapeco
-  title: "Fundo de impacto compra a Genetica, biotech de Chapec\xF3"
-- author: Brazil Journal - Latest news
-  categories: *id002
-  date: '2026-10-14T09:50:00+00:00'
-  description: "O ex-CEO do Santander, Mario Le\xE3o, \xE9 um dos executivos mais\
-    \ cotados para assumir o comando do Bank of America no Brasil no lugar de Eduardo\
-    \ Alcalay, pessoas que acompanham o processo de sucess\xE3o disseram ao <a href=\"\
-    https://www.instagram.com/braziljournal/\" rel=\"\" target=\"_blank\"><strong>Brazil\
-    \ Journal</strong></a>. Alcalay anunciou sua sa\xEDda no come\xE7o do m\xEAs e\
-    \ deve deixar o banco no pr\xF3ximo dia 26, depois de quase dez anos no cargo."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/mario-leao-e-favorito-para-comandar-o-bofa-no-brasil
-  title: "Mario Le\xE3o \xE9 favorito para comandar o BofA no Brasil"
 - author: Marques Brownlee
   categories: &id003
   - Tech
