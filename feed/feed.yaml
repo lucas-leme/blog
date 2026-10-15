@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-15T15:30:41.651056'
+  date: '2026-10-15T17:50:48.422884'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-15T15:30:41.651051'
+  date: '2026-10-15T17:50:48.422880'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-15T15:30:41.651047'
+  date: '2026-10-15T17:50:48.422876'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-15T15:30:41.651037'
+  date: '2026-10-15T17:50:48.422867'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,36 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-15T16:28:00+00:00'
+  description: "O Bank of America est\xE1 sofrendo uma tempestade perfeita \u2013\
+    \ reportando ontem um resultado abaixo do esperado pelo mercado no terceiro trimestre,\
+    \ junto com uma multa bilion\xE1ria que estava fora do radar dos investidores.\
+    \ Para completar, o segundo maior banco dos Estados Unidos carrega uma perda cont\xE1\
+    bil de cerca de US$ 100 bilh\xF5es em seu portf\xF3lio de <em>bonds</em>, as maiores\
+    \ no trimestre em toda a ind\xFAstria."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-tempestade-perfeita-no-bank-of-america
+  title: A tempestade perfeita no Bank of America
+- author: Money Talks from The Economist
+  categories:
+  - Podcasts
+  date: '2026-10-15T00:00:00+00:00'
+  description: "It\u2019s that time of year again. An economist gets a call from Sweden\u2013\
+    and we then badger them to speak to us. We\u2019re pleased to say Michael Woodford,\
+    \ who shared the award with Robert Hall, returned our call. The prize committee\
+    \ credited the duo with rebuilding macroeconomics on \u201Cmicrofoundations\u201D\
+    : representing economic outcomes as the result of the behaviour of individuals\
+    \ and businesses. On this week\u2019s show, Mr Woodford explains his theory.Guests\
+    \ and hosts:Michael Woodford, Columbia UniversityHenry Curr, The Economist\u2019\
+    s acting business affairs editorAlice Fulwood, co-host of \u201CMoney Talks\u201D\
+    Ethan Wu, co-host of \u201CMoney Talks\u201DTopics covered:Nobel prize for economicsEconomic\
+    \ theoryNew Keynesian economicsTranscripts of our podcasts are available via economist.com/podcasts."
+  image: https://i.scdn.co/image/ab6765630000ba8ac890c59cbd5f4656578d3e57
+  path: https://open.spotify.com/episode/3rzdPlkSNPqNNa63bSRjgb
+  title: A Nobel-winning economics lesson
 - author: AQR
   categories:
   - Quant
@@ -407,8 +437,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: Brazil Journal - Latest news
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-10-14T19:43:00+00:00'
   description: "A Anatel ampliou as licen\xE7as de espectro da Starlink no Brasil\
     \ na semana passada \u2013 mas isso n\xE3o quer dizer que a empresa de Elon Musk\
@@ -422,20 +451,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/starlink-ganha-espectro-no-brasil-mas-pode-precisar-de-um-m-and-a
   title: Starlink ganha espectro no Brasil, mas pode precisar de um M&A
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-14T19:22:00+00:00'
-  description: "BOSTON \u2013 Com a infla\xE7\xE3o dos alimentos nos EUA, o Chipotle\
-    \ Mexican Grill est\xE1 dobrando sua aposta nas refei\xE7\xF5es tamanho fam\xED\
-    lia \u2013 e sorteando uma sacola gigante para todos os clientes que comprarem\
-    \ a promo\xE7\xE3o. A a\xE7\xE3o da rede de <em>fast food</em> Tex-Mex visa incentivar\
-    \ a compra de refei\xE7\xF5es que podem alimentar de quatro a seis pessoas. Segundo\
-    \ o Chipotle, a refei\xE7\xE3o sai por menos de US$ 10 por pessoa, e fica pronta\
-    \ para retirada em at\xE9 10 minutos."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-estrategia-de-family-meals-do-chipotle-e-sua-big-ass-bag
-  title: "A estrat\xE9gia de \u201Cfamily meals\u201D do Chipotle (e sua \u2018Big\
-    \ Ass bag\u2019)"
 - author: CFA Institute Research and Policy Center
   categories: *id002
   date: '2026-10-14T12:00:00+00:00'
@@ -691,23 +706,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a96c4e38fbe071163cf4c7d10
   path: https://open.spotify.com/episode/1XfqR0HUxAKLomc85uUGXo
   title: "#422 | COMO AS GRANDES MARCAS EST\xC3O INVESTINDO EM PUBLICIDADE?"
-- author: Money Talks from The Economist
-  categories:
-  - Podcasts
-  date: '2026-10-08T00:00:00+00:00'
-  description: "Investors have a big problem. Their sharpest tool, diversification,\
-    \ is getting blunter. And one possible culprit may surprise you: Donald Trump.\
-    \ A growing number of investors blame populist politicians for upending the world\
-    \ order and ruining the logic behind their most important strategies. Are they\
-    \ right?Guests and hosts:Ed Cole, of Man GroupJosh Roberts, The Economist\u2019\
-    s acting Britain editorAlice Fulwood, co-host of \u201CMoney Talks\u201DEthan\
-    \ Wu, co-host of \u201CMoney Talks\u201DTopics covered:PopulismInvestment strategiesInflationTranscripts\
-    \ of our podcasts are available via economist.com/podcasts.Listen to what matters\
-    \ most, from global politics and business to science and technology\u2014subscribe\
-    \ to Economist Podcasts+."
-  image: https://i.scdn.co/image/ab6765630000ba8a1a796973c4821d240507a6e0
-  path: https://open.spotify.com/episode/6IrQVINHCcS8rLhxXb2rU4
-  title: Are populists wrecking your portfolio?
 - author: The Overshoot
   categories: *id005
   date: '2026-10-03T08:26:50+00:00'
