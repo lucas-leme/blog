@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id001
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -12,11 +12,20 @@
   image: null
   path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-andrew-chin
   title: Conversations with Frank Fabozzi, CFA, Featuring Andrew Chin
+- author: Brazil Journal - Latest news
+  categories: &id002
+  - Economia
+  date: '2026-10-16T15:17:00+00:00'
+  description: "<em>He did it again.</em> Elon Musk acaba de lan\xE7ar o novo Roadster\
+    \ da Tesla, um carro que vai de 0 a 100 km/h em menos de 1 segundo \u2013 e voa."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/tesla-e-spacex-lancam-um-carro-que-voa
+  title: "Tesla e SpaceX lan\xE7am um carro que voa"
 - author: RSS - Feeds do BC
   categories:
   - Bacen
   - BC
-  date: '2026-10-16T04:47:59.267598'
+  date: '2026-10-16T15:16:47.833924'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +39,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-16T04:47:59.267594'
+  date: '2026-10-16T15:16:47.833921'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +56,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-16T04:47:59.267589'
+  date: '2026-10-16T15:16:47.833917'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +146,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-16T04:47:59.267579'
+  date: '2026-10-16T15:16:47.833909'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +404,48 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: ArjanCodes
+  categories: &id004
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-10-16T15:00:35+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nPython has a lot of powerful\
+    \ features, but just because you can use them doesn\u2019t mean you always should.\n\
+    \nIn this video, I look at 7 Python features that can quietly make your code harder\
+    \ to understand and maintain, from @property and dataclasses to caching, decorators,\
+    \ async, pattern matching, and slots. The goal isn\u2019t to avoid these features,\
+    \ but to understand the trade-offs and know when they actually improve your design.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/worse.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:30 1. @property: Hiding expensive work\n2:20 2. @dataclass: Turning everything\
+    \ into data\n4:23 3. match: The fancy if statement\n5:27 4. @cache: Free speed\
+    \ that isn\u2019t free\n6:53 5. Decorators: When important behavior becomes invisible\n\
+    9:03 6. async: When async leaks into everything\n12:59 7. dataclass(slots=True):\
+    \ Optimizing before measuring\n15:09 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=RHCyTWaRZSk
+  title: 7 Python Features That Make Your Code Worse
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-10-16T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/the-ai-boom-is-becoming-an-esg-test
+  title: The AI Boom Is Becoming an ESG Test
+- author: Brazil Journal - Latest news
+  categories: *id002
+  date: '2026-10-16T09:50:00+00:00'
+  description: "As pesquisas da Quaest e do Datafolha causaram apreens\xE3o na Faria\
+    \ Lima. Os dois institutos agora mostram uma disputa mais apertada entre Fl\xE1\
+    vio e Lula, com uma diferen\xE7a de apenas dois pontos entre os candidatos \u2013\
+    \ um empate t\xE9cnico considerando a margem de erro."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/lula-esta-virando-para-a-legacy-nao-e-bem-assim
+  title: "Lula est\xE1 virando? Para a Legacy, n\xE3o \xE9 bem assim"
 - author: AQR
   categories:
   - Quant
@@ -406,34 +457,19 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Brazil Journal - Latest news
-  categories: &id001
-  - Economia
-  date: '2026-10-15T21:18:00+00:00'
-  description: "O S&amp;P 500 opera perto da m\xE1xima hist\xF3rica, mas a alta est\xE1\
-    \ localizada em pouqu\xEDssimos pap\xE9is \u2013 um n\xEDvel de concentra\xE7\xE3\
-    o jamais visto no mercado americano.&nbsp; Desde o <em>low </em>de mar\xE7o, no\
-    \ in\xEDcio da guerra no Ir\xE3, o \xEDndice j\xE1 subiu 22% \u2013 mas cerca\
-    \ de 70% da valoriza\xE7\xE3o \xE9 explicada pelo desempenho de dez a\xE7\xF5\
-    es, todas de empresas de tecnologia, como Nvidia, Apple e Microsoft.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/s-and-p-10-a-concentracao-inedita-por-tras-da-alta-da-bolsa-americana
-  title: "\u2018S&P 10\u2019: a concentra\xE7\xE3o in\xE9dita por tr\xE1s da alta\
-    \ da Bolsa americana"
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-15T18:26:00+00:00'
-  description: "A Berkshire Hathaway anunciou ontem que j\xE1 investiu US$ 930 milh\xF5\
-    es na Bending Spoons, um conglomerado de tecnologia italiano que cresceu r\xE1\
-    pido <a href=\"https://braziljournal.com/a-magica-da-bending-spoons-fazer-negocios-iconicos-voltar-ao-modo-startup\"\
-    \ rel=\"\" target=\"_blank\"><strong><u>comprando grandes empresas do setor na\
-    \ baixa</u></strong></a>.&nbsp; A Bending Spoons disse que a Berkshire aportou\
-    \ US$ 600 milh\xF5es no IPO da empresa em julho, e comprou mais US$ 330 milh\xF5\
-    es em a\xE7\xF5es recentemente.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/a-aposta-da-berkshire-na-bending-spoons-uma-tech-cara-para-os-padroes-da-casa
-  title: "A aposta da Berkshire na Bending Spoons, uma tech cara para os padr\xF5\
-    es da casa"
+- author: The Psychology of Money with Morgan Housel
+  categories:
+  - Podcasts
+  date: '2026-10-16T00:00:00+00:00'
+  description: "Plus, the obsession with minimalism, worrying in your 20s, and the\
+    \ barbell approach to investing. This episode is brought to you by State Street\
+    \ Investment Management\u2019s Sector ETFs. To learn more, visit StateStreet.com/SectorETFs.\
+    \ Before investing consider the funds\u2019 investment objectives, risks, charges\
+    \ and expenses. Visit statestreet.com/im for a prospectus containing this and\
+    \ other information. Read it carefully."
+  image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
+  path: https://open.spotify.com/episode/0ayoqXhdA8wKgnzkAk2FH6
+  title: Mark Twain on Relative Wealth
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -458,7 +494,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/
   title: Revenue per Worker Is Up. Are Firms Getting a Larger Share?
 - author: Market Makers
-  categories: &id002
+  categories: &id003
   - Podcasts
   date: '2026-10-15T00:00:00+00:00'
   description: "O mundo est\xE1 entrando em uma fase muito mais perigosa da disputa\
@@ -493,7 +529,7 @@
   title: "#424 | R\xDASSIA, CHINA, IR\xC3 E EUA: O NOVO MAPA DA GEOPOL\xCDTICA EM\
     \ 2026"
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-10-15T00:00:00+00:00'
   description: "Como funciona a lavagem de dinheiro no Brasil \u2014 e at\xE9 onde\
     \ o dinheiro do crime organizado j\xE1 conseguiu entrar na economia formal?Neste\
@@ -546,13 +582,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8ac890c59cbd5f4656578d3e57
   path: https://open.spotify.com/episode/3rzdPlkSNPqNNa63bSRjgb
   title: A Nobel-winning economics lesson
-- author: CFA Institute Research and Policy Center
-  categories: *id003
-  date: '2026-10-14T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/the-joint-venture-blind-spot
-  title: "The Joint Venture Blind Spot: What the Equity Line Doesn\u2019t Tell You"
 - author: 'The Allocation: Private Markets for the Total Portfolio'
   categories:
   - Podcasts
@@ -567,6 +596,30 @@
   path: https://open.spotify.com/episode/6gvyTJysw8p44Va7X05dLG
   title: "Cycle, Structure, Selection: Private Equity Portfolios for Today\u2019s\
     \ Market"
+- author: Marques Brownlee
+  categories: &id005
+  - Tech
+  - Youtube
+  date: '2026-10-13T22:42:38+00:00'
+  description: 'New Smart home display from Apple. With plenty of quirks and features.
+
+
+    The deskpad! http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i2.ytimg.com/vi/QVv3mQzlrN0/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=QVv3mQzlrN0
+  title: 'Apple Homeview Impressions: Not Convinced!'
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -592,7 +645,7 @@
   path: https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt
   title: "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)"
 - author: The Overshoot
-  categories: &id004
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-10-09T21:48:05+00:00'
@@ -602,8 +655,57 @@
   image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
-- author: The Overshoot
+- author: ArjanCodes
   categories: *id004
+  date: '2026-10-09T15:00:08+00:00'
+  description: "\U0001F468\U0001F3FB\u200D\U0001F4BB Join me in Utrecht next year\
+    \ for an in-person Software Design Retreat! Design, discuss, and learn alongside\
+    \ fellow developers. Join the waitlist: https://arjancodes.com/retreat.\n\n\U0001F9F1\
+    \ Build software that lasts. Join the Software Design Mastery program \u2192 https://arjan.codes/mastery.\n\
+    \nUndo sounds simple until every change needs its own reverse logic. The Memento\
+    \ pattern offers a different approach: save an object's state and restore it when\
+    \ you need to go back. In this video, I show how to implement the Memento pattern\
+    \ in modern Python using snapshots, dataclasses, protocols, and generics. \n\n\
+    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/memento.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    1:20 The Workflow\n2:40 Take a Snapshot\n6:08 Originator, Memento, and Caretaker\n\
+    11:02 What Should Be in the Snapshot?\n12:03 Undo and Redo\n13:12 Memento vs Command\n\
+    14:01 Beyond Undo\n14:35 When Not to Use It\n15:07 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i3.ytimg.com/vi/ZXAt8AP3DnY/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ZXAt8AP3DnY
+  title: 'The Memento Pattern: Saving State Without Breaking Encapsulation'
+- author: Marques Brownlee
+  categories: *id005
+  date: '2026-10-08T21:00:40+00:00'
+  description: 'New laptops are dropping left and right! Let''s talk about Google''s
+    entry.
+
+
+    MKBHD Merch: http://shop.MKBHD.com
+
+
+    Playlist of MKBHD Intro music: https://goo.gl/B3AWV5
+
+
+    Asus Googlebook provided by Asus for review.
+
+    XPS Googlebook provided by Dell for review.
+
+
+    ~
+
+    http://twitter.com/MKBHD
+
+    http://instagram.com/MKBHD
+
+    http://facebook.com/MKBHD'
+  image: https://i4.ytimg.com/vi/_0G4OG39XjI/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=_0G4OG39XjI
+  title: WTF is a Googlebook?
+- author: The Overshoot
+  categories: *id006
   date: '2026-10-03T08:26:50+00:00'
   description: In much of the rich world, the uptick in the cost of capital corresponds
     to a relatively benign change in (nominal) growth trajectories. This is less true
@@ -612,7 +714,7 @@
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -622,7 +724,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id007
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -630,7 +732,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id006
+  categories: &id008
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -646,7 +748,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id006
+  categories: *id008
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
