@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-19T17:21:26.302248'
+  date: '2026-10-19T19:25:44.652377'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-19T17:21:26.302244'
+  date: '2026-10-19T19:25:44.652374'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-19T17:21:26.302239'
+  date: '2026-10-19T19:25:44.652369'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-19T17:21:26.302227'
+  date: '2026-10-19T19:25:44.652359'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -396,16 +396,8 @@
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
 - author: Brazil Journal - Latest news
-  categories: &id001
+  categories: &id002
   - Economia
-  date: '2026-10-19T15:36:00+00:00'
-  description: "<em>\u201CTem Coca?\u201D \u201CS\xF3 Pepsi.\u201D</em> No KFC dos\
-    \ EUA, esse papo acabou."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/pepsico-perde-o-kfc-acao-tem-maior-desconto-para-a-coca-em-25-anos
-  title: "PepsiCo perde o KFC; a\xE7\xE3o tem maior desconto para a Coca em 25 anos"
-- author: Brazil Journal - Latest news
-  categories: *id001
   date: '2026-10-19T14:58:00+00:00'
   description: "O consumo de \xE1lcool no mundo tem ca\xEDdo ano a ano. Nos EUA, por\
     \ exemplo, as fam\xEDlias est\xE3o gastando s\xF3 0,8% de seu or\xE7amento com\
@@ -415,8 +407,15 @@
     \ das principais fabricantes de bebidas."
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/momento-diet-coke-da-cerveja-e-oportunidade-de-compra-na-ab-inbev-diz-a-barrons
-  title: "\u2018Momento Diet Coke\u2019 da cerveja \xE9 oportunidade de compra na\
-    \ AB Inbev, diz a Barron\u2019s"
+  title: "\u2018Momento Diet Coke\u2019 da cerveja: compre AB Inbev, diz a Barron\u2019\
+    s"
+- author: CFA Institute Research and Policy Center
+  categories: *id001
+  date: '2026-10-19T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/spent-career-managing-money-let-ai-test-work
+  title: I Spent a Career Managing Money, Then I Let an AI Test My Life's Work
 - author: AQR
   categories:
   - Quant
@@ -524,13 +523,17 @@
   image: https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg
   path: https://www.youtube.com/watch?v=RHCyTWaRZSk
   title: 7 Python Features That Make Your Code Worse
-- author: CFA Institute Research and Policy Center
+- author: Brazil Journal - Latest news
   categories: *id002
-  date: '2026-10-16T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/the-ai-boom-is-becoming-an-esg-test
-  title: The AI Boom Is Becoming an ESG Test
+  date: '2026-10-16T09:50:00+00:00'
+  description: "Gestores de patrim\xF4nio t\xEAm feito mudan\xE7as nas carteiras dos\
+    \ clientes depois da reprecifica\xE7\xE3o dos \xFAltimos dias. Mas dada a incerteza\
+    \ do cen\xE1rio \u2013 al\xE9m da elei\xE7\xE3o, as d\xFAvidas sobre juros no\
+    \ exterior t\xEAm gerado volatilidade nos mercados \u2013 os ajustes s\xE3o pontuais."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/dobrar-a-aposta-ou-botar-no-bolso-como-os-alocadores-estao-vendo-o-2-turno
+  title: "Dobrar a aposta ou botar no bolso? Como os alocadores est\xE3o vendo o 2\xB0\
+    \ turno"
 - author: The Psychology of Money with Morgan Housel
   categories:
   - Podcasts
