@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-20T15:34:33.204096'
+  date: '2026-10-20T18:04:22.605381'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-20T15:34:33.204092'
+  date: '2026-10-20T18:04:22.605377'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-20T15:34:33.204087'
+  date: '2026-10-20T18:04:22.605372'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-20T15:34:33.204076'
+  date: '2026-10-20T18:04:22.605361'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,15 +395,41 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
-- author: CFA Institute Research and Policy Center
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-20T16:03:00+00:00'
+  description: "O neg\xF3cio de instala\xE7\xE3o de pain\xE9is solares em telhados\
+    \ cresceu nos \xFAltimos anos num ritmo que surpreendeu t\xE9cnicos do setor el\xE9\
+    trico e reguladores \u2013 e est\xE1 longe de se esgotar. At\xE9 porque o principal\
+    \ impulso para esses sistemas \u2013 conhecidos como gera\xE7\xE3o distribu\xED\
+    da de energia, ou \u201CGD\u201D \u2013 \xE9 o pre\xE7o da conta de luz, que n\xE3\
+    o vai parar de subir.&nbsp;"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/a-tese-da-brookfield-ainda-tem-muito-telhado-para-a-gd-solar
+  title: 'A tese da Brookfield: ainda tem muito telhado para a GD solar'
+- author: Brazil Journal - Latest news
   categories: *id001
+  date: '2026-10-20T15:49:00+00:00'
+  description: "Poucos meses depois de fechar <a href=\"https://braziljournal.com/anima-compra-a-fmu-por-r-410-milhoes\"\
+    \ rel=\"\" target=\"_blank\"><strong><u>a aquisi\xE7\xE3o da FMU</u></strong></a>,\
+    \ a \xC2nima Educa\xE7\xE3o anunciou ontem um novo investimento relevante que\
+    \ pegou os investidores de surpresa. A dona da Anhembi Morumbi e S\xE3o Judas\
+    \ fechou uma parceria com o hospital Albert Einstein para receber servi\xE7os\
+    \ de consultoria de educa\xE7\xE3o m\xE9dica e usar a marca do hospital \u2013\
+    \ um dos mais respeitados da Am\xE9rica Latina \u2013 nos cursos da Inspirali,\
+    \ sua vertical de sa\xFAde."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/anima-fecha-acordo-com-einstein-mercado-elogia-racional-mas-questiona-preco
+  title: "\xC2nima fecha acordo com Einstein. Mercado elogia racional, mas questiona\
+    \ pre\xE7o"
+- author: CFA Institute Research and Policy Center
+  categories: *id002
   date: '2026-10-20T12:00:00+00:00'
-  description: This report evaluates 55 retirement income systems worldwide, identifies
-    leading performers, examines how aging populations affect pension sustainability,
-    and recommends reforms to strengthen retirement security.
+  description: ''
   image: null
-  path: https://rpc.cfainstitute.org/research/reports/2026/marsh-cfa-institute-global-pension-index-2026
-  title: Marsh CFA Institute Global Pension Index 2026
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/warren-buffetts-small-cap-value-strategy
+  title: "Warren Buffett\u2019s Small-Cap Value Strategy for Today\u2019s Investors"
 - author: AQR
   categories:
   - Quant
@@ -415,31 +441,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Brazil Journal - Latest news
-  categories: &id002
-  - Economia
-  date: '2026-10-19T21:17:00+00:00'
-  description: "A prolifera\xE7\xE3o das medidas&nbsp; caridosamente chamadas de \u2018\
-    bondades eleitorais\u2019 \u2014 ou \u201Ccompra de votos com dinheiro p\xFAblico\u201D\
-    , para outros \u2014 n\xE3o tem paralelos na hist\xF3ria do Pa\xEDs. \xC9 dif\xED\
-    cil fazer a conta com precis\xE3o, porque as \u201Cbondades\u201D misturam aumentos\
-    \ simples e diretos de despesas, promessas futuras ainda a serem aprovadas e pol\xED\
-    ticas parafiscais, como linhas de cr\xE9dito subsidiado."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/bondade-eleitoral-ou-compra-de-voto-a-conta-nao-para-de-crescer
-  title: "\u2018Bondade eleitoral\u2019 ou compra de voto? A conta n\xE3o para de\
-    \ crescer"
-- author: Brazil Journal - Latest news
-  categories: *id002
-  date: '2026-10-19T20:36:00+00:00'
-  description: "A a\xE7\xE3o da M. Dias Branco subiu mais de 3% hoje depois da companhia\
-    \ anunciar a aquisi\xE7\xE3o de 80% da Grespan, uma fabricante de produtos de\
-    \ panifica\xE7\xE3o congelados.&nbsp; Os fundadores da Grespan, Jos\xE9 Marcos\
-    \ Grespan e Marlene Grespan, permanecer\xE3o na opera\xE7\xE3o por at\xE9 cinco\
-    \ anos, ajudando na integra\xE7\xE3o dos neg\xF3cios.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/na-m-dias-branco-o-m-and-a-do-pao-congelado
-  title: "Na M. Dias Branco, o M&A do p\xE3o congelado"
 - author: Market Makers
   categories: &id003
   - Podcasts
