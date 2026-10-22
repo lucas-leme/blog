@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id003
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-21T21:48:57.761744'
+  date: '2026-10-22T05:10:19.717785'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-21T21:48:57.761740'
+  date: '2026-10-22T05:10:19.717782'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-21T21:48:57.761735'
+  date: '2026-10-22T05:10:19.717778'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-21T21:48:57.761723'
+  date: '2026-10-22T05:10:19.717769'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,20 +395,46 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-10-22T05:10:17+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
 - author: Brazil Journal - Latest news
-  categories: &id003
-  - Economia
-  date: '2026-10-21T19:37:00+00:00'
-  description: "O BTG Pactual mapeou quais a\xE7\xF5es os estrangeiros devem comprar\
-    \ se o cen\xE1rio de redu\xE7\xE3o dos juros se concretizar no Pa\xEDs depois\
-    \ da elei\xE7\xE3o de domingo. A equipe liderada por Carlos Sequeira analisou\
-    \ os meses em que os estrangeiros foram compradores l\xEDquidos de pelo menos\
-    \ R$ 5 bilh\xF5es na Bolsa brasileira."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/bolsa-pode-receber-r-225-bi-em-cenario-base-de-queda-de-juro
-  title: "Bolsa pode receber R$ 225 bi em cen\xE1rio-base de queda de juro"
-- author: Marques Brownlee
   categories: &id001
+  - Economia
+  date: '2026-10-22T00:52:00+00:00'
+  description: "O fechamento da curva de juros e a alta da Bolsa \u2013 especialmente\
+    \ de a\xE7\xF5es sens\xEDveis a uma redu\xE7\xE3o das taxas \u2013 depois do primeiro\
+    \ turno deram um belo empurr\xE3o no desempenho dos fundos de a\xE7\xF5es e multimercado\
+    \ em outubro. Mas alguns dos gestores que mais ganharam dinheiro no m\xEAs \u2013\
+    \ BTG Pactual, Legacy, IP e Absolute \u2013 n\xE3o esperam um rali da mesma magnitude\
+    \ na pr\xF3xima semana.&nbsp;"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/os-fundos-que-ganharam-com-o-rali-de-outubro-e-ja-reduziram-a-exposicao
+  title: "Os fundos que ganharam com o rali de outubro \u2013 e j\xE1 reduziram a\
+    \ exposi\xE7\xE3o"
+- author: Brazil Journal - Latest news
+  categories: *id001
+  date: '2026-10-21T23:15:00+00:00'
+  description: "Desde o an\xFAncio em 2017 at\xE9 sua libera\xE7\xE3o para uso comercial\
+    \ na ter\xE7a-feira, o 737 MAX 10 \u2013 a aeronave da fam\xEDlia 737 de maior\
+    \ capacidade \u2013 teve uma trajet\xF3ria tortuosa, que exigiu mudan\xE7as no\
+    \ projeto no meio do caminho e agora finalmente chega ao fim. A FAA, a ag\xEA\
+    ncia de avia\xE7\xE3o civil dos EUA, aprovou o modelo para uso comercial, permitindo\
+    \ que a Boeing comece a enviar \xE0s companhias a\xE9reas as mais de 1.555 aeronaves\
+    \ j\xE1 encomendadas."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/boeing-737-max-10-liberado-voar-10-anos-depois
+  title: 'Boeing 737 MAX 10: liberado para voar, 10 anos depois'
+- author: Marques Brownlee
+  categories: &id002
   - Tech
   - Youtube
   date: '2026-10-21T14:00:33+00:00'
@@ -417,7 +443,7 @@
   path: https://www.youtube.com/shorts/_4ELeWAgMwo
   title: ASMR iPhone Duo Unboxing
 - author: Marques Brownlee
-  categories: *id001
+  categories: *id002
   date: '2026-10-21T12:00:52+00:00'
   description: "What it's actually like to use the first folding iPhone - Duo\n\n\
     Don\u2019t miss Ridge\u2019s friends and family sale at https://ridge.com/MKBHD\n\
@@ -430,34 +456,13 @@
   path: https://www.youtube.com/watch?v=ESABTN4VtrA
   title: 'iPhone Duo Review: First Generation Fun!'
 - author: CFA Institute Research and Policy Center
-  categories: *id002
+  categories: *id003
   date: '2026-10-21T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/investors-need-to-value-recoverability-not-just-continuity
   title: 'Pricing Resilience: Why Investors Need to Value Recoverability, Not Just
     Continuity'
-- author: Brazil Journal - Latest news
-  categories: *id003
-  date: '2026-10-21T09:50:00+00:00'
-  description: "Tr\xEAs anos depois da descoberta da fraude cont\xE1bil de R$ 20 bilh\xF5\
-    es que abalou o Pa\xEDs, a Americanas conseguiu sair viva de seu inevit\xE1vel\
-    \ processo de recupera\xE7\xE3o judicial. A 4\xAA Vara Empresarial do Rio de Janeiro\
-    \ decretou na segunda-feira o fim da RJ, a pedido da companhia.&nbsp;&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/os-planos-da-americanas-depois-da-rj
-  title: Os planos da Americanas depois da RJ
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-10-21T05:07:06+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: Market Makers
   categories: &id004
   - Podcasts
@@ -537,31 +542,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8aa401f1b05fc10daee03301f7
   path: https://open.spotify.com/episode/17chMqOLIh45XhQwkawAoM
   title: '#426 | JOESLEY E WESLEY: COMO OS BATISTA VOLTARAM AINDA MAIS PODEROSOS'
-- author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
-  date: '2026-10-16T15:00:35+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ program \u2192 https://arjan.codes/mastery.\n\nPython has a lot of powerful\
-    \ features, but just because you can use them doesn\u2019t mean you always should.\n\
-    \nIn this video, I look at 7 Python features that can quietly make your code harder\
-    \ to understand and maintain, from @property and dataclasses to caching, decorators,\
-    \ async, pattern matching, and slots. The goal isn\u2019t to avoid these features,\
-    \ but to understand the trade-offs and know when they actually improve your design.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/worse.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:30 1. @property: Hiding expensive work\n2:20 2. @dataclass: Turning everything\
-    \ into data\n4:23 3. match: The fancy if statement\n5:27 4. @cache: Free speed\
-    \ that isn\u2019t free\n6:53 5. Decorators: When important behavior becomes invisible\n\
-    9:03 6. async: When async leaks into everything\n12:59 7. dataclass(slots=True):\
-    \ Optimizing before measuring\n15:09 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=RHCyTWaRZSk
-  title: 7 Python Features That Make Your Code Worse
 - author: The Psychology of Money with Morgan Housel
   categories:
   - Podcasts
@@ -654,7 +634,7 @@
   path: https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt
   title: "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)"
 - author: The Overshoot
-  categories: &id006
+  categories: &id005
   - Macro
   - Newsletters
   date: '2026-10-09T21:48:05+00:00'
@@ -664,29 +644,8 @@
   image: https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
-- author: ArjanCodes
-  categories: *id005
-  date: '2026-10-09T15:00:08+00:00'
-  description: "\U0001F468\U0001F3FB\u200D\U0001F4BB Join me in Utrecht next year\
-    \ for an in-person Software Design Retreat! Design, discuss, and learn alongside\
-    \ fellow developers. Join the waitlist: https://arjancodes.com/retreat.\n\n\U0001F9F1\
-    \ Build software that lasts. Join the Software Design Mastery program \u2192 https://arjan.codes/mastery.\n\
-    \nUndo sounds simple until every change needs its own reverse logic. The Memento\
-    \ pattern offers a different approach: save an object's state and restore it when\
-    \ you need to go back. In this video, I show how to implement the Memento pattern\
-    \ in modern Python using snapshots, dataclasses, protocols, and generics. \n\n\
-    \U0001F525 GitHub Repository: https://git.arjan.codes/2026/memento.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    1:20 The Workflow\n2:40 Take a Snapshot\n6:08 Originator, Memento, and Caretaker\n\
-    11:02 What Should Be in the Snapshot?\n12:03 Undo and Redo\n13:12 Memento vs Command\n\
-    14:01 Beyond Undo\n14:35 When Not to Use It\n15:07 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i3.ytimg.com/vi/ZXAt8AP3DnY/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=ZXAt8AP3DnY
-  title: 'The Memento Pattern: Saving State Without Breaking Encapsulation'
 - author: The Overshoot
-  categories: *id006
+  categories: *id005
   date: '2026-10-03T08:26:50+00:00'
   description: In much of the rich world, the uptick in the cost of capital corresponds
     to a relatively benign change in (nominal) growth trajectories. This is less true
@@ -695,7 +654,7 @@
   path: https://theovershoot.co/p/france-is-the-biggest-loser-in-the
   title: France is the Biggest Loser in the Global Rates Reset
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -705,7 +664,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id006
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -713,7 +672,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id008
+  categories: &id007
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -729,7 +688,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id007
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
