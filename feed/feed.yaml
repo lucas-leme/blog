@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-23T15:38:56.498815'
+  date: '2026-10-23T17:56:03.593081'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-23T15:38:56.498811'
+  date: '2026-10-23T17:56:03.593058'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-23T15:38:56.498806'
+  date: '2026-10-23T17:56:03.593054'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-23T15:38:56.498796'
+  date: '2026-10-23T17:56:03.593044'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,6 +395,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-23T16:46:00+00:00'
+  description: "<em>\u201CAttenzione! Virus rilevato.\u201D</em> A EXA \u2013 a empresa\
+    \ de <em>cybersecurity</em> da FS, a holding<em> </em>de Alberto Leite \u2013\
+    \ est\xE1 desembarcando na It\xE1lia para iniciar uma expans\xE3o pela Europa,\
+    \ um movimento com o potencial de dobrar o tamanho da opera\xE7\xE3o em tr\xEA\
+    s anos.&nbsp;"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/exa-desembarca-na-italia-com-uma-carona-da-tim-brasil
+  title: "EXA desembarca na It\xE1lia (com uma carona da TIM Brasil)"
 - author: AQR
   categories:
   - Quant
@@ -430,8 +442,7 @@
   path: https://www.youtube.com/watch?v=45MgUX_ih0s
   title: The Visitor Pattern in Python (And Better Alternatives)
 - author: Brazil Journal - Latest news
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-10-23T14:37:00+00:00'
   description: "O <em>buyside</em> ainda v\xEA espa\xE7o para um rali dos ativos brasileiros\
     \ na segunda-feira se Fl\xE1vio Bolsonaro vencer a elei\xE7\xE3o, mostra uma pesquisa\
@@ -441,15 +452,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/rali-com-flavio-reacao-a-lula-o-que-o-buyside-espera-para-segunda-feira
   title: "Rali com Fl\xE1vio, rea\xE7\xE3o a Lula: o que o buyside espera para segunda-feira"
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-22T23:56:00+00:00'
-  description: "O macro pesou e o Bradesco reportou um terceiro trimestre considerado\
-    \ fraco pelo mercado. O lucro foi de R$ 7,1 bilh\xF5es, um crescimento de apenas\
-    \ e 0,8% no tri a tri e de 14,6% na compara\xE7\xE3o anual.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/macro-pesa-e-bradesco-perde-folego-no-3-tri
-  title: "Macro pesa e Bradesco perde f\xF4lego no 3\xBA tri"
 - author: The Overshoot
   categories: &id006
   - Macro
