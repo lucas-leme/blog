@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-24T04:52:52.747680'
+  date: '2026-10-24T14:18:30.270890'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-24T04:52:52.747676'
+  date: '2026-10-24T14:18:30.270885'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-24T04:52:52.747672'
+  date: '2026-10-24T14:18:30.270880'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-24T04:52:52.747661'
+  date: '2026-10-24T14:18:30.270869'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -435,8 +435,31 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: ArjanCodes
+  categories: &id005
+  - Tech
+  - Code
+  - Youtube
+  date: '2026-10-23T15:00:28+00:00'
+  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
+    \nThe Visitor pattern has a reputation for being complicated, but the problem\
+    \ it solves is actually quite simple: what happens when you keep adding new operations\
+    \ to the same set of objects?\n\nIn this video, I use a document editor to compare\
+    \ several ways to solve that problem: methods, pattern matching, the classic Visitor\
+    \ pattern, a dispatch matrix, and Python\u2019s `singledispatch`. More importantly,\
+    \ we\u2019ll look at the trade-offs of each approach and when Visitor is actually\
+    \ worth using.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/visitor.\n\
+    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
+    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
+    0:00 Intro\n1:23 Methods on the Nodes\n2:41 Pattern Matching Groups Code by Operation\n\
+    3:53 Classic Visitor\n6:23 The Design Problem\n7:06 The Dispatch Matrix Underneath\
+    \ Visitor\n9:35 Let Python Maintain the Matrix\n11:46 Final Thoughts\n\n#arjancodes\
+    \ #softwaredesign #python"
+  image: https://i1.ytimg.com/vi/45MgUX_ih0s/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=45MgUX_ih0s
+  title: The Visitor Pattern in Python (And Better Alternatives)
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-10-23T00:00:00+00:00'
   description: "PARTICIPE DA PESQUISA: Um pesquisador da FGV est\xE1 estudando como\
@@ -473,7 +496,7 @@
   title: "#428 | LULA X FL\xC1VIO BOLSONARO: QUEM EST\xC1 NA FRENTE NO 2\xBA TURNO\
     \ DE 2026?"
 - author: The Overshoot
-  categories: &id004
+  categories: &id006
   - Macro
   - Newsletters
   date: '2026-10-22T21:08:06+00:00'
@@ -511,8 +534,30 @@
   image: https://i.scdn.co/image/ab6765630000ba8a169de9927ac9482976f84ac6
   path: https://open.spotify.com/episode/2MtLIXKCDTfCERPx96uIQG
   title: Sam Bankman-Fried on effective altruism
-- author: Market Makers
+- author: Marques Brownlee
+  categories: &id003
+  - Tech
+  - Youtube
+  date: '2026-10-21T14:00:33+00:00'
+  description: iPhone duo only comes with 2 things in the box
+  image: https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg
+  path: https://www.youtube.com/shorts/_4ELeWAgMwo
+  title: ASMR iPhone Duo Unboxing
+- author: Marques Brownlee
   categories: *id003
+  date: '2026-10-21T12:00:52+00:00'
+  description: "What it's actually like to use the first folding iPhone - Duo\n\n\
+    Don\u2019t miss Ridge\u2019s friends and family sale at https://ridge.com/MKBHD\n\
+    Protect your iPhone Duo at https://dbrand.com/duo \n\nMKBHD Merch: http://shop.MKBHD.com\n\
+    \nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\nPhone provided by Apple\
+    \ for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD\n\
+    \n0:00 Intro\n1:13 First Generation\n3:21 The Hardware\n14:18 The Apps Situation\n\
+    20:02 What It's Good At\n25:11 Conclusion"
+  image: https://i2.ytimg.com/vi/ESABTN4VtrA/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=ESABTN4VtrA
+  title: 'iPhone Duo Review: First Generation Fun!'
+- author: Market Makers
+  categories: *id004
   date: '2026-10-21T00:00:00+00:00'
   description: "A disputa entre Lula e Fl\xE1vio chega \xE0 reta final com pesquisas\
     \ apertadas, estrat\xE9gias diferentes e o primeiro debate direto entre os candidatos.\
@@ -549,6 +594,28 @@
   path: https://open.spotify.com/episode/2sJhqwDwD3Me2sYJ8SwuLB
   title: "#427 | A ELEI\xC7\xC3O EST\xC1 POR UM FIO: O QUE PODE DECIDIR LULA X FL\xC1\
     VIO?"
+- author: ArjanCodes
+  categories: *id005
+  date: '2026-10-16T15:00:35+00:00'
+  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
+    \ program \u2192 https://arjan.codes/mastery.\n\nPython has a lot of powerful\
+    \ features, but just because you can use them doesn\u2019t mean you always should.\n\
+    \nIn this video, I look at 7 Python features that can quietly make your code harder\
+    \ to understand and maintain, from @property and dataclasses to caching, decorators,\
+    \ async, pattern matching, and slots. The goal isn\u2019t to avoid these features,\
+    \ but to understand the trade-offs and know when they actually improve your design.\n\
+    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/worse.\n\n\U0001F4AC\
+    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
+    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
+    0:30 1. @property: Hiding expensive work\n2:20 2. @dataclass: Turning everything\
+    \ into data\n4:23 3. match: The fancy if statement\n5:27 4. @cache: Free speed\
+    \ that isn\u2019t free\n6:53 5. Decorators: When important behavior becomes invisible\n\
+    9:03 6. async: When async leaks into everything\n12:59 7. dataclass(slots=True):\
+    \ Optimizing before measuring\n15:09 Final Thoughts\n\n#arjancodes #softwaredesign\
+    \ #python"
+  image: https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg
+  path: https://www.youtube.com/watch?v=RHCyTWaRZSk
+  title: 7 Python Features That Make Your Code Worse
 - author: The Psychology of Money with Morgan Housel
   categories:
   - Podcasts
@@ -624,7 +691,7 @@
   path: https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt
   title: "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)"
 - author: The Overshoot
-  categories: *id004
+  categories: *id006
   date: '2026-10-09T21:48:05+00:00'
   description: For years I have argued that the official numbers on net interest payments
     by U.S. businesses were grossly understated. The latest revisions have vindicated
@@ -633,7 +700,7 @@
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
 - author: Apricitas Economics
-  categories: &id005
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-09-27T14:01:59+00:00'
@@ -643,7 +710,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: Apricitas Economics
-  categories: *id005
+  categories: *id007
   date: '2026-05-03T13:31:02+00:00'
   description: US Power Investment is at Record Highs, Driven by a Solar & Battery
     Boom. It's Still Not Enough to Meet Demand Growth.
@@ -651,7 +718,7 @@
   path: https://www.apricitas.io/p/americas-electricity-gap
   title: America's Electricity Gap
 - author: The Journal.
-  categories: &id006
+  categories: &id008
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -667,7 +734,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id006
+  categories: *id008
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
