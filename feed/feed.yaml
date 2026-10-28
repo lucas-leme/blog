@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-10-28T12:00:00+00:00'
   description: "In this episode of Conversations with Frank Fabozzi, CFA, Andrew Chin\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-27T22:23:28.209392'
+  date: '2026-10-28T06:00:31.433185'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -30,7 +30,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-27T22:23:28.209387'
+  date: '2026-10-28T06:00:31.433181'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -47,7 +47,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-27T22:23:28.209382'
+  date: '2026-10-28T06:00:31.433175'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -137,7 +137,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-27T22:23:28.209371'
+  date: '2026-10-28T06:00:31.433163'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -395,15 +395,30 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
-- author: Marques Brownlee
-  categories: &id004
-  - Tech
-  - Youtube
-  date: '2026-10-27T20:14:55+00:00'
-  description: This is an acoustic imaging camera
-  image: https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg
-  path: https://www.youtube.com/shorts/ai1gIWacf0I
-  title: This can SEE Sound!
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-28T00:15:00+00:00'
+  description: "Em sua maior queda percentual em um \xFAnico dia, o \xEDndice Dow\
+    \ Jones mergulhou 22,6% na Black Monday de 19 de outubro de 1987 \u2013 um fen\xF4\
+    meno rar\xEDssimo, movido por um p\xE2nico generalizado potencializado pela ent\xE3\
+    o novidade dos modelos computadorizados. O tombo dessa magnitude foi considerado\
+    \ estatisticamente \u2018imposs\xEDvel\u2019 \u2013 um evento sigma 25, ou seja,\
+    \ de 25 desvios-padr\xE3o. (\xC0 \xE9poca, o desvio-padr\xE3o di\xE1rio hist\xF3\
+    rico era de 0,81% para cima ou para baixo.)"
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/e-rarissimo-mas-acontece-o-tamanho-do-estrago-no-ewz
+  title: "\xC9 rar\xEDssimo. Mas acontece. O tamanho do estrago no EWZ"
+- author: Brazil Journal - Latest news
+  categories: *id001
+  date: '2026-10-28T00:03:00+00:00'
+  description: "Todos os institutos de pesquisa apontavam Fl\xE1vio Bolsonaro como\
+    \ o vencedor da elei\xE7\xE3o de domingo.&nbsp; Os <em>prediction markets </em>eram\
+    \ ainda mais otimistas com o senador: plataformas como Polymarket e Kalshi chegaram\
+    \ a atribuir probabilidades superiores a 80% \xE0 sua vit\xF3ria."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-que-precisa-mudar-nas-pesquisas
+  title: O que precisa mudar nas pesquisas
 - author: AQR
   categories:
   - Quant
@@ -415,35 +430,14 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Brazil Journal - Latest news
-  categories: &id002
-  - Economia
-  date: '2026-10-27T14:28:00+00:00'
-  description: "A Advent acaba de captar seu maior fundo global, de US$ 27 bilh\xF5\
-    es \u2013 e outros US$ 3 bi para uma estrat\xE9gia nova de investimentos no <em>middle\
-    \ market</em>.&nbsp; Os mercados priorit\xE1rios s\xE3o EUA e Europa, mas at\xE9\
-    \ US$ 6 bilh\xF5es do fundo principal podem ser direcionados para mercados emergentes,\
-    \ para co-investir junto com os fundos locais da gestora.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/advent-capta-us-27-bi-para-seu-maior-fundo-global
-  title: Advent capta US$ 27 bi para seu maior fundo global
 - author: CFA Institute Research and Policy Center
-  categories: *id001
+  categories: *id002
   date: '2026-10-27T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/cleaner-balance-sheet-does-not-guarantee-returns
   title: "After Bankruptcy: A Cleaner Balance Sheet Doesn\u2019t Guarantee Better\
     \ Returns"
-- author: Brazil Journal - Latest news
-  categories: *id002
-  date: '2026-10-27T02:34:00+00:00'
-  description: "Os neg\xF3cios de infraestrutura tiveram investimentos recordes e\
-    \ uma intensa agenda de leil\xF5es no Lula 3. Mas como diz o <em>disclaimer</em>,\
-    \ desempenho passado n\xE3o garante resultados futuros."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/se-nao-corrigir-o-fiscal-lula-4-vai-pressionar-infraestrutura
-  title: "Se n\xE3o corrigir o fiscal, Lula 4 vai pressionar a infraestrutura"
 - author: Market Makers
   categories: &id003
   - Podcasts
@@ -479,7 +473,7 @@
   title: '#429 | LULA REELEITO; COMO O MERCADO VAI REAGIR NA SEGUNDA? | MARKET MAKERS
     #429'
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id005
   - Macro
   - Newsletters
   date: '2026-10-25T17:30:53+00:00'
@@ -488,29 +482,6 @@
   image: https://substackcdn.com/image/fetch/$s_!HS1d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aac596e-87a6-41a7-9653-794f5cfd37e5_2886x1843.png
   path: https://www.apricitas.io/p/how-canada-is-decoupling-from-the
   title: How Canada is Decoupling From the US
-- author: ArjanCodes
-  categories: &id005
-  - Tech
-  - Code
-  - Youtube
-  date: '2026-10-23T15:00:28+00:00'
-  description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
-    \nThe Visitor pattern has a reputation for being complicated, but the problem\
-    \ it solves is actually quite simple: what happens when you keep adding new operations\
-    \ to the same set of objects?\n\nIn this video, I use a document editor to compare\
-    \ several ways to solve that problem: methods, pattern matching, the classic Visitor\
-    \ pattern, a dispatch matrix, and Python\u2019s `singledispatch`. More importantly,\
-    \ we\u2019ll look at the trade-offs of each approach and when Visitor is actually\
-    \ worth using.\n\n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/visitor.\n\
-    \n\U0001F4AC Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F\
-    \ Keyboard I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n\
-    0:00 Intro\n1:23 Methods on the Nodes\n2:41 Pattern Matching Groups Code by Operation\n\
-    3:53 Classic Visitor\n6:23 The Design Problem\n7:06 The Dispatch Matrix Underneath\
-    \ Visitor\n9:35 Let Python Maintain the Matrix\n11:46 Final Thoughts\n\n#arjancodes\
-    \ #softwaredesign #python"
-  image: https://i1.ytimg.com/vi/45MgUX_ih0s/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=45MgUX_ih0s
-  title: The Visitor Pattern in Python (And Better Alternatives)
 - author: Market Makers
   categories: *id003
   date: '2026-10-23T00:00:00+00:00'
@@ -548,7 +519,7 @@
   title: "#428 | LULA X FL\xC1VIO BOLSONARO: QUEM EST\xC1 NA FRENTE NO 2\xBA TURNO\
     \ DE 2026?"
 - author: The Overshoot
-  categories: &id006
+  categories: &id004
   - Macro
   - Newsletters
   date: '2026-10-22T21:08:06+00:00'
@@ -579,35 +550,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a169de9927ac9482976f84ac6
   path: https://open.spotify.com/episode/2MtLIXKCDTfCERPx96uIQG
   title: Sam Bankman-Fried on effective altruism
-- author: Marques Brownlee
-  categories: *id004
-  date: '2026-10-21T14:00:33+00:00'
-  description: iPhone duo only comes with 2 things in the box
-  image: https://i4.ytimg.com/vi/_4ELeWAgMwo/hqdefault.jpg
-  path: https://www.youtube.com/shorts/_4ELeWAgMwo
-  title: ASMR iPhone Duo Unboxing
-- author: ArjanCodes
-  categories: *id005
-  date: '2026-10-16T15:00:35+00:00'
-  description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
-    \ program \u2192 https://arjan.codes/mastery.\n\nPython has a lot of powerful\
-    \ features, but just because you can use them doesn\u2019t mean you always should.\n\
-    \nIn this video, I look at 7 Python features that can quietly make your code harder\
-    \ to understand and maintain, from @property and dataclasses to caching, decorators,\
-    \ async, pattern matching, and slots. The goal isn\u2019t to avoid these features,\
-    \ but to understand the trade-offs and know when they actually improve your design.\n\
-    \n\U0001F525 GitHub Repository: https://git.arjan.codes/2026/worse.\n\n\U0001F4AC\
-    \ Join my Discord server: https://discord.arjan.codes.\n\n\u2328\uFE0F Keyboard\
-    \ I\u2019m using: https://amzn.to/49YM97v.\n\n\U0001F516 Chapters:\n0:00 Intro\n\
-    0:30 1. @property: Hiding expensive work\n2:20 2. @dataclass: Turning everything\
-    \ into data\n4:23 3. match: The fancy if statement\n5:27 4. @cache: Free speed\
-    \ that isn\u2019t free\n6:53 5. Decorators: When important behavior becomes invisible\n\
-    9:03 6. async: When async leaks into everything\n12:59 7. dataclass(slots=True):\
-    \ Optimizing before measuring\n15:09 Final Thoughts\n\n#arjancodes #softwaredesign\
-    \ #python"
-  image: https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg
-  path: https://www.youtube.com/watch?v=RHCyTWaRZSk
-  title: 7 Python Features That Make Your Code Worse
 - author: The Psychology of Money with Morgan Housel
   categories:
   - Podcasts
@@ -683,7 +625,7 @@
   path: https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt
   title: "Philip & Allan Maymin \u2013 Compounding Through Risk, Not Return (S7E35)"
 - author: The Overshoot
-  categories: *id006
+  categories: *id004
   date: '2026-10-09T21:48:05+00:00'
   description: For years I have argued that the official numbers on net interest payments
     by U.S. businesses were grossly understated. The latest revisions have vindicated
@@ -692,7 +634,7 @@
   path: https://theovershoot.co/p/found-americas-missing-interest-income
   title: "Found: America\u2019s Missing Interest Income"
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id005
   date: '2026-09-27T14:01:59+00:00'
   description: America is Losing Hundreds of Thousands of Jobs in Media, Film & the
     Arts. How Much is AI to Blame?
@@ -700,7 +642,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: The Journal.
-  categories: &id008
+  categories: &id006
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -716,7 +658,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id006
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
