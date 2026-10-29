@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T17:19:21.104387'
+  date: '2026-10-29T19:07:56.574934'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T17:19:21.104384'
+  date: '2026-10-29T19:07:56.574930'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T17:19:21.104381'
+  date: '2026-10-29T19:07:56.574925'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -123,7 +123,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T17:19:21.104372'
+  date: '2026-10-29T19:07:56.574915'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -381,6 +381,20 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/16092026
   title: "BC - Copom Ata - 281\xAA Reuni\xE3o - 15-16 setembro, 2026"
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-10-29T17:53:00+00:00'
+  description: "A Ra\xEDzen anunciou um acordo com a Uni\xE3o que vai extinguir R$\
+    \ 22,4 bilh\xF5es em d\xE9bitos da companhia \u2013 na maior transa\xE7\xE3o tribut\xE1\
+    ria desde que esse tipo de acordo foi regulamentado no Brasil, seis anos atr\xE1\
+    s. Pelos termos do acordo, a Ra\xEDzen ter\xE1 um desconto final de 85% no valor\
+    \ dos d\xE9bitos \u2013 considerando o uso de preju\xEDzos fiscais para pagar\
+    \ parte do montante."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/raizen-fecha-acordo-tributario-epico-extinguindo-r-22-bi-em-dividas
+  title: "Ra\xEDzen fecha acordo tribut\xE1rio \xE9pico, extinguindo R$ 22 bi em d\xED\
+    vidas"
 - author: CFA Institute Research and Policy Center
   categories: &id002
   - CFA
@@ -390,8 +404,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/private-markets-five-questions-every-portfolio-manager-should-ask
   title: 'Private Markets: Five Questions Every Portfolio Manager Should Ask'
 - author: Brazil Journal - Latest news
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-10-29T09:50:00+00:00'
   description: "A discuss\xE3o sobre intelig\xEAncia artificial nas empresas ainda\
     \ gira em torno de uma pergunta que come\xE7a a ficar ultrapassada: quantas pessoas\
@@ -401,21 +414,6 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/opiniao-o-gap-da-ai-no-mundo-corporativo
   title: "OPINI\xC3O. O gap da AI no mundo corporativo"
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-29T09:50:00+00:00'
-  description: "Em meio ao clim\xE3o que tomou conta do mercado nos \xFAltimos dias,\
-    \ Rog\xE9rio Xavier vai esperar a indica\xE7\xE3o do ministro da Fazenda e as\
-    \ novas medidas econ\xF4micas para avaliar a credibilidade delas, fazer contas\
-    \ e ver se h\xE1 algo a fazer nos mercados.&nbsp; \u201CTemos opini\xF5es, n\xE3\
-    o fatos, e tomamos decis\xF5es em cima de informa\xE7\xF5es concretas,\u201D o\
-    \ cofundador da SPX Capital disse ao <a href=\"https://www.instagram.com/braziljournal/\"\
-    \ rel=\"\" target=\"_blank\"><strong>Brazil Journal</strong></a>. \u201CHouve\
-    \ um ajuste expressivo nos pre\xE7os dos ativos, e isso chama aten\xE7\xE3o. Mas\
-    \ o patamar atual pode ser a nova realidade caso nenhum ajuste fiscal seja feito.\u201D"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/rogerio-xavier-lula-precisa-dar-choque-de-credibilidade
-  title: "Rog\xE9rio Xavier: Lula precisa dar \u201Cchoque de credibilidade\u201D"
 - author: Marques Brownlee
   categories: &id003
   - Tech
