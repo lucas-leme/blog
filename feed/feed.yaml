@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T19:07:56.574934'
+  date: '2026-10-29T19:51:35.412022'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T19:07:56.574930'
+  date: '2026-10-29T19:51:35.412019'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T19:07:56.574925'
+  date: '2026-10-29T19:51:35.412016'
   description: "<div class=\"ExternalClassF35B12AAC5054C578C032D0BBD411FC9\"><p>\u200B\
     O ambiente externo permanece incerto em fun\xE7\xE3o da indefini\xE7\xE3o acerca\
     \ dos conflitos armados no Oriente M\xE9dio e da incerteza sobre a pol\xEDtica\
@@ -123,7 +123,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-10-29T19:07:56.574915'
+  date: '2026-10-29T19:51:35.412009'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo permanece incerto em fun\xE7\xE3o\
@@ -384,6 +384,17 @@
 - author: Brazil Journal - Latest news
   categories: &id001
   - Economia
+  date: '2026-10-29T19:48:00+00:00'
+  description: "A DoorDash est\xE1 comprando a Instacart por US$ 17 bilh\xF5es, abrindo\
+    \ um novo cap\xEDtulo em sua estrat\xE9gia de consolida\xE7\xE3o do setor de delivery.\
+    \ A DoorDash pagar\xE1 US$ 65 por a\xE7\xE3o da Instacart, um pr\xEAmio de 26%\
+    \ sobre o pre\xE7o de tela de 22 de outubro, o \xFAltimo preg\xE3o antes da <em>Bloomberg</em>\
+    \ noticiar que as partes negociavam um acordo."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/doordash-compra-instacart-por-us-17-bilhoes
+  title: "DoorDash compra Instacart por US$ 17 bilh\xF5es"
+- author: Brazil Journal - Latest news
+  categories: *id001
   date: '2026-10-29T17:53:00+00:00'
   description: "A Ra\xEDzen anunciou um acordo com a Uni\xE3o que vai extinguir R$\
     \ 22,4 bilh\xF5es em d\xE9bitos da companhia \u2013 na maior transa\xE7\xE3o tribut\xE1\
@@ -399,21 +410,19 @@
   categories: &id002
   - CFA
   date: '2026-10-29T12:00:00+00:00'
+  description: The expanded taxonomy would broaden sustainability classifications
+    for the investment industry. A common framework should be established in the region,
+    and with other investor regions.
+  image: null
+  path: https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/hong-kong-sustainable-finance-taxonomy
+  title: Hong Kong Sustainable Finance Taxonomy
+- author: CFA Institute Research and Policy Center
+  categories: *id002
+  date: '2026-10-29T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/private-markets-five-questions-every-portfolio-manager-should-ask
   title: 'Private Markets: Five Questions Every Portfolio Manager Should Ask'
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-10-29T09:50:00+00:00'
-  description: "A discuss\xE3o sobre intelig\xEAncia artificial nas empresas ainda\
-    \ gira em torno de uma pergunta que come\xE7a a ficar ultrapassada: quantas pessoas\
-    \ est\xE3o usando AI? A pergunta relevante agora j\xE1 \xE9 outra: quanto trabalho\
-    \ a AI j\xE1 consegue executar de ponta a ponta, com autonomia, qualidade mensur\xE1\
-    vel e retorno econ\xF4mico claro?"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/opiniao-o-gap-da-ai-no-mundo-corporativo
-  title: "OPINI\xC3O. O gap da AI no mundo corporativo"
 - author: Marques Brownlee
   categories: &id003
   - Tech
@@ -465,13 +474,6 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-10-28T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/ai-in-asset-management-five-questions
-  title: 'AI in Asset Management: Five Questions Every Investor Should Ask'
 - author: Market Makers
   categories: &id004
   - Podcasts
