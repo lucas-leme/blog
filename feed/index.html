@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.20">
+<meta name="generator" content="quarto-1.11.9">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -44,6 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
@@ -51,9 +52,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet" class="quarto-color-scheme-extra">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-4b244b1f95c9d254aa8f029d56f0636a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-6545302f0f4eef8af6950c5880aa3262.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-4b244b1f95c9d254aa8f029d56f0636a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-5806dfd14fe612dbe9635c2940fc5099.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-1637d69b346c9766bd5ad6f9a30c6f6f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-5806dfd14fe612dbe9635c2940fc5099.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -103,12 +104,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
@@ -120,7 +115,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-date','listing-title','listing-author','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 24,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-author","listing-categories","listing-date","listing-description","listing-image","listing-title"],
     };
 
@@ -131,12 +127,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-6ET4F49FZC"></script>
 
@@ -184,7 +174,7 @@ window.Quarto = {
 <meta property="og:site_name" content="Lucas Leme">
 </head>
 
-<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Pular para o conteúdo principal</a><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -207,6 +197,7 @@ window.Quarto = {
       for (let i=0; i < toggles.length; i++) {
         const toggle = toggles[i];
         if (toggle) {
+          toggle.setAttribute("aria-checked", alternate ? "true" : "false");
           if (alternate) {
             toggle.classList.add("alternate");
           } else {
@@ -236,13 +227,19 @@ window.Quarto = {
       manageTransitions('#quarto-margin-sidebar .nav-link', true);
       // Switch the toggles
       setColorSchemeToggle(alternate)
-      // Hack to workaround the fact that safari doesn't
-      // properly recolor the scrollbar when toggling (#1455)
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455).
+    // Not run on load: stylesheets are set before first paint there, and
+    // scrolling would undo the scroll to a URL fragment (#14973).
+    // The one pixel nudge keeps the reader where they were.
+    const refreshSafariScrollbar = () => {
       if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
         manageTransitions("body", false);
-        window.scrollTo(0, 1);
+        const scrollY = window.scrollY;
+        window.scrollTo(0, scrollY > 0 ? scrollY - 1 : 1);
         setTimeout(() => {
-          window.scrollTo(0, 0);
+          window.scrollTo(0, scrollY);
           manageTransitions("body", true);
         }, 40);
       }
@@ -336,6 +333,7 @@ window.Quarto = {
       // Read the current dark / light value
       let toAlternate = !hasAlternateSentinel();
       toggleColorMode(toAlternate);
+      refreshSafariScrollbar();
       setStyleSentinel(toAlternate);
       toggleGiscusIfUsed(toAlternate, darkModeDefault);
       window.dispatchEvent(new Event('resize'));
@@ -350,15 +348,14 @@ window.Quarto = {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark" aria-label="Site">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Lucas Leme</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -390,8 +387,9 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+  <button type="button" role="switch" aria-checked="false" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro" aria-label="Alternar modo escuro"><i class="bi"></i></button>
 </div>
+            <div id="quarto-search" class="" title="Procurar"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -401,7 +399,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content" tabindex="-1">
 
 
 <header id="title-block-header" class="quarto-title-block default">
@@ -436,7 +434,7 @@ window.Quarto = {
 <div id="listing-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-1">
 <div class="g-col-1" data-index="0" data-categories="Tm90JUMzJUFEY2lhcyUyQ0NGQSUyQ1JlZGRpdA==" data-listing-date-sort="1793595681000">
-<a href="https://www.reddit.com/r/CFA/comments/1xloeh3/mental_health_monday_your_weekly_cfa_mental/" class="quarto-grid-link">
+<a href="https://www.reddit.com/r/CFA/comments/1xloeh3/mental_health_monday_your_weekly_cfa_mental/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&amp;s=995c4d459025f197881ae26dc8ccf30176a8488c" class="thumbnail-image card-img" style="height: 300px;">
@@ -466,7 +464,7 @@ Mental Health Monday - Your Weekly CFA Mental Health Discussion Thread
 </div></a>
 </div>
 <div class="g-col-1" data-index="1" data-categories="Tm90JUMzJUFEY2lhcw==" data-listing-date-sort="1792525058000">
-<a href="https://investnews.com.br/economia/brasil-prepara-primeira-emissao-de-panda-bonds-para-depois-da-eleicao-presidencial/" class="quarto-grid-link">
+<a href="https://investnews.com.br/economia/brasil-prepara-primeira-emissao-de-panda-bonds-para-depois-da-eleicao-presidencial/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj" class="thumbnail-image card-img" style="height: 300px;">
@@ -492,7 +490,7 @@ InvestNews - Economia
 </div></a>
 </div>
 <div class="g-col-1" data-index="2" data-categories="Tm90JUMzJUFEY2lhcw==" data-listing-date-sort="1792522040000">
-<a href="https://investnews.com.br/financas/holding-imobiliaria-itbi-receber-imoveis/" class="quarto-grid-link">
+<a href="https://investnews.com.br/financas/holding-imobiliaria-itbi-receber-imoveis/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj" class="thumbnail-image card-img" style="height: 300px;">
@@ -518,7 +516,7 @@ InvestNews - Finanças
 </div></a>
 </div>
 <div class="g-col-1" data-index="3" data-categories="Tm90JUMzJUFEY2lhcw==" data-listing-date-sort="1792510232000">
-<a href="https://investnews.com.br/economia/local-de-votacao-veja-como-consultar/" class="quarto-grid-link">
+<a href="https://investnews.com.br/economia/local-de-votacao-veja-como-consultar/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj" class="thumbnail-image card-img" style="height: 300px;">
@@ -544,7 +542,7 @@ InvestNews - Economia
 </div></a>
 </div>
 <div class="g-col-1" data-index="4" data-categories="Tm90JUMzJUFEY2lhcyUyQ0NGQSUyQ1JlZGRpdA==" data-listing-date-sort="1792495355000">
-<a href="https://www.reddit.com/r/CFA/comments/1xapi8f/official_l3_megathread/" class="quarto-grid-link">
+<a href="https://www.reddit.com/r/CFA/comments/1xapi8f/official_l3_megathread/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://styles.redditmedia.com/t5_2rzsx/styles/communityIcon_ngaqh14tqfj31.jpg?format=pjpg&amp;s=995c4d459025f197881ae26dc8ccf30176a8488c" class="thumbnail-image card-img" style="height: 300px;">
@@ -574,7 +572,7 @@ Official L3 Megathread
 </div></a>
 </div>
 <div class="g-col-1" data-index="5" data-categories="Tm90JUMzJUFEY2lhcw==" data-listing-date-sort="1792494896000">
-<a href="https://investnews.com.br/financas/ecossistema-da-criptomoeda-que-escaneia-olho-agora-mira-os-bancos/" class="quarto-grid-link">
+<a href="https://investnews.com.br/financas/ecossistema-da-criptomoeda-que-escaneia-olho-agora-mira-os-bancos/" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj" class="thumbnail-image card-img" style="height: 300px;">
@@ -607,8 +605,8 @@ InvestNews - Finanças
 <h2 class="anchored" data-anchor-id="exploração-detalhada">Exploração Detalhada</h2>
 <div id="listing-feed" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793601304910">
-<a href="https://www.bcb.gov.br/publicacoes/focus/23102026" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793651930645">
+<a href="https://www.bcb.gov.br/publicacoes/focus/23102026" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://s2-oglobo.glbimg.com/4Ugd1L8ibkhIE19fug0Uch8n_yI=/0x0:2000x1323/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/j/l/yuWhBvTH6CFIvGXG3PrA/sede-do-banco-central-do-brasil-em-brasilia.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -635,8 +633,8 @@ RSS - Feeds do BC
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793601304910">
-<a href="https://www.bcb.gov.br/publicacoes/rpm/202609" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793651930645">
+<a href="https://www.bcb.gov.br/publicacoes/rpm/202609" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://img.band.uol.com.br/image/2023/06/12/boletim-do-banco-central-aponta-melhora-da-inflacao-e-do-crescimento-neste-ano-14366_800x450.webp" class="thumbnail-image card-img" style="height: 150px;">
@@ -663,8 +661,8 @@ Relatório de Inflação
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793601304910">
-<a href="https://www.bcb.gov.br/controleinflacao/comunicadoscopom/21261" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793651930645">
+<a href="https://www.bcb.gov.br/controleinflacao/comunicadoscopom/21261" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://cdn.oantagonista.com/cdn-cgi/image/fit=contain,width=960,format=auto/uploads/2023/08/53089476259_00fff6225f_o-scaled.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -691,8 +689,8 @@ Comunicados Copom
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793601304910">
-<a href="https://www.bcb.gov.br/publicacoes/atascopom/16092026" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-categories="QmFjZW4lMkNCQw==" data-listing-date-sort="1793651930645">
+<a href="https://www.bcb.gov.br/publicacoes/atascopom/16092026" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&amp;strip=info&amp;w=700" class="thumbnail-image card-img" style="height: 150px;">
@@ -719,8 +717,88 @@ Atas do Copom
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-categories="UXVhbnQlMkNQYXBlcnM=" data-listing-date-sort="1793601302000">
-<a href="https://fetchrss.com" class="quarto-grid-link">
+<div class="g-col-1" data-index="4" data-categories="RWNvbm9taWE=" data-listing-date-sort="1793646420000">
+<a href="https://braziljournal.com/opiniao-juros-por-decreto-lagrimas-a-prazo" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+OPINIÃO. Juros por decreto. Lágrimas a prazo
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWE='); return false;">Economia</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Brazil Journal - Latest news
+</div>
+<div class="listing-date">
+2 de nov. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Q0ZB" data-listing-date-sort="1793620800000">
+<a href="https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/digital-currencies-five-questions" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Digital Currencies: Five Questions Every Portfolio Manager Should Ask
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q0ZB'); return false;">CFA</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+CFA Institute Research and Policy Center
+</div>
+<div class="listing-date">
+2 de nov. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="TWFjcm8lMkNGRUQlMkNCQw==" data-listing-date-sort="1793620800000">
+<a href="https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+How Do Banking Supervisors Deal with Failing Banks?
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWFjcm8='); return false;">Macro</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RkVE'); return false;">FED</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('QkM='); return false;">BC</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Liberty Street Economics
+</div>
+<div class="listing-date">
+2 de nov. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="UXVhbnQlMkNQYXBlcnM=" data-listing-date-sort="1793601302000">
+<a href="https://fetchrss.com" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -747,34 +825,8 @@ AQR
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="RWNvbm9taWE=" data-listing-date-sort="1793502720000">
-<a href="https://braziljournal.com/dudu-salamonde-e-du-brasiiiil" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Dudu Salamonde “é du Brasiiiil”
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWE='); return false;">Economia</div>
-
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Brazil Journal - Latest news
-</div>
-<div class="listing-date">
-1 de nov. de 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="RWNvbm9taWE=" data-listing-date-sort="1793502600000">
-<a href="https://braziljournal.com/opiniao-coragem-o-brasil-e-isso-ai" class="quarto-grid-link">
+<div class="g-col-1" data-index="8" data-categories="RWNvbm9taWE=" data-listing-date-sort="1793502600000">
+<a href="https://braziljournal.com/opiniao-coragem-o-brasil-e-isso-ai" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -799,8 +851,8 @@ Brazil Journal - Latest news
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793491200000">
-<a href="https://open.spotify.com/episode/04dMoJPRWRNngOGUEJl69I" class="quarto-grid-link">
+<div class="g-col-1" data-index="9" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793491200000">
+<a href="https://open.spotify.com/episode/04dMoJPRWRNngOGUEJl69I" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8a03705ed6599d699296959389" class="thumbnail-image card-img" style="height: 150px;">
@@ -825,38 +877,8 @@ Market Makers
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-categories="TWFjcm8lMkNGRUQlMkNCQw==" data-listing-date-sort="1793368800000">
-<a href="https://libertystreeteconomics.newyorkfed.org/2026/10/evaluating-new-linkedin-labor-market-tightness-indicators/" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://d3g9pb5nvr3u7.cloudfront.net/sites/59dd2d9d016a1b2d929cd15b/-1445257209/256.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Evaluating New LinkedIn Labor Market Tightness Indicators
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('TWFjcm8='); return false;">Macro</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('RkVE'); return false;">FED</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('QkM='); return false;">BC</div>
-
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Liberty Street Economics
-</div>
-<div class="listing-date">
-30 de out. de 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="9" data-categories="Q0ZB" data-listing-date-sort="1793361600000">
-<a href="https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/cfa-institute-supports-sec-order-cfa-charter" class="quarto-grid-link">
+<div class="g-col-1" data-index="10" data-categories="Q0ZB" data-listing-date-sort="1793361600000">
+<a href="https://rpc.cfainstitute.org/policy/comment-letters/2025-2029/cfa-institute-supports-sec-order-cfa-charter" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 
 <div class="card-body post-contents">
@@ -879,8 +901,8 @@ CFA Institute Research and Policy Center
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="10" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793318400000">
-<a href="https://open.spotify.com/episode/6WiYIi5PKXryb9bjyDOT2x" class="quarto-grid-link">
+<div class="g-col-1" data-index="11" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793318400000">
+<a href="https://open.spotify.com/episode/6WiYIi5PKXryb9bjyDOT2x" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8aa27905b4a2c61eb1903cb755" class="thumbnail-image card-img" style="height: 150px;">
@@ -905,8 +927,8 @@ Market Makers
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="11" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793318400000">
-<a href="https://open.spotify.com/episode/4Isv6cACWDsTSf0WaPPT97" class="quarto-grid-link">
+<div class="g-col-1" data-index="12" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793318400000">
+<a href="https://open.spotify.com/episode/4Isv6cACWDsTSf0WaPPT97" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72" class="thumbnail-image card-img" style="height: 150px;">
@@ -931,22 +953,26 @@ The Psychology of Money with Morgan Housel
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="12" data-categories="Q0ZB" data-listing-date-sort="1793275200000">
-<a href="https://rpc.cfainstitute.org/research/financial-analysts-journal/2026/financial-analysts-journal-fourth-quarter-2026-vol-82-no-4" class="quarto-grid-link">
+<div class="g-col-1" data-index="13" data-categories="VGVjaCUyQ1lvdXR1YmU=" data-listing-date-sort="1793242234000">
+<a href="https://www.youtube.com/watch?v=2reQut8WNGc" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
-
+<p class="card-img-top">
+<img loading="lazy" src="https://i3.ytimg.com/vi/2reQut8WNGc/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Financial Analysts Journal, Fourth Quarter 2026, Volume 82 Issue 4
+Macbook PROLED XDR Impressions: They Said They Wouldn’t!
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('Q0ZB'); return false;">CFA</div>
+<div class="listing-category" onclick="window.quartoListingCategory('VGVjaA=='); return false;">Tech</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('WW91dHViZQ=='); return false;">Youtube</div>
 
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
-CFA Institute Research and Policy Center
+Marques Brownlee
 </div>
 <div class="listing-date">
 29 de out. de 2026
@@ -955,8 +981,8 @@ CFA Institute Research and Policy Center
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="13" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793232000000">
-<a href="https://open.spotify.com/episode/5iDW8mdhO1fIeSE3iNGWBg" class="quarto-grid-link">
+<div class="g-col-1" data-index="14" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793232000000">
+<a href="https://open.spotify.com/episode/5iDW8mdhO1fIeSE3iNGWBg" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8a28fccde95380294f5afbdbde" class="thumbnail-image card-img" style="height: 150px;">
@@ -981,8 +1007,8 @@ Money Talks from The Economist
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="14" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793145600000">
-<a href="https://open.spotify.com/episode/7soCTSdB4V5Ro40zW48lbP" class="quarto-grid-link">
+<div class="g-col-1" data-index="15" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1793145600000">
+<a href="https://open.spotify.com/episode/7soCTSdB4V5Ro40zW48lbP" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8a08cd5198aa926a24b95d9b2a" class="thumbnail-image card-img" style="height: 150px;">
@@ -1007,8 +1033,36 @@ The Allocation: Private Markets for the Total Portfolio
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="15" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1792949453000">
-<a href="https://www.apricitas.io/p/how-canada-is-decoupling-from-the" class="quarto-grid-link">
+<div class="g-col-1" data-index="16" data-categories="VGVjaCUyQ1lvdXR1YmU=" data-listing-date-sort="1793132095000">
+<a href="https://www.youtube.com/shorts/ai1gIWacf0I" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://i2.ytimg.com/vi/ai1gIWacf0I/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+This can SEE Sound!
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVjaA=='); return false;">Tech</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('WW91dHViZQ=='); return false;">Youtube</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Marques Brownlee
+</div>
+<div class="listing-date">
+27 de out. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="17" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1792949453000">
+<a href="https://www.apricitas.io/p/how-canada-is-decoupling-from-the" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://substackcdn.com/image/fetch/$s_!HS1d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6aac596e-87a6-41a7-9653-794f5cfd37e5_2886x1843.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1035,8 +1089,38 @@ Apricitas Economics
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="16" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1792703286000">
-<a href="https://theovershoot.co/p/us-inflation-not-getting-much-worse" class="quarto-grid-link">
+<div class="g-col-1" data-index="18" data-categories="VGVjaCUyQ0NvZGUlMkNZb3V0dWJl" data-listing-date-sort="1792767628000">
+<a href="https://www.youtube.com/watch?v=45MgUX_ih0s" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://i1.ytimg.com/vi/45MgUX_ih0s/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+The Visitor Pattern in Python (And Better Alternatives)
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVjaA=='); return false;">Tech</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kZQ=='); return false;">Code</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('WW91dHViZQ=='); return false;">Youtube</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+ArjanCodes
+</div>
+<div class="listing-date">
+23 de out. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="19" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1792703286000">
+<a href="https://theovershoot.co/p/us-inflation-not-getting-much-worse" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://substackcdn.com/image/fetch/$s_!PjKi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F41ee2e51-8da5-486c-b276-5ee784617836_3195x2895.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1063,8 +1147,38 @@ The Overshoot
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="17" data-categories="UG9kY2FzdHMlMkNRdWFudA==" data-listing-date-sort="1791763200000">
-<a href="https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt" class="quarto-grid-link">
+<div class="g-col-1" data-index="20" data-categories="VGVjaCUyQ0NvZGUlMkNZb3V0dWJl" data-listing-date-sort="1792162835000">
+<a href="https://www.youtube.com/watch?v=RHCyTWaRZSk" class="quarto-grid-link no-external-icon">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://i3.ytimg.com/vi/RHCyTWaRZSk/hqdefault.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+7 Python Features That Make Your Code Worse
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VGVjaA=='); return false;">Tech</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29kZQ=='); return false;">Code</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('WW91dHViZQ=='); return false;">Youtube</div>
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+ArjanCodes
+</div>
+<div class="listing-date">
+16 de out. de 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="21" data-categories="UG9kY2FzdHMlMkNRdWFudA==" data-listing-date-sort="1791763200000">
+<a href="https://open.spotify.com/episode/0rMuGssWVG9DR3IcfZ9Abt" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8a89a843ca20e4612303d15697" class="thumbnail-image card-img" style="height: 150px;">
@@ -1091,8 +1205,8 @@ Flirting with Models
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="18" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1791582485000">
-<a href="https://theovershoot.co/p/found-americas-missing-interest-income" class="quarto-grid-link">
+<div class="g-col-1" data-index="22" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1791582485000">
+<a href="https://theovershoot.co/p/found-americas-missing-interest-income" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://substackcdn.com/image/fetch/$s_!lxZZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1627e884-f1e3-4285-99ed-18467442da22_3200x2905.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1119,8 +1233,8 @@ The Overshoot
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1790517719000">
-<a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class" class="quarto-grid-link">
+<div class="g-col-1" data-index="23" data-categories="TWFjcm8lMkNOZXdzbGV0dGVycw==" data-listing-date-sort="1790517719000">
+<a href="https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="https://substackcdn.com/image/fetch/$s_!oz9x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png" class="thumbnail-image card-img" style="height: 150px;">
@@ -1147,11 +1261,11 @@ Apricitas Economics
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="20" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1755129600000">
-<a href="https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv" class="quarto-grid-link">
+<div class="g-col-1" data-index="24" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1755129600000">
+<a href="https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1173,11 +1287,11 @@ The Journal.
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="21" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1755043200000">
-<a href="https://open.spotify.com/episode/6GFarbvdU5O14csxmOxIzG" class="quarto-grid-link">
+<div class="g-col-1" data-index="25" data-categories="UG9kY2FzdHM=" data-listing-date-sort="1755043200000">
+<a href="https://open.spotify.com/episode/6GFarbvdU5O14csxmOxIzG" class="quarto-grid-link no-external-icon">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" data-src="https://i.scdn.co/image/ab6765630000ba8afed98c4fdc504416141e9409" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -1201,6 +1315,9 @@ The Journal.
 </div>
 </div>
 <div class="listing-no-matching d-none">Sem itens correspondentes</div>
+<nav id="feed-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 </section>
 </div>
@@ -1213,15 +1330,50 @@ The Journal.
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
     if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-      const a = window.document.createElement('a');
-      a.classList.add('top-right');
-      a.classList.add('quarto-color-scheme-toggle');
-      a.href = "";
-      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const toggle = window.document.createElement('button');
+      toggle.type = "button";
+      toggle.setAttribute("role", "switch");
+      toggle.setAttribute("aria-checked", "false");
+      toggle.classList.add('top-right');
+      toggle.classList.add('quarto-color-scheme-toggle');
+      toggle.setAttribute("aria-label", "Alternar modo escuro");
+      toggle.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
       const i = window.document.createElement("i");
       i.classList.add('bi');
-      a.appendChild(i);
-      window.document.body.appendChild(a);
+      toggle.appendChild(i);
+      // Put the toggle in a landmark of its own, so that landmark navigation
+      // can reach it.
+      //
+      // The container is always a fresh direct child of body, and the toggle is
+      // never moved into page furniture that the theme or the author controls.
+      // The toggle is positioned against the page, so any ancestor that
+      // establishes a containing block captures it: a positioned element or a
+      // grid for position: absolute, and transform, filter, will-change or
+      // contain for position: fixed. A direct child of body has none of these
+      // to inherit, and the shift when one appears is silent and visual.
+      //
+      // ARIA says a document should have at most one banner, and axe reports a
+      // duplicate whether or not the banners carry distinct labels. So use a
+      // header when the page has no banner yet, and a named region otherwise.
+      //
+      // A header is a banner wherever it sits, unless it is inside sectioning
+      // content, so this cannot just look at the children of body: a custom
+      // page layout wraps the title block header in a plain div. An explicit
+      // role="banner" always counts.
+      const sectioning = 'article, aside, main, nav, section, [role="article"], [role="complementary"], [role="main"], [role="navigation"], [role="region"]';
+      const hasBanner = Array.from(
+        window.document.querySelectorAll('header:not([role]), [role="banner"]')
+      ).some(function(el) {
+        return el.hasAttribute("role") || el.closest(sectioning) === null;
+      });
+      const container = window.document.createElement(hasBanner ? "div" : "header");
+      if (hasBanner) {
+        container.setAttribute("role", "region");
+        container.setAttribute("aria-label", "Alternar modo escuro");
+      }
+      container.classList.add('quarto-color-scheme-toggle-container');
+      container.appendChild(toggle);
+      window.document.body.appendChild(container);
     }
     setColorSchemeToggle(hasAlternateSentinel())
     const icon = "";
@@ -1296,11 +1448,30 @@ The Journal.
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
         var filterRegex = new RegExp("https:\/\/lucas-leme\.github\.io\/blog\/");
+      const newWindowLabel = "(opens in a new tab)";
+      const newWindowNoteId = "quarto-ext-newwindow-label";
+      // Links reference one hidden label through aria-describedby, so the
+      // announcement never changes their accessible name.
+      var describeNewWindow = (link) => {
+        if (!window.document.getElementById(newWindowNoteId)) {
+          var newWindowNote = window.document.createElement("span");
+          newWindowNote.id = newWindowNoteId;
+          newWindowNote.hidden = true;
+          newWindowNote.textContent = newWindowLabel;
+          window.document.body.appendChild(newWindowNote);
+        }
+        var describedBy = (link.getAttribute("aria-describedby") || "").split(/\s+/).filter(Boolean);
+        if (!describedBy.includes(newWindowNoteId)) {
+          describedBy.push(newWindowNoteId);
+          link.setAttribute("aria-describedby", describedBy.join(" "));
+        }
+      }
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
       // Inspect non-navigation links and adorn them if external
-     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      window.quartoDecorateExternalLinks = function (root) {
+     var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
       for (var i=0; i<links.length; i++) {
         const link = links[i];
         if (!isInternal(link.href)) {
@@ -1314,8 +1485,70 @@ The Journal.
             if (link.getAttribute("rel") === null) {
               link.setAttribute("rel", "noopener");
             }
+            describeNewWindow(link);
+          if (!link.classList.contains('no-external-icon')) {
+          }
         }
       }
+      };
+      window.quartoDecorateExternalLinks(window.document);
+    // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+    // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+    const hideOnEscAndFocusOut = {
+      name: 'hideOnEscAndFocusOut',
+      defaultValue: true,
+      fn(instance) {
+        const dismiss = () => {
+          // A show scheduled by the trigger delay would otherwise reopen it
+          instance.clearDelayTimeouts();
+          instance.hide();
+        };
+        const onKeyDown = (event) => {
+          if (event.key !== 'Escape') {
+            return;
+          }
+          // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+          // except an open reveal.js slide menu, which Esc should close too.
+          // The menu handles keys only when its keyboard option is on.
+          const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+            window.Reveal.getConfig().menu?.keyboard !== false;
+          if (!menuHandlesEsc) {
+            event.stopPropagation();
+          }
+          if (instance.popper.contains(window.document.activeElement)) {
+            // Disabled while refocusing so the focus trigger does not reopen it
+            instance.disable();
+            instance.reference.focus();
+            instance.enable();
+          }
+          dismiss();
+        };
+        const onFocusOut = (event) => {
+          const target = event.relatedTarget;
+          if (target && !instance.reference.contains(target) &&
+              !instance.popper.contains(target)) {
+            dismiss();
+          }
+        };
+        // On the trigger too: a click trigger (code-annotations: select) has no
+        // blur handling. Attached for the instance's lifetime so leaving the
+        // trigger also cancels a show still pending on the trigger delay.
+        instance.reference.addEventListener('focusout', onFocusOut);
+        return {
+          onShow() {
+            window.document.addEventListener('keydown', onKeyDown, true);
+            instance.popper.addEventListener('focusout', onFocusOut);
+          },
+          onHide() {
+            window.document.removeEventListener('keydown', onKeyDown, true);
+            instance.popper.removeEventListener('focusout', onFocusOut);
+          },
+          onDestroy() {
+            instance.reference.removeEventListener('focusout', onFocusOut);
+          },
+        };
+      },
+    };
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
       const config = {
         allowHTML: true,
@@ -1329,6 +1562,7 @@ The Journal.
         interactiveBorder: 10,
         theme: 'quarto',
         placement: 'bottom-start',
+        plugins: [hideOnEscAndFocusOut],
       };
       if (contentFn) {
         config.content = contentFn;
@@ -1491,44 +1725,54 @@ The Journal.
           const lineIds = lines.map((line) => {
             return targetCell + "-" + line;
           })
-          let top = null;
-          let height = null;
-          let parent = null;
+          // Each band is positioned against its own containing block, which is
+          // not the offsetParent of the lines, so place it from client rects.
+          const placeBand = (band, firstEl, lastEl, codeBlock) => {
+            const container = band.offsetParent;
+            if (container === null) {
+              return;
+            }
+            const containerRect = container.getBoundingClientRect();
+            // Reveal.js scales slides with a transform, so convert client
+            // pixels back to the CSS pixels of the container.
+            const scale = containerRect.height / container.offsetHeight || 1;
+            const firstRect = firstEl.getBoundingClientRect();
+            const lastRect = lastEl.getBoundingClientRect();
+            const top = (firstRect.top - containerRect.top) / scale - container.clientTop + container.scrollTop;
+            const height = (lastRect.bottom - firstRect.top) / scale;
+            band.style.top = top - 2 + "px";
+            band.style.height = height + 4 + "px";
+            if (codeBlock) {
+              // Without the copy button wrapper, the containing block is wider
+              // than the code block, so span the code block explicitly.
+              const blockRect = codeBlock.getBoundingClientRect();
+              band.style.left = (blockRect.left - containerRect.left) / scale - container.clientLeft + container.scrollLeft + "px";
+              band.style.width = blockRect.width / scale + "px";
+            }
+          };
           if (lineIds.length > 0) {
-              //compute the position of the single el (top and bottom and make a div)
-              const el = window.document.getElementById(lineIds[0]);
-              top = el.offsetTop;
-              height = el.offsetHeight;
-              parent = el.parentElement.parentElement;
-            if (lineIds.length > 1) {
-              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-              height = bottom - top;
+            const el = window.document.getElementById(lineIds[0]);
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const parent = el.parentElement.parentElement;
+            // cook up a div (if necessary) and position it
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
             }
-            if (top !== null && height !== null && parent !== null) {
-              // cook up a div (if necessary) and position it 
-              let div = window.document.getElementById("code-annotation-line-highlight");
-              if (div === null) {
-                div = window.document.createElement("div");
-                div.setAttribute("id", "code-annotation-line-highlight");
-                div.style.position = 'absolute';
-                parent.appendChild(div);
-              }
-              div.style.top = top - 2 + "px";
-              div.style.height = height + 4 + "px";
-              div.style.left = 0;
-              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-              if (gutterDiv === null) {
-                gutterDiv = window.document.createElement("div");
-                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-                gutterDiv.style.position = 'absolute';
-                const codeCell = window.document.getElementById(targetCell);
-                const gutter = codeCell.querySelector('.code-annotation-gutter');
-                gutter.appendChild(gutterDiv);
-              }
-              gutterDiv.style.top = top - 2 + "px";
-              gutterDiv.style.height = height + 4 + "px";
+            placeBand(div, el, lastEl, parent.closest("div.sourceCode") || parent);
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
             }
+            placeBand(gutterDiv, el, lastEl);
             selectedAnnoteEl = annoteEl;
           }
         };
@@ -1626,6 +1870,9 @@ The Journal.
       }
     }
   });
+  </script>
+  <script type="application/javascript">
+  window.quartoScrollableRegionsLabels = {"code":"Código deslocável","output":"Saída deslocável"};
   </script>
 </div> <!-- /content -->
 <footer class="footer">
