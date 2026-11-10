@@ -1,5 +1,5 @@
 - author: CFA Institute Research and Policy Center
-  categories: &id001
+  categories: &id002
   - CFA
   date: '2026-11-18T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Til Schuermann
@@ -15,7 +15,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-10T21:00:05.661355'
+  date: '2026-11-10T23:30:30.621196'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -29,7 +29,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-10T21:00:05.661352'
+  date: '2026-11-10T23:30:30.621192'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -46,7 +46,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-10T21:00:05.661348'
+  date: '2026-11-10T23:30:30.621188'
   description: "<div class=\"ExternalClassCE0CA2BC16B346BBBFF2CE3DA40C38A4\"><p>\u200B\
     O ambiente externo tornou-se mais adverso em fun\xE7\xE3o do prolongamento dos\
     \ conflitos armados no Oriente M\xE9dio, com impactos altistas sobre o pre\xE7\
@@ -139,7 +139,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-10T21:00:05.661339'
+  date: '2026-11-10T23:30:30.621179'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais adverso em fun\xE7\xE3\
@@ -408,51 +408,98 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/04112026
   title: "BC - Copom Ata - 282\xAA Reuni\xE3o - 3-4 novembro, 2026"
-- author: CFA Institute Research and Policy Center
-  categories: *id001
-  date: '2026-11-10T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/are-ai-investors-the-next-noise-traders
-  title: Are AI Investors the Next Noise Traders?
-- author: Brazil Journal - Latest news
-  categories: &id002
-  - Economia
-  date: '2026-11-10T03:34:00+00:00'
-  description: "Michael Bloomberg j\xE1 tinha tudo: uma fortuna feita em m\xEDdia,\
-    \ uma vasta contribui\xE7\xE3o ao servi\xE7o p\xFAblico na cidade de Nova York\
-    \ e um legado filantr\xF3pico j\xE1 estabelecido. Faltava s\xF3 celebrar o amor\
-    \ \u2013 neste caso, um amor nascido 25 anos atr\xE1s, e por acaso."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/o-casamento-de-michael-bloomberg
-  title: O casamento de Michael Bloomberg
-- author: Brazil Journal - Latest news
-  categories: *id002
-  date: '2026-11-09T23:46:00+00:00'
-  description: "Quatro meses depois de assumir como CEO, Christian Egan est\xE1 fazendo\
-    \ uma das maiores mudan\xE7as na diretoria estatut\xE1ria da B3 \u2013 numa tentativa\
-    \ de tornar a companhia mais \xE1gil e competitiva num mercado de concorr\xEA\
-    ncia crescente.&nbsp; <strong>Rodrigo Freire</strong>, que trabalhou com Egan\
-    \ na Tivio \u2013 uma gestora controlada pelo Bradesco \u2013 vai ocupar o novo\
-    \ cargo de \u201Cvice-presidente de estrat\xE9gia e novos neg\xF3cios\u201D a\
-    \ partir de janeiro. Ele foi CEO da Tivio at\xE9 o m\xEAs passado."
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/b3-mexe-na-diretoria-e-cria-escritorio-de-transformacao
-  title: "B3 mexe na diretoria e cria \u201Cescrit\xF3rio de transforma\xE7\xE3o\u201D"
 - author: AQR
   categories:
   - Quant
   - Papers
-  date: '2026-11-09T23:05:57+00:00'
+  date: '2026-11-10T23:30:28+00:00'
   description: 'Feed does not exists. It was deleted a long time ago. Or never existed
     at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
     with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-11-10T23:08:00+00:00'
+  description: "Os eleitores da Calif\xF3rnia rejeitaram na segunda-feira a Proposition\
+    \ 40, que criaria o primeiro imposto sobre grandes fortunas dos Estados Unidos,\
+    \ cobrando uma taxa \xFAnica de 5% sobre o patrim\xF4nio de moradores do estado\
+    \ com mais de US$ 1 bilh\xE3o.&nbsp; Com cerca de 83% dos votos apurados, a proposta\
+    \ tinha apenas 47% de apoio. A defini\xE7\xE3o levou quase uma semana depois da\
+    \ elei\xE7\xE3o porque a maioria do estado vota pelo correio, e as c\xE9dulas\
+    \ postadas at\xE9 o dia da vota\xE7\xE3o s\xE3o aceitas se chegarem em at\xE9\
+    \ sete dias."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/california-rejeita-imposto-sobre-bilionarios
+  title: "Calif\xF3rnia rejeita imposto sobre bilion\xE1rios"
+- author: Brazil Journal - Latest news
+  categories: *id001
+  date: '2026-11-10T22:53:00+00:00'
+  description: "A Aegea acaba de anunciar Marco Rabello como seu novo CFO, trazendo\
+    \ um executivo que at\xE9 ontem liderava a diretoria financeira da CSN. Embora\
+    \ esteja migrando da siderurgia para o saneamento, Rabello ter\xE1 pela frente\
+    \ uma tarefa bastante familiar."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/o-novo-cfo-da-aegea-e-sua-complexa-missao
+  title: "O novo CFO da Aegea \u2013 e sua complexa miss\xE3o"
+- author: CFA Institute Research and Policy Center
+  categories: *id002
+  date: '2026-11-10T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/are-ai-investors-the-next-noise-traders
+  title: Are AI Investors the Next Noise Traders?
 - author: Market Makers
   categories: &id003
   - Podcasts
+  date: '2026-11-10T00:00:00+00:00'
+  description: "\xC9 poss\xEDvel investir em renda fixa e a\xE7\xF5es sem precisar\
+    \ emitir DARF sobre o lucro na venda de um ETF? E, depois da reelei\xE7\xE3o de\
+    \ Lula, onde est\xE3o as melhores oportunidades para proteger e rentabilizar o\
+    \ patrim\xF4nio?Neste epis\xF3dio do Market Makers, Thiago Salom\xE3o e Leopoldo\
+    \ Rosa recebem Bruno Stein, s\xF3cio da Gal\xE1pagos Capital e especialista com\
+    \ 25 anos de experi\xEAncia em ETFs, para uma conversa sobre o futuro dos investimentos\
+    \ no Brasil, a tributa\xE7\xE3o dos fundos de \xEDndice e as oportunidades em\
+    \ um cen\xE1rio de juros elevados e incerteza econ\xF4mica.Depois de atravessar\
+    \ nove elei\xE7\xF5es e crises hist\xF3ricas como a quebra do Lehman Brothers\
+    \ em 2008, Bruno explica por que a renda fixa brasileira e a bolsa internacional\
+    \ est\xE3o entre suas principais escolhas neste momento.Ele tamb\xE9m apresenta\
+    \ a Fam\xEDlia F\xE1cil, uma nova linha de ETFs da Gal\xE1pagos que combina 80%\
+    \ em renda fixa e 20% em a\xE7\xF5es, com propostas de exposi\xE7\xE3o ao Ibovespa,\
+    \ dividendos, S&amp;P 500 e bolsa mundial.Neste epis\xF3dio, voc\xEA vai descobrir:-Onde\
+    \ investir depois da reelei\xE7\xE3o de Lula: renda fixa, bolsa brasileira ou\
+    \ d\xF3lar?-Como funcionam os ETFs de renda fixa e quais s\xE3o suas vantagens\
+    \ tribut\xE1rias.-Por que determinados ETFs permitem o recolhimento autom\xE1\
+    tico do Imposto de Renda, dispensando a emiss\xE3o de DARF pelo investidor.-Como\
+    \ funciona a combina\xE7\xE3o de 80% de renda fixa e 20% de renda vari\xE1vel.-Quais\
+    \ s\xE3o os ETFs FBOV11, FDIV11, FSPY11 e FMUN11.-O que diferencia ETFs, Tesouro\
+    \ Direto, CDBs, LCIs e LCAs.-Por que a ind\xFAstria brasileira de ETFs pode alcan\xE7\
+    ar R$ 1 trilh\xE3o at\xE9 2029/2030.-O que as crises de 2008 e da pandemia ensinam\
+    \ sobre proteger o patrim\xF4nio.Bruno tamb\xE9m explica por que acredita que\
+    \ os ETFs n\xE3o v\xE3o acabar com toda a gest\xE3o ativa, mas podem transformar\
+    \ o futuro dos fundos de investimento no Brasil.E voc\xEA: onde prefere investir\
+    \ neste cen\xE1rio \u2014 renda fixa brasileira, bolsa nacional ou mercado americano?\
+    \ Conta nos coment\xE1rios!Conhe\xE7a os ETFs da Gal\xE1pagos Capital: https://galapagoscapital.com\U0001F4CC\
+    \ Inscreva-se no canal e ative as notifica\xE7\xF5es para n\xE3o perder nenhum\
+    \ epis\xF3dio!\U0001F4E2Apoie o Market Makers e ajude a fortalecer o mercado de\
+    \ capitais no Brasil! Clique no link e torne-se membro do nosso canal por apenas\
+    \ R$11,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
+    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
+    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
+    \ Market Makers: https://lp.mmakers.com.br/biblioteca/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
+    \ - - - - - - - -O MAIOR ERRO DOS INVESTIDORES DEPOIS DA ELEI\xC7\xC3O | Market\
+    \ Makers #435Apresentadores: Thiago Salom\xE3o (Apresentador do Market Makers)\
+    \ e Leopoldo Rosa (COO do Market Makers)Convidado: Bruno Stein (S\xF3cio e respons\xE1\
+    vel por ETFs da Galapagos Capital)Edi\xE7\xE3o: Pedro PereiraCapta\xE7\xE3o: Renan\
+    \ Moncoski#BOLSADEVALORES #INVESTIMENTOS #MERCADOFINANCEIRO #MARKETMAKERS #THIAGOSALOM\xC3\
+    O"
+  image: https://i.scdn.co/image/ab6765630000ba8abae92d0ce9b23f3f092d13ba
+  path: https://open.spotify.com/episode/2RuwKN1ULlGATq56JVDp6l
+  title: "#435 | O MAIOR ERRO DOS INVESTIDORES DEPOIS DA ELEI\xC7\xC3O"
+- author: Market Makers
+  categories: *id003
   date: '2026-11-09T00:00:00+00:00'
   description: "O que realmente importa depois de conquistar tanto? Por que Sergio\
     \ Rial, ex-CEO do Santander Brasil, acredita que o dinheiro pode se tornar uma\
@@ -488,7 +535,7 @@
     \ Market Makers: https://lp.mmakers.com.br/biblioteca/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
     \ - - - - - - - -Salom\xE3o Entrevista: Sergio RialEdi\xE7\xE3o: Igor Conrado\
     \ e Pedro PereiraCapta\xE7\xE3o: Renan Moncoski#SERGIORIAL #THIAGOSALOMAO #ENTREVISTA"
-  image: https://i.scdn.co/image/ab6765630000ba8ac9ee95b8150fd892f8c10a48
+  image: https://i.scdn.co/image/ab6765630000ba8a85bbff736c91cc6b5412011b
   path: https://open.spotify.com/episode/4Jxpq4MqSKNoBoVXFrlKpX
   title: "EX-CEO DO SANTANDER: \"O DINHEIRO SE TORNOU PERIGOS\xCDSSIMO!\" | SERGIO\
     \ RIAL"
@@ -557,53 +604,6 @@
   image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
   path: https://open.spotify.com/episode/7gIQXA9oFXYKeEocHmS7vV
   title: The Value and Joy of Hard Work
-- author: Market Makers
-  categories: *id003
-  date: '2026-11-05T00:00:00+00:00'
-  description: "Como era poss\xEDvel ganhar uma fortuna na Bolsa brasileira quando,\
-    \ nas palavras de Ivan Sant'Anna, o mercado era roubado? E como um dos traders\
-    \ mais experientes do Brasil acabou pagando seus clientes do pr\xF3prio bolso\
-    \ e ficando sem nada?Aos 86 anos, Ivan Sant'Anna est\xE1 de volta ao Market Makers\
-    \ para contar hist\xF3rias extraordin\xE1rias de quase sete d\xE9cadas no mercado\
-    \ financeiro. Ao lado de Thiago Salom\xE3o e Greco Prado, do Curioso Mercado,\
-    \ ele revela os bastidores de uma \xE9poca em que operadores ganhavam fortunas,\
-    \ grandes institui\xE7\xF5es financeiras surgiam e desapareciam, e a Bolsa brasileira\
-    \ funcionava de uma maneira muito diferente da atual.Ivan come\xE7ou sua trajet\xF3\
-    ria em 1958, viveu o grande boom da Bolsa entre 1968 e 1971, participou da era\
-    \ de ouro do open market e enfrentou a quebra de 1977, quando decidiu pagar investidores\
-    \ com o pr\xF3prio patrim\xF4nio.Mas sua hist\xF3ria n\xE3o terminou ali. Ele\
-    \ voltou ao mercado, operou commodities internacionais, testemunhou grandes movimentos\
-    \ especulativos e se tornou autor de livros como Os Mercadores da Noite, Rapina\
-    \ e Caixa Preta.Neste epis\xF3dio, voc\xEA vai descobrir:-Como os operadores ganhavam\
-    \ fortunas na Bolsa dos anos 1970 e por que Ivan afirma que o mercado era roubado.-Como\
-    \ funcionava o open market, que ajudou a construir algumas das maiores fortunas\
-    \ do mercado financeiro brasileiro.-O que aconteceu na quebra de 1977 e por que\
-    \ Ivan decidiu pagar seus clientes do pr\xF3prio bolso.-As hist\xF3rias de grandes\
-    \ personagens do mercado financeiro, incluindo Jorge Paulo Lemann, Edmund Safra\
-    \ e Naji Nahas.-Quais sinais Ivan observa para identificar poss\xEDveis excessos\
-    \ e o fim de grandes ciclos de alta da Bolsa.-Como ele enxerga as oportunidades\
-    \ em commodities, especialmente a\xE7\xFAcar e petr\xF3leo.-Como deixou o mercado\
-    \ financeiro para se tornar escritor e roteirista da TV Globo.Al\xE9m disso, Ivan\
-    \ comenta o caso Banco Master, os desafios da economia brasileira, sua experi\xEA\
-    ncia com grandes crises financeiras e o que realmente significa ser rico depois\
-    \ de uma vida inteira ganhando e perdendo dinheiro.Uma conversa sobre dinheiro,\
-    \ especula\xE7\xE3o, risco, ambi\xE7\xE3o, \xE9tica e as li\xE7\xF5es que s\xF3\
-    \ o tempo pode ensinar.\U0001F4CC Inscreva-se no canal e ative as notifica\xE7\
-    \xF5es para n\xE3o perder nenhum epis\xF3dio!\U0001F4E2Apoie o Market Makers e\
-    \ ajude a fortalecer o mercado de capitais no Brasil! Clique no link e torne-se\
-    \ membro do nosso canal por apenas R$11,99 por m\xEAs: https://www.youtube.com/channel/UCwZwvDC6f0WhcVTG-3aBUTQ/join\U0001F4E9\
-    Entre para nossa newsletter gratuita: https://lp.mmakers.com.br/newsletter_gratuita?xpromo=MI-COMP-YT-DESCRICAO-MM-X\U0001F4E2\
-    \ Anuncie sua marca no Market Makers: comercial@mmakers.com.br\U0001F4DABiblioteca\
-    \ Market Makers: https://lp.mmakers.com.br/biblioteca/?xpromo=MI-COMP-YT-DESCRICAO-MM-X-\
-    \ - - - - - - - -AS HIST\xD3RIAS EXTRAORDIN\xC1RIAS DE UMA LENDA DO MERCADO (IVAN\
-    \ SANT'ANNA) | Market Makers #434Apresentadores: Thiago Salom\xE3o (Apresentador\
-    \ do Market Makers) e Leopoldo Rosa (COO do Market Makers)Convidado: Ivan Sant'annaEdi\xE7\
-    \xE3o: Pedro PereiraCapta\xE7\xE3o : Renan Moncoski#IVANSANTANNA #BOLSADEVALORES\
-    \ #INVESTIMENTOS #MERCADOFINANCEIRO #MARKETMAKERS #THIAGOSALOM\xC3O"
-  image: https://i.scdn.co/image/ab6765630000ba8a22e6bae5bd4351911de038b5
-  path: https://open.spotify.com/episode/2T7FodXzrwuMoOGVBcXhy6
-  title: "#434 | AS HIST\xD3RIAS EXTRAORDIN\xC1RIAS DE UMA LENDA DO MERCADO (IVAN\
-    \ SANT'ANNA)"
 - author: Money Talks from The Economist
   categories:
   - Podcasts
