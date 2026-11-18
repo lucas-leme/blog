@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-18T21:31:09.499753'
+  date: '2026-11-18T22:19:46.921973'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-18T21:31:09.499744'
+  date: '2026-11-18T22:19:46.921970'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-18T21:31:09.499707'
+  date: '2026-11-18T22:19:46.921966'
   description: "<div class=\"ExternalClassCE0CA2BC16B346BBBFF2CE3DA40C38A4\"><p>\u200B\
     O ambiente externo tornou-se mais adverso em fun\xE7\xE3o do prolongamento dos\
     \ conflitos armados no Oriente M\xE9dio, com impactos altistas sobre o pre\xE7\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-18T21:31:09.499695'
+  date: '2026-11-18T22:19:46.921955'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais adverso em fun\xE7\xE3\
@@ -395,8 +395,19 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/04112026
   title: "BC - Copom Ata - 282\xAA Reuni\xE3o - 3-4 novembro, 2026"
+- author: AQR
+  categories:
+  - Quant
+  - Papers
+  date: '2026-11-18T22:19:45+00:00'
+  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
+    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
+    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
+  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
+  path: https://fetchrss.com
+  title: Feed does not exists
 - author: Brazil Journal - Latest news
-  categories: &id001
+  categories: &id003
   - Economia
   date: '2026-11-18T20:46:00+00:00'
   description: "A Gabriel \u2013 a startup de c\xE2meras de seguran\xE7a com intelig\xEA\
@@ -409,8 +420,15 @@
   path: https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel
   title: "Desenvolve SP vai financiar c\xE2meras 3.0 da Gabriel"
 - author: CFA Institute Research and Policy Center
-  categories: &id002
+  categories: &id001
   - CFA
+  date: '2026-11-18T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/cape-fear-why-high-stock-market-valuations
+  title: Cape Fear  and Why High Stock Market Valuations Don't Predict a Crash
+- author: CFA Institute Research and Policy Center
+  categories: *id001
   date: '2026-11-18T12:00:00+00:00'
   description: In this episode of Conversations with Frank Fabozzi, CFA, Til Schuermann
     examines how portfolio managers can navigate an increasingly uncertain and interconnected
@@ -421,8 +439,26 @@
   image: null
   path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-til-schuermann
   title: Conversations with Frank Fabozzi, CFA, Featuring Til Schuermann
+- author: Klement on Investing
+  categories: &id002
+  - Macro
+  - Newsletters
+  date: '2026-11-18T09:40:15+00:00'
+  description: My latest piece for Reuters is out this morning and I talk a little
+    bit about whether this bubble will pop or just slowly deflate.
+  image: https://substack-post-media.s3.amazonaws.com/public/images/7fae4b7c-84c5-4036-9ce4-28b4350a4bc5_470x320.jpeg
+  path: https://klementoninvesting.substack.com/p/what-the-last-two-bubbles-tell-us
+  title: What the last two bubbles tell us about the AI boom
+- author: Klement on Investing
+  categories: *id002
+  date: '2026-11-18T07:01:08+00:00'
+  description: I keep coming back to this post on why I think working in finance is
+    so fascinating and never boring.
+  image: https://substack-post-media.s3.amazonaws.com/public/images/179c4c44-af83-40f5-bfa8-40f52683d092_705x370.png
+  path: https://klementoninvesting.substack.com/p/the-changing-stock-market-reaction
+  title: The changing stock market reaction to inflation surprises
 - author: Brazil Journal - Latest news
-  categories: *id001
+  categories: *id003
   date: '2026-11-18T00:51:00+00:00'
   description: "Quatro anos depois que o ChatGPT deu in\xEDcio ao boom da intelig\xEA\
     ncia artificial, a Anthropic deve concluir amanh\xE3 o maior IPO da hist\xF3ria,\
@@ -433,7 +469,7 @@
   path: https://braziljournal.com/anthropic-o-maior-ipo-da-historia
   title: "Anthropic, o maior IPO da hist\xF3ria"
 - author: Market Makers
-  categories: &id003
+  categories: &id004
   - Podcasts
   date: '2026-11-18T00:00:00+00:00'
   description: "Ser\xE1 que a elite brasileira realmente conhece o Brasil? Por que\
@@ -481,19 +517,8 @@
   image: https://i.scdn.co/image/ab6765630000ba8a5e8af3ee9b13fb122e8740f8
   path: https://open.spotify.com/episode/1o06N11ibNJ6HTvBY5fPHb
   title: "#437 | OS EVANG\xC9LICOS APOIARAM A DIREITA. ENT\xC3O POR QUE LULA VENCEU?"
-- author: AQR
-  categories:
-  - Quant
-  - Papers
-  date: '2026-11-17T21:51:55+00:00'
-  description: 'Feed does not exists. It was deleted a long time ago. Or never existed
-    at all.<br /><br /><span style="font-size: 12px; color: gray;">(Feed generated
-    with <a href="https://fetchrss.com/feedLink?w=" target="_blank">FetchRSS</a>)</span>'
-  image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
-  path: https://fetchrss.com
-  title: Feed does not exists
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-11-17T18:39:57+00:00'
@@ -519,13 +544,6 @@
   image: https://i4.ytimg.com/vi/KTDJiVpSDTI/hqdefault.jpg
   path: https://www.youtube.com/watch?v=KTDJiVpSDTI
   title: Can You Trust MKBHD?
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-11-17T12:00:00+00:00'
-  description: ''
-  image: null
-  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/private-markets-in-retirement-plans-are-fiduciaries-prepared
-  title: 'Private Markets in Retirement Plans: Are Fiduciaries Prepared?'
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -550,7 +568,7 @@
   title: "Richard Falk-Wallace \u2013\_Risk Models for the Front Office with Arcana\
     \ (S8E1)"
 - author: Market Makers
-  categories: *id003
+  categories: *id004
   date: '2026-11-15T00:00:00+00:00'
   description: "Como um menino da periferia de Guarulhos se tornou CEO do Grupo Botic\xE1\
     rio? E qual foi a habilidade que permitiu a Fernando Mod\xE9 chegar ao topo de\
@@ -601,7 +619,7 @@
   title: "CEO DO BOTIC\xC1RIO: \"EU GOSTO DE SER O CARA MAIS BURRO DA SALA\" | FERNANDO\
     \ MOD\xC9"
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -638,7 +656,7 @@
   path: https://open.spotify.com/episode/0Z8Ls23ED83934ll3Ojg41
   title: Being An Expert on a Life You Don't Actually Want
 - author: The Overshoot
-  categories: &id006
+  categories: &id007
   - Macro
   - Newsletters
   date: '2026-11-12T09:06:44+00:00'
@@ -668,7 +686,7 @@
   path: https://open.spotify.com/episode/2CX7AJKwmAzc6BtzZemQMh
   title: How to prepare for an AI world
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-11-11T18:43:56+00:00'
   description: 'Incredible laptop. But don''t get distracted.
 
@@ -714,8 +732,18 @@
   image: https://i.scdn.co/image/ab6765630000ba8a08cd5198aa926a24b95d9b2a
   path: https://open.spotify.com/episode/2rLuM0fa9yPUJ14jpSCwmV
   title: 'Risk & Rebalance: Four Dynamics Reshaping Portfolios'
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id008
+  - Macro
+  - Newsletters
+  date: '2026-11-08T23:27:01+00:00'
+  description: AI can do the tasks. The mission still needs people, especially young
+    ones.
+  image: https://substackcdn.com/image/fetch/$s_!Puld!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6783cd4a-683a-4941-a6d7-bc38bddc10dd_960x640.png
+  path: https://stayathomemacro.substack.com/p/ode-to-the-juniors
+  title: Ode to the Juniors
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-11-06T16:00:29+00:00'
   description: "\U0001F9F1 Build software that lasts. Join the Software Design Mastery\
     \ program \u2192 https://arjan.codes/mastery.\n\nAI coding agents can write code\
@@ -735,7 +763,7 @@
   path: https://www.youtube.com/watch?v=oFtTodDCbkE
   title: 7 Things AI Coding Agents Get Wrong (Because You Let Them)
 - author: The Overshoot
-  categories: *id006
+  categories: *id007
   date: '2026-11-03T08:51:58+00:00'
   description: The labs are becoming hyperscalers, imports are continuing to surge,
     and investment further up the supply chain is rising in response to the tight
@@ -743,6 +771,15 @@
   image: https://substackcdn.com/image/fetch/$s_!sN-I!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F807f9a62-8e9b-417d-b11b-847aa3132720_3195x2770.png
   path: https://theovershoot.co/p/the-changing-shape-of-the-us-ai-capex
   title: The Changing Shape of the U.S. AI Capex Boom
+- author: Stay-At-Home Macro (SAHM)
+  categories: *id008
+  date: '2026-11-02T16:05:39+00:00'
+  description: 'Warsh says to interrogate reality. Fine. The reality of Fed comms:
+    follow Williams for the committee view, and expect Congress to have questions
+    of its own.'
+  image: https://substackcdn.com/image/fetch/$s_!sLik!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3c52c8d-6424-48a0-a1a7-93c814eb30db_1024x683.jpeg
+  path: https://stayathomemacro.substack.com/p/interrogating-confusion-at-the-fed
+  title: Interrogating confusion at the Fed
 - author: Liberty Street Economics
   categories:
   - Macro
@@ -763,7 +800,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
   title: How Do Banking Supervisors Deal with Failing Banks?
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id009
   - Macro
   - Newsletters
   date: '2026-10-25T17:30:53+00:00'
@@ -773,7 +810,7 @@
   path: https://www.apricitas.io/p/how-canada-is-decoupling-from-the
   title: How Canada is Decoupling From the US
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id009
   date: '2026-09-27T14:01:59+00:00'
   description: America is Losing Hundreds of Thousands of Jobs in Media, Film & the
     Arts. How Much is AI to Blame?
@@ -781,7 +818,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: The Journal.
-  categories: &id008
+  categories: &id010
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -797,7 +834,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id010
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
