@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-19T07:44:30.279729'
+  date: '2026-11-19T19:23:04.861204'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-19T07:44:30.279725'
+  date: '2026-11-19T19:23:04.861200'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-19T07:44:30.279721'
+  date: '2026-11-19T19:23:04.861196'
   description: "<div class=\"ExternalClassCE0CA2BC16B346BBBFF2CE3DA40C38A4\"><p>\u200B\
     O ambiente externo tornou-se mais adverso em fun\xE7\xE3o do prolongamento dos\
     \ conflitos armados no Oriente M\xE9dio, com impactos altistas sobre o pre\xE7\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-19T07:44:30.279709'
+  date: '2026-11-19T19:23:04.861186'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais adverso em fun\xE7\xE3\
@@ -398,13 +398,41 @@
 - author: Brazil Journal - Latest news
   categories: &id001
   - Economia
-  date: '2026-11-18T22:23:00+00:00'
-  description: "O Brasil nunca foi para amadores. E cada vez mais, nem para profissionais.\
-    \ Do Oiapoque ao Chu\xED, quem empreende aqui carrega uma mochila muito mais pesada\
-    \ que seus pares de outros pa\xEDses."
+  date: '2026-11-19T18:46:00+00:00'
+  description: "Daqui a quatro semanas, numa quarta-feira, 16 de dezembro, cerca de\
+    \ 700 mil comerci\xE1rios de S\xE3o Paulo e Porto Alegre come\xE7am a trabalhar\
+    \ cinco dias e folgar dois, por acordos que os sindicatos fecharam antes mesmo\
+    \ de a regra nacional apertar. A troca chega justamente no m\xEAs em que o varejo\
+    \ mais vende, e qualquer gerente de loja j\xE1 est\xE1 pensando no s\xE1bado antes\
+    \ do Natal \u2013 quando a escala, pela primeira vez, n\xE3o vai fechar com as\
+    \ mesmas pessoas de sempre."
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/custo-brasil-chega-a-27-5-do-pib-ainda-maior-do-que-se-imaginava
-  title: Custo Brasil chega a 27,5% do PIB, ainda maior do que se imaginava
+  path: https://braziljournal.com/opiniao-quem-atende-o-cliente-no-sexto-dia
+  title: "OPINI\xC3O. Quem atende o cliente no sexto dia?"
+- author: Brazil Journal - Latest news
+  categories: *id001
+  date: '2026-11-19T14:05:00+00:00'
+  description: "Os preocupantes apag\xF5es tecnol\xF3gicos dos \xFAltimos dias, que\
+    \ afetaram desde a <a href=\"https://braziljournal.com/pane-no-outlook-e-no-teams-atrasa-a-vida-de-gestoras\"\
+    \ rel=\"\" target=\"_blank\"><strong><u>Microsoft</u></strong></a> at\xE9 a National\
+    \ Security Agency dos EUA (NSA), refor\xE7aram a tese de que o mundo nunca precisou\
+    \ tanto de <em>cybersecurity</em> como agora \u2013 mas n\xE3o \xE9 de hoje que\
+    \ as a\xE7\xF5es do setor est\xE3o subindo. Os pap\xE9is de Palo Alto Networks,\
+    \ Crowdstrike e Okta praticamente dobraram de valor na Bolsa este ano, enquanto\
+    \ outros <em>players</em> como Tenable Holdings, Qualys e SentinelOne se valorizam\
+    \ pelo menos 50%."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/cybersecurity-ou-morte
+  title: Cybersecurity ou morte
+- author: CFA Institute Research and Policy Center
+  categories: &id002
+  - CFA
+  date: '2026-11-19T12:00:00+00:00'
+  description: ''
+  image: null
+  path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/rolling-ball-why-traditional-portfolios-are-vulnerable-to-inflation
+  title: "Rolling Ball: Why Traditional Portfolios Are Vulnerable to Inflation\u2014\
+    and How Investors Can Hedge"
 - author: AQR
   categories:
   - Quant
@@ -416,38 +444,13 @@
   image: https://www.aqr.com/-/media/AQR/Images/AQR-Site/Homepage/aqr-logo-blue-twitter.png
   path: https://fetchrss.com
   title: Feed does not exists
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-11-18T20:46:00+00:00'
-  description: "A Gabriel \u2013 a startup de c\xE2meras de seguran\xE7a com intelig\xEA\
-    ncia artificial \u2013 acaba de levantar uma d\xEDvida com a Desenvolve SP para\
-    \ desenvolver a pr\xF3xima gera\xE7\xE3o de sua tecnologia, um hardware capaz\
-    \ de identificar a\xE7\xF5es suspeitas e agir de forma preventiva. A capta\xE7\
-    \xE3o, de R$ 20 milh\xF5es, foi feita por meio de duas linhas de cr\xE9dito subsidiadas\
-    \ da ag\xEAncia de fomento do Estado de S\xE3o Paulo.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/desenvolve-sp-vai-financiar-cameras-30-da-gabriel
-  title: "Desenvolve SP vai financiar c\xE2meras 3.0 da Gabriel"
 - author: CFA Institute Research and Policy Center
-  categories: &id002
-  - CFA
+  categories: *id002
   date: '2026-11-18T12:00:00+00:00'
   description: ''
   image: null
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/cape-fear-why-high-stock-market-valuations
   title: Cape Fear  and Why High Stock Market Valuations Don't Predict a Crash
-- author: CFA Institute Research and Policy Center
-  categories: *id002
-  date: '2026-11-18T12:00:00+00:00'
-  description: In this episode of Conversations with Frank Fabozzi, CFA, Til Schuermann
-    examines how portfolio managers can navigate an increasingly uncertain and interconnected
-    risk environment. Drawing on his experience as Partner and Global Head of Finance
-    and Risk at Oliver Wyman and his previous work at the Federal Reserve Bank of
-    New York, he explores stress testing, model risk, liquidity, private credit, regulation,
-    and the vulnerabilities that can emerge during periods of market disruption.
-  image: null
-  path: https://rpc.cfainstitute.org/research/multimedia/2026/conversations-with-frank-fabozzi-featuring-til-schuermann
-  title: Conversations with Frank Fabozzi, CFA, Featuring Til Schuermann
 - author: Market Makers
   categories: &id003
   - Podcasts
