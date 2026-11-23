@@ -1,5 +1,22 @@
-- author: InvestNews - Economia
+- author: "InvestNews - Finan\xE7as"
   categories: &id001
+  - "Not\xEDcias"
+  date: '2026-11-17T16:38:19+00:00'
+  description: "Oferta e demanda podem ser um dos princpal determinante da cota\xE7\
+    \xE3o do d\xF3lar, mas n\xE3o \xE9 o \xFAnico"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/como-e-calculado-dolar/
+  title: "Como \xE9 calculado o d\xF3lar? Entenda por que existem cota\xE7\xF5es diferentes"
+- author: "InvestNews - Finan\xE7as"
+  categories: *id001
+  date: '2026-11-16T19:25:15+00:00'
+  description: "Receita confirma que o perd\xE3o das d\xEDvidas do MEI come\xE7a em\
+    \ janeiro de 2027"
+  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
+  path: https://investnews.com.br/financas/perdao-dividas-mei-quem-tem-direito/
+  title: "Perd\xE3o das d\xEDvidas do MEI ser\xE1 autom\xE1tico. Veja quem tem direito"
+- author: InvestNews - Economia
+  categories: &id002
   - "Not\xEDcias"
   date: '2026-11-04T19:58:52+00:00'
   description: "Cada m\xEAs com ao menos 15 dias de trabalho vale 1/12; veja a conta\
@@ -9,7 +26,7 @@
   title: "13\xBA sal\xE1rio proporcional: como funciona para quem mudou de emprego\
     \ ao longo do ano"
 - author: InvestNews - Economia
-  categories: *id001
+  categories: *id002
   date: '2026-11-04T17:53:57+00:00'
   description: "As elei\xE7\xF5es nos EUA 2026, realizadas nesta ter\xE7a-feira (3),\
     \ deram aos democratas o controle da C\xE2mara dos Representantes e do Senado,\
@@ -21,21 +38,3 @@
   path: https://investnews.com.br/economia/eleicoes-nos-eua-2026-midterms-presidencia/
   title: "Elei\xE7\xF5es nos EUA: quem sai fortalecido das midterms para disputar\
     \ a Presid\xEAncia em 2028"
-- author: "InvestNews - Finan\xE7as"
-  categories: &id002
-  - "Not\xEDcias"
-  date: '2026-11-02T11:00:00+00:00'
-  description: "Desconto limita a soma do imposto da empresa e do acionista, mas regras\
-    \ e a\xE7\xF5es judiciais seguem em aberto"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/tributacao-de-dividendos-imposto-minimo/
-  title: "Tributa\xE7\xE3o de dividendos: como funciona o imposto m\xEDnimo e o que\
-    \ falta definir"
-- author: "InvestNews - Finan\xE7as"
-  categories: *id002
-  date: '2026-10-30T19:38:02+00:00'
-  description: "Entenda quando a empresa ret\xE9m 10% e quem entra no imposto m\xED\
-    nimo na declara\xE7\xE3o de 2027"
-  image: https://yt3.googleusercontent.com/zlZlh06n3N8spGemaUPexPUk14S-DIkKTyzNVWSHCWzJoKrV354iGYDKYr-gTlStZbosSGoO-w=s160-c-k-c0x00ffffff-no-rj
-  path: https://investnews.com.br/financas/novo-ir-sobre-dividendos-2027/
-  title: "Novo IR sobre dividendos: como saber se voc\xEA vai pagar em 2027"
