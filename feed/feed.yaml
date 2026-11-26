@@ -2,7 +2,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-26T22:30:32.058845'
+  date: '2026-11-26T23:17:41.470981'
   description: "O Relat\xF3rio Focus resume as estat\xEDsticas calculadas considerando\
     \ as expectativas de mercado coletadas at\xE9 a sexta-feira anterior \xE0 sua\
     \ divulga\xE7\xE3o. Ele \xE9 divulgado toda segunda-feira. O relat\xF3rio traz\
@@ -16,7 +16,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-26T22:30:32.058840'
+  date: '2026-11-26T23:17:41.470978'
   description: "O Relat\xF3rio de Pol\xEDtica Monet\xE1ria (RPM) apresenta as diretrizes\
     \ das pol\xEDticas adotadas pelo Copom e sua avalia\xE7\xE3o da evolu\xE7\xE3\
     o recente e das perspectivas da economia, especialmente as proje\xE7\xF5es de\
@@ -33,7 +33,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-26T22:30:32.058836'
+  date: '2026-11-26T23:17:41.470972'
   description: "<div class=\"ExternalClassCE0CA2BC16B346BBBFF2CE3DA40C38A4\"><p>\u200B\
     O ambiente externo tornou-se mais adverso em fun\xE7\xE3o do prolongamento dos\
     \ conflitos armados no Oriente M\xE9dio, com impactos altistas sobre o pre\xE7\
@@ -126,7 +126,7 @@
   categories:
   - Bacen
   - BC
-  date: '2026-11-26T22:30:32.058827'
+  date: '2026-11-26T23:17:41.470961'
   description: "<div id=\"atacompleta\"><div id=\"ataconteudo\"><h3 class=\"secao\"\
     >A) Atualiza\xE7\xE3o da conjuntura econ\xF4mica e do cen\xE1rio do Copom<sup>1</sup></h3><p\
     \ class=\"paragrafo\">1. O ambiente externo tornou-se mais adverso em fun\xE7\xE3\
@@ -395,6 +395,18 @@
   image: https://classic.exame.com/wp-content/uploads/2022/02/copom-divulgacao.jpg?quality=70&strip=info&w=700
   path: https://www.bcb.gov.br/publicacoes/atascopom/04112026
   title: "BC - Copom Ata - 282\xAA Reuni\xE3o - 3-4 novembro, 2026"
+- author: Brazil Journal - Latest news
+  categories: &id001
+  - Economia
+  date: '2026-11-26T22:46:00+00:00'
+  description: "A Allied estreou na Bolsa h\xE1 cinco anos, mas raramente entrava\
+    \ no radar de grandes investidores. Um dos principais problemas da a\xE7\xE3o\
+    \ da maior distribuidora de eletr\xF4nicos do Brasil era a baixa liquidez. No\
+    \ m\xEAs passado, no entanto, um movimento pode ter deixado esse entrave para\
+    \ tr\xE1s."
+  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
+  path: https://braziljournal.com/no-pos-advent-a-liquidez-da-allied-cresceu-e-os-insiders-estao-comprando
+  title: "No p\xF3s-Advent, a liquidez da Allied cresceu, e os insiders est\xE3o comprando"
 - author: AQR
   categories:
   - Quant
@@ -407,8 +419,7 @@
   path: https://fetchrss.com
   title: Feed does not exists
 - author: Brazil Journal - Latest news
-  categories: &id001
-  - Economia
+  categories: *id001
   date: '2026-11-26T21:58:00+00:00'
   description: "A volatilidade brutal das \xFAltimas semanas levou a Real Grandeza\
     \ \u2013 o fundo de pens\xE3o patrocinado pela Axia Energia e Eletronuclear \u2013\
@@ -421,21 +432,32 @@
   image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
   path: https://braziljournal.com/a-estrategia-anticlimatica-de-um-fundo-de-pensao
   title: "A estrat\xE9gia anticlim\xE1tica de um fundo de pens\xE3o"
-- author: Brazil Journal - Latest news
-  categories: *id001
-  date: '2026-11-26T09:50:00+00:00'
-  description: "A Avra \u2013 uma startup brasileira que desenvolveu um modelo fundacional\
-    \ de AI focado em decis\xF5es de cr\xE9dito, fraudes e aquisi\xE7\xE3o de clientes\
-    \ \u2013 acaba de levantar uma rodada que vai financiar a evolu\xE7\xE3o de sua\
-    \ tecnologia e esfor\xE7os comerciais. A capta\xE7\xE3o de US$ 6 milh\xF5es \u2013\
-    \ R$ 35 milh\xF5es ao c\xE2mbio de hoje \u2013 foi liderada pela NXTP, um fundo\
-    \ argentino de venture capital, e teve a participa\xE7\xE3o da ClockTower Ventures,\
-    \ Credit Saison, Vivo Ventures, Endeavor e&nbsp;Citrino.&nbsp;"
-  image: https://braziljournal.com/wp-content/uploads/2022/06/cropped-favicon-512-512.png
-  path: https://braziljournal.com/avra-faz-rodada-para-escalar-sua-ai-para-pmes
-  title: Avra faz rodada para escalar sua AI para PMEs
-- author: Market Makers
+- author: Klement on Investing
   categories: &id002
+  - Macro
+  - Newsletters
+  date: '2026-11-26T10:02:08+00:00'
+  description: Yesterday, I was invited to speak to Wilfred Frost on the Master Investor
+    podcast about why I am so bearish right now on stocks and the entire AI bubble
+    thing.
+  image: https://substackcdn.com/image/fetch/$s_!9TYX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fpodcast-episode_1000804121843.jpg
+  path: https://klementoninvesting.substack.com/p/klement-on-master-investor-podcast
+  title: Klement on Master Investor podcast
+- author: Klement on Investing
+  categories: *id002
+  date: '2026-11-26T07:00:49+00:00'
+  description: Jason Hsu of Research Affiliates and Rayliant Advisors is an old acquaintance
+    of mine, so he hopefully won&#8217;t object to me stealing the title of his research
+    note. But I think it is a great note that addresses the question of whether the
+    index weight of Chinese A-Shares (c.0.4% in the MSCI AC World and c.4% in the
+    MSCI Emerging Markets) should be higher. After all, MSCI includes A-Shares only
+    at 20% of their free float market cap to reflect liquidity constraints in the
+    market.
+  image: https://substack-post-media.s3.amazonaws.com/public/images/cce2d952-fe24-4adb-bf07-fd9bf267a372_640x427.jpeg
+  path: https://klementoninvesting.substack.com/p/should-you-have-more-china-in-your
+  title: Should you have more China in your portfolio?
+- author: Market Makers
+  categories: &id003
   - Podcasts
   date: '2026-11-26T00:00:00+00:00'
   description: "Voc\xEA passou anos construindo seu patrim\xF4nio. Mas ser\xE1 que\
@@ -494,7 +516,7 @@
   path: https://open.spotify.com/episode/7tO7V8ZYRnzgWtQUeH3GGg
   title: "Jensen Huang\u2019s China problem"
 - author: Marques Brownlee
-  categories: &id004
+  categories: &id005
   - Tech
   - Youtube
   date: '2026-11-25T18:32:40+00:00'
@@ -505,8 +527,19 @@
   image: https://i2.ytimg.com/vi/-Cd_JmKG1SM/hqdefault.jpg
   path: https://www.youtube.com/watch?v=-Cd_JmKG1SM
   title: I've Been Keeping This A Secret
+- author: Stay-At-Home Macro (SAHM)
+  categories: &id007
+  - Macro
+  - Newsletters
+  date: '2026-11-25T15:51:46+00:00'
+  description: The Fed's John Williams explained this week why rates are rising, mixing
+    in the Chair's own words. The next step is finding common ground on when the work
+    is done.
+  image: https://substackcdn.com/image/fetch/$s_!c6oP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9ba7bd97-cd9b-48c3-9299-e69374ba7f76_1024x684.jpeg
+  path: https://stayathomemacro.substack.com/p/work-to-do
+  title: Work to Do
 - author: CFA Institute Research and Policy Center
-  categories: &id003
+  categories: &id004
   - CFA
   date: '2026-11-25T12:00:00+00:00'
   description: ''
@@ -514,7 +547,7 @@
   path: https://rpc.cfainstitute.org/blogs/enterprising-investor/2026/how-the-tpa-is-changing-alternative-investments
   title: How the Total Portfolio Approach Is Changing Alternative Investments
 - author: Market Makers
-  categories: *id002
+  categories: *id003
   date: '2026-11-25T00:00:00+00:00'
   description: "Por que o Brasil arrecada tanto, gasta tanto, paga juros t\xE3o altos\
     \ e, mesmo assim, n\xE3o consegue crescer?Existe uma armadilha nas contas p\xFA\
@@ -555,7 +588,7 @@
   path: https://open.spotify.com/episode/3ZsrKXGFhL2iDUgnXk51rT
   title: "#439 | O PLANO DE R$ 1 TRILH\xC3O PARA CONSERTAR DE VEZ O BRASIL"
 - author: CFA Institute Research and Policy Center
-  categories: *id003
+  categories: *id004
   date: '2026-11-24T12:00:00+00:00'
   description: ''
   image: null
@@ -582,7 +615,7 @@
   path: https://open.spotify.com/episode/5iLeJVuQFkTUVqx8ZwM242
   title: '2026: The Year Credit Markets Rewired'
 - author: Marques Brownlee
-  categories: *id004
+  categories: *id005
   date: '2026-11-23T21:10:51+00:00'
   description: 'Last video from this studio. Ever. Next up: A fresh start
 
@@ -607,7 +640,7 @@
   path: https://www.youtube.com/watch?v=cc5C8hRblBY
   title: I'm Starting Over
 - author: ArjanCodes
-  categories: &id005
+  categories: &id006
   - Tech
   - Code
   - Youtube
@@ -628,19 +661,6 @@
   image: https://i1.ytimg.com/vi/xoBm-KUZwHs/hqdefault.jpg
   path: https://www.youtube.com/watch?v=xoBm-KUZwHs
   title: How to Stay in Control When AI Writes Your Code
-- author: The Psychology of Money with Morgan Housel
-  categories:
-  - Podcasts
-  date: '2026-11-20T00:00:00+00:00'
-  description: "Plus, risk is what you don't see, a balanced life, and telling good\
-    \ stories. This episode is brought to you by State Street Investment Management\u2019\
-    s Sector ETFs. To learn more, visit StateStreet.com/SectorETFs. Disclosure: Before\
-    \ investing consider the funds\u2019 investment objectives, risks, charges andexpenses.\
-    \ Visit statestreet.com/im for a prospectus containing this and other information.\
-    \ Read it carefully."
-  image: https://i.scdn.co/image/ab6765630000ba8a54b46478969078f1a3d72e72
-  path: https://open.spotify.com/episode/2k6N6IjxM7Msu2yWqWIYGz
-  title: When an Opportunity Becomes a Liability (Housing and Tech)
 - author: Flirting with Models
   categories:
   - Podcasts
@@ -665,7 +685,7 @@
   title: "Richard Falk-Wallace \u2013\_Risk Models for the Front Office with Arcana\
     \ (S8E1)"
 - author: ArjanCodes
-  categories: *id005
+  categories: *id006
   date: '2026-11-13T16:00:38+00:00'
   description: "\U0001F4A1 Learn how to design great software in 7 steps: https://arjan.codes/designguide.\n\
     \nFunctional programming isn't just about `map()`, `filter()`, and avoiding classes.\
@@ -686,7 +706,7 @@
   path: https://www.youtube.com/watch?v=bcdZlYPn3BA
   title: Functional Programming Will Make You a Better Python Developer
 - author: The Overshoot
-  categories: &id006
+  categories: &id008
   - Macro
   - Newsletters
   date: '2026-11-12T09:06:44+00:00'
@@ -696,8 +716,16 @@
   image: https://substackcdn.com/image/fetch/$s_!g5C3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73fdfc27-e42a-4580-a5dc-b30ebf1a28d4_3201x2845.png
   path: https://theovershoot.co/p/the-midterms-message-for-the-fed
   title: "The Midterms\u2019 Message for the Fed: Hike"
+- author: Stay-At-Home Macro (SAHM)
+  categories: *id007
+  date: '2026-11-08T23:27:01+00:00'
+  description: AI can do the tasks. The mission still needs people, especially young
+    ones.
+  image: https://substackcdn.com/image/fetch/$s_!Puld!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6783cd4a-683a-4941-a6d7-bc38bddc10dd_960x640.png
+  path: https://stayathomemacro.substack.com/p/ode-to-the-juniors
+  title: Ode to the Juniors
 - author: The Overshoot
-  categories: *id006
+  categories: *id008
   date: '2026-11-03T08:51:58+00:00'
   description: The labs are becoming hyperscalers, imports are continuing to surge,
     and investment further up the supply chain is rising in response to the tight
@@ -725,7 +753,7 @@
   path: https://libertystreeteconomics.newyorkfed.org/2026/11/how-do-banking-supervisors-deal-with-failing-banks/
   title: How Do Banking Supervisors Deal with Failing Banks?
 - author: Apricitas Economics
-  categories: &id007
+  categories: &id009
   - Macro
   - Newsletters
   date: '2026-10-25T17:30:53+00:00'
@@ -735,7 +763,7 @@
   path: https://www.apricitas.io/p/how-canada-is-decoupling-from-the
   title: How Canada is Decoupling From the US
 - author: Apricitas Economics
-  categories: *id007
+  categories: *id009
   date: '2026-09-27T14:01:59+00:00'
   description: America is Losing Hundreds of Thousands of Jobs in Media, Film & the
     Arts. How Much is AI to Blame?
@@ -743,7 +771,7 @@
   path: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class
   title: AI and the Fall? of the Creative Class
 - author: The Journal.
-  categories: &id008
+  categories: &id010
   - Podcasts
   date: '2025-08-14T00:00:00+00:00'
   description: "Derek Mobley spent years applying for jobs online after he got laid\
@@ -759,7 +787,7 @@
   path: https://open.spotify.com/episode/6lE8ZwIJhqUQujh8xGQyPv
   title: Is an Algorithm Blocking Your Job Search? One Man Is Trying to Find Out.
 - author: The Journal.
-  categories: *id008
+  categories: *id010
   date: '2025-08-13T00:00:00+00:00'
   description: "President Trump has called for the resignation of Intel\u2019s CEO,\
     \ Lip-Bu Tan. Tan played a key role in building up China\u2019s chip industry,\
